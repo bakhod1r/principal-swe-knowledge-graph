@@ -1,12 +1,9 @@
 ---
-title: for range
+title: "for range"
 tags:
   - golang
   - basics
-  - control-flow
-  - loops
-  - iteration
-parent: "[[Loops]]"
+parent: "[[Loops & Iteration]]"
 ---
 
 # for range
@@ -22,4 +19,5 @@ parent: "[[Loops]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Loops]]
+- ⬆️ Parent: [[Loops & Iteration]]
+- 📚 Module: [[Language Basics]]

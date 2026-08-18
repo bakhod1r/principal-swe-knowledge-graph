@@ -1,0 +1,23 @@
+---
+title: "GMP Scheduler Implementation (proc.go)"
+tags:
+  - golang
+  - runtime
+parent: "[[Subsystems Internals]]"
+---
+
+# GMP Scheduler Implementation (proc.go)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Subsystems Internals]]
+- 📚 Module: [[Runtime & Internals]]

@@ -1,11 +1,9 @@
 ---
-title: Anonymous Functions
+title: "Anonymous Functions"
 tags:
   - golang
   - basics
-  - functions
-  - closures
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Anonymous Functions
@@ -21,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

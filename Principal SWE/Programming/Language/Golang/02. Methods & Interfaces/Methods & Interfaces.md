@@ -2,68 +2,76 @@
 title: Methods & Interfaces
 tags:
   - golang
-  - methods
-  - interfaces
-  - oop
-  - polymorphism
+  - methods-and-interfaces
   - principal-swe
 parent: "[[Golang]]"
 ---
 
-# 🧩 Go Methods & Interfaces
+# 🧩 Methods & Interfaces
 
-Go achieves polymorphism and composition through **implicit interface satisfaction** and **method sets** rather than traditional class inheritance.
+Methods vs Functions, Receivers, Interface Basics, Empty Interfaces (any), Embedding, Type Assertions, Type Switch, and iface/eface Internals.
 
 ```text
 Methods & Interfaces
 │
-├── [[01. Methods vs Functions]]
-├── [[02. Pointer Receivers]]
-├── [[03. Value Receivers]]
-├── [[04. Interfaces Basics]]
-├── [[05. Empty Interfaces (any)]]
-├── [[06. Embedding Interfaces]]
-├── [[07. Type Assertions]]
-├── [[08. Type Switch]]
-├── [[09. Method Sets Deep Dive]]
-├── [[10. Interface Internals (iface & eface)]]
-├── [[11. Method Dispatch & itab]]
-├── [[12. Common Standard Library Interfaces]]
-├── [[13. Interface Best Practices]]
-├── [[14. Interface Anti-Patterns]]
-├── [[15. Method Values and Expressions]]
-├── [[16. Methods on Defined Types]]
-├── [[17. Sealed Interfaces (Unexported Methods)]]
-├── [[18. Cross-Package Methods & Rules]]
-└── [[19. Struct Method Promotion]]
+├── [[Methods & Receivers|01. Methods & Receivers]]
+│   ├── [[Methods vs Functions]]
+│   ├── [[Pointer Receivers]]
+│   ├── [[Value Receivers]]
+│   ├── [[Receiver Choice Heuristics]]
+│   ├── [[Method Sets]]
+│   ├── [[Method Values and Expressions]]
+│   ├── [[Methods on Defined Types]]
+│   ├── [[Cross-Package Method Rules]]
+│   └── [[Struct Method Promotion]]
+├── [[Interfaces & Polymorphism|02. Interfaces & Polymorphism]]
+│   ├── [[Interfaces Basics]]
+│   ├── [[Empty Interfaces (any)]]
+│   ├── [[Embedding Interfaces]]
+│   ├── [[Type Assertions]]
+│   ├── [[Type Switch]]
+│   ├── [[Common Standard Library Interfaces]]
+│   └── [[Sealed Interfaces]]
+└── [[Runtime Internals & Architecture|03. Runtime Internals & Architecture]]
+│   ├── [[iface and eface Structs]]
+│   ├── [[itab and Dynamic Dispatch]]
+│   ├── [[Interface Allocation Cost]]
+│   ├── [[Interface Best Practices]]
+│   └── [[Interface Anti-Patterns]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Methods vs Functions|Methods vs Functions]]
-### 2. [[02. Pointer Receivers|Pointer Receivers]]
-### 3. [[03. Value Receivers|Value Receivers]]
-### 4. [[04. Interfaces Basics|Interfaces Basics]]
-### 5. [[05. Empty Interfaces (any)|Empty Interfaces (any)]]
-### 6. [[06. Embedding Interfaces|Embedding Interfaces]]
-### 7. [[07. Type Assertions|Type Assertions]]
-### 8. [[08. Type Switch|Type Switch]]
-### 9. [[09. Method Sets Deep Dive|Method Sets Deep Dive]]
-### 10. [[10. Interface Internals (iface & eface)|Interface Internals (iface & eface)]]
-### 11. [[11. Method Dispatch & itab|Method Dispatch & itab]]
-### 12. [[12. Common Standard Library Interfaces|Common Standard Library Interfaces]]
-### 13. [[13. Interface Best Practices|Interface Best Practices]]
-### 14. [[14. Interface Anti-Patterns|Interface Anti-Patterns]]
-### 15. [[15. Method Values and Expressions|Method Values and Expressions]]
-### 16. [[16. Methods on Defined Types|Methods on Defined Types]]
-### 17. [[17. Sealed Interfaces (Unexported Methods)|Sealed Interfaces (Unexported Methods)]]
-### 18. [[18. Cross-Package Methods & Rules|Cross-Package Methods & Rules]]
-### 19. [[19. Struct Method Promotion|Struct Method Promotion]]
+### 1. 📂 [[Methods & Receivers|01. Methods & Receivers]]
+- [[Methods vs Functions]] — Comparison of pure functions vs methods with receivers.
+- [[Pointer Receivers]] — Mutating state, avoiding copying large structs, consistency rules.
+- [[Value Receivers]] — Immutability, value semantics, copy overhead considerations.
+- [[Receiver Choice Heuristics]] — Guidelines on when to choose pointer vs value receiver.
+- [[Method Sets]] — Rules governing which methods belong to T and *T.
+- [[Method Values and Expressions]] — Treating methods as first-class functions (T.Method vs instance.Method).
+- [[Methods on Defined Types]] — Attaching methods to non-struct defined types (type MyInt int).
+- [[Cross-Package Method Rules]] — Receiver type locality rules (cannot define methods on foreign types).
+- [[Struct Method Promotion]] — Method inheritance-like behavior through struct embedding.
+### 2. 📂 [[Interfaces & Polymorphism|02. Interfaces & Polymorphism]]
+- [[Interfaces Basics]] — Implicit satisfaction, single-method interface design philosophy.
+- [[Empty Interfaces (any)]] — Working with unknown types, type safety considerations, boxing cost.
+- [[Embedding Interfaces]] — Interface composition (io.ReadWriter = io.Reader + io.Writer).
+- [[Type Assertions]] — Extracting concrete types from interfaces (x.(T) and comma-ok idiom).
+- [[Type Switch]] — Type-based dispatching across multiple interface implementors.
+- [[Common Standard Library Interfaces]] — Core contracts: io.Reader, io.Writer, fmt.Stringer, error, sort.Interface.
+- [[Sealed Interfaces]] — Restricting implementation to package boundaries via unexported method tags.
+### 3. 📂 [[Runtime Internals & Architecture|03. Runtime Internals & Architecture]]
+- [[iface and eface Structs]] — Two-word structure: _type/itab pointer + data pointer.
+- [[itab and Dynamic Dispatch]] — Virtual method table construction, caching, and dispatch cost.
+- [[Interface Allocation Cost]] — When assigning a concrete value to an interface causes a heap allocation.
+- [[Interface Best Practices]] — Accept interfaces, return structs; small interfaces; consumer-defined interfaces.
+- [[Interface Anti-Patterns]] — Premature abstraction, interface pollution, returning interfaces.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
+- 💻 Base: `Programming`
 - 🎓 Root: [[Principal SWE]]

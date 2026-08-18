@@ -14,74 +14,56 @@ Deep-dive into essential Go standard library packages: io, os, net/http, encodin
 ```text
 Standard Library Mastery
 │
-├── [[01. Io And File Handling]]
-├── [[02. Flag]]
-├── [[03. Time]]
-├── [[04. Encoding JSON]]
-├── [[05. Os]]
-├── [[06. Bufio]]
-├── [[07. Slog]]
-├── [[08. Regexp]]
-├── [[09. Go Embed]]
-├── [[10. Net]]
-├── [[11. Net HTTP Internals]]
-├── [[12. Encoding]]
-├── [[13. Crypto]]
-├── [[14. Io Fs]]
-├── [[15. Templates]]
-├── [[16. Sort Slices Maps]]
-├── [[17. Container]]
-├── [[18. Fmt]]
-├── [[19. Strings Bytes]]
-├── [[20. Strconv]]
-└── [[21. Path Filepath]]
+├── [[I-O, OS & System|01. I-O, OS & System]]
+│   ├── [[io Package (Reader, Writer, Closer)]]
+│   ├── [[bufio Package]]
+│   ├── [[os Package]]
+│   ├── [[path-filepath Package]]
+│   ├── [[flag Package]]
+│   └── [[go:embed Directive]]
+├── [[Networking & Serialization|02. Networking & Serialization]]
+│   ├── [[net Package]]
+│   ├── [[net-http Server Lifecycle]]
+│   ├── [[net-http Client & Transport]]
+│   ├── [[encoding-json]]
+│   ├── [[time Package]]
+│   └── [[regexp Package]]
+└── [[Observability, Security & Persistence|03. Observability, Security & Persistence]]
+│   ├── [[log-slog (Structured Logging)]]
+│   ├── [[database-sql Connection Pool]]
+│   ├── [[database-sql Transactions & Queries]]
+│   ├── [[crypto-tls & Certificates]]
+│   ├── [[crypto Cryptography Primitives]]
+│   ├── [[reflect Laws of Reflection]]
+│   └── [[unsafe Zero-Copy Operations]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Io And File Handling|Io And File Handling]]
-
-### 2. [[02. Flag|Flag]]
-
-### 3. [[03. Time|Time]]
-
-### 4. [[04. Encoding JSON|Encoding JSON]]
-
-### 5. [[05. Os|Os]]
-
-### 6. [[06. Bufio|Bufio]]
-
-### 7. [[07. Slog|Slog]]
-
-### 8. [[08. Regexp|Regexp]]
-
-### 9. [[09. Go Embed|Go Embed]]
-
-### 10. [[10. Net|Net]]
-
-### 11. [[11. Net HTTP Internals|Net HTTP Internals]]
-
-### 12. [[12. Encoding|Encoding]]
-
-### 13. [[13. Crypto|Crypto]]
-
-### 14. [[14. Io Fs|Io Fs]]
-
-### 15. [[15. Templates|Templates]]
-
-### 16. [[16. Sort Slices Maps|Sort Slices Maps]]
-
-### 17. [[17. Container|Container]]
-
-### 18. [[18. Fmt|Fmt]]
-
-### 19. [[19. Strings Bytes|Strings Bytes]]
-
-### 20. [[20. Strconv|Strconv]]
-
-### 21. [[21. Path Filepath|Path Filepath]]
+### 1. 📂 [[I-O, OS & System|01. I-O, OS & System]]
+- [[io Package (Reader, Writer, Closer)]] — Streaming abstractions, io.Copy, io.Pipe, io.MultiReader, io.TeeReader.
+- [[bufio Package]] — bufio.Reader, bufio.Writer, bufio.Scanner for high-throughput buffered stream processing.
+- [[os Package]] — Environment variables, process management, POSIX signal handling, exit codes, os.File.
+- [[path-filepath Package]] — Cross-platform file path manipulation, filepath.Walk, filepath.Clean.
+- [[flag Package]] — Command-line argument parsing and custom flag value types.
+- [[go:embed Directive]] — Embedding static files, templates, and directory trees directly into binaries.
+### 2. 📂 [[Networking & Serialization|02. Networking & Serialization]]
+- [[net Package]] — net.Dial, net.Listen, raw TCP/UDP socket programming, DNS resolution, connection deadlines.
+- [[net-http Server Lifecycle]] — http.Server, http.Handler, http.ServeMux, middleware chaining, timeouts.
+- [[net-http Client & Transport]] — http.Client, http.Transport connection pooling, idle connections, RoundTripper.
+- [[encoding-json]] — Marshal, Unmarshal, struct tags, custom JSON Marshaler/Unmarshaler, stream decoders.
+- [[time Package]] — time.Time monotonic vs wall clock, Timers, Tickers, Duration math, time zones.
+- [[regexp Package]] — Regular expression matching, compiling (regexp.MustCompile), and performance considerations.
+### 3. 📂 [[Observability, Security & Persistence|03. Observability, Security & Persistence]]
+- [[log-slog (Structured Logging)]] — log/slog Logger, JSON/Text Handlers, Level management, Attributes, Groups.
+- [[database-sql Connection Pool]] — sql.DB connection lifecycle, SetMaxOpenConns, SetMaxIdleConns, connection recycling.
+- [[database-sql Transactions & Queries]] — Prepared statements, QueryRow, Exec, transaction isolation, Context cancellation.
+- [[crypto-tls & Certificates]] — crypto/tls, mutual TLS (mTLS), certificate verification, TLS 1.3 cipher suites.
+- [[crypto Cryptography Primitives]] — crypto/rand secure randomness, AES-GCM encryption, SHA-256 hashing.
+- [[reflect Laws of Reflection]] — reflect.Type, reflect.Value, Interface to Reflection, Settability, Struct inspection.
+- [[unsafe Zero-Copy Operations]] — unsafe.Pointer, unsafe.Slice, unsafe.String zero-copy byte/string conversions.
 
 ---
 

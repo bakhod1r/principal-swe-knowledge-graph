@@ -14,32 +14,36 @@ CPU, heap, mutex, and block profiling with pprof, execution tracing with go tool
 ```text
 Performance Engineering & Profiling
 │
-├── [[01. Cpu Profiling]]
-├── [[02. Memory Profiling]]
-├── [[03. Mutex Block Profiling]]
-├── [[04. Benchmarking Strategy]]
-├── [[05. Optimization Workflow]]
-├── [[06. Pprof Deep]]
-└── [[07. Trace Tool]]
+├── [[Profiling Subsystems|01. Profiling Subsystems]]
+│   ├── [[CPU Profiling & Flamegraphs]]
+│   ├── [[Memory & Heap Profiling]]
+│   ├── [[Mutex Contention Profiling]]
+│   ├── [[Block Profiling]]
+│   └── [[pprof Interactive Visualizer]]
+└── [[Tracing & High-Performance Patterns|02. Tracing & High-Performance Patterns]]
+│   ├── [[Execution Tracer (go tool trace)]]
+│   ├── [[Benchmarking Methodology & Isolation]]
+│   ├── [[Struct Padding & Field Alignment]]
+│   ├── [[Zero-Allocation Buffer Pools (sync.Pool)]]
+│   └── [[Zero-Copy String and Byte Slicing]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Cpu Profiling|Cpu Profiling]]
-
-### 2. [[02. Memory Profiling|Memory Profiling]]
-
-### 3. [[03. Mutex Block Profiling|Mutex Block Profiling]]
-
-### 4. [[04. Benchmarking Strategy|Benchmarking Strategy]]
-
-### 5. [[05. Optimization Workflow|Optimization Workflow]]
-
-### 6. [[06. Pprof Deep|Pprof Deep]]
-
-### 7. [[07. Trace Tool|Trace Tool]]
+### 1. 📂 [[Profiling Subsystems|01. Profiling Subsystems]]
+- [[CPU Profiling & Flamegraphs]] — Sampling CPU profiling (runtime/pprof, net/http/pprof), interpreting Flamegraphs and hot paths.
+- [[Memory & Heap Profiling]] — inuse_space, inuse_objects, alloc_space, alloc_objects, diagnosing memory leaks.
+- [[Mutex Contention Profiling]] — runtime.SetMutexProfileFraction, measuring lock acquisition delay and contention hotspots.
+- [[Block Profiling]] — runtime.SetBlockProfileRate, identifying goroutines blocked on channels and network I/O.
+- [[pprof Interactive Visualizer]] — pprof CLI commands (top, list, web, peek, disasm), web UI visualization.
+### 2. 📂 [[Tracing & High-Performance Patterns|02. Tracing & High-Performance Patterns]]
+- [[Execution Tracer (go tool trace)]] — Visualizing GC pauses, scheduler latency, network blocking, and goroutine execution timelines.
+- [[Benchmarking Methodology & Isolation]] — Statistically valid benchmarking using benchstat, disabling CPU throttling, isolated CPU pinning.
+- [[Struct Padding & Field Alignment]] — Optimizing struct memory layout by ordering fields from largest to smallest to eliminate padding.
+- [[Zero-Allocation Buffer Pools (sync.Pool)]] — Reusing byte buffers and structs to eliminate GC allocation pressure under load.
+- [[Zero-Copy String and Byte Slicing]] — Avoiding memory duplication in high-throughput network and serialization pipelines.
 
 ---
 

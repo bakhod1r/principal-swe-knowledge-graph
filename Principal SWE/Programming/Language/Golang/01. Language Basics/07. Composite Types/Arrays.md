@@ -1,11 +1,8 @@
 ---
-title: Arrays
+title: "Arrays"
 tags:
   - golang
   - basics
-  - types
-  - composite
-  - arrays
 parent: "[[Composite Types]]"
 ---
 
@@ -23,3 +20,4 @@ parent: "[[Composite Types]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Composite Types]]
+- 📚 Module: [[Language Basics]]

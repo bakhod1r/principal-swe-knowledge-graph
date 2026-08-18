@@ -1,14 +1,12 @@
 ---
-title: "nil Pointer Dereference & Prevention"
+title: "nil Pointer Dereference"
 tags:
   - golang
   - basics
-  - pointers
-  - gotchas
-parent: "[[Pointers]]"
+parent: "[[Pointers & Memory]]"
 ---
 
-# nil Pointer Dereference & Prevention
+# nil Pointer Dereference
 
 ## 1. Definition
 
@@ -21,4 +19,5 @@ parent: "[[Pointers]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Pointers]]
+- ⬆️ Parent: [[Pointers & Memory]]
+- 📚 Module: [[Language Basics]]

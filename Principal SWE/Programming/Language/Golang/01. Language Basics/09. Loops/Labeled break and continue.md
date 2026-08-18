@@ -3,9 +3,7 @@ title: "Labeled break and continue"
 tags:
   - golang
   - basics
-  - control-flow
-  - loops
-parent: "[[Loops]]"
+parent: "[[Loops & Iteration]]"
 ---
 
 # Labeled break and continue
@@ -21,4 +19,5 @@ parent: "[[Loops]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Loops]]
+- ⬆️ Parent: [[Loops & Iteration]]
+- 📚 Module: [[Language Basics]]

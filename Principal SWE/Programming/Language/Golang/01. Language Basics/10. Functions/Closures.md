@@ -1,11 +1,9 @@
 ---
-title: Closures
+title: "Closures"
 tags:
   - golang
   - basics
-  - functions
-  - closures
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Closures
@@ -21,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

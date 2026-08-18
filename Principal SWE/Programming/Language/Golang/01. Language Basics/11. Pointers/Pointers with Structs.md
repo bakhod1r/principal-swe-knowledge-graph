@@ -1,11 +1,9 @@
 ---
-title: Pointers with Structs
+title: "Pointers with Structs"
 tags:
   - golang
   - basics
-  - pointers
-  - structs
-parent: "[[Pointers]]"
+parent: "[[Pointers & Memory]]"
 ---
 
 # Pointers with Structs
@@ -21,4 +19,5 @@ parent: "[[Pointers]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Pointers]]
+- ⬆️ Parent: [[Pointers & Memory]]
+- 📚 Module: [[Language Basics]]

@@ -14,38 +14,52 @@ Go modules, package boundaries, standard project layout, internal packages, mult
 ```text
 Code Organization & Architecture
 │
-├── [[01. Modules And Dependencies]]
-├── [[02. Packages]]
-├── [[03. Project Layout]]
-├── [[04. Internal Packages]]
-├── [[05. Workspaces]]
-├── [[06. Dependency Injection]]
-├── [[07. Architecture Patterns]]
-├── [[08. Module Versioning]]
-└── [[09. Private Modules]]
+├── [[Modules & Packages|01. Modules & Packages]]
+│   ├── [[Modules & go.mod Directives]]
+│   ├── [[go.sum Checksum Verification]]
+│   ├── [[Packages & Imports]]
+│   ├── [[Package Naming Conventions]]
+│   ├── [[Module Versioning (SemVer)]]
+│   └── [[Private Modules & Enterprise Setup]]
+├── [[Project Layout & Boundaries|02. Project Layout & Boundaries]]
+│   ├── [[Standard Go Project Layout]]
+│   ├── [[internal/ Visibility Enforcement]]
+│   ├── [[Workspaces (go.work)]]
+│   ├── [[Circular Dependency Prevention]]
+│   └── [[Package Cohesion & Coupling]]
+└── [[Architecture & Dependency Injection|03. Architecture & Dependency Injection]]
+│   ├── [[Clean Architecture in Go]]
+│   ├── [[Hexagonal Architecture (Ports & Adapters)]]
+│   ├── [[Domain-Driven Design (DDD) in Go]]
+│   ├── [[Dependency Injection Principles]]
+│   ├── [[Wire Compile-Time DI]]
+│   └── [[Fx Runtime DI]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Modules And Dependencies|Modules And Dependencies]]
-
-### 2. [[02. Packages|Packages]]
-
-### 3. [[03. Project Layout|Project Layout]]
-
-### 4. [[04. Internal Packages|Internal Packages]]
-
-### 5. [[05. Workspaces|Workspaces]]
-
-### 6. [[06. Dependency Injection|Dependency Injection]]
-
-### 7. [[07. Architecture Patterns|Architecture Patterns]]
-
-### 8. [[08. Module Versioning|Module Versioning]]
-
-### 9. [[09. Private Modules|Private Modules]]
+### 1. 📂 [[Modules & Packages|01. Modules & Packages]]
+- [[Modules & go.mod Directives]] — require, replace, exclude, retract directives and toolchain maintenance.
+- [[go.sum Checksum Verification]] — Cryptographic hashing and tamper detection in module downloads.
+- [[Packages & Imports]] — Package namespace rules, single package per directory, dot imports, blank imports.
+- [[Package Naming Conventions]] — Short, concise, lowercase, singular package names without underscores.
+- [[Module Versioning (SemVer)]] — Semantic Versioning rules and v2+ major version import path suffixes.
+- [[Private Modules & Enterprise Setup]] — GOPRIVATE, authentication, enterprise git repository integration.
+### 2. 📂 [[Project Layout & Boundaries|02. Project Layout & Boundaries]]
+- [[Standard Go Project Layout]] — cmd/, internal/, pkg/, api/ directory layout conventions.
+- [[internal/ Visibility Enforcement]] — Compiler-enforced access control preventing unauthorized external imports.
+- [[Workspaces (go.work)]] — Multi-module local development without modifying go.mod replace directives.
+- [[Circular Dependency Prevention]] — Avoiding import cycles through interface abstraction and layered architecture.
+- [[Package Cohesion & Coupling]] — Designing focused, loosely-coupled packages.
+### 3. 📂 [[Architecture & Dependency Injection|03. Architecture & Dependency Injection]]
+- [[Clean Architecture in Go]] — Separating domain entities, use cases, controllers, and database adapters.
+- [[Hexagonal Architecture (Ports & Adapters)]] — Defining domain ports via interfaces and adapter implementations.
+- [[Domain-Driven Design (DDD) in Go]] — Entities, Value Objects, Aggregates, and Repositories in Go.
+- [[Dependency Injection Principles]] — Constructor injection vs functional options injection.
+- [[Wire Compile-Time DI]] — Google Wire automated compile-time dependency injection code generator.
+- [[Fx Runtime DI]] — Uber Fx reflection-based runtime dependency injection framework.
 
 ---
 

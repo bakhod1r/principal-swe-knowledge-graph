@@ -1,12 +1,9 @@
 ---
-title: Iterating Maps
+title: "Iterating Maps"
 tags:
   - golang
   - basics
-  - control-flow
-  - loops
-  - maps
-parent: "[[Loops]]"
+parent: "[[Loops & Iteration]]"
 ---
 
 # Iterating Maps
@@ -22,4 +19,5 @@ parent: "[[Loops]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Loops]]
+- ⬆️ Parent: [[Loops & Iteration]]
+- 📚 Module: [[Language Basics]]

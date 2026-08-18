@@ -14,29 +14,30 @@ Architectural code walkthroughs of production-proven Go packages: net/http, sync
 ```text
 Go Standard Library Source Reading
 │
-├── [[01. Net HTTP Source]]
-├── [[02. Sync Source]]
-├── [[03. Runtime Source]]
-├── [[04. Context Source]]
-├── [[05. Database Sql Source]]
-└── [[06. Encoding JSON Source]]
+├── [[Core & Concurrency Source|01. Core & Concurrency Source]]
+│   ├── [[sync.Mutex Source Walkthrough]]
+│   ├── [[sync.WaitGroup and sync.Once Source Walkthrough]]
+│   ├── [[context.Context Tree Source Walkthrough]]
+│   └── [[Channel Implementation Source (chan.go)]]
+└── [[Networking & Data Source|02. Networking & Data Source]]
+│   ├── [[net-http Server.Serve & Transport Source]]
+│   ├── [[database-sql Connection Pool Source]]
+│   └── [[encoding-json Scanner & Encoder Source]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Net HTTP Source|Net HTTP Source]]
-
-### 2. [[02. Sync Source|Sync Source]]
-
-### 3. [[03. Runtime Source|Runtime Source]]
-
-### 4. [[04. Context Source|Context Source]]
-
-### 5. [[05. Database Sql Source|Database Sql Source]]
-
-### 6. [[06. Encoding JSON Source|Encoding JSON Source]]
+### 1. 📂 [[Core & Concurrency Source|01. Core & Concurrency Source]]
+- [[sync.Mutex Source Walkthrough]] — Dissecting sync.Mutex fast-path/slow-path starvation, normal vs starvation mode.
+- [[sync.WaitGroup and sync.Once Source Walkthrough]] — Atomic state bitpacking in WaitGroup, double-checked atomic Once.
+- [[context.Context Tree Source Walkthrough]] — emptyCtx, cancelCtx tree propagation, timerCtx deadlines, valueCtx lookup.
+- [[Channel Implementation Source (chan.go)]] — makechan, chansend, chanrecv, closechan, direct copy optimizations.
+### 2. 📂 [[Networking & Data Source|02. Networking & Data Source]]
+- [[net-http Server.Serve & Transport Source]] — Server.Serve loop, conn.serve, Transport connection pooling, RoundTripper interface.
+- [[database-sql Connection Pool Source]] — DB connection pool management, driver interface, tx isolation level handling.
+- [[encoding-json Scanner & Encoder Source]] — Reflect-based encoder compilation cache, state machine scanner, stream buffer reuse.
 
 ---
 

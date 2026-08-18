@@ -1,12 +1,9 @@
 ---
-title: Iterating Strings
+title: "Iterating Strings"
 tags:
   - golang
   - basics
-  - control-flow
-  - loops
-  - strings
-parent: "[[Loops]]"
+parent: "[[Loops & Iteration]]"
 ---
 
 # Iterating Strings
@@ -22,4 +19,5 @@ parent: "[[Loops]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Loops]]
+- ⬆️ Parent: [[Loops & Iteration]]
+- 📚 Module: [[Language Basics]]

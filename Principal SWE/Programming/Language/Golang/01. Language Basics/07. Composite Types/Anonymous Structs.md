@@ -3,8 +3,6 @@ title: "Anonymous Structs"
 tags:
   - golang
   - basics
-  - types
-  - structs
 parent: "[[Composite Types]]"
 ---
 
@@ -22,3 +20,4 @@ parent: "[[Composite Types]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Composite Types]]
+- 📚 Module: [[Language Basics]]

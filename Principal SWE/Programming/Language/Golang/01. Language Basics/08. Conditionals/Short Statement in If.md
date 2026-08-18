@@ -1,14 +1,12 @@
 ---
-title: "Short Statement in If (if with init)"
+title: "Short Statement in If"
 tags:
   - golang
   - basics
-  - control-flow
-  - conditionals
 parent: "[[Conditionals]]"
 ---
 
-# Short Statement in If (if with init)
+# Short Statement in If
 
 ## 1. Definition
 
@@ -22,3 +20,4 @@ parent: "[[Conditionals]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Conditionals]]
+- 📚 Module: [[Language Basics]]

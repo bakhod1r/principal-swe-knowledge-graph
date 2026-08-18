@@ -1,0 +1,23 @@
+---
+title: "synctest Experimental Testing Package"
+tags:
+  - golang
+  - modern-go
+parent: "[[Type System & Stdlib Additions]]"
+---
+
+# synctest Experimental Testing Package
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Type System & Stdlib Additions]]
+- 📚 Module: [[Modern Language Features]]

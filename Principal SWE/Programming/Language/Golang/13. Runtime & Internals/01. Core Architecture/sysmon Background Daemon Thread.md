@@ -1,0 +1,23 @@
+---
+title: "sysmon Background Daemon Thread"
+tags:
+  - golang
+  - runtime
+parent: "[[Core Architecture]]"
+---
+
+# sysmon Background Daemon Thread
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Core Architecture]]
+- 📚 Module: [[Runtime & Internals]]

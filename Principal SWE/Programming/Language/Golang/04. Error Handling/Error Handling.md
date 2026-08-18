@@ -3,53 +3,73 @@ title: Error Handling
 tags:
   - golang
   - error-handling
-  - errors
   - principal-swe
 parent: "[[Golang]]"
 ---
 
-# 🚨 Go Error Handling
+# 🚨 Error Handling
 
-Go treats errors as first-class values rather than exceptions. This section covers robust error design, wrapping, inspection, custom types, and error handling patterns.
+Go error handling primitives, error wrapping, error inspection, custom error hierarchies, panic, and recover.
 
 ```text
 Error Handling
 │
-├── [[01. Error Handling Basics]]
-├── [[02. error Interface]]
-├── [[03. errors.New]]
-├── [[04. fmt.Errorf]]
-├── [[05. Wrapping & Unwrapping Errors (%w)]]
-├── [[06. Sentinel Errors]]
-├── [[07. Panic and Recover]]
-├── [[08. Stack Traces & Debugging]]
-├── [[09. errors.Is vs errors.As Deep Dive]]
-├── [[10. Custom Error Types]]
-├── [[11. errors.Join (Multi-Error Handling)]]
-├── [[12. Error Design Best Practices]]
-└── [[13. Handle Errors, Don't Just Check]]
+├── [[Core Primitives|01. Core Primitives]]
+│   ├── [[Errors as First-Class Values]]
+│   ├── [[error Interface Contract]]
+│   ├── [[errors.New]]
+│   ├── [[fmt.Errorf Formatting]]
+│   ├── [[Error String Conventions]]
+│   └── [[nil Error Pitfall]]
+├── [[Wrapping & Inspection|02. Wrapping & Inspection]]
+│   ├── [[Error Wrapping (%w)]]
+│   ├── [[errors.Unwrap]]
+│   ├── [[errors.Is and Custom Is()]]
+│   ├── [[errors.As and Custom As()]]
+│   ├── [[errors.Join (Multi-Error)]]
+│   ├── [[Sentinel Errors]]
+│   └── [[Custom Error Types]]
+└── [[Panic, Recover & Architecture|03. Panic, Recover & Architecture]]
+│   ├── [[panic Semantics]]
+│   ├── [[recover in Deferred Functions]]
+│   ├── [[Goroutine Panic Isolation]]
+│   ├── [[Stack Traces & runtime-debug]]
+│   ├── [[Domain vs Infrastructure Errors]]
+│   ├── [[Error Design Best Practices]]
+│   └── [[Handle Errors, Don't Just Check]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Error Handling Basics|Error Handling Basics]]
-### 2. [[02. error Interface|error Interface]]
-### 3. [[03. errors.New|errors.New]]
-### 4. [[04. fmt.Errorf|fmt.Errorf]]
-### 5. [[05. Wrapping & Unwrapping Errors (%w)|Wrapping & Unwrapping Errors (%w)]]
-### 6. [[06. Sentinel Errors|Sentinel Errors]]
-### 7. [[07. Panic and Recover|Panic and Recover]]
-### 8. [[08. Stack Traces & Debugging|Stack Traces & Debugging]]
-### 9. [[09. errors.Is vs errors.As Deep Dive|errors.Is vs errors.As Deep Dive]]
-### 10. [[10. Custom Error Types|Custom Error Types]]
-### 11. [[11. errors.Join (Multi-Error Handling)|errors.Join (Multi-Error Handling)]]
-### 12. [[12. Error Design Best Practices|Error Design Best Practices]]
-### 13. [[13. Handle Errors, Don't Just Check|Handle Errors, Don't Just Check]]
+### 1. 📂 [[Core Primitives|01. Core Primitives]]
+- [[Errors as First-Class Values]] — Errors as explicit return values, checking if err != nil.
+- [[error Interface Contract]] — The built-in single-method interface contract (Error() string).
+- [[errors.New]] — Creating simple static error values.
+- [[fmt.Errorf Formatting]] — Formatting dynamic error messages with %v, %s, and %d.
+- [[Error String Conventions]] — Lowercase, no trailing punctuation, descriptive message rules.
+- [[nil Error Pitfall]] — Typed nil pointer assigned to error interface causing non-nil interface bug.
+### 2. 📂 [[Wrapping & Inspection|02. Wrapping & Inspection]]
+- [[Error Wrapping (%w)]] — Creating causal error chains with fmt.Errorf and %w verb.
+- [[errors.Unwrap]] — Extracting the underlying wrapped error in an error chain.
+- [[errors.Is and Custom Is()]] — Value equality matching across wrapped error trees.
+- [[errors.As and Custom As()]] — Type-based error matching and extracting target custom errors.
+- [[errors.Join (Multi-Error)]] — Combining multiple independent errors into a single aggregated error.
+- [[Sentinel Errors]] — Exported package-level error constants (io.EOF, sql.ErrNoRows).
+- [[Custom Error Types]] — Implementing custom error structs with structured metadata and context.
+### 3. 📂 [[Panic, Recover & Architecture|03. Panic, Recover & Architecture]]
+- [[panic Semantics]] — Unwinding the goroutine call stack on unrecoverable conditions.
+- [[recover in Deferred Functions]] — Catching runtime panics and restoring program execution safely.
+- [[Goroutine Panic Isolation]] — Panics inside goroutines crash the entire process unless caught locally.
+- [[Stack Traces & runtime-debug]] — Capturing and formatting stack traces for observability.
+- [[Domain vs Infrastructure Errors]] — Separating business logic errors from database/network failures.
+- [[Error Design Best Practices]] — Decorating errors without losing context, avoid string matching errors.
+- [[Handle Errors, Don't Just Check]] — Meaningful error mitigation vs blindly propagating nil errors.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
+- 💻 Base: `Programming`
 - 🎓 Root: [[Principal SWE]]

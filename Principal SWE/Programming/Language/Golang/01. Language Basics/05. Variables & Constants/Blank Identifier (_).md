@@ -3,7 +3,6 @@ title: "Blank Identifier (_)"
 tags:
   - golang
   - basics
-  - variables
 parent: "[[Variables & Constants]]"
 ---
 
@@ -21,3 +20,4 @@ parent: "[[Variables & Constants]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Variables & Constants]]
+- 📚 Module: [[Language Basics]]

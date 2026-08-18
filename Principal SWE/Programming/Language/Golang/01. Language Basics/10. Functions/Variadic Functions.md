@@ -3,8 +3,7 @@ title: "Variadic Functions"
 tags:
   - golang
   - basics
-  - functions
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Variadic Functions
@@ -20,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

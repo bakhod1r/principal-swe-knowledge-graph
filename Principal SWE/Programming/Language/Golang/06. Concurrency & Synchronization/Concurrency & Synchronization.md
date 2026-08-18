@@ -14,89 +14,90 @@ Goroutines, channels (hchan), sync primitives, context cancellation trees, the G
 ```text
 Concurrency & Synchronization
 │
-├── [[00. Introduction]]
-├── [[01. Goroutines]]
-├── [[02. Channels]]
-├── [[03. Sync Package]]
-├── [[04. Context Package]]
-├── [[05. Concurrency Patterns]]
-├── [[06. Errgroup X Sync]]
-├── [[07. Goroutine Lifecycle Leaks]]
-├── [[08. Deadlock Livelock Starvation]]
-├── [[09. Channel Internals]]
-├── [[10. Scheduler Deep Dive]]
-├── [[11. Advanced Channel Patterns]]
-├── [[12. Lock Free Programming]]
-├── [[13. Testing Concurrent Code]]
-├── [[14. Performance Tuning]]
-├── [[15. Concurrency Anti Patterns]]
-├── [[16. Time Based Concurrency]]
-├── [[17. Goroutine Pools 3Rd Party]]
-├── [[18. Production Patterns]]
-├── [[19. Pipeline Production Patterns]]
-├── [[20. Cancellation Deep]]
-├── [[21. Concurrent Data Structures]]
-├── [[22. Memory Ordering Barriers]]
-├── [[23. Concurrency In Stdlib]]
-├── [[24. Primitives Decision Guide]]
-└── [[25. Modern Features]]
+├── [[Goroutines & Fundamentals|01. Goroutines & Fundamentals]]
+│   ├── [[CSP Concurrency Model]]
+│   ├── [[Goroutine Mechanics]]
+│   ├── [[Stack Growth & Segmented Stacks]]
+│   ├── [[Goroutine Lifecycle & States]]
+│   └── [[Goroutine Leaks & Diagnostics]]
+├── [[Channel Architecture|02. Channel Architecture]]
+│   ├── [[Unbuffered Channels]]
+│   ├── [[Buffered Channels]]
+│   ├── [[Channel States & Behaviors]]
+│   ├── [[Channel Internals (hchan struct)]]
+│   └── [[select Multiplexing]]
+├── [[Sync & Context Primitives|03. Sync & Context Primitives]]
+│   ├── [[sync.Mutex (Normal vs Starvation)]]
+│   ├── [[sync.RWMutex]]
+│   ├── [[sync.WaitGroup]]
+│   ├── [[sync.Once]]
+│   ├── [[sync.Pool]]
+│   ├── [[sync.Map]]
+│   ├── [[context.Context Tree]]
+│   ├── [[x-sync-errgroup]]
+│   └── [[Mutex vs Channel Selection]]
+├── [[Concurrency Patterns|04. Concurrency Patterns]]
+│   ├── [[Worker Pools]]
+│   ├── [[Pipelines & Stream Processing]]
+│   ├── [[Fan-In and Fan-Out]]
+│   ├── [[Cancellation & Graceful Shutdown]]
+│   ├── [[Rate Limiting & Token Bucket]]
+│   ├── [[Heartbeats & Supervisors]]
+│   ├── [[Deadlock, Livelock & Starvation]]
+│   └── [[Concurrency Anti-Patterns]]
+└── [[Runtime Scheduler & Internals|05. Runtime Scheduler & Internals]]
+│   ├── [[GMP Model (G, M, P)]]
+│   ├── [[Work Stealing Algorithm]]
+│   ├── [[Sysmon Background Daemon]]
+│   ├── [[Signal-Based Async Preemption (SIGURG)]]
+│   ├── [[Netpoller]]
+│   ├── [[Lock-Free Programming & CAS]]
+│   └── [[GOMAXPROCS Tuning]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 0. [[00. Introduction|Introduction]]
-
-### 1. [[01. Goroutines|Goroutines]]
-
-### 2. [[02. Channels|Channels]]
-
-### 3. [[03. Sync Package|Sync Package]]
-
-### 4. [[04. Context Package|Context Package]]
-
-### 5. [[05. Concurrency Patterns|Concurrency Patterns]]
-
-### 6. [[06. Errgroup X Sync|Errgroup X Sync]]
-
-### 7. [[07. Goroutine Lifecycle Leaks|Goroutine Lifecycle Leaks]]
-
-### 8. [[08. Deadlock Livelock Starvation|Deadlock Livelock Starvation]]
-
-### 9. [[09. Channel Internals|Channel Internals]]
-
-### 10. [[10. Scheduler Deep Dive|Scheduler Deep Dive]]
-
-### 11. [[11. Advanced Channel Patterns|Advanced Channel Patterns]]
-
-### 12. [[12. Lock Free Programming|Lock Free Programming]]
-
-### 13. [[13. Testing Concurrent Code|Testing Concurrent Code]]
-
-### 14. [[14. Performance Tuning|Performance Tuning]]
-
-### 15. [[15. Concurrency Anti Patterns|Concurrency Anti Patterns]]
-
-### 16. [[16. Time Based Concurrency|Time Based Concurrency]]
-
-### 17. [[17. Goroutine Pools 3Rd Party|Goroutine Pools 3Rd Party]]
-
-### 18. [[18. Production Patterns|Production Patterns]]
-
-### 19. [[19. Pipeline Production Patterns|Pipeline Production Patterns]]
-
-### 20. [[20. Cancellation Deep|Cancellation Deep]]
-
-### 21. [[21. Concurrent Data Structures|Concurrent Data Structures]]
-
-### 22. [[22. Memory Ordering Barriers|Memory Ordering Barriers]]
-
-### 23. [[23. Concurrency In Stdlib|Concurrency In Stdlib]]
-
-### 24. [[24. Primitives Decision Guide|Primitives Decision Guide]]
-
-### 25. [[25. Modern Features|Modern Features]]
+### 1. 📂 [[Goroutines & Fundamentals|01. Goroutines & Fundamentals]]
+- [[CSP Concurrency Model]] — Communicating Sequential Processes: Do not communicate by sharing memory; share memory by communicating.
+- [[Goroutine Mechanics]] — Spawning concurrent execution threads with go keyword, 2KB initial stack allocation.
+- [[Stack Growth & Segmented Stacks]] — Contiguous stack growth (2KB to 1GB) and stack copying mechanics.
+- [[Goroutine Lifecycle & States]] — _Gidle, _Grunnable, _Grunning, _Gwaiting, _Gsyscall, _Gdead states.
+- [[Goroutine Leaks & Diagnostics]] — Identifying blocked goroutines, leaked channels, and diagnostic tools (pprof, runtime.NumGoroutine).
+### 2. 📂 [[Channel Architecture|02. Channel Architecture]]
+- [[Unbuffered Channels]] — Synchronous rendezvous signaling with direct stack-to-stack copy optimization.
+- [[Buffered Channels]] — Asynchronous FIFO ring buffer queues with bounded capacity.
+- [[Channel States & Behaviors]] — Send, receive, and close semantics on nil, open, and closed channels.
+- [[Channel Internals (hchan struct)]] — hchan fields: ring buffer, lock, sendq/recvq sudog wait queues.
+- [[select Multiplexing]] — Non-blocking select with default, pseudo-random case evaluation, and selectgo() implementation.
+### 3. 📂 [[Sync & Context Primitives|03. Sync & Context Primitives]]
+- [[sync.Mutex (Normal vs Starvation)]] — Bimodal mutex algorithm: high throughput spin vs fair FIFO handoff.
+- [[sync.RWMutex]] — Reader-writer lock with writer starvation prevention.
+- [[sync.WaitGroup]] — Atomic counter synchronization for coordinating goroutine completion.
+- [[sync.Once]] — Atomic fast-path initialization with double-checked locking.
+- [[sync.Pool]] — Lock-free per-P cache for allocating and reusing short-lived temporary objects.
+- [[sync.Map]] — Concurrent map optimized for append-only keys and disjoint key reads.
+- [[context.Context Tree]] — Cancellation propagation, deadlines, timeouts, and request-scoped values.
+- [[x-sync-errgroup]] — Managing concurrent subtasks with error propagation and context cancellation.
+- [[Mutex vs Channel Selection]] — When to use shared memory synchronization vs message passing.
+### 4. 📂 [[Concurrency Patterns|04. Concurrency Patterns]]
+- [[Worker Pools]] — Bounded concurrency worker pool patterns for throughput and resource control.
+- [[Pipelines & Stream Processing]] — Connecting multi-stage concurrent processing steps through channels.
+- [[Fan-In and Fan-Out]] — Distributing tasks across multiple workers and multiplexing results into a single channel.
+- [[Cancellation & Graceful Shutdown]] — Coordinating graceful process shutdown across long-running background workers.
+- [[Rate Limiting & Token Bucket]] — Time-based rate limiting using time.Ticker and x/time/rate token buckets.
+- [[Heartbeats & Supervisors]] — Liveness monitoring, health check heartbeats, and worker restart loops.
+- [[Deadlock, Livelock & Starvation]] — Detecting and preventing synchronization hazards in concurrent Go programs.
+- [[Concurrency Anti-Patterns]] — Unbounded goroutines, variable capture bugs, blocking sends on unbuffered channels.
+### 5. 📂 [[Runtime Scheduler & Internals|05. Runtime Scheduler & Internals]]
+- [[GMP Model (G, M, P)]] — Goroutines (G), OS Threads (M), Logical Processors (P), and scheduling queues.
+- [[Work Stealing Algorithm]] — O(1) local run queue checking, global run queue starvation check, and random P stealing.
+- [[Sysmon Background Daemon]] — Monitoring blocked syscalls, forcing periodic GC, and triggering preemption.
+- [[Signal-Based Async Preemption (SIGURG)]] — Non-cooperative async signal preemption of tight loops without function calls.
+- [[Netpoller]] — Non-blocking I/O event multiplexing (epoll, kqueue, IOCP) integrated with GMP scheduler.
+- [[Lock-Free Programming & CAS]] — sync/atomic primitives, Compare-And-Swap algorithms, and memory fences.
+- [[GOMAXPROCS Tuning]] — Tuning CPU core allocation and container CPU quota limits (automaxprocs).
 
 ---
 

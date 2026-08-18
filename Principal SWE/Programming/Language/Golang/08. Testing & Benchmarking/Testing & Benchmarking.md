@@ -14,62 +14,48 @@ Unit testing, table-driven tests, mocking, subtests, benchmarks, coverage analys
 ```text
 Testing & Benchmarking
 │
-├── [[01. Testing Basics]]
-├── [[02. Table Driven Tests]]
-├── [[03. Mocks And Stubs]]
-├── [[04. HTTPtest]]
-├── [[05. Benchmarks]]
-├── [[06. Coverage]]
-├── [[07. Subtests]]
-├── [[08. Testmain]]
-├── [[09. Parallel Tests]]
-├── [[10. Test Helpers]]
-├── [[11. Golden Files]]
-├── [[12. Fuzzing]]
-├── [[13. Integration Tests]]
-├── [[14. E2E Tests]]
-├── [[15. Mocking Libraries]]
-├── [[16. Property Based Testing]]
-└── [[17. Benchmark Deep]]
+├── [[Unit Testing & Strategies|01. Unit Testing & Strategies]]
+│   ├── [[Testing Basics]]
+│   ├── [[Table-Driven Tests]]
+│   ├── [[Subtests (t.Run)]]
+│   ├── [[Test Helpers (t.Helper)]]
+│   ├── [[TestMain Function]]
+│   └── [[Parallel Tests (t.Parallel)]]
+├── [[Mocks, HTTP & Integration|02. Mocks, HTTP & Integration]]
+│   ├── [[Interface Mocking & Test Doubles]]
+│   ├── [[httptest Package]]
+│   ├── [[Golden Files Snapshot Testing]]
+│   └── [[Testcontainers in Go]]
+└── [[Benchmarks, Coverage & Fuzzing|03. Benchmarks, Coverage & Fuzzing]]
+│   ├── [[Benchmarks (testing.B)]]
+│   ├── [[benchstat Statistical Analysis]]
+│   ├── [[Coverage Analysis (-cover)]]
+│   ├── [[Fuzz Testing (testing.F)]]
+│   └── [[Race Detector (-race)]]
 ```
 
 ---
 
-## 🗂️ Core Topics
+## 🗂️ Core Categories & Topics
 
-### 1. [[01. Testing Basics|Testing Basics]]
-
-### 2. [[02. Table Driven Tests|Table Driven Tests]]
-
-### 3. [[03. Mocks And Stubs|Mocks And Stubs]]
-
-### 4. [[04. HTTPtest|HTTPtest]]
-
-### 5. [[05. Benchmarks|Benchmarks]]
-
-### 6. [[06. Coverage|Coverage]]
-
-### 7. [[07. Subtests|Subtests]]
-
-### 8. [[08. Testmain|Testmain]]
-
-### 9. [[09. Parallel Tests|Parallel Tests]]
-
-### 10. [[10. Test Helpers|Test Helpers]]
-
-### 11. [[11. Golden Files|Golden Files]]
-
-### 12. [[12. Fuzzing|Fuzzing]]
-
-### 13. [[13. Integration Tests|Integration Tests]]
-
-### 14. [[14. E2E Tests|E2E Tests]]
-
-### 15. [[15. Mocking Libraries|Mocking Libraries]]
-
-### 16. [[16. Property Based Testing|Property Based Testing]]
-
-### 17. [[17. Benchmark Deep|Benchmark Deep]]
+### 1. 📂 [[Unit Testing & Strategies|01. Unit Testing & Strategies]]
+- [[Testing Basics]] — Writing test functions (TestXxx), testing.T assertions, failure logging, t.FailNow.
+- [[Table-Driven Tests]] — Idiomatic Go testing structure: slice of test structs with inputs and expected outputs.
+- [[Subtests (t.Run)]] — Hierarchical test execution, granular failure reporting, running specific subtests.
+- [[Test Helpers (t.Helper)]] — Marking helper functions to keep stack traces pointing to actual test lines.
+- [[TestMain Function]] — Global test suite setup and teardown hooks (m.Run()).
+- [[Parallel Tests (t.Parallel)]] — Concurrent test execution, isolating test state, detecting races under test.
+### 2. 📂 [[Mocks, HTTP & Integration|02. Mocks, HTTP & Integration]]
+- [[Interface Mocking & Test Doubles]] — Hand-written fakes vs generated mocks (mockery, gomock).
+- [[httptest Package]] — httptest.NewServer, httptest.ResponseRecorder for isolated HTTP handler testing.
+- [[Golden Files Snapshot Testing]] — Validating complex output payloads (JSON, HTML) against snapshot files (-update flag).
+- [[Testcontainers in Go]] — Spinning up real PostgreSQL, Redis, and Kafka containers during integration tests.
+### 3. 📂 [[Benchmarks, Coverage & Fuzzing|03. Benchmarks, Coverage & Fuzzing]]
+- [[Benchmarks (testing.B)]] — b.N iterations, b.ResetTimer(), b.ReportAllocs(), memory allocation tracking.
+- [[benchstat Statistical Analysis]] — Comparing benchmark results before and after code changes with statistical confidence.
+- [[Coverage Analysis (-cover)]] — go test -cover, generating HTML coverage profiles, enforcing coverage gates in CI.
+- [[Fuzz Testing (testing.F)]] — Randomized input mutation engine for discovering edge-case crashes and vulnerabilities.
+- [[Race Detector (-race)]] — ThreadSanitizer runtime data race detection during test runs.
 
 ---
 

@@ -1,14 +1,12 @@
 ---
-title: for loop
+title: "for Loop"
 tags:
   - golang
   - basics
-  - control-flow
-  - loops
-parent: "[[Loops]]"
+parent: "[[Loops & Iteration]]"
 ---
 
-# for loop
+# for Loop
 
 ## 1. Definition
 
@@ -21,4 +19,5 @@ parent: "[[Loops]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Loops]]
+- ⬆️ Parent: [[Loops & Iteration]]
+- 📚 Module: [[Language Basics]]

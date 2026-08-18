@@ -1,10 +1,9 @@
 ---
-title: Named Return Values
+title: "Named Return Values"
 tags:
   - golang
   - basics
-  - functions
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Named Return Values
@@ -20,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

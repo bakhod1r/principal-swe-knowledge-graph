@@ -1,10 +1,8 @@
 ---
-title: Zero Values
+title: "Zero Values"
 tags:
   - golang
   - basics
-  - variables
-  - types
 parent: "[[Variables & Constants]]"
 ---
 
@@ -22,3 +20,4 @@ parent: "[[Variables & Constants]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Variables & Constants]]
+- 📚 Module: [[Language Basics]]

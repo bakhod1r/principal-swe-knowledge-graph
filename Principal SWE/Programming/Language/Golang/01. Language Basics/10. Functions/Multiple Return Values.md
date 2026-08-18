@@ -1,10 +1,9 @@
 ---
-title: Multiple Return Values
+title: "Multiple Return Values"
 tags:
   - golang
   - basics
-  - functions
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Multiple Return Values
@@ -20,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

@@ -1,10 +1,9 @@
 ---
-title: Call by Value
+title: "Call by Value"
 tags:
   - golang
   - basics
-  - functions
-parent: "[[Functions]]"
+parent: "[[Functions & Closures]]"
 ---
 
 # Call by Value
@@ -20,4 +19,5 @@ parent: "[[Functions]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions & Closures]]
+- 📚 Module: [[Language Basics]]

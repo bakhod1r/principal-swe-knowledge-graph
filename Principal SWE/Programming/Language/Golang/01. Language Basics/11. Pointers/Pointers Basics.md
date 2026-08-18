@@ -1,10 +1,9 @@
 ---
-title: Pointers Basics
+title: "Pointers Basics"
 tags:
   - golang
   - basics
-  - pointers
-parent: "[[Pointers]]"
+parent: "[[Pointers & Memory]]"
 ---
 
 # Pointers Basics
@@ -20,4 +19,5 @@ parent: "[[Pointers]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Pointers]]
+- ⬆️ Parent: [[Pointers & Memory]]
+- 📚 Module: [[Language Basics]]
