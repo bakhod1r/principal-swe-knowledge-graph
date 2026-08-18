@@ -81,7 +81,7 @@ Soft Skills
 │   ├── [[Introduction (Technical Writing & Documentation)|01. Introduction]]
 │   ├── [[Required Skills|02. Required Skills]]
 │   ├── [[Tooling|03. Tooling]]
-│   ├── [[Best Practices|04. Best Practices]]
+│   ├── [[Best Practices (Technical Writing)|04. Best Practices]]
 │   ├── [[Content Research|05. Content Research]]
 │   ├── [[Types of Technical Content|06. Types of Technical Content]]
 │   ├── [[Technical Content Marketing|07. Technical Content Marketing]]
@@ -161,7 +161,7 @@ Soft Skills
 - 📂 [[Introduction (Technical Writing & Documentation)|01. Introduction]] — Leadership blueprints and strategic execution for Introduction.
 - 📂 [[Required Skills|02. Required Skills]] — Leadership blueprints and strategic execution for Required Skills.
 - 📂 [[Tooling|03. Tooling]] — Leadership blueprints and strategic execution for Tooling.
-- 📂 [[Best Practices|04. Best Practices]] — Leadership blueprints and strategic execution for Best Practices.
+- 📂 [[Best Practices (Technical Writing)|04. Best Practices]] — Leadership blueprints and strategic execution for Best Practices.
 - 📂 [[Content Research|05. Content Research]] — Leadership blueprints and strategic execution for Content Research.
 - 📂 [[Types of Technical Content|06. Types of Technical Content]] — Leadership blueprints and strategic execution for Types of Technical Content.
 - 📂 [[Technical Content Marketing|07. Technical Content Marketing]] — Leadership blueprints and strategic execution for Technical Content Marketing.

@@ -5,7 +5,7 @@ tags:
   - leadership
   - technical-writing-and-documentation
   - principal-swe
-parent: "[[Best Practices]]"
+parent: "[[Best Practices (Technical Writing)]]"
 ---
 
 # Best Practices Practical Execution and Frameworks
@@ -60,6 +60,6 @@ Leadership & Strategic Decision Model for Best Practices Practical Execution and
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Best Practices]]
+- ⬆️ Parent: [[Best Practices (Technical Writing)]]
 - 📚 Module: [[Technical Writing & Documentation]]
 - 🎓 Root: [[Principal SWE]]

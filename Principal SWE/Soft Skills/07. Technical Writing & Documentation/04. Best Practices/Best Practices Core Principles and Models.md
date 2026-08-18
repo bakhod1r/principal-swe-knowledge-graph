@@ -5,7 +5,7 @@ tags:
   - leadership
   - technical-writing-and-documentation
   - principal-swe
-parent: "[[Best Practices]]"
+parent: "[[Best Practices (Technical Writing)]]"
 ---
 
 # Best Practices Core Principles and Models
@@ -60,6 +60,6 @@ Leadership & Strategic Decision Model for Best Practices Core Principles and Mod
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Best Practices]]
+- ⬆️ Parent: [[Best Practices (Technical Writing)]]
 - 📚 Module: [[Technical Writing & Documentation]]
 - 🎓 Root: [[Principal SWE]]
