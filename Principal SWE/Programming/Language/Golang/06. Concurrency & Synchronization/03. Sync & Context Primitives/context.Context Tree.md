@@ -2,7 +2,7 @@
 title: "context.Context Tree"
 tags:
   - golang
-  - concurrency
+  - sync
 parent: "[[Sync & Context Primitives]]"
 ---
 

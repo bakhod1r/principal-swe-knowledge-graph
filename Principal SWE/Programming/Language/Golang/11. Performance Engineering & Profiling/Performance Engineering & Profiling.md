@@ -50,4 +50,4 @@ Performance Engineering & Profiling
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

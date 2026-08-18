@@ -8,7 +8,7 @@ parent: "[[Testing & Benchmarking]]"
 
 # Mocks, HTTP & Integration
 
-Interface mocking, HTTP test utilities (httptest), golden files, and container-based testing.
+Mocking, HTTP test servers, golden file snapshots, and containerized integration tests.
 
 ```text
 Mocks, HTTP & Integration
@@ -16,7 +16,8 @@ Mocks, HTTP & Integration
 ├── [[Interface Mocking & Test Doubles]]
 ├── [[httptest Package]]
 ├── [[Golden Files Snapshot Testing]]
-└── [[Testcontainers in Go]]
+├── [[Testcontainers in Go]]
+└── [[Property-Based Testing]]
 ```
 
 ---
@@ -27,6 +28,7 @@ Mocks, HTTP & Integration
 - [[httptest Package]] — httptest.NewServer, httptest.ResponseRecorder for isolated HTTP handler testing.
 - [[Golden Files Snapshot Testing]] — Validating complex output payloads (JSON, HTML) against snapshot files (-update flag).
 - [[Testcontainers in Go]] — Spinning up real PostgreSQL, Redis, and Kafka containers during integration tests.
+- [[Property-Based Testing]] — Generative property testing using testing/quick and gopter.
 
 ---
 

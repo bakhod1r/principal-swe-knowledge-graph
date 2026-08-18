@@ -8,7 +8,7 @@ parent: "[[Code Organization & Architecture]]"
 
 # Architecture & Dependency Injection
 
-Clean architecture, hexagonal architecture, ports and adapters, and dependency injection in Go.
+Clean architecture, ports and adapters, DDD, and compile-time/runtime DI.
 
 ```text
 Architecture & Dependency Injection

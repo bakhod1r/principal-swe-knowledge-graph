@@ -8,7 +8,7 @@ parent: "[[Advanced Topics & Low-Level Go]]"
 
 # FFI & Low-Level Assembly
 
-Cgo foreign function interface, Plan 9 assembly language, SIMD intrinsics, and build constraints.
+Cgo FFI, Plan 9 assembly, register calling convention, and CPU feature detection.
 
 ```text
 FFI & Low-Level Assembly

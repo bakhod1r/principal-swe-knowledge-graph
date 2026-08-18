@@ -2,19 +2,19 @@
 title: Interfaces & Polymorphism
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Methods & Interfaces]]"
 ---
 
 # Interfaces & Polymorphism
 
-Implicit interface satisfaction, empty interface (any), embedding, assertions, and switches.
+Interface contracts, implicit implementation, polymorphism, type assertions, and standard interfaces.
 
 ```text
 Interfaces & Polymorphism
 │
-├── [[Interfaces Basics]]
-├── [[Empty Interfaces (any)]]
+├── [[Interface Basics]]
+├── [[Empty Interface (any)]]
 ├── [[Embedding Interfaces]]
 ├── [[Type Assertions]]
 ├── [[Type Switch]]
@@ -26,13 +26,13 @@ Interfaces & Polymorphism
 
 ## 🗂️ Topics
 
-- [[Interfaces Basics]] — Implicit satisfaction, single-method interface design philosophy.
-- [[Empty Interfaces (any)]] — Working with unknown types, type safety considerations, boxing cost.
-- [[Embedding Interfaces]] — Interface composition (io.ReadWriter = io.Reader + io.Writer).
-- [[Type Assertions]] — Extracting concrete types from interfaces (x.(T) and comma-ok idiom).
-- [[Type Switch]] — Type-based dispatching across multiple interface implementors.
-- [[Common Standard Library Interfaces]] — Core contracts: io.Reader, io.Writer, fmt.Stringer, error, sort.Interface.
-- [[Sealed Interfaces]] — Restricting implementation to package boundaries via unexported method tags.
+- [[Interface Basics]] — Implicit satisfaction, structural typing, and consumer-defined interface contracts.
+- [[Empty Interface (any)]] — Working with dynamic unknown types, boxing, and type safety tradeoffs.
+- [[Embedding Interfaces]] — Composing fine-grained interfaces (io.ReadWriter = io.Reader + io.Writer).
+- [[Type Assertions]] — Dynamic type extraction with comma-ok idiom (v, ok := i.(T)).
+- [[Type Switch]] — Multi-type branch dispatching using switch v := i.(type).
+- [[Common Standard Library Interfaces]] — Core contracts: io.Reader, io.Writer, io.Closer, fmt.Stringer, error, sort.Interface.
+- [[Sealed Interfaces]] — Restricting external implementations using unexported method tokens.
 
 ---
 

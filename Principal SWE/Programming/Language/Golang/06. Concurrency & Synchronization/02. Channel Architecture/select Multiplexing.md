@@ -2,7 +2,7 @@
 title: "select Multiplexing"
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Channel Architecture]]"
 ---
 

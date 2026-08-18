@@ -2,7 +2,7 @@
 title: "GMP Model (G, M, P)"
 tags:
   - golang
-  - concurrency
+  - scheduler
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

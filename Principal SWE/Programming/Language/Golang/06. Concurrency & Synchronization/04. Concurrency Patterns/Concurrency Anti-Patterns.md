@@ -2,7 +2,7 @@
 title: "Concurrency Anti-Patterns"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

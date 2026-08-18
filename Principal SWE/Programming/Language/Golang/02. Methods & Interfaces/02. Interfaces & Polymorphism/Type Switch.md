@@ -2,7 +2,7 @@
 title: "Type Switch"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

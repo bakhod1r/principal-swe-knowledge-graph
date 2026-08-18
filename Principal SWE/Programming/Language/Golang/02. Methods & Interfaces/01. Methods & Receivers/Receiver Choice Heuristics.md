@@ -2,7 +2,7 @@
 title: "Receiver Choice Heuristics"
 tags:
   - golang
-  - methods-and-interfaces
+  - methods
 parent: "[[Methods & Receivers]]"
 ---
 

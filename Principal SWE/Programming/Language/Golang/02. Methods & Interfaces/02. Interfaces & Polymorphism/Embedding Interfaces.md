@@ -2,7 +2,7 @@
 title: "Embedding Interfaces"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

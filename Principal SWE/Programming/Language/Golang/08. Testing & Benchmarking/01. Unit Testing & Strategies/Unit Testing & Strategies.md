@@ -8,7 +8,7 @@ parent: "[[Testing & Benchmarking]]"
 
 # Unit Testing & Strategies
 
-Testing package fundamentals, table-driven tests, subtests, test helpers, and parallel execution.
+Unit tests, table-driven tests, subtests, test helpers, TestMain, and parallel execution.
 
 ```text
 Unit Testing & Strategies

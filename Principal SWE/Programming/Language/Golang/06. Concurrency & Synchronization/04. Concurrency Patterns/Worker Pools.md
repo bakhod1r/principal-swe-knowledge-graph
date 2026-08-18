@@ -2,7 +2,7 @@
 title: "Worker Pools"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

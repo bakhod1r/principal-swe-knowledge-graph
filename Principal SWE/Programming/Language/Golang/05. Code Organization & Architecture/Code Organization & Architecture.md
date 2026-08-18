@@ -23,7 +23,7 @@ Code Organization & Architecture
 │   └── [[Private Modules & Enterprise Setup]]
 ├── [[Project Layout & Boundaries|02. Project Layout & Boundaries]]
 │   ├── [[Standard Go Project Layout]]
-│   ├── [[internal/ Visibility Enforcement]]
+│   ├── [[internal- Visibility Enforcement]]
 │   ├── [[Workspaces (go.work)]]
 │   ├── [[Circular Dependency Prevention]]
 │   └── [[Package Cohesion & Coupling]]
@@ -49,7 +49,7 @@ Code Organization & Architecture
 - [[Private Modules & Enterprise Setup]] — GOPRIVATE, authentication, enterprise git repository integration.
 ### 2. 📂 [[Project Layout & Boundaries|02. Project Layout & Boundaries]]
 - [[Standard Go Project Layout]] — cmd/, internal/, pkg/, api/ directory layout conventions.
-- [[internal/ Visibility Enforcement]] — Compiler-enforced access control preventing unauthorized external imports.
+- [[internal- Visibility Enforcement]] — Compiler-enforced access control preventing unauthorized external imports.
 - [[Workspaces (go.work)]] — Multi-module local development without modifying go.mod replace directives.
 - [[Circular Dependency Prevention]] — Avoiding import cycles through interface abstraction and layered architecture.
 - [[Package Cohesion & Coupling]] — Designing focused, loosely-coupled packages.
@@ -66,4 +66,4 @@ Code Organization & Architecture
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

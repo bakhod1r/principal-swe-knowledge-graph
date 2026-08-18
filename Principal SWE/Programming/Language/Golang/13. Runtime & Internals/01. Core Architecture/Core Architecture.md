@@ -8,7 +8,7 @@ parent: "[[Runtime & Internals]]"
 
 # Core Architecture
 
-Runtime boot sequence, memory model, and package runtime interface functions.
+Runtime bootstrapping, sysmon background daemon, and runtime package APIs.
 
 ```text
 Core Architecture

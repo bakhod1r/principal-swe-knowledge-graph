@@ -2,7 +2,7 @@
 title: "Interface Anti-Patterns"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Runtime Internals & Architecture]]"
 ---
 

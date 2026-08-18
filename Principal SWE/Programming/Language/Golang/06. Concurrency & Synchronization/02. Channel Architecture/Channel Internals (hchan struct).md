@@ -2,7 +2,7 @@
 title: "Channel Internals (hchan struct)"
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Channel Architecture]]"
 ---
 

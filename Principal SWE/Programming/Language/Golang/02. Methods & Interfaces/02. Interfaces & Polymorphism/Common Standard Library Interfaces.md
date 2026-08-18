@@ -2,7 +2,7 @@
 title: "Common Standard Library Interfaces"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

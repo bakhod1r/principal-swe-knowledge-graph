@@ -2,39 +2,30 @@
 title: Settings Environment
 tags:
   - golang
-  - basics
+  - environment
+  - principal-swe
 parent: "[[Language Basics]]"
 ---
 
 # Settings Environment
 
-Go environment configuration, PATH setup, GOROOT, GOPATH, GOBIN, and system variables.
+Go environment setup, cross-compilation matrices, CGO linking, build caching, and reproducible builds.
 
 ```text
 Settings Environment
 │
-├── [[PATH]]
-├── [[GOROOT]]
-├── [[GOPATH]]
-├── [[GOBIN]]
-├── [[GOENV]]
-├── [[GOOS and GOARCH]]
-├── [[GOCACHE and GOTMPDIR]]
-└── [[Shell Startup]]
+├── [[Core Environment Variables]]
+├── [[Target OS & Architecture]]
+└── [[Build Caching & Reproducibility]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[PATH]] — OS search path for Go binaries and installed tools.
-- [[GOROOT]] — Installation directory of the Go SDK and standard library.
-- [[GOPATH]] — User workspace, module cache, and binary download directory.
-- [[GOBIN]] — Target directory where go install writes executable binaries.
-- [[GOENV]] — Location of persistent Go environment variable settings file.
-- [[GOOS and GOARCH]] — Target operating system and CPU architecture for compilation.
-- [[GOCACHE and GOTMPDIR]] — Build artifact cache and temporary compilation directory.
-- [[Shell Startup]] — Configuring environment persistence in .zshrc, .bashrc, or profile.
+- [[Core Environment Variables]] — Fundamental Go directories, paths, binaries, and persistent environment configurations.
+- [[Target OS & Architecture]] — Cross-compilation matrices, CGO linking semantics, libc/musl resolution, and DNS resolver engines.
+- [[Build Caching & Reproducibility]] — Action cache mechanics, output caches, reproducible builds, and binary provenance.
 
 ---
 

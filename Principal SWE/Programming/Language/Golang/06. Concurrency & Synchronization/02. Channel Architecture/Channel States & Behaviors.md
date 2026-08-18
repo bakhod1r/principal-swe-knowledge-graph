@@ -2,7 +2,7 @@
 title: "Channel States & Behaviors"
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Channel Architecture]]"
 ---
 

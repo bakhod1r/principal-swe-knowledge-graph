@@ -8,13 +8,13 @@ parent: "[[Code Organization & Architecture]]"
 
 # Project Layout & Boundaries
 
-Standard Go project layout, internal visibility enforcement, and workspace development.
+Directory structures, internal visibility enforcement, workspaces, and cycle prevention.
 
 ```text
 Project Layout & Boundaries
 │
 ├── [[Standard Go Project Layout]]
-├── [[internal/ Visibility Enforcement]]
+├── [[internal- Visibility Enforcement]]
 ├── [[Workspaces (go.work)]]
 ├── [[Circular Dependency Prevention]]
 └── [[Package Cohesion & Coupling]]
@@ -25,10 +25,10 @@ Project Layout & Boundaries
 ## 🗂️ Topics
 
 - [[Standard Go Project Layout]] — cmd/, internal/, pkg/, api/ directory layout conventions.
-- [[internal/ Visibility Enforcement]] — Compiler-enforced access control preventing unauthorized external imports.
+- [[internal- Visibility Enforcement]] — Compiler-enforced access control preventing unauthorized external imports.
 - [[Workspaces (go.work)]] — Multi-module local development without modifying go.mod replace directives.
 - [[Circular Dependency Prevention]] — Avoiding import cycles through interface abstraction and layered architecture.
-- [[Package Cohesion & Coupling]] — Designing focused, loosely-coupled packages.
+- [[Package Cohesion & Coupling]] — Designing focused, loosely-coupled packages with high cohesion.
 
 ---
 

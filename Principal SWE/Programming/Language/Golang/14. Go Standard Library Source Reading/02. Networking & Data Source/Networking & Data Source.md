@@ -8,7 +8,7 @@ parent: "[[Go Standard Library Source Reading]]"
 
 # Networking & Data Source
 
-Analyzing the source code of net/http, database/sql, and encoding/json.
+Source code deep dives: net/http server, database/sql connection pool, and encoding/json.
 
 ```text
 Networking & Data Source

@@ -2,7 +2,7 @@
 title: "Work Stealing Algorithm"
 tags:
   - golang
-  - concurrency
+  - scheduler
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

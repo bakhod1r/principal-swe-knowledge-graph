@@ -2,43 +2,30 @@
 title: Go Commands
 tags:
   - golang
-  - basics
+  - toolchain
+  - principal-swe
 parent: "[[Language Basics]]"
 ---
 
 # Go Commands
 
-Go CLI toolchain coordination: build, run, test, install, fmt, vet, doc, and generate.
+Go CLI toolchain coordination, compiler pragmas (//go:), and binary inspection utilities.
 
 ```text
 Go Commands
 │
-├── [[go build]]
-├── [[go run]]
-├── [[go install]]
-├── [[go test]]
-├── [[go fmt]]
-├── [[go vet]]
-├── [[go generate]]
-├── [[go doc]]
-├── [[go clean]]
-└── [[go work]]
+├── [[Core CLI Commands]]
+├── [[Compiler Pragmas & Directives (go:)]]
+└── [[Binary Inspection Tools (go tool)]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[go build]] — Compiling packages and dependencies into executables or packages.
-- [[go run]] — Compiling and executing Go source files on the fly.
-- [[go install]] — Compiling and installing executables into GOBIN.
-- [[go test]] — Automated testing and benchmark execution.
-- [[go fmt]] — Standard code formatting with gofmt.
-- [[go vet]] — Compiler static analysis for suspicious constructs.
-- [[go generate]] — Executing code generators via //go:generate directives.
-- [[go doc]] — Displaying documentation for packages and symbols from the terminal.
-- [[go clean]] — Removing object files and cached package artifacts.
-- [[go work]] — Multi-module local development workflow commands.
+- [[Core CLI Commands]] — Toolchain coordinator commands: build, run, install, test, fmt, vet, doc, clean, and work.
+- [[Compiler Pragmas & Directives (go:)]] — Compiler pragma directives controlling inlining, stack allocation, symbol linking, and code generation.
+- [[Binary Inspection Tools (go tool)]] — Internal toolchain inspection utilities: compile -S, objdump, nm, and cgo.
 
 ---
 

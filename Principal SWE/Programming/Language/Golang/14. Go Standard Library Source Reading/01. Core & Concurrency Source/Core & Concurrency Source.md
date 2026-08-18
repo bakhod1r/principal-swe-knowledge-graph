@@ -8,7 +8,7 @@ parent: "[[Go Standard Library Source Reading]]"
 
 # Core & Concurrency Source
 
-Analyzing the source code of sync, context, and runtime primitives.
+Source code deep dives: sync.Mutex, sync.WaitGroup, sync.Once, context, and channels.
 
 ```text
 Core & Concurrency Source

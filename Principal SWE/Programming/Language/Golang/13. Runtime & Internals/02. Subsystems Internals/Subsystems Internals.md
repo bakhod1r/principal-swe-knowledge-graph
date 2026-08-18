@@ -8,7 +8,7 @@ parent: "[[Runtime & Internals]]"
 
 # Subsystems Internals
 
-Scheduler source (proc.go), GC source (mgc.go), and memory allocator source (malloc.go).
+GMP scheduler, tricolor GC, TCMalloc memory allocator, and panic/recover implementation.
 
 ```text
 Subsystems Internals

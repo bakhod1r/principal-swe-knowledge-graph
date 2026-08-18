@@ -8,14 +8,14 @@ parent: "[[Generics]]"
 
 # Runtime & Compiler Mechanics
 
-GcShape stenciling, dictionary passing, monomorphization tradeoffs, and best practices.
+Compiler stenciling, runtime dictionaries, performance benchmarks, and stdlib packages.
 
 ```text
 Runtime & Compiler Mechanics
 │
 ├── [[GcShape Stenciling & Dictionaries]]
 ├── [[Generic Performance & Benchmarks]]
-├── [[Standard Library Generics (slices, maps, cmp)]]
+├── [[Standard Library Generic Packages]]
 ├── [[Generic Best Practices]]
 └── [[Generic Anti-Patterns]]
 ```
@@ -24,11 +24,11 @@ Runtime & Compiler Mechanics
 
 ## 🗂️ Topics
 
-- [[GcShape Stenciling & Dictionaries]] — How the Go compiler shares code between pointer types while passing dictionaries.
-- [[Generic Performance & Benchmarks]] — Comparing generic execution speed vs interface{} vs concrete monomorphization.
-- [[Standard Library Generics (slices, maps, cmp)]] — Standard library utility packages powered by type parameters.
-- [[Generic Best Practices]] — Writing readable, maintainable generic APIs in Go.
-- [[Generic Anti-Patterns]] — Over-parameterization, generic clutter, using generics where simple interfaces suffice.
+- [[GcShape Stenciling & Dictionaries]] — Go compiler GcShape sharing and runtime dictionary parameter passing.
+- [[Generic Performance & Benchmarks]] — Execution speed, binary size, and allocation profile of generics vs interfaces.
+- [[Standard Library Generic Packages]] — slices, maps, and cmp standard packages algorithms.
+- [[Generic Best Practices]] — When to use generics, API readability, maintaining simplicity.
+- [[Generic Anti-Patterns]] — Over-parameterization, generic clutter, building complex type hierarchies.
 
 ---
 

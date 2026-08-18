@@ -8,7 +8,7 @@ parent: "[[Observability & Runtime Introspection]]"
 
 # Metrics & Diagnostics
 
-Reading runtime metrics counters, exposing HTTP diagnostics, and runtime debug flags.
+runtime/metrics, expvar JSON metrics, GODEBUG flags, and runtime/debug utilities.
 
 ```text
 Metrics & Diagnostics

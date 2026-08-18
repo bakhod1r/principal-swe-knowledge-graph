@@ -2,7 +2,7 @@
 title: "x-sync-errgroup"
 tags:
   - golang
-  - concurrency
+  - sync
 parent: "[[Sync & Context Primitives]]"
 ---
 

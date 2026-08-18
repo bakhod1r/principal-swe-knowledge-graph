@@ -2,7 +2,7 @@
 title: "Pipelines & Stream Processing"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

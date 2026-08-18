@@ -2,13 +2,13 @@
 title: Channel Architecture
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Concurrency & Synchronization]]"
 ---
 
 # Channel Architecture
 
-Unbuffered vs buffered channels, hchan struct, sudog wait queues, and selectgo.
+Unbuffered/buffered channels, hchan memory layout, sudog wait queues, and select multiplexing.
 
 ```text
 Channel Architecture
@@ -17,7 +17,9 @@ Channel Architecture
 ├── [[Buffered Channels]]
 ├── [[Channel States & Behaviors]]
 ├── [[Channel Internals (hchan struct)]]
-└── [[select Multiplexing]]
+├── [[Channel Send and Receive Flow]]
+├── [[select Multiplexing]]
+└── [[Closing Channels Rules]]
 ```
 
 ---
@@ -27,8 +29,10 @@ Channel Architecture
 - [[Unbuffered Channels]] — Synchronous rendezvous signaling with direct stack-to-stack copy optimization.
 - [[Buffered Channels]] — Asynchronous FIFO ring buffer queues with bounded capacity.
 - [[Channel States & Behaviors]] — Send, receive, and close semantics on nil, open, and closed channels.
-- [[Channel Internals (hchan struct)]] — hchan fields: ring buffer, lock, sendq/recvq sudog wait queues.
-- [[select Multiplexing]] — Non-blocking select with default, pseudo-random case evaluation, and selectgo() implementation.
+- [[Channel Internals (hchan struct)]] — hchan fields: ring buffer, mutex lock, sendq/recvq sudog wait queues.
+- [[Channel Send and Receive Flow]] — Dissecting chansend and chanrecv runtime step-by-step mechanics.
+- [[select Multiplexing]] — Non-blocking select with default, pseudo-random case evaluation, and selectgo() runtime.
+- [[Closing Channels Rules]] — Only sender should close, closing closed panic, signaling with close(ch).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Buffered Channels"
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Channel Architecture]]"
 ---
 

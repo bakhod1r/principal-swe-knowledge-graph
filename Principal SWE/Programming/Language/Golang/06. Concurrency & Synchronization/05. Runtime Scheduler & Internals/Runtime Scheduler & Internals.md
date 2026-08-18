@@ -2,13 +2,13 @@
 title: Runtime Scheduler & Internals
 tags:
   - golang
-  - concurrency
+  - scheduler
 parent: "[[Concurrency & Synchronization]]"
 ---
 
 # Runtime Scheduler & Internals
 
-GMP scheduler, work stealing, sysmon daemon, signal preemption, and lock-free CAS.
+GMP scheduling engine, work stealing, sysmon, signal preemption, netpoller, and lock-free CAS.
 
 ```text
 Runtime Scheduler & Internals
@@ -18,6 +18,7 @@ Runtime Scheduler & Internals
 ├── [[Sysmon Background Daemon]]
 ├── [[Signal-Based Async Preemption (SIGURG)]]
 ├── [[Netpoller]]
+├── [[Syscall Handling & M Handoff]]
 ├── [[Lock-Free Programming & CAS]]
 └── [[GOMAXPROCS Tuning]]
 ```
@@ -31,6 +32,7 @@ Runtime Scheduler & Internals
 - [[Sysmon Background Daemon]] — Monitoring blocked syscalls, forcing periodic GC, and triggering preemption.
 - [[Signal-Based Async Preemption (SIGURG)]] — Non-cooperative async signal preemption of tight loops without function calls.
 - [[Netpoller]] — Non-blocking I/O event multiplexing (epoll, kqueue, IOCP) integrated with GMP scheduler.
+- [[Syscall Handling & M Handoff]] — Entering and exiting syscalls, detaching P from M, and thread parking.
 - [[Lock-Free Programming & CAS]] — sync/atomic primitives, Compare-And-Swap algorithms, and memory fences.
 - [[GOMAXPROCS Tuning]] — Tuning CPU core allocation and container CPU quota limits (automaxprocs).
 

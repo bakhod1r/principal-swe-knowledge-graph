@@ -8,7 +8,7 @@ parent: "[[WebAssembly & Alternative Targets]]"
 
 # WebAssembly (WASM)
 
-Browser WASM execution, syscall/js DOM manipulation, WASI server-side execution.
+Browser WASM, syscall/js, WASI server-side execution, and binary size optimization.
 
 ```text
 WebAssembly (WASM)

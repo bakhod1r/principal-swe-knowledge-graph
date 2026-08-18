@@ -8,7 +8,7 @@ parent: "[[Performance Engineering & Profiling]]"
 
 # Profiling Subsystems
 
-Capturing CPU flamegraphs, heap allocation profiles, mutex contention, and blocking profiles.
+CPU profiling, flamegraphs, heap profiles, mutex contention, block profiles, and pprof CLI/web UI.
 
 ```text
 Profiling Subsystems

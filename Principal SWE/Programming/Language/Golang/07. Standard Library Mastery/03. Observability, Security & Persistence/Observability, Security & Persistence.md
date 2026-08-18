@@ -8,7 +8,7 @@ parent: "[[Standard Library Mastery]]"
 
 # Observability, Security & Persistence
 
-Structured logging with slog, database connection pooling, cryptography, and reflection.
+Structured logging, database pools, cryptography, reflection, and zero-copy unsafe operations.
 
 ```text
 Observability, Security & Persistence
@@ -26,8 +26,8 @@ Observability, Security & Persistence
 
 ## 🗂️ Topics
 
-- [[log-slog (Structured Logging)]] — log/slog Logger, JSON/Text Handlers, Level management, Attributes, Groups.
-- [[database-sql Connection Pool]] — sql.DB connection lifecycle, SetMaxOpenConns, SetMaxIdleConns, connection recycling.
+- [[log-slog (Structured Logging)]] — log/slog Logger, JSON/Text Handlers, Level management, Attributes, and Groups.
+- [[database-sql Connection Pool]] — sql.DB connection pool lifecycle, SetMaxOpenConns, SetMaxIdleConns, connection recycling.
 - [[database-sql Transactions & Queries]] — Prepared statements, QueryRow, Exec, transaction isolation, Context cancellation.
 - [[crypto-tls & Certificates]] — crypto/tls, mutual TLS (mTLS), certificate verification, TLS 1.3 cipher suites.
 - [[crypto Cryptography Primitives]] — crypto/rand secure randomness, AES-GCM encryption, SHA-256 hashing.

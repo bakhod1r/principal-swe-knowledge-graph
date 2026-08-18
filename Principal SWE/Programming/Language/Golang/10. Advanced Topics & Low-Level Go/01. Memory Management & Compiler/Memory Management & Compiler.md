@@ -8,7 +8,7 @@ parent: "[[Advanced Topics & Low-Level Go]]"
 
 # Memory Management & Compiler
 
-Stack vs heap decisions, escape analysis algorithms, compiler SSA optimization passes, and PGO.
+Memory allocator hierarchy, escape analysis, SSA optimization passes, and PGO.
 
 ```text
 Memory Management & Compiler

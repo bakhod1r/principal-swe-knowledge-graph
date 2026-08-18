@@ -2,37 +2,36 @@
 title: Variables & Constants
 tags:
   - golang
-  - basics
+  - variables
+  - principal-swe
 parent: "[[Language Basics]]"
 ---
 
 # Variables & Constants
 
-Variable declarations, short assignment, typed/untyped constants, iota, and variable shadowing.
+Variable declarations, short assignment, zero values, const, iota, shadowing, blank identifier, and bitwise operations.
 
 ```text
 Variables & Constants
 │
-├── [[var Declaration]]
-├── [[Short Variable Declaration (:=)]]
+├── [[Var vs Short Declaration]]
 ├── [[Zero Values]]
-├── [[const Declaration]]
-├── [[iota Enumerator]]
-├── [[Variable Shadowing]]
-└── [[Blank Identifier (_)]]
+├── [[Const & Iota]]
+├── [[Scope & Shadowing]]
+├── [[Blank Identifier]]
+└── [[Bitwise Operations]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[var Declaration]] — Explicit variable declarations with type annotations.
-- [[Short Variable Declaration (:=)]] — Type-inferred local variable declaration syntax.
-- [[Zero Values]] — Default memory initialization for all Go types (0, false, "", nil).
-- [[const Declaration]] — Compile-time immutable constants and untyped numeric constants.
-- [[iota Enumerator]] — Sequential compile-time constant generator and bitmask idioms.
-- [[Variable Shadowing]] — Inner block variable redeclaration masking outer scope variables.
-- [[Blank Identifier (_)]] — Ignoring unused return values, imports, and interface checks.
+- [[Var vs Short Declaration]] — Explicit var syntax, short declaration (:=), package-level vs block-level scoping.
+- [[Zero Values]] — Default memory initialization for all Go types, memory safety, and zero-value usability.
+- [[Const & Iota]] — Compile-time untyped constants, high precision (256-bit), and iota enumerator mechanics.
+- [[Scope & Shadowing]] — Block scoping rules, lexical variable visibility, and shadowing detection.
+- [[Blank Identifier]] — Discarding unused values, side-effect imports, and compile-time interface assertion checks.
+- [[Bitwise Operations]] — Bitwise manipulation, shifts, masks, and the Go-specific bit clear (&^) operator.
 
 ---
 

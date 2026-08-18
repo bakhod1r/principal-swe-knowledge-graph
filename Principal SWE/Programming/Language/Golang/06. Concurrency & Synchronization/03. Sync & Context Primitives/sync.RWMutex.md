@@ -2,7 +2,7 @@
 title: "sync.RWMutex"
 tags:
   - golang
-  - concurrency
+  - sync
 parent: "[[Sync & Context Primitives]]"
 ---
 

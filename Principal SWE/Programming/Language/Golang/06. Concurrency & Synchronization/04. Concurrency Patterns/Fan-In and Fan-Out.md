@@ -2,7 +2,7 @@
 title: "Fan-In and Fan-Out"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

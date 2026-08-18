@@ -8,7 +8,7 @@ parent: "[[Testing & Benchmarking]]"
 
 # Benchmarks, Coverage & Fuzzing
 
-Performance benchmarks, memory allocation tracking, test coverage, fuzz testing, and race detector.
+Benchmarking, benchstat, code coverage, mutation fuzzing, and race detection.
 
 ```text
 Benchmarks, Coverage & Fuzzing

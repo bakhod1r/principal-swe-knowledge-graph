@@ -16,8 +16,8 @@ Go Toolchain & Developer Experience
 │
 ├── [[Core Commands & Code Gen|01. Core Commands & Code Gen]]
 │   ├── [[Core Go Commands]]
-│   ├── [[Code Generation (//go:generate)]]
-│   ├── [[Build Tags (//go:build)]]
+│   ├── [[Code Generation (go:generate)]]
+│   ├── [[Build Tags (go:build)]]
 │   ├── [[go.work Workspaces]]
 │   └── [[go tool Suite]]
 └── [[Quality, Security & Debugging|02. Quality, Security & Debugging]]
@@ -35,8 +35,8 @@ Go Toolchain & Developer Experience
 
 ### 1. 📂 [[Core Commands & Code Gen|01. Core Commands & Code Gen]]
 - [[Core Go Commands]] — go build, go install, go run, go clean, go doc, go version.
-- [[Code Generation (//go:generate)]] — Automating stringer, mock generators, protobuf compilation via go generate.
-- [[Build Tags (//go:build)]] — Conditional compilation based on OS, architecture, compiler tags, or custom tags.
+- [[Code Generation (go:generate)]] — Automating stringer, mock generators, protobuf compilation via go generate.
+- [[Build Tags (go:build)]] — Conditional compilation based on OS, architecture, compiler tags, or custom tags.
 - [[go.work Workspaces]] — Managing multi-module development environments with go work use/sync.
 - [[go tool Suite]] — Executing compiler/linker internal tools (compile, link, nm, objdump, pprof, trace).
 ### 2. 📂 [[Quality, Security & Debugging|02. Quality, Security & Debugging]]
@@ -52,4 +52,4 @@ Go Toolchain & Developer Experience
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

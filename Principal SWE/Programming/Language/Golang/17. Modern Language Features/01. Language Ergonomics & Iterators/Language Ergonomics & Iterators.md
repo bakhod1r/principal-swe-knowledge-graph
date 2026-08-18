@@ -8,7 +8,7 @@ parent: "[[Modern Language Features]]"
 
 # Language Ergonomics & Iterators
 
-Go 1.23+ iterators, range-over-func patterns, loopvar scoping changes, and built-in functions.
+Go 1.23 iterators, Go 1.22 loopvar scoping, and built-in functions.
 
 ```text
 Language Ergonomics & Iterators

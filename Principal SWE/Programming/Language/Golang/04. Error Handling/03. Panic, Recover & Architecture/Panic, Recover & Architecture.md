@@ -8,7 +8,7 @@ parent: "[[Error Handling]]"
 
 # Panic, Recover & Architecture
 
-Unrecoverable program states, deferred recover handlers, stack traces, and resilient error design.
+panic and recover mechanics, stack unwinding, goroutine boundaries, and error architecture.
 
 ```text
 Panic, Recover & Architecture
@@ -26,13 +26,13 @@ Panic, Recover & Architecture
 
 ## 🗂️ Topics
 
-- [[panic Semantics]] — Unwinding the goroutine call stack on unrecoverable conditions.
-- [[recover in Deferred Functions]] — Catching runtime panics and restoring program execution safely.
-- [[Goroutine Panic Isolation]] — Panics inside goroutines crash the entire process unless caught locally.
-- [[Stack Traces & runtime-debug]] — Capturing and formatting stack traces for observability.
-- [[Domain vs Infrastructure Errors]] — Separating business logic errors from database/network failures.
-- [[Error Design Best Practices]] — Decorating errors without losing context, avoid string matching errors.
-- [[Handle Errors, Don't Just Check]] — Meaningful error mitigation vs blindly propagating nil errors.
+- [[panic Semantics]] — Unwinding the goroutine call stack on fatal, unrecoverable programmer errors.
+- [[recover in Deferred Functions]] — Safely intercepting panics in deferred functions and converting to errors.
+- [[Goroutine Panic Isolation]] — Uncaught panics inside spawned goroutines terminate the entire process.
+- [[Stack Traces & runtime-debug]] — Capturing, parsing, and logging panic stack traces for observability.
+- [[Domain vs Infrastructure Errors]] — Architectural separation of business rule errors vs database/network errors.
+- [[Error Design Best Practices]] — Enriching errors without losing original context, avoiding string matching.
+- [[Handle Errors, Don't Just Check]] — Meaningful error recovery and remediation vs blind error return propagation.
 
 ---
 

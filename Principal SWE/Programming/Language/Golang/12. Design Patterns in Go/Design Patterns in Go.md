@@ -32,8 +32,8 @@ Design Patterns in Go
 │   ├── [[Iterator Pattern]]
 │   ├── [[Chain of Responsibility Pattern]]
 │   ├── [[State Pattern]]
-│   ├── [[Middleware Handler Pattern]]
-│   └── [[Pipeline Pattern]]
+│   ├── [[Chain of Responsibility Pattern]]
+│   └── [[Pipelines & Stream Processing]]
 ```
 
 ---
@@ -58,12 +58,12 @@ Design Patterns in Go
 - [[Iterator Pattern]] — Iterating custom collections using callbacks, channels, and Go 1.23 iterators.
 - [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of handlers.
 - [[State Pattern]] — Encapsulating object behavior transitions based on internal state machines.
-- [[Middleware Handler Pattern]] — HTTP handler chaining with onion-layer request/response processing.
-- [[Pipeline Pattern]] — Connecting multi-stage concurrent processing steps through channels.
+- [[Chain of Responsibility Pattern]] — HTTP handler chaining with onion-layer request/response processing.
+- [[Pipelines & Stream Processing]] — Connecting multi-stage concurrent processing steps through channels.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

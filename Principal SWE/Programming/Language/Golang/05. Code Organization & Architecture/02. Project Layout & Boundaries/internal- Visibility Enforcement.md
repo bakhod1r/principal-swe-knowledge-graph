@@ -1,12 +1,12 @@
 ---
-title: "internal/ Visibility Enforcement"
+title: "internal- Visibility Enforcement"
 tags:
   - golang
   - architecture
 parent: "[[Project Layout & Boundaries]]"
 ---
 
-# internal/ Visibility Enforcement
+# internal- Visibility Enforcement
 
 ## 1. Definition
 

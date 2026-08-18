@@ -2,7 +2,7 @@
 title: "Sealed Interfaces"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

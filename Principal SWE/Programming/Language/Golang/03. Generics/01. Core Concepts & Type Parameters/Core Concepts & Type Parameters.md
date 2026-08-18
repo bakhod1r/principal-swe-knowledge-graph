@@ -8,14 +8,14 @@ parent: "[[Generics]]"
 
 # Core Concepts & Type Parameters
 
-Motivation, type parameter syntax, generic functions, types, and type inference.
+Generic functions, generic types, constraints, and type inference.
 
 ```text
 Core Concepts & Type Parameters
 │
-├── [[Why Generics?]]
+├── [[Why Generics]]
 ├── [[Generic Functions]]
-├── [[Generic Structs & Types]]
+├── [[Generic Structs & Slices]]
 ├── [[Type Constraints (any, comparable)]]
 └── [[Type Inference]]
 ```
@@ -24,11 +24,11 @@ Core Concepts & Type Parameters
 
 ## 🗂️ Topics
 
-- [[Why Generics?]] — Solving code duplication without reflection or interface{} type assertions.
-- [[Generic Functions]] — Syntax, type parameter lists, instantiating generic functions.
-- [[Generic Structs & Types]] — Defining generic structs, slices, maps, and interface constraints.
-- [[Type Constraints (any, comparable)]] — Predeclared constraints: any, comparable; type set elements.
-- [[Type Inference]] — Function argument type inference, constraint type inference.
+- [[Why Generics]] — Eliminating code duplication and dynamic type assertions without reflection overhead.
+- [[Generic Functions]] — Syntax for declaring and invoking parameterized functions with [T any].
+- [[Generic Structs & Slices]] — Parameterized structs, custom generic slice/map collection wrappers.
+- [[Type Constraints (any, comparable)]] — Builtin constraints: any (interface{}), comparable (equality checkable).
+- [[Type Inference]] — Function argument type inference and constraint type inference mechanics.
 
 ---
 

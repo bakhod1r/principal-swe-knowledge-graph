@@ -2,7 +2,7 @@
 title: "sync.Pool"
 tags:
   - golang
-  - concurrency
+  - sync
 parent: "[[Sync & Context Primitives]]"
 ---
 

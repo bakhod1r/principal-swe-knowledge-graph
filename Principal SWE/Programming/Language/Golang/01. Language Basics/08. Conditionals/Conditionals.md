@@ -2,35 +2,32 @@
 title: Conditionals
 tags:
   - golang
-  - basics
+  - conditionals
+  - principal-swe
 parent: "[[Language Basics]]"
 ---
 
 # Conditionals
 
-Branching constructs: if, if with init statement, switch, tagless switch, and type switch.
+Branching constructs: if statements, short initialization statements, if-else chains, and switch statements.
 
 ```text
 Conditionals
 │
-├── [[if Statement]]
+├── [[If Statement]]
 ├── [[Short Statement in If]]
-├── [[if-else Chains]]
-├── [[switch Statement]]
-├── [[Tagless Switch]]
-└── [[Type Switch]]
+├── [[If-Else Chains]]
+└── [[Switch Statement]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[if Statement]] — Boolean condition branching.
-- [[Short Statement in If]] — Scoped initialization statement before condition (if err := ...; err != nil).
-- [[if-else Chains]] — Multi-way conditional branching.
-- [[switch Statement]] — Multi-case matching with automatic break and fallthrough keyword.
-- [[Tagless Switch]] — Evaluating arbitrary boolean conditions in switch cases.
-- [[Type Switch]] — Dynamic type dispatching on interface values (switch v := x.(type)).
+- [[If Statement]] — Basic if conditional branching, boolean evaluation, and scope.
+- [[Short Statement in If]] — Scoped initialization statements preceding conditional checks.
+- [[If-Else Chains]] — Multi-way branching, else if chains, and cyclomatic complexity management.
+- [[Switch Statement]] — Expression switches, tagless switches, multi-value cases, and fallthrough mechanics.
 
 ---
 

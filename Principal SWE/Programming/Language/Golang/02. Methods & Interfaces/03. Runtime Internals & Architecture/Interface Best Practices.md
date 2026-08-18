@@ -2,7 +2,7 @@
 title: "Interface Best Practices"
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Runtime Internals & Architecture]]"
 ---
 

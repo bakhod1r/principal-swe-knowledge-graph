@@ -1,0 +1,23 @@
+---
+title: "Why Generics"
+tags:
+  - golang
+  - generics
+parent: "[[Core Concepts & Type Parameters]]"
+---
+
+# Why Generics
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Core Concepts & Type Parameters]]
+- 📚 Module: [[Generics]]

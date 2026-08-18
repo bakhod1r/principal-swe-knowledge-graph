@@ -2,7 +2,7 @@
 title: "Deadlock, Livelock & Starvation"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

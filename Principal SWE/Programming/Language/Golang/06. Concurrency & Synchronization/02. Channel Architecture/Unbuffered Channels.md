@@ -2,7 +2,7 @@
 title: "Unbuffered Channels"
 tags:
   - golang
-  - concurrency
+  - channels
 parent: "[[Channel Architecture]]"
 ---
 

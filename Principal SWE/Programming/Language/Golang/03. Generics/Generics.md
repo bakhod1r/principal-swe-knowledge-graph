@@ -15,9 +15,9 @@ Parametric polymorphism in Go: type parameters, constraints, type inference, gen
 Generics
 │
 ├── [[Core Concepts & Type Parameters|01. Core Concepts & Type Parameters]]
-│   ├── [[Why Generics?]]
+│   ├── [[Why Generics]]
 │   ├── [[Generic Functions]]
-│   ├── [[Generic Structs & Types]]
+│   ├── [[Generic Structs & Slices]]
 │   ├── [[Type Constraints (any, comparable)]]
 │   └── [[Type Inference]]
 ├── [[Advanced Constraints & Data Structures|02. Advanced Constraints & Data Structures]]
@@ -28,7 +28,7 @@ Generics
 └── [[Runtime & Compiler Mechanics|03. Runtime & Compiler Mechanics]]
 │   ├── [[GcShape Stenciling & Dictionaries]]
 │   ├── [[Generic Performance & Benchmarks]]
-│   ├── [[Standard Library Generics (slices, maps, cmp)]]
+│   ├── [[Standard Library Generic Packages]]
 │   ├── [[Generic Best Practices]]
 │   └── [[Generic Anti-Patterns]]
 ```
@@ -38,9 +38,9 @@ Generics
 ## 🗂️ Core Categories & Topics
 
 ### 1. 📂 [[Core Concepts & Type Parameters|01. Core Concepts & Type Parameters]]
-- [[Why Generics?]] — Solving code duplication without reflection or interface{} type assertions.
+- [[Why Generics]] — Solving code duplication without reflection or interface{} type assertions.
 - [[Generic Functions]] — Syntax, type parameter lists, instantiating generic functions.
-- [[Generic Structs & Types]] — Defining generic structs, slices, maps, and interface constraints.
+- [[Generic Structs & Slices]] — Defining generic structs, slices, maps, and interface constraints.
 - [[Type Constraints (any, comparable)]] — Predeclared constraints: any, comparable; type set elements.
 - [[Type Inference]] — Function argument type inference, constraint type inference.
 ### 2. 📂 [[Advanced Constraints & Data Structures|02. Advanced Constraints & Data Structures]]
@@ -51,7 +51,7 @@ Generics
 ### 3. 📂 [[Runtime & Compiler Mechanics|03. Runtime & Compiler Mechanics]]
 - [[GcShape Stenciling & Dictionaries]] — How the Go compiler shares code between pointer types while passing dictionaries.
 - [[Generic Performance & Benchmarks]] — Comparing generic execution speed vs interface{} vs concrete monomorphization.
-- [[Standard Library Generics (slices, maps, cmp)]] — Standard library utility packages powered by type parameters.
+- [[Standard Library Generic Packages]] — Standard library utility packages powered by type parameters.
 - [[Generic Best Practices]] — Writing readable, maintainable generic APIs in Go.
 - [[Generic Anti-Patterns]] — Over-parameterization, generic clutter, using generics where simple interfaces suffice.
 
@@ -60,4 +60,4 @@ Generics
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

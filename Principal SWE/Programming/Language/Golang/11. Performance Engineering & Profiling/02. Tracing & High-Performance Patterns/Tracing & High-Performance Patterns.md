@@ -8,7 +8,7 @@ parent: "[[Performance Engineering & Profiling]]"
 
 # Tracing & High-Performance Patterns
 
-Scheduler execution tracing, benchmark methodology, zero-allocation techniques, and memory alignment.
+go tool trace, benchmark methodology, memory alignment, and zero-allocation techniques.
 
 ```text
 Tracing & High-Performance Patterns

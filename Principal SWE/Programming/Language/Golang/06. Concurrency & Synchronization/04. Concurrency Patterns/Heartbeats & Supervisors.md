@@ -2,7 +2,7 @@
 title: "Heartbeats & Supervisors"
 tags:
   - golang
-  - concurrency
+  - concurrency-patterns
 parent: "[[Concurrency Patterns]]"
 ---
 

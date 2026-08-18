@@ -2,7 +2,7 @@
 title: "Sysmon Background Daemon"
 tags:
   - golang
-  - concurrency
+  - scheduler
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

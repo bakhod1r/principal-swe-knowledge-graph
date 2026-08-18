@@ -2,7 +2,7 @@
 title: "Pointer Receivers"
 tags:
   - golang
-  - methods-and-interfaces
+  - methods
 parent: "[[Methods & Receivers]]"
 ---
 

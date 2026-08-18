@@ -8,7 +8,7 @@ parent: "[[Error Handling]]"
 
 # Core Primitives
 
-The error interface, sentinel errors, errors.New, and fmt.Errorf formatting.
+Error values, the error interface, errors.New, formatting, and nil traps.
 
 ```text
 Core Primitives
@@ -25,12 +25,12 @@ Core Primitives
 
 ## 🗂️ Topics
 
-- [[Errors as First-Class Values]] — Errors as explicit return values, checking if err != nil.
-- [[error Interface Contract]] — The built-in single-method interface contract (Error() string).
-- [[errors.New]] — Creating simple static error values.
-- [[fmt.Errorf Formatting]] — Formatting dynamic error messages with %v, %s, and %d.
-- [[Error String Conventions]] — Lowercase, no trailing punctuation, descriptive message rules.
-- [[nil Error Pitfall]] — Typed nil pointer assigned to error interface causing non-nil interface bug.
+- [[Errors as First-Class Values]] — Explicit error values, if err != nil idiom, and error control flow.
+- [[error Interface Contract]] — The single-method built-in interface contract: Error() string.
+- [[errors.New]] — Creating simple static error values using errors.New().
+- [[fmt.Errorf Formatting]] — Formatting dynamic error messages with %s, %d, and %v.
+- [[Error String Conventions]] — Lowercase, no trailing punctuation, descriptive error phrasing standards.
+- [[nil Error Pitfall]] — Typed nil pointer assigned to error interface creating non-nil interface trap.
 
 ---
 

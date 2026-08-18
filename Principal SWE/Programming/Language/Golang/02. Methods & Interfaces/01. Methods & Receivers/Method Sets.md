@@ -2,7 +2,7 @@
 title: "Method Sets"
 tags:
   - golang
-  - methods-and-interfaces
+  - methods
 parent: "[[Methods & Receivers]]"
 ---
 

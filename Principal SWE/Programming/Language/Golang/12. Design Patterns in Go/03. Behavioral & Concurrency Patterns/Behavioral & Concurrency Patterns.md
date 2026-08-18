@@ -8,7 +8,7 @@ parent: "[[Design Patterns in Go]]"
 
 # Behavioral & Concurrency Patterns
 
-Strategy, observer, iterator, middleware chains, and processing pipelines.
+Behavioral, concurrency, and distributed resilience design patterns in Go.
 
 ```text
 Behavioral & Concurrency Patterns
@@ -17,22 +17,26 @@ Behavioral & Concurrency Patterns
 ├── [[Observer Pattern]]
 ├── [[Iterator Pattern]]
 ├── [[Chain of Responsibility Pattern]]
+├── [[Command Pattern]]
 ├── [[State Pattern]]
-├── [[Middleware Handler Pattern]]
-└── [[Pipeline Pattern]]
+├── [[PubSub Pattern]]
+├── [[Futures and Promises Pattern]]
+└── [[Fail-Fast Pattern]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[Strategy Pattern]] — Swapping business algorithms at runtime via interface injection.
+- [[Strategy Pattern]] — Swapping algorithms at runtime via interface injection.
 - [[Observer Pattern]] — Event notification system using channels and listener registries.
-- [[Iterator Pattern]] — Iterating custom collections using callbacks, channels, and Go 1.23 iterators.
-- [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of handlers.
+- [[Iterator Pattern]] — Iterating collections using callbacks, channels, and Go 1.23 iterators.
+- [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of middleware handlers.
+- [[Command Pattern]] — Encapsulating requests as objects with undo/redo execution capabilities.
 - [[State Pattern]] — Encapsulating object behavior transitions based on internal state machines.
-- [[Middleware Handler Pattern]] — HTTP handler chaining with onion-layer request/response processing.
-- [[Pipeline Pattern]] — Connecting multi-stage concurrent processing steps through channels.
+- [[PubSub Pattern]] — Decoupled publisher-subscriber messaging with topic routing.
+- [[Futures and Promises Pattern]] — Async value computation using channels and read-only signaling.
+- [[Fail-Fast Pattern]] — Early validation and fail-fast assertions in distributed systems.
 
 ---
 

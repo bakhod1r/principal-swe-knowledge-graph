@@ -8,7 +8,7 @@ parent: "[[WebAssembly & Alternative Targets]]"
 
 # Embedded & Microcontrollers
 
-TinyGo compiler optimizations for microcontrollers (Arduino, ESP32, Raspberry Pi Pico) and ultra-small WASM.
+TinyGo LLVM compiler, embedded hardware, and microcontroller peripherals.
 
 ```text
 Embedded & Microcontrollers

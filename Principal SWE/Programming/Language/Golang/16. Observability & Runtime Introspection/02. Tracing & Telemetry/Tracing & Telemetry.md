@@ -8,7 +8,7 @@ parent: "[[Observability & Runtime Introspection]]"
 
 # Tracing & Telemetry
 
-Runtime tracing integration, OpenTelemetry distributed tracing and span propagation.
+runtime/trace user regions, OpenTelemetry Go SDK, and OTLP distributed tracing.
 
 ```text
 Tracing & Telemetry

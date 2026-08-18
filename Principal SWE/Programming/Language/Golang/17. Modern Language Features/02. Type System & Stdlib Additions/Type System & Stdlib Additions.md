@@ -8,7 +8,7 @@ parent: "[[Modern Language Features]]"
 
 # Type System & Stdlib Additions
 
-Generic type aliases (Go 1.24+), sync.Map modern methods, and newly introduced standard packages.
+Generic type aliases, slices/maps stdlib algorithms, and synctest package.
 
 ```text
 Type System & Stdlib Additions

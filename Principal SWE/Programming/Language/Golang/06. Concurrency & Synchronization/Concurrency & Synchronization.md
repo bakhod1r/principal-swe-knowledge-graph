@@ -30,7 +30,7 @@ Concurrency & Synchronization
 │   ├── [[sync.Mutex (Normal vs Starvation)]]
 │   ├── [[sync.RWMutex]]
 │   ├── [[sync.WaitGroup]]
-│   ├── [[sync.Once]]
+│   ├── [[sync.Once & sync.OnceFunc]]
 │   ├── [[sync.Pool]]
 │   ├── [[sync.Map]]
 │   ├── [[context.Context Tree]]
@@ -75,7 +75,7 @@ Concurrency & Synchronization
 - [[sync.Mutex (Normal vs Starvation)]] — Bimodal mutex algorithm: high throughput spin vs fair FIFO handoff.
 - [[sync.RWMutex]] — Reader-writer lock with writer starvation prevention.
 - [[sync.WaitGroup]] — Atomic counter synchronization for coordinating goroutine completion.
-- [[sync.Once]] — Atomic fast-path initialization with double-checked locking.
+- [[sync.Once & sync.OnceFunc]] — Atomic fast-path initialization with double-checked locking.
 - [[sync.Pool]] — Lock-free per-P cache for allocating and reusing short-lived temporary objects.
 - [[sync.Map]] — Concurrent map optimized for append-only keys and disjoint key reads.
 - [[context.Context Tree]] — Cancellation propagation, deadlines, timeouts, and request-scoped values.
@@ -104,4 +104,4 @@ Concurrency & Synchronization
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

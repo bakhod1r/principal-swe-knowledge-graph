@@ -2,19 +2,19 @@
 title: Runtime Internals & Architecture
 tags:
   - golang
-  - methods-and-interfaces
+  - interfaces
 parent: "[[Methods & Interfaces]]"
 ---
 
 # Runtime Internals & Architecture
 
-Memory representation of interfaces (iface, eface), dynamic dispatch tables (itab), and design patterns.
+Runtime representation (iface/eface), itab dispatch table, allocation profile, and architectural principles.
 
 ```text
 Runtime Internals & Architecture
 │
 ├── [[iface and eface Structs]]
-├── [[itab and Dynamic Dispatch]]
+├── [[itab Dynamic Dispatch Table]]
 ├── [[Interface Allocation Cost]]
 ├── [[Interface Best Practices]]
 └── [[Interface Anti-Patterns]]
@@ -24,11 +24,11 @@ Runtime Internals & Architecture
 
 ## 🗂️ Topics
 
-- [[iface and eface Structs]] — Two-word structure: _type/itab pointer + data pointer.
-- [[itab and Dynamic Dispatch]] — Virtual method table construction, caching, and dispatch cost.
-- [[Interface Allocation Cost]] — When assigning a concrete value to an interface causes a heap allocation.
-- [[Interface Best Practices]] — Accept interfaces, return structs; small interfaces; consumer-defined interfaces.
-- [[Interface Anti-Patterns]] — Premature abstraction, interface pollution, returning interfaces.
+- [[iface and eface Structs]] — Two-word runtime interface representation: tab/type pointer and data pointer.
+- [[itab Dynamic Dispatch Table]] — Interface table layout, method offset resolution, and runtime dispatch performance.
+- [[Interface Allocation Cost]] — When converting concrete values to interfaces triggers heap allocations.
+- [[Interface Best Practices]] — Accept interfaces, return structs; keep interfaces small; define interfaces at point of consumption.
+- [[Interface Anti-Patterns]] — Interface pollution, premature abstraction, mocking what you do not own.
 
 ---
 
