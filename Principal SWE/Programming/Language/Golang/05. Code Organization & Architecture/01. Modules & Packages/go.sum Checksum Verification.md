@@ -3,6 +3,7 @@ title: "go.sum Checksum Verification"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

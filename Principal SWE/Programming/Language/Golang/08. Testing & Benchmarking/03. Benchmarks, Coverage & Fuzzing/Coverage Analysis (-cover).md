@@ -3,6 +3,7 @@ title: "Coverage Analysis (-cover)"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Benchmarks, Coverage & Fuzzing]]"
 ---
 

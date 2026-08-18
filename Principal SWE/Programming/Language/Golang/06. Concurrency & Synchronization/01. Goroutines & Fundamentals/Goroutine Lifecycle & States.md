@@ -3,6 +3,7 @@ title: "Goroutine Lifecycle & States"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

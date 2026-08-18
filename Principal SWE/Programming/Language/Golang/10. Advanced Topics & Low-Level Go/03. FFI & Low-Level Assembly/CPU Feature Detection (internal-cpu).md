@@ -3,6 +3,7 @@ title: "CPU Feature Detection (internal-cpu)"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[FFI & Low-Level Assembly]]"
 ---
 

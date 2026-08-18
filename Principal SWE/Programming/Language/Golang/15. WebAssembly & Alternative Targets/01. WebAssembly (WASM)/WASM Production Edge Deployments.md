@@ -3,6 +3,7 @@ title: "WASM Production Edge Deployments"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly (WASM)]]"
 ---
 

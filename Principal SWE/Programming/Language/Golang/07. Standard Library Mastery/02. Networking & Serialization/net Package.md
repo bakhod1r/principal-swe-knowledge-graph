@@ -3,6 +3,7 @@ title: "net Package"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Networking & Serialization]]"
 ---
 

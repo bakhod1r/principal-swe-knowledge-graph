@@ -3,6 +3,7 @@ title: "Domain vs Infrastructure Errors"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

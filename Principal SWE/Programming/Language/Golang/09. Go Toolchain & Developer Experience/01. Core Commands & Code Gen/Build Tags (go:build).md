@@ -3,6 +3,7 @@ title: "Build Tags (go:build)"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Core Commands & Code Gen]]"
 ---
 

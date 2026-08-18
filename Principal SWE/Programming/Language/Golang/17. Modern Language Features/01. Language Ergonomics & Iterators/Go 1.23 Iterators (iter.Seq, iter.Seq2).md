@@ -3,6 +3,7 @@ title: "Go 1.23 Iterators (iter.Seq, iter.Seq2)"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Language Ergonomics & Iterators]]"
 ---
 

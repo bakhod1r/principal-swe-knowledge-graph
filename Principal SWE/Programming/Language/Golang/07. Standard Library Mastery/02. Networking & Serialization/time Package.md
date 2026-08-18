@@ -3,6 +3,7 @@ title: "time Package"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Networking & Serialization]]"
 ---
 

@@ -2,7 +2,8 @@
 title: "itab Dynamic Dispatch Table"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Runtime Internals & Architecture]]"
 ---
 

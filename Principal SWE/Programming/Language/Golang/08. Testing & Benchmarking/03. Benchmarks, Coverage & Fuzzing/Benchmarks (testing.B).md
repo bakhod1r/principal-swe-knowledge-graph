@@ -3,6 +3,7 @@ title: "Benchmarks (testing.B)"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Benchmarks, Coverage & Fuzzing]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Runtime Bootstrapping (rt0_go, schedinit)"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Core Architecture]]"
 ---
 

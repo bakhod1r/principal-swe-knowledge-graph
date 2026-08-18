@@ -3,6 +3,7 @@ title: "synctest Experimental Testing Package"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Type System & Stdlib Additions]]"
 ---
 

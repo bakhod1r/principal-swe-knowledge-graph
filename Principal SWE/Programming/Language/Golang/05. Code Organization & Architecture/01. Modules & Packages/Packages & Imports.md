@@ -3,6 +3,7 @@ title: "Packages & Imports"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

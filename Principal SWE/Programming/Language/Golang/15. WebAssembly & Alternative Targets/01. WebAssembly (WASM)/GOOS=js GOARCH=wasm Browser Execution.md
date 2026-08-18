@@ -3,6 +3,7 @@ title: "GOOS=js GOARCH=wasm Browser Execution"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly (WASM)]]"
 ---
 

@@ -2,7 +2,8 @@
 title: "Rate Limiting & Token Bucket"
 tags:
   - golang
-  - concurrency-patterns
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency Patterns]]"
 ---
 

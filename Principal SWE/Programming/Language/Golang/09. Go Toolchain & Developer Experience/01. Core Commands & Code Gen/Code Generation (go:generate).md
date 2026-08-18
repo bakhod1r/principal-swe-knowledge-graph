@@ -3,6 +3,7 @@ title: "Code Generation (go:generate)"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Core Commands & Code Gen]]"
 ---
 

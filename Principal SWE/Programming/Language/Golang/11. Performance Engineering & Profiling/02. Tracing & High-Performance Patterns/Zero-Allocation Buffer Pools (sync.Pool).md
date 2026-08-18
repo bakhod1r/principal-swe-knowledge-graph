@@ -3,6 +3,7 @@ title: "Zero-Allocation Buffer Pools (sync.Pool)"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Tracing & High-Performance Patterns]]"
 ---
 

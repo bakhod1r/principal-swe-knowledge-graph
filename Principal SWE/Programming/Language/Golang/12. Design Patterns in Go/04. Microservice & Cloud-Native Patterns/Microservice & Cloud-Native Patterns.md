@@ -1,3 +1,7 @@
+- [[Event Sourcing & CQRS in Go]] — Command and Query responsibility segregation with append-only event stores and projections.
+
+- [[Transactional Inbox & Outbox Orchestration]] — Guaranteeing idempotent consumer processing and exactly-once semantics.
+
 ---
 title: Microservice & Cloud-Native Patterns
 tags:

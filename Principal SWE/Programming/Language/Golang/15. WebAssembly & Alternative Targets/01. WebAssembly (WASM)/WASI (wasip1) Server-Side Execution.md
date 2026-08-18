@@ -3,6 +3,7 @@ title: "WASI (wasip1) Server-Side Execution"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly (WASM)]]"
 ---
 

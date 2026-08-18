@@ -3,6 +3,7 @@ title: "Struct Padding & Field Alignment"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Tracing & High-Performance Patterns]]"
 ---
 

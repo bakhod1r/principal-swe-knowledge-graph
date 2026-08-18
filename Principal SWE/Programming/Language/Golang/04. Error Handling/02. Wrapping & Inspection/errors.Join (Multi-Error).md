@@ -3,6 +3,7 @@ title: "errors.Join (Multi-Error)"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

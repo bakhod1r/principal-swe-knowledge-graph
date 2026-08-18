@@ -3,6 +3,7 @@ title: "golangci-lint Architecture"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Quality, Security & Debugging]]"
 ---
 

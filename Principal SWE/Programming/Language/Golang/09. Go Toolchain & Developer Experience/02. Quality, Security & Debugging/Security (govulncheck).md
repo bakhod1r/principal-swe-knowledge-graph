@@ -3,6 +3,7 @@ title: "Security (govulncheck)"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Quality, Security & Debugging]]"
 ---
 

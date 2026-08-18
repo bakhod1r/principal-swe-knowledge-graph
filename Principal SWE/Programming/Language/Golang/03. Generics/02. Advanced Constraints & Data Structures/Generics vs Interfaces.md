@@ -3,6 +3,7 @@ title: "Generics vs Interfaces"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Advanced Constraints & Data Structures]]"
 ---
 

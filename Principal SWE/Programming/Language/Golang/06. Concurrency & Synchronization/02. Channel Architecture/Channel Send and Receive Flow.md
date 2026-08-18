@@ -2,7 +2,8 @@
 title: "Channel Send and Receive Flow"
 tags:
   - golang
-  - channels
+  - concurrency
+  - principal-swe
 parent: "[[Channel Architecture]]"
 ---
 

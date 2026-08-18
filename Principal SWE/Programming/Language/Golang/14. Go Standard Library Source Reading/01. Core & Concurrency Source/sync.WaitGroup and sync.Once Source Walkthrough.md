@@ -3,6 +3,7 @@ title: "sync.WaitGroup and sync.Once Source Walkthrough"
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Core & Concurrency Source]]"
 ---
 

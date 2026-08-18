@@ -3,6 +3,7 @@ title: "Handle Errors, Don't Just Check"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

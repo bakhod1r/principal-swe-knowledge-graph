@@ -3,6 +3,7 @@ title: "go vet Static Analyzer"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Quality, Security & Debugging]]"
 ---
 

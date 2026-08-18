@@ -3,6 +3,7 @@ title: "Singleton Pattern (sync.Once)"
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Creational Patterns]]"
 ---
 

@@ -3,6 +3,7 @@ title: "internal- Visibility Enforcement"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Project Layout & Boundaries]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Error String Conventions"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

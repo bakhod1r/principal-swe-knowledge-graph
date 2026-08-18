@@ -2,7 +2,8 @@
 title: "Lock-Free Programming & CAS"
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

@@ -3,6 +3,7 @@ title: "errors.New"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

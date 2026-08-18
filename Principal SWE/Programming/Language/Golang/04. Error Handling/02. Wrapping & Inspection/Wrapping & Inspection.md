@@ -3,12 +3,13 @@ title: Wrapping & Inspection
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Error Handling]]"
 ---
 
 # Wrapping & Inspection
 
-Error wrapping (%w), unwrapping, errors.Is, errors.As, errors.Join, and sentinel errors.
+Error chaining with %w, deep unwrapping, errors.Is, errors.As, and errors.Join.
 
 ```text
 Wrapping & Inspection
@@ -19,7 +20,8 @@ Wrapping & Inspection
 ├── [[errors.As and Custom As()]]
 ├── [[errors.Join (Multi-Error)]]
 ├── [[Sentinel Errors]]
-└── [[Custom Error Types]]
+├── [[Custom Error Types]]
+└── [[Error Tree Traversal Algorithms]]
 ```
 
 ---
@@ -33,6 +35,7 @@ Wrapping & Inspection
 - [[errors.Join (Multi-Error)]] — Combining multiple concurrent or independent errors into a single error.
 - [[Sentinel Errors]] — Exported package constants (io.EOF, sql.ErrNoRows) and comparison rules.
 - [[Custom Error Types]] — Implementing structured error structs containing error codes and context.
+- [[Error Tree Traversal Algorithms]] — Recursive unwrapping and multi-error branch traversal.
 
 ---
 

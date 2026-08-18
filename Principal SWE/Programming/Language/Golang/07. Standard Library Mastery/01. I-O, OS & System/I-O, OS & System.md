@@ -3,12 +3,13 @@ title: I-O, OS & System
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Standard Library Mastery]]"
 ---
 
 # I-O, OS & System
 
-I/O streaming, buffered I/O, OS interactions, file paths, and embedded virtual filesystems.
+Stream processing with io.Reader/Writer, buffered I/O, OS interactions, flags, and embedded assets.
 
 ```text
 I-O, OS & System

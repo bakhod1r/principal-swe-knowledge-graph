@@ -3,6 +3,7 @@ title: "reflect.Type and reflect.Value"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Metaprogramming & Low-Level]]"
 ---
 

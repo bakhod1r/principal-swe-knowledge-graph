@@ -3,6 +3,7 @@ title: "Golden Files Snapshot Testing"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Mocks, HTTP & Integration]]"
 ---
 

@@ -3,6 +3,7 @@ title: "bufio Package"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[I-O, OS & System]]"
 ---
 

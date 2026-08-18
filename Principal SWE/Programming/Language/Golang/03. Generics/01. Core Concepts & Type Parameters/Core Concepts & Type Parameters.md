@@ -3,12 +3,13 @@ title: Core Concepts & Type Parameters
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Generics]]"
 ---
 
 # Core Concepts & Type Parameters
 
-Generic functions, generic types, constraints, and type inference.
+Motivation, type parameter syntax, generic functions, types, and type inference.
 
 ```text
 Core Concepts & Type Parameters
@@ -17,7 +18,8 @@ Core Concepts & Type Parameters
 ├── [[Generic Functions]]
 ├── [[Generic Structs & Slices]]
 ├── [[Type Constraints (any, comparable)]]
-└── [[Type Inference]]
+├── [[Type Inference]]
+└── [[Generic Instantiation & Type Arguments]]
 ```
 
 ---
@@ -29,6 +31,7 @@ Core Concepts & Type Parameters
 - [[Generic Structs & Slices]] — Parameterized structs, custom generic slice/map collection wrappers.
 - [[Type Constraints (any, comparable)]] — Builtin constraints: any (interface{}), comparable (equality checkable).
 - [[Type Inference]] — Function argument type inference and constraint type inference mechanics.
+- [[Generic Instantiation & Type Arguments]] — Explicit vs implicit type argument instantiation.
 
 ---
 

@@ -2,7 +2,8 @@
 title: "Cancellation & Graceful Shutdown"
 tags:
   - golang
-  - concurrency-patterns
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency Patterns]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Type Constraints (any, comparable)"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Core Concepts & Type Parameters]]"
 ---
 

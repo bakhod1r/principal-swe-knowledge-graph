@@ -3,6 +3,7 @@ title: "Fx Runtime DI"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Architecture & Dependency Injection]]"
 ---
 

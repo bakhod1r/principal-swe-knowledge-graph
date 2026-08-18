@@ -3,6 +3,7 @@ title: "Custom Error Types"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

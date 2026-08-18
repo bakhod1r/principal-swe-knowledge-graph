@@ -3,6 +3,7 @@ title: "Property-Based Testing"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Mocks, HTTP & Integration]]"
 ---
 

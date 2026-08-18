@@ -3,6 +3,7 @@ title: "net-http Server Lifecycle"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Networking & Serialization]]"
 ---
 

@@ -2,7 +2,8 @@
 title: "sync.Map"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

@@ -1,3 +1,7 @@
+- [[GOMEMLIMIT Memory Balancer]] — Go 1.19+ soft memory limit preventing container OOM kills and tuning GC pacing.
+
+- [[GOMAXPROCS vs CFS Quota Throttling]] — Kubernetes CFS bandwidth throttling and automating core counts with automaxprocs.
+
 ---
 title: Build Caching & Reproducibility
 tags:

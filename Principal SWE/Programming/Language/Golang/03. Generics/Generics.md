@@ -19,12 +19,17 @@ Generics
 │   ├── [[Generic Functions]]
 │   ├── [[Generic Structs & Slices]]
 │   ├── [[Type Constraints (any, comparable)]]
-│   └── [[Type Inference]]
+│   ├── [[Type Inference]]
+│   └── [[Generic Instantiation & Type Arguments]]
 ├── [[Advanced Constraints & Data Structures|02. Advanced Constraints & Data Structures]]
 │   ├── [[Type Sets and Union Constraints]]
+│   ├── [[Approximation Element (~T)]]
+│   ├── [[Generic Lock-Free Queue]]
+│   ├── [[Generic Concurrent Skip List]]
 │   ├── [[Generic Data Structures]]
 │   ├── [[Generics vs Interfaces]]
-│   └── [[Generic Limitations]]
+│   ├── [[Generic Limitations]]
+│   └── [[Recursive Type Constraints]]
 └── [[Runtime & Compiler Mechanics|03. Runtime & Compiler Mechanics]]
 │   ├── [[GcShape Stenciling & Dictionaries]]
 │   ├── [[Generic Performance & Benchmarks]]
@@ -38,26 +43,31 @@ Generics
 ## 🗂️ Core Categories & Topics
 
 ### 1. 📂 [[Core Concepts & Type Parameters|01. Core Concepts & Type Parameters]]
-- [[Why Generics]] — Solving code duplication without reflection or interface{} type assertions.
-- [[Generic Functions]] — Syntax, type parameter lists, instantiating generic functions.
-- [[Generic Structs & Slices]] — Defining generic structs, slices, maps, and interface constraints.
-- [[Type Constraints (any, comparable)]] — Predeclared constraints: any, comparable; type set elements.
-- [[Type Inference]] — Function argument type inference, constraint type inference.
+- [[Why Generics]] — Eliminating code duplication and dynamic type assertions without reflection overhead.
+- [[Generic Functions]] — Syntax for declaring and invoking parameterized functions with [T any].
+- [[Generic Structs & Slices]] — Parameterized structs, custom generic slice/map collection wrappers.
+- [[Type Constraints (any, comparable)]] — Builtin constraints: any (interface{}), comparable (equality checkable).
+- [[Type Inference]] — Function argument type inference and constraint type inference mechanics.
+- [[Generic Instantiation & Type Arguments]] — Explicit vs implicit type argument instantiation.
 ### 2. 📂 [[Advanced Constraints & Data Structures|02. Advanced Constraints & Data Structures]]
-- [[Type Sets and Union Constraints]] — Union constraints (|), approximation elements (~int), custom constraint interfaces.
-- [[Generic Data Structures]] — Building generic Trees, Linked Lists, Ring Buffers, and Caches.
-- [[Generics vs Interfaces]] — When to use type parameters vs dynamic interface polymorphism.
+- [[Type Sets and Union Constraints]] — Defining type sets with union operator (|) and custom constraint interfaces.
+- [[Approximation Element (~T)]] — Allowing defined types with underlying type T using tilde operator (~int).
+- [[Generic Lock-Free Queue]] — High-concurrency generic queue using atomic CAS operations.
+- [[Generic Concurrent Skip List]] — Probabilistic search structure with concurrent lock-free reads.
+- [[Generic Data Structures]] — Building generic Binary Trees, Linked Lists, Ring Buffers, and LRU Caches.
+- [[Generics vs Interfaces]] — Architectural decision framework: compile-time parametric polymorphism vs dynamic polymorphism.
 - [[Generic Limitations]] — No generic methods on non-generic types, no type assertions on type parameters.
+- [[Recursive Type Constraints]] — Self-referential constraints (type Node[T Node[T]] interface).
 ### 3. 📂 [[Runtime & Compiler Mechanics|03. Runtime & Compiler Mechanics]]
-- [[GcShape Stenciling & Dictionaries]] — How the Go compiler shares code between pointer types while passing dictionaries.
-- [[Generic Performance & Benchmarks]] — Comparing generic execution speed vs interface{} vs concrete monomorphization.
-- [[Standard Library Generic Packages]] — Standard library utility packages powered by type parameters.
-- [[Generic Best Practices]] — Writing readable, maintainable generic APIs in Go.
-- [[Generic Anti-Patterns]] — Over-parameterization, generic clutter, using generics where simple interfaces suffice.
+- [[GcShape Stenciling & Dictionaries]] — Go compiler GcShape sharing and runtime dictionary parameter passing.
+- [[Generic Performance & Benchmarks]] — Execution speed, binary size, and allocation profile of generics vs interfaces.
+- [[Standard Library Generic Packages]] — slices, maps, and cmp standard packages algorithms.
+- [[Generic Best Practices]] — When to use generics, API readability, maintaining simplicity.
+- [[Generic Anti-Patterns]] — Over-parameterization, generic clutter, building complex type hierarchies.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

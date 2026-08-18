@@ -3,6 +3,7 @@ title: "Generic Limitations"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Advanced Constraints & Data Structures]]"
 ---
 

@@ -3,12 +3,13 @@ title: Core Primitives
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Error Handling]]"
 ---
 
 # Core Primitives
 
-Error values, the error interface, errors.New, formatting, and nil traps.
+The error interface, sentinel errors, errors.New, and fmt.Errorf formatting.
 
 ```text
 Core Primitives

@@ -3,6 +3,7 @@ title: "Generic Performance & Benchmarks"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Runtime & Compiler Mechanics]]"
 ---
 

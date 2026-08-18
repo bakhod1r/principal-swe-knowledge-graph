@@ -3,6 +3,7 @@ title: "Goroutine Panic Isolation"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

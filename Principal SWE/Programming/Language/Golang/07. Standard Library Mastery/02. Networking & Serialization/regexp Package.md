@@ -3,6 +3,7 @@ title: "regexp Package"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Networking & Serialization]]"
 ---
 

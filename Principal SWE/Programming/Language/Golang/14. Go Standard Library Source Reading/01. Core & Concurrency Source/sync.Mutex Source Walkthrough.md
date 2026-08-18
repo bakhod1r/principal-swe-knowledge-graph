@@ -3,6 +3,7 @@ title: "sync.Mutex Source Walkthrough"
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Core & Concurrency Source]]"
 ---
 

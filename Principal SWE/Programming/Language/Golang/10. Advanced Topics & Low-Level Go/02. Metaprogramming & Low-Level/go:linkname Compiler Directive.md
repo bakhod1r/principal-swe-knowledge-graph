@@ -3,6 +3,7 @@ title: "go:linkname Compiler Directive"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Metaprogramming & Low-Level]]"
 ---
 

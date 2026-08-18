@@ -3,6 +3,7 @@ title: "Goroutines vs OS Threads"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

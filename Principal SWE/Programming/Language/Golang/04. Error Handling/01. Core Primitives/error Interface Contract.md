@@ -3,6 +3,7 @@ title: "error Interface Contract"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

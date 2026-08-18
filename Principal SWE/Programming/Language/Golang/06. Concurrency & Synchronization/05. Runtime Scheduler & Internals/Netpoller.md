@@ -2,7 +2,8 @@
 title: "Netpoller"
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

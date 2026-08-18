@@ -22,7 +22,8 @@ WebAssembly & Alternative Targets
 │   └── [[WASM Production Edge Deployments]]
 └── [[Embedded & Microcontrollers|02. Embedded & Microcontrollers]]
 │   ├── [[TinyGo LLVM Compiler Architecture]]
-│   └── [[Embedded GPIO & Hardware Peripherals]]
+│   ├── [[Embedded GPIO & Hardware Peripherals]]
+│   └── [[Memory-Constrained Optimization in TinyGo]]
 ```
 
 ---
@@ -38,10 +39,11 @@ WebAssembly & Alternative Targets
 ### 2. 📂 [[Embedded & Microcontrollers|02. Embedded & Microcontrollers]]
 - [[TinyGo LLVM Compiler Architecture]] — LLVM-based TinyGo compiler, custom tiny runtime, memory-constrained optimization.
 - [[Embedded GPIO & Hardware Peripherals]] — Controlling LEDs, sensors, I2C, SPI, UART on Arduino, ESP32, and Raspberry Pi Pico.
+- [[Memory-Constrained Optimization in TinyGo]] — Managing heap allocations under 64KB RAM microcontroller constraints.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

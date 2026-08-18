@@ -3,6 +3,7 @@ title: "runtime-trace Application Tracing"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Tracing & Telemetry]]"
 ---
 

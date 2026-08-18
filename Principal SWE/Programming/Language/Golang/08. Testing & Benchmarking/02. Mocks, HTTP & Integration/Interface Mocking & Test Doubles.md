@@ -3,6 +3,7 @@ title: "Interface Mocking & Test Doubles"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Mocks, HTTP & Integration]]"
 ---
 

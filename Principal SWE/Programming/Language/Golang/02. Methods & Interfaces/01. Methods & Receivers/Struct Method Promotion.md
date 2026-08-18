@@ -2,7 +2,8 @@
 title: "Struct Method Promotion"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 

@@ -3,6 +3,7 @@ title: "GcShape Stenciling & Dictionaries"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Runtime & Compiler Mechanics]]"
 ---
 

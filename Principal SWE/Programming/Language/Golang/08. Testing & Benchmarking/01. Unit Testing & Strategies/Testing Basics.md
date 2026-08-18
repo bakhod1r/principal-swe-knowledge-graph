@@ -3,6 +3,7 @@ title: "Testing Basics"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Unit Testing & Strategies]]"
 ---
 

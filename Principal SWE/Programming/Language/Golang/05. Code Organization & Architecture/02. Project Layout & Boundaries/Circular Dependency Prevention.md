@@ -3,6 +3,7 @@ title: "Circular Dependency Prevention"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Project Layout & Boundaries]]"
 ---
 

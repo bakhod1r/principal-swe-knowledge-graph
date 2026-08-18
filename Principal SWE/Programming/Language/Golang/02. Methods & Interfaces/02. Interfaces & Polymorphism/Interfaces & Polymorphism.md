@@ -2,13 +2,14 @@
 title: Interfaces & Polymorphism
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Interfaces]]"
 ---
 
 # Interfaces & Polymorphism
 
-Interface contracts, implicit implementation, polymorphism, type assertions, and standard interfaces.
+Implicit satisfaction, empty interface (any), composition, type assertions, type switches, and ISP.
 
 ```text
 Interfaces & Polymorphism
@@ -19,7 +20,9 @@ Interfaces & Polymorphism
 ├── [[Type Assertions]]
 ├── [[Type Switch]]
 ├── [[Common Standard Library Interfaces]]
-└── [[Sealed Interfaces]]
+├── [[Sealed Interfaces]]
+├── [[Interface Nil Checking Trap]]
+└── [[Interface Segregation Principle in Go]]
 ```
 
 ---
@@ -33,6 +36,8 @@ Interfaces & Polymorphism
 - [[Type Switch]] — Multi-type branch dispatching using switch v := i.(type).
 - [[Common Standard Library Interfaces]] — Core contracts: io.Reader, io.Writer, io.Closer, fmt.Stringer, error, sort.Interface.
 - [[Sealed Interfaces]] — Restricting external implementations using unexported method tokens.
+- [[Interface Nil Checking Trap]] — Why an interface holding a typed nil pointer is not equal to nil (iface.data vs iface.tab).
+- [[Interface Segregation Principle in Go]] — Designing minimal single-method interfaces defined at point of consumption.
 
 ---
 

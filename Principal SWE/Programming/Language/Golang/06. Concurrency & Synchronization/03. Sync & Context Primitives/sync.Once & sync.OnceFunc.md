@@ -2,7 +2,8 @@
 title: "sync.Once & sync.OnceFunc"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

@@ -3,6 +3,7 @@ title: "OTLP Exporter Integration & Span Propagation"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Tracing & Telemetry]]"
 ---
 

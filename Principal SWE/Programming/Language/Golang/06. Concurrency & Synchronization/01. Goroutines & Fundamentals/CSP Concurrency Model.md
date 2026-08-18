@@ -3,6 +3,7 @@ title: "CSP Concurrency Model"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

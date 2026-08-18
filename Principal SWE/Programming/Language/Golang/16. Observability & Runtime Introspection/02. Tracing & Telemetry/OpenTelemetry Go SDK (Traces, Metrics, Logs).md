@@ -3,6 +3,7 @@ title: "OpenTelemetry Go SDK (Traces, Metrics, Logs)"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Tracing & Telemetry]]"
 ---
 

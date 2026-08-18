@@ -3,6 +3,7 @@ title: "go tool Suite"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Core Commands & Code Gen]]"
 ---
 

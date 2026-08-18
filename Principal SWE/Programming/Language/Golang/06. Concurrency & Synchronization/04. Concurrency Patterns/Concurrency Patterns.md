@@ -2,13 +2,14 @@
 title: Concurrency Patterns
 tags:
   - golang
-  - concurrency-patterns
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency & Synchronization]]"
 ---
 
 # Concurrency Patterns
 
-Worker pools, pipelines, fan-in/fan-out, cancellation, rate limiting, and failure modes.
+Worker pools, fan-in/fan-out, pipeline processing, rate limiting, and deadlock prevention.
 
 ```text
 Concurrency Patterns

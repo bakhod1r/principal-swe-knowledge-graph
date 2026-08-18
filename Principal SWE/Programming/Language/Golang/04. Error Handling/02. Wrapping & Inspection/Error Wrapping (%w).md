@@ -3,6 +3,7 @@ title: "Error Wrapping (%w)"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

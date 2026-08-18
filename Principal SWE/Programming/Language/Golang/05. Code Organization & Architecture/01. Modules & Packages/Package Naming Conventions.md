@@ -3,6 +3,7 @@ title: "Package Naming Conventions"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

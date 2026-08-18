@@ -2,7 +2,8 @@
 title: "Cross-Package Method Rules"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 

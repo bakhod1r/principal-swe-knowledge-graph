@@ -3,6 +3,7 @@ title: "benchstat Statistical Analysis"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Benchmarks, Coverage & Fuzzing]]"
 ---
 

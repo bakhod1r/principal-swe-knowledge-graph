@@ -3,6 +3,7 @@ title: "Composite Pattern"
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Structural Patterns]]"
 ---
 

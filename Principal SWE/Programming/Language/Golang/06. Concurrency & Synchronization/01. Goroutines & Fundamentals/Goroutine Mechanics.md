@@ -3,6 +3,7 @@ title: "Goroutine Mechanics"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

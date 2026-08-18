@@ -3,6 +3,7 @@ title: "Parallel Tests (t.Parallel)"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Unit Testing & Strategies]]"
 ---
 

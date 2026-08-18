@@ -3,6 +3,7 @@ title: "Workspaces (go.work)"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Project Layout & Boundaries]]"
 ---
 

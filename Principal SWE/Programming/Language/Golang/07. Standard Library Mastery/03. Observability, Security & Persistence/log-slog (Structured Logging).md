@@ -3,6 +3,7 @@ title: "log-slog (Structured Logging)"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

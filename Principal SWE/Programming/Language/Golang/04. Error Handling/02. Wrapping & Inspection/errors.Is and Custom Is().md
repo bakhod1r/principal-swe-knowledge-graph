@@ -3,6 +3,7 @@ title: "errors.Is and Custom Is()"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

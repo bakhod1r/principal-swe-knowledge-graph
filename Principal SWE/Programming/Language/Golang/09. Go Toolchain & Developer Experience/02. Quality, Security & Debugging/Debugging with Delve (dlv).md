@@ -3,6 +3,7 @@ title: "Debugging with Delve (dlv)"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Quality, Security & Debugging]]"
 ---
 

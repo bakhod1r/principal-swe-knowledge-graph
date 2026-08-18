@@ -2,7 +2,8 @@
 title: "GOMAXPROCS Tuning"
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

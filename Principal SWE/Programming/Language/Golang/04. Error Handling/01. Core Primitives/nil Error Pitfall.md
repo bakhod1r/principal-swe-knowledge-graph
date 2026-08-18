@@ -3,6 +3,7 @@ title: "nil Error Pitfall"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

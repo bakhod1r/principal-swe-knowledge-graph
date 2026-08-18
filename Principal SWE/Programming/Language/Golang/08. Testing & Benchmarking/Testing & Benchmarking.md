@@ -20,14 +20,17 @@ Testing & Benchmarking
 │   ├── [[Subtests (t.Run)]]
 │   ├── [[Test Helpers (t.Helper)]]
 │   ├── [[TestMain Function]]
-│   └── [[Parallel Tests (t.Parallel)]]
+│   ├── [[Parallel Tests (t.Parallel)]]
+│   └── [[t.Cleanup Resource Hooks]]
 ├── [[Mocks, HTTP & Integration|02. Mocks, HTTP & Integration]]
 │   ├── [[Interface Mocking & Test Doubles]]
 │   ├── [[httptest Package]]
 │   ├── [[Golden Files Snapshot Testing]]
-│   └── [[Testcontainers in Go]]
+│   ├── [[Testcontainers in Go]]
+│   └── [[Property-Based Testing]]
 └── [[Benchmarks, Coverage & Fuzzing|03. Benchmarks, Coverage & Fuzzing]]
 │   ├── [[Benchmarks (testing.B)]]
+│   ├── [[Parallel Benchmarks (b.RunParallel)]]
 │   ├── [[benchstat Statistical Analysis]]
 │   ├── [[Coverage Analysis (-cover)]]
 │   ├── [[Fuzz Testing (testing.F)]]
@@ -45,13 +48,16 @@ Testing & Benchmarking
 - [[Test Helpers (t.Helper)]] — Marking helper functions to keep stack traces pointing to actual test lines.
 - [[TestMain Function]] — Global test suite setup and teardown hooks (m.Run()).
 - [[Parallel Tests (t.Parallel)]] — Concurrent test execution, isolating test state, detecting races under test.
+- [[t.Cleanup Resource Hooks]] — Registering reliable cleanup callbacks executed on test termination.
 ### 2. 📂 [[Mocks, HTTP & Integration|02. Mocks, HTTP & Integration]]
 - [[Interface Mocking & Test Doubles]] — Hand-written fakes vs generated mocks (mockery, gomock).
 - [[httptest Package]] — httptest.NewServer, httptest.ResponseRecorder for isolated HTTP handler testing.
 - [[Golden Files Snapshot Testing]] — Validating complex output payloads (JSON, HTML) against snapshot files (-update flag).
 - [[Testcontainers in Go]] — Spinning up real PostgreSQL, Redis, and Kafka containers during integration tests.
+- [[Property-Based Testing]] — Generative property testing using testing/quick and gopter.
 ### 3. 📂 [[Benchmarks, Coverage & Fuzzing|03. Benchmarks, Coverage & Fuzzing]]
 - [[Benchmarks (testing.B)]] — b.N iterations, b.ResetTimer(), b.ReportAllocs(), memory allocation tracking.
+- [[Parallel Benchmarks (b.RunParallel)]] — Testing concurrent throughput under multi-threaded load.
 - [[benchstat Statistical Analysis]] — Comparing benchmark results before and after code changes with statistical confidence.
 - [[Coverage Analysis (-cover)]] — go test -cover, generating HTML coverage profiles, enforcing coverage gates in CI.
 - [[Fuzz Testing (testing.F)]] — Randomized input mutation engine for discovering edge-case crashes and vulnerabilities.
@@ -62,4 +68,4 @@ Testing & Benchmarking
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

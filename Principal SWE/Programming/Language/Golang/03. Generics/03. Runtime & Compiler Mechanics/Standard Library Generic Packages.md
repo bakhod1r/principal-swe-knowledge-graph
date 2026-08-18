@@ -3,6 +3,7 @@ title: "Standard Library Generic Packages"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Runtime & Compiler Mechanics]]"
 ---
 

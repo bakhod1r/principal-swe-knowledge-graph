@@ -1,3 +1,5 @@
+- [[Distributed Consensus & Raft in Go]] — Leader election, log replication, and state machine replication with hashicorp-raft and etcd-raft.
+
 ---
 title: Distributed Concurrency & Resilience
 tags:
@@ -9,7 +11,7 @@ parent: "[[Concurrency & Synchronization]]"
 
 # Distributed Concurrency & Resilience
 
-Distributed concurrency, circuit breaking, distributed rate limiting, and outbox patterns.
+Distributed concurrency patterns, circuit breakers, rate limiters, and outbox patterns.
 
 ```text
 Distributed Concurrency & Resilience

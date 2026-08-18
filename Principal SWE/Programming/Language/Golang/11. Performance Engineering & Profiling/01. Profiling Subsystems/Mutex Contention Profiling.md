@@ -3,6 +3,7 @@ title: "Mutex Contention Profiling"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Profiling Subsystems]]"
 ---
 

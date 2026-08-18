@@ -44,7 +44,7 @@ Go Toolchain & Developer Experience
 - [[golangci-lint Architecture]] — Configuring multi-linter pipelines, fast caching, linters settings (.golangci.yml).
 - [[Security (govulncheck)]] — Scanning dependencies for known CVEs using Go vulnerability database and call-graph analysis.
 - [[Debugging with Delve (dlv)]] — Setting breakpoints, inspecting goroutine stacks, evaluating variables with dlv CLI/IDE.
-- [[Runtime Diagnostic Flags (GODEBUG)]] — gctrace=1, schedtrace=1000, madvdontneed=1, asyncpreemptoff=1.
+- [[Runtime Diagnostic Flags (GODEBUG)]] — gctrace=1, schedtrace=1000, madvdontneed=1, asyncpreemptoff=1 in production.
 - [[Live Reloading (Air)]] — Hot-reloading Go services on file changes during local development.
 
 ---
@@ -52,4 +52,4 @@ Go Toolchain & Developer Experience
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

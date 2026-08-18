@@ -2,7 +2,8 @@
 title: "Type Switch"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

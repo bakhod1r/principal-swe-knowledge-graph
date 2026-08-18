@@ -3,12 +3,13 @@ title: Quality, Security & Debugging
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Go Toolchain & Developer Experience]]"
 ---
 
 # Quality, Security & Debugging
 
-Static analysis, vulnerability scanning, Delve interactive debugger, and live reloading.
+Static analysis with golangci-lint, vulnerability scanning with govulncheck, Delve interactive debugging.
 
 ```text
 Quality, Security & Debugging

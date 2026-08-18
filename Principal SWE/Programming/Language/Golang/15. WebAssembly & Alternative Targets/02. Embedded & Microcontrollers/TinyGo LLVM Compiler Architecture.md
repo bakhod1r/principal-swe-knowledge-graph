@@ -3,6 +3,7 @@ title: "TinyGo LLVM Compiler Architecture"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[Embedded & Microcontrollers]]"
 ---
 

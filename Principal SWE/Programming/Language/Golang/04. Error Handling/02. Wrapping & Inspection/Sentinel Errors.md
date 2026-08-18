@@ -3,6 +3,7 @@ title: "Sentinel Errors"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Wire Compile-Time DI"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Architecture & Dependency Injection]]"
 ---
 

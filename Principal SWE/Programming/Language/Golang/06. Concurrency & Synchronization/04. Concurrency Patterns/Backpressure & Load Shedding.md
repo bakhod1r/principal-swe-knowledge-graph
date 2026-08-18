@@ -2,7 +2,8 @@
 title: "Backpressure & Load Shedding"
 tags:
   - golang
-  - concurrency-patterns
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency Patterns]]"
 ---
 

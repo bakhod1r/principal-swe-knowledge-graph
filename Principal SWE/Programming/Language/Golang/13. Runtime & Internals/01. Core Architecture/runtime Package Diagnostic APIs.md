@@ -3,6 +3,7 @@ title: "runtime Package Diagnostic APIs"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Core Architecture]]"
 ---
 

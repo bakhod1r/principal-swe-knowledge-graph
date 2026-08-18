@@ -3,6 +3,7 @@ title: "Standard Go Project Layout"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Project Layout & Boundaries]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Memory Allocation Hierarchy (mcache, mcentral, mheap)"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Memory Management & Compiler]]"
 ---
 

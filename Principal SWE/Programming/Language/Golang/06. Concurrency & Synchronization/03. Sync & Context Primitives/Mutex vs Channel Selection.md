@@ -2,7 +2,8 @@
 title: "Mutex vs Channel Selection"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

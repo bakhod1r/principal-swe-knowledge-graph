@@ -2,7 +2,8 @@
 title: "sync.WaitGroup"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

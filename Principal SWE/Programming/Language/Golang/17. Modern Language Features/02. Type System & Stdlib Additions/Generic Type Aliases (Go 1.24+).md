@@ -3,6 +3,7 @@ title: "Generic Type Aliases (Go 1.24+)"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Type System & Stdlib Additions]]"
 ---
 

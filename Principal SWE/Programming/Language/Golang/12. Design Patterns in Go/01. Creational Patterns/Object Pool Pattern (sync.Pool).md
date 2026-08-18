@@ -3,6 +3,7 @@ title: "Object Pool Pattern (sync.Pool)"
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Creational Patterns]]"
 ---
 

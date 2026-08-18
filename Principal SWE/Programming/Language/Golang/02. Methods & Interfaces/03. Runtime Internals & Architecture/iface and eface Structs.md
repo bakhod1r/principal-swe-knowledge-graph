@@ -2,7 +2,8 @@
 title: "iface and eface Structs"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Runtime Internals & Architecture]]"
 ---
 

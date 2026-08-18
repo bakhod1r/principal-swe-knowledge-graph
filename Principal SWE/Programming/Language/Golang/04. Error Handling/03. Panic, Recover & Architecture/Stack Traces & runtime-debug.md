@@ -3,6 +3,7 @@ title: "Stack Traces & runtime-debug"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

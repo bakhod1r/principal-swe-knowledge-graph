@@ -3,6 +3,7 @@ title: "slices and maps Standard Packages"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Type System & Stdlib Additions]]"
 ---
 

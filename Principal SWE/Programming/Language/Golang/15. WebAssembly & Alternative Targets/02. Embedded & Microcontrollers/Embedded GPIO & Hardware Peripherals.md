@@ -3,6 +3,7 @@ title: "Embedded GPIO & Hardware Peripherals"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[Embedded & Microcontrollers]]"
 ---
 

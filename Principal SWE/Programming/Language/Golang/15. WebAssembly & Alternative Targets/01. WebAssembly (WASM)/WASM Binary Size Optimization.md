@@ -3,6 +3,7 @@ title: "WASM Binary Size Optimization"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly (WASM)]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Compiler & Linker Flags"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Memory Management & Compiler]]"
 ---
 

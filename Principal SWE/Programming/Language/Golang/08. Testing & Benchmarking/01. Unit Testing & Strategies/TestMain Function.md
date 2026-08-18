@@ -3,6 +3,7 @@ title: "TestMain Function"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Unit Testing & Strategies]]"
 ---
 

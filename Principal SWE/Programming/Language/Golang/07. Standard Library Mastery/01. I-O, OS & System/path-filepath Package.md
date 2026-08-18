@@ -3,6 +3,7 @@ title: "path-filepath Package"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[I-O, OS & System]]"
 ---
 

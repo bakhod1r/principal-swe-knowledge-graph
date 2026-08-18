@@ -3,12 +3,13 @@ title: Architecture & Dependency Injection
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Code Organization & Architecture]]"
 ---
 
 # Architecture & Dependency Injection
 
-Clean architecture, ports and adapters, DDD, and compile-time/runtime DI.
+Clean architecture, hexagonal architecture, ports and adapters, and dependency injection in Go.
 
 ```text
 Architecture & Dependency Injection
@@ -18,7 +19,8 @@ Architecture & Dependency Injection
 ├── [[Domain-Driven Design (DDD) in Go]]
 ├── [[Dependency Injection Principles]]
 ├── [[Wire Compile-Time DI]]
-└── [[Fx Runtime DI]]
+├── [[Fx Runtime DI]]
+└── [[Modular Monoliths vs Microservices in Go]]
 ```
 
 ---
@@ -31,6 +33,7 @@ Architecture & Dependency Injection
 - [[Dependency Injection Principles]] — Constructor injection vs functional options injection.
 - [[Wire Compile-Time DI]] — Google Wire automated compile-time dependency injection code generator.
 - [[Fx Runtime DI]] — Uber Fx reflection-based runtime dependency injection framework.
+- [[Modular Monoliths vs Microservices in Go]] — Architectural boundaries, shared domain models, and RPC service boundaries.
 
 ---
 

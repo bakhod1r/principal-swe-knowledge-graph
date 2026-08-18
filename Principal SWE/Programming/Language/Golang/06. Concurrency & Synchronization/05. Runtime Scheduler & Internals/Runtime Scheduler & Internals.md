@@ -2,13 +2,14 @@
 title: Runtime Scheduler & Internals
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency & Synchronization]]"
 ---
 
 # Runtime Scheduler & Internals
 
-GMP scheduling engine, work stealing, sysmon, signal preemption, netpoller, and lock-free CAS.
+GMP scheduler, work stealing, sysmon daemon, signal preemption, and lock-free CAS.
 
 ```text
 Runtime Scheduler & Internals

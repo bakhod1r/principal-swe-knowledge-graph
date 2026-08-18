@@ -2,7 +2,8 @@
 title: "Methods vs Functions"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 

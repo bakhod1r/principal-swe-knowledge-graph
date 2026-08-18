@@ -3,6 +3,7 @@ title: "Domain-Driven Design (DDD) in Go"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Architecture & Dependency Injection]]"
 ---
 

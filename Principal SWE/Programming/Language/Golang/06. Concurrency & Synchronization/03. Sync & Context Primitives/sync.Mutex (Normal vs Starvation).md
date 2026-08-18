@@ -2,7 +2,8 @@
 title: "sync.Mutex (Normal vs Starvation)"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

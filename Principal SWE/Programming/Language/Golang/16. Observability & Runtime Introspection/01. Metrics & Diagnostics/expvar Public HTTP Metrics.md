@@ -3,6 +3,7 @@ title: "expvar Public HTTP Metrics"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Metrics & Diagnostics]]"
 ---
 

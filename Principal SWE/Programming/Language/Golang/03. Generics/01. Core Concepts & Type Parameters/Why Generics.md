@@ -3,6 +3,7 @@ title: "Why Generics"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Core Concepts & Type Parameters]]"
 ---
 

@@ -3,6 +3,7 @@ title: "go.work Workspaces"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Core Commands & Code Gen]]"
 ---
 

@@ -2,7 +2,8 @@
 title: "Interface Allocation Cost"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Runtime Internals & Architecture]]"
 ---
 

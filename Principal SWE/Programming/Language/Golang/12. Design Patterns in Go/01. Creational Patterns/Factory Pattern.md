@@ -3,6 +3,7 @@ title: "Factory Pattern"
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Creational Patterns]]"
 ---
 

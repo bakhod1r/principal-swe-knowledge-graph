@@ -3,6 +3,7 @@ title: "Block Profiling"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Profiling Subsystems]]"
 ---
 

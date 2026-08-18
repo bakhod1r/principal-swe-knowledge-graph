@@ -1,14 +1,19 @@
+- [[Binary Size Optimization Matrix]] — Stripping symbols (-ldflags="-s -w"), removing DWARF, UPX compression caveats.
+
+- [[Cross-Compilation with Zig Toolchain (CGO_ENABLED=1)]] — Using zig cc as cross-compiler for compiling Cgo across different OS and libc targets.
+
 ---
 title: Core Commands & Code Gen
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Go Toolchain & Developer Experience]]"
 ---
 
 # Core Commands & Code Gen
 
-CLI commands, code generators, build tags, and compiler tools.
+Go CLI coordinator, code generation directives, multi-module workspaces, and internal tools.
 
 ```text
 Core Commands & Code Gen

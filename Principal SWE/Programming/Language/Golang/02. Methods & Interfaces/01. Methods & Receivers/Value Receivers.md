@@ -2,7 +2,8 @@
 title: "Value Receivers"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 

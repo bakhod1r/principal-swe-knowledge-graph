@@ -3,6 +3,7 @@ title: "cmp.Ordered and cmp.Compare"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Type System & Stdlib Additions]]"
 ---
 

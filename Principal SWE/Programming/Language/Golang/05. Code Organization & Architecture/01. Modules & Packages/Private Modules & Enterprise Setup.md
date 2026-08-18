@@ -3,6 +3,7 @@ title: "Private Modules & Enterprise Setup"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

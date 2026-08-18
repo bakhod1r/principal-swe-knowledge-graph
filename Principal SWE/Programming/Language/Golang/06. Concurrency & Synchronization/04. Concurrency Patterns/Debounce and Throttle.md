@@ -2,7 +2,8 @@
 title: "Debounce and Throttle"
 tags:
   - golang
-  - concurrency-patterns
+  - concurrency
+  - principal-swe
 parent: "[[Concurrency Patterns]]"
 ---
 

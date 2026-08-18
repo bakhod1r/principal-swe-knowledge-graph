@@ -2,7 +2,8 @@
 title: "Syscall Handling & M Handoff"
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

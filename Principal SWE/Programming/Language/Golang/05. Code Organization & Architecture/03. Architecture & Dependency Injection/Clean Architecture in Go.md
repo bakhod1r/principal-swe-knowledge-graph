@@ -3,6 +3,7 @@ title: "Clean Architecture in Go"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Architecture & Dependency Injection]]"
 ---
 

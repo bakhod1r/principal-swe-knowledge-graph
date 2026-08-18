@@ -3,6 +3,7 @@ title: "reflect Laws of Reflection"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

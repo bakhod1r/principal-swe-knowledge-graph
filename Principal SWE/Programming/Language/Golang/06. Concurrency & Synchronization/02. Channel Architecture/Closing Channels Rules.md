@@ -2,7 +2,8 @@
 title: "Closing Channels Rules"
 tags:
   - golang
-  - channels
+  - concurrency
+  - principal-swe
 parent: "[[Channel Architecture]]"
 ---
 

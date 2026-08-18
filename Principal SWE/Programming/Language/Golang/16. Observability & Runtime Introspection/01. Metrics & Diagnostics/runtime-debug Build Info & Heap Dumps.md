@@ -3,6 +3,7 @@ title: "runtime-debug Build Info & Heap Dumps"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Metrics & Diagnostics]]"
 ---
 

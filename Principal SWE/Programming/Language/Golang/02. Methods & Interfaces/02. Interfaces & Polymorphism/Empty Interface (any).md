@@ -2,7 +2,8 @@
 title: "Empty Interface (any)"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

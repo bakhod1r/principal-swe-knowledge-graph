@@ -3,6 +3,7 @@ title: "errors.As and Custom As()"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Wrapping & Inspection]]"
 ---
 

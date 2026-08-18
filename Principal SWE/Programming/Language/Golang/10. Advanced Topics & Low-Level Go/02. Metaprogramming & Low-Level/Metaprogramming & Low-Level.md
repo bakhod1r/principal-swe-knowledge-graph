@@ -3,12 +3,13 @@ title: Metaprogramming & Low-Level
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Advanced Topics & Low-Level Go]]"
 ---
 
 # Metaprogramming & Low-Level
 
-Reflection, unsafe pointer arithmetic, zero-copy slicing, go:linkname, and dynamic plugins.
+Runtime reflection, pointer arithmetic with unsafe.Pointer and uintptr, go:linkname directives.
 
 ```text
 Metaprogramming & Low-Level

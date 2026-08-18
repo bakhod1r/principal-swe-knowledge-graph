@@ -3,6 +3,7 @@ title: "Stack Growth & Segmented Stacks"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

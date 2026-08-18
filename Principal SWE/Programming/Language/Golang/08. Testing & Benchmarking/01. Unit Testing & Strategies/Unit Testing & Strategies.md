@@ -3,12 +3,13 @@ title: Unit Testing & Strategies
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Testing & Benchmarking]]"
 ---
 
 # Unit Testing & Strategies
 
-Unit tests, table-driven tests, subtests, test helpers, TestMain, and parallel execution.
+Testing package fundamentals, table-driven tests, subtests, test helpers, and parallel execution.
 
 ```text
 Unit Testing & Strategies
@@ -18,7 +19,8 @@ Unit Testing & Strategies
 ├── [[Subtests (t.Run)]]
 ├── [[Test Helpers (t.Helper)]]
 ├── [[TestMain Function]]
-└── [[Parallel Tests (t.Parallel)]]
+├── [[Parallel Tests (t.Parallel)]]
+└── [[t.Cleanup Resource Hooks]]
 ```
 
 ---
@@ -31,6 +33,7 @@ Unit Testing & Strategies
 - [[Test Helpers (t.Helper)]] — Marking helper functions to keep stack traces pointing to actual test lines.
 - [[TestMain Function]] — Global test suite setup and teardown hooks (m.Run()).
 - [[Parallel Tests (t.Parallel)]] — Concurrent test execution, isolating test state, detecting races under test.
+- [[t.Cleanup Resource Hooks]] — Registering reliable cleanup callbacks executed on test termination.
 
 ---
 

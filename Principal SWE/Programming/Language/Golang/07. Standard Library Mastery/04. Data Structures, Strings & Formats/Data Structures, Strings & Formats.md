@@ -9,7 +9,7 @@ parent: "[[Standard Library Mastery]]"
 
 # Data Structures, Strings & Formats
 
-Standard container package, strings/bytes processing, strconv conversions, and fmt reflection costs.
+Standard containers, heap priority queues, strings, strconv, and format reflection.
 
 ```text
 Data Structures, Strings & Formats

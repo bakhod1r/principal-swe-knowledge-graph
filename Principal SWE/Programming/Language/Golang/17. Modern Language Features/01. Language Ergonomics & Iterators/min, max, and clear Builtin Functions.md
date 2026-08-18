@@ -3,6 +3,7 @@ title: "min, max, and clear Builtin Functions"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Language Ergonomics & Iterators]]"
 ---
 

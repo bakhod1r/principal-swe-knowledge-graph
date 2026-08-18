@@ -3,6 +3,7 @@ title: "context.Context Tree Source Walkthrough"
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Core & Concurrency Source]]"
 ---
 

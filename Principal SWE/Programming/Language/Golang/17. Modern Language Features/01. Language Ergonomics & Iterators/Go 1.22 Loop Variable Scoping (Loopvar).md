@@ -3,6 +3,7 @@ title: "Go 1.22 Loop Variable Scoping (Loopvar)"
 tags:
   - golang
   - modern-go
+  - principal-swe
 parent: "[[Language Ergonomics & Iterators]]"
 ---
 

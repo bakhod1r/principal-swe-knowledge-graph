@@ -3,6 +3,7 @@ title: "Generic Anti-Patterns"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Runtime & Compiler Mechanics]]"
 ---
 

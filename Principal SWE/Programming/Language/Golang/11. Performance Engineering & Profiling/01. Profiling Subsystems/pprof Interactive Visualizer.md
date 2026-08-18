@@ -3,6 +3,7 @@ title: "pprof Interactive Visualizer"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Profiling Subsystems]]"
 ---
 

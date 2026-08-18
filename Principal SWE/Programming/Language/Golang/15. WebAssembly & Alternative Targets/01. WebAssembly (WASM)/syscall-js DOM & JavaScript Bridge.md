@@ -3,6 +3,7 @@ title: "syscall-js DOM & JavaScript Bridge"
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly (WASM)]]"
 ---
 

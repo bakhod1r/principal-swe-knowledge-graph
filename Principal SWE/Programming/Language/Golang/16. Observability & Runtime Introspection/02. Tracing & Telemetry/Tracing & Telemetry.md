@@ -1,14 +1,19 @@
+- [[eBPF Observability for Go (Cilium, Pixie)]] — Zero-instrumentation distributed tracing and network inspection using kernel uprobes and kprobes.
+
+- [[Continuous Memory Profiling & OOM Safety]] — Triggering automatic heap dumps before container Linux OOM kills.
+
 ---
 title: Tracing & Telemetry
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Observability & Runtime Introspection]]"
 ---
 
 # Tracing & Telemetry
 
-runtime/trace user regions, OpenTelemetry Go SDK, and OTLP distributed tracing.
+Runtime tracing integration, OpenTelemetry distributed tracing and span propagation.
 
 ```text
 Tracing & Telemetry

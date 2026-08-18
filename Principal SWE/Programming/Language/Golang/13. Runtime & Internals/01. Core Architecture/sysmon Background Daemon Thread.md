@@ -3,6 +3,7 @@ title: "sysmon Background Daemon Thread"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Core Architecture]]"
 ---
 

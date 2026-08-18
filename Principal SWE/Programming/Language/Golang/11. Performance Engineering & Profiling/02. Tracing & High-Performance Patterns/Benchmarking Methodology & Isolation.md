@@ -3,6 +3,7 @@ title: "Benchmarking Methodology & Isolation"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Tracing & High-Performance Patterns]]"
 ---
 

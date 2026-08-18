@@ -3,6 +3,7 @@ title: "GODEBUG Runtime Diagnostic Flags"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Metrics & Diagnostics]]"
 ---
 

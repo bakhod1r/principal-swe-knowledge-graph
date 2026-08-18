@@ -3,6 +3,7 @@ title: "Memory & Heap Profiling"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Profiling Subsystems]]"
 ---
 

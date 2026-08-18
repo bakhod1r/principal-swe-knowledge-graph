@@ -3,6 +3,7 @@ title: "database-sql Transactions & Queries"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

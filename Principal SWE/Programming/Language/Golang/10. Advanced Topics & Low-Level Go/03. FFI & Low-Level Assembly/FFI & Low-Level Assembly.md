@@ -3,12 +3,13 @@ title: FFI & Low-Level Assembly
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Advanced Topics & Low-Level Go]]"
 ---
 
 # FFI & Low-Level Assembly
 
-Cgo FFI, Plan 9 assembly, register calling convention, and CPU feature detection.
+Cgo foreign function interface, Plan 9 assembly language, SIMD intrinsics, and build constraints.
 
 ```text
 FFI & Low-Level Assembly

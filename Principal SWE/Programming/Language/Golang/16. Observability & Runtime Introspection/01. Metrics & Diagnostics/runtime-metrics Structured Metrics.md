@@ -3,6 +3,7 @@ title: "runtime-metrics Structured Metrics"
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Metrics & Diagnostics]]"
 ---
 

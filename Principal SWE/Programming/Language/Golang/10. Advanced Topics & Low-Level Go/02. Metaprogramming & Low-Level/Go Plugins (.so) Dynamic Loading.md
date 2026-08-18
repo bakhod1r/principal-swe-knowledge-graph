@@ -3,6 +3,7 @@ title: "Go Plugins (.so) Dynamic Loading"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Metaprogramming & Low-Level]]"
 ---
 

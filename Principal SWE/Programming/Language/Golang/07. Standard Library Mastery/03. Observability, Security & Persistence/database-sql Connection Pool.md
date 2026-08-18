@@ -3,6 +3,7 @@ title: "database-sql Connection Pool"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

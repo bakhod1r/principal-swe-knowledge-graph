@@ -17,6 +17,7 @@ Go Standard Library Source Reading
 ├── [[Core & Concurrency Source|01. Core & Concurrency Source]]
 │   ├── [[sync.Mutex Source Walkthrough]]
 │   ├── [[sync.WaitGroup and sync.Once Source Walkthrough]]
+│   ├── [[sync.Pool & sync.Map Source Walkthrough]]
 │   ├── [[context.Context Tree Source Walkthrough]]
 │   └── [[Channel Implementation Source (chan.go)]]
 └── [[Networking & Data Source|02. Networking & Data Source]]
@@ -32,6 +33,7 @@ Go Standard Library Source Reading
 ### 1. 📂 [[Core & Concurrency Source|01. Core & Concurrency Source]]
 - [[sync.Mutex Source Walkthrough]] — Dissecting sync.Mutex fast-path/slow-path starvation, normal vs starvation mode.
 - [[sync.WaitGroup and sync.Once Source Walkthrough]] — Atomic state bitpacking in WaitGroup, double-checked atomic Once.
+- [[sync.Pool & sync.Map Source Walkthrough]] — Dissecting lockless atomic loads and per-P pool caches.
 - [[context.Context Tree Source Walkthrough]] — emptyCtx, cancelCtx tree propagation, timerCtx deadlines, valueCtx lookup.
 - [[Channel Implementation Source (chan.go)]] — makechan, chansend, chanrecv, closechan, direct copy optimizations.
 ### 2. 📂 [[Networking & Data Source|02. Networking & Data Source]]
@@ -44,4 +46,4 @@ Go Standard Library Source Reading
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

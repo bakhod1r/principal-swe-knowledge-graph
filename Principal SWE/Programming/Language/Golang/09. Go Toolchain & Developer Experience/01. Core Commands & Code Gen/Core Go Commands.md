@@ -3,6 +3,7 @@ title: "Core Go Commands"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Core Commands & Code Gen]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Errors as First-Class Values"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

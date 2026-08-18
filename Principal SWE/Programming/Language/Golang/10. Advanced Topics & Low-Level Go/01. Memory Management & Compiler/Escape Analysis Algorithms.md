@@ -3,6 +3,7 @@ title: "Escape Analysis Algorithms"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Memory Management & Compiler]]"
 ---
 

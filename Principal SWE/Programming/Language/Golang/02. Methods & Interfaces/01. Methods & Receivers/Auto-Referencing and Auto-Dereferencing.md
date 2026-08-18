@@ -1,12 +1,13 @@
 ---
-title: "Method Sets"
+title: "Auto-Referencing and Auto-Dereferencing"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 
-# Method Sets
+# Auto-Referencing and Auto-Dereferencing
 
 ## 1. Definition
 

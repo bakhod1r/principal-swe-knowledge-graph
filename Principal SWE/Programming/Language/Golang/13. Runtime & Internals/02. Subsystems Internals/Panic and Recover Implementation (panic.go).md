@@ -3,6 +3,7 @@ title: "Panic and Recover Implementation (panic.go)"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Subsystems Internals]]"
 ---
 

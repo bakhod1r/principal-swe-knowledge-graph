@@ -3,6 +3,7 @@ title: "Package Cohesion & Coupling"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Project Layout & Boundaries]]"
 ---
 

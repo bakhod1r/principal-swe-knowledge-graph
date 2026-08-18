@@ -3,6 +3,7 @@ title: "panic Semantics"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

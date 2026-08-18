@@ -3,6 +3,7 @@ title: "io-fs Virtual Filesystem"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[I-O, OS & System]]"
 ---
 

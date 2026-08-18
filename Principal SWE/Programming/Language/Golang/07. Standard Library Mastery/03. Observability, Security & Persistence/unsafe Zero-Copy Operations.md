@@ -3,6 +3,7 @@ title: "unsafe Zero-Copy Operations"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

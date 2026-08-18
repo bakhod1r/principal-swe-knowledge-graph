@@ -3,6 +3,7 @@ title: "crypto Cryptography Primitives"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Go ABIInternal Register Calling Convention"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[FFI & Low-Level Assembly]]"
 ---
 

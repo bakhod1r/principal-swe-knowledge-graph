@@ -3,6 +3,7 @@ title: "Race Detector (-race)"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Benchmarks, Coverage & Fuzzing]]"
 ---
 

@@ -1,14 +1,19 @@
+- [[Generic Zero Value Idiom]] — Returning zero values in generic functions using var zero T pattern.
+
+- [[Dictionary Parameter Passing & Pointer Unification]] — How runtime unifies pointer types under single GcShape while passing dictionaries for scalars.
+
 ---
 title: Runtime & Compiler Mechanics
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Generics]]"
 ---
 
 # Runtime & Compiler Mechanics
 
-Compiler stenciling, runtime dictionaries, performance benchmarks, and stdlib packages.
+GcShape stenciling, dictionary passing, monomorphization tradeoffs, and best practices.
 
 ```text
 Runtime & Compiler Mechanics

@@ -3,6 +3,7 @@ title: "CPU Profiling & Flamegraphs"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Profiling Subsystems]]"
 ---
 

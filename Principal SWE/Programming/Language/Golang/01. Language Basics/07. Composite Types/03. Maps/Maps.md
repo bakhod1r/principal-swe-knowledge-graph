@@ -1,3 +1,5 @@
+- [[Map Iteration Randomization & Hash-DoS Safety]] — Why Go uses fastrand hash seeds to protect against algorithmic complexity Hash-DoS attacks.
+
 ---
 title: Maps
 tags:

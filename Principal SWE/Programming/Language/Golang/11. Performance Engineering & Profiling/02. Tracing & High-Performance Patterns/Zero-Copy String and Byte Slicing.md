@@ -3,6 +3,7 @@ title: "Zero-Copy String and Byte Slicing"
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Tracing & High-Performance Patterns]]"
 ---
 

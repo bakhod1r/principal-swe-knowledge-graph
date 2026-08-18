@@ -2,7 +2,8 @@
 title: "Methods on Defined Types"
 tags:
   - golang
-  - methods
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Methods & Receivers]]"
 ---
 

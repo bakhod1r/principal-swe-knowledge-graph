@@ -3,6 +3,7 @@ title: "Generic Best Practices"
 tags:
   - golang
   - generics
+  - principal-swe
 parent: "[[Runtime & Compiler Mechanics]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Hexagonal Architecture (Ports & Adapters)"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Architecture & Dependency Injection]]"
 ---
 

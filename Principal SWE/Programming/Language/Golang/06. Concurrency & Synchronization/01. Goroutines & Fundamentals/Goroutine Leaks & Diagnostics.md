@@ -3,6 +3,7 @@ title: "Goroutine Leaks & Diagnostics"
 tags:
   - golang
   - concurrency
+  - principal-swe
 parent: "[[Goroutines & Fundamentals]]"
 ---
 

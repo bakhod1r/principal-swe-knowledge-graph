@@ -3,6 +3,7 @@ title: "Runtime Diagnostic Flags (GODEBUG)"
 tags:
   - golang
   - toolchain
+  - principal-swe
 parent: "[[Quality, Security & Debugging]]"
 ---
 

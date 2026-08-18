@@ -3,6 +3,7 @@ title: "Testcontainers in Go"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Mocks, HTTP & Integration]]"
 ---
 

@@ -3,6 +3,7 @@ title: "recover in Deferred Functions"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

@@ -2,7 +2,8 @@
 title: "x-sync-semaphore"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

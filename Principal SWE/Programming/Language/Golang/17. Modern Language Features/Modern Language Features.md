@@ -16,12 +16,14 @@ Modern Language Features
 │
 ├── [[Language Ergonomics & Iterators|01. Language Ergonomics & Iterators]]
 │   ├── [[Go 1.23 Iterators (iter.Seq, iter.Seq2)]]
+│   ├── [[Go 1.23 Pull Iterators (iter.Pull, iter.Pull2)]]
 │   ├── [[Go 1.22 Loop Variable Scoping (Loopvar)]]
 │   └── [[min, max, and clear Builtin Functions]]
 └── [[Type System & Stdlib Additions|02. Type System & Stdlib Additions]]
 │   ├── [[Generic Type Aliases (Go 1.24+)]]
 │   ├── [[slices and maps Standard Packages]]
 │   ├── [[cmp.Ordered and cmp.Compare]]
+│   ├── [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]]
 │   └── [[synctest Experimental Testing Package]]
 ```
 
@@ -31,12 +33,14 @@ Modern Language Features
 
 ### 1. 📂 [[Language Ergonomics & Iterators|01. Language Ergonomics & Iterators]]
 - [[Go 1.23 Iterators (iter.Seq, iter.Seq2)]] — Standard iterator types, yielding values, writing custom range iterator functions.
+- [[Go 1.23 Pull Iterators (iter.Pull, iter.Pull2)]] — Coroutine-based pull iterators yielding elements on demand with stop() cleanup.
 - [[Go 1.22 Loop Variable Scoping (Loopvar)]] — Per-iteration variable scoping eliminating goroutine loop capture bugs.
 - [[min, max, and clear Builtin Functions]] — Predeclared min/max for ordered types, clear() for zeroing slices and maps.
 ### 2. 📂 [[Type System & Stdlib Additions|02. Type System & Stdlib Additions]]
 - [[Generic Type Aliases (Go 1.24+)]] — type MyList[T] = other.List[T] generic alias syntax and migration patterns.
 - [[slices and maps Standard Packages]] — Standard library algorithm functions for slices and maps without external dependencies.
 - [[cmp.Ordered and cmp.Compare]] — Standard ordering comparison interface and three-way compare function.
+- [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]] — Standard lazy initialization wrapper functions.
 - [[synctest Experimental Testing Package]] — Virtual time testing package for deterministic testing of concurrent code.
 
 ---
@@ -44,4 +48,4 @@ Modern Language Features
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

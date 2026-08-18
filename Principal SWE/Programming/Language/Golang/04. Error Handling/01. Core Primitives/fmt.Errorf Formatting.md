@@ -3,6 +3,7 @@ title: "fmt.Errorf Formatting"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Core Primitives]]"
 ---
 

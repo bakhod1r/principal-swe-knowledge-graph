@@ -3,12 +3,13 @@ title: Mocks, HTTP & Integration
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Testing & Benchmarking]]"
 ---
 
 # Mocks, HTTP & Integration
 
-Mocking, HTTP test servers, golden file snapshots, and containerized integration tests.
+Interface mocking, HTTP test utilities (httptest), golden files, and container-based testing.
 
 ```text
 Mocks, HTTP & Integration

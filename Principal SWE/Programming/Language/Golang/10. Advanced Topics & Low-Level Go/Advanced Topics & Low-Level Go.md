@@ -26,11 +26,18 @@ Advanced Topics & Low-Level Go
 │   ├── [[unsafe.Slice and unsafe.String]]
 │   ├── [[go:linkname Compiler Directive]]
 │   └── [[Go Plugins (.so) Dynamic Loading]]
-└── [[FFI & Low-Level Assembly|03. FFI & Low-Level Assembly]]
+├── [[FFI & Low-Level Assembly|03. FFI & Low-Level Assembly]]
 │   ├── [[Cgo Architecture & Overhead]]
 │   ├── [[Plan 9 Go Assembly]]
 │   ├── [[Go ABIInternal Register Calling Convention]]
 │   └── [[CPU Feature Detection (internal-cpu)]]
+└── [[Compiler Pipeline & Code Generation|04. Compiler Pipeline & Code Generation]]
+│   ├── [[Compiler Pipeline Overview]]
+│   ├── [[AST Inspection & go-ast]]
+│   ├── [[Custom Static Analyzers with go-analysis]]
+│   ├── [[Bounds Check Elimination (BCE) Deep Dive]]
+│   ├── [[Function Inlining Heuristics]]
+│   └── [[Dead Code Elimination & Static Branch Pruning]]
 ```
 
 ---
@@ -54,10 +61,17 @@ Advanced Topics & Low-Level Go
 - [[Plan 9 Go Assembly]] — Writing Go assembly functions, pseudo-registers (FP, SP, SB, PC), instruction syntax.
 - [[Go ABIInternal Register Calling Convention]] — Passing function arguments and returns in CPU registers instead of stack frames.
 - [[CPU Feature Detection (internal-cpu)]] — Detecting hardware AVX, SSE, AES-NI CPU instructions at runtime.
+### 4. 📂 [[Compiler Pipeline & Code Generation|04. Compiler Pipeline & Code Generation]]
+- [[Compiler Pipeline Overview]] — Lexer (scanner), Parser (AST), Type Checking, IR/Middle-end, SSA Backend, Assembler, Linker.
+- [[AST Inspection & go-ast]] — Parsing Go source code programmatically with go/parser and go/ast.
+- [[Custom Static Analyzers with go-analysis]] — Building custom linter passes with the standard go/analysis framework.
+- [[Bounds Check Elimination (BCE) Deep Dive]] — Proving slice bounds to the compiler to remove runtime bounds checking panic branches.
+- [[Function Inlining Heuristics]] — Inlining cost budget (max 80 nodes), mid-stack inlining, and //go:noinline directive.
+- [[Dead Code Elimination & Static Branch Pruning]] — Compiler pruning of unreached code branches based on constant conditions.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

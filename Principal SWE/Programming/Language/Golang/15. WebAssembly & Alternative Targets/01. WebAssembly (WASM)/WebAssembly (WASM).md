@@ -1,14 +1,17 @@
+- [[WebAssembly Component Model & WASI 0.2]] — WASI Preview 2, Component Model (WIT interfaces), and composable WASM modules.
+
 ---
 title: WebAssembly (WASM)
 tags:
   - golang
   - wasm
+  - principal-swe
 parent: "[[WebAssembly & Alternative Targets]]"
 ---
 
 # WebAssembly (WASM)
 
-Browser WASM, syscall/js, WASI server-side execution, and binary size optimization.
+Browser WASM execution, syscall/js DOM manipulation, WASI server-side execution.
 
 ```text
 WebAssembly (WASM)

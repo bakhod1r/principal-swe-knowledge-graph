@@ -3,6 +3,7 @@ title: "Plan 9 Go Assembly"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[FFI & Low-Level Assembly]]"
 ---
 

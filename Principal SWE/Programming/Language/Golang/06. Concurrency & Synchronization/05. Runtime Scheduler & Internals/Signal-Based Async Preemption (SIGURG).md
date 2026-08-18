@@ -2,7 +2,8 @@
 title: "Signal-Based Async Preemption (SIGURG)"
 tags:
   - golang
-  - scheduler
+  - concurrency
+  - principal-swe
 parent: "[[Runtime Scheduler & Internals]]"
 ---
 

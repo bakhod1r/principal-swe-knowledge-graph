@@ -3,6 +3,7 @@ title: "crypto-tls & Certificates"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Observability, Security & Persistence]]"
 ---
 

@@ -3,6 +3,7 @@ title: "Channel Implementation Source (chan.go)"
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Core & Concurrency Source]]"
 ---
 

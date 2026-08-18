@@ -3,6 +3,7 @@ title: "encoding-json Scanner & Encoder Source"
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Networking & Data Source]]"
 ---
 

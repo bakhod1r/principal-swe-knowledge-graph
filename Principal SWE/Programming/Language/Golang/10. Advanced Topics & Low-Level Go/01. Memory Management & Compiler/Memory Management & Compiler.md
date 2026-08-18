@@ -1,14 +1,19 @@
+- [[Production Profile-Guided Optimization (PGO) Pipeline]] — Automated collection of production CPU profiles in Kubernetes and injection into CI/CD builds.
+
+- [[Linker Architecture & Global Dead Code Stripping]] — How cmd-link performs global reachability analysis to eliminate unused functions.
+
 ---
 title: Memory Management & Compiler
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Advanced Topics & Low-Level Go]]"
 ---
 
 # Memory Management & Compiler
 
-Memory allocator hierarchy, escape analysis, SSA optimization passes, and PGO.
+Stack vs heap decisions, escape analysis algorithms, compiler SSA optimization passes, and PGO.
 
 ```text
 Memory Management & Compiler

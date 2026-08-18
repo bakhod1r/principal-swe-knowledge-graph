@@ -3,6 +3,7 @@ title: "go:embed Directive"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[I-O, OS & System]]"
 ---
 

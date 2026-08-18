@@ -3,6 +3,7 @@ title: "httptest Package"
 tags:
   - golang
   - testing
+  - principal-swe
 parent: "[[Mocks, HTTP & Integration]]"
 ---
 

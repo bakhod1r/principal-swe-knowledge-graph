@@ -3,12 +3,13 @@ title: Metrics & Diagnostics
 tags:
   - golang
   - observability
+  - principal-swe
 parent: "[[Observability & Runtime Introspection]]"
 ---
 
 # Metrics & Diagnostics
 
-runtime/metrics, expvar JSON metrics, GODEBUG flags, and runtime/debug utilities.
+Reading runtime metrics counters, exposing HTTP diagnostics, and runtime debug flags.
 
 ```text
 Metrics & Diagnostics

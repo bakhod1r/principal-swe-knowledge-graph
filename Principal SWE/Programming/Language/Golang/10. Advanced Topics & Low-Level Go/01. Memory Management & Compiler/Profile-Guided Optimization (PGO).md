@@ -3,6 +3,7 @@ title: "Profile-Guided Optimization (PGO)"
 tags:
   - golang
   - advanced
+  - principal-swe
 parent: "[[Memory Management & Compiler]]"
 ---
 

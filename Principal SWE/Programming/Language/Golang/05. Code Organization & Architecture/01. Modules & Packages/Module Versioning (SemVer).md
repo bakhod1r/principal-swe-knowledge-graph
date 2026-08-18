@@ -3,6 +3,7 @@ title: "Module Versioning (SemVer)"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

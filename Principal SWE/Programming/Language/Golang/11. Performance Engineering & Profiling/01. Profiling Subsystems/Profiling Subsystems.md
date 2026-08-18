@@ -1,14 +1,19 @@
+- [[Continuous Profiling in Production (Pyroscope, Parca)]] — Fleet-wide continuous low-overhead CPU, heap, and goroutine profiling.
+
+- [[Off-CPU Analysis with eBPF in Go]] — Measuring off-CPU blocking (I-O wait, lock contention, context switching) using Linux eBPF.
+
 ---
 title: Profiling Subsystems
 tags:
   - golang
   - performance
+  - principal-swe
 parent: "[[Performance Engineering & Profiling]]"
 ---
 
 # Profiling Subsystems
 
-CPU profiling, flamegraphs, heap profiles, mutex contention, block profiles, and pprof CLI/web UI.
+Capturing CPU flamegraphs, heap allocation profiles, mutex contention, and blocking profiles.
 
 ```text
 Profiling Subsystems

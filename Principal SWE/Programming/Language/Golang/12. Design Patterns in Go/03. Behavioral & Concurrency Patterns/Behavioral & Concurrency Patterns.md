@@ -3,12 +3,13 @@ title: Behavioral & Concurrency Patterns
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Design Patterns in Go]]"
 ---
 
 # Behavioral & Concurrency Patterns
 
-Behavioral, concurrency, and distributed resilience design patterns in Go.
+Strategy, observer, iterator, middleware chains, and processing pipelines.
 
 ```text
 Behavioral & Concurrency Patterns
@@ -28,10 +29,10 @@ Behavioral & Concurrency Patterns
 
 ## 🗂️ Topics
 
-- [[Strategy Pattern]] — Swapping algorithms at runtime via interface injection.
+- [[Strategy Pattern]] — Swapping business algorithms at runtime via interface injection.
 - [[Observer Pattern]] — Event notification system using channels and listener registries.
-- [[Iterator Pattern]] — Iterating collections using callbacks, channels, and Go 1.23 iterators.
-- [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of middleware handlers.
+- [[Iterator Pattern]] — Iterating custom collections using callbacks, channels, and Go 1.23 iterators.
+- [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of handlers.
 - [[Command Pattern]] — Encapsulating requests as objects with undo/redo execution capabilities.
 - [[State Pattern]] — Encapsulating object behavior transitions based on internal state machines.
 - [[PubSub Pattern]] — Decoupled publisher-subscriber messaging with topic routing.

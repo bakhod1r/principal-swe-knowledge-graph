@@ -3,6 +3,7 @@ title: "Chain of Responsibility Pattern"
 tags:
   - golang
   - design-patterns
+  - principal-swe
 parent: "[[Behavioral & Concurrency Patterns]]"
 ---
 

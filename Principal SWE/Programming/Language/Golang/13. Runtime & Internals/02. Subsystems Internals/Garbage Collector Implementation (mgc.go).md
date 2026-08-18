@@ -3,6 +3,7 @@ title: "Garbage Collector Implementation (mgc.go)"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Subsystems Internals]]"
 ---
 

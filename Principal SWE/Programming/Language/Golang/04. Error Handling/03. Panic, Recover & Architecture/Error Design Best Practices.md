@@ -3,6 +3,7 @@ title: "Error Design Best Practices"
 tags:
   - golang
   - error-handling
+  - principal-swe
 parent: "[[Panic, Recover & Architecture]]"
 ---
 

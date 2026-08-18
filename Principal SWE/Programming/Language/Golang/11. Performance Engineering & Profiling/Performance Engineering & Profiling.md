@@ -25,7 +25,8 @@ Performance Engineering & Profiling
 │   ├── [[Benchmarking Methodology & Isolation]]
 │   ├── [[Struct Padding & Field Alignment]]
 │   ├── [[Zero-Allocation Buffer Pools (sync.Pool)]]
-│   └── [[Zero-Copy String and Byte Slicing]]
+│   ├── [[Zero-Copy String and Byte Slicing]]
+│   └── [[Cache-Conscious Data Layout & False Sharing Elimination]]
 ```
 
 ---
@@ -44,10 +45,11 @@ Performance Engineering & Profiling
 - [[Struct Padding & Field Alignment]] — Optimizing struct memory layout by ordering fields from largest to smallest to eliminate padding.
 - [[Zero-Allocation Buffer Pools (sync.Pool)]] — Reusing byte buffers and structs to eliminate GC allocation pressure under load.
 - [[Zero-Copy String and Byte Slicing]] — Avoiding memory duplication in high-throughput network and serialization pipelines.
+- [[Cache-Conscious Data Layout & False Sharing Elimination]] — Aligning memory to 64-byte cache lines to eliminate CPU cache contention.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-
+- 🎓 Root: [[Principal SWE]]

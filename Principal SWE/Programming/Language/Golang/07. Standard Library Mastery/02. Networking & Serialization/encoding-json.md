@@ -3,6 +3,7 @@ title: "encoding-json"
 tags:
   - golang
   - stdlib
+  - principal-swe
 parent: "[[Networking & Serialization]]"
 ---
 

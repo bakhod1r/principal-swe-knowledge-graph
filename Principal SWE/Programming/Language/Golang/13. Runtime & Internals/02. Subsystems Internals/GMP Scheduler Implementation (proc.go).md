@@ -3,6 +3,7 @@ title: "GMP Scheduler Implementation (proc.go)"
 tags:
   - golang
   - runtime
+  - principal-swe
 parent: "[[Subsystems Internals]]"
 ---
 

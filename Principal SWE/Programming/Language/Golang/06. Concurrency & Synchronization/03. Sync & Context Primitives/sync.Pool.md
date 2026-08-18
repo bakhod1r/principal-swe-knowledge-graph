@@ -2,7 +2,8 @@
 title: "sync.Pool"
 tags:
   - golang
-  - sync
+  - concurrency
+  - principal-swe
 parent: "[[Sync & Context Primitives]]"
 ---
 

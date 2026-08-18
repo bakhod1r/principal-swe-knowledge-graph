@@ -3,6 +3,7 @@ title: "Modules & go.mod Directives"
 tags:
   - golang
   - architecture
+  - principal-swe
 parent: "[[Modules & Packages]]"
 ---
 

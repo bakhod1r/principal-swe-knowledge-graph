@@ -2,7 +2,8 @@
 title: "Interface Basics"
 tags:
   - golang
-  - interfaces
+  - methods-and-interfaces
+  - principal-swe
 parent: "[[Interfaces & Polymorphism]]"
 ---
 

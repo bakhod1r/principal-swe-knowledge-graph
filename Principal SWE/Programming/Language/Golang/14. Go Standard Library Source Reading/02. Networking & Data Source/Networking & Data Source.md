@@ -3,12 +3,13 @@ title: Networking & Data Source
 tags:
   - golang
   - source-reading
+  - principal-swe
 parent: "[[Go Standard Library Source Reading]]"
 ---
 
 # Networking & Data Source
 
-Source code deep dives: net/http server, database/sql connection pool, and encoding/json.
+Analyzing the source code of net/http, database/sql, and encoding/json.
 
 ```text
 Networking & Data Source
