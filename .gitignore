@@ -1,0 +1,30 @@
+# Obsidian — local state, not knowledge (unanchored: matches nested vaults too)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+**/.obsidian/cache
+**/.obsidian/plugins/*/data.json
+
+# stale nested vault config under Principal SWE/
+Principal SWE/.obsidian/
+
+# Obsidian trash (deleted notes)
+.trash/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Community plugin code (re-installable from Obsidian; keeps repo small)
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+!.obsidian/plugins/graph-dblclick/main.js
+.obsidian/plugins/*/data-backup*.json

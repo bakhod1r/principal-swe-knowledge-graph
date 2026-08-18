@@ -1,0 +1,9 @@
+{
+  "id": "graph-dblclick",
+  "name": "Graph Double-Click Open",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Graph view: a single click no longer opens a note. Double-click (or Cmd/Ctrl-click) opens it.",
+  "author": "local",
+  "isDesktopOnly": false
+}
