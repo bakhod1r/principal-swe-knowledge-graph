@@ -33,4 +33,4 @@ Cloud Workload Protection (cwpp)
 ## 🔗 References
 - ⬆️ Parent: [[Cloud & Infrastructure Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

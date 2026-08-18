@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Network Architecture Vpc]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

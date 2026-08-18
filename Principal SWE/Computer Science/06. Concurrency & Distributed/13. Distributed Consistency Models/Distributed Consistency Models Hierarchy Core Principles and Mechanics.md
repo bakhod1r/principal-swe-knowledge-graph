@@ -78,4 +78,4 @@ func (m *DistributedConsistencyModelsHierarchyCorePrinciplesandMechanicsManager)
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Consistency Models Hierarchy]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

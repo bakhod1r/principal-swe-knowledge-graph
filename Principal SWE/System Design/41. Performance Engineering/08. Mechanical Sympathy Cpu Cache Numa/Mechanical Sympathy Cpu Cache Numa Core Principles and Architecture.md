@@ -81,4 +81,4 @@ func (m *MechanicalSympathyCpuCacheNumaManager) Execute(ctx context.Context) err
 ## 🔗 References
 - ⬆️ Parent: [[Mechanical Sympathy Cpu Cache Numa]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

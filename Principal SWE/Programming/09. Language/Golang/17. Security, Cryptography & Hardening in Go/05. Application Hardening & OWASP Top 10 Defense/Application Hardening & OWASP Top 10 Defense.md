@@ -35,4 +35,4 @@ Application Hardening & OWASP Top 10 Defense
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

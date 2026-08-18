@@ -30,4 +30,4 @@ Montgomery Multiplication
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

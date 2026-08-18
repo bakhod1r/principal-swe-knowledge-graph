@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Required Skills Anti Patterns and Comm
 ## 🔗 References
 - ⬆️ Parent: [[Required Skills]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

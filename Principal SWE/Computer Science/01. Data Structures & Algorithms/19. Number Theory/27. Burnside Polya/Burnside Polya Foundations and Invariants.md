@@ -59,4 +59,4 @@ func NewBurnsidePolya() *BurnsidePolya {
 ## 🔗 References
 - ⬆️ Parent: [[Burnside Polya]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

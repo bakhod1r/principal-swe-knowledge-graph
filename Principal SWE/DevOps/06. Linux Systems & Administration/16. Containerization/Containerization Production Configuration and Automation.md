@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Containerization]]
 - 📚 Module: [[Linux Systems & Administration]]
-- 🎓 Root: [[Principal SWE]]
+

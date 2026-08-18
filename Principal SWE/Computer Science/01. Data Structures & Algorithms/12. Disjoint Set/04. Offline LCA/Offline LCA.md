@@ -30,4 +30,4 @@ Offline LCA
 
 ## 🔗 References
 - ⬆️ Parent: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

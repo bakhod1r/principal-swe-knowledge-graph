@@ -33,4 +33,4 @@ Software Ethics and Codes of Conduct
 ## 🔗 References
 - ⬆️ Parent: [[Professionalism & Software Ethics]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

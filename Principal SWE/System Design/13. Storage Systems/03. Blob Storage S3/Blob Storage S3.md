@@ -30,4 +30,4 @@ Blob Storage S3
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

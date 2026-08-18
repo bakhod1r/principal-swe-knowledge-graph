@@ -65,4 +65,4 @@ func optimizePriorityQueue(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Priority Queue]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

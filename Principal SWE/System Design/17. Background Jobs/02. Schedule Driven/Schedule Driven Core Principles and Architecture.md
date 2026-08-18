@@ -81,4 +81,4 @@ func (m *ScheduleDrivenManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Schedule Driven]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

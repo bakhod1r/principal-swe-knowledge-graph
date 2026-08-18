@@ -30,4 +30,4 @@ Replication (Databases)
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

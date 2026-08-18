@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Event Driven]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

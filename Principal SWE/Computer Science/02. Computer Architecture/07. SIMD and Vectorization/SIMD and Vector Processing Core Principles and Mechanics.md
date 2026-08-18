@@ -78,4 +78,4 @@ func (m *SIMDandVectorProcessingCorePrinciplesandMechanicsManager) Process(ctx c
 ## 🔗 References
 - ⬆️ Parent: [[SIMD and Vector Processing]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

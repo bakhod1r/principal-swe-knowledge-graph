@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling Stride]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

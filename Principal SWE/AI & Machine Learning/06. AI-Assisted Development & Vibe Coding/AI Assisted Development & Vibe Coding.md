@@ -46,4 +46,4 @@ AI Assisted Development & Vibe Coding
 
 ## 🔗 References
 - ⬆️ Parent: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Stack Overflow]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

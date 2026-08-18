@@ -30,4 +30,4 @@ Kubernetes Orchestration
 
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

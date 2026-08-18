@@ -31,4 +31,4 @@ Coding Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Code Craft]]
-- 🎓 Root: [[Principal SWE]]
+

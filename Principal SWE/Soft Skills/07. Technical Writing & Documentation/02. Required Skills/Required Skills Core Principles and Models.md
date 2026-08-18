@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Required Skills Core Principles and Mo
 ## 🔗 References
 - ⬆️ Parent: [[Required Skills]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

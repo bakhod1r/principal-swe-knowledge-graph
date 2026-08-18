@@ -59,4 +59,4 @@ func NewManacherAlgorithm() *ManacherAlgorithm {
 ## 🔗 References
 - ⬆️ Parent: [[Manacher Algorithm]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

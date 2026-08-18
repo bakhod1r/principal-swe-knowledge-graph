@@ -27,4 +27,4 @@ Lock Free and Wait Free Algorithms (Concurrency (Concurrency Async Parallel))
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Ledgers and Double Entry Accounting]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSmawkMongeMatrix() *SmawkMongeMatrix {
 ## 🔗 References
 - ⬆️ Parent: [[Smawk Monge Matrix]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

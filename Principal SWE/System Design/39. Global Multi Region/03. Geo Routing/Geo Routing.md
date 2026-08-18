@@ -30,4 +30,4 @@ Geo Routing
 
 ## 🔗 References
 - ⬆️ Parent: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

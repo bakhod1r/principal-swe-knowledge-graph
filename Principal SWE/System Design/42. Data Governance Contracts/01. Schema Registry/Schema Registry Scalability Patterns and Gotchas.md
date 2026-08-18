@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Schema Registry]]
 - 📚 Module: [[Data Governance Contracts]]
-- 🎓 Root: [[Principal SWE]]
+

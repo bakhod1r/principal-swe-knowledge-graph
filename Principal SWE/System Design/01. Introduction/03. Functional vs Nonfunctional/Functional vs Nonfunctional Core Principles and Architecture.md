@@ -81,4 +81,4 @@ func (m *FunctionalvsNonfunctionalManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Functional vs Nonfunctional]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

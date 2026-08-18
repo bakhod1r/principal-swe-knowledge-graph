@@ -33,4 +33,4 @@ Post Mortem Analysis
 
 ## 🔗 References
 - ⬆️ Parent: [[Diagnostics]]
-- 🎓 Root: [[Principal SWE]]
+

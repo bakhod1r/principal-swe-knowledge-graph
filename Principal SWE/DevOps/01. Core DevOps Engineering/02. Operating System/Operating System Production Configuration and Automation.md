@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Operating System]]
 - 📚 Module: [[Core DevOps Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

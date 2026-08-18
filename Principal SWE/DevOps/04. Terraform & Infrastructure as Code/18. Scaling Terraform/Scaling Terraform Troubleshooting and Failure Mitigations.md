@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Scaling Terraform]]
 - 📚 Module: [[Terraform & Infrastructure As Code]]
-- 🎓 Root: [[Principal SWE]]
+

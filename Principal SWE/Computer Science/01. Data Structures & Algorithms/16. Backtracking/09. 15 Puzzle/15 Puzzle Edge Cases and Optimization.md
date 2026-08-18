@@ -65,4 +65,4 @@ func optimize15Puzzle(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[15 Puzzle]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

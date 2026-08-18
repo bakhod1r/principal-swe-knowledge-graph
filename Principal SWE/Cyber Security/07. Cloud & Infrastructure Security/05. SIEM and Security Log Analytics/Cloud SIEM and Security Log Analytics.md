@@ -33,4 +33,4 @@ Cloud SIEM and Security Log Analytics
 ## 🔗 References
 - ⬆️ Parent: [[Cloud & Infrastructure Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

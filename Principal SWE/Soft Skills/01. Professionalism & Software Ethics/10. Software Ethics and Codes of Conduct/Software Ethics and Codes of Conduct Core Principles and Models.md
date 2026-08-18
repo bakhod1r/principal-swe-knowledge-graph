@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Software Ethics and Codes of Conduct C
 ## 🔗 References
 - ⬆️ Parent: [[Software Ethics and Codes of Conduct]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

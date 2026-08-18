@@ -59,4 +59,4 @@ func NewTonelliShanks() *TonelliShanks {
 ## 🔗 References
 - ⬆️ Parent: [[Tonelli Shanks]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

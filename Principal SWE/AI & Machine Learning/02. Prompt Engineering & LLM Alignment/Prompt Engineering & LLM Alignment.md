@@ -40,4 +40,4 @@ Prompt Engineering & LLM Alignment
 
 ## 🔗 References
 - ⬆️ Parent: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

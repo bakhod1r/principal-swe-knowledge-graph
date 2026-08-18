@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Amdahls Law]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeCountersGPn(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Counters G Pn]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

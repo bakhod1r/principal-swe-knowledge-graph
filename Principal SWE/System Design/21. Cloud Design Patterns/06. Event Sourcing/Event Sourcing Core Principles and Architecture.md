@@ -81,4 +81,4 @@ func (m *EventSourcingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Event Sourcing]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

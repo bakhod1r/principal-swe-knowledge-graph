@@ -58,4 +58,4 @@ func ExecuteMultisetBagInvariantsandMultiplicityModels(data []int, target int) b
 ## 🔗 References
 - ⬆️ Parent: [[Multiset Bag]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Secret Management
 ## 🔗 References
 - ⬆️ Parent: [[Core DevOps Engineering]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewArc2qCache() *Arc2qCache {
 ## 🔗 References
 - ⬆️ Parent: [[Arc 2q Cache]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

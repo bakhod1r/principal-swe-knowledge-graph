@@ -30,4 +30,4 @@ SQL vs NoSQL
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

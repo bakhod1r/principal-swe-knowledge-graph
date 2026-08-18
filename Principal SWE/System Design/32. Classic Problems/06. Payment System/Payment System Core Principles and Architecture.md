@@ -81,4 +81,4 @@ func (m *PaymentSystemManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Payment System]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

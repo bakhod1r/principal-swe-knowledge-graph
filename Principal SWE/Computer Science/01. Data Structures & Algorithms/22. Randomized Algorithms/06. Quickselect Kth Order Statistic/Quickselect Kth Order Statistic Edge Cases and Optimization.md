@@ -65,4 +65,4 @@ func optimizeQuickselectKthOrderStatistic(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Quickselect Kth Order Statistic]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

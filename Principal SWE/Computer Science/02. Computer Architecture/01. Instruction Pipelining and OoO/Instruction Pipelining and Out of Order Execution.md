@@ -32,4 +32,4 @@ Instruction Pipelining and Out of Order Execution
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

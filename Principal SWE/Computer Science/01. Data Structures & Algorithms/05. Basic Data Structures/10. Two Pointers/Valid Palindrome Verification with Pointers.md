@@ -58,4 +58,4 @@ func ExecuteValidPalindromeVerificationwithPointers(data []int, target int) bool
 ## 🔗 References
 - ⬆️ Parent: [[Two Pointers (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

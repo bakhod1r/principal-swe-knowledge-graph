@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Burrows Wheeler Transform]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

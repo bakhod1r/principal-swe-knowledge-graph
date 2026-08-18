@@ -30,4 +30,4 @@ Data Partitioning Per Tenant
 
 ## 🔗 References
 - ⬆️ Parent: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

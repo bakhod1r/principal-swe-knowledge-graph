@@ -30,4 +30,4 @@ Cross Border and Fx
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

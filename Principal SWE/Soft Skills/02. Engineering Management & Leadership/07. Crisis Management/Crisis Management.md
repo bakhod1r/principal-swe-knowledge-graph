@@ -33,4 +33,4 @@ Crisis Management
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Management & Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

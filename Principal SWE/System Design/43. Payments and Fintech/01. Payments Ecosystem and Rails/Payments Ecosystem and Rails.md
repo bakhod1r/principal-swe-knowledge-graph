@@ -30,4 +30,4 @@ Payments Ecosystem and Rails
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

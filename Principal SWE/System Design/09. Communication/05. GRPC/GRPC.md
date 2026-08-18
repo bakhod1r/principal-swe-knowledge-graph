@@ -30,4 +30,4 @@ GRPC
 
 ## 🔗 References
 - ⬆️ Parent: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

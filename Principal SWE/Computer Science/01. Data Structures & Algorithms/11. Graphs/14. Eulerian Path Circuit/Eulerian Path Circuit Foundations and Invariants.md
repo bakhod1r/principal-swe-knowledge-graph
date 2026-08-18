@@ -59,4 +59,4 @@ func NewEulerianPathCircuit() *EulerianPathCircuit {
 ## 🔗 References
 - ⬆️ Parent: [[Eulerian Path Circuit]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

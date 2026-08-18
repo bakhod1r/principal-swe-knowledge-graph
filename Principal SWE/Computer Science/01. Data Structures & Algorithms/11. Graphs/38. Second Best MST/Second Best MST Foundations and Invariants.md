@@ -59,4 +59,4 @@ func NewSecondBestMST() *SecondBestMST {
 ## 🔗 References
 - ⬆️ Parent: [[Second Best MST]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSelectionSort() *SelectionSort {
 ## 🔗 References
 - ⬆️ Parent: [[Selection Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

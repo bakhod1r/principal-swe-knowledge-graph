@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Tooling Practical Execution and Framew
 ## 🔗 References
 - ⬆️ Parent: [[Tooling]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

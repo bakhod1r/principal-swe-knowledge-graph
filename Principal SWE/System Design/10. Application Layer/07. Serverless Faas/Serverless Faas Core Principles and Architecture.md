@@ -81,4 +81,4 @@ func (m *ServerlessFaasManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Serverless Faas]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

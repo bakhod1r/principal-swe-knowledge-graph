@@ -30,4 +30,4 @@ Functions (Programming Fundamentals)
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

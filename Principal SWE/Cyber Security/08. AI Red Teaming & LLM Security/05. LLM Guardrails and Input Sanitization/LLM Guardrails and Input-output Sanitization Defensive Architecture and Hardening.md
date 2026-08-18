@@ -85,4 +85,4 @@ func (e *LLMGuardrailsandInputoutputSanitizationDefensiveArchitectureandHardenin
 ## 🔗 References
 - ⬆️ Parent: [[LLM Guardrails and Input-output Sanitization]]
 - 📚 Module: [[AI Red Teaming & LLM Security]]
-- 🎓 Root: [[Principal SWE]]
+

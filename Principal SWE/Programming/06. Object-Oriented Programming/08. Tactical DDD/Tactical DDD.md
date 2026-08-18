@@ -39,4 +39,4 @@ Tactical DDD
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -35,4 +35,4 @@ Code Smells
 
 ## 🔗 References
 - ⬆️ Parent: [[Refactoring]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Planning Practical Execution a
 ## 🔗 References
 - ⬆️ Parent: [[Product Planning]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

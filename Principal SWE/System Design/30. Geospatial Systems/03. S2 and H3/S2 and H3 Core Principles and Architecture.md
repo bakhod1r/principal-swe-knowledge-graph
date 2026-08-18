@@ -81,4 +81,4 @@ func (m *S2andH3Manager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[S2 and H3]]
 - 📚 Module: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewBinaryHeap() *BinaryHeap {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

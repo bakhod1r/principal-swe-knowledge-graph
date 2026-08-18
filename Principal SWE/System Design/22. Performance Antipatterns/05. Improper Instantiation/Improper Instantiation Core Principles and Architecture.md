@@ -81,4 +81,4 @@ func (m *ImproperInstantiationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Improper Instantiation]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

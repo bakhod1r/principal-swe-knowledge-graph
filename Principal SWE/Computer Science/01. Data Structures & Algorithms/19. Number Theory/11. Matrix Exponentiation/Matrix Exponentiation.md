@@ -30,4 +30,4 @@ Matrix Exponentiation
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

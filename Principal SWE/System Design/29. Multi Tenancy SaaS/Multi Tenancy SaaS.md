@@ -34,4 +34,4 @@ Multi Tenancy SaaS
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

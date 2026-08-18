@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Knuth Optimization]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

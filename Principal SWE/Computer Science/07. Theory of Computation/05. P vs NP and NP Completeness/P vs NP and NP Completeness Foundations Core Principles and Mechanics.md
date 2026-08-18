@@ -78,4 +78,4 @@ func (m *PvsNPandNPCompletenessFoundationsCorePrinciplesandMechanicsManager) Pro
 ## 🔗 References
 - ⬆️ Parent: [[P vs NP and NP Completeness Foundations]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

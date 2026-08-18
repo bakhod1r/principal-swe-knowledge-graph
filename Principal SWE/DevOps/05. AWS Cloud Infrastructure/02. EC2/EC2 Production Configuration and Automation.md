@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[EC2]]
 - 📚 Module: [[AWS Cloud Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Bubble Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

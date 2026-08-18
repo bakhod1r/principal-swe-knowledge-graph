@@ -85,4 +85,4 @@ func (e *PolicyAsCodewithOPAandGatekeeperThreatVectorandMechanicsSecurityEngine)
 ## 🔗 References
 - ⬆️ Parent: [[Policy As Code with OPA and Gatekeeper]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *EmbeddingModelsandHighDimensionalVectorSpacesFailureModesandOptimizatio
 ## 🔗 References
 - ⬆️ Parent: [[Embedding Models and High Dimensional Vector Spaces]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

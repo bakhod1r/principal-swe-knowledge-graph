@@ -89,4 +89,4 @@ func (m *OLTPvsOLAPandDataWarehousingArchitecturesCorePrinciplesandMechanicsMana
 ## 🔗 References
 - ⬆️ Parent: [[OLTP vs OLAP and Data Warehousing Architectures]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

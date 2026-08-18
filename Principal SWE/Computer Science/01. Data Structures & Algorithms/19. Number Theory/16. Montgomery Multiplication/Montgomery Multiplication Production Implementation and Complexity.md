@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Montgomery Multiplication]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

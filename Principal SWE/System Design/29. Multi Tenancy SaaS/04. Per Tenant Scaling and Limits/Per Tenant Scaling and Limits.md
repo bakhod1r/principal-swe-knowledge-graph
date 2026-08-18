@@ -30,4 +30,4 @@ Per Tenant Scaling and Limits
 
 ## 🔗 References
 - ⬆️ Parent: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Picks Theorem
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

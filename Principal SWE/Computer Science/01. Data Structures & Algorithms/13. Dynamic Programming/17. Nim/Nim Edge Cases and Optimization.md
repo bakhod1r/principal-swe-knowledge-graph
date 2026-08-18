@@ -65,4 +65,4 @@ func optimizeNim(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Nim]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

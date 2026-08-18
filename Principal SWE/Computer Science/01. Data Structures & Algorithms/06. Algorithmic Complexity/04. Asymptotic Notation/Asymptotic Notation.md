@@ -30,4 +30,4 @@ Asymptotic Notation
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

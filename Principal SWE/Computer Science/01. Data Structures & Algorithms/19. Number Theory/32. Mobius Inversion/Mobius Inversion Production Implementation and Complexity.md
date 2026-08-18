@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Mobius Inversion]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

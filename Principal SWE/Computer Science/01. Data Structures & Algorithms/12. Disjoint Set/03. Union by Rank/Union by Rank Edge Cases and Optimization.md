@@ -65,4 +65,4 @@ func optimizeUnionbyRank(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Union by Rank]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

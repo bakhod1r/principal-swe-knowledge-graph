@@ -81,4 +81,4 @@ func (m *GeohashingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Geohashing]]
 - 📚 Module: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

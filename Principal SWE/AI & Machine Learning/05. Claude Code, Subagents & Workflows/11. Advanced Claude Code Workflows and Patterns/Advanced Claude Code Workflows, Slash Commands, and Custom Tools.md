@@ -33,4 +33,4 @@ Advanced Claude Code Workflows, Slash Commands, and Custom Tools
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

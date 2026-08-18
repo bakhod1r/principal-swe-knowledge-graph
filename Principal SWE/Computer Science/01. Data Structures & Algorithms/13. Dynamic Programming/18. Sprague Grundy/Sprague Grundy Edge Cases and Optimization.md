@@ -65,4 +65,4 @@ func optimizeSpragueGrundy(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Sprague Grundy]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

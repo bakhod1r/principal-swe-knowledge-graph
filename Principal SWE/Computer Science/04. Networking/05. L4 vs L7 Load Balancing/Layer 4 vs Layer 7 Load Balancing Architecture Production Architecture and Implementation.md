@@ -78,4 +78,4 @@ func (m *Layer4vsLayer7LoadBalancingArchitectureProductionArchitectureandImpleme
 ## 🔗 References
 - ⬆️ Parent: [[Layer 4 vs Layer 7 Load Balancing Architecture]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

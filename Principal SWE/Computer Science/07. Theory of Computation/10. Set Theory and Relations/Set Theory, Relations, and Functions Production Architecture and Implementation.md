@@ -78,4 +78,4 @@ func (m *SetTheoryRelationsandFunctionsProductionArchitectureandImplementationMa
 ## 🔗 References
 - ⬆️ Parent: [[Set Theory, Relations, and Functions]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

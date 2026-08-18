@@ -89,4 +89,4 @@ func (m *StorageEnginesbTreeandLSMTreeInternalsStorageArchitectureandImplementat
 ## 🔗 References
 - ⬆️ Parent: [[Storage Engines (b Tree and LSM Tree Internals)]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

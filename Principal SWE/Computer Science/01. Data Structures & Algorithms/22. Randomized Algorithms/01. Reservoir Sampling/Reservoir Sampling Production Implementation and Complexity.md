@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Reservoir Sampling]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

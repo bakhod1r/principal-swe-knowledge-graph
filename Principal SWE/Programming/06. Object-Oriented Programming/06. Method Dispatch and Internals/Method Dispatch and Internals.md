@@ -40,4 +40,4 @@ Method Dispatch and Internals
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-- 🎓 Root: [[Principal SWE]]
+

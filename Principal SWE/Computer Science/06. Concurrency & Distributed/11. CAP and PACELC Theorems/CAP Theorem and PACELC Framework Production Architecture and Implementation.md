@@ -78,4 +78,4 @@ func (m *CAPTheoremandPACELCFrameworkProductionArchitectureandImplementationMana
 ## 🔗 References
 - ⬆️ Parent: [[CAP Theorem and PACELC Framework]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Page Replacement and Eviction Algorithms
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

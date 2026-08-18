@@ -30,4 +30,4 @@ Data Transfer and Egress Costs
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Euler Tour Technique
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

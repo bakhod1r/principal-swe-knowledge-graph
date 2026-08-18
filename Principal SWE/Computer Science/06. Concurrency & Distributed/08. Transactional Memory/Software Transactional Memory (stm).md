@@ -32,4 +32,4 @@ Software Transactional Memory (stm)
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

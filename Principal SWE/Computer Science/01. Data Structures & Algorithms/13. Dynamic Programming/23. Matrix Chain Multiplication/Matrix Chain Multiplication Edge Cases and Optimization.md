@@ -65,4 +65,4 @@ func optimizeMatrixChainMultiplication(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Chain Multiplication]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

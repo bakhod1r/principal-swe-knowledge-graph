@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Publisher Subscriber]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

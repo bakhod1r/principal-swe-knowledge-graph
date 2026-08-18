@@ -33,4 +33,4 @@ AWS High Availability and Disaster Recovery
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Architecture Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

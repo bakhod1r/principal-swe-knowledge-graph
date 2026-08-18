@@ -30,4 +30,4 @@ Database HA and Failover
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

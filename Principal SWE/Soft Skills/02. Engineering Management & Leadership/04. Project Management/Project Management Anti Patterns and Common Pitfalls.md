@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Project Management Anti Patterns and C
 ## 🔗 References
 - ⬆️ Parent: [[Project Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

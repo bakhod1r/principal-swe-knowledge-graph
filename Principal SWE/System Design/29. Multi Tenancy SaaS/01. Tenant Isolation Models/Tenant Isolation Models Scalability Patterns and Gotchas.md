@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Tenant Isolation Models]]
 - 📚 Module: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

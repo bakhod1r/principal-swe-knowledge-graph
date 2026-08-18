@@ -81,4 +81,4 @@ func (m *DeploymentStampsandGeodesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Stamps and Geodes]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

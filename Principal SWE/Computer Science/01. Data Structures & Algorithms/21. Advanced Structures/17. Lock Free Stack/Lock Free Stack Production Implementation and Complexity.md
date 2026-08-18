@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Lock Free Stack]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

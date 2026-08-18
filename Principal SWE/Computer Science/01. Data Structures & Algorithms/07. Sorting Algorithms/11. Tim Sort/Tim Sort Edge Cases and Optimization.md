@@ -65,4 +65,4 @@ func optimizeTimSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Tim Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[CDN Security]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

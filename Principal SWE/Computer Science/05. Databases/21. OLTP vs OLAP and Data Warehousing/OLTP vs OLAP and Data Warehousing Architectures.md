@@ -33,4 +33,4 @@ OLTP vs OLAP and Data Warehousing Architectures
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

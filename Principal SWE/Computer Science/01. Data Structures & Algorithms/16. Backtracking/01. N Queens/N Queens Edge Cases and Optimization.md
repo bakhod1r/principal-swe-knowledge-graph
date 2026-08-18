@@ -65,4 +65,4 @@ func optimizeNQueens(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[N Queens]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

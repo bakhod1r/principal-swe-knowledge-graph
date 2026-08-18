@@ -35,4 +35,4 @@ Runtime Stack Management & Unwinding (stack.go, traceback.go)
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

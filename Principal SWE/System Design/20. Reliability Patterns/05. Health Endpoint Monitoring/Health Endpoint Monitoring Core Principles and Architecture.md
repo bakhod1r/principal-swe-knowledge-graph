@@ -81,4 +81,4 @@ func (m *HealthEndpointMonitoringManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Health Endpoint Monitoring]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

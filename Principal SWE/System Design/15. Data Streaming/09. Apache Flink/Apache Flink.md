@@ -30,4 +30,4 @@ Apache Flink
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

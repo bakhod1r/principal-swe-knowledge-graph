@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Storage and Volumes]]
 - 📚 Module: [[Kubernetes & Container Orchestration]]
-- 🎓 Root: [[Principal SWE]]
+

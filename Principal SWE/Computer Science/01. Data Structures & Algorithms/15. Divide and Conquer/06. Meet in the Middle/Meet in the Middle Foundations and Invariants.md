@@ -59,4 +59,4 @@ func NewMeetintheMiddle() *MeetintheMiddle {
 ## 🔗 References
 - ⬆️ Parent: [[Meet in the Middle]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

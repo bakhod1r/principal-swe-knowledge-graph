@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Knowledge Management Practical Executi
 ## 🔗 References
 - ⬆️ Parent: [[Knowledge Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

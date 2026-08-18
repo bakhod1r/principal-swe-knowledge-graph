@@ -78,4 +78,4 @@ func (m *SoftwareTransactionalMemorystmProductionArchitectureandImplementationMa
 ## 🔗 References
 - ⬆️ Parent: [[Software Transactional Memory (stm)]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

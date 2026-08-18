@@ -59,4 +59,4 @@ func NewBitmaskEnumeration() *BitmaskEnumeration {
 ## 🔗 References
 - ⬆️ Parent: [[Bitmask Enumeration]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

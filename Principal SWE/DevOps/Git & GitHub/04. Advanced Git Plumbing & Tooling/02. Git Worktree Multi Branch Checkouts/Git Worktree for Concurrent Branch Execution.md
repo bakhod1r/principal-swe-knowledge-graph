@@ -34,4 +34,4 @@ Git Worktree for Concurrent Branch Execution
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Git Plumbing & Tooling]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

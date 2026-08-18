@@ -33,4 +33,4 @@ Aggregation
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb & Document Stores]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

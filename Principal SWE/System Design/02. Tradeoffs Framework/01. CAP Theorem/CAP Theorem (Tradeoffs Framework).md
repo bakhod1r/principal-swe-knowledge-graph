@@ -30,4 +30,4 @@ CAP Theorem (Tradeoffs Framework)
 
 ## 🔗 References
 - ⬆️ Parent: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

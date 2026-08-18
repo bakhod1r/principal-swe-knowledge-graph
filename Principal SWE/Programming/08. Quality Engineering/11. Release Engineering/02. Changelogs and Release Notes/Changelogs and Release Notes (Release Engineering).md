@@ -27,4 +27,4 @@ Changelogs and Release Notes (Release Engineering)
 
 ## 🔗 References
 - ⬆️ Parent: [[Release Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

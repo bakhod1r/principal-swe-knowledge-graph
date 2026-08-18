@@ -65,4 +65,4 @@ func optimizeMaxFlowPushRelabel(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Max Flow Push Relabel]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSkiRentalandRentorBuy() *SkiRentalandRentorBuy {
 ## 🔗 References
 - ⬆️ Parent: [[Ski Rental and Rent or Buy]]
 - 📚 Module: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Metrics Core Principles and Mo
 ## 🔗 References
 - ⬆️ Parent: [[Product Metrics]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

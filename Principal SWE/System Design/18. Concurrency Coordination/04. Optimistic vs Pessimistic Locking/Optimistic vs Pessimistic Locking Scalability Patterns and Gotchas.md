@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Optimistic vs Pessimistic Locking]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *AmazonDynamodbManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Amazon Dynamodb]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

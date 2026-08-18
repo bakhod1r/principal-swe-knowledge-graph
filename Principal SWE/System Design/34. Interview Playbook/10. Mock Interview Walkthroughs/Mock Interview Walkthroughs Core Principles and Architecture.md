@@ -81,4 +81,4 @@ func (m *MockInterviewWalkthroughsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Mock Interview Walkthroughs]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

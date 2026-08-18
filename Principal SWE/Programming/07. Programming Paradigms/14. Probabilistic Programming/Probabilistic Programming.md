@@ -33,4 +33,4 @@ Probabilistic Programming
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Paradigms]]
-- 🎓 Root: [[Principal SWE]]
+

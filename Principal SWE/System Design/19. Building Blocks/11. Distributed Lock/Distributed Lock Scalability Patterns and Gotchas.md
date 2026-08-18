@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Lock]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

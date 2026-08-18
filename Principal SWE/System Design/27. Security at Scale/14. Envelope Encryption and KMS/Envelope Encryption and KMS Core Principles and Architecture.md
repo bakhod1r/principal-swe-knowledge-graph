@@ -81,4 +81,4 @@ func (m *EnvelopeEncryptionandKMSManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Envelope Encryption and KMS]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

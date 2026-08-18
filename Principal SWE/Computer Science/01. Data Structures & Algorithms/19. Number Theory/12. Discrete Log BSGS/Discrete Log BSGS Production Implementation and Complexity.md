@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Discrete Log BSGS]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

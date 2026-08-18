@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Relational Rdbms]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

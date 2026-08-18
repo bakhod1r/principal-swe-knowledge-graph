@@ -33,4 +33,4 @@ Distributed Consensus in Databases (raft, Paxos, Spanner)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

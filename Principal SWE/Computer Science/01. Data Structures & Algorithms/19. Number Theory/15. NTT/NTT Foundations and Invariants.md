@@ -59,4 +59,4 @@ func NewNTT() *NTT {
 ## 🔗 References
 - ⬆️ Parent: [[NTT]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

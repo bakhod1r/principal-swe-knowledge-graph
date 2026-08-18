@@ -85,4 +85,4 @@ func (e *ZeroTrustArchitectureztaPrinciplesThreatVectorandMechanicsSecurityEngin
 ## 🔗 References
 - ⬆️ Parent: [[Zero Trust Architecture (zta) Principles]]
 - 📚 Module: [[Threat Modeling & Risk Management]]
-- 🎓 Root: [[Principal SWE]]
+

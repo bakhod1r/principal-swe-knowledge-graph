@@ -81,4 +81,4 @@ func (m *GoogleDriveFileSyncManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Google Drive File Sync]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

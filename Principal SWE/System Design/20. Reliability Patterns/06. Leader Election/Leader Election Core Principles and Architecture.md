@@ -81,4 +81,4 @@ func (m *LeaderElectionManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Leader Election]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

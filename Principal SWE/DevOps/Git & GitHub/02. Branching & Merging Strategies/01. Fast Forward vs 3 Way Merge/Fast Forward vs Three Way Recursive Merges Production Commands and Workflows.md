@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Fast Forward vs Three Way Recursive Merges]]
 - 📚 Module: [[Branching & Merging Strategies]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Memory Ordering and Hardware Memory Barriers
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

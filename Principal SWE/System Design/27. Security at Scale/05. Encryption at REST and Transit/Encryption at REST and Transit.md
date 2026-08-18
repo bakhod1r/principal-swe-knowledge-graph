@@ -30,4 +30,4 @@ Encryption at REST and Transit
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

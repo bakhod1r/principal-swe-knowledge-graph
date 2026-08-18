@@ -34,4 +34,4 @@ Git Reflog Disaster Recovery and Lost Commit Salvage
 ## 🔗 References
 - ⬆️ Parent: [[History Manipulation & Recovery]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeGaussianElimination(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Gaussian Elimination]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

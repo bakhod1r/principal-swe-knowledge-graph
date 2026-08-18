@@ -30,4 +30,4 @@ Numbers Every Engineer Should Know
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

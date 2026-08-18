@@ -78,4 +78,4 @@ func (m *ReadCopyUpdatercuandHazardPointersProductionArchitectureandImplementati
 ## 🔗 References
 - ⬆️ Parent: [[Read Copy Update (rcu) and Hazard Pointers]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

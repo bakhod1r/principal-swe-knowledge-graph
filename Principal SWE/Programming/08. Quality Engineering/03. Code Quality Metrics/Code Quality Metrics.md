@@ -37,4 +37,4 @@ Code Quality Metrics
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

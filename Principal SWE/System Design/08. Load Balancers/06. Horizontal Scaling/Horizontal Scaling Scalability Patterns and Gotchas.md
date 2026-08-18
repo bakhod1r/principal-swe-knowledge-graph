@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Horizontal Scaling]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

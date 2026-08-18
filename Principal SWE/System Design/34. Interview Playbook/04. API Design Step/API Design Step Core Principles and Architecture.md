@@ -81,4 +81,4 @@ func (m *APIDesignStepManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[API Design Step]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

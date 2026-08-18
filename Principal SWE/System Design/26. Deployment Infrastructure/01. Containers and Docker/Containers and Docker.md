@@ -30,4 +30,4 @@ Containers and Docker
 
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

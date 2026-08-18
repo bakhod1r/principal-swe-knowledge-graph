@@ -32,4 +32,4 @@ SIMD and Vector Processing
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

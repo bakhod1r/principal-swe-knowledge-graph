@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Technical Leadership Core Principles a
 ## 🔗 References
 - ⬆️ Parent: [[Technical Leadership]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

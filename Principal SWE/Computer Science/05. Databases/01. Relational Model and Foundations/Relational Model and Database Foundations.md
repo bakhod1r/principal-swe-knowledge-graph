@@ -33,4 +33,4 @@ Relational Model and Database Foundations
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

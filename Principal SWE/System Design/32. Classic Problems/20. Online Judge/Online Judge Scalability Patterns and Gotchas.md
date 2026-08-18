@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Online Judge]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

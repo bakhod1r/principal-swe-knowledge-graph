@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Exchange Argument]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

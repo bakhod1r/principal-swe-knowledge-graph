@@ -58,4 +58,4 @@ func ExecuteMonotonicStackInvariantsStrictlyIncreasingvsDecreasing(data []int, t
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Stack (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

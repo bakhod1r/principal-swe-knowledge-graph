@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Shell and Other Basics]]
 - 📚 Module: [[Linux Systems & Administration]]
-- 🎓 Root: [[Principal SWE]]
+

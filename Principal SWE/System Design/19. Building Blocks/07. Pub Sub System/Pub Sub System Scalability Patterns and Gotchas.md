@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Pub Sub System]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

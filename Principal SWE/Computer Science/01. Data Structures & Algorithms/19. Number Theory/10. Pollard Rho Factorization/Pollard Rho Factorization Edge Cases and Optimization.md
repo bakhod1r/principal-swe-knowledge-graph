@@ -65,4 +65,4 @@ func optimizePollardRhoFactorization(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Pollard Rho Factorization]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

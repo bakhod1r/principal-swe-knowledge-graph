@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Estimation Anti Patterns and Common Pi
 ## 🔗 References
 - ⬆️ Parent: [[Estimation]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

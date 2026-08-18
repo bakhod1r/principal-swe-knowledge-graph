@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Message Queue]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

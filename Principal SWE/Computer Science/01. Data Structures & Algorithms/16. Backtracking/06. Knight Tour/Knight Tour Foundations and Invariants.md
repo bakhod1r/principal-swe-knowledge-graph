@@ -59,4 +59,4 @@ func NewKnightTour() *KnightTour {
 ## 🔗 References
 - ⬆️ Parent: [[Knight Tour]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

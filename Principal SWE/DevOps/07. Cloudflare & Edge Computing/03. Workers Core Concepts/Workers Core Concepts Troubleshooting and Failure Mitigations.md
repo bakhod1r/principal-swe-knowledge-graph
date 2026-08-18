@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Workers Core Concepts]]
 - 📚 Module: [[Cloudflare & Edge Computing]]
-- 🎓 Root: [[Principal SWE]]
+

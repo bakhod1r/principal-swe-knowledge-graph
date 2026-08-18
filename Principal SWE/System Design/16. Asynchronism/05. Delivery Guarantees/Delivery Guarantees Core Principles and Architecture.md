@@ -81,4 +81,4 @@ func (m *DeliveryGuaranteesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Delivery Guarantees]]
 - 📚 Module: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

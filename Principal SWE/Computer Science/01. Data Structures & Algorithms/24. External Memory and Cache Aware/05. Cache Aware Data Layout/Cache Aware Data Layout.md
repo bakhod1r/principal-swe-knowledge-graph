@@ -30,4 +30,4 @@ Cache Aware Data Layout
 
 ## 🔗 References
 - ⬆️ Parent: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

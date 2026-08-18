@@ -81,4 +81,4 @@ func (m *HotspotAccountsandContentionManager) Execute(ctx context.Context) error
 ## 🔗 References
 - ⬆️ Parent: [[Hotspot Accounts and Contention]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

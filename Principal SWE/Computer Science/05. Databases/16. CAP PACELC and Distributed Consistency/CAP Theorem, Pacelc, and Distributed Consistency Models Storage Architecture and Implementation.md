@@ -89,4 +89,4 @@ func (m *CAPTheoremPacelcandDistributedConsistencyModelsStorageArchitectureandIm
 ## 🔗 References
 - ⬆️ Parent: [[CAP Theorem, Pacelc, and Distributed Consistency Models]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

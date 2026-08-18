@@ -78,4 +78,4 @@ func (m *ChannelCapacityandNoisyChannelCodingTheoremProductionArchitectureandImp
 ## 🔗 References
 - ⬆️ Parent: [[Channel Capacity and Noisy Channel Coding Theorem]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

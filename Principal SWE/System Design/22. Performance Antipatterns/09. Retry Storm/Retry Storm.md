@@ -30,4 +30,4 @@ Retry Storm
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

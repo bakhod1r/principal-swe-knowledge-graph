@@ -39,4 +39,4 @@ Branching & Merging Strategies
 
 ## 🔗 References
 - ⬆️ Parent: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Cache Coherence and MESI Protocol
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

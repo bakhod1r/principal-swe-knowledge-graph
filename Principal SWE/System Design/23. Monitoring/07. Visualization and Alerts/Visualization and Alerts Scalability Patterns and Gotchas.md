@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Visualization and Alerts]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

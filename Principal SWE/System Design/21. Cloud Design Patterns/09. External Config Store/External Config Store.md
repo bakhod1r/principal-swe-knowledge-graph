@@ -30,4 +30,4 @@ External Config Store
 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

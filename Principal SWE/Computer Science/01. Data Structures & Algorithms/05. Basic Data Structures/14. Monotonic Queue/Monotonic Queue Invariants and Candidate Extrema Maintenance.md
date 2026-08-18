@@ -58,4 +58,4 @@ func ExecuteMonotonicQueueInvariantsandCandidateExtremaMaintenance(data []int, t
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Queue (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Mock Interview Walkthroughs
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

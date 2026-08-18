@@ -30,4 +30,4 @@ Trino Presto Distributed Query
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

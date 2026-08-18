@@ -81,4 +81,4 @@ func (m *NatsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Nats]]
 - 📚 Module: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

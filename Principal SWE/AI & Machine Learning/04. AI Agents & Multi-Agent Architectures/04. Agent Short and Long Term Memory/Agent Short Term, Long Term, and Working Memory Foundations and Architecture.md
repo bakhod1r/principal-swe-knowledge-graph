@@ -84,4 +84,4 @@ func (c *AgentShortTermLongTermandWorkingMemoryFoundationsandArchitectureClient)
 ## 🔗 References
 - ⬆️ Parent: [[Agent Short Term, Long Term, and Working Memory]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

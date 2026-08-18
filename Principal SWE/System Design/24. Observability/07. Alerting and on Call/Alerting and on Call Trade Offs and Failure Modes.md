@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Alerting and on Call]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

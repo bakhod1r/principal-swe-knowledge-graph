@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions Secrets and Cloud Openid Connect (oidc)]]
 - 📚 Module: [[GitHub Actions & CI CD Automation]]
-- 🎓 Root: [[Principal SWE]]
+

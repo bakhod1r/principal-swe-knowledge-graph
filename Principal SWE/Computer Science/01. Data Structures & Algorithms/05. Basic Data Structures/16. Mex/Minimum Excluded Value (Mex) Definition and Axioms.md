@@ -58,4 +58,4 @@ func ExecuteMinimumExcludedValueMexDefinitionandAxioms(data []int, target int) b
 ## 🔗 References
 - ⬆️ Parent: [[Mex (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

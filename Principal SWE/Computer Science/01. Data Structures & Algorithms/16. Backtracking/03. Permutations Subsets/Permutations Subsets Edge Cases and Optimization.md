@@ -65,4 +65,4 @@ func optimizePermutationsSubsets(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Permutations Subsets]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

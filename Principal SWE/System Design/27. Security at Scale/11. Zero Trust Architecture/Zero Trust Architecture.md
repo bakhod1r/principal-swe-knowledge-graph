@@ -30,4 +30,4 @@ Zero Trust Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

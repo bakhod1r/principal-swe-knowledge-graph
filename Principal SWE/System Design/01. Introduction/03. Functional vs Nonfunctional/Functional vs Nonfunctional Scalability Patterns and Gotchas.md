@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Functional vs Nonfunctional]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

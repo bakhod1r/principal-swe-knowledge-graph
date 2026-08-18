@@ -84,4 +84,4 @@ func (c *AgentOrchestrationFrameworkslanggraphCrewaiProductionImplementationandW
 ## 🔗 References
 - ⬆️ Parent: [[Agent Orchestration Frameworks (langgraph, Crewai)]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

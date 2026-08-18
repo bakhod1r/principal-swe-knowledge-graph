@@ -34,4 +34,4 @@ Fast Forward vs Three Way Recursive Merges
 ## 🔗 References
 - ⬆️ Parent: [[Branching & Merging Strategies]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

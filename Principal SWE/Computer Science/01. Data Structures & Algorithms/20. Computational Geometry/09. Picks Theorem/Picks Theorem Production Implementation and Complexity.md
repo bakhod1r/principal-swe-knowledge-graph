@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Picks Theorem]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

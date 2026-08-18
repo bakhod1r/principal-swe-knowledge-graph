@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Service Mesh]]
 - 📚 Module: [[Core DevOps Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GlobalServerLoadBalancingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Global Server Load Balancing]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

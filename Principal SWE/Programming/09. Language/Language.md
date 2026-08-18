@@ -2,35 +2,30 @@
 title: Language
 tags:
   - programming
-  - languages
+  - language
   - principal-swe
 parent: "[[Programming]]"
 ---
 
-# 💻 Programming Languages & Runtime Mastery
+# 🔤 Programming Languages
 
-Production-grade engineering master architectures covering modern high-performance, enterprise, and relational languages: **Golang** (Go 1.22+ runtime, scheduler, GC, concurrency), **Python** (Python 3.12+ CPython, GIL, asyncio, metaprogramming), **Java** (Java 21+ JVM, Project Loom virtual threads, JCA, Spring Boot), and **SQL** (ANSI SQL relational algebra, DDL/DML, Window functions, query tuning) across 4 language ecosystems.
+Dedicated, deep, master-level repositories for specific programming languages.
 
 ```text
 Language
-│
-├── [[Golang|Golang]]
-├── [[Java|Java]]
-├── [[Python|Python]]
-└── [[SQL|SQL]]
+└── [[Golang]]
 ```
 
 ---
 
-## 🗂️ Language Ecosystems
+## 🗂️ Language Vaults
 
-- 📂 [[Golang|Golang]]
-- 📂 [[Java|Java]]
-- 📂 [[Python|Python]]
-- 📂 [[SQL|SQL]]
+- 🐹 [[Golang]] — High-performance concurrent systems language (17 Master Pillars, 1,147+ notes)
+- 🐍 **Python** *(Planned)*
+- 🦀 **Rust** *(Planned)*
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming]]
-- 🎓 Root: [[Principal SWE]]
+

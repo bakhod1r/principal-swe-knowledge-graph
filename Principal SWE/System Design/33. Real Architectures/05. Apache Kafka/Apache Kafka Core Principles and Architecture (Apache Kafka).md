@@ -81,4 +81,4 @@ func (m *ApacheKafkaApacheKafkaManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Apache Kafka (Real Architectures)]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

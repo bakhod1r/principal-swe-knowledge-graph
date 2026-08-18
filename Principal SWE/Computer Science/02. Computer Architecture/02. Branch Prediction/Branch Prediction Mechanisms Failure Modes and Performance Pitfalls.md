@@ -78,4 +78,4 @@ func (m *BranchPredictionMechanismsFailureModesandPerformancePitfallsManager) Pr
 ## 🔗 References
 - ⬆️ Parent: [[Branch Prediction Mechanisms]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ What Is Professionalism
 ## 🔗 References
 - ⬆️ Parent: [[Professionalism & Software Ethics]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

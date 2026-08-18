@@ -30,4 +30,4 @@ Suffix Tree Ukkonen
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Number Tables]]
 - 📚 Module: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

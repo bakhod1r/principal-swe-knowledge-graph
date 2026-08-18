@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Per Tenant Scaling and Limits]]
 - 📚 Module: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

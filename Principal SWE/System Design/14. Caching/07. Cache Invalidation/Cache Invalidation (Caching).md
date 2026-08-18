@@ -30,4 +30,4 @@ Cache Invalidation (Caching)
 
 ## 🔗 References
 - ⬆️ Parent: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Tradeoffs and Wrap Up]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Ledgers and Double Entry Accounting
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

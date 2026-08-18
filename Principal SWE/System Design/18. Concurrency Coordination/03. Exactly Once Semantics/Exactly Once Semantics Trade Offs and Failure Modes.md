@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Exactly Once Semantics]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

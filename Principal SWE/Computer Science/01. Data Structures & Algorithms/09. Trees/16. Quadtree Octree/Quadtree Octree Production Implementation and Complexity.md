@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Quadtree Octree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

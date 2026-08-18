@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Business Acumen Practical Execution an
 ## 🔗 References
 - ⬆️ Parent: [[Business Acumen]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

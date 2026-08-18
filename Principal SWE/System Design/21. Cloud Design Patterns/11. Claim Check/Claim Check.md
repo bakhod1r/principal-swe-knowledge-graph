@@ -30,4 +30,4 @@ Claim Check
 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

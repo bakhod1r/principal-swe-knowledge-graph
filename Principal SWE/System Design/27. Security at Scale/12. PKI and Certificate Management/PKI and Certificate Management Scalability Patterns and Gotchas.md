@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[PKI and Certificate Management]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

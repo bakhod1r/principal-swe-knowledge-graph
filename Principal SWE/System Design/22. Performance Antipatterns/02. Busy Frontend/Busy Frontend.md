@@ -30,4 +30,4 @@ Busy Frontend
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

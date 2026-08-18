@@ -59,4 +59,4 @@ func NewModelsPRAMWorkSpan() *ModelsPRAMWorkSpan {
 ## 🔗 References
 - ⬆️ Parent: [[Models PRAM Work Span]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

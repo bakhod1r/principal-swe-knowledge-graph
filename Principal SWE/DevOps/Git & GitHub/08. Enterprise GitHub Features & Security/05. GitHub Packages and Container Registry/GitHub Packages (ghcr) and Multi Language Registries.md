@@ -34,4 +34,4 @@ GitHub Packages (ghcr) and Multi Language Registries
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise GitHub Features & Security]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

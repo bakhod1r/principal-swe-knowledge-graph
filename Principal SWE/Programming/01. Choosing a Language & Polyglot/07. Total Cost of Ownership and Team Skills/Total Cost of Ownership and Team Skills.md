@@ -35,4 +35,4 @@ Total Cost of Ownership and Team Skills
 
 ## 🔗 References
 - ⬆️ Parent: [[Choosing a Language & Polyglot]]
-- 🎓 Root: [[Principal SWE]]
+

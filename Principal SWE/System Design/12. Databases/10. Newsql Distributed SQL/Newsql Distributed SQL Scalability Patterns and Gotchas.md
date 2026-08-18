@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Newsql Distributed SQL]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

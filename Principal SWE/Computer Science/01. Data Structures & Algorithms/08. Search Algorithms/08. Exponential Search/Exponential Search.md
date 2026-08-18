@@ -30,4 +30,4 @@ Exponential Search
 
 ## 🔗 References
 - ⬆️ Parent: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

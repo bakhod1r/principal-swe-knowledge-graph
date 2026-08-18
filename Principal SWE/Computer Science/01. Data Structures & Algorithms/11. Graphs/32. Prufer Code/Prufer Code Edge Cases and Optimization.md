@@ -65,4 +65,4 @@ func optimizePruferCode(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Prufer Code]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Complexity Classes P Np
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

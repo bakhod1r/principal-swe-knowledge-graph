@@ -65,4 +65,4 @@ func optimizeFenwickTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Fenwick Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

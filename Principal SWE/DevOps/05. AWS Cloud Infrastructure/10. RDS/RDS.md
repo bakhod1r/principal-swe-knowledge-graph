@@ -33,4 +33,4 @@ RDS
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Infrastructure]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

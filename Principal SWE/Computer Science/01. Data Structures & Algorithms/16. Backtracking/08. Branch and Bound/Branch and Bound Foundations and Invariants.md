@@ -59,4 +59,4 @@ func NewBranchandBound() *BranchandBound {
 ## 🔗 References
 - ⬆️ Parent: [[Branch and Bound]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

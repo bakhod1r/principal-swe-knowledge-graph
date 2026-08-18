@@ -33,4 +33,4 @@ Product Management Tools
 ## 🔗 References
 - ⬆️ Parent: [[Product Management & Strategy]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

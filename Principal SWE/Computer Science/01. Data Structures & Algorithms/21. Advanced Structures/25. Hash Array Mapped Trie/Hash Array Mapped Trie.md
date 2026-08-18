@@ -30,4 +30,4 @@ Hash Array Mapped Trie
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

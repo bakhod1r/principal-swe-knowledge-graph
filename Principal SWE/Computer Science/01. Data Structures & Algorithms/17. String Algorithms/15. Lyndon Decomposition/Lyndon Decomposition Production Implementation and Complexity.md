@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Lyndon Decomposition]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

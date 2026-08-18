@@ -81,4 +81,4 @@ func (m *CommonMistakesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Common Mistakes]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

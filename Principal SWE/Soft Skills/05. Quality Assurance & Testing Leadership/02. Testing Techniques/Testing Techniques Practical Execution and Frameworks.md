@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Testing Techniques Practical Execution
 ## 🔗 References
 - ⬆️ Parent: [[Testing Techniques]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

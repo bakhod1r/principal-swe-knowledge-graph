@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Monitoring Logs Practical Execution an
 ## 🔗 References
 - ⬆️ Parent: [[Monitoring Logs]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

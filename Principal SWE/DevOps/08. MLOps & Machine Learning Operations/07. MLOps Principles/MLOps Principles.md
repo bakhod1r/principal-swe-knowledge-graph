@@ -33,4 +33,4 @@ MLOps Principles
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

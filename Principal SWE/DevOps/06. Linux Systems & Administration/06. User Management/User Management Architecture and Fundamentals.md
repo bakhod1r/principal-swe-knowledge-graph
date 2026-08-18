@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[User Management]]
 - 📚 Module: [[Linux Systems & Administration]]
-- 🎓 Root: [[Principal SWE]]
+

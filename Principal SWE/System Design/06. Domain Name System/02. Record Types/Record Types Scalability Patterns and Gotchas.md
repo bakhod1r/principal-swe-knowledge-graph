@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Record Types]]
 - 📚 Module: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

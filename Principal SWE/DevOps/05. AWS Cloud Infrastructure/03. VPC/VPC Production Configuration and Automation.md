@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[VPC]]
 - 📚 Module: [[AWS Cloud Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

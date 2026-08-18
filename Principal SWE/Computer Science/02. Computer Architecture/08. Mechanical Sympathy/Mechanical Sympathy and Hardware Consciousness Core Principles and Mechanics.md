@@ -78,4 +78,4 @@ func (m *MechanicalSympathyandHardwareConsciousnessCorePrinciplesandMechanicsMan
 ## 🔗 References
 - ⬆️ Parent: [[Mechanical Sympathy and Hardware Consciousness]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

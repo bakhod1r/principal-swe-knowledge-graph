@@ -30,4 +30,4 @@ Lakehouse and Table Formats
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

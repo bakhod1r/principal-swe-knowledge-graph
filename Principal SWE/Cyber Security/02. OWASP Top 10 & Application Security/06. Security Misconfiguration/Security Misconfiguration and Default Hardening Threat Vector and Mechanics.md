@@ -85,4 +85,4 @@ func (e *SecurityMisconfigurationandDefaultHardeningThreatVectorandMechanicsSecu
 ## 🔗 References
 - ⬆️ Parent: [[Security Misconfiguration and Default Hardening]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

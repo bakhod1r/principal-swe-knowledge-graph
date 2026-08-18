@@ -33,4 +33,4 @@ Transactions, ACID Axioms, and Isolation Levels
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

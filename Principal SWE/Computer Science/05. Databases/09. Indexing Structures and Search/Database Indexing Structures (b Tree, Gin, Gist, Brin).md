@@ -33,4 +33,4 @@ Database Indexing Structures (b Tree, Gin, Gist, Brin)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

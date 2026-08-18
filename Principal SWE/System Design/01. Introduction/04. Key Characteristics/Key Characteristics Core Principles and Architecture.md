@@ -81,4 +81,4 @@ func (m *KeyCharacteristicsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Key Characteristics]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

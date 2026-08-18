@@ -30,4 +30,4 @@ Load Balancing Algorithms
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

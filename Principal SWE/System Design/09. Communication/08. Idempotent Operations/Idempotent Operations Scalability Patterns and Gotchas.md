@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Idempotent Operations]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

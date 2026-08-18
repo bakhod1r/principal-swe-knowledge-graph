@@ -81,4 +81,4 @@ func (m *StranglerFigatScaleManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Strangler Fig at Scale]]
 - 📚 Module: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

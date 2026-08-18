@@ -89,4 +89,4 @@ func (m *BufferPoolandDatabasePageCacheManagementCorePrinciplesandMechanicsManag
 ## 🔗 References
 - ⬆️ Parent: [[Buffer Pool and Database Page Cache Management]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

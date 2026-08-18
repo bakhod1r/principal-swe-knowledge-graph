@@ -65,4 +65,4 @@ func optimizeKnapsack(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Knapsack]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

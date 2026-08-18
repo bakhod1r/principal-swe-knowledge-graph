@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Uber Lyft Dispatch]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

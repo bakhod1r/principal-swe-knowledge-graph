@@ -30,4 +30,4 @@ Knuth Optimization
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

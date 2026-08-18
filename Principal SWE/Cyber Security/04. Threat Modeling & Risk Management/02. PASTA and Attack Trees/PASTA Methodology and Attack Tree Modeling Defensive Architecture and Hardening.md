@@ -85,4 +85,4 @@ func (e *PASTAMethodologyandAttackTreeModelingDefensiveArchitectureandHardeningS
 ## 🔗 References
 - ⬆️ Parent: [[PASTA Methodology and Attack Tree Modeling]]
 - 📚 Module: [[Threat Modeling & Risk Management]]
-- 🎓 Root: [[Principal SWE]]
+

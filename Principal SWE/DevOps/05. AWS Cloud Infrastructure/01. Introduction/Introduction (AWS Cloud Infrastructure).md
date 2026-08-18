@@ -33,4 +33,4 @@ Introduction (AWS Cloud Infrastructure)
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Infrastructure]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

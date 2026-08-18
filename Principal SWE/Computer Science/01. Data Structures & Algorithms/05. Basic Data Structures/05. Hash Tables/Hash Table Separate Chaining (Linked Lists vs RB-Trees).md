@@ -58,4 +58,4 @@ func ExecuteHashTableSeparateChainingLinkedListsvsRBTrees(data []int, target int
 ## 🔗 References
 - ⬆️ Parent: [[Hash Tables (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

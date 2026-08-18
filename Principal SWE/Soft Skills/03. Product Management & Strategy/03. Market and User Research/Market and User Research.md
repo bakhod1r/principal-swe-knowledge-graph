@@ -33,4 +33,4 @@ Market and User Research
 ## 🔗 References
 - ⬆️ Parent: [[Product Management & Strategy]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

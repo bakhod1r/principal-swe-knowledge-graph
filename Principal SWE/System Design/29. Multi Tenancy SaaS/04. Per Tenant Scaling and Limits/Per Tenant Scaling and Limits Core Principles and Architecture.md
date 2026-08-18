@@ -81,4 +81,4 @@ func (m *PerTenantScalingandLimitsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Per Tenant Scaling and Limits]]
 - 📚 Module: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

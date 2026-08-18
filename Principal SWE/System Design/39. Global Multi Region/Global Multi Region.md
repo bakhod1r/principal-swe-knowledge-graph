@@ -36,4 +36,4 @@ Global Multi Region
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

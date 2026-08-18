@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[HTTP Evolution 1 2 3 QUIC]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Disaster Recovery]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

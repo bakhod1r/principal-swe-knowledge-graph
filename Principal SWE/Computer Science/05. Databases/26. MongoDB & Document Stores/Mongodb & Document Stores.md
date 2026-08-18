@@ -48,4 +48,4 @@ Mongodb & Document Stores
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

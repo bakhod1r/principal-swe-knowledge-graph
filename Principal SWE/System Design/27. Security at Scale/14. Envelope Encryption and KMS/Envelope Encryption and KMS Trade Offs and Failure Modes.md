@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Envelope Encryption and KMS]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

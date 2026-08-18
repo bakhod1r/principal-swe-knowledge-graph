@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Polyglot Persistence]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

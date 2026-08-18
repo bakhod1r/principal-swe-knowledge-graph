@@ -28,4 +28,4 @@ Introduction to DSA Overview
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction to DSA]]
-- 🎓 Root: [[Principal SWE]]
+

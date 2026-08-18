@@ -59,4 +59,4 @@ func NewIntervalDp() *IntervalDp {
 ## 🔗 References
 - ⬆️ Parent: [[Interval Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

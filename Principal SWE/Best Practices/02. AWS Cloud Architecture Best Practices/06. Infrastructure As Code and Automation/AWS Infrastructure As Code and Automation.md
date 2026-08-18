@@ -33,4 +33,4 @@ AWS Infrastructure As Code and Automation
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Architecture Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

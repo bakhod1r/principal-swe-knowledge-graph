@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Activity Selection]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

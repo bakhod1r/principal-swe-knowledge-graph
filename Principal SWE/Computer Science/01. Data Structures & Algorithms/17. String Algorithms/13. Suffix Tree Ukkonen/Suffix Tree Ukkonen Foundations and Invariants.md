@@ -59,4 +59,4 @@ func NewSuffixTreeUkkonen() *SuffixTreeUkkonen {
 ## 🔗 References
 - ⬆️ Parent: [[Suffix Tree Ukkonen]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

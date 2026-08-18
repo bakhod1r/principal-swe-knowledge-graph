@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Graph Coloring]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

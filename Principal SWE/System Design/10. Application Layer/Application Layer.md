@@ -40,4 +40,4 @@ Application Layer
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Dirichlet Linear Sieve
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

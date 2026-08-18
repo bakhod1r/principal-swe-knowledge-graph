@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Encryption Key Lifecycle]]
 - 📚 Module: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

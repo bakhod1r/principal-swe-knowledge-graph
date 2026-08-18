@@ -65,4 +65,4 @@ func optimizeActivitySelection(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Activity Selection]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *AmdahlsLawManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Amdahls Law]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewShellSort() *ShellSort {
 ## 🔗 References
 - ⬆️ Parent: [[Shell Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

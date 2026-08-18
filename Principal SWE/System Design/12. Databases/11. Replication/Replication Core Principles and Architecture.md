@@ -81,4 +81,4 @@ func (m *ReplicationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Replication (Databases)]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

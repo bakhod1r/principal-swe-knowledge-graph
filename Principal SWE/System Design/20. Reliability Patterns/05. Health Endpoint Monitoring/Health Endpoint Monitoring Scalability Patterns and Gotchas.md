@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Health Endpoint Monitoring]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

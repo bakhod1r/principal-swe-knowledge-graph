@@ -43,4 +43,4 @@ Operating Systems
 
 ## 🔗 References
 - ⬆️ Parent: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

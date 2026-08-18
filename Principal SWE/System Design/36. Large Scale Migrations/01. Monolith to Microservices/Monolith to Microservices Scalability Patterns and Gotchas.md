@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Monolith to Microservices]]
 - 📚 Module: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

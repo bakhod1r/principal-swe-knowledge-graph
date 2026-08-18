@@ -37,4 +37,4 @@ Design Principles (Object-Oriented Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-- 🎓 Root: [[Principal SWE]]
+

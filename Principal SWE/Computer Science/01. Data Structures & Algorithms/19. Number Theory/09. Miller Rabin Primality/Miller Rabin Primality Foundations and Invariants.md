@@ -59,4 +59,4 @@ func NewMillerRabinPrimality() *MillerRabinPrimality {
 ## 🔗 References
 - ⬆️ Parent: [[Miller Rabin Primality]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

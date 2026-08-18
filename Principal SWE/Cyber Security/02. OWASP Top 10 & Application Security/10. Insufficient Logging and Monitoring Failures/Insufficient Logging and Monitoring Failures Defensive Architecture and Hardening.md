@@ -85,4 +85,4 @@ func (e *InsufficientLoggingandMonitoringFailuresDefensiveArchitectureandHardeni
 ## 🔗 References
 - ⬆️ Parent: [[Insufficient Logging and Monitoring Failures]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

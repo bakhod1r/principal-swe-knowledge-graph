@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Career Development Core Principles and
 ## 🔗 References
 - ⬆️ Parent: [[Career Development]]
 - 📚 Module: [[Developer Relations & Community]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeMinimumEnclosingCircle(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Minimum Enclosing Circle]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

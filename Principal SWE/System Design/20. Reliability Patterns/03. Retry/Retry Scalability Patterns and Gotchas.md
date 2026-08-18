@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Retry]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

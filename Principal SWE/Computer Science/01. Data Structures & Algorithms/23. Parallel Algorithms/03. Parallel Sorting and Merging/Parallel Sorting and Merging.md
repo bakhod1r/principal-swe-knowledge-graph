@@ -30,4 +30,4 @@ Parallel Sorting and Merging
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

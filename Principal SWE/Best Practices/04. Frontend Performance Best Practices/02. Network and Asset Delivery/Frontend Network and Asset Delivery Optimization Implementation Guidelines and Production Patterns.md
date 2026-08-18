@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Network and Asset Delivery Optimization]]
 - 📚 Module: [[Frontend Performance Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

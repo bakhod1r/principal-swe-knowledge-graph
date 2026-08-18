@@ -65,4 +65,4 @@ func optimizeSqrtDecompositionMosAlgorithm(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Sqrt Decomposition Mos Algorithm]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

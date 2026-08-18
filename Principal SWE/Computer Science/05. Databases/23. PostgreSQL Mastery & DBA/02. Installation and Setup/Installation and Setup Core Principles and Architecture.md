@@ -81,4 +81,4 @@ func (s *InstallationandSetupCorePrinciplesandArchitectureService) Execute(ctx c
 ## 🔗 References
 - ⬆️ Parent: [[Installation and Setup]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

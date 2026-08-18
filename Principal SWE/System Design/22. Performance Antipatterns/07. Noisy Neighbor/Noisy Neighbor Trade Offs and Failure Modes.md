@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Noisy Neighbor]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

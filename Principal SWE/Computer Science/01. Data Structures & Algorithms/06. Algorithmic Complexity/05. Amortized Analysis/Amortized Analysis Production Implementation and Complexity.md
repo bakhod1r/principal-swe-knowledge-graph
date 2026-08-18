@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Amortized Analysis]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

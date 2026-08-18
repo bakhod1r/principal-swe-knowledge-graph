@@ -30,4 +30,4 @@ Online Scheduling and Load Balancing
 
 ## 🔗 References
 - ⬆️ Parent: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

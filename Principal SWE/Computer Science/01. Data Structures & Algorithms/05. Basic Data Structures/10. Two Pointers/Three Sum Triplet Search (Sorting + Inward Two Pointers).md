@@ -58,4 +58,4 @@ func ExecuteThreeSumTripletSearchSortingInwardTwoPointers(data []int, target int
 ## 🔗 References
 - ⬆️ Parent: [[Two Pointers (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

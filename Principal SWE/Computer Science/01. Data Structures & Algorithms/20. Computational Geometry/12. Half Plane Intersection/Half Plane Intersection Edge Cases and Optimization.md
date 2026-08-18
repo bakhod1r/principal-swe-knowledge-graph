@@ -65,4 +65,4 @@ func optimizeHalfPlaneIntersection(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Half Plane Intersection]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

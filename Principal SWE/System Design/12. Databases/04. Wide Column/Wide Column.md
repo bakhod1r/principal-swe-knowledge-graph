@@ -30,4 +30,4 @@ Wide Column
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

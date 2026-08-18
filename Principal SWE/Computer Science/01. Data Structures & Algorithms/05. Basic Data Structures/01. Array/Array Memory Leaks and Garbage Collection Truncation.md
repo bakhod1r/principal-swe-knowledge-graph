@@ -50,4 +50,4 @@ func TruncateSafely[T any](s []T, newLen int) []T {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

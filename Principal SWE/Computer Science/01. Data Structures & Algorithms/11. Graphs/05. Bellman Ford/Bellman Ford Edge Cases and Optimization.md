@@ -65,4 +65,4 @@ func optimizeBellmanFord(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Bellman Ford]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

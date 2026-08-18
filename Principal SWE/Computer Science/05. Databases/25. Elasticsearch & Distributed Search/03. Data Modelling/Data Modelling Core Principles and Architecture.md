@@ -81,4 +81,4 @@ func (s *DataModellingCorePrinciplesandArchitectureService) Execute(ctx context.
 ## 🔗 References
 - ⬆️ Parent: [[Data Modelling]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

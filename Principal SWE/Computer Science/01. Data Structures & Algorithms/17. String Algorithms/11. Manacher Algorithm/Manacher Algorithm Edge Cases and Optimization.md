@@ -65,4 +65,4 @@ func optimizeManacherAlgorithm(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Manacher Algorithm]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

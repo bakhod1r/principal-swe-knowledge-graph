@@ -59,4 +59,4 @@ func NewGarnerAlgorithm() *GarnerAlgorithm {
 ## 🔗 References
 - ⬆️ Parent: [[Garner Algorithm]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

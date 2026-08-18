@@ -65,4 +65,4 @@ func optimizePersistentSegmentTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Persistent Segment Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

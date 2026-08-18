@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Bisect Automated Binary Search Debugging]]
 - 📚 Module: [[Advanced Git Plumbing & Tooling]]
-- 🎓 Root: [[Principal SWE]]
+

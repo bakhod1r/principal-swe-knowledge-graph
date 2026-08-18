@@ -45,4 +45,4 @@ Code-Level Security & Secure Coding Standards
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

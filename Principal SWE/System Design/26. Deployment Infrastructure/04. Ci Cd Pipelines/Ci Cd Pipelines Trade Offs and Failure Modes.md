@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Ci Cd Pipelines]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

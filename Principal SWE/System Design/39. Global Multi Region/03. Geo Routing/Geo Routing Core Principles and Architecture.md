@@ -81,4 +81,4 @@ func (m *GeoRoutingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Geo Routing]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

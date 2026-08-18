@@ -58,4 +58,4 @@ func ExecuteMexinSpragueGrundyGameTheoryNimValueTransitions(data []int, target i
 ## 🔗 References
 - ⬆️ Parent: [[Mex (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

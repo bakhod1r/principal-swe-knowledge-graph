@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Queueing Theory Littles Law]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

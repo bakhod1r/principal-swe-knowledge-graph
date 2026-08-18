@@ -33,4 +33,4 @@ Container Image Scanning and Runtime Security
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops & Secure SDLC]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

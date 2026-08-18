@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Persistent Segment Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

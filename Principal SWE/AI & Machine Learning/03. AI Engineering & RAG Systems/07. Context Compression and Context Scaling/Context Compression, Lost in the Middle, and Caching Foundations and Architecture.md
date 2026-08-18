@@ -84,4 +84,4 @@ func (c *ContextCompressionLostintheMiddleandCachingFoundationsandArchitectureCl
 ## 🔗 References
 - ⬆️ Parent: [[Context Compression, Lost in the Middle, and Caching]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

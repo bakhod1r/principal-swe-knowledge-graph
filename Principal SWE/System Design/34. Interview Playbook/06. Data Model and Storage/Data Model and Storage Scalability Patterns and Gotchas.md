@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Data Model and Storage]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

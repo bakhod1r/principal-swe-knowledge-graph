@@ -65,4 +65,4 @@ func optimizeMatrixExponentiation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Exponentiation]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Capture the Flag (ctf) Methodologies and Skills
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

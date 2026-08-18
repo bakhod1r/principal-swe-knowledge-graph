@@ -65,4 +65,4 @@ func optimizeMontgomeryMultiplication(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Montgomery Multiplication]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

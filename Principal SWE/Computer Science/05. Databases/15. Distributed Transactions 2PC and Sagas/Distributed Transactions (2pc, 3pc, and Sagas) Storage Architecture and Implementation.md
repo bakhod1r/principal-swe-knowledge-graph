@@ -89,4 +89,4 @@ func (m *DistributedTransactions2pc3pcandSagasStorageArchitectureandImplementati
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Transactions (2pc, 3pc, and Sagas)]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

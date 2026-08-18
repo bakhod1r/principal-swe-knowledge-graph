@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Content Optimization Core Principles a
 ## 🔗 References
 - ⬆️ Parent: [[Content Optimization]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *BooleanAlgebraandDigitalCircuitMinimizationProductionArchitectureandImp
 ## 🔗 References
 - ⬆️ Parent: [[Boolean Algebra and Digital Circuit Minimization]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

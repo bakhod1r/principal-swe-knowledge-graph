@@ -65,4 +65,4 @@ func optimizeLSMTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[LSM Tree (Advanced Structures)]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

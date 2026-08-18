@@ -30,4 +30,4 @@ Reconciliation
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

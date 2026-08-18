@@ -37,4 +37,4 @@ SOLID
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Principles]]
-- 🎓 Root: [[Principal SWE]]
+

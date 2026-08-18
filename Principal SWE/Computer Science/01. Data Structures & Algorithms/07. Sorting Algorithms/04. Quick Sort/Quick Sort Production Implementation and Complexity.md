@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Quick Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

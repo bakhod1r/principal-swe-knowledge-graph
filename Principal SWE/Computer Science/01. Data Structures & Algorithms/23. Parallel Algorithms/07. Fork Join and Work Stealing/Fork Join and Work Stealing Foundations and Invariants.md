@@ -59,4 +59,4 @@ func NewForkJoinandWorkStealing() *ForkJoinandWorkStealing {
 ## 🔗 References
 - ⬆️ Parent: [[Fork Join and Work Stealing]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

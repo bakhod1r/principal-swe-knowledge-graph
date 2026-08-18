@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Hotel Reservation System]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

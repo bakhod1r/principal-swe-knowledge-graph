@@ -30,4 +30,4 @@ Schedule Driven
 
 ## 🔗 References
 - ⬆️ Parent: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

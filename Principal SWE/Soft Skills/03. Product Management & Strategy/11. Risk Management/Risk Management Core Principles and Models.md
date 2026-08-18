@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Risk Management Core Principles and Mo
 ## 🔗 References
 - ⬆️ Parent: [[Risk Management]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

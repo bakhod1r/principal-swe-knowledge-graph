@@ -43,4 +43,4 @@ Antipatterns and Code Smells
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-- 🎓 Root: [[Principal SWE]]
+

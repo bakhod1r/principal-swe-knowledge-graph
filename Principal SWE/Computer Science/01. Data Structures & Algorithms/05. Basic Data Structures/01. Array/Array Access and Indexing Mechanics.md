@@ -55,4 +55,4 @@ func ReadElement(arr []int64, idx int) (int64, bool) {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

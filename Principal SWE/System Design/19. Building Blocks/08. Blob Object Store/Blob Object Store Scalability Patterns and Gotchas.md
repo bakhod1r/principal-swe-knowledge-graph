@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Blob Object Store]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

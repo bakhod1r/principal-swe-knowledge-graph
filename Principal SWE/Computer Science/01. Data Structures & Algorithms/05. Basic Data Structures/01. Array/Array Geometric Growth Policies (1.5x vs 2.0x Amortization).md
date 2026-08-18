@@ -48,4 +48,4 @@ Growth 1.5x: 1, 2, 3, 5, 8, 12, 18, 27 -> Can REUSE previously freed memory bloc
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

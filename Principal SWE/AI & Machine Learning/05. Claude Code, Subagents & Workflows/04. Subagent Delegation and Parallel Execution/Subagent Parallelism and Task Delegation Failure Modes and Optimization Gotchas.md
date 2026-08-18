@@ -84,4 +84,4 @@ func (c *SubagentParallelismandTaskDelegationFailureModesandOptimizationGotchasC
 ## 🔗 References
 - ⬆️ Parent: [[Subagent Parallelism and Task Delegation]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

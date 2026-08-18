@@ -32,4 +32,4 @@ Kolmogorov Complexity and Algorithmic Information
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

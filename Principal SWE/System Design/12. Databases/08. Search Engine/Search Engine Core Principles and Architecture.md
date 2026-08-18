@@ -81,4 +81,4 @@ func (m *SearchEngineManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Search Engine]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

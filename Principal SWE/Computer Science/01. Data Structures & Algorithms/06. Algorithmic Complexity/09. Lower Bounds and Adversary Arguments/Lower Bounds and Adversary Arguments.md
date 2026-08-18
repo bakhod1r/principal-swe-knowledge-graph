@@ -30,4 +30,4 @@ Lower Bounds and Adversary Arguments
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

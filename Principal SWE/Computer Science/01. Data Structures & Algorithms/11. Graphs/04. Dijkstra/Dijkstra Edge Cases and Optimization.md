@@ -65,4 +65,4 @@ func optimizeDijkstra(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Dijkstra]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

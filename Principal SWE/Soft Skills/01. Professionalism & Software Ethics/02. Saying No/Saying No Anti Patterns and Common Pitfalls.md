@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Saying No Anti Patterns and Common Pit
 ## 🔗 References
 - ⬆️ Parent: [[Saying No]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

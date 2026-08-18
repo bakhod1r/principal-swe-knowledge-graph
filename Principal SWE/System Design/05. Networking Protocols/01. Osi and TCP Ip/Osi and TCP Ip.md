@@ -30,4 +30,4 @@ Osi and TCP Ip
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

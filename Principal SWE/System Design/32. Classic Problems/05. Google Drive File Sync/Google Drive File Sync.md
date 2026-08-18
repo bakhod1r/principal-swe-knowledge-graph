@@ -30,4 +30,4 @@ Google Drive File Sync
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewWhyAreDataStructuresImportant() *WhyAreDataStructuresImportant {
 ## 🔗 References
 - ⬆️ Parent: [[Why Are Data Structures Important Overview]]
 - 📚 Module: [[Why Are Data Structures Important]]
-- 🎓 Root: [[Principal SWE]]
+

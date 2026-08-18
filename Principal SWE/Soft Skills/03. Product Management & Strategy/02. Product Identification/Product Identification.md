@@ -33,4 +33,4 @@ Product Identification
 ## 🔗 References
 - ⬆️ Parent: [[Product Management & Strategy]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

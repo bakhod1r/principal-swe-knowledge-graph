@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[RDS]]
 - 📚 Module: [[AWS Cloud Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -43,4 +43,4 @@ Static Analysis
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

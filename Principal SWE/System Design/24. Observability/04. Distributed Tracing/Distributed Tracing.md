@@ -30,4 +30,4 @@ Distributed Tracing
 
 ## 🔗 References
 - ⬆️ Parent: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

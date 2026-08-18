@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Saying No Practical Execution and Fram
 ## 🔗 References
 - ⬆️ Parent: [[Saying No]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

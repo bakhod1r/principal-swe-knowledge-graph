@@ -59,4 +59,4 @@ func NewMerkleTree() *MerkleTree {
 ## 🔗 References
 - ⬆️ Parent: [[Merkle Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

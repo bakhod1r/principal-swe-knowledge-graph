@@ -30,4 +30,4 @@ Infrastructure As Code
 
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

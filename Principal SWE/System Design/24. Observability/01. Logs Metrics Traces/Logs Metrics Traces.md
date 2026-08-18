@@ -30,4 +30,4 @@ Logs Metrics Traces
 
 ## 🔗 References
 - ⬆️ Parent: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Vertex Cover Approximation
 
 ## 🔗 References
 - ⬆️ Parent: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

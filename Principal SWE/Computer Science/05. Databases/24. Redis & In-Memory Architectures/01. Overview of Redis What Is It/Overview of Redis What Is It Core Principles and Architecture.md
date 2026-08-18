@@ -81,4 +81,4 @@ func (s *OverviewofRedisWhatIsItCorePrinciplesandArchitectureService) Execute(ct
 ## 🔗 References
 - ⬆️ Parent: [[Overview of Redis What Is It]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

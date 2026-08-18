@@ -58,4 +58,4 @@ func ExecuteIntrusiveLinkedListLinuxKernellistheadcontainerof(data []int, target
 ## 🔗 References
 - ⬆️ Parent: [[Linked Lists (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

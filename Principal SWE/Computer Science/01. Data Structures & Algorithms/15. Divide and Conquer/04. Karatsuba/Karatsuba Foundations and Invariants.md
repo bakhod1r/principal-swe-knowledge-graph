@@ -59,4 +59,4 @@ func NewKaratsuba() *Karatsuba {
 ## 🔗 References
 - ⬆️ Parent: [[Karatsuba]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

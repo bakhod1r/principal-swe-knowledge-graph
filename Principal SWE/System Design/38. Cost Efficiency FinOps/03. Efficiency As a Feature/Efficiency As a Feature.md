@@ -30,4 +30,4 @@ Efficiency As a Feature
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Version Control Systems (Core DevOps Engineering)
 ## 🔗 References
 - ⬆️ Parent: [[Core DevOps Engineering]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

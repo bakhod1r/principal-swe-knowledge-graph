@@ -30,4 +30,4 @@ Lambda vs Kappa Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

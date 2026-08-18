@@ -30,4 +30,4 @@ Fork Join and Work Stealing
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

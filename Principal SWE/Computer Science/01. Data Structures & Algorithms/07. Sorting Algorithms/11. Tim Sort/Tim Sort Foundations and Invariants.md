@@ -59,4 +59,4 @@ func NewTimSort() *TimSort {
 ## 🔗 References
 - ⬆️ Parent: [[Tim Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

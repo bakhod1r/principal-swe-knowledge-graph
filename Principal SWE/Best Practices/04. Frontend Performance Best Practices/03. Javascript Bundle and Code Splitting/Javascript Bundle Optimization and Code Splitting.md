@@ -33,4 +33,4 @@ Javascript Bundle Optimization and Code Splitting
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

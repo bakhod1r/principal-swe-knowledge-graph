@@ -65,4 +65,4 @@ func optimizeMobiusInversion(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Mobius Inversion]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

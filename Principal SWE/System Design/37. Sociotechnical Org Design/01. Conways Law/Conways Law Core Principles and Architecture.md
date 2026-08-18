@@ -81,4 +81,4 @@ func (m *ConwaysLawManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Conways Law]]
 - 📚 Module: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

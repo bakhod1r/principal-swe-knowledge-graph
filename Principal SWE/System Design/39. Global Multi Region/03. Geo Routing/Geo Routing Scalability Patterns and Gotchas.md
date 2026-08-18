@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Geo Routing]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

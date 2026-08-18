@@ -81,4 +81,4 @@ func (m *CacheInvalidationCacheInvalidationManager) Execute(ctx context.Context)
 ## 🔗 References
 - ⬆️ Parent: [[Cache Invalidation (Caching)]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

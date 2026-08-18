@@ -84,4 +84,4 @@ func (c *StructuredOutputsJSONModeandFunctionCallingFoundationsandArchitectureCl
 ## 🔗 References
 - ⬆️ Parent: [[Structured Outputs, JSON Mode, and Function Calling]]
 - 📚 Module: [[Prompt Engineering & LLM Alignment]]
-- 🎓 Root: [[Principal SWE]]
+

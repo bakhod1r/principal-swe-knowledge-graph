@@ -85,4 +85,4 @@ func (e *DDoSMitigationandVolumetricTrafficScrubbingThreatVectorandMechanicsSecu
 ## 🔗 References
 - ⬆️ Parent: [[DDoS Mitigation and Volumetric Traffic Scrubbing]]
 - 📚 Module: [[Attack Types & Penetration Testing]]
-- 🎓 Root: [[Principal SWE]]
+

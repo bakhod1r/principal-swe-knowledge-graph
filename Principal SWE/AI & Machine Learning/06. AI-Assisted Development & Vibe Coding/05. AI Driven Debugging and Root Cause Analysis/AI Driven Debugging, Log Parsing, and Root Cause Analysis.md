@@ -33,4 +33,4 @@ AI Driven Debugging, Log Parsing, and Root Cause Analysis
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeHopcroftKarp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Hopcroft Karp]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

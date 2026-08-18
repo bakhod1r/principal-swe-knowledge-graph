@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Clean Up]]
 - 📚 Module: [[Terraform & Infrastructure As Code]]
-- 🎓 Root: [[Principal SWE]]
+

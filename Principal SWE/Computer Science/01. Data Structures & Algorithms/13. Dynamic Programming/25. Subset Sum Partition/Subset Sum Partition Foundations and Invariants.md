@@ -59,4 +59,4 @@ func NewSubsetSumPartition() *SubsetSumPartition {
 ## 🔗 References
 - ⬆️ Parent: [[Subset Sum Partition]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

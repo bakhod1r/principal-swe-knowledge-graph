@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[CI CD Integration]]
 - 📚 Module: [[Terraform & Infrastructure As Code]]
-- 🎓 Root: [[Principal SWE]]
+

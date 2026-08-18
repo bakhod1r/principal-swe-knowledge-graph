@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Pull CDN]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

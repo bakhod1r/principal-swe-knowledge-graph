@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Manual Testing Practical Execution and
 ## 🔗 References
 - ⬆️ Parent: [[Manual Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

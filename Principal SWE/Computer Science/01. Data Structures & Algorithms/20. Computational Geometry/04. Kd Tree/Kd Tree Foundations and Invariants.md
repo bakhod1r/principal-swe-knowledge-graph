@@ -59,4 +59,4 @@ func NewKdTree() *KdTree {
 ## 🔗 References
 - ⬆️ Parent: [[Kd Tree]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

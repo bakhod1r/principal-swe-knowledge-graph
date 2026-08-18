@@ -30,4 +30,4 @@ Job Scheduling
 
 ## 🔗 References
 - ⬆️ Parent: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

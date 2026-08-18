@@ -78,4 +78,4 @@ func (m *InstructionPipeliningandOutofOrderExecutionCorePrinciplesandMechanicsMa
 ## 🔗 References
 - ⬆️ Parent: [[Instruction Pipelining and Out of Order Execution]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

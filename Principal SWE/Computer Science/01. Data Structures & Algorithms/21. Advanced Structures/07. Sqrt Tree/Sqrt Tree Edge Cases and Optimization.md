@@ -65,4 +65,4 @@ func optimizeSqrtTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Sqrt Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

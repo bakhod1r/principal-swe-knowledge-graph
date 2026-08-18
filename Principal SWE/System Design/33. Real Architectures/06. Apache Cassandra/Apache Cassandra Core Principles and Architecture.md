@@ -81,4 +81,4 @@ func (m *ApacheCassandraManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Apache Cassandra]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

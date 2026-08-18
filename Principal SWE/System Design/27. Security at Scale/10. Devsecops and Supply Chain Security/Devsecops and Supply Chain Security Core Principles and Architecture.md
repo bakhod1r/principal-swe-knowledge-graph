@@ -81,4 +81,4 @@ func (m *DevsecopsandSupplyChainSecurityManager) Execute(ctx context.Context) er
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops and Supply Chain Security]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

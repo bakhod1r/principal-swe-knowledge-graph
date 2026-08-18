@@ -30,4 +30,4 @@ Insertion Sort
 
 ## 🔗 References
 - ⬆️ Parent: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

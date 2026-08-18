@@ -59,4 +59,4 @@ func NewKirchhoffTheorem() *KirchhoffTheorem {
 ## 🔗 References
 - ⬆️ Parent: [[Kirchhoff Theorem]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

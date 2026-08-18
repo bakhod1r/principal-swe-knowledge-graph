@@ -30,4 +30,4 @@ Bloom Filter (Building Blocks)
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeBinomialHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binomial Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

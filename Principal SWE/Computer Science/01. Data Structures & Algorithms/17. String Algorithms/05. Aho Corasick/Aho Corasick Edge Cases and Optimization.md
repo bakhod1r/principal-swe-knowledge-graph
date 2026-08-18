@@ -65,4 +65,4 @@ func optimizeAhoCorasick(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Aho Corasick]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

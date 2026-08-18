@@ -65,4 +65,4 @@ func optimizeMemoizationvsTabulation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Memoization vs Tabulation]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

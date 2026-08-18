@@ -59,4 +59,4 @@ func NewCountersGPn() *CountersGPn {
 ## 🔗 References
 - ⬆️ Parent: [[Counters G Pn]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

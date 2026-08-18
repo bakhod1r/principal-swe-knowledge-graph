@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Nats]]
 - 📚 Module: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

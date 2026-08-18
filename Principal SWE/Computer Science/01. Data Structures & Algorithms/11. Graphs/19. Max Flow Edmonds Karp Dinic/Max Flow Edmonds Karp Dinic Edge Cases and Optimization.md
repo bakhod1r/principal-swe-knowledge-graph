@@ -65,4 +65,4 @@ func optimizeMaxFlowEdmondsKarpDinic(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Max Flow Edmonds Karp Dinic]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

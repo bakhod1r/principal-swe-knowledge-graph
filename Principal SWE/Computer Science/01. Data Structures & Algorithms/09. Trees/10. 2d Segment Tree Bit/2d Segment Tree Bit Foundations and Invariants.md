@@ -59,4 +59,4 @@ func New2dSegmentTreeBit() *2dSegmentTreeBit {
 ## 🔗 References
 - ⬆️ Parent: [[2d Segment Tree Bit]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

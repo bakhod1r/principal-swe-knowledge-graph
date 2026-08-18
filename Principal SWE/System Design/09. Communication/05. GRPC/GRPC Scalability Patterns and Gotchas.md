@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[GRPC]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

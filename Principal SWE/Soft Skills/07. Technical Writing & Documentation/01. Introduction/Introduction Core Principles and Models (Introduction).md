@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Introduction Core Principles and Model
 ## 🔗 References
 - ⬆️ Parent: [[Introduction (Technical Writing & Documentation)]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Graph Coloring
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

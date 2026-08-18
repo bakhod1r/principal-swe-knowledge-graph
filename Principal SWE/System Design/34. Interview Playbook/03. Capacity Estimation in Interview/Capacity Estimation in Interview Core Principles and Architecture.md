@@ -81,4 +81,4 @@ func (m *CapacityEstimationinInterviewManager) Execute(ctx context.Context) erro
 ## 🔗 References
 - ⬆️ Parent: [[Capacity Estimation in Interview]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

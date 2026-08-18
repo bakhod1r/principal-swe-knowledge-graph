@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Content Analysis Practical Execution a
 ## 🔗 References
 - ⬆️ Parent: [[Content Analysis]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

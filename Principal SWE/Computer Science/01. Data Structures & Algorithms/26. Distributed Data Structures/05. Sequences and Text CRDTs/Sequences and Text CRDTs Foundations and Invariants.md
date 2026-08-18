@@ -59,4 +59,4 @@ func NewSequencesandTextCRDTs() *SequencesandTextCRDTs {
 ## 🔗 References
 - ⬆️ Parent: [[Sequences and Text CRDTs]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

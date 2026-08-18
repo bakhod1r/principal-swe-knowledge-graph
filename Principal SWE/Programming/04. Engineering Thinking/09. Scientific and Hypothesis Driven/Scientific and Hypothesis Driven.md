@@ -33,4 +33,4 @@ Scientific and Hypothesis Driven
 
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Thinking]]
-- 🎓 Root: [[Principal SWE]]
+

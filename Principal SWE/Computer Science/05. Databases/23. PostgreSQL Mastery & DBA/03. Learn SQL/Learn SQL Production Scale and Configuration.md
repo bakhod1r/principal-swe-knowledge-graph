@@ -81,4 +81,4 @@ func (s *LearnSQLProductionScaleandConfigurationService) Execute(ctx context.Con
 ## 🔗 References
 - ⬆️ Parent: [[Learn SQL]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ inline T* get_element_ptr(T* base, size_t index) {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *PaginationandFilteringManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Pagination and Filtering]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

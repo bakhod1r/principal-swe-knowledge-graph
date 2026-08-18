@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Undoing Changes with Git Reset and Git Revert]]
 - 📚 Module: [[History Manipulation & Recovery]]
-- 🎓 Root: [[Principal SWE]]
+

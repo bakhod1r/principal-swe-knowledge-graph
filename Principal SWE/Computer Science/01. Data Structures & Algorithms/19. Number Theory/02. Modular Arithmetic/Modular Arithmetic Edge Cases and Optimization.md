@@ -65,4 +65,4 @@ func optimizeModularArithmetic(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Modular Arithmetic]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

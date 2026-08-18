@@ -33,4 +33,4 @@ Buffer Pool and Database Page Cache Management
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

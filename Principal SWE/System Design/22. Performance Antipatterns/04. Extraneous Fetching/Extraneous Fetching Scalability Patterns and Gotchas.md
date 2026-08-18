@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Extraneous Fetching]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

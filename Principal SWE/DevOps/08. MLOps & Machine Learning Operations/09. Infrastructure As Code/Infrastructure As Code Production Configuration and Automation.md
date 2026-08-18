@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Infrastructure As Code (MLOps & Machine Learning Operations)]]
 - 📚 Module: [[MLOps & Machine Learning Operations]]
-- 🎓 Root: [[Principal SWE]]
+

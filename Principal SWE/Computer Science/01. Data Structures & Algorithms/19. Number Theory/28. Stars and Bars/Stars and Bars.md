@@ -30,4 +30,4 @@ Stars and Bars
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

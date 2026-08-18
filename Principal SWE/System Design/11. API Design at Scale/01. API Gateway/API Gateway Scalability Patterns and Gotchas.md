@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[API Gateway]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewTernarySearch() *TernarySearch {
 ## 🔗 References
 - ⬆️ Parent: [[Ternary Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

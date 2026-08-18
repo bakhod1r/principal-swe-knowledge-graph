@@ -81,4 +81,4 @@ func (m *RESTDesignatScaleManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[REST Design at Scale]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

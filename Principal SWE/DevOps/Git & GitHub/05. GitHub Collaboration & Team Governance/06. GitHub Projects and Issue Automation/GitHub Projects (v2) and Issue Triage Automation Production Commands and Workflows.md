@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Projects (v2) and Issue Triage Automation]]
 - 📚 Module: [[GitHub Collaboration & Team Governance]]
-- 🎓 Root: [[Principal SWE]]
+

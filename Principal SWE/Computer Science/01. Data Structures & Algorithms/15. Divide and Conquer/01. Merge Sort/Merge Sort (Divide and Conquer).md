@@ -30,4 +30,4 @@ Merge Sort (Divide and Conquer)
 
 ## 🔗 References
 - ⬆️ Parent: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

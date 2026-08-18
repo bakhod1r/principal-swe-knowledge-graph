@@ -81,4 +81,4 @@ func (m *OpentelemetryManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Opentelemetry]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

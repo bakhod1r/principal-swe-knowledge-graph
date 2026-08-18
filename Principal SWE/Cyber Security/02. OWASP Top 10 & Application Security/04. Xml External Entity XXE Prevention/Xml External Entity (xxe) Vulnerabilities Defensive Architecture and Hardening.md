@@ -85,4 +85,4 @@ func (e *XmlExternalEntityxxeVulnerabilitiesDefensiveArchitectureandHardeningSec
 ## 🔗 References
 - ⬆️ Parent: [[Xml External Entity (xxe) Vulnerabilities]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

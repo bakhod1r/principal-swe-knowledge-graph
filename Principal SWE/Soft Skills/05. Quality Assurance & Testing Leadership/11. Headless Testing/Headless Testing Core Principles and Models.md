@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Headless Testing Core Principles and M
 ## 🔗 References
 - ⬆️ Parent: [[Headless Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

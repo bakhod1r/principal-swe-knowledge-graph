@@ -65,4 +65,4 @@ func optimizePathCompression(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Path Compression]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ Git Attributes (.gitattributes) and Filter Drivers
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Git Plumbing & Tooling]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

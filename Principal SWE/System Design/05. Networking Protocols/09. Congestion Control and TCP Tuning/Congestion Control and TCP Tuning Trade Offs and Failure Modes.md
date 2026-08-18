@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Congestion Control and TCP Tuning]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Static Application Security Testing (sast)
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops & Secure SDLC]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

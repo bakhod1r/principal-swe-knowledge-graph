@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Anti Corruption Layer]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

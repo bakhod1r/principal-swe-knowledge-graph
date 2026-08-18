@@ -35,4 +35,4 @@ Creational
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

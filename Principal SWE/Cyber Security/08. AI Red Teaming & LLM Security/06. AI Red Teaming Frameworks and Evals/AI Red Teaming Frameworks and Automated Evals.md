@@ -33,4 +33,4 @@ AI Red Teaming Frameworks and Automated Evals
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

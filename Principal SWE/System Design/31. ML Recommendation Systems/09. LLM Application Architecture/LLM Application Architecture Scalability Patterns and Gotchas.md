@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[LLM Application Architecture]]
 - 📚 Module: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *DenormalizationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Denormalization]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *ContextOptimizationinAIIDEscursorWindsurfAntigravityProductionImplement
 ## 🔗 References
 - ⬆️ Parent: [[Context Optimization in AI IDEs (cursor, Windsurf, Antigravity)]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

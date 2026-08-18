@@ -33,4 +33,4 @@ Frontend Network and Asset Delivery Optimization
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

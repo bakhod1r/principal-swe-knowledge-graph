@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Active Active Architecture]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

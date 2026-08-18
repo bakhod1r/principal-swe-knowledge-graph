@@ -30,4 +30,4 @@ Requirements Clarification
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

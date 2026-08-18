@@ -30,4 +30,4 @@ Rotating Calipers
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

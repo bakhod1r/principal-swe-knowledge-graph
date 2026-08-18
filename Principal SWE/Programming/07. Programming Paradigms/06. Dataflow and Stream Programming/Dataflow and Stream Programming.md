@@ -33,4 +33,4 @@ Dataflow and Stream Programming
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Paradigms]]
-- 🎓 Root: [[Principal SWE]]
+

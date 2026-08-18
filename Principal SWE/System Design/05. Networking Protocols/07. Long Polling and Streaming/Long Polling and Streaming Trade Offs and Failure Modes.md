@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Long Polling and Streaming]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

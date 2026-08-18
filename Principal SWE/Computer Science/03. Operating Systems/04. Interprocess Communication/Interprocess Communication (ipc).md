@@ -32,4 +32,4 @@ Interprocess Communication (ipc)
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

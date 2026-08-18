@@ -85,4 +85,4 @@ func (e *InsecureDeserializationandObjectInjectionDefensiveArchitectureandHarden
 ## 🔗 References
 - ⬆️ Parent: [[Insecure Deserialization and Object Injection]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

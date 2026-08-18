@@ -30,4 +30,4 @@ S3 Object Storage
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

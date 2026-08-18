@@ -81,4 +81,4 @@ func (m *CompetingConsumersManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Competing Consumers]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

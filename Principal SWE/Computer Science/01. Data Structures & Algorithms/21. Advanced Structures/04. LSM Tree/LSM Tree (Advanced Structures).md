@@ -30,4 +30,4 @@ LSM Tree (Advanced Structures)
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

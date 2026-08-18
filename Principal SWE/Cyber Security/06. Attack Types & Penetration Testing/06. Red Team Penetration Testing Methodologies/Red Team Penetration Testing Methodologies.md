@@ -33,4 +33,4 @@ Red Team Penetration Testing Methodologies
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types & Penetration Testing]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -58,4 +58,4 @@ func ExecuteFindDuplicateNumberinArrayCyclePointerIndirection(data []int, target
 ## 🔗 References
 - ⬆️ Parent: [[Floyd Cycle Detection (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

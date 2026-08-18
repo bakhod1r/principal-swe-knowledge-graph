@@ -33,4 +33,4 @@ Claude.md Context Engineering and System Prompts
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Aho Corasick
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

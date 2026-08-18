@@ -81,4 +81,4 @@ func (m *DistributedMessageQueueManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Message Queue]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

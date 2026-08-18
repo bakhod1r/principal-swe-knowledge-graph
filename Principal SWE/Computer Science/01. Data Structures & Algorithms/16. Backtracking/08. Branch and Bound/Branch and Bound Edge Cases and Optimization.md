@@ -65,4 +65,4 @@ func optimizeBranchandBound(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Branch and Bound]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

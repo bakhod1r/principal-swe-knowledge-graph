@@ -30,4 +30,4 @@ Ownership and Boundaries
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

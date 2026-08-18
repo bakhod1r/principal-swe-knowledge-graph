@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Multi Region Deployment]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

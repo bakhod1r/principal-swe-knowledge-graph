@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Introduction Practical Execution and F
 ## 🔗 References
 - ⬆️ Parent: [[Introduction (Technical Writing & Documentation)]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

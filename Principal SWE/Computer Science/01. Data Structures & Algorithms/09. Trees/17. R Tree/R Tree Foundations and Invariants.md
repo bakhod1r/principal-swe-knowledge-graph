@@ -59,4 +59,4 @@ func NewRTree() *RTree {
 ## 🔗 References
 - ⬆️ Parent: [[R Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

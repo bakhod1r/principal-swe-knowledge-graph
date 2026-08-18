@@ -30,4 +30,4 @@ Bit Parallel
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

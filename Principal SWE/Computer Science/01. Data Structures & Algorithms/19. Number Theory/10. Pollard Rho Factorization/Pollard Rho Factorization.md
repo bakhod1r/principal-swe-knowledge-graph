@@ -30,4 +30,4 @@ Pollard Rho Factorization
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

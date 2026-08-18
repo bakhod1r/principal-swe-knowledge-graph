@@ -81,4 +81,4 @@ func (s *UsefulConceptsCorePrinciplesandArchitectureService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Useful Concepts]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

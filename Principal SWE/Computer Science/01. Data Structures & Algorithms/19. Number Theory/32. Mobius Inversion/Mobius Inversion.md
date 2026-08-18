@@ -30,4 +30,4 @@ Mobius Inversion
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

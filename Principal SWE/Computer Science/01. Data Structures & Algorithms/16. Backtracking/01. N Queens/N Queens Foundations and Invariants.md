@@ -59,4 +59,4 @@ func NewNQueens() *NQueens {
 ## 🔗 References
 - ⬆️ Parent: [[N Queens]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

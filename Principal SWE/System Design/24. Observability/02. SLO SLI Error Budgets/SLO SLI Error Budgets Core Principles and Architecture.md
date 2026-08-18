@@ -81,4 +81,4 @@ func (m *SLOSLIErrorBudgetsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[SLO SLI Error Budgets]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

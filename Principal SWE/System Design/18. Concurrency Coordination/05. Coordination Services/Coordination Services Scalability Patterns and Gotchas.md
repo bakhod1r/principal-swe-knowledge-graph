@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Coordination Services]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

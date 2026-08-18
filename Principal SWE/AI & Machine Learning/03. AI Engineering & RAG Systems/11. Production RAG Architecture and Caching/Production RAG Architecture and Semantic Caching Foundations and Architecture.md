@@ -84,4 +84,4 @@ func (c *ProductionRAGArchitectureandSemanticCachingFoundationsandArchitectureCl
 ## 🔗 References
 - ⬆️ Parent: [[Production RAG Architecture and Semantic Caching]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

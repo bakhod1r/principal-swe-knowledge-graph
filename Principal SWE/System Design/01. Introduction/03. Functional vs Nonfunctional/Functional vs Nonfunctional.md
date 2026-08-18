@@ -30,4 +30,4 @@ Functional vs Nonfunctional
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

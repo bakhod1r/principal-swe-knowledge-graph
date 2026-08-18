@@ -33,4 +33,4 @@ Advanced Retrieval, Hybrid Search, and Re Ranking
 ## 🔗 References
 - ⬆️ Parent: [[AI Engineering & RAG Systems]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

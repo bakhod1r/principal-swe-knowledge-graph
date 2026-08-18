@@ -65,4 +65,4 @@ func optimizeStrongOrientation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Strong Orientation]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

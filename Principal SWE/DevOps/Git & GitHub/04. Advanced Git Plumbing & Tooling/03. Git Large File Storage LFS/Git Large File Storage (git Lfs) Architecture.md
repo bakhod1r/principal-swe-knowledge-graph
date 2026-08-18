@@ -34,4 +34,4 @@ Git Large File Storage (git Lfs) Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Git Plumbing & Tooling]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

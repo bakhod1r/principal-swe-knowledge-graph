@@ -30,4 +30,4 @@ Lb vs Reverse Proxy
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

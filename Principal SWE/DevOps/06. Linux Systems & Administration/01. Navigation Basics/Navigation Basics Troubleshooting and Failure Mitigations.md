@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Navigation Basics]]
 - 📚 Module: [[Linux Systems & Administration]]
-- 🎓 Root: [[Principal SWE]]
+

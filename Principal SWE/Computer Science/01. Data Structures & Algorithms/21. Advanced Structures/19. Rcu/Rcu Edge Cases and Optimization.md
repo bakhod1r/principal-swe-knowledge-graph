@@ -65,4 +65,4 @@ func optimizeRcu(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Rcu]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

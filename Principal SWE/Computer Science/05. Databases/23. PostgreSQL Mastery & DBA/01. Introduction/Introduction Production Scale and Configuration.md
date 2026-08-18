@@ -81,4 +81,4 @@ func (s *IntroductionProductionScaleandConfigurationService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Introduction (Postgresql Mastery & DBA)]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Google Spanner
 
 ## 🔗 References
 - ⬆️ Parent: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

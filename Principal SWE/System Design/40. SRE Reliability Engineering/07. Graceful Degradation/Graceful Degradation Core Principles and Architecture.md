@@ -81,4 +81,4 @@ func (m *GracefulDegradationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Graceful Degradation]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

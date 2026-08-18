@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Articulation Points Bridges]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

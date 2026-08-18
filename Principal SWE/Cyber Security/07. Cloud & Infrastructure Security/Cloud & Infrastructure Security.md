@@ -38,4 +38,4 @@ Cloud & Infrastructure Security
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

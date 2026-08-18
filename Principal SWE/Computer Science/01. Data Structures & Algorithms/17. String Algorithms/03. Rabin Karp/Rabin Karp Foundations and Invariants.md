@@ -59,4 +59,4 @@ func NewRabinKarp() *RabinKarp {
 ## 🔗 References
 - ⬆️ Parent: [[Rabin Karp]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

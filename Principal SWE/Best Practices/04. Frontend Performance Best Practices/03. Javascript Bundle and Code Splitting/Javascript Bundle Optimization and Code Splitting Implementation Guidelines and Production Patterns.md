@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[Javascript Bundle Optimization and Code Splitting]]
 - 📚 Module: [[Frontend Performance Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

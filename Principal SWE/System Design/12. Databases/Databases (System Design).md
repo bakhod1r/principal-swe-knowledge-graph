@@ -70,4 +70,4 @@ Databases (System Design)
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

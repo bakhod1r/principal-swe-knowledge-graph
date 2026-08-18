@@ -65,4 +65,4 @@ func optimizeAVL(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[AVL]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

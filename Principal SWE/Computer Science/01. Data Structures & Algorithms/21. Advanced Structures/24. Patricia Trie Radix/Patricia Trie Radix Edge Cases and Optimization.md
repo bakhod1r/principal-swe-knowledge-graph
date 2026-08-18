@@ -65,4 +65,4 @@ func optimizePatriciaTrieRadix(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Patricia Trie Radix]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

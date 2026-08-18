@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Time Management and Focus Anti Pattern
 ## 🔗 References
 - ⬆️ Parent: [[Time Management and Focus]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

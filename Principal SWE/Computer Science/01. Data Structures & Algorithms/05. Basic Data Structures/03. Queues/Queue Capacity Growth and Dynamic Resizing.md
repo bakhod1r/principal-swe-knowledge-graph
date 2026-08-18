@@ -58,4 +58,4 @@ func ExecuteQueueCapacityGrowthandDynamicResizing(data []int, target int) bool {
 ## 🔗 References
 - ⬆️ Parent: [[Queues (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

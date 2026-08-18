@@ -59,4 +59,4 @@ func NewTheIOModel() *TheIOModel {
 ## 🔗 References
 - ⬆️ Parent: [[The IO Model]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *AdvancedPromptingTechniquescotReactFewShotFailureModesandOptimizationGo
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Prompting Techniques (cot, React, Few Shot)]]
 - 📚 Module: [[Prompt Engineering & LLM Alignment]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Layer 7 Load Balancing]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

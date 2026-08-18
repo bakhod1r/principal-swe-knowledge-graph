@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Eulerian Path Circuit]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

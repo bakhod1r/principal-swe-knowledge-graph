@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[Core Web Vitals Optimization (lcp, Inp, Cls)]]
 - 📚 Module: [[Frontend Performance Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

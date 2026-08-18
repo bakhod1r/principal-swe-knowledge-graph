@@ -30,4 +30,4 @@ Link Cut Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

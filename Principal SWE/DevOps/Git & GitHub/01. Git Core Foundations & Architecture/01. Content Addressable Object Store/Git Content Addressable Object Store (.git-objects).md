@@ -34,4 +34,4 @@ Git Content Addressable Object Store (.git-objects)
 ## 🔗 References
 - ⬆️ Parent: [[Git Core Foundations & Architecture]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

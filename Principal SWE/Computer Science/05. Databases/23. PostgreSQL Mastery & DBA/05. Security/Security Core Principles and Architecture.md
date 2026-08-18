@@ -81,4 +81,4 @@ func (s *SecurityCorePrinciplesandArchitectureService) Execute(ctx context.Conte
 ## 🔗 References
 - ⬆️ Parent: [[Security]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

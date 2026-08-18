@@ -30,4 +30,4 @@ Leftist Heap
 
 ## 🔗 References
 - ⬆️ Parent: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

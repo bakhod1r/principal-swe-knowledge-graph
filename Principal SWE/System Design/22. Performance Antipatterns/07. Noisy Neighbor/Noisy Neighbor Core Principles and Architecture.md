@@ -81,4 +81,4 @@ func (m *NoisyNeighborManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Noisy Neighbor]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

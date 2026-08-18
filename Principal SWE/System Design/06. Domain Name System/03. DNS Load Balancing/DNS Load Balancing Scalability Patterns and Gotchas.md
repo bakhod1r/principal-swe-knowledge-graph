@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[DNS Load Balancing]]
 - 📚 Module: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

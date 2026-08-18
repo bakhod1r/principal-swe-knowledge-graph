@@ -65,4 +65,4 @@ func optimizeSelectionSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Selection Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

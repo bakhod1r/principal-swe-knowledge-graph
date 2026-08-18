@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Blob Storage S3]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Deep Dives and Bottlenecks
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

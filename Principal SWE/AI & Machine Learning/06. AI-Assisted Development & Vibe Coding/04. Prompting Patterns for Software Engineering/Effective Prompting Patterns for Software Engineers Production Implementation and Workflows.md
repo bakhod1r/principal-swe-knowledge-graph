@@ -84,4 +84,4 @@ func (c *EffectivePromptingPatternsforSoftwareEngineersProductionImplementationa
 ## 🔗 References
 - ⬆️ Parent: [[Effective Prompting Patterns for Software Engineers]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

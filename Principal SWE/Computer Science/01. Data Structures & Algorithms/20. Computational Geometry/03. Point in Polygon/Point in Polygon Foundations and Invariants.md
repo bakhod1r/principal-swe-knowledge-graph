@@ -59,4 +59,4 @@ func NewPointinPolygon() *PointinPolygon {
 ## 🔗 References
 - ⬆️ Parent: [[Point in Polygon]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

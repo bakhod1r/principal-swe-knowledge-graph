@@ -34,4 +34,4 @@ Background Jobs
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *MultimodalAIArchitecturesvisionAudioVideoFoundationsandArchitectureClie
 ## 🔗 References
 - ⬆️ Parent: [[Multimodal AI Architectures (vision, Audio, Video)]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

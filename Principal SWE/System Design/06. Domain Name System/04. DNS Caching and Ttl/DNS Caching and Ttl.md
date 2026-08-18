@@ -30,4 +30,4 @@ DNS Caching and Ttl
 
 ## 🔗 References
 - ⬆️ Parent: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

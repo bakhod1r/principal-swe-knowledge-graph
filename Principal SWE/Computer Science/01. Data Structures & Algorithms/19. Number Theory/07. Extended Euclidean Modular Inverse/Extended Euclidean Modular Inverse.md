@@ -30,4 +30,4 @@ Extended Euclidean Modular Inverse
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

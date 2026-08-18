@@ -84,4 +84,4 @@ func (c *GitMasteryforAIPairProgrammingandMicroCommitsProductionImplementationan
 ## 🔗 References
 - ⬆️ Parent: [[Git Mastery for AI Pair Programming and Micro Commits]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

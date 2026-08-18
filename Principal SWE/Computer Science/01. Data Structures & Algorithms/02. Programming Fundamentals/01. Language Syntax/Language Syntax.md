@@ -30,4 +30,4 @@ Language Syntax
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

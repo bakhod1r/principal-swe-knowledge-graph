@@ -65,4 +65,4 @@ func optimizeBinaryHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

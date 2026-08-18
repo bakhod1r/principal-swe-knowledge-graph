@@ -81,4 +81,4 @@ func (s *AdvancedFeaturesCorePrinciplesandArchitectureService) Execute(ctx conte
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Features]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

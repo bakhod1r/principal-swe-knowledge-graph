@@ -59,4 +59,4 @@ func NewActivitySelection() *ActivitySelection {
 ## 🔗 References
 - ⬆️ Parent: [[Activity Selection]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

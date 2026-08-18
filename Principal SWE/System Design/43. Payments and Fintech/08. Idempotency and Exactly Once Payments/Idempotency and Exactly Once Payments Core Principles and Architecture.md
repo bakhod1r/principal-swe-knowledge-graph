@@ -81,4 +81,4 @@ func (m *IdempotencyandExactlyOncePaymentsManager) Execute(ctx context.Context) 
 ## 🔗 References
 - ⬆️ Parent: [[Idempotency and Exactly Once Payments]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

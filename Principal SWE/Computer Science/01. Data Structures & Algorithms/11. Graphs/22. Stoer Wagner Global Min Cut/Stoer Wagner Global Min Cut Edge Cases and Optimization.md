@@ -65,4 +65,4 @@ func optimizeStoerWagnerGlobalMinCut(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Stoer Wagner Global Min Cut]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

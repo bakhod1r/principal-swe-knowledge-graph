@@ -33,4 +33,4 @@ Concatenative and Stack Based
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Paradigms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -89,4 +89,4 @@ func (m *TransactionsACIDAxiomsandIsolationLevelsFailureModesandPerformanceOptim
 ## 🔗 References
 - ⬆️ Parent: [[Transactions, ACID Axioms, and Isolation Levels]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

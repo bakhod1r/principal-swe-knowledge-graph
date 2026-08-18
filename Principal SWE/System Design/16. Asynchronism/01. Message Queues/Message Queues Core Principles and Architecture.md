@@ -81,4 +81,4 @@ func (m *MessageQueuesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Message Queues]]
 - 📚 Module: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

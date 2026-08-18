@@ -84,4 +84,4 @@ func (c *AgentEvaluationBenchmarksandToolCallEvalsFoundationsandArchitectureClie
 ## 🔗 References
 - ⬆️ Parent: [[Agent Evaluation Benchmarks and Tool Call Evals]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

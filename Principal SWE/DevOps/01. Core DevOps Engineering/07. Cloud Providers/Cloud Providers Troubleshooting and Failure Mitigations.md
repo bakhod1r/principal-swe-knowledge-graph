@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Providers]]
 - 📚 Module: [[Core DevOps Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

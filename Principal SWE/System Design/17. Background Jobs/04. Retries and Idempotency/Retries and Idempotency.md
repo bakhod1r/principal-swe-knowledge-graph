@@ -30,4 +30,4 @@ Retries and Idempotency
 
 ## 🔗 References
 - ⬆️ Parent: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -44,4 +44,4 @@ Machine Learning & Deep Learning Foundations
 
 ## 🔗 References
 - ⬆️ Parent: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

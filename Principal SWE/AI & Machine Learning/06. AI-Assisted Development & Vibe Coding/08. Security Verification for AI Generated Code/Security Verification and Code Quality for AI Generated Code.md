@@ -33,4 +33,4 @@ Security Verification and Code Quality for AI Generated Code
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

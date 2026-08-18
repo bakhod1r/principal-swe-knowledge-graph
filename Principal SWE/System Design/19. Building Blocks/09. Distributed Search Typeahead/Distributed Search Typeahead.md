@@ -30,4 +30,4 @@ Distributed Search Typeahead
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

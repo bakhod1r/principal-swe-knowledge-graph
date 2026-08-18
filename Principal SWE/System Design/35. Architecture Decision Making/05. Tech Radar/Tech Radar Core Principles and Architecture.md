@@ -81,4 +81,4 @@ func (m *TechRadarManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Tech Radar]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

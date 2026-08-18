@@ -30,4 +30,4 @@ Noisy Neighbor Mitigation
 
 ## 🔗 References
 - ⬆️ Parent: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

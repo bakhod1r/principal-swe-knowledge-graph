@@ -30,4 +30,4 @@ Kd Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

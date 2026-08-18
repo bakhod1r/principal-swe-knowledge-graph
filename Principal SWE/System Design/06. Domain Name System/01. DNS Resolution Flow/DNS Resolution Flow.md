@@ -30,4 +30,4 @@ DNS Resolution Flow
 
 ## 🔗 References
 - ⬆️ Parent: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Platform Engineering IDP
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

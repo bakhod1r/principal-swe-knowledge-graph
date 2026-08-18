@@ -30,4 +30,4 @@ Global Server Load Balancing
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

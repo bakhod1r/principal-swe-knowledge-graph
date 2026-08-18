@@ -33,4 +33,4 @@ Defensive Prompting and System Prompt Hardening
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering & LLM Alignment]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

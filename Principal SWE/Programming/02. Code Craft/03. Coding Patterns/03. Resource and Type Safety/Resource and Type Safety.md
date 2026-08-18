@@ -31,4 +31,4 @@ Resource and Type Safety
 
 ## 🔗 References
 - ⬆️ Parent: [[Coding Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

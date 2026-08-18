@@ -30,4 +30,4 @@ Horizontal Scaling
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

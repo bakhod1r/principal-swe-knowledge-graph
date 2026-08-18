@@ -81,4 +81,4 @@ func (m *PullCDNManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Pull CDN]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

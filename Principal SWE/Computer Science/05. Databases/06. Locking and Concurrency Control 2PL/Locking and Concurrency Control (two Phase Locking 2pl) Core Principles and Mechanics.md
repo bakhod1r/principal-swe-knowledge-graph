@@ -89,4 +89,4 @@ func (m *LockingandConcurrencyControltwoPhaseLocking2plCorePrinciplesandMechanic
 ## 🔗 References
 - ⬆️ Parent: [[Locking and Concurrency Control (two Phase Locking 2pl)]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

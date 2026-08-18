@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Lb vs Reverse Proxy]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Frameworks and Tools
 ## 🔗 References
 - ⬆️ Parent: [[Cloudflare & Edge Computing]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

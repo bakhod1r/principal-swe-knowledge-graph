@@ -30,4 +30,4 @@ Load Shedding
 
 ## 🔗 References
 - ⬆️ Parent: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

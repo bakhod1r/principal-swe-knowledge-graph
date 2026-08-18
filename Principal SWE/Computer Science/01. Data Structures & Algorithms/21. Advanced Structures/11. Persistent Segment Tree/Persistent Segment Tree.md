@@ -30,4 +30,4 @@ Persistent Segment Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

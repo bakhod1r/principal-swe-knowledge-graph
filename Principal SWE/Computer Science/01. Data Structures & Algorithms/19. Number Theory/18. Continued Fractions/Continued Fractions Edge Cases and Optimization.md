@@ -65,4 +65,4 @@ func optimizeContinuedFractions(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Continued Fractions]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

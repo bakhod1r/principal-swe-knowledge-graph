@@ -32,4 +32,4 @@ Virtual Memory and Page Table Management
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

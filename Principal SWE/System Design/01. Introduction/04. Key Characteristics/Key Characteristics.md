@@ -30,4 +30,4 @@ Key Characteristics
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

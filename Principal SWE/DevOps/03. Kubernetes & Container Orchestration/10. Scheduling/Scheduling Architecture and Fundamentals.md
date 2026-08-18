@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Scheduling]]
 - 📚 Module: [[Kubernetes & Container Orchestration]]
-- 🎓 Root: [[Principal SWE]]
+

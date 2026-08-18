@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cost Modeling]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

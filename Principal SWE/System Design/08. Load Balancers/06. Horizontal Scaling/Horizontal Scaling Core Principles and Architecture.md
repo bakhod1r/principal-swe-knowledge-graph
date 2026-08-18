@@ -81,4 +81,4 @@ func (m *HorizontalScalingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Horizontal Scaling]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

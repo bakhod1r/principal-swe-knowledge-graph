@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Getting Started]]
 - 📚 Module: [[Terraform & Infrastructure As Code]]
-- 🎓 Root: [[Principal SWE]]
+

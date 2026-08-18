@@ -41,4 +41,4 @@ Systems Thinking
 
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Thinking]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Locking and Concurrency Control (two Phase Locking 2pl)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

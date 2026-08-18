@@ -81,4 +81,4 @@ func (m *HardwareAwareDesignManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Hardware Aware Design]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

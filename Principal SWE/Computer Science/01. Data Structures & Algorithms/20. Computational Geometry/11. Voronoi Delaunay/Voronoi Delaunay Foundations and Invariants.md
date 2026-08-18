@@ -59,4 +59,4 @@ func NewVoronoiDelaunay() *VoronoiDelaunay {
 ## 🔗 References
 - ⬆️ Parent: [[Voronoi Delaunay]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

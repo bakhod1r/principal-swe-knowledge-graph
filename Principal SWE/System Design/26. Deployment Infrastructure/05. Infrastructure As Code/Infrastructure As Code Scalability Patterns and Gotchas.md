@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Infrastructure As Code]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

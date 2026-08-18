@@ -46,4 +46,4 @@ Technical Writing & Documentation
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

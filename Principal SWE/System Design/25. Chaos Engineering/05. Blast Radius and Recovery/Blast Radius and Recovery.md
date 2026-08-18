@@ -30,4 +30,4 @@ Blast Radius and Recovery
 
 ## 🔗 References
 - ⬆️ Parent: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

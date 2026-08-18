@@ -78,4 +78,4 @@ func (m *AssemblyLanguageandHardwareInstructionsFailureModesandPerformancePitfal
 ## 🔗 References
 - ⬆️ Parent: [[Assembly Language and Hardware Instructions]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

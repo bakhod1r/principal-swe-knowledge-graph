@@ -65,4 +65,4 @@ func optimizeBurrowsWheelerTransform(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Burrows Wheeler Transform]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *WhatIsSystemDesignManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[What Is System Design]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

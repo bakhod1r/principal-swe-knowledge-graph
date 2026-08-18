@@ -81,4 +81,4 @@ func (m *CapacityPlanningManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Capacity Planning]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

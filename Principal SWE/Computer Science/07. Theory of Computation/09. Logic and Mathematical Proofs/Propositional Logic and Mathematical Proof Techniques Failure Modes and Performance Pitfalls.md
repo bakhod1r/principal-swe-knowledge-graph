@@ -78,4 +78,4 @@ func (m *PropositionalLogicandMathematicalProofTechniquesFailureModesandPerforma
 ## 🔗 References
 - ⬆️ Parent: [[Propositional Logic and Mathematical Proof Techniques]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

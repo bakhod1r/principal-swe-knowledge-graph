@@ -30,4 +30,4 @@ Hardware Aware Design
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

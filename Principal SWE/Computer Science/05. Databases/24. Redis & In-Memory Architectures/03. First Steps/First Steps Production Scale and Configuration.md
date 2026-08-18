@@ -81,4 +81,4 @@ func (s *FirstStepsProductionScaleandConfigurationService) Execute(ctx context.C
 ## 🔗 References
 - ⬆️ Parent: [[First Steps]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

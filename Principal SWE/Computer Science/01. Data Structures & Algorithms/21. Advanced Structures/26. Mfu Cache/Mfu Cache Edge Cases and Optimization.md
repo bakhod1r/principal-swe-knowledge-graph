@@ -65,4 +65,4 @@ func optimizeMfuCache(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Mfu Cache]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

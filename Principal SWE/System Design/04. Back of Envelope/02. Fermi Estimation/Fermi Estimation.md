@@ -30,4 +30,4 @@ Fermi Estimation
 
 ## 🔗 References
 - ⬆️ Parent: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

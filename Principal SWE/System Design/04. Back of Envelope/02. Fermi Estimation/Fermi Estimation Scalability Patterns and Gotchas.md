@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Fermi Estimation]]
 - 📚 Module: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

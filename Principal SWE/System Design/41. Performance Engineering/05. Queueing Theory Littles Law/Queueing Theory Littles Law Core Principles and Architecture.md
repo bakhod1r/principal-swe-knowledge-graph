@@ -81,4 +81,4 @@ func (m *QueueingTheoryLittlesLawManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Queueing Theory Littles Law]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeSlopeTrick(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Slope Trick]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

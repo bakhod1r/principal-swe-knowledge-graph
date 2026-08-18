@@ -51,4 +51,4 @@ func DeletePreservingOrder[T any](s []T, index int) []T {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

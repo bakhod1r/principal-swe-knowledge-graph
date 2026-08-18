@@ -81,4 +81,4 @@ func (m *PostmortemsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Postmortems]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

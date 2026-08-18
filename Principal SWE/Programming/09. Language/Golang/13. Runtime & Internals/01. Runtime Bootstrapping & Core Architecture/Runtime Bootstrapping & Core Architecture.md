@@ -41,4 +41,4 @@ Runtime Bootstrapping & Core Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

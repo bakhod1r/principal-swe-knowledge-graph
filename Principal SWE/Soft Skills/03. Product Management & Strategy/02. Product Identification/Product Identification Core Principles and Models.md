@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Identification Core Principles
 ## 🔗 References
 - ⬆️ Parent: [[Product Identification]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

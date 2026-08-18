@@ -30,4 +30,4 @@ Circle Tangents
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

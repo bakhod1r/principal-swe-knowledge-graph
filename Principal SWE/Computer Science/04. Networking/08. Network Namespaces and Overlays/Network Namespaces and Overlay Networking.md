@@ -32,4 +32,4 @@ Network Namespaces and Overlay Networking
 ## 🔗 References
 - ⬆️ Parent: [[Networking (Computer Science)]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

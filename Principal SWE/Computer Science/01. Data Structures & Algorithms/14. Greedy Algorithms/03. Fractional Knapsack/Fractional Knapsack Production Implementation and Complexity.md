@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Fractional Knapsack]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

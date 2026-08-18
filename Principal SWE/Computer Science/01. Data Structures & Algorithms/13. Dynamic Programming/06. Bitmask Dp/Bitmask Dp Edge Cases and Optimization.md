@@ -65,4 +65,4 @@ func optimizeBitmaskDp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Bitmask Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

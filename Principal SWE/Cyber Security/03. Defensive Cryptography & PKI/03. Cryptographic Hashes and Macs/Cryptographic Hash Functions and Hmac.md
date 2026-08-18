@@ -33,4 +33,4 @@ Cryptographic Hash Functions and Hmac
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

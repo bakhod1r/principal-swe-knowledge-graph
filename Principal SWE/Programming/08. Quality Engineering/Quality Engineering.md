@@ -53,4 +53,4 @@ Quality Engineering
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming]]
-- 🎓 Root: [[Principal SWE]]
+

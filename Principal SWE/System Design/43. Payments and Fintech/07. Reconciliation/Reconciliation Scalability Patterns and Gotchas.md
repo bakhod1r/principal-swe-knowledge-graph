@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Reconciliation]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

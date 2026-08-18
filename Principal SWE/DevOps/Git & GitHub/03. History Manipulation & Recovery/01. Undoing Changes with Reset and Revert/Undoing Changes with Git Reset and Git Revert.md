@@ -34,4 +34,4 @@ Undoing Changes with Git Reset and Git Revert
 ## 🔗 References
 - ⬆️ Parent: [[History Manipulation & Recovery]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

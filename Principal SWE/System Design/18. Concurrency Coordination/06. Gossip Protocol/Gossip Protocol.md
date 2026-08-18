@@ -30,4 +30,4 @@ Gossip Protocol
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

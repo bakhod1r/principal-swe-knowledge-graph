@@ -81,4 +81,4 @@ func (m *SidecarManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Sidecar]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

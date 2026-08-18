@@ -58,4 +58,4 @@ func ExecuteEvaluatingPostfixandInfixExpressionswithStacks(data []int, target in
 ## 🔗 References
 - ⬆️ Parent: [[Stacks (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

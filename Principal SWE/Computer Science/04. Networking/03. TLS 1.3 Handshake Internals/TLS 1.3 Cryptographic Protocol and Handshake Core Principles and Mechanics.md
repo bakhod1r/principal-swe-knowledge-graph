@@ -78,4 +78,4 @@ func (m *TLS13CryptographicProtocolandHandshakeCorePrinciplesandMechanicsManager
 ## 🔗 References
 - ⬆️ Parent: [[TLS 1.3 Cryptographic Protocol and Handshake]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

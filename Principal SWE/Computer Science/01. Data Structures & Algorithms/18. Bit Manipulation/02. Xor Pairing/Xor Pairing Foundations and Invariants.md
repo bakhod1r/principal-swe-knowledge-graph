@@ -59,4 +59,4 @@ func NewXorPairing() *XorPairing {
 ## 🔗 References
 - ⬆️ Parent: [[Xor Pairing]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

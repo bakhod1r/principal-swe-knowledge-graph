@@ -33,4 +33,4 @@ Advanced Prompting Techniques (cot, React, Few Shot)
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering & LLM Alignment]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

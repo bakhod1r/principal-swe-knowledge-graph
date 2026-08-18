@@ -81,4 +81,4 @@ func (m *ExpandContractPatternManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Expand Contract Pattern]]
 - 📚 Module: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

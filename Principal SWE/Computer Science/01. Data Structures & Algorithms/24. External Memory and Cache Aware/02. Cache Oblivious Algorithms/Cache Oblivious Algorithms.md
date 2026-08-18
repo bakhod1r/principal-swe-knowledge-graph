@@ -30,4 +30,4 @@ Cache Oblivious Algorithms
 
 ## 🔗 References
 - ⬆️ Parent: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

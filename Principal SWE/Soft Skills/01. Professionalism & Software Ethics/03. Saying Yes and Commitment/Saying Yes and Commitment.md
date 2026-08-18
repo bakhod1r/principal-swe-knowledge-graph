@@ -33,4 +33,4 @@ Saying Yes and Commitment
 ## 🔗 References
 - ⬆️ Parent: [[Professionalism & Software Ethics]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

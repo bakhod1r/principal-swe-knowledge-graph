@@ -65,4 +65,4 @@ func optimizeSimulatedAnnealing(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Simulated Annealing]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

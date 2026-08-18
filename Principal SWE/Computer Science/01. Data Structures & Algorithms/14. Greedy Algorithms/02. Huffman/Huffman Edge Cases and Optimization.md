@@ -65,4 +65,4 @@ func optimizeHuffman(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Huffman]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

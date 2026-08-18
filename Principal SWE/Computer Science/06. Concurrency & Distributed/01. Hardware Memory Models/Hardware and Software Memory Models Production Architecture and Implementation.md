@@ -78,4 +78,4 @@ func (m *HardwareandSoftwareMemoryModelsProductionArchitectureandImplementationM
 ## 🔗 References
 - ⬆️ Parent: [[Hardware and Software Memory Models]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

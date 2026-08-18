@@ -59,4 +59,4 @@ func NewPriorityQueue() *PriorityQueue {
 ## 🔗 References
 - ⬆️ Parent: [[Priority Queue]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

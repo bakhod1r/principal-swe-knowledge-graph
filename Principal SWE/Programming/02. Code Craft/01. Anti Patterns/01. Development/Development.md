@@ -31,4 +31,4 @@ Development
 
 ## 🔗 References
 - ⬆️ Parent: [[Anti Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

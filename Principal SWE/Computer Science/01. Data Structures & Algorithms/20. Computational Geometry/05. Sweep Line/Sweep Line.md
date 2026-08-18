@@ -30,4 +30,4 @@ Sweep Line
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

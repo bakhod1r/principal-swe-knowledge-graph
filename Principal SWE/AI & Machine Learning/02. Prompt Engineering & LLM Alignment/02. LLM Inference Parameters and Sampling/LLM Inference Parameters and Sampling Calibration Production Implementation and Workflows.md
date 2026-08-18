@@ -84,4 +84,4 @@ func (c *LLMInferenceParametersandSamplingCalibrationProductionImplementationand
 ## 🔗 References
 - ⬆️ Parent: [[LLM Inference Parameters and Sampling Calibration]]
 - 📚 Module: [[Prompt Engineering & LLM Alignment]]
-- 🎓 Root: [[Principal SWE]]
+

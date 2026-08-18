@@ -33,4 +33,4 @@ Virtualization and Container Isolation Boundaries
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

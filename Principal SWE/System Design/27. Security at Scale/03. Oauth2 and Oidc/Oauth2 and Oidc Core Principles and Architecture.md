@@ -81,4 +81,4 @@ func (m *Oauth2andOidcManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Oauth2 and Oidc]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

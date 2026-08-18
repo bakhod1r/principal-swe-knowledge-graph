@@ -59,4 +59,4 @@ func NewStrongOrientation() *StrongOrientation {
 ## 🔗 References
 - ⬆️ Parent: [[Strong Orientation]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

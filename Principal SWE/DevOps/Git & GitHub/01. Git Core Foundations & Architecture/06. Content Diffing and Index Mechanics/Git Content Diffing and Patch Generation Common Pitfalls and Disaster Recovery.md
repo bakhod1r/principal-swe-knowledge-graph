@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Content Diffing and Patch Generation]]
 - 📚 Module: [[Git Core Foundations & Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

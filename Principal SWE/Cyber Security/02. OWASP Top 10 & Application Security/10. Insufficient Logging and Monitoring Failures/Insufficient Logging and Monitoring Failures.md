@@ -33,4 +33,4 @@ Insufficient Logging and Monitoring Failures
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Application Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

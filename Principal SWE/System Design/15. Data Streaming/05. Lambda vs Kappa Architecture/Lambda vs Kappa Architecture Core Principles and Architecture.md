@@ -81,4 +81,4 @@ func (m *LambdavsKappaArchitectureManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Lambda vs Kappa Architecture]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

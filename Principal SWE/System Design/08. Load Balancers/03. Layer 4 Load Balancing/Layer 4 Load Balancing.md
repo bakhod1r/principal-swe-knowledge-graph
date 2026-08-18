@@ -30,4 +30,4 @@ Layer 4 Load Balancing
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

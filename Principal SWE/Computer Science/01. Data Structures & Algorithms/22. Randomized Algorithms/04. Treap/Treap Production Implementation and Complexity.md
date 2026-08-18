@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Treap]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

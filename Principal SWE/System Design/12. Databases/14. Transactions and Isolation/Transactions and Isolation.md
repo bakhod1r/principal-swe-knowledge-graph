@@ -30,4 +30,4 @@ Transactions and Isolation
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -58,4 +58,4 @@ func ExecuteLinkedListInsertatTailO1AppendwithTailReference(data []int, target i
 ## 🔗 References
 - ⬆️ Parent: [[Linked Lists (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

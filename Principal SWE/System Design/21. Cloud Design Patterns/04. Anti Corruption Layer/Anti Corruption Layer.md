@@ -30,4 +30,4 @@ Anti Corruption Layer
 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

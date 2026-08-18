@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Fibonacci Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

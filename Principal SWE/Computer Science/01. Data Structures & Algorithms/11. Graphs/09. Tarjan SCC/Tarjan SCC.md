@@ -30,4 +30,4 @@ Tarjan SCC
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Ownership and Boundaries]]
 - 📚 Module: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

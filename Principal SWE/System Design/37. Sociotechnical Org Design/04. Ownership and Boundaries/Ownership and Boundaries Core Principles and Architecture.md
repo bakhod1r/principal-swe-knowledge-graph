@@ -81,4 +81,4 @@ func (m *OwnershipandBoundariesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Ownership and Boundaries]]
 - 📚 Module: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

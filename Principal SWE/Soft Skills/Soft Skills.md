@@ -173,4 +173,4 @@ Soft Skills
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Principal SWE]]
-- 🎓 Root: [[Principal SWE]]
+

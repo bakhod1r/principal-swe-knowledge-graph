@@ -30,4 +30,4 @@ Parallel Reduce and Map
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

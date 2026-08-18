@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Max Flow Push Relabel]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

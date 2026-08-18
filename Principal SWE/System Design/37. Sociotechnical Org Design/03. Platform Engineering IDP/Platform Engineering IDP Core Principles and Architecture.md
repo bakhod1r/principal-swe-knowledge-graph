@@ -81,4 +81,4 @@ func (m *PlatformEngineeringIDPManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Platform Engineering IDP]]
 - 📚 Module: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

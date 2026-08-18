@@ -78,4 +78,4 @@ func (m *ContextSwitchingandSystemCallExecutionCorePrinciplesandMechanicsManager
 ## 🔗 References
 - ⬆️ Parent: [[Context Switching and System Call Execution]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

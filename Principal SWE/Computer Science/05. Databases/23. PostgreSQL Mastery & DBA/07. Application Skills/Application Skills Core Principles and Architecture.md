@@ -81,4 +81,4 @@ func (s *ApplicationSkillsCorePrinciplesandArchitectureService) Execute(ctx cont
 ## 🔗 References
 - ⬆️ Parent: [[Application Skills]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

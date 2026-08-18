@@ -33,4 +33,4 @@ Training Data Poisoning and Model Backdoors
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSparseTableRmq() *SparseTableRmq {
 ## 🔗 References
 - ⬆️ Parent: [[Sparse Table Rmq]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Arithmetic Coding and Range Coding
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

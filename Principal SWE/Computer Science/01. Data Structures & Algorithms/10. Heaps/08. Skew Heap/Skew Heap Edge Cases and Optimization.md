@@ -65,4 +65,4 @@ func optimizeSkewHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Skew Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

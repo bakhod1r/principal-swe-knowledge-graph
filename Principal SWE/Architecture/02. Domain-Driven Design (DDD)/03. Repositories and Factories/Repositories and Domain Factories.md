@@ -33,4 +33,4 @@ Repositories and Domain Factories
 ## 🔗 References
 - ⬆️ Parent: [[Domain Driven Design (ddd)]]
 - 📚 Module: [[Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

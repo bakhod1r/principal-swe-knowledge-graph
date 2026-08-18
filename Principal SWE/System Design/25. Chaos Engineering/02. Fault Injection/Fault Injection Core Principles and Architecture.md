@@ -81,4 +81,4 @@ func (m *FaultInjectionManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Fault Injection]]
 - 📚 Module: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

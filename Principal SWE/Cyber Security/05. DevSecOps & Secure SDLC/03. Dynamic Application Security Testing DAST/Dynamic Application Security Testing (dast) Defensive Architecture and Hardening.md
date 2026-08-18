@@ -85,4 +85,4 @@ func (e *DynamicApplicationSecurityTestingdastDefensiveArchitectureandHardeningS
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Application Security Testing (dast)]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

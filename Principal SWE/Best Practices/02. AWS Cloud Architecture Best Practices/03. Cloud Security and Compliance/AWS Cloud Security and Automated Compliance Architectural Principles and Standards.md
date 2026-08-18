@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Security and Automated Compliance]]
 - 📚 Module: [[AWS Cloud Architecture Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

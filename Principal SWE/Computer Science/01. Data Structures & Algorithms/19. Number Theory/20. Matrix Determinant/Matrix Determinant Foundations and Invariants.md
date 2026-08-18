@@ -59,4 +59,4 @@ func NewMatrixDeterminant() *MatrixDeterminant {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Determinant]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

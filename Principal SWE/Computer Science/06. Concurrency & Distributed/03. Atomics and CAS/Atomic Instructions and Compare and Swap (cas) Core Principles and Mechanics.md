@@ -78,4 +78,4 @@ func (m *AtomicInstructionsandCompareandSwapcasCorePrinciplesandMechanicsManager
 ## 🔗 References
 - ⬆️ Parent: [[Atomic Instructions and Compare and Swap (cas)]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -35,4 +35,4 @@ Interop and Polyglot Architectures
 
 ## 🔗 References
 - ⬆️ Parent: [[Choosing a Language & Polyglot]]
-- 🎓 Root: [[Principal SWE]]
+

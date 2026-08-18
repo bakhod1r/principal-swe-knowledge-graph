@@ -35,4 +35,4 @@ Oo Design and Modeling
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-- 🎓 Root: [[Principal SWE]]
+

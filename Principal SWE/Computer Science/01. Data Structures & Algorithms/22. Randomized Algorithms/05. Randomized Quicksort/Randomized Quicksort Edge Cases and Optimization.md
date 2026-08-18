@@ -65,4 +65,4 @@ func optimizeRandomizedQuicksort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Quicksort]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

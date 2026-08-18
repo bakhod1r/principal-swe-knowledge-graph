@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Stream Processing]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

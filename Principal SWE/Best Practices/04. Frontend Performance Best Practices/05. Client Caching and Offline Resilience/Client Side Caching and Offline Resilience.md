@@ -33,4 +33,4 @@ Client Side Caching and Offline Resilience
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

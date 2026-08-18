@@ -65,4 +65,4 @@ func optimizeApproximationandHardness(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Approximation and Hardness]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

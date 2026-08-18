@@ -93,4 +93,4 @@ func (u *RepositoriesandDomainFactoriesStructuralAntiPatternsandGotchasUseCase) 
 ## 🔗 References
 - ⬆️ Parent: [[Repositories and Domain Factories]]
 - 📚 Module: [[Domain Driven Design (ddd)]]
-- 🎓 Root: [[Principal SWE]]
+

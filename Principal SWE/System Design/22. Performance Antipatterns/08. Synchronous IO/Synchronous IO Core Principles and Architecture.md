@@ -81,4 +81,4 @@ func (m *SynchronousIOManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Synchronous IO]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

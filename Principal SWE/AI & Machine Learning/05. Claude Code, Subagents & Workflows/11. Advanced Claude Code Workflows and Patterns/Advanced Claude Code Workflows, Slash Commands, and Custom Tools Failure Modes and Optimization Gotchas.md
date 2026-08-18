@@ -84,4 +84,4 @@ func (c *AdvancedClaudeCodeWorkflowsSlashCommandsandCustomToolsFailureModesandOp
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Claude Code Workflows, Slash Commands, and Custom Tools]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *KernelBypassNetworkingDpdkRdmaManager) Execute(ctx context.Context) err
 ## 🔗 References
 - ⬆️ Parent: [[Kernel Bypass Networking Dpdk Rdma]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Sharding and Partitioning
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

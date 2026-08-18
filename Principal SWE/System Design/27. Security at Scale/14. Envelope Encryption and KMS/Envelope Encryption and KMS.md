@@ -30,4 +30,4 @@ Envelope Encryption and KMS
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

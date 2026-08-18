@@ -65,4 +65,4 @@ func optimizeTreap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Treap]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeJosephusProblem(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Josephus Problem]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

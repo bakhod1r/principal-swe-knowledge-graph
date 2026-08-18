@@ -84,4 +84,4 @@ func (c *TheFutureofPrincipalEngineeringintheAIEraFoundationsandArchitectureClie
 ## 🔗 References
 - ⬆️ Parent: [[The Future of Principal Engineering in the AI Era]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

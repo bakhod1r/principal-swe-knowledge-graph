@@ -81,4 +81,4 @@ func (m *EdgeLocationsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Edge Locations]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeCoinChange(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Coin Change]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

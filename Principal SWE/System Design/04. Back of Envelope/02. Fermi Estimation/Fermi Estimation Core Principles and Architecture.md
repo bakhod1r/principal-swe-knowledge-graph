@@ -81,4 +81,4 @@ func (m *FermiEstimationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Fermi Estimation]]
 - 📚 Module: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

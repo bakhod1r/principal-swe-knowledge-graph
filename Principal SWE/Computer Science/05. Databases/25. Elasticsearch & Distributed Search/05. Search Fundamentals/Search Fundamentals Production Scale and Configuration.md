@@ -81,4 +81,4 @@ func (s *SearchFundamentalsProductionScaleandConfigurationService) Execute(ctx c
 ## 🔗 References
 - ⬆️ Parent: [[Search Fundamentals]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

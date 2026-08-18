@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Performance Monitoring]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

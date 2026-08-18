@@ -65,4 +65,4 @@ func optimizeCRT(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[CRT]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

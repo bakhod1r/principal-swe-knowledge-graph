@@ -30,4 +30,4 @@ Ci Cd Pipelines
 
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

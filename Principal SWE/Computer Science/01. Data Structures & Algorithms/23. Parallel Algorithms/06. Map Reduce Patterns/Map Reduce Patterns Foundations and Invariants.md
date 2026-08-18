@@ -59,4 +59,4 @@ func NewMapReducePatterns() *MapReducePatterns {
 ## 🔗 References
 - ⬆️ Parent: [[Map Reduce Patterns]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

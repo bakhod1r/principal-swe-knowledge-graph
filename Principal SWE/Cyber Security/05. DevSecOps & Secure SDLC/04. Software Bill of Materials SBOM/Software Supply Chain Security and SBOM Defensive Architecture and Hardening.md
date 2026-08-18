@@ -85,4 +85,4 @@ func (e *SoftwareSupplyChainSecurityandSBOMDefensiveArchitectureandHardeningSecu
 ## 🔗 References
 - ⬆️ Parent: [[Software Supply Chain Security and SBOM]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

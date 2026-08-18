@@ -81,4 +81,4 @@ func (m *NetflixStackManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Netflix Stack]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

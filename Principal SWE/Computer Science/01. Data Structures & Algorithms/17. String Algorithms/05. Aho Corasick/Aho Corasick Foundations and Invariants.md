@@ -59,4 +59,4 @@ func NewAhoCorasick() *AhoCorasick {
 ## 🔗 References
 - ⬆️ Parent: [[Aho Corasick]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

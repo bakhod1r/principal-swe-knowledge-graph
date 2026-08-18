@@ -59,4 +59,4 @@ func NewExtendedEuclideanModularInverse() *ExtendedEuclideanModularInverse {
 ## 🔗 References
 - ⬆️ Parent: [[Extended Euclidean Modular Inverse]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

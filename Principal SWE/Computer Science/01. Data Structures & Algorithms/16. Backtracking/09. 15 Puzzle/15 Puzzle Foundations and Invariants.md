@@ -59,4 +59,4 @@ func New15Puzzle() *15Puzzle {
 ## 🔗 References
 - ⬆️ Parent: [[15 Puzzle]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

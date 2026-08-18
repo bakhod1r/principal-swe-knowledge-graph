@@ -30,4 +30,4 @@ MST Kruskal Prim
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

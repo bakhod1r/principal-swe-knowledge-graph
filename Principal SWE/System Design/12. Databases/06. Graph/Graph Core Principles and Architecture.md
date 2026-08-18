@@ -81,4 +81,4 @@ func (m *GraphManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Graph]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

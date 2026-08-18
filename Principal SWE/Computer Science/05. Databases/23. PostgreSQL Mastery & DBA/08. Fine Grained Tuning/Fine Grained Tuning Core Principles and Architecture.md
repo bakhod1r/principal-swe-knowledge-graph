@@ -81,4 +81,4 @@ func (s *FineGrainedTuningCorePrinciplesandArchitectureService) Execute(ctx cont
 ## 🔗 References
 - ⬆️ Parent: [[Fine Grained Tuning]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GossipProtocolManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Gossip Protocol]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

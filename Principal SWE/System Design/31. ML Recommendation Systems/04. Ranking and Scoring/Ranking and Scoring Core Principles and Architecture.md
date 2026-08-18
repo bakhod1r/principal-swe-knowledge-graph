@@ -81,4 +81,4 @@ func (m *RankingandScoringManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Ranking and Scoring]]
 - 📚 Module: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

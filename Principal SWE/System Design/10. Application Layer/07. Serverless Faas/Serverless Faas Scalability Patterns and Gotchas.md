@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Serverless Faas]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

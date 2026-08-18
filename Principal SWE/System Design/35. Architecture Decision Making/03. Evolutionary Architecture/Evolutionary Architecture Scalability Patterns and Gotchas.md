@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Evolutionary Architecture]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

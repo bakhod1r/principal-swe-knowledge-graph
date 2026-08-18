@@ -35,4 +35,4 @@ Zero Trust Network Architecture & Service Mesh Security
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

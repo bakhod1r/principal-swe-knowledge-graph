@@ -81,4 +81,4 @@ func (m *TransactionalOutboxManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Transactional Outbox]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

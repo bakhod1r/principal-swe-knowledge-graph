@@ -65,4 +65,4 @@ func optimizeTimevsSpaceComplexity(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Time vs Space Complexity]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

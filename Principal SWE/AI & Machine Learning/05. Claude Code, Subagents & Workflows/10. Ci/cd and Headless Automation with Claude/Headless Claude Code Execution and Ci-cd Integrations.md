@@ -33,4 +33,4 @@ Headless Claude Code Execution and Ci-cd Integrations
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

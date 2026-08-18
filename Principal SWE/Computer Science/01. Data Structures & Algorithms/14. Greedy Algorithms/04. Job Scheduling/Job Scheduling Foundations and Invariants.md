@@ -59,4 +59,4 @@ func NewJobScheduling() *JobScheduling {
 ## 🔗 References
 - ⬆️ Parent: [[Job Scheduling]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

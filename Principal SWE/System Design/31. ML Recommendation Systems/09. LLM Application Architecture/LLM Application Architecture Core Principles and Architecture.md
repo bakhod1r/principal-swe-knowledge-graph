@@ -81,4 +81,4 @@ func (m *LLMApplicationArchitectureManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[LLM Application Architecture]]
 - 📚 Module: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[AWS IAM and Identity Governance]]
 - 📚 Module: [[AWS Cloud Architecture Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Atomic Commit 2PC 3PC TCC]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

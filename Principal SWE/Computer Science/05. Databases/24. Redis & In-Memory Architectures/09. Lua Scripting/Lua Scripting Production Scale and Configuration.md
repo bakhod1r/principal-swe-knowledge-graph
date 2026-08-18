@@ -81,4 +81,4 @@ func (s *LuaScriptingProductionScaleandConfigurationService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Lua Scripting]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

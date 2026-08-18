@@ -42,4 +42,4 @@ Developer Relations & Community
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

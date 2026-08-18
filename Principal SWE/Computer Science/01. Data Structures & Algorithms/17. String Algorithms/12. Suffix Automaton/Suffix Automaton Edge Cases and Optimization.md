@@ -65,4 +65,4 @@ func optimizeSuffixAutomaton(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Suffix Automaton]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

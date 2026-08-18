@@ -58,4 +58,4 @@ func ExecuteDequeArrayofChunksImplementationstddequeMapofBlocks(data []int, targ
 ## 🔗 References
 - ⬆️ Parent: [[Deque (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

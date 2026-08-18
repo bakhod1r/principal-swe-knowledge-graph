@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[AWS Infrastructure As Code and Automation]]
 - 📚 Module: [[AWS Cloud Architecture Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

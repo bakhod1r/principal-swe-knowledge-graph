@@ -81,4 +81,4 @@ func (s *WorkingwithRedisCorePrinciplesandArchitectureService) Execute(ctx conte
 ## 🔗 References
 - ⬆️ Parent: [[Working with Redis]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

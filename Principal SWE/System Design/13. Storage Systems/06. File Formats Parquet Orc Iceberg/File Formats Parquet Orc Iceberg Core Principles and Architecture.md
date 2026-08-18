@@ -81,4 +81,4 @@ func (m *FileFormatsParquetOrcIcebergManager) Execute(ctx context.Context) error
 ## 🔗 References
 - ⬆️ Parent: [[File Formats Parquet Orc Iceberg]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

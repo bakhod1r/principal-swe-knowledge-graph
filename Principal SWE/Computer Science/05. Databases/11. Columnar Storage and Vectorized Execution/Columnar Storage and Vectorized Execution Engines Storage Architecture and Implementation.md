@@ -89,4 +89,4 @@ func (m *ColumnarStorageandVectorizedExecutionEnginesStorageArchitectureandImple
 ## 🔗 References
 - ⬆️ Parent: [[Columnar Storage and Vectorized Execution Engines]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

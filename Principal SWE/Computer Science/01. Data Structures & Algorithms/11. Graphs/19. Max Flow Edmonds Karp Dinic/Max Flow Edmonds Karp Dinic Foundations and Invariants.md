@@ -59,4 +59,4 @@ func NewMaxFlowEdmondsKarpDinic() *MaxFlowEdmondsKarpDinic {
 ## 🔗 References
 - ⬆️ Parent: [[Max Flow Edmonds Karp Dinic]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

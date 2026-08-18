@@ -30,4 +30,4 @@ Global Consistency
 
 ## 🔗 References
 - ⬆️ Parent: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

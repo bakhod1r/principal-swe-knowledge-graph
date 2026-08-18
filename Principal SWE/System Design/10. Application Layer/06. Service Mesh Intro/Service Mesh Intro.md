@@ -30,4 +30,4 @@ Service Mesh Intro
 
 ## 🔗 References
 - ⬆️ Parent: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

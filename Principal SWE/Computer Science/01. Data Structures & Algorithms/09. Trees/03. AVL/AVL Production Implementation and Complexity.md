@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[AVL]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

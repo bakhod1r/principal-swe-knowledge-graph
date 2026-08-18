@@ -30,4 +30,4 @@ Binary Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

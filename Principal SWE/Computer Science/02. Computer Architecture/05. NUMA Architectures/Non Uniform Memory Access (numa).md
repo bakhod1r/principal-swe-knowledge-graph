@@ -32,4 +32,4 @@ Non Uniform Memory Access (numa)
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

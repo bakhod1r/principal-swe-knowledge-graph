@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Global Consistency]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

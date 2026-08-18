@@ -52,4 +52,4 @@ Kubernetes & Container Orchestration
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

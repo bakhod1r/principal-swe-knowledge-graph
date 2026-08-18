@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Pairing Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

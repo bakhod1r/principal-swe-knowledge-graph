@@ -59,4 +59,4 @@ func NewMemoizationvsTabulation() *MemoizationvsTabulation {
 ## 🔗 References
 - ⬆️ Parent: [[Memoization vs Tabulation]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

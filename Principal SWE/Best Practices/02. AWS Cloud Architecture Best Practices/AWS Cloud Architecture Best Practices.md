@@ -38,4 +38,4 @@ AWS Cloud Architecture Best Practices
 
 ## 🔗 References
 - ⬆️ Parent: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Prompt Optimization, Versioning, and Evaluation
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering & LLM Alignment]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

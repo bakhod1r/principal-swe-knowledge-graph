@@ -34,4 +34,4 @@ GitHub Webhook Delivery and Hmac SHA 256 Signatures
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Developer Ecosystem & APIs]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

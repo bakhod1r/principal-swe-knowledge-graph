@@ -30,4 +30,4 @@ Team Topologies
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

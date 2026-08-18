@@ -59,4 +59,4 @@ func NewCentroidDecomposition() *CentroidDecomposition {
 ## 🔗 References
 - ⬆️ Parent: [[Centroid Decomposition]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

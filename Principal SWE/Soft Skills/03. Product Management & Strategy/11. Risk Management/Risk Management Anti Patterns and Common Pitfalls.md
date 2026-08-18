@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Risk Management Anti Patterns and Comm
 ## 🔗 References
 - ⬆️ Parent: [[Risk Management]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

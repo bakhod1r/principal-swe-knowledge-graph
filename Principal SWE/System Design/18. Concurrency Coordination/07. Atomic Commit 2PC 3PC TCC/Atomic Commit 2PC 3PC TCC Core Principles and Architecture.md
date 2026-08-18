@@ -81,4 +81,4 @@ func (m *AtomicCommit2PC3PCTCCManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Atomic Commit 2PC 3PC TCC]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

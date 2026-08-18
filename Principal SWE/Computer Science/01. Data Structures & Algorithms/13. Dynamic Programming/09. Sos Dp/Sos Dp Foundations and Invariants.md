@@ -59,4 +59,4 @@ func NewSosDp() *SosDp {
 ## 🔗 References
 - ⬆️ Parent: [[Sos Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Kadane Max Subarray
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

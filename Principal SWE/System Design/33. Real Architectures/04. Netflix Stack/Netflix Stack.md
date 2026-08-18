@@ -30,4 +30,4 @@ Netflix Stack
 
 ## 🔗 References
 - ⬆️ Parent: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

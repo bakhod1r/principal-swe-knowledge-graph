@@ -30,4 +30,4 @@ Network Proxies and NAT
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

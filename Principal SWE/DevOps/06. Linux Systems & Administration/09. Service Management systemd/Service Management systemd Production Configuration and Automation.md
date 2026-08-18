@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Service Management systemd]]
 - 📚 Module: [[Linux Systems & Administration]]
-- 🎓 Root: [[Principal SWE]]
+

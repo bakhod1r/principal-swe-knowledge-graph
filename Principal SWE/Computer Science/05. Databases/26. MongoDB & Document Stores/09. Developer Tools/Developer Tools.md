@@ -33,4 +33,4 @@ Developer Tools
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb & Document Stores]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

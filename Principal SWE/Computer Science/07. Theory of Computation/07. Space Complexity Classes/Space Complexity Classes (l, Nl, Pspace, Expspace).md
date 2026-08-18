@@ -32,4 +32,4 @@ Space Complexity Classes (l, Nl, Pspace, Expspace)
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

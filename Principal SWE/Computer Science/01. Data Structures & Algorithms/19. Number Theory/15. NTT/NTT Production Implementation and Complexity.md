@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[NTT]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (s *ScalingMongodbCorePrinciplesandArchitectureService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Scaling Mongodb]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeWordSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Word Search]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

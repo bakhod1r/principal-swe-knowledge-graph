@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Availability Monitoring]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

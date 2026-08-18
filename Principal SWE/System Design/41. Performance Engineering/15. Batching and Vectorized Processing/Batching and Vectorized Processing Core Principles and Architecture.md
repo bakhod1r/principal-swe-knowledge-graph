@@ -81,4 +81,4 @@ func (m *BatchingandVectorizedProcessingManager) Execute(ctx context.Context) er
 ## 🔗 References
 - ⬆️ Parent: [[Batching and Vectorized Processing]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

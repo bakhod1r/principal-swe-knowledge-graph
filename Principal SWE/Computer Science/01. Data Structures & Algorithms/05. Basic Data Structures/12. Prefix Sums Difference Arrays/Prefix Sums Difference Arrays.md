@@ -41,4 +41,4 @@ Prefix Sums Difference Arrays
 ## 🔗 References
 - ⬆️ Parent: [[Basic Data Structures]]
 - 📚 Module: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

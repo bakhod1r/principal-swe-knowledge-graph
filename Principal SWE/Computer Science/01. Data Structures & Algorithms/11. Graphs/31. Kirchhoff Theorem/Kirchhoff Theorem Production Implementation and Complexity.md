@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Kirchhoff Theorem]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

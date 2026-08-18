@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Linear Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

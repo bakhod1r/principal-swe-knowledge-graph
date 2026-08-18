@@ -33,4 +33,4 @@ Injection Flaws (sqli, Nosqli, and Os Command)
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Application Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

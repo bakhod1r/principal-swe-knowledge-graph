@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Postmortems]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

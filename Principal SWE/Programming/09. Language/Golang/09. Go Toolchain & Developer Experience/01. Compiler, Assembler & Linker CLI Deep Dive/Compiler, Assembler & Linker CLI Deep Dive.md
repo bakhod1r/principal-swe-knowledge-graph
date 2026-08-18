@@ -35,4 +35,4 @@ Compiler, Assembler & Linker CLI Deep Dive
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Toolchain & Developer Experience]]
-- 🎓 Root: [[Principal SWE]]
+

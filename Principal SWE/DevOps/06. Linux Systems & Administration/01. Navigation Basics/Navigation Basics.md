@@ -33,4 +33,4 @@ Navigation Basics
 ## 🔗 References
 - ⬆️ Parent: [[Linux Systems & Administration]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

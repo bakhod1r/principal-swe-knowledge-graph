@@ -34,4 +34,4 @@ Sociotechnical Org Design
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

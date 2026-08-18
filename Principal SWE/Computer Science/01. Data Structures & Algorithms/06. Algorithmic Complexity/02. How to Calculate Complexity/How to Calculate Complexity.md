@@ -30,4 +30,4 @@ How to Calculate Complexity
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

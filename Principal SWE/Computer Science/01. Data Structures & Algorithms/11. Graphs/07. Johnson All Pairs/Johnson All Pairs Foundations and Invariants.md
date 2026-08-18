@@ -59,4 +59,4 @@ func NewJohnsonAllPairs() *JohnsonAllPairs {
 ## 🔗 References
 - ⬆️ Parent: [[Johnson All Pairs]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

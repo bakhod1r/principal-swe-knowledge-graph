@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Map Reduce Patterns]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

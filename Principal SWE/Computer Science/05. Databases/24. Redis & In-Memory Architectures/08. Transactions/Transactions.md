@@ -33,4 +33,4 @@ Transactions
 ## 🔗 References
 - ⬆️ Parent: [[Redis & in Memory Architectures]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

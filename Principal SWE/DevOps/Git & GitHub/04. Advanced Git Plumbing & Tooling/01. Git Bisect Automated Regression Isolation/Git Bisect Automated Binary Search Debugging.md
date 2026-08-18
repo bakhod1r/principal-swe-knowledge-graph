@@ -34,4 +34,4 @@ Git Bisect Automated Binary Search Debugging
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Git Plumbing & Tooling]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

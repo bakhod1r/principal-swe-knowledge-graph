@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Content Addressable Object Store (.git-objects)]]
 - 📚 Module: [[Git Core Foundations & Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

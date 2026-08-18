@@ -30,4 +30,4 @@ Second Best MST
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

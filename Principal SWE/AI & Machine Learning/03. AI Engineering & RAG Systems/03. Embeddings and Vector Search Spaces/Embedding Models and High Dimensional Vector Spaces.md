@@ -33,4 +33,4 @@ Embedding Models and High Dimensional Vector Spaces
 ## 🔗 References
 - ⬆️ Parent: [[AI Engineering & RAG Systems]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

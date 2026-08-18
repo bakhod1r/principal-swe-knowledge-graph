@@ -30,4 +30,4 @@ Quadtree Octree
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

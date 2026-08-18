@@ -93,4 +93,4 @@ func (u *ArchitecturalTradeOffAnalysisandRiskModelingEnterpriseImplementationand
 ## 🔗 References
 - ⬆️ Parent: [[Architectural Trade Off Analysis and Risk Modeling]]
 - 📚 Module: [[Software Architect Leadership & Governance]]
-- 🎓 Root: [[Principal SWE]]
+

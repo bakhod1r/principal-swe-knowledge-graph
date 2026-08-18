@@ -59,4 +59,4 @@ func NewKShortestPathsYen() *KShortestPathsYen {
 ## 🔗 References
 - ⬆️ Parent: [[K Shortest Paths Yen]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

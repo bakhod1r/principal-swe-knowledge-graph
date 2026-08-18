@@ -30,4 +30,4 @@ Data Sovereignty and Residency
 
 ## 🔗 References
 - ⬆️ Parent: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

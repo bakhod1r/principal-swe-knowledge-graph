@@ -30,4 +30,4 @@ Ticketmaster Booking
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

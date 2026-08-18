@@ -32,4 +32,4 @@ Tradeoffs Framework
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

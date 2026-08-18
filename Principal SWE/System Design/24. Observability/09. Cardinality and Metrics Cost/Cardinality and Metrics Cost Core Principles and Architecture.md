@@ -81,4 +81,4 @@ func (m *CardinalityandMetricsCostManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cardinality and Metrics Cost]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

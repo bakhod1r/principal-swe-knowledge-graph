@@ -33,4 +33,4 @@ Mathematical Foundations for Machine Learning
 ## 🔗 References
 - ⬆️ Parent: [[Machine Learning & Deep Learning Foundations]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeSudoku(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Sudoku]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

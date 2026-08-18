@@ -49,4 +49,4 @@ Parallel Programming
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Async Parallel]]
-- 🎓 Root: [[Principal SWE]]
+

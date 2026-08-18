@@ -65,4 +65,4 @@ func optimizeReductionsandNpCompleteness(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Reductions and Np Completeness]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

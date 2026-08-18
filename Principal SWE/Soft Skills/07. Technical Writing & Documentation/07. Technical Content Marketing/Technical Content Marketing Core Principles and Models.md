@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Technical Content Marketing Core Princ
 ## 🔗 References
 - ⬆️ Parent: [[Technical Content Marketing]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -85,4 +85,4 @@ func (e *CloudIAMSecurityandLeastPrivilegeEnforcementThreatVectorandMechanicsSec
 ## 🔗 References
 - ⬆️ Parent: [[Cloud IAM Security and Least Privilege Enforcement]]
 - 📚 Module: [[Cloud & Infrastructure Security]]
-- 🎓 Root: [[Principal SWE]]
+

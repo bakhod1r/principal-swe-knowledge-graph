@@ -81,4 +81,4 @@ func (m *SecurityMonitoringManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Security Monitoring]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

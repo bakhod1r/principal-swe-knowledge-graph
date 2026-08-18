@@ -30,4 +30,4 @@ Union by Rank
 
 ## 🔗 References
 - ⬆️ Parent: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

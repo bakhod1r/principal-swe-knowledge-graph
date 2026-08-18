@@ -58,4 +58,4 @@ func ExecuteShortestSubarraywithSumatLeastKMonotonicPrefixQueue(data []int, targ
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Queue (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

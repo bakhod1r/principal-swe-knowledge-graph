@@ -30,4 +30,4 @@ Gosper Hack Gray Code
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

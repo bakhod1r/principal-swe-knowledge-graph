@@ -85,4 +85,4 @@ func (e *RedTeamPenetrationTestingMethodologiesDefensiveArchitectureandHardening
 ## 🔗 References
 - ⬆️ Parent: [[Red Team Penetration Testing Methodologies]]
 - 📚 Module: [[Attack Types & Penetration Testing]]
-- 🎓 Root: [[Principal SWE]]
+

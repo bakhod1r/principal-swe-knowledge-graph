@@ -78,4 +78,4 @@ func (m *TCPStateMachineandHeadofLineBlockingFailureModesandPerformancePitfallsM
 ## 🔗 References
 - ⬆️ Parent: [[TCP State Machine and Head of Line Blocking]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

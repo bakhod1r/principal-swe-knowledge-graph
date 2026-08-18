@@ -81,4 +81,4 @@ func (m *RelationalRdbmsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Relational Rdbms]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

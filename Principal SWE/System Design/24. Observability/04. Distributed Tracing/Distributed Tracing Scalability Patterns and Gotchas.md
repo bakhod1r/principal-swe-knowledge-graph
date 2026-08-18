@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Tracing]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

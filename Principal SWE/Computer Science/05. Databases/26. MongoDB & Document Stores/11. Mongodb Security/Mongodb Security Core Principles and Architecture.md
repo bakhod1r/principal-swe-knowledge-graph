@@ -81,4 +81,4 @@ func (s *MongodbSecurityCorePrinciplesandArchitectureService) Execute(ctx contex
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb Security]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

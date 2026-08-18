@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Development and Launch Anti Patterns a
 ## 🔗 References
 - ⬆️ Parent: [[Development and Launch]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

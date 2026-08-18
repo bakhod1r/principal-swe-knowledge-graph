@@ -81,4 +81,4 @@ func (m *VectorManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Vector]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

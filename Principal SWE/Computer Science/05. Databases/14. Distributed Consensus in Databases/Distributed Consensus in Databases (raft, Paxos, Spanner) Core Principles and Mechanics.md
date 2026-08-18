@@ -89,4 +89,4 @@ func (m *DistributedConsensusinDatabasesraftPaxosSpannerCorePrinciplesandMechani
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Consensus in Databases (raft, Paxos, Spanner)]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *EtlvsEltManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Etl vs Elt]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

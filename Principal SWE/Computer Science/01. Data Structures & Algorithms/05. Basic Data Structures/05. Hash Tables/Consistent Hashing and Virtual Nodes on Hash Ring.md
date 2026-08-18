@@ -58,4 +58,4 @@ func ExecuteConsistentHashingandVirtualNodesonHashRing(data []int, target int) b
 ## 🔗 References
 - ⬆️ Parent: [[Hash Tables (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

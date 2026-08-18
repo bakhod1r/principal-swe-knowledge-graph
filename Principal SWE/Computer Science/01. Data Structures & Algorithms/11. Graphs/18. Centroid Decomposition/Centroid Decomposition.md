@@ -30,4 +30,4 @@ Centroid Decomposition
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

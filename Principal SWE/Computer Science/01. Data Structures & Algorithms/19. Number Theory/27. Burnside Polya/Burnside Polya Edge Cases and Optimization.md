@@ -65,4 +65,4 @@ func optimizeBurnsidePolya(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Burnside Polya]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Data Partitioning Per Tenant]]
 - 📚 Module: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

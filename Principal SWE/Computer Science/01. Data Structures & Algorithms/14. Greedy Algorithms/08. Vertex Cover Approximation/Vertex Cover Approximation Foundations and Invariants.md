@@ -59,4 +59,4 @@ func NewVertexCoverApproximation() *VertexCoverApproximation {
 ## 🔗 References
 - ⬆️ Parent: [[Vertex Cover Approximation]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

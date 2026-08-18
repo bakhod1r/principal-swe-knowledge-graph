@@ -85,4 +85,4 @@ func (e *AsymmetricCryptographyrsaandEllipticCurvesThreatVectorandMechanicsSecur
 ## 🔗 References
 - ⬆️ Parent: [[Asymmetric Cryptography (rsa and Elliptic Curves)]]
 - 📚 Module: [[Defensive Cryptography & PKI]]
-- 🎓 Root: [[Principal SWE]]
+

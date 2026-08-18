@@ -81,4 +81,4 @@ func (s *MonitoringOptimizationCorePrinciplesandArchitectureService) Execute(ctx
 ## 🔗 References
 - ⬆️ Parent: [[Monitoring Optimization]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

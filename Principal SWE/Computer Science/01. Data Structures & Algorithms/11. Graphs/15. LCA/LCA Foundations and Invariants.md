@@ -59,4 +59,4 @@ func NewLCA() *LCA {
 ## 🔗 References
 - ⬆️ Parent: [[LCA]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

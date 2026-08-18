@@ -85,4 +85,4 @@ func (e *StaticApplicationSecurityTestingsastThreatVectorandMechanicsSecurityEng
 ## 🔗 References
 - ⬆️ Parent: [[Static Application Security Testing (sast)]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

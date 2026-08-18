@@ -34,4 +34,4 @@ GitHub Advanced Security and Secret Push Protection
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise GitHub Features & Security]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

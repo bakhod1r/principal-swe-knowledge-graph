@@ -27,4 +27,4 @@ Acceptance and BDD (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

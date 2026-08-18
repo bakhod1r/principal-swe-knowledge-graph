@@ -30,4 +30,4 @@ Secrets Management
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

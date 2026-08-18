@@ -66,4 +66,4 @@ Terraform & Infrastructure As Code
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

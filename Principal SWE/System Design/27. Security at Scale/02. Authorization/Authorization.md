@@ -30,4 +30,4 @@ Authorization
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

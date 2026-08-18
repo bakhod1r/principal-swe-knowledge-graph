@@ -85,4 +85,4 @@ func (e *SymmetricCiphersaesGCMandChacha20Poly1305ThreatVectorandMechanicsSecuri
 ## 🔗 References
 - ⬆️ Parent: [[Symmetric Ciphers (aes GCM and Chacha20 Poly1305)]]
 - 📚 Module: [[Defensive Cryptography & PKI]]
-- 🎓 Root: [[Principal SWE]]
+

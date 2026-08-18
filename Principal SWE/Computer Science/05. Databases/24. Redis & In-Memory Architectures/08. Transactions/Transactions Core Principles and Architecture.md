@@ -81,4 +81,4 @@ func (s *TransactionsCorePrinciplesandArchitectureService) Execute(ctx context.C
 ## 🔗 References
 - ⬆️ Parent: [[Transactions]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

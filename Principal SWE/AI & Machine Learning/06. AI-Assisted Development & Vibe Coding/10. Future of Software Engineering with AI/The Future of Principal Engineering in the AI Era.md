@@ -33,4 +33,4 @@ The Future of Principal Engineering in the AI Era
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

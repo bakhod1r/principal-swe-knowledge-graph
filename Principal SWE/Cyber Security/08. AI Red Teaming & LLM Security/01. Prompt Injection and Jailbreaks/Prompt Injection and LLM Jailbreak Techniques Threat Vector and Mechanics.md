@@ -85,4 +85,4 @@ func (e *PromptInjectionandLLMJailbreakTechniquesThreatVectorandMechanicsSecurit
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Injection and LLM Jailbreak Techniques]]
 - 📚 Module: [[AI Red Teaming & LLM Security]]
-- 🎓 Root: [[Principal SWE]]
+

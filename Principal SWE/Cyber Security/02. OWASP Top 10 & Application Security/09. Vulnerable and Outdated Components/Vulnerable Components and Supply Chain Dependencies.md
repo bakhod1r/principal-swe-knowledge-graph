@@ -33,4 +33,4 @@ Vulnerable Components and Supply Chain Dependencies
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Application Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

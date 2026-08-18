@@ -59,4 +59,4 @@ func NewLocalitySensitiveHashing() *LocalitySensitiveHashing {
 ## 🔗 References
 - ⬆️ Parent: [[Locality Sensitive Hashing]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

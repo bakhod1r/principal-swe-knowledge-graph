@@ -33,4 +33,4 @@ LLM Guardrails and Input-output Sanitization
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeLineIntersection(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Line Intersection]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

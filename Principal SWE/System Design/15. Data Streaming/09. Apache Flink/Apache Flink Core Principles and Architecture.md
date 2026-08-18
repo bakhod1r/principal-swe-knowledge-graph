@@ -81,4 +81,4 @@ func (m *ApacheFlinkManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Apache Flink]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *DataLakeandWarehouseManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Lake and Warehouse]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

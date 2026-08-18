@@ -85,4 +85,4 @@ func (e *AIRedTeamingFrameworksandAutomatedEvalsDefensiveArchitectureandHardenin
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming Frameworks and Automated Evals]]
 - 📚 Module: [[AI Red Teaming & LLM Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Man in the Middle (mitm) Attacks and Interception
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types & Penetration Testing]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

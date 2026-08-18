@@ -81,4 +81,4 @@ func (m *CostModelingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cost Modeling]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

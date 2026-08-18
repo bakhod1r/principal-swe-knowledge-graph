@@ -40,4 +40,4 @@ Cost Efficiency FinOps
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

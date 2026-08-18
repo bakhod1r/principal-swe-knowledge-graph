@@ -33,4 +33,4 @@ Scheduling
 ## 🔗 References
 - ⬆️ Parent: [[Kubernetes & Container Orchestration]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

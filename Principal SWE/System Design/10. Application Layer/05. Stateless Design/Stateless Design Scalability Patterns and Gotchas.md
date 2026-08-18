@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Stateless Design]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

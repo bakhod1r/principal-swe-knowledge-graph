@@ -59,4 +59,4 @@ func NewEggDropping() *EggDropping {
 ## 🔗 References
 - ⬆️ Parent: [[Egg Dropping]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

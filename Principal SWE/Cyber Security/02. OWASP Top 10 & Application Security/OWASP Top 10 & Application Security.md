@@ -46,4 +46,4 @@ OWASP Top 10 & Application Security
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

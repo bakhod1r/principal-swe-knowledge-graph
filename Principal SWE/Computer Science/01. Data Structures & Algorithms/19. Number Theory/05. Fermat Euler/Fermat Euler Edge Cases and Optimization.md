@@ -65,4 +65,4 @@ func optimizeFermatEuler(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Fermat Euler]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

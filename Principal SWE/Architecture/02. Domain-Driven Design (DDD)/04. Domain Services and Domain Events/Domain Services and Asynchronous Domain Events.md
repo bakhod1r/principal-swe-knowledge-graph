@@ -33,4 +33,4 @@ Domain Services and Asynchronous Domain Events
 ## 🔗 References
 - ⬆️ Parent: [[Domain Driven Design (ddd)]]
 - 📚 Module: [[Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Lock Free Stack
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

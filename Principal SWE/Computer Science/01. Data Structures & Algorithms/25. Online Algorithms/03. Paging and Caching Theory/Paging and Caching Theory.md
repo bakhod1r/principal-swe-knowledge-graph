@@ -30,4 +30,4 @@ Paging and Caching Theory
 
 ## 🔗 References
 - ⬆️ Parent: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Card Payments and Networks]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

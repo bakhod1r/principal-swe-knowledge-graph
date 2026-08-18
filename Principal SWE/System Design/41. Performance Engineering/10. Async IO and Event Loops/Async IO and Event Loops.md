@@ -30,4 +30,4 @@ Async IO and Event Loops
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

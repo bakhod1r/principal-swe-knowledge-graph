@@ -65,4 +65,4 @@ func optimizeFractionalKnapsack(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Fractional Knapsack]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

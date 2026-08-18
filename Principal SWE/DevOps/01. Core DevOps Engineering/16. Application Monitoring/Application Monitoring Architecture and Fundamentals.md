@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Application Monitoring]]
 - 📚 Module: [[Core DevOps Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

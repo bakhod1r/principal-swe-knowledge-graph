@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[LSM Trees and Btrees]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

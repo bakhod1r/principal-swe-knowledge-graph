@@ -33,4 +33,4 @@ Overview of Redis What Is It
 ## 🔗 References
 - ⬆️ Parent: [[Redis & in Memory Architectures]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

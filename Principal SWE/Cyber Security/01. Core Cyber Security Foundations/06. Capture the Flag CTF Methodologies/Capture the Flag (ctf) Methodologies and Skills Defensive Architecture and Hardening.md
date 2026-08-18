@@ -85,4 +85,4 @@ func (e *CapturetheFlagctfMethodologiesandSkillsDefensiveArchitectureandHardenin
 ## 🔗 References
 - ⬆️ Parent: [[Capture the Flag (ctf) Methodologies and Skills]]
 - 📚 Module: [[Core Cyber Security Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

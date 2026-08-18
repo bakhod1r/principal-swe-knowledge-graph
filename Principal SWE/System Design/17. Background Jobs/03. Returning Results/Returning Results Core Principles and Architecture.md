@@ -81,4 +81,4 @@ func (m *ReturningResultsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Returning Results]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

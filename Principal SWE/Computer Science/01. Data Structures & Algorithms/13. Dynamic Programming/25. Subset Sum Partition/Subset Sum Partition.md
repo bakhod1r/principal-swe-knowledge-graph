@@ -30,4 +30,4 @@ Subset Sum Partition
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

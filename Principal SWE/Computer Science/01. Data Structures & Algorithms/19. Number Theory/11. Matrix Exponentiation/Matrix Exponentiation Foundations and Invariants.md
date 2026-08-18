@@ -59,4 +59,4 @@ func NewMatrixExponentiation() *MatrixExponentiation {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Exponentiation]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

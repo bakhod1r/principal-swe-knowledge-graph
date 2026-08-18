@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Merge Sort (Divide and Conquer)]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

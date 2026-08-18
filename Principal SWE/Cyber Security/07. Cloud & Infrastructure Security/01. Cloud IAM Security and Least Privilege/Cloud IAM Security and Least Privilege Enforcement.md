@@ -33,4 +33,4 @@ Cloud IAM Security and Least Privilege Enforcement
 ## 🔗 References
 - ⬆️ Parent: [[Cloud & Infrastructure Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -27,4 +27,4 @@ Immutability (Functional Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Functional Programming]]
-- 🎓 Root: [[Principal SWE]]
+

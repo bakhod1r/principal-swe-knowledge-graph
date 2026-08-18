@@ -78,4 +78,4 @@ func (m *FiniteAutomataandRegularLanguagesFailureModesandPerformancePitfallsMana
 ## 🔗 References
 - ⬆️ Parent: [[Finite Automata and Regular Languages]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

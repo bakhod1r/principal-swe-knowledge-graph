@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Tech Radar]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

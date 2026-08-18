@@ -78,4 +78,4 @@ func (m *WorkStealingTaskSchedulersProductionArchitectureandImplementationManage
 ## 🔗 References
 - ⬆️ Parent: [[Work Stealing Task Schedulers]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

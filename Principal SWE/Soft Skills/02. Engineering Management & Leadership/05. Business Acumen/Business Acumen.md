@@ -33,4 +33,4 @@ Business Acumen
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Management & Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

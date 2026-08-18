@@ -84,4 +84,4 @@ func (c *CustomLifecycleHookshooksjsonandShellAutomationsProductionImplementatio
 ## 🔗 References
 - ⬆️ Parent: [[Custom Lifecycle Hooks (hooks.json) and Shell Automations]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

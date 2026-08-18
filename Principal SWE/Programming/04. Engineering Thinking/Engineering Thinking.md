@@ -45,4 +45,4 @@ Engineering Thinking
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming]]
-- 🎓 Root: [[Principal SWE]]
+

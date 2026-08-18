@@ -81,4 +81,4 @@ func (m *PaymentsEcosystemandRailsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Payments Ecosystem and Rails]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

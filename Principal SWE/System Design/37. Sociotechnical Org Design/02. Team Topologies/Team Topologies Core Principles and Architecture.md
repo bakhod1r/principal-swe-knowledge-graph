@@ -81,4 +81,4 @@ func (m *TeamTopologiesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Team Topologies]]
 - 📚 Module: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

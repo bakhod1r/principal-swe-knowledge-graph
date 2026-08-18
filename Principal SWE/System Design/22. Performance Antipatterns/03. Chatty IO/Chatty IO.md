@@ -30,4 +30,4 @@ Chatty IO
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

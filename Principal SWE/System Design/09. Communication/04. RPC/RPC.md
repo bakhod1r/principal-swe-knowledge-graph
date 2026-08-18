@@ -30,4 +30,4 @@ RPC
 
 ## 🔗 References
 - ⬆️ Parent: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

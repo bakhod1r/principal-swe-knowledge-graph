@@ -30,4 +30,4 @@ Evolutionary Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

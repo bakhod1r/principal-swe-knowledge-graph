@@ -59,4 +59,4 @@ func NewPseudoCode() *PseudoCode {
 ## 🔗 References
 - ⬆️ Parent: [[Pseudo Code]]
 - 📚 Module: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Xor Pairing]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

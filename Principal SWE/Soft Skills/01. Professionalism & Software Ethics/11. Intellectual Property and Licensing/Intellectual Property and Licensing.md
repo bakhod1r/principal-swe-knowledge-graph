@@ -33,4 +33,4 @@ Intellectual Property and Licensing
 ## 🔗 References
 - ⬆️ Parent: [[Professionalism & Software Ethics]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

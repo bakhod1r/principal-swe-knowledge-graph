@@ -59,4 +59,4 @@ func NewHeapSort() *HeapSort {
 ## 🔗 References
 - ⬆️ Parent: [[Heap Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

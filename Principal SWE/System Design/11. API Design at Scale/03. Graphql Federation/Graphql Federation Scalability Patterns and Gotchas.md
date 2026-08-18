@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Graphql Federation]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

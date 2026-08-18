@@ -93,4 +93,4 @@ func (u *DomainServicesandAsynchronousDomainEventsEnterpriseImplementationandPat
 ## 🔗 References
 - ⬆️ Parent: [[Domain Services and Asynchronous Domain Events]]
 - 📚 Module: [[Domain Driven Design (ddd)]]
-- 🎓 Root: [[Principal SWE]]
+

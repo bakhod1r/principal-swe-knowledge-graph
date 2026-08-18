@@ -30,4 +30,4 @@ Divide Conquer Optimization
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

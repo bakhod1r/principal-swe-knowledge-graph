@@ -81,4 +81,4 @@ func (m *PKIandCertificateManagementManager) Execute(ctx context.Context) error 
 ## 🔗 References
 - ⬆️ Parent: [[PKI and Certificate Management]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

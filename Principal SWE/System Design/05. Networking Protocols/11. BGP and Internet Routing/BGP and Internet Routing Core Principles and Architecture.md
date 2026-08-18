@@ -81,4 +81,4 @@ func (m *BGPandInternetRoutingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[BGP and Internet Routing]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

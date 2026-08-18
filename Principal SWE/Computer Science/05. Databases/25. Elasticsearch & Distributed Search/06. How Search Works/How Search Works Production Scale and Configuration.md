@@ -81,4 +81,4 @@ func (s *HowSearchWorksProductionScaleandConfigurationService) Execute(ctx conte
 ## 🔗 References
 - ⬆️ Parent: [[How Search Works]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

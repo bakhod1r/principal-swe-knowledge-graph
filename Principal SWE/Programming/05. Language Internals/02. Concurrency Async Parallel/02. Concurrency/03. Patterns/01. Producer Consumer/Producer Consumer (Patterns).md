@@ -27,4 +27,4 @@ Producer Consumer (Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *DistributedLoggingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Logging]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

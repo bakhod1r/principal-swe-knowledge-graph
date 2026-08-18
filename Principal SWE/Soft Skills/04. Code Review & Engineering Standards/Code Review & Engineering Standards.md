@@ -36,4 +36,4 @@ Code Review & Engineering Standards
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

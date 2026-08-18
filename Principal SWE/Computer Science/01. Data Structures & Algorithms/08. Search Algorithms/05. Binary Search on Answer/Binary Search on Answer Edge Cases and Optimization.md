@@ -65,4 +65,4 @@ func optimizeBinarySearchonAnswer(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Search on Answer]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

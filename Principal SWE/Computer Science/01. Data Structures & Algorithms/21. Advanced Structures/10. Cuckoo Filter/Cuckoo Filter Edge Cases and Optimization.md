@@ -65,4 +65,4 @@ func optimizeCuckooFilter(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Cuckoo Filter]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

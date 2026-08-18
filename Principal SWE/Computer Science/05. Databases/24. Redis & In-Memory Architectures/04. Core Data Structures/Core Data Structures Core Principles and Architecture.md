@@ -81,4 +81,4 @@ func (s *CoreDataStructuresCorePrinciplesandArchitectureService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Core Data Structures]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *PubSubSystemManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Pub Sub System]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

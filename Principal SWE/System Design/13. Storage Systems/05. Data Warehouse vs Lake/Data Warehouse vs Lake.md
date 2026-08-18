@@ -30,4 +30,4 @@ Data Warehouse vs Lake
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

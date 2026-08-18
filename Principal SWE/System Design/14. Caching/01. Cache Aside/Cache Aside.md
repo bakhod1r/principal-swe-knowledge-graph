@@ -30,4 +30,4 @@ Cache Aside
 
 ## 🔗 References
 - ⬆️ Parent: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

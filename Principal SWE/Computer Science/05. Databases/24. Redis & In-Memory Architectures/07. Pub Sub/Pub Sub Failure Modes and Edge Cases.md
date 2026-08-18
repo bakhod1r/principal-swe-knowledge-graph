@@ -81,4 +81,4 @@ func (s *PubSubFailureModesandEdgeCasesService) Execute(ctx context.Context) err
 ## 🔗 References
 - ⬆️ Parent: [[Pub Sub]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

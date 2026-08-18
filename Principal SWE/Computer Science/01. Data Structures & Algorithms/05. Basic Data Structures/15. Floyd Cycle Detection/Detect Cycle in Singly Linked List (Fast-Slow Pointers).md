@@ -58,4 +58,4 @@ func ExecuteDetectCycleinSinglyLinkedListFastSlowPointers(data []int, target int
 ## 🔗 References
 - ⬆️ Parent: [[Floyd Cycle Detection (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

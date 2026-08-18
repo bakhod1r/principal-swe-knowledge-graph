@@ -84,4 +84,4 @@ func (c *AIAgentFundamentalsandExecutionStateMachinesFoundationsandArchitectureC
 ## 🔗 References
 - ⬆️ Parent: [[AI Agent Fundamentals and Execution State Machines]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

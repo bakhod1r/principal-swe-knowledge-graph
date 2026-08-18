@@ -81,4 +81,4 @@ func (m *CiCdPipelinesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Ci Cd Pipelines]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

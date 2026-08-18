@@ -48,4 +48,4 @@ Claude Code, Subagents & Workflows
 
 ## 🔗 References
 - ⬆️ Parent: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Agent Short Term, Long Term, and Working Memory
 ## 🔗 References
 - ⬆️ Parent: [[AI Agents & Multi Agent Architectures]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Bandwidth]]
 - 📚 Module: [[Capacity Estimation]]
-- 🎓 Root: [[Principal SWE]]
+

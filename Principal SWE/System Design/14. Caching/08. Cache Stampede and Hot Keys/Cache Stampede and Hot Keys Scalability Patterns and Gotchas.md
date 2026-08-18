@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cache Stampede and Hot Keys]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

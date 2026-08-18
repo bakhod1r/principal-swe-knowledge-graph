@@ -30,4 +30,4 @@ PACELC
 
 ## 🔗 References
 - ⬆️ Parent: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

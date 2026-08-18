@@ -33,4 +33,4 @@ Database Partitioning, Sharding, and Federation
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

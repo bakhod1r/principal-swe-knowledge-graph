@@ -33,4 +33,4 @@ Storage Solutions
 ## 🔗 References
 - ⬆️ Parent: [[Cloudflare & Edge Computing]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

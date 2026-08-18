@@ -81,4 +81,4 @@ func (m *SQLTuningManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[SQL Tuning]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

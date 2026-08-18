@@ -33,4 +33,4 @@ Database Performance and Connection Pooling
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

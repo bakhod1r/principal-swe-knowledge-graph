@@ -59,4 +59,4 @@ func NewKServerProblem() *KServerProblem {
 ## 🔗 References
 - ⬆️ Parent: [[K Server Problem]]
 - 📚 Module: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

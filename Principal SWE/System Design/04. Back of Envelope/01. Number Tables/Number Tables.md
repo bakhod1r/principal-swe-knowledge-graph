@@ -30,4 +30,4 @@ Number Tables
 
 ## 🔗 References
 - ⬆️ Parent: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

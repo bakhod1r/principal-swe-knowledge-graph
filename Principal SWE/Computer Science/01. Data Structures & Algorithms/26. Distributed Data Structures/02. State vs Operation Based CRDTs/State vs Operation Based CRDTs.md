@@ -30,4 +30,4 @@ State vs Operation Based CRDTs
 
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

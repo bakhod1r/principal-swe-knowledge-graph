@@ -59,4 +59,4 @@ func NewPagingandCachingTheory() *PagingandCachingTheory {
 ## 🔗 References
 - ⬆️ Parent: [[Paging and Caching Theory]]
 - 📚 Module: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

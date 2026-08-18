@@ -81,4 +81,4 @@ func (m *BackendsforFrontendManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Backends for Frontend]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

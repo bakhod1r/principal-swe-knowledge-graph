@@ -58,4 +58,4 @@ func ExecuteStackBalancedParenthesesandSyntaxParsing(data []int, target int) boo
 ## 🔗 References
 - ⬆️ Parent: [[Stacks (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

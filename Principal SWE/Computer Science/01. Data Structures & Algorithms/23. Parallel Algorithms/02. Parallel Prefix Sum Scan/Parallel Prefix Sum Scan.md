@@ -30,4 +30,4 @@ Parallel Prefix Sum Scan
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

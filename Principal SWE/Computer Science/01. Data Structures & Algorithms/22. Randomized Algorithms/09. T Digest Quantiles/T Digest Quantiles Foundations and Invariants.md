@@ -59,4 +59,4 @@ func NewTDigestQuantiles() *TDigestQuantiles {
 ## 🔗 References
 - ⬆️ Parent: [[T Digest Quantiles]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

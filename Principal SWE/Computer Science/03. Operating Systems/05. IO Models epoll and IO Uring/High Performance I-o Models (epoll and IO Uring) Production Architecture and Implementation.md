@@ -78,4 +78,4 @@ func (m *HighPerformanceIoModelsepollandIOUringProductionArchitectureandImplemen
 ## 🔗 References
 - ⬆️ Parent: [[High Performance I-o Models (epoll and IO Uring)]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

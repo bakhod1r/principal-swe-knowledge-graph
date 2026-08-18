@@ -30,4 +30,4 @@ DNS Load Balancing
 
 ## 🔗 References
 - ⬆️ Parent: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

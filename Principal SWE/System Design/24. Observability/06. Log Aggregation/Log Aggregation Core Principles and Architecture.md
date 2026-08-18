@@ -81,4 +81,4 @@ func (m *LogAggregationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Log Aggregation]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

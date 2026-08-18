@@ -39,4 +39,4 @@ Git Core Foundations & Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

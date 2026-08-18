@@ -30,4 +30,4 @@ Data Residency
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

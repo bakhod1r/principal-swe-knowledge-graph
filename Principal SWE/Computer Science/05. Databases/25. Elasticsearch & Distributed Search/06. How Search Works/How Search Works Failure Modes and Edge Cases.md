@@ -81,4 +81,4 @@ func (s *HowSearchWorksFailureModesandEdgeCasesService) Execute(ctx context.Cont
 ## 🔗 References
 - ⬆️ Parent: [[How Search Works]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

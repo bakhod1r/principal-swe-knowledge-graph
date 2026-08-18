@@ -59,4 +59,4 @@ func NewNewtonMethod() *NewtonMethod {
 ## 🔗 References
 - ⬆️ Parent: [[Newton Method]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

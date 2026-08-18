@@ -33,4 +33,4 @@ Claude Code CLI Architecture and Core Mechanics
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

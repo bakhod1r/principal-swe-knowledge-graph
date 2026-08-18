@@ -30,4 +30,4 @@ Rat in Maze
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

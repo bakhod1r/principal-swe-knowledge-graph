@@ -30,4 +30,4 @@ Priority Queue
 
 ## 🔗 References
 - ⬆️ Parent: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

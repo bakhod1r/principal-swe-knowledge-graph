@@ -78,4 +78,4 @@ func (m *KernelCpuSchedulerInternalsFailureModesandPerformancePitfallsManager) P
 ## 🔗 References
 - ⬆️ Parent: [[Kernel Cpu Scheduler Internals]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -93,4 +93,4 @@ func (u *EnterpriseAnalysisPatternsinDomainModelingEnterpriseImplementationandPa
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Analysis Patterns in Domain Modeling]]
 - 📚 Module: [[Domain Driven Design (ddd)]]
-- 🎓 Root: [[Principal SWE]]
+

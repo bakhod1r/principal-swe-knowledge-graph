@@ -30,4 +30,4 @@ Throttling
 
 ## 🔗 References
 - ⬆️ Parent: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

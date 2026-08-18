@@ -33,4 +33,4 @@ Authentication, Authorization & Cryptographic Tokens
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

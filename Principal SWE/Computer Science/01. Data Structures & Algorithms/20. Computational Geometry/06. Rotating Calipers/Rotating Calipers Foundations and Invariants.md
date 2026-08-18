@@ -59,4 +59,4 @@ func NewRotatingCalipers() *RotatingCalipers {
 ## 🔗 References
 - ⬆️ Parent: [[Rotating Calipers]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

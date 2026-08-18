@@ -34,4 +34,4 @@ Git References, Symbolic Head, and Detached Head
 ## 🔗 References
 - ⬆️ Parent: [[Git Core Foundations & Architecture]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

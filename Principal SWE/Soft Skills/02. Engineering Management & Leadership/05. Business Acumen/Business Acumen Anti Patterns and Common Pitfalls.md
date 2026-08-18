@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Business Acumen Anti Patterns and Comm
 ## 🔗 References
 - ⬆️ Parent: [[Business Acumen]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

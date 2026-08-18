@@ -30,4 +30,4 @@ Edit Distance
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

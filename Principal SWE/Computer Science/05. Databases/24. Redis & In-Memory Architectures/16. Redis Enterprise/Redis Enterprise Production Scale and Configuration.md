@@ -81,4 +81,4 @@ func (s *RedisEnterpriseProductionScaleandConfigurationService) Execute(ctx cont
 ## 🔗 References
 - ⬆️ Parent: [[Redis Enterprise]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

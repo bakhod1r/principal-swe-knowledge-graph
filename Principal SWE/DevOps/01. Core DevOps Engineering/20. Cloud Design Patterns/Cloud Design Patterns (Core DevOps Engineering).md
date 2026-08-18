@@ -33,4 +33,4 @@ Cloud Design Patterns (Core DevOps Engineering)
 ## 🔗 References
 - ⬆️ Parent: [[Core DevOps Engineering]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (s *AdvancedSQLCorePrinciplesandArchitectureService) Execute(ctx context.Co
 ## 🔗 References
 - ⬆️ Parent: [[Advanced SQL]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Architecture Decision Records
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

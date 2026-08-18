@@ -59,4 +59,4 @@ func NewTarjanSCC() *TarjanSCC {
 ## 🔗 References
 - ⬆️ Parent: [[Tarjan SCC]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

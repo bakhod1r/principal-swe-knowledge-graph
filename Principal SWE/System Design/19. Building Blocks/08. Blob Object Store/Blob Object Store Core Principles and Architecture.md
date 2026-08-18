@@ -81,4 +81,4 @@ func (m *BlobObjectStoreManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Blob Object Store]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

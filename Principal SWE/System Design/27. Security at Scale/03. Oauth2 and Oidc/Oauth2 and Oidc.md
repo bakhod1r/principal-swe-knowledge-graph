@@ -30,4 +30,4 @@ Oauth2 and Oidc
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ GitHub Actions Workflow Syntax and Event Triggers
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions & CI CD Automation]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

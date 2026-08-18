@@ -59,4 +59,4 @@ func NewQuicksort() *Quicksort {
 ## 🔗 References
 - ⬆️ Parent: [[Quicksort]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

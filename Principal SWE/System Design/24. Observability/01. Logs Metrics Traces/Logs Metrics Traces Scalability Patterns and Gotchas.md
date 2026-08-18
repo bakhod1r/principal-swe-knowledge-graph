@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Logs Metrics Traces]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewLyndonDecomposition() *LyndonDecomposition {
 ## 🔗 References
 - ⬆️ Parent: [[Lyndon Decomposition]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Dynamic Instrumentation and eBPF
 
 ## 🔗 References
 - ⬆️ Parent: [[Diagnostics]]
-- 🎓 Root: [[Principal SWE]]
+

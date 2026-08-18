@@ -30,4 +30,4 @@ Manacher Algorithm
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

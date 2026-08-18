@@ -50,4 +50,4 @@ Postgresql Mastery & DBA
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

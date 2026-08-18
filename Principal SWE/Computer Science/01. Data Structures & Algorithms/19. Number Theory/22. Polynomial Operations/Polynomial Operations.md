@@ -30,4 +30,4 @@ Polynomial Operations
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

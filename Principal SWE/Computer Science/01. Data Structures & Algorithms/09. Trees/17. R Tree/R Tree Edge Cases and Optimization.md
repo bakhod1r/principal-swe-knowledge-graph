@@ -65,4 +65,4 @@ func optimizeRTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[R Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

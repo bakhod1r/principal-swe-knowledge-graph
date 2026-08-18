@@ -30,4 +30,4 @@ Idempotency and Retries
 
 ## 🔗 References
 - ⬆️ Parent: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

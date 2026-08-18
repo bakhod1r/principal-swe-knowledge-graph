@@ -30,4 +30,4 @@ Binary Search on Answer
 
 ## 🔗 References
 - ⬆️ Parent: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

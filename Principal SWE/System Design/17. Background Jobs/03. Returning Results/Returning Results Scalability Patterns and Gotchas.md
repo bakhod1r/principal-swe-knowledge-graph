@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Returning Results]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

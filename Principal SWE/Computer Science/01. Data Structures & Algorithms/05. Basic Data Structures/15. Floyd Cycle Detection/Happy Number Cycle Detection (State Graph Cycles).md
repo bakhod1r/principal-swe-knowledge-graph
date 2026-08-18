@@ -58,4 +58,4 @@ func ExecuteHappyNumberCycleDetectionStateGraphCycles(data []int, target int) bo
 ## 🔗 References
 - ⬆️ Parent: [[Floyd Cycle Detection (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

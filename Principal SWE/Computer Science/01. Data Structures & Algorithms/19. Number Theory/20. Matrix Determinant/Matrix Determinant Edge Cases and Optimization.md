@@ -65,4 +65,4 @@ func optimizeMatrixDeterminant(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Determinant]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Health Monitoring]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

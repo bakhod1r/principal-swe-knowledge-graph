@@ -32,4 +32,4 @@ Distributed Consistency Models Hierarchy
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

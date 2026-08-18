@@ -81,4 +81,4 @@ func (m *MonolithicPersistenceManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Monolithic Persistence]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Distributed Logging
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Public Key Infrastructure (pki) and X.509 Certificates
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

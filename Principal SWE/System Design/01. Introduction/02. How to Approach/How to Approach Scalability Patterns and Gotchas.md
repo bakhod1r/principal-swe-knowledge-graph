@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[How to Approach]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

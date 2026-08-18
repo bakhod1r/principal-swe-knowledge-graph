@@ -33,4 +33,4 @@ Welcome to the **Principal Software Engineer (SWE)** knowledge base. This reposi
 ---
 
 ## 🔗 Root References
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *BulkheadManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Bulkhead]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

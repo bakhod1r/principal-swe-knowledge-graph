@@ -65,4 +65,4 @@ func optimizeStarsandBars(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Stars and Bars]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeMerkleTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Merkle Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

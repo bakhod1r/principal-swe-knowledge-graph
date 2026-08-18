@@ -59,4 +59,4 @@ func NewTreeDp() *TreeDp {
 ## 🔗 References
 - ⬆️ Parent: [[Tree Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

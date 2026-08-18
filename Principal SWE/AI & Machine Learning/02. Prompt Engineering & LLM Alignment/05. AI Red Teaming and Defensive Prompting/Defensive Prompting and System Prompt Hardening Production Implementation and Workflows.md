@@ -84,4 +84,4 @@ func (c *DefensivePromptingandSystemPromptHardeningProductionImplementationandWo
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Prompting and System Prompt Hardening]]
 - 📚 Module: [[Prompt Engineering & LLM Alignment]]
-- 🎓 Root: [[Principal SWE]]
+

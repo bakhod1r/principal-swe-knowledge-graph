@@ -78,4 +78,4 @@ func (m *RealTimeOperatingSystemSchedulingProductionArchitectureandImplementatio
 ## 🔗 References
 - ⬆️ Parent: [[Real Time Operating System Scheduling]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

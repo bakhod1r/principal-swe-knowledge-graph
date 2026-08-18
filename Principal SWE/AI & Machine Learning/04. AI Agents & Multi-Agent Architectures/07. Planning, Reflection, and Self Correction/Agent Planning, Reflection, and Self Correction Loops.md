@@ -33,4 +33,4 @@ Agent Planning, Reflection, and Self Correction Loops
 ## 🔗 References
 - ⬆️ Parent: [[AI Agents & Multi Agent Architectures]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

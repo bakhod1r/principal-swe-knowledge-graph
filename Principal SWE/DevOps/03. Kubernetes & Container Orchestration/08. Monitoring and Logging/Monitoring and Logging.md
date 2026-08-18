@@ -33,4 +33,4 @@ Monitoring and Logging
 ## 🔗 References
 - ⬆️ Parent: [[Kubernetes & Container Orchestration]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

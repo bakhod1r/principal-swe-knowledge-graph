@@ -84,4 +84,4 @@ func (c *ClaudeCodeCLIArchitectureandCoreMechanicsFoundationsandArchitectureClie
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code CLI Architecture and Core Mechanics]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

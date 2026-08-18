@@ -30,4 +30,4 @@ Arc 2q Cache
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

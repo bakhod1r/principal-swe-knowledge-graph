@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[REST]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

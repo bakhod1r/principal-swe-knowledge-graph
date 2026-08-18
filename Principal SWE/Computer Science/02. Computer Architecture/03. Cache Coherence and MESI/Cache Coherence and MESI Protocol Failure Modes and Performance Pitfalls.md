@@ -78,4 +78,4 @@ func (m *CacheCoherenceandMESIProtocolFailureModesandPerformancePitfallsManager)
 ## 🔗 References
 - ⬆️ Parent: [[Cache Coherence and MESI Protocol]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

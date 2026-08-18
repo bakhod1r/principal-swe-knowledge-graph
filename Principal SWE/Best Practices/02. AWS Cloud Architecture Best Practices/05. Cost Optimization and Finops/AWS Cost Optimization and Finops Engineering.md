@@ -33,4 +33,4 @@ AWS Cost Optimization and Finops Engineering
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cloud Architecture Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

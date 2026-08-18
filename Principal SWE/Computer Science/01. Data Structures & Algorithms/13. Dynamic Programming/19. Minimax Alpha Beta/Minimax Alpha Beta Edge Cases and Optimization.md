@@ -65,4 +65,4 @@ func optimizeMinimaxAlphaBeta(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Minimax Alpha Beta]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Setting Up Kubernetes]]
 - 📚 Module: [[Kubernetes & Container Orchestration]]
-- 🎓 Root: [[Principal SWE]]
+

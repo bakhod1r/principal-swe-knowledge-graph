@@ -30,4 +30,4 @@ Digital Wallets and Mobile Pay
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSkipList() *SkipList {
 ## 🔗 References
 - ⬆️ Parent: [[Skip List]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

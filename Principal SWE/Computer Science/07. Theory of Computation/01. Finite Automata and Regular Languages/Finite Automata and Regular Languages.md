@@ -32,4 +32,4 @@ Finite Automata and Regular Languages
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

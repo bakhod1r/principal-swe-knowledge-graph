@@ -81,4 +81,4 @@ func (m *SlackMessagingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Slack Messaging]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *TestDrivenDevelopmenttddwithClaudeCodeFailureModesandOptimizationGotcha
 ## 🔗 References
 - ⬆️ Parent: [[Test Driven Development (tdd) with Claude Code]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

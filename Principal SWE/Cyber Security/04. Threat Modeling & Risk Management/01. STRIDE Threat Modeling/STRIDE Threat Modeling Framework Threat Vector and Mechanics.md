@@ -85,4 +85,4 @@ func (e *STRIDEThreatModelingFrameworkThreatVectorandMechanicsSecurityEngine) Ve
 ## 🔗 References
 - ⬆️ Parent: [[STRIDE Threat Modeling Framework]]
 - 📚 Module: [[Threat Modeling & Risk Management]]
-- 🎓 Root: [[Principal SWE]]
+

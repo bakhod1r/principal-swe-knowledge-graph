@@ -27,4 +27,4 @@ Test Data Management (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

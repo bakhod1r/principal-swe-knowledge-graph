@@ -30,4 +30,4 @@ Lock Free Queue Michael Scott
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

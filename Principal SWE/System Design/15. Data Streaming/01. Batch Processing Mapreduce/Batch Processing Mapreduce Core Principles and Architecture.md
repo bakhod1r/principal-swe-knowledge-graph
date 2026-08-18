@@ -81,4 +81,4 @@ func (m *BatchProcessingMapreduceManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Batch Processing Mapreduce]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *KernelCpuSchedulerInternalsProductionArchitectureandImplementationManag
 ## 🔗 References
 - ⬆️ Parent: [[Kernel Cpu Scheduler Internals]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

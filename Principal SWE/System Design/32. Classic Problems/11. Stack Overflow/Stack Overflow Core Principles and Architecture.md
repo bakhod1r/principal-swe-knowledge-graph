@@ -81,4 +81,4 @@ func (m *StackOverflowManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Stack Overflow]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Reverse Etl and Operational Analytics
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

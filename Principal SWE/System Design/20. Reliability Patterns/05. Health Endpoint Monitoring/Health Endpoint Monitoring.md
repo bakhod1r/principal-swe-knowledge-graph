@@ -30,4 +30,4 @@ Health Endpoint Monitoring
 
 ## 🔗 References
 - ⬆️ Parent: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

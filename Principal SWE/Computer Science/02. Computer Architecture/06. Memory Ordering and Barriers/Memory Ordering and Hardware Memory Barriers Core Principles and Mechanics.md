@@ -78,4 +78,4 @@ func (m *MemoryOrderingandHardwareMemoryBarriersCorePrinciplesandMechanicsManage
 ## 🔗 References
 - ⬆️ Parent: [[Memory Ordering and Hardware Memory Barriers]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

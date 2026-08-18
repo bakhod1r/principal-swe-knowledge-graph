@@ -33,4 +33,4 @@ STRIDE Threat Modeling Framework
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling & Risk Management]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

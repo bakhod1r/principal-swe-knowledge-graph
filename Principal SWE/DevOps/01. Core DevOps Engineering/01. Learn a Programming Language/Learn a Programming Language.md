@@ -33,4 +33,4 @@ Learn a Programming Language
 ## 🔗 References
 - ⬆️ Parent: [[Core DevOps Engineering]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

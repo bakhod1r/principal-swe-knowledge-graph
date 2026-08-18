@@ -35,4 +35,4 @@ Linux Kernel Isolation, Sandboxing & Capabilities
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

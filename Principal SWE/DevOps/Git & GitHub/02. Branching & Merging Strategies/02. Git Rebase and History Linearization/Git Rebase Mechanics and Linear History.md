@@ -34,4 +34,4 @@ Git Rebase Mechanics and Linear History
 ## 🔗 References
 - ⬆️ Parent: [[Branching & Merging Strategies]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

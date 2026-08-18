@@ -30,4 +30,4 @@ Garner Algorithm
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

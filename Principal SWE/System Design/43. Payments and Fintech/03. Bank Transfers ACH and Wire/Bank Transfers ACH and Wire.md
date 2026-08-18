@@ -30,4 +30,4 @@ Bank Transfers ACH and Wire
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

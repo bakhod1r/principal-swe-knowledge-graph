@@ -32,4 +32,4 @@ Polynomial Time Reductions and NP Hardness
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

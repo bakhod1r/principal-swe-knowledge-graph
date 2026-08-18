@@ -33,4 +33,4 @@ Symmetric Ciphers (aes GCM and Chacha20 Poly1305)
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

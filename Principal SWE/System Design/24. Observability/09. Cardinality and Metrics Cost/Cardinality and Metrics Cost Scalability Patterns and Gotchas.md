@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cardinality and Metrics Cost]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

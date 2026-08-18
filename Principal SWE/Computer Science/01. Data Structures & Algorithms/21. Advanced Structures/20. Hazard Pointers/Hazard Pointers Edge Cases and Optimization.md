@@ -65,4 +65,4 @@ func optimizeHazardPointers(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Hazard Pointers]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *VirtualMemoryandPageTableManagementProductionArchitectureandImplementat
 ## 🔗 References
 - ⬆️ Parent: [[Virtual Memory and Page Table Management]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

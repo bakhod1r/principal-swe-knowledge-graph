@@ -59,4 +59,4 @@ func NewFenwickTree() *FenwickTree {
 ## 🔗 References
 - ⬆️ Parent: [[Fenwick Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

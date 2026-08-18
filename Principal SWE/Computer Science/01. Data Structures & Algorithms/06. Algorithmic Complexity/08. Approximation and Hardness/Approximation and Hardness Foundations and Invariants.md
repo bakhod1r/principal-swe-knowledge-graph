@@ -59,4 +59,4 @@ func NewApproximationandHardness() *ApproximationandHardness {
 ## 🔗 References
 - ⬆️ Parent: [[Approximation and Hardness]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -58,4 +58,4 @@ func ExecuteDailyTemperaturesandStockSpanMonotonicDecreasingStack(data []int, ta
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Stack (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

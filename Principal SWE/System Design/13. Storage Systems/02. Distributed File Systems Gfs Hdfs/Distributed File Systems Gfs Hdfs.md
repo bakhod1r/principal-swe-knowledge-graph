@@ -30,4 +30,4 @@ Distributed File Systems Gfs Hdfs
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

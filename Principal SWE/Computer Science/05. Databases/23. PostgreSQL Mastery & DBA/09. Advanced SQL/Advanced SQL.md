@@ -33,4 +33,4 @@ Advanced SQL
 ## 🔗 References
 - ⬆️ Parent: [[Postgresql Mastery & DBA]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

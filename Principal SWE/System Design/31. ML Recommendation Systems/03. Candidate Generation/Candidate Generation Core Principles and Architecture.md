@@ -81,4 +81,4 @@ func (m *CandidateGenerationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Candidate Generation]]
 - 📚 Module: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

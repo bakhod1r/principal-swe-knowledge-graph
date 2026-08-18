@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[BGP and Internet Routing]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

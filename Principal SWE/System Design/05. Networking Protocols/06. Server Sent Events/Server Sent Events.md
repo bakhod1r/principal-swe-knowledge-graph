@@ -30,4 +30,4 @@ Server Sent Events
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Lossless Data Compression (huffman and Lz77)
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

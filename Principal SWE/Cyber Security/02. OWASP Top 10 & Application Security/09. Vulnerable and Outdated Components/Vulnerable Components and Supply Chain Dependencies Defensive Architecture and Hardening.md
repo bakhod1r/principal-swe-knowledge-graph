@@ -85,4 +85,4 @@ func (e *VulnerableComponentsandSupplyChainDependenciesDefensiveArchitectureandH
 ## 🔗 References
 - ⬆️ Parent: [[Vulnerable Components and Supply Chain Dependencies]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

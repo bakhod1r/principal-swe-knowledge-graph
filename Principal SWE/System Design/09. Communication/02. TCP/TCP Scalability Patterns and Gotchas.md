@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[TCP (Communication)]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

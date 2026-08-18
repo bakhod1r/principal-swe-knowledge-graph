@@ -33,4 +33,4 @@ Context Optimization in AI IDEs (cursor, Windsurf, Antigravity)
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

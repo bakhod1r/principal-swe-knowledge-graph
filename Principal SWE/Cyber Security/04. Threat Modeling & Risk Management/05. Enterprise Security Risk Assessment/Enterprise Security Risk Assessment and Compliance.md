@@ -33,4 +33,4 @@ Enterprise Security Risk Assessment and Compliance
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling & Risk Management]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

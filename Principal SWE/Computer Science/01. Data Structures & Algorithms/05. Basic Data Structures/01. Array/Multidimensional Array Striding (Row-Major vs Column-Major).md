@@ -56,4 +56,4 @@ func SumMatrix(matrix [][]float64, rows, cols int) float64 {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

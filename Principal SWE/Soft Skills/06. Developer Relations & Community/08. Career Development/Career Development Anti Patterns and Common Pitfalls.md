@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Career Development Anti Patterns and C
 ## 🔗 References
 - ⬆️ Parent: [[Career Development]]
 - 📚 Module: [[Developer Relations & Community]]
-- 🎓 Root: [[Principal SWE]]
+

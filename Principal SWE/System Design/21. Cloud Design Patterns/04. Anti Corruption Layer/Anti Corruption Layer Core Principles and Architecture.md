@@ -81,4 +81,4 @@ func (m *AntiCorruptionLayerManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Anti Corruption Layer]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

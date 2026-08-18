@@ -30,4 +30,4 @@ Approximation and Hardness
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

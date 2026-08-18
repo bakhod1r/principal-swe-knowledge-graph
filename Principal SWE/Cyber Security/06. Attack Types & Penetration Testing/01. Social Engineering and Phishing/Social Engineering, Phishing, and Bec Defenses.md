@@ -33,4 +33,4 @@ Social Engineering, Phishing, and Bec Defenses
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types & Penetration Testing]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

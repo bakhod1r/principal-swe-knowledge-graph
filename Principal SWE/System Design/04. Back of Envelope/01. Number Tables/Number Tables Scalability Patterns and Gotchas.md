@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Number Tables]]
 - 📚 Module: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

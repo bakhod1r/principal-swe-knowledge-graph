@@ -30,4 +30,4 @@ Distributed Job Scheduler
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

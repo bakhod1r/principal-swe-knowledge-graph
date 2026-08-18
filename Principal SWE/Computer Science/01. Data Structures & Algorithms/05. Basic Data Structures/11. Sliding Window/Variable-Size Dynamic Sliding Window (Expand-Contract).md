@@ -58,4 +58,4 @@ func ExecuteVariableSizeDynamicSlidingWindowExpandContract(data []int, target in
 ## 🔗 References
 - ⬆️ Parent: [[Sliding Window (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

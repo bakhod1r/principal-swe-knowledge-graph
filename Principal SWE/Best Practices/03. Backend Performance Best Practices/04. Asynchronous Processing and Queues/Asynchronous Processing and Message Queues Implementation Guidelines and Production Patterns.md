@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[Asynchronous Processing and Message Queues]]
 - 📚 Module: [[Backend Performance Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *NewsqlDistributedSQLManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Newsql Distributed SQL]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

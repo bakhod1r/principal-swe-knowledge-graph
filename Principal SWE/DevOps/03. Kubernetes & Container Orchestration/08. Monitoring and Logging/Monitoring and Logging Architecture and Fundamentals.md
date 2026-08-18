@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Monitoring and Logging]]
 - 📚 Module: [[Kubernetes & Container Orchestration]]
-- 🎓 Root: [[Principal SWE]]
+

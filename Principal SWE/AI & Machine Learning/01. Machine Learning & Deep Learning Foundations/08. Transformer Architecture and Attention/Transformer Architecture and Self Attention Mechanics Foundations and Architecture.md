@@ -84,4 +84,4 @@ func (c *TransformerArchitectureandSelfAttentionMechanicsFoundationsandArchitect
 ## 🔗 References
 - ⬆️ Parent: [[Transformer Architecture and Self Attention Mechanics]]
 - 📚 Module: [[Machine Learning & Deep Learning Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

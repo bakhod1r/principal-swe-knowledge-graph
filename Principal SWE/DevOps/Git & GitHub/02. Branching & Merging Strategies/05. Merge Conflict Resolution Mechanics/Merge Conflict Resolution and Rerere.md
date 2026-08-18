@@ -34,4 +34,4 @@ Merge Conflict Resolution and Rerere
 ## 🔗 References
 - ⬆️ Parent: [[Branching & Merging Strategies]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

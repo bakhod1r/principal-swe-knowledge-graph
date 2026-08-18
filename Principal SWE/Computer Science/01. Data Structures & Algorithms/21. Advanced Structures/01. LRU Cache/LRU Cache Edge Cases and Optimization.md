@@ -65,4 +65,4 @@ func optimizeLRUCache(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[LRU Cache]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

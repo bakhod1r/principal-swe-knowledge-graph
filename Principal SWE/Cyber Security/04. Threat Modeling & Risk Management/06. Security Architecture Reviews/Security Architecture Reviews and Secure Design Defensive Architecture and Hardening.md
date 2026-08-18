@@ -85,4 +85,4 @@ func (e *SecurityArchitectureReviewsandSecureDesignDefensiveArchitectureandHarde
 ## 🔗 References
 - ⬆️ Parent: [[Security Architecture Reviews and Secure Design]]
 - 📚 Module: [[Threat Modeling & Risk Management]]
-- 🎓 Root: [[Principal SWE]]
+

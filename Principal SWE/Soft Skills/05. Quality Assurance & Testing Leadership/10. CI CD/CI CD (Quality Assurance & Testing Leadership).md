@@ -33,4 +33,4 @@ CI CD (Quality Assurance & Testing Leadership)
 ## 🔗 References
 - ⬆️ Parent: [[Quality Assurance & Testing Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

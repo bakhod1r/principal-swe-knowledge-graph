@@ -27,4 +27,4 @@ Other Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

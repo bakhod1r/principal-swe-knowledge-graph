@@ -81,4 +81,4 @@ func (m *IncidentManagementManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Incident Management]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

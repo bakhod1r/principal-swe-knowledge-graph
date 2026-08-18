@@ -81,4 +81,4 @@ func (m *LogsMetricsTracesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Logs Metrics Traces]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

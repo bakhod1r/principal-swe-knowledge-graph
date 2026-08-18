@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Learn a Programming Language]]
 - 📚 Module: [[Core DevOps Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Reductions and Np Completeness
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

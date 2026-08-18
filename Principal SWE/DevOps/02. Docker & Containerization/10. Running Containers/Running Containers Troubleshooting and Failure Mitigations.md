@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Running Containers]]
 - 📚 Module: [[Docker & Containerization]]
-- 🎓 Root: [[Principal SWE]]
+

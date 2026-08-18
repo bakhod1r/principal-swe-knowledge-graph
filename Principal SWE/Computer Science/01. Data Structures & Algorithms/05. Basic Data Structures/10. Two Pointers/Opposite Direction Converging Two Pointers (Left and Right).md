@@ -58,4 +58,4 @@ func ExecuteOppositeDirectionConvergingTwoPointersLeftandRight(data []int, targe
 ## 🔗 References
 - ⬆️ Parent: [[Two Pointers (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

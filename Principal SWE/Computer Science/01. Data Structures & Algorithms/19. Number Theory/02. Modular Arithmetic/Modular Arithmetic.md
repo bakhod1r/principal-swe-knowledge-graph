@@ -30,4 +30,4 @@ Modular Arithmetic
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

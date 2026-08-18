@@ -30,4 +30,4 @@ Redis Internals
 
 ## 🔗 References
 - ⬆️ Parent: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

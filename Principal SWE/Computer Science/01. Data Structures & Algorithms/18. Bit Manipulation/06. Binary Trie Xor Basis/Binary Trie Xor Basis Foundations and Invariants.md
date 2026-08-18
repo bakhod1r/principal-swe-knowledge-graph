@@ -59,4 +59,4 @@ func NewBinaryTrieXorBasis() *BinaryTrieXorBasis {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Trie Xor Basis]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

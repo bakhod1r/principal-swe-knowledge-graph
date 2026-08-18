@@ -30,4 +30,4 @@ Max Flow Edmonds Karp Dinic
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

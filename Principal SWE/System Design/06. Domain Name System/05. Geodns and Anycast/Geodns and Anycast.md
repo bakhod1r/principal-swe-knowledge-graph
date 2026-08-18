@@ -30,4 +30,4 @@ Geodns and Anycast
 
 ## 🔗 References
 - ⬆️ Parent: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

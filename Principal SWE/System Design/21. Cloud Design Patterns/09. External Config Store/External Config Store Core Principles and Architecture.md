@@ -81,4 +81,4 @@ func (m *ExternalConfigStoreManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[External Config Store]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

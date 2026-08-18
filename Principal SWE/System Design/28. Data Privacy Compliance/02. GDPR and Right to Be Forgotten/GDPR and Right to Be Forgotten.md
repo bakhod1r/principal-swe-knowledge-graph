@@ -30,4 +30,4 @@ GDPR and Right to Be Forgotten
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

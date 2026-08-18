@@ -33,4 +33,4 @@ Coding Under Pressure
 ## 🔗 References
 - ⬆️ Parent: [[Professionalism & Software Ethics]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewDFS() *DFS {
 ## 🔗 References
 - ⬆️ Parent: [[DFS]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

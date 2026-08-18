@@ -33,4 +33,4 @@ Open Source Models and Local High Throughput Serving
 ## 🔗 References
 - ⬆️ Parent: [[AI Engineering & RAG Systems]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

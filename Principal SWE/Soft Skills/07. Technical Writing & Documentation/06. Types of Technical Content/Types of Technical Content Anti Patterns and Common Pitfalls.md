@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Types of Technical Content Anti Patter
 ## 🔗 References
 - ⬆️ Parent: [[Types of Technical Content]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

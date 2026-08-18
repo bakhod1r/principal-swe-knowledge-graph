@@ -39,4 +39,4 @@ Code Coverage
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

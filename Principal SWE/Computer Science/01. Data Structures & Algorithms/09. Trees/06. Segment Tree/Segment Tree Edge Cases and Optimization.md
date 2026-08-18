@@ -65,4 +65,4 @@ func optimizeSegmentTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Segment Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

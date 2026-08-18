@@ -27,4 +27,4 @@ Structural (Refactoring to Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Refactoring to Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

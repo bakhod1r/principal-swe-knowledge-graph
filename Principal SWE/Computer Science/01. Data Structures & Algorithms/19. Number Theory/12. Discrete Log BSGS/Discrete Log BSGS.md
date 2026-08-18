@@ -30,4 +30,4 @@ Discrete Log BSGS
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ SQL Standards, Ddl, Dml, and Advanced Dialects
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

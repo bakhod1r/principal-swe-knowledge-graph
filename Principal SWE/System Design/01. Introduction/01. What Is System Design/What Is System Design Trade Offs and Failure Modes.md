@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[What Is System Design]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

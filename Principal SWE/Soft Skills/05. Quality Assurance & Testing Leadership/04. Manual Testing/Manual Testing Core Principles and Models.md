@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Manual Testing Core Principles and Mod
 ## 🔗 References
 - ⬆️ Parent: [[Manual Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

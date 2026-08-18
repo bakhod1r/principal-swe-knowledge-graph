@@ -81,4 +81,4 @@ func (m *PeertoPeerArchitectureManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Peer to Peer Architecture]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

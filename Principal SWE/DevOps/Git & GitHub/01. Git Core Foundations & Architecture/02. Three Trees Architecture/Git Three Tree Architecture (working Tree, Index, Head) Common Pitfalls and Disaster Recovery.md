@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Three Tree Architecture (working Tree, Index, Head)]]
 - 📚 Module: [[Git Core Foundations & Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *MapTilingandRoutingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Map Tiling and Routing]]
 - 📚 Module: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

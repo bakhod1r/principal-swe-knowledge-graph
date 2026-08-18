@@ -30,4 +30,4 @@ Bitmask Enumeration
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

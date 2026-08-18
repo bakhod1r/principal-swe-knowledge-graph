@@ -30,4 +30,4 @@ Distributed Message Queue
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

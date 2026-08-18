@@ -30,4 +30,4 @@ Threat Modeling Stride
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Password Hashing and Key Derivation Functions
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

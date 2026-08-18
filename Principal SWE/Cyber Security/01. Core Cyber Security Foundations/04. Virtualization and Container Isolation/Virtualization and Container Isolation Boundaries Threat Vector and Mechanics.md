@@ -85,4 +85,4 @@ func (e *VirtualizationandContainerIsolationBoundariesThreatVectorandMechanicsSe
 ## 🔗 References
 - ⬆️ Parent: [[Virtualization and Container Isolation Boundaries]]
 - 📚 Module: [[Core Cyber Security Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

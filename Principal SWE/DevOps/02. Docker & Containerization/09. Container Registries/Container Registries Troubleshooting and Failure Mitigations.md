@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Container Registries]]
 - 📚 Module: [[Docker & Containerization]]
-- 🎓 Root: [[Principal SWE]]
+

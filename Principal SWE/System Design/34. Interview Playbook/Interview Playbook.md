@@ -44,4 +44,4 @@ Interview Playbook
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Articulation Points Bridges
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Map Reduce Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

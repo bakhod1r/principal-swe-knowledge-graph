@@ -37,4 +37,4 @@ Documentation Quality
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

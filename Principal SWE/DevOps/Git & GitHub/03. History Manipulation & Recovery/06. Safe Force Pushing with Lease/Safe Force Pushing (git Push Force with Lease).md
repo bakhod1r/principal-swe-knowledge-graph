@@ -34,4 +34,4 @@ Safe Force Pushing (git Push Force with Lease)
 ## 🔗 References
 - ⬆️ Parent: [[History Manipulation & Recovery]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

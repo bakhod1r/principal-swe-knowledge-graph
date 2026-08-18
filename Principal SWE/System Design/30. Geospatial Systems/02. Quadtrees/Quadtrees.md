@@ -30,4 +30,4 @@ Quadtrees
 
 ## 🔗 References
 - ⬆️ Parent: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

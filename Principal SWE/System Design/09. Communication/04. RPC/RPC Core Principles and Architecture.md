@@ -81,4 +81,4 @@ func (m *RPCManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[RPC]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

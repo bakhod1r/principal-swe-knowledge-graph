@@ -89,4 +89,4 @@ func (m *QueryPlanningRelationalAlgebraandCostBasedOptimizationStorageArchitectu
 ## 🔗 References
 - ⬆️ Parent: [[Query Planning, Relational Algebra, and Cost Based Optimization]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

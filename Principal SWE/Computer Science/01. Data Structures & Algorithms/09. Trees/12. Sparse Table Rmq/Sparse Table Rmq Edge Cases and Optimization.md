@@ -65,4 +65,4 @@ func optimizeSparseTableRmq(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Sparse Table Rmq]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

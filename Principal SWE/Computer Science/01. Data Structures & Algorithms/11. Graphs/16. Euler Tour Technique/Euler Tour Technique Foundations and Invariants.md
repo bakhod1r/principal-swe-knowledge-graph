@@ -59,4 +59,4 @@ func NewEulerTourTechnique() *EulerTourTechnique {
 ## 🔗 References
 - ⬆️ Parent: [[Euler Tour Technique]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

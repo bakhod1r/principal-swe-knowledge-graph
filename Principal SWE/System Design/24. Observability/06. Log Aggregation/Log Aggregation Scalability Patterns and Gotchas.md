@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Log Aggregation]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

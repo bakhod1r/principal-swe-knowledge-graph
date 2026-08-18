@@ -58,4 +58,4 @@ func ExecuteLinkedListDeleteNodeinO1withoutPrevPointer(data []int, target int) b
 ## 🔗 References
 - ⬆️ Parent: [[Linked Lists (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

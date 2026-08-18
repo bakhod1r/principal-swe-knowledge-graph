@@ -81,4 +81,4 @@ func (m *DistributedFileSystemsGfsHdfsManager) Execute(ctx context.Context) erro
 ## 🔗 References
 - ⬆️ Parent: [[Distributed File Systems Gfs Hdfs]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

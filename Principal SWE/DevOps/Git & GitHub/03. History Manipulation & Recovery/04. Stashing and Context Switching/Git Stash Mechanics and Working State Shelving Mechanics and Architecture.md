@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Stash Mechanics and Working State Shelving]]
 - 📚 Module: [[History Manipulation & Recovery]]
-- 🎓 Root: [[Principal SWE]]
+

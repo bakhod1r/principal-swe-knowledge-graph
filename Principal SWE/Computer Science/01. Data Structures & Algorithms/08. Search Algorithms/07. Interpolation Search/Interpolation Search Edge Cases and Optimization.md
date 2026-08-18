@@ -65,4 +65,4 @@ func optimizeInterpolationSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Interpolation Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

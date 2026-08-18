@@ -27,4 +27,4 @@ Functions (Clean Code)
 
 ## 🔗 References
 - ⬆️ Parent: [[Clean Code]]
-- 🎓 Root: [[Principal SWE]]
+

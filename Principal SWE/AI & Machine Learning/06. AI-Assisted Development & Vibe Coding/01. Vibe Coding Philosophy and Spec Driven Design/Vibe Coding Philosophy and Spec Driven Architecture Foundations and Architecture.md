@@ -84,4 +84,4 @@ func (c *VibeCodingPhilosophyandSpecDrivenArchitectureFoundationsandArchitecture
 ## 🔗 References
 - ⬆️ Parent: [[Vibe Coding Philosophy and Spec Driven Architecture]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

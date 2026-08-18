@@ -30,4 +30,4 @@ Improper Instantiation
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

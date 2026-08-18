@@ -65,4 +65,4 @@ func optimizeGarnerAlgorithm(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Garner Algorithm]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GraphqlFederationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Graphql Federation]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

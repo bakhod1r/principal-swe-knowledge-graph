@@ -59,4 +59,4 @@ func NewBinomialCoefficients() *BinomialCoefficients {
 ## 🔗 References
 - ⬆️ Parent: [[Binomial Coefficients]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

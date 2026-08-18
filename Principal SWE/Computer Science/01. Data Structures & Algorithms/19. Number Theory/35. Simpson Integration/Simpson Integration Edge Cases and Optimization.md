@@ -65,4 +65,4 @@ func optimizeSimpsonIntegration(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Simpson Integration]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

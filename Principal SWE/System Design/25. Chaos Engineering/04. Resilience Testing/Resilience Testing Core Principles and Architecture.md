@@ -81,4 +81,4 @@ func (m *ResilienceTestingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Resilience Testing]]
 - 📚 Module: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

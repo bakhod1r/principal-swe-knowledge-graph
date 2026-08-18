@@ -59,4 +59,4 @@ func NewPrimitiveRootDiscreteRoot() *PrimitiveRootDiscreteRoot {
 ## 🔗 References
 - ⬆️ Parent: [[Primitive Root Discrete Root]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

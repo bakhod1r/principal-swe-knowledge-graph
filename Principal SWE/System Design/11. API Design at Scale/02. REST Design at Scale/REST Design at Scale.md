@@ -30,4 +30,4 @@ REST Design at Scale
 
 ## 🔗 References
 - ⬆️ Parent: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

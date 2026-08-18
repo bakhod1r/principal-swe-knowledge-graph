@@ -81,4 +81,4 @@ func (m *EvolutionaryArchitectureManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Evolutionary Architecture]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

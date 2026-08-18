@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Manual Testing Anti Patterns and Commo
 ## 🔗 References
 - ⬆️ Parent: [[Manual Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

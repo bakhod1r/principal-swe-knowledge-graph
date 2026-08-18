@@ -65,4 +65,4 @@ func optimizeDFS(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[DFS]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

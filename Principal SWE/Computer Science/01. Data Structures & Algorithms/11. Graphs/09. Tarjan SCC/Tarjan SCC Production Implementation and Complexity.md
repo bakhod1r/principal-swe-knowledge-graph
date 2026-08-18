@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Tarjan SCC]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

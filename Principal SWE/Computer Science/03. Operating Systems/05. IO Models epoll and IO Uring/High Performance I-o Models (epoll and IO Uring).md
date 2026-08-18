@@ -32,4 +32,4 @@ High Performance I-o Models (epoll and IO Uring)
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

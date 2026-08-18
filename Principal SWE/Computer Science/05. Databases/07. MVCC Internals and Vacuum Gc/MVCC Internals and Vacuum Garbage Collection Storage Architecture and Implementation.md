@@ -89,4 +89,4 @@ func (m *MVCCInternalsandVacuumGarbageCollectionStorageArchitectureandImplementa
 ## 🔗 References
 - ⬆️ Parent: [[MVCC Internals and Vacuum Garbage Collection]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

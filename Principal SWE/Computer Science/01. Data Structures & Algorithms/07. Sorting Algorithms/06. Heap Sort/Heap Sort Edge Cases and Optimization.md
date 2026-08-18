@@ -65,4 +65,4 @@ func optimizeHeapSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Heap Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

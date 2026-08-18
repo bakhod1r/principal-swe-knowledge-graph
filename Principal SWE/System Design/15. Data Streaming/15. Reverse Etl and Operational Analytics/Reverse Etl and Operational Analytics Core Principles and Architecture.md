@@ -81,4 +81,4 @@ func (m *ReverseEtlandOperationalAnalyticsManager) Execute(ctx context.Context) 
 ## 🔗 References
 - ⬆️ Parent: [[Reverse Etl and Operational Analytics]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

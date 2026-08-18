@@ -33,4 +33,4 @@ Transactions (Mongodb & Document Stores)
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb & Document Stores]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

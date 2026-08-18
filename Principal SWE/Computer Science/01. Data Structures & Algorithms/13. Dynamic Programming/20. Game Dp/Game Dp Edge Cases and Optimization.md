@@ -65,4 +65,4 @@ func optimizeGameDp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Game Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

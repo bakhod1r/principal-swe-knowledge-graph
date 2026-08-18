@@ -30,4 +30,4 @@ Instagram Photo Feed
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

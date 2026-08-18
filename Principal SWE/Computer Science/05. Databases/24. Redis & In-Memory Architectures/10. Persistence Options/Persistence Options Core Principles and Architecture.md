@@ -81,4 +81,4 @@ func (s *PersistenceOptionsCorePrinciplesandArchitectureService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Persistence Options]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

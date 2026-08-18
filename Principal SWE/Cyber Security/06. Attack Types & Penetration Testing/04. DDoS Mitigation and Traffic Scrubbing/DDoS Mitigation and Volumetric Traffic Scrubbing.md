@@ -33,4 +33,4 @@ DDoS Mitigation and Volumetric Traffic Scrubbing
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types & Penetration Testing]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

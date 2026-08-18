@@ -30,4 +30,4 @@ Synthetic Monitoring and Rum
 
 ## 🔗 References
 - ⬆️ Parent: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

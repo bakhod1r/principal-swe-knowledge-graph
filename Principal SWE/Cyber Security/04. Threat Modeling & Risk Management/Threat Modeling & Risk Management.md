@@ -38,4 +38,4 @@ Threat Modeling & Risk Management
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

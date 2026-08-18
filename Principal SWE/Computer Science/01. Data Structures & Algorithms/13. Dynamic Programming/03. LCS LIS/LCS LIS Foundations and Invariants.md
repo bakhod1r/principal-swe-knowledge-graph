@@ -59,4 +59,4 @@ func NewLCSLIS() *LCSLIS {
 ## 🔗 References
 - ⬆️ Parent: [[LCS LIS]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

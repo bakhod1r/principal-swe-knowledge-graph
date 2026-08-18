@@ -59,4 +59,4 @@ func NewGCDLCM() *GCDLCM {
 ## 🔗 References
 - ⬆️ Parent: [[GCD LCM]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

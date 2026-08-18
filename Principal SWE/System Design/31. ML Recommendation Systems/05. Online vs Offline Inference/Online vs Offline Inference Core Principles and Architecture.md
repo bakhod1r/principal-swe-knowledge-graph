@@ -81,4 +81,4 @@ func (m *OnlinevsOfflineInferenceManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Online vs Offline Inference]]
 - 📚 Module: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (s *ScalingMongodbProductionScaleandConfigurationService) Execute(ctx conte
 ## 🔗 References
 - ⬆️ Parent: [[Scaling Mongodb]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

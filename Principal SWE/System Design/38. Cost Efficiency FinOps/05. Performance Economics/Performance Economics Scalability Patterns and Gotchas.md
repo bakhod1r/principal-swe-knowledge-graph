@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Performance Economics]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

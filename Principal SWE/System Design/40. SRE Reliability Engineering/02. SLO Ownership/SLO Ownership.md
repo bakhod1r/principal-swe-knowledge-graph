@@ -30,4 +30,4 @@ SLO Ownership
 
 ## 🔗 References
 - ⬆️ Parent: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (s *MongodbBasicsProductionScaleandConfigurationService) Execute(ctx contex
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb Basics]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

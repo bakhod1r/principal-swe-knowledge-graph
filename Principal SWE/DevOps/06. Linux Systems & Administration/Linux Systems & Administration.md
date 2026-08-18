@@ -58,4 +58,4 @@ Linux Systems & Administration
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

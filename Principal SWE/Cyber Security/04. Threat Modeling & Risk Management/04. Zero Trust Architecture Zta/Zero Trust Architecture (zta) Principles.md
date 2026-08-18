@@ -33,4 +33,4 @@ Zero Trust Architecture (zta) Principles
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling & Risk Management]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -54,4 +54,4 @@ func (s *Stack[T]) Pop() (T, bool) {
 ## 🔗 References
 - ⬆️ Parent: [[Array (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

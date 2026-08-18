@@ -30,4 +30,4 @@ Kernel Bypass Networking Dpdk Rdma
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

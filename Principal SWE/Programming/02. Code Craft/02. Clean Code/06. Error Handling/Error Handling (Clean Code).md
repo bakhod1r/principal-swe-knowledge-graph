@@ -27,4 +27,4 @@ Error Handling (Clean Code)
 
 ## 🔗 References
 - ⬆️ Parent: [[Clean Code]]
-- 🎓 Root: [[Principal SWE]]
+

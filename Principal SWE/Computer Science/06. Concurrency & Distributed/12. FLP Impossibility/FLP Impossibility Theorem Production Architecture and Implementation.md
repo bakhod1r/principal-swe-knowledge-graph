@@ -78,4 +78,4 @@ func (m *FLPImpossibilityTheoremProductionArchitectureandImplementationManager) 
 ## 🔗 References
 - ⬆️ Parent: [[FLP Impossibility Theorem]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

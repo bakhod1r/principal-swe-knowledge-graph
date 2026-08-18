@@ -81,4 +81,4 @@ func (m *NoisyNeighborMitigationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Noisy Neighbor Mitigation]]
 - 📚 Module: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

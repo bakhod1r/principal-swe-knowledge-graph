@@ -65,4 +65,4 @@ func optimizeLCA(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[LCA]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

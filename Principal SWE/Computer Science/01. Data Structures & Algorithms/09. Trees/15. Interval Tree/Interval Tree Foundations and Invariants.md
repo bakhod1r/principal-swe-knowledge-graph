@@ -59,4 +59,4 @@ func NewIntervalTree() *IntervalTree {
 ## 🔗 References
 - ⬆️ Parent: [[Interval Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

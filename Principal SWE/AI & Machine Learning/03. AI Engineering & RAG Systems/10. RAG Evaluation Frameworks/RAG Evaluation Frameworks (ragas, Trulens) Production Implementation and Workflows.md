@@ -84,4 +84,4 @@ func (c *RAGEvaluationFrameworksragasTrulensProductionImplementationandWorkflows
 ## 🔗 References
 - ⬆️ Parent: [[RAG Evaluation Frameworks (ragas, Trulens)]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

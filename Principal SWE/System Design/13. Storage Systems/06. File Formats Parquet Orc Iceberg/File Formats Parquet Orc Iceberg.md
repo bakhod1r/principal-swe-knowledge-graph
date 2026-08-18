@@ -30,4 +30,4 @@ File Formats Parquet Orc Iceberg
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Google Docs Collab Editor
 
 ## 🔗 References
 - ⬆️ Parent: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

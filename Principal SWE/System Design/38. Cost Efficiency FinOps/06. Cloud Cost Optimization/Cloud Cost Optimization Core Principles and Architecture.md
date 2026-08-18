@@ -81,4 +81,4 @@ func (m *CloudCostOptimizationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Cost Optimization]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

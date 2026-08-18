@@ -30,4 +30,4 @@ Tenant Isolation Models
 
 ## 🔗 References
 - ⬆️ Parent: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

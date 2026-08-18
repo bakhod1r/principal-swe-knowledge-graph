@@ -65,4 +65,4 @@ func optimizeTwoThreeTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Two Three Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

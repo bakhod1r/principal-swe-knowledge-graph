@@ -32,4 +32,4 @@ P vs NP and NP Completeness Foundations
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

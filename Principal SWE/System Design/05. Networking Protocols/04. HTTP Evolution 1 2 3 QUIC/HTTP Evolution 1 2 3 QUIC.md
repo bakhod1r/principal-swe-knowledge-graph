@@ -30,4 +30,4 @@ HTTP Evolution 1 2 3 QUIC
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

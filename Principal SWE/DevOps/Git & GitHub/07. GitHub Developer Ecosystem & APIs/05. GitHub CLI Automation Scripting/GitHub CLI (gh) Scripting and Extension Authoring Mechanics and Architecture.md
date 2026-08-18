@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub CLI (gh) Scripting and Extension Authoring]]
 - 📚 Module: [[GitHub Developer Ecosystem & APIs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -35,4 +35,4 @@ Cryptographic Primitives & Symmetric-Asymmetric Encryption
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ API Design Step
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

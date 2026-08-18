@@ -33,4 +33,4 @@ Ransomware Defense Architecture and Recovery
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types & Penetration Testing]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *ShannonEntropyandInformationTheoryFoundationsCorePrinciplesandMechanics
 ## 🔗 References
 - ⬆️ Parent: [[Shannon Entropy and Information Theory Foundations]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

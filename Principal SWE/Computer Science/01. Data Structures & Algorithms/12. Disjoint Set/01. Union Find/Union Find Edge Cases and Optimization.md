@@ -65,4 +65,4 @@ func optimizeUnionFind(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Union Find]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

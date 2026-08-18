@@ -50,4 +50,4 @@ AI Agents & Multi Agent Architectures
 
 ## 🔗 References
 - ⬆️ Parent: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *BlastRadiusandRecoveryManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Blast Radius and Recovery]]
 - 📚 Module: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

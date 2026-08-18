@@ -59,4 +59,4 @@ func NewBFS() *BFS {
 ## 🔗 References
 - ⬆️ Parent: [[BFS]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

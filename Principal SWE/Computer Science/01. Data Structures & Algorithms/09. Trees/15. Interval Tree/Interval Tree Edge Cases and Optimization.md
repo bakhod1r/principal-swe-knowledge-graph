@@ -65,4 +65,4 @@ func optimizeIntervalTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Interval Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

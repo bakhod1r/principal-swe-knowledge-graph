@@ -32,4 +32,4 @@ Mutual Information and Rate Distortion Theory
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

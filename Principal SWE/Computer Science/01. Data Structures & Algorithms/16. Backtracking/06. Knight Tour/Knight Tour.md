@@ -30,4 +30,4 @@ Knight Tour
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

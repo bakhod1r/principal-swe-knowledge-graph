@@ -33,4 +33,4 @@ DOM and CSS Rendering Performance
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

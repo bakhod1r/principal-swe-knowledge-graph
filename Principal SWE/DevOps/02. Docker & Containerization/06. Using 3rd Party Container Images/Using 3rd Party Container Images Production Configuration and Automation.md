@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Using 3rd Party Container Images]]
 - 📚 Module: [[Docker & Containerization]]
-- 🎓 Root: [[Principal SWE]]
+

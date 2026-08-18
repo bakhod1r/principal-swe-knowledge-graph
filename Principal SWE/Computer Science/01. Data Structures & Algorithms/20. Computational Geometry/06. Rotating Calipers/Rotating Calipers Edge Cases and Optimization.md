@@ -65,4 +65,4 @@ func optimizeRotatingCalipers(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Rotating Calipers]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

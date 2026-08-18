@@ -65,4 +65,4 @@ func optimizeInsertionSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Insertion Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

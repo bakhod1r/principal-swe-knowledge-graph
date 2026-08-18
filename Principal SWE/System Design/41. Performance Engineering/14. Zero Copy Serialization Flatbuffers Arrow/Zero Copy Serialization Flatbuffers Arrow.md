@@ -30,4 +30,4 @@ Zero Copy Serialization Flatbuffers Arrow
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

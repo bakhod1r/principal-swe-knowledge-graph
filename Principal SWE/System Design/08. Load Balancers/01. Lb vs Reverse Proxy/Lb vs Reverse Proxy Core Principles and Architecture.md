@@ -81,4 +81,4 @@ func (m *LbvsReverseProxyManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Lb vs Reverse Proxy]]
 - 📚 Module: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

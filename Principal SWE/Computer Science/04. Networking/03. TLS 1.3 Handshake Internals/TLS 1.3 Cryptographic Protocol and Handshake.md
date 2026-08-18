@@ -32,4 +32,4 @@ TLS 1.3 Cryptographic Protocol and Handshake
 ## 🔗 References
 - ⬆️ Parent: [[Networking (Computer Science)]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

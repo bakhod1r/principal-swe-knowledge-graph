@@ -81,4 +81,4 @@ func (m *CompensatingTransactionManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Compensating Transaction]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

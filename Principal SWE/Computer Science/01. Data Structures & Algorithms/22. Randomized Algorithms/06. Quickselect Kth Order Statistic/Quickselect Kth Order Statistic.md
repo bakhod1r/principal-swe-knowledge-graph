@@ -30,4 +30,4 @@ Quickselect Kth Order Statistic
 
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeAStar(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[A Star]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

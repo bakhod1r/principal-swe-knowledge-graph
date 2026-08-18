@@ -89,4 +89,4 @@ func (m *TransactionsACIDAxiomsandIsolationLevelsCorePrinciplesandMechanicsManag
 ## 🔗 References
 - ⬆️ Parent: [[Transactions, ACID Axioms, and Isolation Levels]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

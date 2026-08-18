@@ -32,4 +32,4 @@ DNS Resolution Internals and BGP Anycast
 ## 🔗 References
 - ⬆️ Parent: [[Networking (Computer Science)]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

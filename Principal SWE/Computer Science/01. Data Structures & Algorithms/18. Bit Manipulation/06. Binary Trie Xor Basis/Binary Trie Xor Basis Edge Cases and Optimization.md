@@ -65,4 +65,4 @@ func optimizeBinaryTrieXorBasis(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Trie Xor Basis]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

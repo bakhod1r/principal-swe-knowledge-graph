@@ -30,4 +30,4 @@ Queueing Theory Littles Law
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

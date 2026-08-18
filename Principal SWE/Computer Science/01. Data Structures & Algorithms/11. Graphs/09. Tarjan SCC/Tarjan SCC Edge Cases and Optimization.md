@@ -65,4 +65,4 @@ func optimizeTarjanSCC(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Tarjan SCC]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

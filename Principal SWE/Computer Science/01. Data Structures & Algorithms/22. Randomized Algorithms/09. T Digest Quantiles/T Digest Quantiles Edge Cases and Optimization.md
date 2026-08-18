@@ -65,4 +65,4 @@ func optimizeTDigestQuantiles(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[T Digest Quantiles]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -39,4 +39,4 @@ GitHub Actions & CI CD Automation
 
 ## 🔗 References
 - ⬆️ Parent: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

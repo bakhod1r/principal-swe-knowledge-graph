@@ -30,4 +30,4 @@ Performance Economics
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

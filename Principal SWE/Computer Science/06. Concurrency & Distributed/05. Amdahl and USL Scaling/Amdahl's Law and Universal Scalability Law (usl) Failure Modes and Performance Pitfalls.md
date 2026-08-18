@@ -78,4 +78,4 @@ func (m *AmdahlsLawandUniversalScalabilityLawuslFailureModesandPerformancePitfal
 ## 🔗 References
 - ⬆️ Parent: [[Amdahl's Law and Universal Scalability Law (usl)]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

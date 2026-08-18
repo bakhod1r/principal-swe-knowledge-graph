@@ -58,4 +58,4 @@ func ExecuteHashTableQuadraticProbingandDoubleHashing(data []int, target int) bo
 ## 🔗 References
 - ⬆️ Parent: [[Hash Tables (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

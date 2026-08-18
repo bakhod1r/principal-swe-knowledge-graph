@@ -81,4 +81,4 @@ func (m *ConflictResolutionManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

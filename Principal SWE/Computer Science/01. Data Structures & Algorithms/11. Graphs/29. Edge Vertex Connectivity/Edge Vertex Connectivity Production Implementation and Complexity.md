@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Edge Vertex Connectivity]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

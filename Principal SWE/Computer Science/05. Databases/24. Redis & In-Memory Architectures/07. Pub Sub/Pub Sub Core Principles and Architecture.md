@@ -81,4 +81,4 @@ func (s *PubSubCorePrinciplesandArchitectureService) Execute(ctx context.Context
 ## 🔗 References
 - ⬆️ Parent: [[Pub Sub]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

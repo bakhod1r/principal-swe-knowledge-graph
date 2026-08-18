@@ -32,4 +32,4 @@ Error Correcting Codes (hamming and Reed Solomon)
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

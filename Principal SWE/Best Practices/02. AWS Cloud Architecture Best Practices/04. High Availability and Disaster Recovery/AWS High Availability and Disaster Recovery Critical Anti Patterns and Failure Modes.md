@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[AWS High Availability and Disaster Recovery]]
 - 📚 Module: [[AWS Cloud Architecture Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

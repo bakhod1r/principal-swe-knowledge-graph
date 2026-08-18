@@ -30,4 +30,4 @@ Half Plane Intersection
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

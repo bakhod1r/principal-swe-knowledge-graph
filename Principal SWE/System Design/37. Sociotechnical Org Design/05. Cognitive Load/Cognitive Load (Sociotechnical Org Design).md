@@ -30,4 +30,4 @@ Cognitive Load (Sociotechnical Org Design)
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

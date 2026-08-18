@@ -59,4 +59,4 @@ func NewSetsorSetLWW() *SetsorSetLWW {
 ## 🔗 References
 - ⬆️ Parent: [[Sets or Set LWW]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

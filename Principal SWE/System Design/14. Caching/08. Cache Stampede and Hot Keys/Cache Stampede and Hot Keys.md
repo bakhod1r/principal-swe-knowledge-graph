@@ -30,4 +30,4 @@ Cache Stampede and Hot Keys
 
 ## 🔗 References
 - ⬆️ Parent: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

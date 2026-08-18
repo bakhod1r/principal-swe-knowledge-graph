@@ -33,4 +33,4 @@ Broken Access Control and Bola Defenses
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Application Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

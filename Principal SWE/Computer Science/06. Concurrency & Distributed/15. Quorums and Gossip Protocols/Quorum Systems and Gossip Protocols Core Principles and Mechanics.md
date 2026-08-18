@@ -78,4 +78,4 @@ func (m *QuorumSystemsandGossipProtocolsCorePrinciplesandMechanicsManager) Proce
 ## 🔗 References
 - ⬆️ Parent: [[Quorum Systems and Gossip Protocols]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

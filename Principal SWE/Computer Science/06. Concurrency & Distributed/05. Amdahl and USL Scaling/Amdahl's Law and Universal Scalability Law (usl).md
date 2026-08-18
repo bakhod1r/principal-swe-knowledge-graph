@@ -32,4 +32,4 @@ Amdahl's Law and Universal Scalability Law (usl)
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

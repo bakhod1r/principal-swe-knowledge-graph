@@ -65,4 +65,4 @@ func optimizeNpHardTSPHamiltonian(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Np Hard TSP Hamiltonian]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Realtime Payments UPI and FPS
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

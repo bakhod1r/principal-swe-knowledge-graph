@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Peer to Peer Architecture]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

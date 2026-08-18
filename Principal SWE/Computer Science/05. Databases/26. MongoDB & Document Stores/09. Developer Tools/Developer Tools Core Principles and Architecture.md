@@ -81,4 +81,4 @@ func (s *DeveloperToolsCorePrinciplesandArchitectureService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Developer Tools]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

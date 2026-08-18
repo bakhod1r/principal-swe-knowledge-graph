@@ -59,4 +59,4 @@ func NewSuffixAutomaton() *SuffixAutomaton {
 ## 🔗 References
 - ⬆️ Parent: [[Suffix Automaton]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

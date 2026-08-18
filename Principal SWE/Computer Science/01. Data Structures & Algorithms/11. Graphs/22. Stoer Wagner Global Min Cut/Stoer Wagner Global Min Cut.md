@@ -30,4 +30,4 @@ Stoer Wagner Global Min Cut
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

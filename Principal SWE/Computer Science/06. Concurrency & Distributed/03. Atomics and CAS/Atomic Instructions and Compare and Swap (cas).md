@@ -32,4 +32,4 @@ Atomic Instructions and Compare and Swap (cas)
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

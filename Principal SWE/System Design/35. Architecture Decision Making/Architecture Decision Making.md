@@ -38,4 +38,4 @@ Architecture Decision Making
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

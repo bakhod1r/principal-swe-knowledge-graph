@@ -81,4 +81,4 @@ func (m *CQRSManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[CQRS]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

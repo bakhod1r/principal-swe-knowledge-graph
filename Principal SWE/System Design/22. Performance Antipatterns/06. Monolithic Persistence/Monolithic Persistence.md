@@ -30,4 +30,4 @@ Monolithic Persistence
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

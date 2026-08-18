@@ -59,4 +59,4 @@ func NewJosephusProblem() *JosephusProblem {
 ## 🔗 References
 - ⬆️ Parent: [[Josephus Problem]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

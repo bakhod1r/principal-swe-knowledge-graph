@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Management Tools Practical Exe
 ## 🔗 References
 - ⬆️ Parent: [[Product Management Tools]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

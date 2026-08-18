@@ -30,4 +30,4 @@ Oop Basics
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

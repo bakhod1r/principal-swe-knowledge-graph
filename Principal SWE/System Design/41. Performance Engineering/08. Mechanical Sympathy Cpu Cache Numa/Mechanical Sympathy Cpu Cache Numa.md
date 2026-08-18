@@ -30,4 +30,4 @@ Mechanical Sympathy Cpu Cache Numa
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

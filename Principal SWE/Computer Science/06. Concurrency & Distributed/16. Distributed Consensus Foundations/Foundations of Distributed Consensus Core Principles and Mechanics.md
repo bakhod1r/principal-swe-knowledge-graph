@@ -78,4 +78,4 @@ func (m *FoundationsofDistributedConsensusCorePrinciplesandMechanicsManager) Pro
 ## 🔗 References
 - ⬆️ Parent: [[Foundations of Distributed Consensus]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

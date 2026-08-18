@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Cache Invalidation (Caching)]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

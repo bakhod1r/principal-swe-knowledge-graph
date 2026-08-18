@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub GraphQL API V4 Query Optimization]]
 - 📚 Module: [[GitHub Developer Ecosystem & APIs]]
-- 🎓 Root: [[Principal SWE]]
+

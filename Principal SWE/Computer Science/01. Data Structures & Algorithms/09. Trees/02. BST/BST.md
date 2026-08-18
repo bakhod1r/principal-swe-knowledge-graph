@@ -30,4 +30,4 @@ BST
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

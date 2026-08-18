@@ -81,4 +81,4 @@ func (m *StranglerFigManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Strangler Fig]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

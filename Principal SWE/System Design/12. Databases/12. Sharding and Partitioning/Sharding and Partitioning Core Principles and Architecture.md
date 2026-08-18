@@ -81,4 +81,4 @@ func (m *ShardingandPartitioningManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Sharding and Partitioning]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

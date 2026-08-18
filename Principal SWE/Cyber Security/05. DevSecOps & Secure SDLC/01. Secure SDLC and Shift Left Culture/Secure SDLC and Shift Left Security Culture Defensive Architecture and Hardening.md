@@ -85,4 +85,4 @@ func (e *SecureSDLCandShiftLeftSecurityCultureDefensiveArchitectureandHardeningS
 ## 🔗 References
 - ⬆️ Parent: [[Secure SDLC and Shift Left Security Culture]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

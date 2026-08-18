@@ -33,4 +33,4 @@ Vibe Coding Philosophy and Spec Driven Architecture
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

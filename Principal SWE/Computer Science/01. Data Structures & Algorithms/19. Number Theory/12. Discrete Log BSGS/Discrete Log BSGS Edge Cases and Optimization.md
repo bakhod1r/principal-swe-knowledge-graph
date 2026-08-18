@@ -65,4 +65,4 @@ func optimizeDiscreteLogBSGS(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Discrete Log BSGS]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ Git Cherry Pick and Selective Commit Backporting
 ## 🔗 References
 - ⬆️ Parent: [[Branching & Merging Strategies]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

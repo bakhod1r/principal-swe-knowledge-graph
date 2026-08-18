@@ -30,4 +30,4 @@ Erasure Coding and Durability
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ Git Content Diffing and Patch Generation
 ## 🔗 References
 - ⬆️ Parent: [[Git Core Foundations & Architecture]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

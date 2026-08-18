@@ -81,4 +81,4 @@ func (s *SQLOptimizationTechniquesCorePrinciplesandArchitectureService) Execute(
 ## 🔗 References
 - ⬆️ Parent: [[SQL Optimization Techniques]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

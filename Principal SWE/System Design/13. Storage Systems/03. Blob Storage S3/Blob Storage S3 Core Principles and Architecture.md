@@ -81,4 +81,4 @@ func (m *BlobStorageS3Manager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Blob Storage S3]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

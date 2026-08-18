@@ -30,4 +30,4 @@ Resilience Testing
 
 ## 🔗 References
 - ⬆️ Parent: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -47,4 +47,4 @@ Build Systems
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

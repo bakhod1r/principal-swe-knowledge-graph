@@ -30,4 +30,4 @@ Cloud Network Architecture Vpc
 
 ## 🔗 References
 - ⬆️ Parent: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

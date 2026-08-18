@@ -32,4 +32,4 @@ Layer 4 vs Layer 7 Load Balancing Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Networking (Computer Science)]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeLinkCutTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Link Cut Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Version Control System Anti Patterns a
 ## 🔗 References
 - ⬆️ Parent: [[Version Control System]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

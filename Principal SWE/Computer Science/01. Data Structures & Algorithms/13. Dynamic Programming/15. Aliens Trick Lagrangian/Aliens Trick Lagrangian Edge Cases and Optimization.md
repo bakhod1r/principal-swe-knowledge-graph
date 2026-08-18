@@ -65,4 +65,4 @@ func optimizeAliensTrickLagrangian(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Aliens Trick Lagrangian]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

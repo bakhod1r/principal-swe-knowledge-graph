@@ -58,4 +58,4 @@ func ExecuteLargestRectangleinHistogramSinglePassONStack(data []int, target int)
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Stack (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

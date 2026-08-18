@@ -59,4 +59,4 @@ func NewPrimeSieves() *PrimeSieves {
 ## 🔗 References
 - ⬆️ Parent: [[Prime Sieves]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

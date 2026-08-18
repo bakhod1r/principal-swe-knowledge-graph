@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Reflog Disaster Recovery and Lost Commit Salvage]]
 - 📚 Module: [[History Manipulation & Recovery]]
-- 🎓 Root: [[Principal SWE]]
+

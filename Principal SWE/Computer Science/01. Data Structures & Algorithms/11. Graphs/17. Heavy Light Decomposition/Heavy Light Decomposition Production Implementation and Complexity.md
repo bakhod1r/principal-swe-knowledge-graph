@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Heavy Light Decomposition]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Reporting Core Principles and Models:
 ## 🔗 References
 - ⬆️ Parent: [[Reporting]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

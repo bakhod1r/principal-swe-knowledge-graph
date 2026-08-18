@@ -30,4 +30,4 @@ Planar Graph Faces
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Application Monitoring
 ## 🔗 References
 - ⬆️ Parent: [[Core DevOps Engineering]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

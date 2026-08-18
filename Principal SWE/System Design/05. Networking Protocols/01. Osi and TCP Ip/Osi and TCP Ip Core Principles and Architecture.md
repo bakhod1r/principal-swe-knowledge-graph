@@ -81,4 +81,4 @@ func (m *OsiandTCPIpManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Osi and TCP Ip]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

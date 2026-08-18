@@ -35,4 +35,4 @@ Ecosystem and Tooling Maturity
 
 ## 🔗 References
 - ⬆️ Parent: [[Choosing a Language & Polyglot]]
-- 🎓 Root: [[Principal SWE]]
+

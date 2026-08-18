@@ -81,4 +81,4 @@ func (m *SLOOwnershipManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[SLO Ownership]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

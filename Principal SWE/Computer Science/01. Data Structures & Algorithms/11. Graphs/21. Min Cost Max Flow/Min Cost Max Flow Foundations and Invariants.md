@@ -59,4 +59,4 @@ func NewMinCostMaxFlow() *MinCostMaxFlow {
 ## 🔗 References
 - ⬆️ Parent: [[Min Cost Max Flow]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

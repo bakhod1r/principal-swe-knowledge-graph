@@ -65,4 +65,4 @@ func optimizeLinearSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Linear Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

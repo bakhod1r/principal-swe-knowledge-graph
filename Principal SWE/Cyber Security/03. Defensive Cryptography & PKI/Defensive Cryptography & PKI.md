@@ -38,4 +38,4 @@ Defensive Cryptography & PKI
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

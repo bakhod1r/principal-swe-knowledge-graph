@@ -81,4 +81,4 @@ func (m *MonolithvsMicroservicesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Monolith vs Microservices]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

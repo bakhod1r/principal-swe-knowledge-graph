@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Tooling Anti Patterns and Common Pitfa
 ## 🔗 References
 - ⬆️ Parent: [[Tooling]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

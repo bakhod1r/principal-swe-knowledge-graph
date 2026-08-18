@@ -65,4 +65,4 @@ func optimizeConstraintSatisfaction(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Constraint Satisfaction]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *FiniteAutomataandRegularLanguagesProductionArchitectureandImplementatio
 ## 🔗 References
 - ⬆️ Parent: [[Finite Automata and Regular Languages]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

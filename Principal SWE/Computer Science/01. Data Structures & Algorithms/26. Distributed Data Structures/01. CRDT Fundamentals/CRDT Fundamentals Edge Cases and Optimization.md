@@ -65,4 +65,4 @@ func optimizeCRDTFundamentals(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[CRDT Fundamentals]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

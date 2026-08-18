@@ -81,4 +81,4 @@ func (s *InstallationandSetupProductionScaleandConfigurationService) Execute(ctx
 ## 🔗 References
 - ⬆️ Parent: [[Installation and Setup]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

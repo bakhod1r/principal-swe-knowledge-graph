@@ -30,4 +30,4 @@ Matrix Chain Multiplication
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

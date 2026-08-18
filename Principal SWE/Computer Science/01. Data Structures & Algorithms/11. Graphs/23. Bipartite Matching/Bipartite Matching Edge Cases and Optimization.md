@@ -65,4 +65,4 @@ func optimizeBipartiteMatching(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Bipartite Matching]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

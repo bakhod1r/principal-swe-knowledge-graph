@@ -30,4 +30,4 @@ Monte Carlo Las Vegas
 
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

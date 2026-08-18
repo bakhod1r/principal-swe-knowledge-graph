@@ -65,4 +65,4 @@ func optimizeCacheObliviousAlgorithms(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Oblivious Algorithms]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

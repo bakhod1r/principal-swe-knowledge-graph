@@ -35,4 +35,4 @@ CI-CD, Release Automation & Packaging
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Toolchain & Developer Experience]]
-- 🎓 Root: [[Principal SWE]]
+

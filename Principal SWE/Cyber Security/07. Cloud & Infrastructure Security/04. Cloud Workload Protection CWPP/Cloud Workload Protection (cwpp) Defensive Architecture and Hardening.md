@@ -85,4 +85,4 @@ func (e *CloudWorkloadProtectioncwppDefensiveArchitectureandHardeningSecurityEng
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Workload Protection (cwpp)]]
 - 📚 Module: [[Cloud & Infrastructure Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeSuffixTreeUkkonen(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Suffix Tree Ukkonen]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

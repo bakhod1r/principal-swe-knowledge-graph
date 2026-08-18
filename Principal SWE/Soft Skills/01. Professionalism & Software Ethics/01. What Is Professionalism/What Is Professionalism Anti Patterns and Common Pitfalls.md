@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for What Is Professionalism Anti Patterns 
 ## 🔗 References
 - ⬆️ Parent: [[What Is Professionalism]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

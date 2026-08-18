@@ -81,4 +81,4 @@ func (m *PublisherSubscriberManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Publisher Subscriber]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

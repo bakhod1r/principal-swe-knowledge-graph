@@ -46,4 +46,4 @@ Payments and Fintech
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -38,4 +38,4 @@ Devsecops & Secure SDLC
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

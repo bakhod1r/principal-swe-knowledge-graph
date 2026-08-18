@@ -30,4 +30,4 @@ Memoization vs Tabulation
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

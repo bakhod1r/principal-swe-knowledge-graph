@@ -65,4 +65,4 @@ func optimizeJohnsonAllPairs(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Johnson All Pairs]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Security (Kubernetes & Container Orchestration)
 ## 🔗 References
 - ⬆️ Parent: [[Kubernetes & Container Orchestration]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

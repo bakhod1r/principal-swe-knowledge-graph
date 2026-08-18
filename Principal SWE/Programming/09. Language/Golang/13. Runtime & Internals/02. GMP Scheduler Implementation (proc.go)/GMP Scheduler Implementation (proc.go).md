@@ -43,4 +43,4 @@ GMP Scheduler Implementation (proc.go)
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Context Switching and System Call Execution
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

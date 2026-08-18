@@ -30,4 +30,4 @@ N Queens
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

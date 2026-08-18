@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Metrics Pipelines]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

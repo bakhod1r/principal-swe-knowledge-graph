@@ -78,4 +78,4 @@ func (m *QUICTransportProtocolandHTTP3FailureModesandPerformancePitfallsManager)
 ## 🔗 References
 - ⬆️ Parent: [[QUIC Transport Protocol and HTTP 3]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

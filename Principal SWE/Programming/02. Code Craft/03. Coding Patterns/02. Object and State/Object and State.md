@@ -35,4 +35,4 @@ Object and State
 
 ## 🔗 References
 - ⬆️ Parent: [[Coding Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

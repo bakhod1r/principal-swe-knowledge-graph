@@ -30,4 +30,4 @@ Types of Caching
 
 ## 🔗 References
 - ⬆️ Parent: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

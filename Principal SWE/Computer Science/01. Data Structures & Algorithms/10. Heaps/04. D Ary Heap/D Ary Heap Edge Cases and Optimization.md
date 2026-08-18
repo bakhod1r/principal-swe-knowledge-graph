@@ -65,4 +65,4 @@ func optimizeDAryHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[D Ary Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

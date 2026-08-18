@@ -30,4 +30,4 @@ Sequences and Text CRDTs
 
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

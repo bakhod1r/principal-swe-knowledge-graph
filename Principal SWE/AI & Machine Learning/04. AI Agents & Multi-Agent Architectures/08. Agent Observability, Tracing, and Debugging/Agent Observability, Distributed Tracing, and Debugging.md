@@ -33,4 +33,4 @@ Agent Observability, Distributed Tracing, and Debugging
 ## 🔗 References
 - ⬆️ Parent: [[AI Agents & Multi Agent Architectures]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

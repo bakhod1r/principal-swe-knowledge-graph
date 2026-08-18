@@ -26,4 +26,4 @@ Introduction to DSA
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

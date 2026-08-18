@@ -34,4 +34,4 @@ Interactive Rebase (git Rebase I) and Commit Editing
 ## 🔗 References
 - ⬆️ Parent: [[History Manipulation & Recovery]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

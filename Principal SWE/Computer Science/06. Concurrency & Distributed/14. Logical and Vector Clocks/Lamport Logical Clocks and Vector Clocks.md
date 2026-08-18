@@ -32,4 +32,4 @@ Lamport Logical Clocks and Vector Clocks
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Materialized View
 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

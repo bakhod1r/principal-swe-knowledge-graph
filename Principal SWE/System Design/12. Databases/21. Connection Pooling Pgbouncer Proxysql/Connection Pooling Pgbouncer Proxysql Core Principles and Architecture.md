@@ -81,4 +81,4 @@ func (m *ConnectionPoolingPgbouncerProxysqlManager) Execute(ctx context.Context)
 ## 🔗 References
 - ⬆️ Parent: [[Connection Pooling Pgbouncer Proxysql]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

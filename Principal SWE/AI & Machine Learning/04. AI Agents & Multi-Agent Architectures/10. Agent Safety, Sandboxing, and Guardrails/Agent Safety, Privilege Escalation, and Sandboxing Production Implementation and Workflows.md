@@ -84,4 +84,4 @@ func (c *AgentSafetyPrivilegeEscalationandSandboxingProductionImplementationandW
 ## 🔗 References
 - ⬆️ Parent: [[Agent Safety, Privilege Escalation, and Sandboxing]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

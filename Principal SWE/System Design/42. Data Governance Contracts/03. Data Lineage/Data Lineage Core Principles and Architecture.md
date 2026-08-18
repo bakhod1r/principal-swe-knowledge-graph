@@ -81,4 +81,4 @@ func (m *DataLineageManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Lineage]]
 - 📚 Module: [[Data Governance Contracts]]
-- 🎓 Root: [[Principal SWE]]
+

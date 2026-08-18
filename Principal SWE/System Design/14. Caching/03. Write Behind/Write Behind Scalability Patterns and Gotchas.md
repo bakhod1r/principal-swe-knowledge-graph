@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Write Behind]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

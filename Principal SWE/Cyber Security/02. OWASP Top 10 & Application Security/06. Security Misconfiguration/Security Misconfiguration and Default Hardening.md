@@ -33,4 +33,4 @@ Security Misconfiguration and Default Hardening
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Application Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

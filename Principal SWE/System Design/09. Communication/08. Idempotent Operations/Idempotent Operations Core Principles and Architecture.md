@@ -81,4 +81,4 @@ func (m *IdempotentOperationsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Idempotent Operations]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

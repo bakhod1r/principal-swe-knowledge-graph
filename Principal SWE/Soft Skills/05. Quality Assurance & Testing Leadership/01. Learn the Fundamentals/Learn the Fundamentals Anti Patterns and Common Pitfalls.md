@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Learn the Fundamentals Anti Patterns a
 ## 🔗 References
 - ⬆️ Parent: [[Learn the Fundamentals]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

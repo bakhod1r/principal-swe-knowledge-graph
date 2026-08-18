@@ -33,4 +33,4 @@ Introduction (Elasticsearch & Distributed Search)
 ## 🔗 References
 - ⬆️ Parent: [[Elasticsearch & Distributed Search]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GRPCManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[GRPC]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

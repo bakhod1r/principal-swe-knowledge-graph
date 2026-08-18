@@ -65,4 +65,4 @@ func optimizeBinaryExponentiation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Exponentiation]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

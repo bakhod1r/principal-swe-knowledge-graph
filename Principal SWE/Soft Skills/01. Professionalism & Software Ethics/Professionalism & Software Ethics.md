@@ -48,4 +48,4 @@ Professionalism & Software Ethics
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

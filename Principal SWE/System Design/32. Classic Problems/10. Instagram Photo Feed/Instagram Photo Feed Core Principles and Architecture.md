@@ -81,4 +81,4 @@ func (m *InstagramPhotoFeedManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Instagram Photo Feed]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

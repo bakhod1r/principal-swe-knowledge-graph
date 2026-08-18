@@ -59,4 +59,4 @@ func NewLinearSearch() *LinearSearch {
 ## 🔗 References
 - ⬆️ Parent: [[Linear Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

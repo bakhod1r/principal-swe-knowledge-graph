@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Acceptance Testing Anti Patterns and C
 ## 🔗 References
 - ⬆️ Parent: [[Acceptance Testing]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

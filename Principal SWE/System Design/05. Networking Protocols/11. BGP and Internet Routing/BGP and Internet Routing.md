@@ -30,4 +30,4 @@ BGP and Internet Routing
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

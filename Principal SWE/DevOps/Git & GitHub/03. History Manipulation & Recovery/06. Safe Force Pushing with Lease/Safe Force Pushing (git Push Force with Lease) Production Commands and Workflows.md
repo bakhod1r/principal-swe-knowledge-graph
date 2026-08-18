@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Safe Force Pushing (git Push Force with Lease)]]
 - 📚 Module: [[History Manipulation & Recovery]]
-- 🎓 Root: [[Principal SWE]]
+

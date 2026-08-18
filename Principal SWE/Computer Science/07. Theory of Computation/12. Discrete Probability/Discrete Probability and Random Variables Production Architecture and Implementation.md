@@ -78,4 +78,4 @@ func (m *DiscreteProbabilityandRandomVariablesProductionArchitectureandImplement
 ## 🔗 References
 - ⬆️ Parent: [[Discrete Probability and Random Variables]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

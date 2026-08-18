@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Core Development Skills]]
 - 📚 Module: [[Cloudflare & Edge Computing]]
-- 🎓 Root: [[Principal SWE]]
+

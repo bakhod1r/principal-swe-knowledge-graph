@@ -65,4 +65,4 @@ func optimizeLocalitySensitiveHashing(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Locality Sensitive Hashing]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Introduction Practical Execution and F
 ## 🔗 References
 - ⬆️ Parent: [[Introduction (Product Management & Strategy)]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

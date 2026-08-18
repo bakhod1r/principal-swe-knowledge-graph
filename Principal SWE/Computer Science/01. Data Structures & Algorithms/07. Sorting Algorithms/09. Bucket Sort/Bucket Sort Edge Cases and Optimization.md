@@ -65,4 +65,4 @@ func optimizeBucketSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Bucket Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

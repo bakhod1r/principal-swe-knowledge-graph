@@ -65,4 +65,4 @@ func optimizeKirchhoffTheorem(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Kirchhoff Theorem]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

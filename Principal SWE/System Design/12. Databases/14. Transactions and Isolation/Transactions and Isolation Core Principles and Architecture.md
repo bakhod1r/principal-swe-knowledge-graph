@@ -81,4 +81,4 @@ func (m *TransactionsandIsolationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Transactions and Isolation]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *BranchPredictionMechanismsCorePrinciplesandMechanicsManager) Process(ct
 ## 🔗 References
 - ⬆️ Parent: [[Branch Prediction Mechanisms]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Write Ahead Logging (wal) and ARIES Crash Recovery
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

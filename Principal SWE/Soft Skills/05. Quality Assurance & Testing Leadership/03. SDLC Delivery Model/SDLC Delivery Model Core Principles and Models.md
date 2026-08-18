@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for SDLC Delivery Model Core Principles an
 ## 🔗 References
 - ⬆️ Parent: [[SDLC Delivery Model]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewMSTKruskalPrim() *MSTKruskalPrim {
 ## 🔗 References
 - ⬆️ Parent: [[MST Kruskal Prim]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

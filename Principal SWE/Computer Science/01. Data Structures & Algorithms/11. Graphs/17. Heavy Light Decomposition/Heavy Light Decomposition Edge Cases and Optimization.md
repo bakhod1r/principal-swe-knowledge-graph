@@ -65,4 +65,4 @@ func optimizeHeavyLightDecomposition(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Heavy Light Decomposition]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ GitHub Actions Secrets and Cloud Openid Connect (oidc)
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions & CI CD Automation]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

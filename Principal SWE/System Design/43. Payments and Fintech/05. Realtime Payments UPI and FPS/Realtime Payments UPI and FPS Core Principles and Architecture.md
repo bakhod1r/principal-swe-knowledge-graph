@@ -81,4 +81,4 @@ func (m *RealtimePaymentsUPIandFPSManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Realtime Payments UPI and FPS]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

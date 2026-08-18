@@ -59,4 +59,4 @@ func NewSetCoverApproximation() *SetCoverApproximation {
 ## 🔗 References
 - ⬆️ Parent: [[Set Cover Approximation]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

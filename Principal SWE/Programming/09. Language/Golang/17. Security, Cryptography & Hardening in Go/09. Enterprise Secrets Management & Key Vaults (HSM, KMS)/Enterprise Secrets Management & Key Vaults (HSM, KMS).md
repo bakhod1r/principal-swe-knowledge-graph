@@ -35,4 +35,4 @@ Enterprise Secrets Management & Key Vaults (HSM, KMS)
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

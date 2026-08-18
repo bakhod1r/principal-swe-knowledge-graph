@@ -84,4 +84,4 @@ func (c *ClaudeCodePermissionControlsandCommandSandboxingFailureModesandOptimiza
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code Permission Controls and Command Sandboxing]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *DataResidencyManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Residency]]
 - 📚 Module: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

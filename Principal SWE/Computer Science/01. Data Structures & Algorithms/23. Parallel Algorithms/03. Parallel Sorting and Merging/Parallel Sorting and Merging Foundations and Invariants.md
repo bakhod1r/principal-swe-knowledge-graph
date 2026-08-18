@@ -59,4 +59,4 @@ func NewParallelSortingandMerging() *ParallelSortingandMerging {
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Sorting and Merging]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

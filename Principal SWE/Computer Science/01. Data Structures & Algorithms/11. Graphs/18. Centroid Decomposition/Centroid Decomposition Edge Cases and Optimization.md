@@ -65,4 +65,4 @@ func optimizeCentroidDecomposition(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Centroid Decomposition]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

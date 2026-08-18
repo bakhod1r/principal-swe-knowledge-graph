@@ -30,4 +30,4 @@ Reshaded Framework
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

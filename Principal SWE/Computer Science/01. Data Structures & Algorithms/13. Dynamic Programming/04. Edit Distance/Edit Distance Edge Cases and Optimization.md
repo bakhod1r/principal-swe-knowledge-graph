@@ -65,4 +65,4 @@ func optimizeEditDistance(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Edit Distance]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

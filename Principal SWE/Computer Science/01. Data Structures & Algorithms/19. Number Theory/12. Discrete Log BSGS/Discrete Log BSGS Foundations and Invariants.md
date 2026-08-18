@@ -59,4 +59,4 @@ func NewDiscreteLogBSGS() *DiscreteLogBSGS {
 ## 🔗 References
 - ⬆️ Parent: [[Discrete Log BSGS]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

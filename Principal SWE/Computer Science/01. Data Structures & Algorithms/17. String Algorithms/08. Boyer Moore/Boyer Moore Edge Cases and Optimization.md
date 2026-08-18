@@ -65,4 +65,4 @@ func optimizeBoyerMoore(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Boyer Moore]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

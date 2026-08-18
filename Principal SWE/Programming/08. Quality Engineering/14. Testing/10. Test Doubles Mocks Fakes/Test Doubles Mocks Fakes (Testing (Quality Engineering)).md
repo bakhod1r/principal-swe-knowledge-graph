@@ -27,4 +27,4 @@ Test Doubles Mocks Fakes (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

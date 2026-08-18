@@ -65,4 +65,4 @@ func optimizeAmortizedAnalysis(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Amortized Analysis]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeSetCoverApproximation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Set Cover Approximation]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

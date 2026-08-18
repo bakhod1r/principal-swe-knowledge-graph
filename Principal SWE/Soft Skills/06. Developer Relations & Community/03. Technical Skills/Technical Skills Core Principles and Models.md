@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Technical Skills Core Principles and M
 ## 🔗 References
 - ⬆️ Parent: [[Technical Skills]]
 - 📚 Module: [[Developer Relations & Community]]
-- 🎓 Root: [[Principal SWE]]
+

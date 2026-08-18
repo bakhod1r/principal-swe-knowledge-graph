@@ -30,4 +30,4 @@ Thread Per Core Shared Nothing
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

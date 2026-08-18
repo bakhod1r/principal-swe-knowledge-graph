@@ -81,4 +81,4 @@ func (m *GoogleDocsCollabEditorManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Google Docs Collab Editor]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

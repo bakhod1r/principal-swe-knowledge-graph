@@ -33,4 +33,4 @@ Content Optimization
 ## 🔗 References
 - ⬆️ Parent: [[Technical Writing & Documentation]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

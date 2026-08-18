@@ -33,4 +33,4 @@ Software Supply Chain Security and SBOM
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops & Secure SDLC]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -27,4 +27,4 @@ Producer Consumer (Concurrency Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

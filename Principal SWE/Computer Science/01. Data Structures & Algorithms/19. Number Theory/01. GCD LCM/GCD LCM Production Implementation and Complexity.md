@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[GCD LCM]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

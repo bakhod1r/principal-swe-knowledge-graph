@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Content Research Anti Patterns and Com
 ## 🔗 References
 - ⬆️ Parent: [[Content Research]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

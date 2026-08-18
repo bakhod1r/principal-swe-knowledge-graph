@@ -65,4 +65,4 @@ func optimizeKaratsuba(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Karatsuba]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

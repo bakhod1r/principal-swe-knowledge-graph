@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Communication Skills Practical Executi
 ## 🔗 References
 - ⬆️ Parent: [[Communication Skills]]
 - 📚 Module: [[Developer Relations & Community]]
-- 🎓 Root: [[Principal SWE]]
+

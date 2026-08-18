@@ -65,4 +65,4 @@ func optimizePseudoCode(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Pseudo Code]]
 - 📚 Module: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

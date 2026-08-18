@@ -81,4 +81,4 @@ func (m *NumbersEveryEngineerShouldKnowManager) Execute(ctx context.Context) err
 ## 🔗 References
 - ⬆️ Parent: [[Numbers Every Engineer Should Know]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

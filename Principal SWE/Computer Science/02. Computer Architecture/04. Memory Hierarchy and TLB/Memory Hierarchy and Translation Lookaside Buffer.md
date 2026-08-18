@@ -32,4 +32,4 @@ Memory Hierarchy and Translation Lookaside Buffer
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

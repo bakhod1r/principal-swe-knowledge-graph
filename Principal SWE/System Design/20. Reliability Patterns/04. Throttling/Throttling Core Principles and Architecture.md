@@ -81,4 +81,4 @@ func (m *ThrottlingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Throttling]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

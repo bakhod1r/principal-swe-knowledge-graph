@@ -85,4 +85,4 @@ func (e *StaticApplicationSecurityTestingsastDefensiveArchitectureandHardeningSe
 ## 🔗 References
 - ⬆️ Parent: [[Static Application Security Testing (sast)]]
 - 📚 Module: [[Devsecops & Secure SDLC]]
-- 🎓 Root: [[Principal SWE]]
+

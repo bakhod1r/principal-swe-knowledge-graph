@@ -44,4 +44,4 @@ Software Architect Leadership & Governance
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

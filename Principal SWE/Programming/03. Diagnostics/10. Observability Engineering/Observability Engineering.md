@@ -33,4 +33,4 @@ Observability Engineering
 
 ## 🔗 References
 - ⬆️ Parent: [[Diagnostics]]
-- 🎓 Root: [[Principal SWE]]
+

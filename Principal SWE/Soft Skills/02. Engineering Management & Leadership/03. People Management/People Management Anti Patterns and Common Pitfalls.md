@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for People Management Anti Patterns and Co
 ## 🔗 References
 - ⬆️ Parent: [[People Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

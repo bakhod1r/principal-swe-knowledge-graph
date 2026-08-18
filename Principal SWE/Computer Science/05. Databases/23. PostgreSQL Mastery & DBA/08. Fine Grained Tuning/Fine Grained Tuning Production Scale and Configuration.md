@@ -81,4 +81,4 @@ func (s *FineGrainedTuningProductionScaleandConfigurationService) Execute(ctx co
 ## 🔗 References
 - ⬆️ Parent: [[Fine Grained Tuning]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

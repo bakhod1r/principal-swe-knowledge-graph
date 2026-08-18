@@ -59,4 +59,4 @@ func NewBinarySearchonAnswer() *BinarySearchonAnswer {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Search on Answer]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

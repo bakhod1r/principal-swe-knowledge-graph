@@ -81,4 +81,4 @@ func (m *NumberTablesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Number Tables]]
 - 📚 Module: [[Back of Envelope]]
-- 🎓 Root: [[Principal SWE]]
+

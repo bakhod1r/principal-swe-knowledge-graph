@@ -34,4 +34,4 @@ Squash Merging and Atomic Commit Curation
 ## 🔗 References
 - ⬆️ Parent: [[Branching & Merging Strategies]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

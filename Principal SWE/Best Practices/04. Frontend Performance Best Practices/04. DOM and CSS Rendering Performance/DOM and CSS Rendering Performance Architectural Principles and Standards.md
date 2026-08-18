@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[DOM and CSS Rendering Performance]]
 - 📚 Module: [[Frontend Performance Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

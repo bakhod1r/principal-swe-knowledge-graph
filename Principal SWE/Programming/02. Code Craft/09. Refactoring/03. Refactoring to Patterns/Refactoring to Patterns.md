@@ -35,4 +35,4 @@ Refactoring to Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Refactoring]]
-- 🎓 Root: [[Principal SWE]]
+

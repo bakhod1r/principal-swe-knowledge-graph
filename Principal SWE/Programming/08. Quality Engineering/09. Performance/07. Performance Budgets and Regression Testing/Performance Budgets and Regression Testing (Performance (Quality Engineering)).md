@@ -27,4 +27,4 @@ Performance Budgets and Regression Testing (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

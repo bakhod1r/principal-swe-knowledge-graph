@@ -33,4 +33,4 @@ PR Context, ADR References, and Documentation
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Excellence]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

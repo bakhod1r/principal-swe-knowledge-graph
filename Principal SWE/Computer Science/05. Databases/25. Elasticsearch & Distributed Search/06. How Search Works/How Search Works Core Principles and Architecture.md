@@ -81,4 +81,4 @@ func (s *HowSearchWorksCorePrinciplesandArchitectureService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[How Search Works]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

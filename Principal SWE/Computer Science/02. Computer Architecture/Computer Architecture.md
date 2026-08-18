@@ -43,4 +43,4 @@ Computer Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

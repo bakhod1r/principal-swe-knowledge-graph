@@ -59,4 +59,4 @@ func NewRepresentation() *Representation {
 ## 🔗 References
 - ⬆️ Parent: [[Representation]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Container and Overlay Networking
 
 ## 🔗 References
 - ⬆️ Parent: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

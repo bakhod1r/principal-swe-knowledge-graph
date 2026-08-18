@@ -85,4 +85,4 @@ func (e *NetworkSecurityProtocolsandArchitectureDefensiveArchitectureandHardenin
 ## 🔗 References
 - ⬆️ Parent: [[Network Security Protocols and Architecture]]
 - 📚 Module: [[Core Cyber Security Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Core Web Vitals Optimization (lcp, Inp, Cls)
 ## 🔗 References
 - ⬆️ Parent: [[Frontend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

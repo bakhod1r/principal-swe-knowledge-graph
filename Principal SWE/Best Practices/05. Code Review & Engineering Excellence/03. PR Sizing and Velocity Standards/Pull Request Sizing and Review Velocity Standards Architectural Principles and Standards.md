@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[Pull Request Sizing and Review Velocity Standards]]
 - 📚 Module: [[Code Review & Engineering Excellence]]
-- 🎓 Root: [[Principal SWE]]
+

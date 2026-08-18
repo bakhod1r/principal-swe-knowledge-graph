@@ -65,4 +65,4 @@ func optimizeRedBlack(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Red Black]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

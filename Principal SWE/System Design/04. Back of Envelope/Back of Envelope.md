@@ -28,4 +28,4 @@ Back of Envelope
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -27,4 +27,4 @@ Anti Patterns (Parallel Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Programming]]
-- 🎓 Root: [[Principal SWE]]
+

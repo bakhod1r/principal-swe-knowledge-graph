@@ -30,4 +30,4 @@ Models PRAM Work Span
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

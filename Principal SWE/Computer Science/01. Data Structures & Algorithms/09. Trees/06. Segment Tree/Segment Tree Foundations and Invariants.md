@@ -59,4 +59,4 @@ func NewSegmentTree() *SegmentTree {
 ## 🔗 References
 - ⬆️ Parent: [[Segment Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

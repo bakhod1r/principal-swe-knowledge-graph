@@ -59,4 +59,4 @@ func NewTrie() *Trie {
 ## 🔗 References
 - ⬆️ Parent: [[Trie]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

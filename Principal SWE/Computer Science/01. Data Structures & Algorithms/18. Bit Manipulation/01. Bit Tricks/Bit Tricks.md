@@ -30,4 +30,4 @@ Bit Tricks
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

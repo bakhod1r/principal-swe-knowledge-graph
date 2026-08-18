@@ -84,4 +84,4 @@ func (c *AgentObservabilityDistributedTracingandDebuggingFoundationsandArchitect
 ## 🔗 References
 - ⬆️ Parent: [[Agent Observability, Distributed Tracing, and Debugging]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

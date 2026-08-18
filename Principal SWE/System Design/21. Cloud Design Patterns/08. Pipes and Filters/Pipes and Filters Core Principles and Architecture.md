@@ -81,4 +81,4 @@ func (m *PipesandFiltersManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Pipes and Filters]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

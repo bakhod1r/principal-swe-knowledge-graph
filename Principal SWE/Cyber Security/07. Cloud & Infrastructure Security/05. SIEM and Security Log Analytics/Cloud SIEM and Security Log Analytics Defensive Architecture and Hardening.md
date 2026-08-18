@@ -85,4 +85,4 @@ func (e *CloudSIEMandSecurityLogAnalyticsDefensiveArchitectureandHardeningSecuri
 ## 🔗 References
 - ⬆️ Parent: [[Cloud SIEM and Security Log Analytics]]
 - 📚 Module: [[Cloud & Infrastructure Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *QuadtreesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Quadtrees]]
 - 📚 Module: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Large File Storage (git Lfs) Architecture]]
 - 📚 Module: [[Advanced Git Plumbing & Tooling]]
-- 🎓 Root: [[Principal SWE]]
+

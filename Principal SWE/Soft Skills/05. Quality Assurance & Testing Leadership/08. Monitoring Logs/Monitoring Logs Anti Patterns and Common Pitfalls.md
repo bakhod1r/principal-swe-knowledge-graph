@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Monitoring Logs Anti Patterns and Comm
 ## 🔗 References
 - ⬆️ Parent: [[Monitoring Logs]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *StatelessDesignManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Stateless Design]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

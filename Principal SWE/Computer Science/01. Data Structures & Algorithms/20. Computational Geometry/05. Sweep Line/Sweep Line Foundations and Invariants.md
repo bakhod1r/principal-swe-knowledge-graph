@@ -59,4 +59,4 @@ func NewSweepLine() *SweepLine {
 ## 🔗 References
 - ⬆️ Parent: [[Sweep Line]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeArticulationPointsBridges(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Articulation Points Bridges]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

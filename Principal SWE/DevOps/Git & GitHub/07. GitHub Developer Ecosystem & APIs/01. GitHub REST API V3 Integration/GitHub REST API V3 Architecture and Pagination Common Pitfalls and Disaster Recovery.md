@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub REST API V3 Architecture and Pagination]]
 - 📚 Module: [[GitHub Developer Ecosystem & APIs]]
-- 🎓 Root: [[Principal SWE]]
+

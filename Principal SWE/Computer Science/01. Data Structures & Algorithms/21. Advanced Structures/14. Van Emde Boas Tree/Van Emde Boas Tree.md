@@ -30,4 +30,4 @@ Van Emde Boas Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

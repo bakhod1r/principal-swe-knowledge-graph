@@ -65,4 +65,4 @@ func optimizeForkJoinandWorkStealing(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Fork Join and Work Stealing]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

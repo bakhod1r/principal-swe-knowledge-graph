@@ -81,4 +81,4 @@ func (m *ZeroTrustArchitectureManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Zero Trust Architecture]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

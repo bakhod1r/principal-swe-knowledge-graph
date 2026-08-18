@@ -30,4 +30,4 @@ Two Three Four Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

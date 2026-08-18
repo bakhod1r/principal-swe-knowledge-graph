@@ -81,4 +81,4 @@ func (m *SyntheticMonitoringandRumManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Synthetic Monitoring and Rum]]
 - 📚 Module: [[Monitoring]]
-- 🎓 Root: [[Principal SWE]]
+

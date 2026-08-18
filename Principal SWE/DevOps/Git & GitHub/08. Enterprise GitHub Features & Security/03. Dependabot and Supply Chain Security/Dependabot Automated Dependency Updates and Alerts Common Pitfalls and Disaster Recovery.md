@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Dependabot Automated Dependency Updates and Alerts]]
 - 📚 Module: [[Enterprise GitHub Features & Security]]
-- 🎓 Root: [[Principal SWE]]
+

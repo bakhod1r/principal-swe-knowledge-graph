@@ -81,4 +81,4 @@ func (m *DataWarehousevsLakeManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Warehouse vs Lake]]
 - 📚 Module: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

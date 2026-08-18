@@ -65,4 +65,4 @@ func optimizeNTT(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[NTT]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

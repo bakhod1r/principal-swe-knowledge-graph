@@ -30,4 +30,4 @@ Optimistic vs Pessimistic Locking
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

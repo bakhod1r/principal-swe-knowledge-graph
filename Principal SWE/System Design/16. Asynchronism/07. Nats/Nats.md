@@ -30,4 +30,4 @@ Nats
 
 ## 🔗 References
 - ⬆️ Parent: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

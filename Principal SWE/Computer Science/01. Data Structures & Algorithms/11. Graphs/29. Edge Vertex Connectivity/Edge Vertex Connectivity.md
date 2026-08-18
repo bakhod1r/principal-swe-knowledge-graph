@@ -30,4 +30,4 @@ Edge Vertex Connectivity
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

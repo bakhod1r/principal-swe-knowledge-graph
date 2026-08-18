@@ -30,4 +30,4 @@ How to Approach
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

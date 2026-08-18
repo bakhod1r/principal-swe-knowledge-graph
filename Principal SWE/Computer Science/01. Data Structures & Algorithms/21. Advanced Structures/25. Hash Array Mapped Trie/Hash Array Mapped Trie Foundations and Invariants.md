@@ -59,4 +59,4 @@ func NewHashArrayMappedTrie() *HashArrayMappedTrie {
 ## 🔗 References
 - ⬆️ Parent: [[Hash Array Mapped Trie]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

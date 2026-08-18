@@ -27,4 +27,4 @@ Error Handling (Async)
 
 ## 🔗 References
 - ⬆️ Parent: [[Async]]
-- 🎓 Root: [[Principal SWE]]
+

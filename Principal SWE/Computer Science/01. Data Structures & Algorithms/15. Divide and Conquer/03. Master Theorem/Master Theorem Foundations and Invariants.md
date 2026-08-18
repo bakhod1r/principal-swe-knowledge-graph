@@ -59,4 +59,4 @@ func NewMasterTheorem() *MasterTheorem {
 ## 🔗 References
 - ⬆️ Parent: [[Master Theorem]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

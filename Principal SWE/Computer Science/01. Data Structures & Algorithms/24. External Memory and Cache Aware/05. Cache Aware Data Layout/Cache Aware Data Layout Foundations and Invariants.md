@@ -59,4 +59,4 @@ func NewCacheAwareDataLayout() *CacheAwareDataLayout {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Aware Data Layout]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

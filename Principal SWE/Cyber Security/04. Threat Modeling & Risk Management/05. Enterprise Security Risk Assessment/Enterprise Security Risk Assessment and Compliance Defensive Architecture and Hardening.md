@@ -85,4 +85,4 @@ func (e *EnterpriseSecurityRiskAssessmentandComplianceDefensiveArchitectureandHa
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Security Risk Assessment and Compliance]]
 - 📚 Module: [[Threat Modeling & Risk Management]]
-- 🎓 Root: [[Principal SWE]]
+

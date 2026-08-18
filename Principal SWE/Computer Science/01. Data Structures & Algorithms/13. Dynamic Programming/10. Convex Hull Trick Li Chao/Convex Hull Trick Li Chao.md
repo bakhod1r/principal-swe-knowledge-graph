@@ -30,4 +30,4 @@ Convex Hull Trick Li Chao
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

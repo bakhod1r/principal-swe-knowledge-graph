@@ -30,4 +30,4 @@ Aliens Trick Lagrangian
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

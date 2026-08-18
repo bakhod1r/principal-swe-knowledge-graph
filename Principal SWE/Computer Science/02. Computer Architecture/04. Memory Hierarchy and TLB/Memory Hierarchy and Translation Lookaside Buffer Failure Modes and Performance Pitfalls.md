@@ -78,4 +78,4 @@ func (m *MemoryHierarchyandTranslationLookasideBufferFailureModesandPerformanceP
 ## 🔗 References
 - ⬆️ Parent: [[Memory Hierarchy and Translation Lookaside Buffer]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

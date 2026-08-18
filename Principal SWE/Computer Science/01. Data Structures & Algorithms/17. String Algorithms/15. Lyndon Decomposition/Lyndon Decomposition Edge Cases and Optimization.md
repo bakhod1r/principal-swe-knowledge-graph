@@ -65,4 +65,4 @@ func optimizeLyndonDecomposition(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Lyndon Decomposition]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

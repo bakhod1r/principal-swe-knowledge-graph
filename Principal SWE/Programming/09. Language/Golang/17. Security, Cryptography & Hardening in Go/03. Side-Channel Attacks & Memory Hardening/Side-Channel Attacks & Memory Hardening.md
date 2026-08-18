@@ -33,4 +33,4 @@ Side-Channel Attacks & Memory Hardening
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

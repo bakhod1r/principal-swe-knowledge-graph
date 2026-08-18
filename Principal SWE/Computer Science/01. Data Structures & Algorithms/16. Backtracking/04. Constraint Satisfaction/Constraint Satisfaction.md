@@ -30,4 +30,4 @@ Constraint Satisfaction
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

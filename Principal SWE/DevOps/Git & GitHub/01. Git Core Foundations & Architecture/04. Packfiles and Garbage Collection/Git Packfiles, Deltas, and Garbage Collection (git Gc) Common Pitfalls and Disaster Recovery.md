@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Packfiles, Deltas, and Garbage Collection (git Gc)]]
 - 📚 Module: [[Git Core Foundations & Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

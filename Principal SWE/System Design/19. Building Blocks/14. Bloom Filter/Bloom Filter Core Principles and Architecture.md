@@ -81,4 +81,4 @@ func (m *BloomFilterManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Bloom Filter (Building Blocks)]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

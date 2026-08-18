@@ -30,4 +30,4 @@ Smawk Monge Matrix
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

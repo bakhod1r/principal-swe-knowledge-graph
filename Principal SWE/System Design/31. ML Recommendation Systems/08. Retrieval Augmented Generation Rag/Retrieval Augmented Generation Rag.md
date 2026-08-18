@@ -30,4 +30,4 @@ Retrieval Augmented Generation Rag
 
 ## 🔗 References
 - ⬆️ Parent: [[ML Recommendation Systems]]
-- 🎓 Root: [[Principal SWE]]
+

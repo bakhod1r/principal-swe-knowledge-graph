@@ -26,4 +26,4 @@ Why Are Data Structures Important
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

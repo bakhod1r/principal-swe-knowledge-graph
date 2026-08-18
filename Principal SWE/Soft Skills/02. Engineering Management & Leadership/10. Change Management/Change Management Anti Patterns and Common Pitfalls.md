@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Change Management Anti Patterns and Co
 ## 🔗 References
 - ⬆️ Parent: [[Change Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

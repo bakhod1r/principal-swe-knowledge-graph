@@ -33,4 +33,4 @@ Key Management Services (kms) and Hardware Security Modules
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Headless Testing Anti Patterns and Com
 ## 🔗 References
 - ⬆️ Parent: [[Headless Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

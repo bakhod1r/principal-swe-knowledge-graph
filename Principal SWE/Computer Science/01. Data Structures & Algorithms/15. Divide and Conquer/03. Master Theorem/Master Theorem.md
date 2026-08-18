@@ -30,4 +30,4 @@ Master Theorem
 
 ## 🔗 References
 - ⬆️ Parent: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

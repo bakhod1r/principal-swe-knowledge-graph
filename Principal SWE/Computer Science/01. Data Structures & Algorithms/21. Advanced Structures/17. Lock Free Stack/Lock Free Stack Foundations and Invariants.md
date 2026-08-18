@@ -59,4 +59,4 @@ func NewLockFreeStack() *LockFreeStack {
 ## 🔗 References
 - ⬆️ Parent: [[Lock Free Stack]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

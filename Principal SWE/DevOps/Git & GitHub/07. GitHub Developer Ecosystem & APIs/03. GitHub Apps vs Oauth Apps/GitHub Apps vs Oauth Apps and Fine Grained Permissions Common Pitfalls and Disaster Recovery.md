@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Apps vs Oauth Apps and Fine Grained Permissions]]
 - 📚 Module: [[GitHub Developer Ecosystem & APIs]]
-- 🎓 Root: [[Principal SWE]]
+

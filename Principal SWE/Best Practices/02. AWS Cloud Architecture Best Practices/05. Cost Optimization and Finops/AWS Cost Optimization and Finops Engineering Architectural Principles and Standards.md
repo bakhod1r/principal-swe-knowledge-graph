@@ -62,4 +62,4 @@ standard:
 ## 🔗 References
 - ⬆️ Parent: [[AWS Cost Optimization and Finops Engineering]]
 - 📚 Module: [[AWS Cloud Architecture Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

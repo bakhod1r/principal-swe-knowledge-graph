@@ -81,4 +81,4 @@ func (m *FollowtheSunManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Follow the Sun]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

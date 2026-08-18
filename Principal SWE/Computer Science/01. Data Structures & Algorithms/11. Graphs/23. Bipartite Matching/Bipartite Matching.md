@@ -30,4 +30,4 @@ Bipartite Matching
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

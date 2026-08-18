@@ -65,4 +65,4 @@ func optimizeLCSLIS(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[LCS LIS]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

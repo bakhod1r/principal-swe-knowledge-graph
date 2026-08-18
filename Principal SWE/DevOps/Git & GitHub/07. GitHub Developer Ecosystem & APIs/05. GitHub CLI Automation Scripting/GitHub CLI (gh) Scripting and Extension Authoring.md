@@ -34,4 +34,4 @@ GitHub CLI (gh) Scripting and Extension Authoring
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Developer Ecosystem & APIs]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

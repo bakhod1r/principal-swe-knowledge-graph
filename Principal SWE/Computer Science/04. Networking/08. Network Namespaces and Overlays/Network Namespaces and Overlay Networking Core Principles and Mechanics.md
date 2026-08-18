@@ -78,4 +78,4 @@ func (m *NetworkNamespacesandOverlayNetworkingCorePrinciplesandMechanicsManager)
 ## 🔗 References
 - ⬆️ Parent: [[Network Namespaces and Overlay Networking]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

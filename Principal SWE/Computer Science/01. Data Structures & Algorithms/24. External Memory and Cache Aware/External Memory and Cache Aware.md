@@ -34,4 +34,4 @@ External Memory and Cache Aware
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

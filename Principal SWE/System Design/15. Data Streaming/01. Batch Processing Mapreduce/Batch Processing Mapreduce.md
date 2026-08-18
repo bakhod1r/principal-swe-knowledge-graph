@@ -30,4 +30,4 @@ Batch Processing Mapreduce
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

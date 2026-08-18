@@ -59,4 +59,4 @@ func NewMobiusInversion() *MobiusInversion {
 ## 🔗 References
 - ⬆️ Parent: [[Mobius Inversion]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

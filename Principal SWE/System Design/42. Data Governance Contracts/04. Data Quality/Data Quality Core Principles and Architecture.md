@@ -81,4 +81,4 @@ func (m *DataQualityManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Quality]]
 - 📚 Module: [[Data Governance Contracts]]
-- 🎓 Root: [[Principal SWE]]
+

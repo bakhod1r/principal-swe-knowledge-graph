@@ -81,4 +81,4 @@ func (s *PubSubProductionScaleandConfigurationService) Execute(ctx context.Conte
 ## 🔗 References
 - ⬆️ Parent: [[Pub Sub]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

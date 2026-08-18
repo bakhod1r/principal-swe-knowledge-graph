@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Webhook Delivery and Hmac SHA 256 Signatures]]
 - 📚 Module: [[GitHub Developer Ecosystem & APIs]]
-- 🎓 Root: [[Principal SWE]]
+

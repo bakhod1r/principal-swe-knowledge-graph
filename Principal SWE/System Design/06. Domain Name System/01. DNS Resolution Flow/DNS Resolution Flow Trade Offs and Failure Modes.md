@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[DNS Resolution Flow]]
 - 📚 Module: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

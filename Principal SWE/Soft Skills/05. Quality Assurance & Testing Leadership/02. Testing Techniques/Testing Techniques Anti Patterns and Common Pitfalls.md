@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Testing Techniques Anti Patterns and C
 ## 🔗 References
 - ⬆️ Parent: [[Testing Techniques]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

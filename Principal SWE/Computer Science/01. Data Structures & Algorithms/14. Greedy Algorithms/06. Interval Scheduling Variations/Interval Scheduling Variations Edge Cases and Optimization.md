@@ -65,4 +65,4 @@ func optimizeIntervalSchedulingVariations(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Interval Scheduling Variations]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (s *WorkingwithRedisFailureModesandEdgeCasesService) Execute(ctx context.Co
 ## 🔗 References
 - ⬆️ Parent: [[Working with Redis]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

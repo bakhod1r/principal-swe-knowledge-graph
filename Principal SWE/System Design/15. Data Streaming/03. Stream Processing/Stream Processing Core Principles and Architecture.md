@@ -81,4 +81,4 @@ func (m *StreamProcessingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Stream Processing]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

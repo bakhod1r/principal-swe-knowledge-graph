@@ -33,4 +33,4 @@ Programming and Numerical Computing Foundations
 ## 🔗 References
 - ⬆️ Parent: [[Machine Learning & Deep Learning Foundations]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

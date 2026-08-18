@@ -30,4 +30,4 @@ Tenant Onboarding and Config
 
 ## 🔗 References
 - ⬆️ Parent: [[Multi Tenancy SaaS]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -48,4 +48,4 @@ Quality Assurance & Testing Leadership
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

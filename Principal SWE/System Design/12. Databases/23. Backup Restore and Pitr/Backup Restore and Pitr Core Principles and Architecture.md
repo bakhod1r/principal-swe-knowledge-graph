@@ -81,4 +81,4 @@ func (m *BackupRestoreandPitrManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Backup Restore and Pitr]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

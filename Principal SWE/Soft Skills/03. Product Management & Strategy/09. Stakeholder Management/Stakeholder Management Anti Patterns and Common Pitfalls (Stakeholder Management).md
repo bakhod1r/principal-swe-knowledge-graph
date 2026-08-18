@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Stakeholder Management Anti Patterns a
 ## 🔗 References
 - ⬆️ Parent: [[Stakeholder Management (Product Management & Strategy)]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

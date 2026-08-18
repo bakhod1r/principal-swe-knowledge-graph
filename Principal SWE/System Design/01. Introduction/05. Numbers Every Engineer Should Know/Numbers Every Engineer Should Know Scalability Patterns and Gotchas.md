@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Numbers Every Engineer Should Know]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

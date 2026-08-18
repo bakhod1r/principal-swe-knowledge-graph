@@ -30,4 +30,4 @@ Pipes and Filters
 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

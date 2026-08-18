@@ -59,4 +59,4 @@ func NewEditDistance() *EditDistance {
 ## 🔗 References
 - ⬆️ Parent: [[Edit Distance]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

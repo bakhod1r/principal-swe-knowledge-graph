@@ -41,4 +41,4 @@ Coupling and Cohesion
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Principles]]
-- 🎓 Root: [[Principal SWE]]
+

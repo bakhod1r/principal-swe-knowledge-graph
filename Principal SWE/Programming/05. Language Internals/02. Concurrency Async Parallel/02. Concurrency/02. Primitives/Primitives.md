@@ -35,4 +35,4 @@ Primitives
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-- 🎓 Root: [[Principal SWE]]
+

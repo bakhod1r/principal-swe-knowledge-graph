@@ -81,4 +81,4 @@ func (m *YoutubeVideoPlatformManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Youtube Video Platform]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

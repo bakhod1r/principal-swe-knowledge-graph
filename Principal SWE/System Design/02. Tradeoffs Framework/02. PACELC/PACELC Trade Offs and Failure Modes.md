@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[PACELC]]
 - 📚 Module: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

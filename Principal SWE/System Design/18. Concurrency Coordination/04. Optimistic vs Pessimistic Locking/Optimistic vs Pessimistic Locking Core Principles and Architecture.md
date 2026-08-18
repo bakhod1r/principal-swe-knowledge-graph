@@ -81,4 +81,4 @@ func (m *OptimisticvsPessimisticLockingManager) Execute(ctx context.Context) err
 ## 🔗 References
 - ⬆️ Parent: [[Optimistic vs Pessimistic Locking]]
 - 📚 Module: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

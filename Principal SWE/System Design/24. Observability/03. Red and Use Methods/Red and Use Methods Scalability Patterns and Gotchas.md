@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Red and Use Methods]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

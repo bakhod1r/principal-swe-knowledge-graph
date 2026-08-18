@@ -81,4 +81,4 @@ func (m *S3ObjectStorageManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[S3 Object Storage]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

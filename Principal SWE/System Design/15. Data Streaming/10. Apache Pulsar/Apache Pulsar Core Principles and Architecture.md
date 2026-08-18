@@ -81,4 +81,4 @@ func (m *ApachePulsarManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Apache Pulsar]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

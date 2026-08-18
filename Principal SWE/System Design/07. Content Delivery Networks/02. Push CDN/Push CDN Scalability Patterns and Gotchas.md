@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Push CDN]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

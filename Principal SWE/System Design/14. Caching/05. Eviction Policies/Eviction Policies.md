@@ -30,4 +30,4 @@ Eviction Policies
 
 ## 🔗 References
 - ⬆️ Parent: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

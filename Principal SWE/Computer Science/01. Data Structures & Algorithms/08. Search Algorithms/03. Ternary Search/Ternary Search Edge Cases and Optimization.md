@@ -65,4 +65,4 @@ func optimizeTernarySearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Ternary Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

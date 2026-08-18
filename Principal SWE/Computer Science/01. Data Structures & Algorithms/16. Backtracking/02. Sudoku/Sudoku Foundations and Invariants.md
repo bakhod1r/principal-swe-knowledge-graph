@@ -59,4 +59,4 @@ func NewSudoku() *Sudoku {
 ## 🔗 References
 - ⬆️ Parent: [[Sudoku]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

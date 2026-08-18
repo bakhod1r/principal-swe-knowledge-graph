@@ -84,4 +84,4 @@ func (c *VectorDatabasesandHNSWIndexArchitecturesProductionImplementationandWork
 ## 🔗 References
 - ⬆️ Parent: [[Vector Databases and HNSW Index Architectures]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

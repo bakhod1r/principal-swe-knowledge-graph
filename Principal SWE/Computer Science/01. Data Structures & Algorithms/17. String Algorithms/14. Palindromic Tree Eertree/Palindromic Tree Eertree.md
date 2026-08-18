@@ -30,4 +30,4 @@ Palindromic Tree Eertree
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

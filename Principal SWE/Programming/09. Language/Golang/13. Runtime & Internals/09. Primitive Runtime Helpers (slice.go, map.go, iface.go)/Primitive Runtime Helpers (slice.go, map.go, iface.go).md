@@ -37,4 +37,4 @@ Primitive Runtime Helpers (slice.go, map.go, iface.go)
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

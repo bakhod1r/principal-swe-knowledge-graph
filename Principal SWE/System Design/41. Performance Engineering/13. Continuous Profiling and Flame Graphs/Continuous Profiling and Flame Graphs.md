@@ -30,4 +30,4 @@ Continuous Profiling and Flame Graphs
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

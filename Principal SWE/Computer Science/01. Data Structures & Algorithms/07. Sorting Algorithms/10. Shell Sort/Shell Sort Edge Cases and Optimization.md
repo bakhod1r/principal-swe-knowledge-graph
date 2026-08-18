@@ -65,4 +65,4 @@ func optimizeShellSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Shell Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

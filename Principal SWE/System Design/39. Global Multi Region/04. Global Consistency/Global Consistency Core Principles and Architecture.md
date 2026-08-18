@@ -81,4 +81,4 @@ func (m *GlobalConsistencyManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Global Consistency]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

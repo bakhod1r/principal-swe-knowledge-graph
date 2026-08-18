@@ -58,4 +58,4 @@ func ExecuteJumpGameVIDPOptimizationviaMonotonicQueue(data []int, target int) bo
 ## 🔗 References
 - ⬆️ Parent: [[Monotonic Queue (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

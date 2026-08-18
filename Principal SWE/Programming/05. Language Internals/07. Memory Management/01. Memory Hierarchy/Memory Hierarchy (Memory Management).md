@@ -27,4 +27,4 @@ Memory Hierarchy (Memory Management)
 
 ## 🔗 References
 - ⬆️ Parent: [[Memory Management]]
-- 🎓 Root: [[Principal SWE]]
+

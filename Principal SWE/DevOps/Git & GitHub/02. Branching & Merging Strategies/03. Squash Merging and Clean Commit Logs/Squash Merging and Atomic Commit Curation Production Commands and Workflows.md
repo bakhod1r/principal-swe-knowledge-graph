@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Squash Merging and Atomic Commit Curation]]
 - 📚 Module: [[Branching & Merging Strategies]]
-- 🎓 Root: [[Principal SWE]]
+

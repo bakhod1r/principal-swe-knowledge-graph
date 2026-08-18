@@ -59,4 +59,4 @@ func NewIntroductiontoDSA() *IntroductiontoDSA {
 ## 🔗 References
 - ⬆️ Parent: [[Introduction to DSA Overview]]
 - 📚 Module: [[Introduction to DSA]]
-- 🎓 Root: [[Principal SWE]]
+

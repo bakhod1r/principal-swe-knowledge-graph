@@ -37,4 +37,4 @@ Evaluation and Execution Models
 
 ## 🔗 References
 - ⬆️ Parent: [[Language Internals]]
-- 🎓 Root: [[Principal SWE]]
+

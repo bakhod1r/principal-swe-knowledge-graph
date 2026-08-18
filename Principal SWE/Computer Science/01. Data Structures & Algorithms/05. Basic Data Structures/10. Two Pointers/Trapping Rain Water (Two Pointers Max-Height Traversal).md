@@ -58,4 +58,4 @@ func ExecuteTrappingRainWaterTwoPointersMaxHeightTraversal(data []int, target in
 ## 🔗 References
 - ⬆️ Parent: [[Two Pointers (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

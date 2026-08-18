@@ -59,4 +59,4 @@ func NewUnionFind() *UnionFind {
 ## 🔗 References
 - ⬆️ Parent: [[Union Find]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

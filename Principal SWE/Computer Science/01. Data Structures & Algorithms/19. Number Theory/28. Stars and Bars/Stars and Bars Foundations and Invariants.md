@@ -59,4 +59,4 @@ func NewStarsandBars() *StarsandBars {
 ## 🔗 References
 - ⬆️ Parent: [[Stars and Bars]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

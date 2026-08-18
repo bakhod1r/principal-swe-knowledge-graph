@@ -65,4 +65,4 @@ func optimizeLeftistHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Leftist Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

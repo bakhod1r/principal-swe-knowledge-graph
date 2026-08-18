@@ -59,4 +59,4 @@ func NewBST() *BST {
 ## 🔗 References
 - ⬆️ Parent: [[BST]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

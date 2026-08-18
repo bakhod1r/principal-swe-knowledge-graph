@@ -59,4 +59,4 @@ func NewCRDTFundamentals() *CRDTFundamentals {
 ## 🔗 References
 - ⬆️ Parent: [[CRDT Fundamentals]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

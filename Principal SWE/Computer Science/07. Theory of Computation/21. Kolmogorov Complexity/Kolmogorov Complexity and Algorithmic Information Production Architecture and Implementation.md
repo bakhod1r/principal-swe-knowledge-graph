@@ -78,4 +78,4 @@ func (m *KolmogorovComplexityandAlgorithmicInformationProductionArchitectureandI
 ## 🔗 References
 - ⬆️ Parent: [[Kolmogorov Complexity and Algorithmic Information]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

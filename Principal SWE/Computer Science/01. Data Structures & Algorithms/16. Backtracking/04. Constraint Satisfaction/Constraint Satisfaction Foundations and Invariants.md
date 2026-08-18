@@ -59,4 +59,4 @@ func NewConstraintSatisfaction() *ConstraintSatisfaction {
 ## 🔗 References
 - ⬆️ Parent: [[Constraint Satisfaction]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

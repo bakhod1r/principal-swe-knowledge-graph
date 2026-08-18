@@ -38,4 +38,4 @@ AI Red Teaming & LLM Security
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

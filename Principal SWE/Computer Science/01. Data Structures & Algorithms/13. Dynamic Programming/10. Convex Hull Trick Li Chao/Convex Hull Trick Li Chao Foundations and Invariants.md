@@ -59,4 +59,4 @@ func NewConvexHullTrickLiChao() *ConvexHullTrickLiChao {
 ## 🔗 References
 - ⬆️ Parent: [[Convex Hull Trick Li Chao]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

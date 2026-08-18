@@ -81,4 +81,4 @@ func (m *HotelReservationSystemManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Hotel Reservation System]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

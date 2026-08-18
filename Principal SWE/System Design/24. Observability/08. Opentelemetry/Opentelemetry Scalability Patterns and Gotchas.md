@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Opentelemetry]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

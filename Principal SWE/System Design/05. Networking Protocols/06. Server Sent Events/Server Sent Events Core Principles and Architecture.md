@@ -81,4 +81,4 @@ func (m *ServerSentEventsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Server Sent Events]]
 - 📚 Module: [[Networking Protocols]]
-- 🎓 Root: [[Principal SWE]]
+

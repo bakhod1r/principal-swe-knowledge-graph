@@ -30,4 +30,4 @@ Monolith vs Microservices
 
 ## 🔗 References
 - ⬆️ Parent: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

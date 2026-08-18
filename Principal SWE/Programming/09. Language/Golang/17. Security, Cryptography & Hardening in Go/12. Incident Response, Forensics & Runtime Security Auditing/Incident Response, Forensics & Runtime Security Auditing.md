@@ -33,4 +33,4 @@ Incident Response, Forensics & Runtime Security Auditing
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewGraphColoring() *GraphColoring {
 ## 🔗 References
 - ⬆️ Parent: [[Graph Coloring]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

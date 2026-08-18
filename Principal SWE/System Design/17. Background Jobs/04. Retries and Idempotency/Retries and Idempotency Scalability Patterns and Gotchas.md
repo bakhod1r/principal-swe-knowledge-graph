@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Retries and Idempotency]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

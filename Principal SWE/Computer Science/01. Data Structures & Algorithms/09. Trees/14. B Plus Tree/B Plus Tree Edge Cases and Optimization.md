@@ -65,4 +65,4 @@ func optimizeBPlusTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[B Plus Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

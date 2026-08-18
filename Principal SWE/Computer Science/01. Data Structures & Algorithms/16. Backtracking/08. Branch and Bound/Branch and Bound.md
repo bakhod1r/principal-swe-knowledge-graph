@@ -30,4 +30,4 @@ Branch and Bound
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

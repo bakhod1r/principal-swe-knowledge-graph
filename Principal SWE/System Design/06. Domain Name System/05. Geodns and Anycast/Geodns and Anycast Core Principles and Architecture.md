@@ -81,4 +81,4 @@ func (m *GeodnsandAnycastManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Geodns and Anycast]]
 - 📚 Module: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

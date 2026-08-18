@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Path Compression]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

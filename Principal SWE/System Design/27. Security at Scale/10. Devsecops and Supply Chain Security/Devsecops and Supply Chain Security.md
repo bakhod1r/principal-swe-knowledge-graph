@@ -30,4 +30,4 @@ Devsecops and Supply Chain Security
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

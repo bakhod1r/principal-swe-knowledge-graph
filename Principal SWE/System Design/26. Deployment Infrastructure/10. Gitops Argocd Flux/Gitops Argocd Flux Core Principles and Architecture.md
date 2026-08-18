@@ -81,4 +81,4 @@ func (m *GitopsArgocdFluxManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Gitops Argocd Flux]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

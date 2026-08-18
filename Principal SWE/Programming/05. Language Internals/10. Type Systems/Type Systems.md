@@ -52,4 +52,4 @@ Type Systems
 
 ## 🔗 References
 - ⬆️ Parent: [[Language Internals]]
-- 🎓 Root: [[Principal SWE]]
+

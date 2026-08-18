@@ -33,4 +33,4 @@ Test Driven Development (tdd) with Claude Code
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

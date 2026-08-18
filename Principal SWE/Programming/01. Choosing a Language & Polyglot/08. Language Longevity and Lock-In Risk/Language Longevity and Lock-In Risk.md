@@ -35,4 +35,4 @@ Language Longevity and Lock-In Risk
 
 ## 🔗 References
 - ⬆️ Parent: [[Choosing a Language & Polyglot]]
-- 🎓 Root: [[Principal SWE]]
+

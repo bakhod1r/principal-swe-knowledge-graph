@@ -65,4 +65,4 @@ func optimizeTrie(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Trie]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

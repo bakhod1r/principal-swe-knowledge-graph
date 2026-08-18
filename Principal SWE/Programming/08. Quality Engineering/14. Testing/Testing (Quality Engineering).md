@@ -53,4 +53,4 @@ Testing (Quality Engineering)
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

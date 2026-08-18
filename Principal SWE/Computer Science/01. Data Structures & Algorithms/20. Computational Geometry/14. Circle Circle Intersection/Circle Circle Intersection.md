@@ -30,4 +30,4 @@ Circle Circle Intersection
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

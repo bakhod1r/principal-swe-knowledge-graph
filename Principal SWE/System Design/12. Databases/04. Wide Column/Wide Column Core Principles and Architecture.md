@@ -81,4 +81,4 @@ func (m *WideColumnManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Wide Column]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

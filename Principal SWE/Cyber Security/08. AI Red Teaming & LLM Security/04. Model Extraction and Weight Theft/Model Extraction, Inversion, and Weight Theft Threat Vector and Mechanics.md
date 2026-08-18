@@ -85,4 +85,4 @@ func (e *ModelExtractionInversionandWeightTheftThreatVectorandMechanicsSecurityE
 ## 🔗 References
 - ⬆️ Parent: [[Model Extraction, Inversion, and Weight Theft]]
 - 📚 Module: [[AI Red Teaming & LLM Security]]
-- 🎓 Root: [[Principal SWE]]
+

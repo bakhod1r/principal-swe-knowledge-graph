@@ -30,4 +30,4 @@ Max Flow Push Relabel
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

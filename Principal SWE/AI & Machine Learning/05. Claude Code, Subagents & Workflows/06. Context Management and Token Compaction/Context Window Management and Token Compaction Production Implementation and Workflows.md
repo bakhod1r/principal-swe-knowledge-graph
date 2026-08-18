@@ -84,4 +84,4 @@ func (c *ContextWindowManagementandTokenCompactionProductionImplementationandWor
 ## 🔗 References
 - ⬆️ Parent: [[Context Window Management and Token Compaction]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

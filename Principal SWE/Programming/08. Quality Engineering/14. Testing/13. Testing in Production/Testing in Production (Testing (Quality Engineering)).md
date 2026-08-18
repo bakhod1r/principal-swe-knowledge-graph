@@ -27,4 +27,4 @@ Testing in Production (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

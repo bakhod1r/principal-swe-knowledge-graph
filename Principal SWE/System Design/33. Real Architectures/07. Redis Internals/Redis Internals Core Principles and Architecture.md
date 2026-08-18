@@ -81,4 +81,4 @@ func (m *RedisInternalsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Redis Internals]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Rate Limiting for Abuse
 
 ## 🔗 References
 - ⬆️ Parent: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Deprecation Strategy]]
 - 📚 Module: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

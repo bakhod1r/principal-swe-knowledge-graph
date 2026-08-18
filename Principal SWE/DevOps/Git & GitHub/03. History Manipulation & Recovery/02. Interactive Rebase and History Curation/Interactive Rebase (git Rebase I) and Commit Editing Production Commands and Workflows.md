@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Interactive Rebase (git Rebase I) and Commit Editing]]
 - 📚 Module: [[History Manipulation & Recovery]]
-- 🎓 Root: [[Principal SWE]]
+

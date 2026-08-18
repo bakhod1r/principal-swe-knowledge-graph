@@ -65,4 +65,4 @@ func optimizeParallelPrefixSumScan(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Prefix Sum Scan]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Rfc Process]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewWaveletTree() *WaveletTree {
 ## 🔗 References
 - ⬆️ Parent: [[Wavelet Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

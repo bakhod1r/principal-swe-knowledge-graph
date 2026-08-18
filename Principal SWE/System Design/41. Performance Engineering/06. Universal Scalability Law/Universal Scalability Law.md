@@ -30,4 +30,4 @@ Universal Scalability Law
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

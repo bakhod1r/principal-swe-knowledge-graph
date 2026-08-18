@@ -58,4 +58,4 @@ func ExecuteDequeInvariantsandDoubleEndedOperationalModel(data []int, target int
 ## 🔗 References
 - ⬆️ Parent: [[Deque (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

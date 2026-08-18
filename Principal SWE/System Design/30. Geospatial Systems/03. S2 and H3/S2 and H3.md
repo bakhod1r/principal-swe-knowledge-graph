@@ -30,4 +30,4 @@ S2 and H3
 
 ## 🔗 References
 - ⬆️ Parent: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

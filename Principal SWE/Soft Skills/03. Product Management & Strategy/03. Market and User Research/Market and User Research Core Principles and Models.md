@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Market and User Research Core Principl
 ## 🔗 References
 - ⬆️ Parent: [[Market and User Research]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

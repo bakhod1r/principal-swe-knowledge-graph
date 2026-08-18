@@ -30,4 +30,4 @@ Durable Execution Temporal
 
 ## 🔗 References
 - ⬆️ Parent: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *MasterDataManagementManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Master Data Management]]
 - 📚 Module: [[Data Governance Contracts]]
-- 🎓 Root: [[Principal SWE]]
+

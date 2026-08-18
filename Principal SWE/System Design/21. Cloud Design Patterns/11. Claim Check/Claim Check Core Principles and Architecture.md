@@ -81,4 +81,4 @@ func (m *ClaimCheckManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Claim Check]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

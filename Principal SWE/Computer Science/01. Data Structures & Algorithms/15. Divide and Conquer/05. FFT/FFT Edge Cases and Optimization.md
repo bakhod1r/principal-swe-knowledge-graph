@@ -65,4 +65,4 @@ func optimizeFFT(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[FFT]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

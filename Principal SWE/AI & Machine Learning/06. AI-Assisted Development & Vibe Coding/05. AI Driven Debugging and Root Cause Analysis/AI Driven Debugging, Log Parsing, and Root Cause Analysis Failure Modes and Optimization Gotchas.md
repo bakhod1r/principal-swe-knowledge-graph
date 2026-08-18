@@ -84,4 +84,4 @@ func (c *AIDrivenDebuggingLogParsingandRootCauseAnalysisFailureModesandOptimizat
 ## 🔗 References
 - ⬆️ Parent: [[AI Driven Debugging, Log Parsing, and Root Cause Analysis]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeDigitDp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Digit Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

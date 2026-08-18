@@ -81,4 +81,4 @@ func (m *BuildvsBuyManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Build vs Buy]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

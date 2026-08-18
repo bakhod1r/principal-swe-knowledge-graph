@@ -59,4 +59,4 @@ func NewDivideConquerOptimization() *DivideConquerOptimization {
 ## 🔗 References
 - ⬆️ Parent: [[Divide Conquer Optimization]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

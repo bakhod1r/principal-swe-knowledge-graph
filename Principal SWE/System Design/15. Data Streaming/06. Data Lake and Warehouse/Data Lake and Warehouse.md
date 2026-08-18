@@ -30,4 +30,4 @@ Data Lake and Warehouse
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

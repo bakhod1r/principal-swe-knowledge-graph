@@ -78,4 +78,4 @@ func (m *FLPImpossibilityTheoremFailureModesandPerformancePitfallsManager) Proce
 ## 🔗 References
 - ⬆️ Parent: [[FLP Impossibility Theorem]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

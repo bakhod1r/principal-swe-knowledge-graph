@@ -65,4 +65,4 @@ func optimizeEggDropping(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Egg Dropping]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

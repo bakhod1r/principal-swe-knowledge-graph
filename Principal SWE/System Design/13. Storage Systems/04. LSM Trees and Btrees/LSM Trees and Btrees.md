@@ -30,4 +30,4 @@ LSM Trees and Btrees
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

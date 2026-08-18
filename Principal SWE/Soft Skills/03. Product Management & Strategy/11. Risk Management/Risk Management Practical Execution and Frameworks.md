@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Risk Management Practical Execution an
 ## 🔗 References
 - ⬆️ Parent: [[Risk Management]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

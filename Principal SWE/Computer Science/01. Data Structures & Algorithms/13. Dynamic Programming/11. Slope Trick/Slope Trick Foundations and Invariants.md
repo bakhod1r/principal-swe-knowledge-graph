@@ -59,4 +59,4 @@ func NewSlopeTrick() *SlopeTrick {
 ## 🔗 References
 - ⬆️ Parent: [[Slope Trick]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

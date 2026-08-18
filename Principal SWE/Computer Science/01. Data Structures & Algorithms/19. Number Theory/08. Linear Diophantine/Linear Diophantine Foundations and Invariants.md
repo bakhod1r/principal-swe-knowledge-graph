@@ -59,4 +59,4 @@ func NewLinearDiophantine() *LinearDiophantine {
 ## 🔗 References
 - ⬆️ Parent: [[Linear Diophantine]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

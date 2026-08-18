@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Project Management Practical Execution
 ## 🔗 References
 - ⬆️ Parent: [[Project Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

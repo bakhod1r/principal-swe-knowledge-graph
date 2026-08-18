@@ -30,4 +30,4 @@ Boyer Moore Horspool
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

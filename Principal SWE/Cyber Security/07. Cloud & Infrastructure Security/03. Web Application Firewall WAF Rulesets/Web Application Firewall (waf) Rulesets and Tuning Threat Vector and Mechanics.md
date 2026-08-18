@@ -85,4 +85,4 @@ func (e *WebApplicationFirewallwafRulesetsandTuningThreatVectorandMechanicsSecur
 ## 🔗 References
 - ⬆️ Parent: [[Web Application Firewall (waf) Rulesets and Tuning]]
 - 📚 Module: [[Cloud & Infrastructure Security]]
-- 🎓 Root: [[Principal SWE]]
+

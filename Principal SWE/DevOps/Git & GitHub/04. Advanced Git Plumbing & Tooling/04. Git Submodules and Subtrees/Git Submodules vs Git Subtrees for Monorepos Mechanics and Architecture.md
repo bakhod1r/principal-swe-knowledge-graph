@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Submodules vs Git Subtrees for Monorepos]]
 - 📚 Module: [[Advanced Git Plumbing & Tooling]]
-- 🎓 Root: [[Principal SWE]]
+

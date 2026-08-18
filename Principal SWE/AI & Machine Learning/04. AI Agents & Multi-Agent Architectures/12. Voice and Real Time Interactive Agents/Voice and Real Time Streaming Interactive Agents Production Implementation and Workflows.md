@@ -84,4 +84,4 @@ func (c *VoiceandRealTimeStreamingInteractiveAgentsProductionImplementationandWo
 ## 🔗 References
 - ⬆️ Parent: [[Voice and Real Time Streaming Interactive Agents]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

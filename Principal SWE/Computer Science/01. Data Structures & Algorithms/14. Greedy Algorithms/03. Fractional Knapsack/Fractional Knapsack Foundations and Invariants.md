@@ -59,4 +59,4 @@ func NewFractionalKnapsack() *FractionalKnapsack {
 ## 🔗 References
 - ⬆️ Parent: [[Fractional Knapsack]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

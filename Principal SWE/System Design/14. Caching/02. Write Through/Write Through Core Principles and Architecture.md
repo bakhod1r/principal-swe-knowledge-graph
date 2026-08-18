@@ -81,4 +81,4 @@ func (m *WriteThroughManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Write Through]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

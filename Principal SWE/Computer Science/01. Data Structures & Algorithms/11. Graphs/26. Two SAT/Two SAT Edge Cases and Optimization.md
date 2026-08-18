@@ -65,4 +65,4 @@ func optimizeTwoSAT(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Two SAT]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

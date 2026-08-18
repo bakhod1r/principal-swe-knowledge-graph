@@ -60,4 +60,4 @@ AWS Cloud Infrastructure
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

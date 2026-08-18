@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Attributes (.gitattributes) and Filter Drivers]]
 - 📚 Module: [[Advanced Git Plumbing & Tooling]]
-- 🎓 Root: [[Principal SWE]]
+

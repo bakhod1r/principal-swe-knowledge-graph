@@ -30,4 +30,4 @@ Lyndon Decomposition
 
 ## 🔗 References
 - ⬆️ Parent: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Atomic Commit 2PC 3PC TCC
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Coordination]]
-- 🎓 Root: [[Principal SWE]]
+

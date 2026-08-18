@@ -65,4 +65,4 @@ func optimizeVoronoiDelaunay(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Voronoi Delaunay]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

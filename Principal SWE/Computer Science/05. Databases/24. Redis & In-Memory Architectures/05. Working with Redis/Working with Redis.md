@@ -33,4 +33,4 @@ Working with Redis
 ## 🔗 References
 - ⬆️ Parent: [[Redis & in Memory Architectures]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

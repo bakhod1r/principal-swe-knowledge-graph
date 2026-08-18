@@ -59,4 +59,4 @@ func NewHungarianAssignment() *HungarianAssignment {
 ## 🔗 References
 - ⬆️ Parent: [[Hungarian Assignment]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewSimpsonIntegration() *SimpsonIntegration {
 ## 🔗 References
 - ⬆️ Parent: [[Simpson Integration]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

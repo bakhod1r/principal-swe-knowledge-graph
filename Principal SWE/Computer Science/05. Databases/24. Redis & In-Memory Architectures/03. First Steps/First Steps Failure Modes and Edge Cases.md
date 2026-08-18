@@ -81,4 +81,4 @@ func (s *FirstStepsFailureModesandEdgeCasesService) Execute(ctx context.Context)
 ## 🔗 References
 - ⬆️ Parent: [[First Steps]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

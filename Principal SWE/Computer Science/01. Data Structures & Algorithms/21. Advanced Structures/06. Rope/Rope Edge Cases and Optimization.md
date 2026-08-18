@@ -65,4 +65,4 @@ func optimizeRope(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Rope]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

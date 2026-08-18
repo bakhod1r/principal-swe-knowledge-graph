@@ -65,4 +65,4 @@ func optimizeParallelGraphBFS(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Graph BFS]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

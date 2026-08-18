@@ -81,4 +81,4 @@ func (m *CacheStampedeandHotKeysManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Stampede and Hot Keys]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

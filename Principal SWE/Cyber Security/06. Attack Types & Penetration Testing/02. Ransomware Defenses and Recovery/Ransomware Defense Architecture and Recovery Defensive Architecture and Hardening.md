@@ -85,4 +85,4 @@ func (e *RansomwareDefenseArchitectureandRecoveryDefensiveArchitectureandHardeni
 ## 🔗 References
 - ⬆️ Parent: [[Ransomware Defense Architecture and Recovery]]
 - 📚 Module: [[Attack Types & Penetration Testing]]
-- 🎓 Root: [[Principal SWE]]
+

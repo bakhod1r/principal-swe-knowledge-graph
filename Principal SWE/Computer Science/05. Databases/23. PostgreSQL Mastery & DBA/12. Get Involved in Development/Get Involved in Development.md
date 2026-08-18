@@ -33,4 +33,4 @@ Get Involved in Development
 ## 🔗 References
 - ⬆️ Parent: [[Postgresql Mastery & DBA]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

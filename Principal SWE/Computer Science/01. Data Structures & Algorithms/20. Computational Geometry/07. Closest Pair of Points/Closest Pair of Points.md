@@ -30,4 +30,4 @@ Closest Pair of Points
 
 ## 🔗 References
 - ⬆️ Parent: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *TheHaltingProblemandRicesTheoremCorePrinciplesandMechanicsManager) Proc
 ## 🔗 References
 - ⬆️ Parent: [[The Halting Problem and Rice's Theorem]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

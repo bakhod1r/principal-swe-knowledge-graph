@@ -30,4 +30,4 @@ Opentelemetry
 
 ## 🔗 References
 - ⬆️ Parent: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -89,4 +89,4 @@ func (m *FullTextSearchandVectorDatabaseArchitecturesFailureModesandPerformanceO
 ## 🔗 References
 - ⬆️ Parent: [[Full Text Search and Vector Database Architectures]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

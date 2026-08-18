@@ -59,4 +59,4 @@ func NewPathCompression() *PathCompression {
 ## 🔗 References
 - ⬆️ Parent: [[Path Compression]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

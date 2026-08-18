@@ -65,4 +65,4 @@ func optimizeAsymptoticNotation(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Asymptotic Notation]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

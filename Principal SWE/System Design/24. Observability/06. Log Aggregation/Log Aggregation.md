@@ -30,4 +30,4 @@ Log Aggregation
 
 ## 🔗 References
 - ⬆️ Parent: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

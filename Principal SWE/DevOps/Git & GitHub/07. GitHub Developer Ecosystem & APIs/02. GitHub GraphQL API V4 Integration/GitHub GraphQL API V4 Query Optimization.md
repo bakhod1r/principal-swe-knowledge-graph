@@ -34,4 +34,4 @@ GitHub GraphQL API V4 Query Optimization
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Developer Ecosystem & APIs]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

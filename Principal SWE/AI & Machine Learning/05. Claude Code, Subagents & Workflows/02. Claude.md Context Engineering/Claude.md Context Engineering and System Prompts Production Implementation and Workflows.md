@@ -84,4 +84,4 @@ func (c *ClaudemdContextEngineeringandSystemPromptsProductionImplementationandWo
 ## 🔗 References
 - ⬆️ Parent: [[Claude.md Context Engineering and System Prompts]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

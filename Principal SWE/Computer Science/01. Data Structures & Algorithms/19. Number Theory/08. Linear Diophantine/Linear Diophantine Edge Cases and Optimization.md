@@ -65,4 +65,4 @@ func optimizeLinearDiophantine(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Linear Diophantine]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

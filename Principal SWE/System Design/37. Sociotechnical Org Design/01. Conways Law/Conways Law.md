@@ -30,4 +30,4 @@ Conways Law
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-- 🎓 Root: [[Principal SWE]]
+

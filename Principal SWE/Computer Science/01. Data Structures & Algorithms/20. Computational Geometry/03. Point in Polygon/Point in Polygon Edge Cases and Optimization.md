@@ -65,4 +65,4 @@ func optimizePointinPolygon(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Point in Polygon]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

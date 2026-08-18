@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Content Analysis Anti Patterns and Com
 ## 🔗 References
 - ⬆️ Parent: [[Content Analysis]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

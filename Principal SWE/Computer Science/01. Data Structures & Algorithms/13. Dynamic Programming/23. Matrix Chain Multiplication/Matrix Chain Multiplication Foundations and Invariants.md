@@ -59,4 +59,4 @@ func NewMatrixChainMultiplication() *MatrixChainMultiplication {
 ## 🔗 References
 - ⬆️ Parent: [[Matrix Chain Multiplication]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

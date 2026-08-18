@@ -33,4 +33,4 @@ CAP Theorem, Pacelc, and Distributed Consistency Models
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

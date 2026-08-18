@@ -81,4 +81,4 @@ func (s *DataModelDataTypesCorePrinciplesandArchitectureService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Data Model Data Types]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

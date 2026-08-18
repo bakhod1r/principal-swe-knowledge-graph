@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Reporting Anti Patterns and Common Pit
 ## 🔗 References
 - ⬆️ Parent: [[Reporting]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeGosperHackGrayCode(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Gosper Hack Gray Code]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

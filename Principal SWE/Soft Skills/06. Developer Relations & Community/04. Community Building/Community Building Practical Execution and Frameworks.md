@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Community Building Practical Execution
 ## 🔗 References
 - ⬆️ Parent: [[Community Building]]
 - 📚 Module: [[Developer Relations & Community]]
-- 🎓 Root: [[Principal SWE]]
+

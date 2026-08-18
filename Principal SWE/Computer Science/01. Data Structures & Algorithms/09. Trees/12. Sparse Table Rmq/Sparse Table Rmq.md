@@ -30,4 +30,4 @@ Sparse Table Rmq
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GRPCandStreamingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[GRPC and Streaming]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -27,4 +27,4 @@ Cpu Bound Optimization (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewParallelGraphBFS() *ParallelGraphBFS {
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Graph BFS]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

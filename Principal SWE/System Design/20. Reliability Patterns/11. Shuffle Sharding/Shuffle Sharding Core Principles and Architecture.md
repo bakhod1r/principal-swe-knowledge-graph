@@ -81,4 +81,4 @@ func (m *ShuffleShardingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Shuffle Sharding]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

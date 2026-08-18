@@ -78,4 +78,4 @@ func (m *QuorumSystemsandGossipProtocolsFailureModesandPerformancePitfallsManage
 ## 🔗 References
 - ⬆️ Parent: [[Quorum Systems and Gossip Protocols]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

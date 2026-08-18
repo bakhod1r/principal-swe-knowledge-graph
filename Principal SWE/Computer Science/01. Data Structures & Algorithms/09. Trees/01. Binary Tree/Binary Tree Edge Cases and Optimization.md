@@ -65,4 +65,4 @@ func optimizeBinaryTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

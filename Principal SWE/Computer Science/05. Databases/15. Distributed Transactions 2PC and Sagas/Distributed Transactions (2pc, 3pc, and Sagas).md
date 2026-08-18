@@ -33,4 +33,4 @@ Distributed Transactions (2pc, 3pc, and Sagas)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

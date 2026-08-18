@@ -33,4 +33,4 @@ Creative and Lateral Thinking
 
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Thinking]]
-- 🎓 Root: [[Principal SWE]]
+

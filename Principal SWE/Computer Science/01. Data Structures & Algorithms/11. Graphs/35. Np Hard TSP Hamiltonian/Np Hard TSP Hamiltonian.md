@@ -30,4 +30,4 @@ Np Hard TSP Hamiltonian
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -32,4 +32,4 @@ Disjoint Set
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

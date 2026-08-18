@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Types of Caching]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

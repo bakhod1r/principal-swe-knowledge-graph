@@ -84,4 +84,4 @@ func (c *AdvancedRetrievalHybridSearchandReRankingProductionImplementationandWor
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Retrieval, Hybrid Search, and Re Ranking]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

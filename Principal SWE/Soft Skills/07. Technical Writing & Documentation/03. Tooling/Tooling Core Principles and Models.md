@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Tooling Core Principles and Models:
 ## 🔗 References
 - ⬆️ Parent: [[Tooling]]
 - 📚 Module: [[Technical Writing & Documentation]]
-- 🎓 Root: [[Principal SWE]]
+

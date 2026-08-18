@@ -30,4 +30,4 @@ Hotspot Accounts and Contention
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

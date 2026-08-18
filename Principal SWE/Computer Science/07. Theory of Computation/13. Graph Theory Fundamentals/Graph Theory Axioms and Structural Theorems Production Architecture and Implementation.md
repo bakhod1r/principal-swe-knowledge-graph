@@ -78,4 +78,4 @@ func (m *GraphTheoryAxiomsandStructuralTheoremsProductionArchitectureandImplemen
 ## 🔗 References
 - ⬆️ Parent: [[Graph Theory Axioms and Structural Theorems]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

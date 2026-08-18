@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Development and Launch Core Principles
 ## 🔗 References
 - ⬆️ Parent: [[Development and Launch]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewPalindromicTreeEertree() *PalindromicTreeEertree {
 ## 🔗 References
 - ⬆️ Parent: [[Palindromic Tree Eertree]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

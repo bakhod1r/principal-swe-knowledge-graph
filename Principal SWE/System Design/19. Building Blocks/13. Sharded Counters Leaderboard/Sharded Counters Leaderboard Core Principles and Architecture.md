@@ -81,4 +81,4 @@ func (m *ShardedCountersLeaderboardManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Sharded Counters Leaderboard]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *RetryManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Retry]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

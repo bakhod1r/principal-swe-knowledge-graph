@@ -65,4 +65,4 @@ func optimizeDivisorFunctions(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Divisor Functions]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

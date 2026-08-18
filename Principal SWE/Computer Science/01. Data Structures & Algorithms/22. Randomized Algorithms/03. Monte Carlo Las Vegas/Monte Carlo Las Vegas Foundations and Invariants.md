@@ -59,4 +59,4 @@ func NewMonteCarloLasVegas() *MonteCarloLasVegas {
 ## 🔗 References
 - ⬆️ Parent: [[Monte Carlo Las Vegas]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

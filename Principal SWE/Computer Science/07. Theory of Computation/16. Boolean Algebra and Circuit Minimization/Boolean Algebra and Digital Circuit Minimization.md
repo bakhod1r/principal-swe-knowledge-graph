@@ -32,4 +32,4 @@ Boolean Algebra and Digital Circuit Minimization
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Patricia Trie Radix
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

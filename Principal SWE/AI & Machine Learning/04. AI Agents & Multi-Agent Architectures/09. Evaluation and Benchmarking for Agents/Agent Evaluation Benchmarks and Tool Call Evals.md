@@ -33,4 +33,4 @@ Agent Evaluation Benchmarks and Tool Call Evals
 ## 🔗 References
 - ⬆️ Parent: [[AI Agents & Multi Agent Architectures]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

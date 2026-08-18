@@ -30,4 +30,4 @@ Minimax Alpha Beta
 
 ## 🔗 References
 - ⬆️ Parent: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

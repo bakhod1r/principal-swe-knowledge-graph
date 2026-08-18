@@ -37,4 +37,4 @@ Dynamic Analysis and Sanitizers
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

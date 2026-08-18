@@ -81,4 +81,4 @@ func (m *DataSovereigntyandResidencyManager) Execute(ctx context.Context) error 
 ## 🔗 References
 - ⬆️ Parent: [[Data Sovereignty and Residency]]
 - 📚 Module: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeRatinMaze(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Rat in Maze]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

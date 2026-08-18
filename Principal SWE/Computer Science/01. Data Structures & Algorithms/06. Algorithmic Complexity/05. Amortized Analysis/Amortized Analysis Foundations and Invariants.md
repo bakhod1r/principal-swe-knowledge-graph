@@ -59,4 +59,4 @@ func NewAmortizedAnalysis() *AmortizedAnalysis {
 ## 🔗 References
 - ⬆️ Parent: [[Amortized Analysis]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

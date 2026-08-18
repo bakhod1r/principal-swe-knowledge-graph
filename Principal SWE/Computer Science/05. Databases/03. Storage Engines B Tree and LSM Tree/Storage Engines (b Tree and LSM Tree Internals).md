@@ -33,4 +33,4 @@ Storage Engines (b Tree and LSM Tree Internals)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

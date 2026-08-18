@@ -84,4 +84,4 @@ func (c *PromptOptimizationVersioningandEvaluationFailureModesandOptimizationGot
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Optimization, Versioning, and Evaluation]]
 - 📚 Module: [[Prompt Engineering & LLM Alignment]]
-- 🎓 Root: [[Principal SWE]]
+

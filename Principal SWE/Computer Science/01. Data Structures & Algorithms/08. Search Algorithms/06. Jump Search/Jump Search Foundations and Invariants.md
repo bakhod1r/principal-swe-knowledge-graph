@@ -59,4 +59,4 @@ func NewJumpSearch() *JumpSearch {
 ## 🔗 References
 - ⬆️ Parent: [[Jump Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

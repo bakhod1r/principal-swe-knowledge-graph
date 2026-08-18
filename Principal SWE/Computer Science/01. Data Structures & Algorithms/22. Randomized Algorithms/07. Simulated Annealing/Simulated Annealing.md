@@ -30,4 +30,4 @@ Simulated Annealing
 
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

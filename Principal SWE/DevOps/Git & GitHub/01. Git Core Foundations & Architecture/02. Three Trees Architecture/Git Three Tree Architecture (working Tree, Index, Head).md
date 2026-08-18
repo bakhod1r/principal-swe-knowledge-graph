@@ -34,4 +34,4 @@ Git Three Tree Architecture (working Tree, Index, Head)
 ## 🔗 References
 - ⬆️ Parent: [[Git Core Foundations & Architecture]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

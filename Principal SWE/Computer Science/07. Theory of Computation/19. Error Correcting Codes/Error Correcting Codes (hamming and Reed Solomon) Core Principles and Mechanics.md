@@ -78,4 +78,4 @@ func (m *ErrorCorrectingCodeshammingandReedSolomonCorePrinciplesandMechanicsMana
 ## 🔗 References
 - ⬆️ Parent: [[Error Correcting Codes (hamming and Reed Solomon)]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

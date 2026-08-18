@@ -30,4 +30,4 @@ HTTP (Communication)
 
 ## 🔗 References
 - ⬆️ Parent: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *GoogleSpannerManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Google Spanner]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

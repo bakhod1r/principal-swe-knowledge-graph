@@ -59,4 +59,4 @@ func NewOfflineLCA() *OfflineLCA {
 ## 🔗 References
 - ⬆️ Parent: [[Offline LCA]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -78,4 +78,4 @@ func (m *SpaceComplexityClasseslNlPspaceExpspaceProductionArchitectureandImpleme
 ## 🔗 References
 - ⬆️ Parent: [[Space Complexity Classes (l, Nl, Pspace, Expspace)]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

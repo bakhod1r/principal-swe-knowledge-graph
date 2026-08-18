@@ -65,4 +65,4 @@ func optimizeJumpSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Jump Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

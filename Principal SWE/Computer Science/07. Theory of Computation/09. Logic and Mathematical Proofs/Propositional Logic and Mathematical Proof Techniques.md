@@ -32,4 +32,4 @@ Propositional Logic and Mathematical Proof Techniques
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

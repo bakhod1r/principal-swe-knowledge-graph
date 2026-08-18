@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Worktree for Concurrent Branch Execution]]
 - 📚 Module: [[Advanced Git Plumbing & Tooling]]
-- 🎓 Root: [[Principal SWE]]
+

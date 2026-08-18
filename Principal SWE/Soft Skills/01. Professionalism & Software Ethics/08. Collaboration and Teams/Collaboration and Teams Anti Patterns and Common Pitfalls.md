@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Collaboration and Teams Anti Patterns 
 ## 🔗 References
 - ⬆️ Parent: [[Collaboration and Teams]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

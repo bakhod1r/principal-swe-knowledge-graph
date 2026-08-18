@@ -32,4 +32,4 @@ QUIC Transport Protocol and HTTP 3
 ## 🔗 References
 - ⬆️ Parent: [[Networking (Computer Science)]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

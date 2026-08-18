@@ -65,4 +65,4 @@ func optimizeComplexityClassesPNp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Complexity Classes P Np]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

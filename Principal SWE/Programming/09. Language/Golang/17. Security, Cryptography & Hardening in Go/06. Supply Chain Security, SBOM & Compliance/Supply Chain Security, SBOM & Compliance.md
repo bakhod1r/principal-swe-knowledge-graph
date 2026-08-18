@@ -35,4 +35,4 @@ Supply Chain Security, SBOM & Compliance
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

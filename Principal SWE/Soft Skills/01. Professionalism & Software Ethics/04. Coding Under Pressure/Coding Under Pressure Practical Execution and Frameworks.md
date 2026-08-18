@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Coding Under Pressure Practical Execut
 ## 🔗 References
 - ⬆️ Parent: [[Coding Under Pressure]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

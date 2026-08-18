@@ -84,4 +84,4 @@ func (c *AutonomousSoftwareEngineeringAgentsFoundationsandArchitectureClient) Co
 ## 🔗 References
 - ⬆️ Parent: [[Autonomous Software Engineering Agents]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

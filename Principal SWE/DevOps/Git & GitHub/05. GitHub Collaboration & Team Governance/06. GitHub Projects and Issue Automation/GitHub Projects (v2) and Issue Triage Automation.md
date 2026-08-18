@@ -34,4 +34,4 @@ GitHub Projects (v2) and Issue Triage Automation
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Collaboration & Team Governance]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

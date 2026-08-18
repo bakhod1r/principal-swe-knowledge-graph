@@ -65,4 +65,4 @@ func optimizeXorPairing(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Xor Pairing]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Security Diagnostics and Network Analysis Tools
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

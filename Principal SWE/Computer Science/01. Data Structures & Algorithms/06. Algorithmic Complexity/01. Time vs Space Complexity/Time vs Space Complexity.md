@@ -30,4 +30,4 @@ Time vs Space Complexity
 
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

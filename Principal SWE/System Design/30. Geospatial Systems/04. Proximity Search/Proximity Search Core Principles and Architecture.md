@@ -81,4 +81,4 @@ func (m *ProximitySearchManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Proximity Search]]
 - 📚 Module: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

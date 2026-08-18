@@ -33,4 +33,4 @@ Full Text Search and Vector Database Architectures
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

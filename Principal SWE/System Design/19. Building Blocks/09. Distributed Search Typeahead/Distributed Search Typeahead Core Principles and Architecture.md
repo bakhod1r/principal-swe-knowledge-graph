@@ -81,4 +81,4 @@ func (m *DistributedSearchTypeaheadManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Search Typeahead]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

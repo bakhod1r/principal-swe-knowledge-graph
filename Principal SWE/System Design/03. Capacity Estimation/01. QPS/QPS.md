@@ -30,4 +30,4 @@ QPS
 
 ## 🔗 References
 - ⬆️ Parent: [[Capacity Estimation]]
-- 🎓 Root: [[Principal SWE]]
+

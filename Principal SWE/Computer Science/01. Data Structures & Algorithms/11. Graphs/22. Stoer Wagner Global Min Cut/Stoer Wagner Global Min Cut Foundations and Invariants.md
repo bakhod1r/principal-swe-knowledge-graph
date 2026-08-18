@@ -59,4 +59,4 @@ func NewStoerWagnerGlobalMinCut() *StoerWagnerGlobalMinCut {
 ## 🔗 References
 - ⬆️ Parent: [[Stoer Wagner Global Min Cut]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

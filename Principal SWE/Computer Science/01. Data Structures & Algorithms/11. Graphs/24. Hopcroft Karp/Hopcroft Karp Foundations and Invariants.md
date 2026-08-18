@@ -59,4 +59,4 @@ func NewHopcroftKarp() *HopcroftKarp {
 ## 🔗 References
 - ⬆️ Parent: [[Hopcroft Karp]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Incident Management
 
 ## 🔗 References
 - ⬆️ Parent: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

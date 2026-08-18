@@ -65,4 +65,4 @@ func optimizeSkiRentalandRentorBuy(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Ski Rental and Rent or Buy]]
 - 📚 Module: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

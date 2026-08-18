@@ -81,4 +81,4 @@ func (m *MaterializedViewManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Materialized View]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

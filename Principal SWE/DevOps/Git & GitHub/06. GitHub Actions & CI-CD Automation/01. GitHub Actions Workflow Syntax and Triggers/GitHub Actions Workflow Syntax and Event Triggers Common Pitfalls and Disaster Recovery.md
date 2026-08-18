@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions Workflow Syntax and Event Triggers]]
 - 📚 Module: [[GitHub Actions & CI CD Automation]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Xor Pairing
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

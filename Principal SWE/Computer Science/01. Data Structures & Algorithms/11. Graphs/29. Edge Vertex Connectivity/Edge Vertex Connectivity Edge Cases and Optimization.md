@@ -65,4 +65,4 @@ func optimizeEdgeVertexConnectivity(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Edge Vertex Connectivity]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

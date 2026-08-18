@@ -65,4 +65,4 @@ func optimizeMasterTheorem(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Master Theorem]]
 - 📚 Module: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

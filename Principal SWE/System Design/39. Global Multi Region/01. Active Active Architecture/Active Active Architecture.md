@@ -30,4 +30,4 @@ Active Active Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

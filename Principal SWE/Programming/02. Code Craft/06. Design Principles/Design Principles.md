@@ -33,4 +33,4 @@ Design Principles
 
 ## 🔗 References
 - ⬆️ Parent: [[Code Craft]]
-- 🎓 Root: [[Principal SWE]]
+

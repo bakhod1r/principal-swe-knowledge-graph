@@ -33,4 +33,4 @@ Shell and Other Basics
 ## 🔗 References
 - ⬆️ Parent: [[Linux Systems & Administration]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

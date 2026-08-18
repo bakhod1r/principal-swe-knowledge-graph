@@ -78,4 +78,4 @@ func (m *StateMachineReplicationsmrPrincipleFailureModesandPerformancePitfallsMa
 ## 🔗 References
 - ⬆️ Parent: [[State Machine Replication (smr) Principle]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

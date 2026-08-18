@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Advanced Topics Core Principles and Mo
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Topics]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

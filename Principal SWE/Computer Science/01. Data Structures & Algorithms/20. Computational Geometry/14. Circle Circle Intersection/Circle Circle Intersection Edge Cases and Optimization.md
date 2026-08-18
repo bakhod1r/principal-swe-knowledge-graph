@@ -65,4 +65,4 @@ func optimizeCircleCircleIntersection(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Circle Circle Intersection]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

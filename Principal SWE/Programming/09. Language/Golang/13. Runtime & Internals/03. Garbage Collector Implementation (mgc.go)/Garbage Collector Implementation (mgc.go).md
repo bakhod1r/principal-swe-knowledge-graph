@@ -43,4 +43,4 @@ Garbage Collector Implementation (mgc.go)
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Codeowners and Automated Code Review Assignment]]
 - 📚 Module: [[GitHub Collaboration & Team Governance]]
-- 🎓 Root: [[Principal SWE]]
+

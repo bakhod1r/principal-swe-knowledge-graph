@@ -30,4 +30,4 @@ Cost Modeling
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

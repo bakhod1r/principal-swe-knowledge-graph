@@ -81,4 +81,4 @@ func (m *AmbassadorManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Ambassador]]
 - 📚 Module: [[Cloud Design Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

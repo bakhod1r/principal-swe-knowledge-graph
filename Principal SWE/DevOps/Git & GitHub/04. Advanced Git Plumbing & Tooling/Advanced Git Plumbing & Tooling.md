@@ -39,4 +39,4 @@ Advanced Git Plumbing & Tooling
 
 ## 🔗 References
 - ⬆️ Parent: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

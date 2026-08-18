@@ -59,4 +59,4 @@ func NewBinomialHeap() *BinomialHeap {
 ## 🔗 References
 - ⬆️ Parent: [[Binomial Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

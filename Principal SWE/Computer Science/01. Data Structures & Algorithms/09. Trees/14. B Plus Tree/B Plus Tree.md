@@ -30,4 +30,4 @@ B Plus Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

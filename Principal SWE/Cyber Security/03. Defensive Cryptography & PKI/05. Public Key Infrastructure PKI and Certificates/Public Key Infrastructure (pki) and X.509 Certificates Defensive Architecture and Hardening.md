@@ -85,4 +85,4 @@ func (e *PublicKeyInfrastructurepkiandX509CertificatesDefensiveArchitectureandHa
 ## 🔗 References
 - ⬆️ Parent: [[Public Key Infrastructure (pki) and X.509 Certificates]]
 - 📚 Module: [[Defensive Cryptography & PKI]]
-- 🎓 Root: [[Principal SWE]]
+

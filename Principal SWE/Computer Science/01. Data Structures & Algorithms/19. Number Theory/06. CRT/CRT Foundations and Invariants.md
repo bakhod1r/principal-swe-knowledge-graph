@@ -59,4 +59,4 @@ func NewCRT() *CRT {
 ## 🔗 References
 - ⬆️ Parent: [[CRT]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

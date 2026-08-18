@@ -81,4 +81,4 @@ func (m *ConsistencyvsAvailabilityManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Consistency vs Availability]]
 - 📚 Module: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

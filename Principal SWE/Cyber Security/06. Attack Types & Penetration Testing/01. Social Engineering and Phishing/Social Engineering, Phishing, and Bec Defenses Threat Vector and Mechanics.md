@@ -85,4 +85,4 @@ func (e *SocialEngineeringPhishingandBecDefensesThreatVectorandMechanicsSecurity
 ## 🔗 References
 - ⬆️ Parent: [[Social Engineering, Phishing, and Bec Defenses]]
 - 📚 Module: [[Attack Types & Penetration Testing]]
-- 🎓 Root: [[Principal SWE]]
+

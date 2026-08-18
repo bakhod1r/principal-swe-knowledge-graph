@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Graphql]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

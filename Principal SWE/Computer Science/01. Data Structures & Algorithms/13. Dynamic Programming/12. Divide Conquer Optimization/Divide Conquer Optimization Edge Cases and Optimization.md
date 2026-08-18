@@ -65,4 +65,4 @@ func optimizeDivideConquerOptimization(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Divide Conquer Optimization]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

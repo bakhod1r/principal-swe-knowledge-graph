@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for What Is Engineering Management Anti Pa
 ## 🔗 References
 - ⬆️ Parent: [[What Is Engineering Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

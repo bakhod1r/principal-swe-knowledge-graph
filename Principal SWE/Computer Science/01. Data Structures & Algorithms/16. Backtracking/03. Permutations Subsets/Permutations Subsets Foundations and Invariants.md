@@ -59,4 +59,4 @@ func NewPermutationsSubsets() *PermutationsSubsets {
 ## 🔗 References
 - ⬆️ Parent: [[Permutations Subsets]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Path Compression
 
 ## 🔗 References
 - ⬆️ Parent: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

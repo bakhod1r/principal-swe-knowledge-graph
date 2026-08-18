@@ -33,4 +33,4 @@ Resources
 ## 🔗 References
 - ⬆️ Parent: [[Terraform & Infrastructure As Code]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

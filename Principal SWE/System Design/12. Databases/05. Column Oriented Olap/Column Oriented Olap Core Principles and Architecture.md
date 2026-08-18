@@ -81,4 +81,4 @@ func (m *ColumnOrientedOlapManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Column Oriented Olap]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

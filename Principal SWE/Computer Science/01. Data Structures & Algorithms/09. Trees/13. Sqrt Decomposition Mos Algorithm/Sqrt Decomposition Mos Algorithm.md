@@ -30,4 +30,4 @@ Sqrt Decomposition Mos Algorithm
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

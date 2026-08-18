@@ -81,4 +81,4 @@ func (s *CoreArchitectureCorePrinciplesandArchitectureService) Execute(ctx conte
 ## 🔗 References
 - ⬆️ Parent: [[Core Architecture]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

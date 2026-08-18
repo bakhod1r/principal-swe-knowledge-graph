@@ -81,4 +81,4 @@ func (m *CoordinatedOmissionManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Coordinated Omission]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

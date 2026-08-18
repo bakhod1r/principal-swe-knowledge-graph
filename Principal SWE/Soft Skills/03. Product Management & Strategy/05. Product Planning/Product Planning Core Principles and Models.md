@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Planning Core Principles and M
 ## 🔗 References
 - ⬆️ Parent: [[Product Planning]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

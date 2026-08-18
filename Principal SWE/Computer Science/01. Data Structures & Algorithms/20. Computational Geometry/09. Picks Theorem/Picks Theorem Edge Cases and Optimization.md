@@ -65,4 +65,4 @@ func optimizePicksTheorem(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Picks Theorem]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

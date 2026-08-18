@@ -65,4 +65,4 @@ func optimizeExternalSorting(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[External Sorting]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

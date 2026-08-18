@@ -81,4 +81,4 @@ func (m *TicketmasterBookingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Ticketmaster Booking]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

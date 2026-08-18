@@ -32,4 +32,4 @@ Lock Free and Wait Free Concurrent Algorithms
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Distributed]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

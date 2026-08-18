@@ -81,4 +81,4 @@ func (m *SecretsManagementManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Secrets Management]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

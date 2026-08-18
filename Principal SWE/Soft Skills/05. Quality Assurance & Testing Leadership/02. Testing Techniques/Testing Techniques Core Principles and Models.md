@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Testing Techniques Core Principles and
 ## 🔗 References
 - ⬆️ Parent: [[Testing Techniques]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

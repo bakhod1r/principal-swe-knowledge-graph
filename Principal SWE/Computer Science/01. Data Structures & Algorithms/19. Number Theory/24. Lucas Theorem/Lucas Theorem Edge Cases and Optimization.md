@@ -65,4 +65,4 @@ func optimizeLucasTheorem(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Lucas Theorem]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

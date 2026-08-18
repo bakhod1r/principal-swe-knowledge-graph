@@ -30,4 +30,4 @@ Small to Large Merging
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

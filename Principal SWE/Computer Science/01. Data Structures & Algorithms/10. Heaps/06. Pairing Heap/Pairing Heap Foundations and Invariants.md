@@ -59,4 +59,4 @@ func NewPairingHeap() *PairingHeap {
 ## 🔗 References
 - ⬆️ Parent: [[Pairing Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

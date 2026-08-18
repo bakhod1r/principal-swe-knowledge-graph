@@ -81,4 +81,4 @@ func (m *CAPTheoremManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[CAP Theorem (Tradeoffs Framework)]]
 - 📚 Module: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

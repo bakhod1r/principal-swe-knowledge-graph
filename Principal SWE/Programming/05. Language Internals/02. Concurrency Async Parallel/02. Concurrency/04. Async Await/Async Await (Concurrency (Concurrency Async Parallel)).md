@@ -27,4 +27,4 @@ Async Await (Concurrency (Concurrency Async Parallel))
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-- 🎓 Root: [[Principal SWE]]
+

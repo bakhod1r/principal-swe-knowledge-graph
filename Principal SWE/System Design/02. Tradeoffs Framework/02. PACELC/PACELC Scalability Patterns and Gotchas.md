@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[PACELC]]
 - 📚 Module: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

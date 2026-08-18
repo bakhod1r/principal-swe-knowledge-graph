@@ -34,4 +34,4 @@ Client Side and Server Side Git Hooks
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Git Plumbing & Tooling]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

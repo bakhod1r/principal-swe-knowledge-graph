@@ -59,4 +59,4 @@ func NewSkewHeap() *SkewHeap {
 ## 🔗 References
 - ⬆️ Parent: [[Skew Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

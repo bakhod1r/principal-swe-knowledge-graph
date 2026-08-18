@@ -90,4 +90,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Basics of Docker]]
 - 📚 Module: [[Docker & Containerization]]
-- 🎓 Root: [[Principal SWE]]
+

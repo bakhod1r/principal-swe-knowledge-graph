@@ -58,4 +58,4 @@ func ExecuteSlidingWindowParadigmandAmortizedO1StepInvariants(data []int, target
 ## 🔗 References
 - ⬆️ Parent: [[Sliding Window (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

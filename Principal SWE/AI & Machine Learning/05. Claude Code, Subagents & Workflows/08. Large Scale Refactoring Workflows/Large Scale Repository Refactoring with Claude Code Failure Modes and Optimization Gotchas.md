@@ -84,4 +84,4 @@ func (c *LargeScaleRepositoryRefactoringwithClaudeCodeFailureModesandOptimizatio
 ## 🔗 References
 - ⬆️ Parent: [[Large Scale Repository Refactoring with Claude Code]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

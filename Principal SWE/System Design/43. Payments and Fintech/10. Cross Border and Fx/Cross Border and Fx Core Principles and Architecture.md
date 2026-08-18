@@ -81,4 +81,4 @@ func (m *CrossBorderandFxManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cross Border and Fx]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

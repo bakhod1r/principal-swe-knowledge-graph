@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Fault Injection]]
 - 📚 Module: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

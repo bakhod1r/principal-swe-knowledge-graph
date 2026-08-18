@@ -33,4 +33,4 @@ Asymmetric Cryptography (rsa and Elliptic Curves)
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography & PKI]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

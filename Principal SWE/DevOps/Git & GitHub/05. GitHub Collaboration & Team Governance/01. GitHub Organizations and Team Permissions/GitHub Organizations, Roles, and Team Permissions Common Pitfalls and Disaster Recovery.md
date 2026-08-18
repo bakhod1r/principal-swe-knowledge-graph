@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Organizations, Roles, and Team Permissions]]
 - 📚 Module: [[GitHub Collaboration & Team Governance]]
-- 🎓 Root: [[Principal SWE]]
+

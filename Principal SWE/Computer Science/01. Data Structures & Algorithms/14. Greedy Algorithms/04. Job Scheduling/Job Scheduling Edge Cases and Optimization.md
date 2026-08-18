@@ -65,4 +65,4 @@ func optimizeJobScheduling(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Job Scheduling]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -89,4 +89,4 @@ func (m *LockingandConcurrencyControltwoPhaseLocking2plFailureModesandPerformanc
 ## 🔗 References
 - ⬆️ Parent: [[Locking and Concurrency Control (two Phase Locking 2pl)]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Overview and Taxonomy
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Paradigms]]
-- 🎓 Root: [[Principal SWE]]
+

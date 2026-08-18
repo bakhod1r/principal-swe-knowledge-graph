@@ -84,4 +84,4 @@ func (c *MultiAgentCollaborationHierarchicalDelegationandSwarmsProductionImpleme
 ## 🔗 References
 - ⬆️ Parent: [[Multi Agent Collaboration, Hierarchical Delegation, and Swarms]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

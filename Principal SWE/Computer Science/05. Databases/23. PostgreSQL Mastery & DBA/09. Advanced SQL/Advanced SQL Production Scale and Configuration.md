@@ -81,4 +81,4 @@ func (s *AdvancedSQLProductionScaleandConfigurationService) Execute(ctx context.
 ## 🔗 References
 - ⬆️ Parent: [[Advanced SQL]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

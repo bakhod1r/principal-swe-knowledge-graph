@@ -27,4 +27,4 @@ End to End Testing (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

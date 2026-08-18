@@ -81,4 +81,4 @@ func (m *CloudNetworkArchitectureVpcManager) Execute(ctx context.Context) error 
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Network Architecture Vpc]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

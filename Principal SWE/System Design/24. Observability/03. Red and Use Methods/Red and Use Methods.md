@@ -30,4 +30,4 @@ Red and Use Methods
 
 ## 🔗 References
 - ⬆️ Parent: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

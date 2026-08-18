@@ -81,4 +81,4 @@ func (m *ReconciliationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Reconciliation]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

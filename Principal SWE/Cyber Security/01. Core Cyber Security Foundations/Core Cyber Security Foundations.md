@@ -38,4 +38,4 @@ Core Cyber Security Foundations
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

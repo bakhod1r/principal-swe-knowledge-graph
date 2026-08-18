@@ -81,4 +81,4 @@ func (m *DistributedEmailServiceManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Email Service]]
 - 📚 Module: [[Classic Problems]]
-- 🎓 Root: [[Principal SWE]]
+

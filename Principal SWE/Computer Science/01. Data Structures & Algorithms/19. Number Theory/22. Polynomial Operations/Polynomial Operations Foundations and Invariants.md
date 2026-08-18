@@ -59,4 +59,4 @@ func NewPolynomialOperations() *PolynomialOperations {
 ## 🔗 References
 - ⬆️ Parent: [[Polynomial Operations]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

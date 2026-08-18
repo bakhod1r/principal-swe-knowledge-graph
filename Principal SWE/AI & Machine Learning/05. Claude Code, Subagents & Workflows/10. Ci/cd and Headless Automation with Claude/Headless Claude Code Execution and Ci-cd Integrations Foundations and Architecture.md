@@ -84,4 +84,4 @@ func (c *HeadlessClaudeCodeExecutionandCicdIntegrationsFoundationsandArchitectur
 ## 🔗 References
 - ⬆️ Parent: [[Headless Claude Code Execution and Ci-cd Integrations]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

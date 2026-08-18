@@ -34,4 +34,4 @@ CodeQL Semantic Code Analysis and Query Authoring
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise GitHub Features & Security]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

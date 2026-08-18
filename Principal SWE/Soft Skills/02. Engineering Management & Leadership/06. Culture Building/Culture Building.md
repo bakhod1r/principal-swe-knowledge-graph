@@ -33,4 +33,4 @@ Culture Building
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Management & Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

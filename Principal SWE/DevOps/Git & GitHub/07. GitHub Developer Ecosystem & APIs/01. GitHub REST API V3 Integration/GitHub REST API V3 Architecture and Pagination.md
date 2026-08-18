@@ -34,4 +34,4 @@ GitHub REST API V3 Architecture and Pagination
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Developer Ecosystem & APIs]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

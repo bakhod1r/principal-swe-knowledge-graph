@@ -30,4 +30,4 @@ Rfc Process
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

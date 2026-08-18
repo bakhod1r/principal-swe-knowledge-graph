@@ -81,4 +81,4 @@ func (m *GraphqlManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Graphql]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

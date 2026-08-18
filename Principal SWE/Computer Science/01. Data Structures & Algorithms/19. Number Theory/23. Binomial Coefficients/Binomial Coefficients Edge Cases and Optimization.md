@@ -65,4 +65,4 @@ func optimizeBinomialCoefficients(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Binomial Coefficients]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

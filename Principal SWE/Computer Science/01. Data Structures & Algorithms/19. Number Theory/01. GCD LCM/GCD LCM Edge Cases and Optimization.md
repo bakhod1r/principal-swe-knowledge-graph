@@ -65,4 +65,4 @@ func optimizeGCDLCM(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[GCD LCM]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

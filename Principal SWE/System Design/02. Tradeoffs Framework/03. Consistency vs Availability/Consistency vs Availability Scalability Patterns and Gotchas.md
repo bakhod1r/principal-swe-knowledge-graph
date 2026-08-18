@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Consistency vs Availability]]
 - 📚 Module: [[Tradeoffs Framework]]
-- 🎓 Root: [[Principal SWE]]
+

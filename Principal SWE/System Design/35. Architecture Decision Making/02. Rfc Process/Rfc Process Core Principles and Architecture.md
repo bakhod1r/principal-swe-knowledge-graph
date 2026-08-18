@@ -81,4 +81,4 @@ func (m *RfcProcessManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Rfc Process]]
 - 📚 Module: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ What Is System Design
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ MVCC Internals and Vacuum Garbage Collection
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

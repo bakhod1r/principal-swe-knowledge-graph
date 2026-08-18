@@ -65,4 +65,4 @@ func optimizeTreeDp(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Tree Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

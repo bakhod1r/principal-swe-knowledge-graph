@@ -81,4 +81,4 @@ func (s *LearnSQLCorePrinciplesandArchitectureService) Execute(ctx context.Conte
 ## 🔗 References
 - ⬆️ Parent: [[Learn SQL]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

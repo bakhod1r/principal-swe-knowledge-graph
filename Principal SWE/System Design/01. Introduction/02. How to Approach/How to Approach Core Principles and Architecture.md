@@ -81,4 +81,4 @@ func (m *HowtoApproachManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[How to Approach]]
 - 📚 Module: [[Introduction]]
-- 🎓 Root: [[Principal SWE]]
+

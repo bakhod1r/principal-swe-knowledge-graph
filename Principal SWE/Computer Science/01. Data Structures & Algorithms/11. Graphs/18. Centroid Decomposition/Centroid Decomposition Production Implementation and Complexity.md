@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Centroid Decomposition]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

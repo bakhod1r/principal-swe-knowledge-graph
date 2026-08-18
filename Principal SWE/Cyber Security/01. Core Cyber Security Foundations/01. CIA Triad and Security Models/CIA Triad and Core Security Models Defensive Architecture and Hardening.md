@@ -85,4 +85,4 @@ func (e *CIATriadandCoreSecurityModelsDefensiveArchitectureandHardeningSecurityE
 ## 🔗 References
 - ⬆️ Parent: [[CIA Triad and Core Security Models]]
 - 📚 Module: [[Core Cyber Security Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

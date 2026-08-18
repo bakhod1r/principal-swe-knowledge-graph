@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Crisis Management Anti Patterns and Co
 ## 🔗 References
 - ⬆️ Parent: [[Crisis Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

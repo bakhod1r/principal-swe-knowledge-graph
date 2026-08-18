@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Design Core Principles and Mod
 ## 🔗 References
 - ⬆️ Parent: [[Product Design]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

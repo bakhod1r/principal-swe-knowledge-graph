@@ -65,4 +65,4 @@ func optimizePathsFixedLength(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Paths Fixed Length]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

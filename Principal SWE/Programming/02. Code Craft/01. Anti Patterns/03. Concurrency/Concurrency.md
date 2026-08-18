@@ -31,4 +31,4 @@ Concurrency
 
 ## 🔗 References
 - ⬆️ Parent: [[Anti Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

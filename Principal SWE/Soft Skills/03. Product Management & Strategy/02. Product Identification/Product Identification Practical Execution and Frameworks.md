@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Identification Practical Execu
 ## 🔗 References
 - ⬆️ Parent: [[Product Identification]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ B Tree IO Analysis
 
 ## 🔗 References
 - ⬆️ Parent: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeMinCostMaxFlow(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Min Cost Max Flow]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

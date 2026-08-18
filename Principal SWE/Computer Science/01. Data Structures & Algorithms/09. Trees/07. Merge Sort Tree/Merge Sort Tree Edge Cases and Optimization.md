@@ -65,4 +65,4 @@ func optimizeMergeSortTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Merge Sort Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

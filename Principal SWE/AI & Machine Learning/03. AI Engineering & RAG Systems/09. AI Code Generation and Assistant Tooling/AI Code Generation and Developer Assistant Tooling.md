@@ -33,4 +33,4 @@ AI Code Generation and Developer Assistant Tooling
 ## 🔗 References
 - ⬆️ Parent: [[AI Engineering & RAG Systems]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

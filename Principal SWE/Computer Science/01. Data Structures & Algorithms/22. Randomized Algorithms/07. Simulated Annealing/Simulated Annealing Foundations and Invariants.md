@@ -59,4 +59,4 @@ func NewSimulatedAnnealing() *SimulatedAnnealing {
 ## 🔗 References
 - ⬆️ Parent: [[Simulated Annealing]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

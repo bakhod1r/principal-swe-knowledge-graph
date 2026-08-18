@@ -81,4 +81,4 @@ func (s *IntroductionCorePrinciplesandArchitectureService) Execute(ctx context.C
 ## 🔗 References
 - ⬆️ Parent: [[Introduction (Postgresql Mastery & DBA)]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

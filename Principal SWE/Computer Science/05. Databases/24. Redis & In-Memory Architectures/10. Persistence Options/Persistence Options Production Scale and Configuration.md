@@ -81,4 +81,4 @@ func (s *PersistenceOptionsProductionScaleandConfigurationService) Execute(ctx c
 ## 🔗 References
 - ⬆️ Parent: [[Persistence Options]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

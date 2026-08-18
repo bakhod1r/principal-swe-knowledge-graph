@@ -58,4 +58,4 @@ Redis & in Memory Architectures
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

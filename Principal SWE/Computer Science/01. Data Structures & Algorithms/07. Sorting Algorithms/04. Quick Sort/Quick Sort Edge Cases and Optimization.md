@@ -65,4 +65,4 @@ func optimizeQuickSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Quick Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

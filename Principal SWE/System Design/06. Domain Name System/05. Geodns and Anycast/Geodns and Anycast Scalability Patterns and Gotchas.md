@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Geodns and Anycast]]
 - 📚 Module: [[Domain Name System]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ GRPC and Streaming
 
 ## 🔗 References
 - ⬆️ Parent: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Strangler Fig at Scale
 
 ## 🔗 References
 - ⬆️ Parent: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

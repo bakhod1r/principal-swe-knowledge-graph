@@ -81,4 +81,4 @@ func (m *TCPManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[TCP (Communication)]]
 - 📚 Module: [[Communication]]
-- 🎓 Root: [[Principal SWE]]
+

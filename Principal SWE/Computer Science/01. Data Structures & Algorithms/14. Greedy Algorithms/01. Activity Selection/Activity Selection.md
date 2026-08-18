@@ -30,4 +30,4 @@ Activity Selection
 
 ## 🔗 References
 - ⬆️ Parent: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

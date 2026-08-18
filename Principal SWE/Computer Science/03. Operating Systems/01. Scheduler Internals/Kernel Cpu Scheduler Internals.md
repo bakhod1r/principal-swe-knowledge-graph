@@ -32,4 +32,4 @@ Kernel Cpu Scheduler Internals
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

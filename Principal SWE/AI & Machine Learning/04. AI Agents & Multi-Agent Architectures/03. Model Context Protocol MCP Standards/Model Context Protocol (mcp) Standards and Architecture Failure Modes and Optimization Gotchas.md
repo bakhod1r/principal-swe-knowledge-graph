@@ -84,4 +84,4 @@ func (c *ModelContextProtocolmcpStandardsandArchitectureFailureModesandOptimizat
 ## 🔗 References
 - ⬆️ Parent: [[Model Context Protocol (mcp) Standards and Architecture]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Version Control System Practical Execu
 ## 🔗 References
 - ⬆️ Parent: [[Version Control System]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Data Residency]]
 - 📚 Module: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Profiling
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-- 🎓 Root: [[Principal SWE]]
+

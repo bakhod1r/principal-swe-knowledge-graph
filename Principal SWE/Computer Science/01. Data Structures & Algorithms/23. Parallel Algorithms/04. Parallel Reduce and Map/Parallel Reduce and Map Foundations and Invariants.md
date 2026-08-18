@@ -59,4 +59,4 @@ func NewParallelReduceandMap() *ParallelReduceandMap {
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Reduce and Map]]
 - 📚 Module: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

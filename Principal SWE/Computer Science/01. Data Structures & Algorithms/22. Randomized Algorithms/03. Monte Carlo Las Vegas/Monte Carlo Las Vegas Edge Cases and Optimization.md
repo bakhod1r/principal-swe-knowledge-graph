@@ -65,4 +65,4 @@ func optimizeMonteCarloLasVegas(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Monte Carlo Las Vegas]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

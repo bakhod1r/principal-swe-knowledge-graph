@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Culture Building Anti Patterns and Com
 ## 🔗 References
 - ⬆️ Parent: [[Culture Building]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

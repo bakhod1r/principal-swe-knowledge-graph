@@ -30,4 +30,4 @@ Huffman
 
 ## 🔗 References
 - ⬆️ Parent: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

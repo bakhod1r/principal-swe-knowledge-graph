@@ -65,4 +65,4 @@ func optimizeReservoirSampling(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Reservoir Sampling]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Proximity Search
 
 ## 🔗 References
 - ⬆️ Parent: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -50,4 +50,4 @@ Elasticsearch & Distributed Search
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

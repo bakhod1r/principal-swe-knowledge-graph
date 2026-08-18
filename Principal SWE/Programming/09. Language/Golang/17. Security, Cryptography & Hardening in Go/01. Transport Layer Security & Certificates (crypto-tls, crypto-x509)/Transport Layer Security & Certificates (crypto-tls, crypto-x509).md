@@ -35,4 +35,4 @@ Transport Layer Security & Certificates (crypto-tls, crypto-x509)
 
 ## 🔗 References
 - ⬆️ Parent: [[Security, Cryptography & Hardening in Go]]
-- 🎓 Root: [[Principal SWE]]
+

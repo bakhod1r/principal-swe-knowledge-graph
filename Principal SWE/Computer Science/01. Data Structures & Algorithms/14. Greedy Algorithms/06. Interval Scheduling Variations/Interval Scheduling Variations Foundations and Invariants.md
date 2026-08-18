@@ -59,4 +59,4 @@ func NewIntervalSchedulingVariations() *IntervalSchedulingVariations {
 ## 🔗 References
 - ⬆️ Parent: [[Interval Scheduling Variations]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

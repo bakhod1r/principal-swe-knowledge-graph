@@ -33,4 +33,4 @@ Web Application Firewall (waf) Rulesets and Tuning
 ## 🔗 References
 - ⬆️ Parent: [[Cloud & Infrastructure Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

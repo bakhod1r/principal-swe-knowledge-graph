@@ -33,4 +33,4 @@ Pull Request Sizing and Review Velocity Standards
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Excellence]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

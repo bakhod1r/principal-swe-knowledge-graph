@@ -65,4 +65,4 @@ func optimizeTopologicalSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Topological Sort]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

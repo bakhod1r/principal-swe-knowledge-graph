@@ -81,4 +81,4 @@ func (m *DiscordRealtimeManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Discord Realtime]]
 - 📚 Module: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

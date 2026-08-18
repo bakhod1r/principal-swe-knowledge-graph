@@ -33,4 +33,4 @@ Metacognition and Learning
 
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Thinking]]
-- 🎓 Root: [[Principal SWE]]
+

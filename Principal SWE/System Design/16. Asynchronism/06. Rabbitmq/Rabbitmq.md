@@ -30,4 +30,4 @@ Rabbitmq
 
 ## 🔗 References
 - ⬆️ Parent: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

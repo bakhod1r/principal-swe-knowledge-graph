@@ -27,4 +27,4 @@ Anti Patterns (Async Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Async Programming]]
-- 🎓 Root: [[Principal SWE]]
+

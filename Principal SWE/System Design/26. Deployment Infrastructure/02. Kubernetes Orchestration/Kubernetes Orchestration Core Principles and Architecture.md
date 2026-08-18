@@ -81,4 +81,4 @@ func (m *KubernetesOrchestrationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Kubernetes Orchestration]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

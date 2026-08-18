@@ -59,4 +59,4 @@ func NewPruferCode() *PruferCode {
 ## 🔗 References
 - ⬆️ Parent: [[Prufer Code]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

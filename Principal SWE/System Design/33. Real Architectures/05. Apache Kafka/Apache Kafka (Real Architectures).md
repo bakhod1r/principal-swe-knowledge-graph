@@ -30,4 +30,4 @@ Apache Kafka (Real Architectures)
 
 ## 🔗 References
 - ⬆️ Parent: [[Real Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

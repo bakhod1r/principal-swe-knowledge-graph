@@ -33,4 +33,4 @@ Developer Experience
 ## 🔗 References
 - ⬆️ Parent: [[Docker & Containerization]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

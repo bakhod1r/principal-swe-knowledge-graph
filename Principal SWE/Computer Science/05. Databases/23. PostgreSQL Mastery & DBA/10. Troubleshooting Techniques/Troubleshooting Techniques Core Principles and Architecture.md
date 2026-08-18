@@ -81,4 +81,4 @@ func (s *TroubleshootingTechniquesCorePrinciplesandArchitectureService) Execute(
 ## 🔗 References
 - ⬆️ Parent: [[Troubleshooting Techniques]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

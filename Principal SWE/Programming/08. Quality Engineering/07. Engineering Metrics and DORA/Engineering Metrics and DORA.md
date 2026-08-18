@@ -37,4 +37,4 @@ Engineering Metrics and DORA
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

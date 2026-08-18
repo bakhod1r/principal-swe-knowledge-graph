@@ -84,4 +84,4 @@ func (c *AgentPlanningReflectionandSelfCorrectionLoopsFoundationsandArchitecture
 ## 🔗 References
 - ⬆️ Parent: [[Agent Planning, Reflection, and Self Correction Loops]]
 - 📚 Module: [[AI Agents & Multi Agent Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Meet in the Middle
 
 ## 🔗 References
 - ⬆️ Parent: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

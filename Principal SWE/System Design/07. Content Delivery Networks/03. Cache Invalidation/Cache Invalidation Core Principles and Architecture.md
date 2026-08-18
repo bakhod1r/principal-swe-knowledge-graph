@@ -81,4 +81,4 @@ func (m *CacheInvalidationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Invalidation]]
 - 📚 Module: [[Content Delivery Networks]]
-- 🎓 Root: [[Principal SWE]]
+

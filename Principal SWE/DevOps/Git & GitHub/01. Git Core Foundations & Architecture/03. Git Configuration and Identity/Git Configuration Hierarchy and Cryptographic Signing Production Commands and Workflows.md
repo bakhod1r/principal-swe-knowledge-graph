@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Git Configuration Hierarchy and Cryptographic Signing]]
 - 📚 Module: [[Git Core Foundations & Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

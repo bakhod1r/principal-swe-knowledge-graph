@@ -81,4 +81,4 @@ func (m *DataTransferandEgressCostsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Transfer and Egress Costs]]
 - 📚 Module: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

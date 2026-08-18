@@ -34,4 +34,4 @@ Codeowners and Automated Code Review Assignment
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Collaboration & Team Governance]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

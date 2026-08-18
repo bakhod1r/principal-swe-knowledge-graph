@@ -30,4 +30,4 @@ Permutations Subsets
 
 ## 🔗 References
 - ⬆️ Parent: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

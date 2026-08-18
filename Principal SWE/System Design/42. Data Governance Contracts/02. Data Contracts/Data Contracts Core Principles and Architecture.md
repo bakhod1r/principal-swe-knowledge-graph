@@ -81,4 +81,4 @@ func (m *DataContractsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Data Contracts]]
 - 📚 Module: [[Data Governance Contracts]]
-- 🎓 Root: [[Principal SWE]]
+

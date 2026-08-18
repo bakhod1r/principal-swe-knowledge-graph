@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Intellectual Property and Licensing Co
 ## 🔗 References
 - ⬆️ Parent: [[Intellectual Property and Licensing]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

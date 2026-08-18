@@ -33,4 +33,4 @@ Domain Modeling, Schema Design, and Code Refactoring with AI
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

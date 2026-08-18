@@ -59,4 +59,4 @@ func NewMergeSort() *MergeSort {
 ## 🔗 References
 - ⬆️ Parent: [[Merge Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

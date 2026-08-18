@@ -65,4 +65,4 @@ func optimizeWaveletTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Wavelet Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

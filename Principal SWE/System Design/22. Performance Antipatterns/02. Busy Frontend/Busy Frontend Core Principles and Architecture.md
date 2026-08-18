@@ -81,4 +81,4 @@ func (m *BusyFrontendManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Busy Frontend]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Storage]]
 - 📚 Module: [[Capacity Estimation]]
-- 🎓 Root: [[Principal SWE]]
+

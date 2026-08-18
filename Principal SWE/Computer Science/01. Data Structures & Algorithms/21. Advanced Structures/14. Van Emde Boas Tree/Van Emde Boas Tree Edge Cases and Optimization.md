@@ -65,4 +65,4 @@ func optimizeVanEmdeBoasTree(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Van Emde Boas Tree]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

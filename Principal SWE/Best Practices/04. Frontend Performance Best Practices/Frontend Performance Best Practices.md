@@ -36,4 +36,4 @@ Frontend Performance Best Practices
 
 ## 🔗 References
 - ⬆️ Parent: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

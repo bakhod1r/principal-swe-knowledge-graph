@@ -38,4 +38,4 @@ Attack Types & Penetration Testing
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

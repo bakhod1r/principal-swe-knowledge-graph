@@ -39,4 +39,4 @@ Synchronization & Network Internals (chan.go, netpoll.go)
 
 ## 🔗 References
 - ⬆️ Parent: [[Runtime & Internals]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *QPSManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[QPS]]
 - 📚 Module: [[Capacity Estimation]]
-- 🎓 Root: [[Principal SWE]]
+

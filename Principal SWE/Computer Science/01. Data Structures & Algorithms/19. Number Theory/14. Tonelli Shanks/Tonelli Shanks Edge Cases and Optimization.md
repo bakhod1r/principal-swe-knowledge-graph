@@ -65,4 +65,4 @@ func optimizeTonelliShanks(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Tonelli Shanks]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

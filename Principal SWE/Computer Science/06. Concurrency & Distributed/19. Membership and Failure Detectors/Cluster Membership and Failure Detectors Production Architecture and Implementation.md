@@ -78,4 +78,4 @@ func (m *ClusterMembershipandFailureDetectorsProductionArchitectureandImplementa
 ## 🔗 References
 - ⬆️ Parent: [[Cluster Membership and Failure Detectors]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

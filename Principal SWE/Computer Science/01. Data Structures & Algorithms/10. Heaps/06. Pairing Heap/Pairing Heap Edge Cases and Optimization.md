@@ -65,4 +65,4 @@ func optimizePairingHeap(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Pairing Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

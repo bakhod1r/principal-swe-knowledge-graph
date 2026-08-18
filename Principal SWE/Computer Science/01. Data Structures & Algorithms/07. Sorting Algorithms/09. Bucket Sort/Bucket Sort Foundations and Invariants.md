@@ -59,4 +59,4 @@ func NewBucketSort() *BucketSort {
 ## 🔗 References
 - ⬆️ Parent: [[Bucket Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

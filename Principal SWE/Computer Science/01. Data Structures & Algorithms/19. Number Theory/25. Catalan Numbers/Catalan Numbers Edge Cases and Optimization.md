@@ -65,4 +65,4 @@ func optimizeCatalanNumbers(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Catalan Numbers]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

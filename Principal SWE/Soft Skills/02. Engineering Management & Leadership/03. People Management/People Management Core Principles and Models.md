@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for People Management Core Principles and 
 ## 🔗 References
 - ⬆️ Parent: [[People Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

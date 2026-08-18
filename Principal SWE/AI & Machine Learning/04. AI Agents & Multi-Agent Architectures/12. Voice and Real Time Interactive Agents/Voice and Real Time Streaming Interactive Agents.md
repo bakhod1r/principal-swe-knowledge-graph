@@ -33,4 +33,4 @@ Voice and Real Time Streaming Interactive Agents
 ## 🔗 References
 - ⬆️ Parent: [[AI Agents & Multi Agent Architectures]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

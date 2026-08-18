@@ -30,4 +30,4 @@ Erasure Coding and Reed Solomon
 
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

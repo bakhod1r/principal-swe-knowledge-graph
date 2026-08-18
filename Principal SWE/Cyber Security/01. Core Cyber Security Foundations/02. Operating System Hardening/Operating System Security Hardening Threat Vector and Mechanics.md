@@ -85,4 +85,4 @@ func (e *OperatingSystemSecurityHardeningThreatVectorandMechanicsSecurityEngine)
 ## 🔗 References
 - ⬆️ Parent: [[Operating System Security Hardening]]
 - 📚 Module: [[Core Cyber Security Foundations]]
-- 🎓 Root: [[Principal SWE]]
+

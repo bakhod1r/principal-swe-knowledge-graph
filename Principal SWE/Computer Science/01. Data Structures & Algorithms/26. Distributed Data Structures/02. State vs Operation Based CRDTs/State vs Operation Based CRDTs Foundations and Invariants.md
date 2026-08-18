@@ -59,4 +59,4 @@ func NewStatevsOperationBasedCRDTs() *StatevsOperationBasedCRDTs {
 ## 🔗 References
 - ⬆️ Parent: [[State vs Operation Based CRDTs]]
 - 📚 Module: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

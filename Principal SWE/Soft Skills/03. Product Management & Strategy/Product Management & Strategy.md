@@ -50,4 +50,4 @@ Product Management & Strategy
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewWordSearch() *WordSearch {
 ## 🔗 References
 - ⬆️ Parent: [[Word Search]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

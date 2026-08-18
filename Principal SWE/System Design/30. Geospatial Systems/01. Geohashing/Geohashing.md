@@ -30,4 +30,4 @@ Geohashing
 
 ## 🔗 References
 - ⬆️ Parent: [[Geospatial Systems]]
-- 🎓 Root: [[Principal SWE]]
+

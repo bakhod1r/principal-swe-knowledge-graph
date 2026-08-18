@@ -81,4 +81,4 @@ func (m *CircuitBreakerManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Circuit Breaker]]
 - 📚 Module: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

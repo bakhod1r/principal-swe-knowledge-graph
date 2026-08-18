@@ -65,4 +65,4 @@ func optimizeBST(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[BST]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

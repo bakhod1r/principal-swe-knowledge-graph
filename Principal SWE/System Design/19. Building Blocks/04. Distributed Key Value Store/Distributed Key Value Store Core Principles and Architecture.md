@@ -81,4 +81,4 @@ func (m *DistributedKeyValueStoreManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Key Value Store]]
 - 📚 Module: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

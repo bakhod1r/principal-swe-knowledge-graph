@@ -81,4 +81,4 @@ func (m *DurableExecutionTemporalManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Durable Execution Temporal]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

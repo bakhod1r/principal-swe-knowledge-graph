@@ -78,4 +78,4 @@ func (m *MathematicalFoundationsofNumberTheoryCorePrinciplesandMechanicsManager)
 ## 🔗 References
 - ⬆️ Parent: [[Mathematical Foundations of Number Theory]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

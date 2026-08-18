@@ -33,4 +33,4 @@ Learn the Fundamentals
 ## 🔗 References
 - ⬆️ Parent: [[Quality Assurance & Testing Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

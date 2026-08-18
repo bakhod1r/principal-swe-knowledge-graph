@@ -81,4 +81,4 @@ func (m *RabbitmqManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Rabbitmq]]
 - 📚 Module: [[Asynchronism]]
-- 🎓 Root: [[Principal SWE]]
+

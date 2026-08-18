@@ -33,4 +33,4 @@ Asynchronous Processing and Message Queues
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[Two SAT]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

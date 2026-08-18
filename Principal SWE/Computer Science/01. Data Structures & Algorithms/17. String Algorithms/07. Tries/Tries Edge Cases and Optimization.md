@@ -65,4 +65,4 @@ func optimizeTries(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Tries]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

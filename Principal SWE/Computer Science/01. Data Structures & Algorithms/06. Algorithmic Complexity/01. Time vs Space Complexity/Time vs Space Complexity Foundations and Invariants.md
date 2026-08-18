@@ -59,4 +59,4 @@ func NewTimevsSpaceComplexity() *TimevsSpaceComplexity {
 ## 🔗 References
 - ⬆️ Parent: [[Time vs Space Complexity]]
 - 📚 Module: [[Algorithmic Complexity]]
-- 🎓 Root: [[Principal SWE]]
+

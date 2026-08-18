@@ -30,4 +30,4 @@ Ski Rental and Rent or Buy
 
 ## 🔗 References
 - ⬆️ Parent: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

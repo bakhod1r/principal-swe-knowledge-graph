@@ -34,4 +34,4 @@ GitHub Apps vs Oauth Apps and Fine Grained Permissions
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Developer Ecosystem & APIs]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

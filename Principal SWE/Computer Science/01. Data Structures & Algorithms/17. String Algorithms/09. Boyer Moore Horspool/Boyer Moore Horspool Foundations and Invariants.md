@@ -59,4 +59,4 @@ func NewBoyerMooreHorspool() *BoyerMooreHorspool {
 ## 🔗 References
 - ⬆️ Parent: [[Boyer Moore Horspool]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

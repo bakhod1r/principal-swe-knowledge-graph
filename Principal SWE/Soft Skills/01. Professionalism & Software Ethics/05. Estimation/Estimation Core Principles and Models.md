@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Estimation Core Principles and Models:
 ## 🔗 References
 - ⬆️ Parent: [[Estimation]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

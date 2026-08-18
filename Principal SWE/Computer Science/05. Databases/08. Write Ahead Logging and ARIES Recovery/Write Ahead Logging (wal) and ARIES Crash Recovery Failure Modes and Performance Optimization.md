@@ -89,4 +89,4 @@ func (m *WriteAheadLoggingwalandARIESCrashRecoveryFailureModesandPerformanceOpti
 ## 🔗 References
 - ⬆️ Parent: [[Write Ahead Logging (wal) and ARIES Crash Recovery]]
 - 📚 Module: [[Databases]]
-- 🎓 Root: [[Principal SWE]]
+

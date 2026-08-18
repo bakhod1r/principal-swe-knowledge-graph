@@ -30,4 +30,4 @@ Pub Sub System
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

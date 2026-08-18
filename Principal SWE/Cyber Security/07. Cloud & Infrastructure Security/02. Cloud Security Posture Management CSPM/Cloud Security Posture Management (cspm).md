@@ -33,4 +33,4 @@ Cloud Security Posture Management (cspm)
 ## 🔗 References
 - ⬆️ Parent: [[Cloud & Infrastructure Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

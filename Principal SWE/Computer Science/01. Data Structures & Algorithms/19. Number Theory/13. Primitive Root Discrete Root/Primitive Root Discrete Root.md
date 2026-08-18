@@ -30,4 +30,4 @@ Primitive Root Discrete Root
 
 ## 🔗 References
 - ⬆️ Parent: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

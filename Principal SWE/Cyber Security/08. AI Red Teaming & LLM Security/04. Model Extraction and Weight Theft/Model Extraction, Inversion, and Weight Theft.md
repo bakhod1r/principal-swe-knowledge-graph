@@ -33,4 +33,4 @@ Model Extraction, Inversion, and Weight Theft
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Security]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

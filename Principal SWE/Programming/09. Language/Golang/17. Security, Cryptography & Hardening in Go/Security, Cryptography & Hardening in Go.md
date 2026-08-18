@@ -146,4 +146,4 @@ Security, Cryptography & Hardening in Go
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

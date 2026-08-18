@@ -46,4 +46,4 @@ Engineering Management & Leadership
 
 ## 🔗 References
 - ⬆️ Parent: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

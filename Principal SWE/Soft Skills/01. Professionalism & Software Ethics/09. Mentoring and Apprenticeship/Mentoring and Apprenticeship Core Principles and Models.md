@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Mentoring and Apprenticeship Core Prin
 ## 🔗 References
 - ⬆️ Parent: [[Mentoring and Apprenticeship]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

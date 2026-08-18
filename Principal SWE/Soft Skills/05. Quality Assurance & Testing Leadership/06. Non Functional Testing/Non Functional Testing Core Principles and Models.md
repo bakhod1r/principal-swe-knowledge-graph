@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Non Functional Testing Core Principles
 ## 🔗 References
 - ⬆️ Parent: [[Non Functional Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -84,4 +84,4 @@ func (c *PlanningBeforeCodingandTechnicalDesignArtifactsFoundationsandArchitectu
 ## 🔗 References
 - ⬆️ Parent: [[Planning Before Coding and Technical Design Artifacts]]
 - 📚 Module: [[AI Assisted Development & Vibe Coding]]
-- 🎓 Root: [[Principal SWE]]
+

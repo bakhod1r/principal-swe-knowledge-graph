@@ -85,4 +85,4 @@ func (e *ManintheMiddlemitmAttacksandInterceptionThreatVectorandMechanicsSecurit
 ## 🔗 References
 - ⬆️ Parent: [[Man in the Middle (mitm) Attacks and Interception]]
 - 📚 Module: [[Attack Types & Penetration Testing]]
-- 🎓 Root: [[Principal SWE]]
+

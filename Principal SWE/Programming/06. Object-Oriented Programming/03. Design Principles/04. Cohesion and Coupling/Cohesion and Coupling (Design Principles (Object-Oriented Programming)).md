@@ -27,4 +27,4 @@ Cohesion and Coupling (Design Principles (Object-Oriented Programming))
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Principles (Object-Oriented Programming)]]
-- 🎓 Root: [[Principal SWE]]
+

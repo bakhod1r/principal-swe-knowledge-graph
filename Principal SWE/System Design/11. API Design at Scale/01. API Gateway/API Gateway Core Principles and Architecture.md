@@ -81,4 +81,4 @@ func (m *APIGatewayManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[API Gateway]]
 - 📚 Module: [[API Design at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

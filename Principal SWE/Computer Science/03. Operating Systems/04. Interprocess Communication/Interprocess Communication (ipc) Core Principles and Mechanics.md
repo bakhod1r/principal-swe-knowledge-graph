@@ -78,4 +78,4 @@ func (m *InterprocessCommunicationipcCorePrinciplesandMechanicsManager) Process(
 ## 🔗 References
 - ⬆️ Parent: [[Interprocess Communication (ipc)]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

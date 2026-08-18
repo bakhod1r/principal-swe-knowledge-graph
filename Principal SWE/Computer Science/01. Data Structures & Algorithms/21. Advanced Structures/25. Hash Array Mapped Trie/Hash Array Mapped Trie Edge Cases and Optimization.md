@@ -65,4 +65,4 @@ func optimizeHashArrayMappedTrie(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Hash Array Mapped Trie]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

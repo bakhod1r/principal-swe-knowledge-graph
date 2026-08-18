@@ -30,4 +30,4 @@ Idempotency and Exactly Once Payments
 
 ## 🔗 References
 - ⬆️ Parent: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

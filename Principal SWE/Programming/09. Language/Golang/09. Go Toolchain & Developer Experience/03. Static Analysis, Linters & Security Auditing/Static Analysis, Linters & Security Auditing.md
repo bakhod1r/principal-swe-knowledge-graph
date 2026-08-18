@@ -35,4 +35,4 @@ Static Analysis, Linters & Security Auditing
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Toolchain & Developer Experience]]
-- 🎓 Root: [[Principal SWE]]
+

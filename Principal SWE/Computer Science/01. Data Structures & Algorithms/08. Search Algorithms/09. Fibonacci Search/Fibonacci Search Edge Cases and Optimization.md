@@ -65,4 +65,4 @@ func optimizeFibonacciSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Fibonacci Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

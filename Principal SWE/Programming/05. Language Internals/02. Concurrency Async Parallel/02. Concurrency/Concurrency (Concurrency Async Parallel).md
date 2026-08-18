@@ -41,4 +41,4 @@ Concurrency (Concurrency Async Parallel)
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Async Parallel]]
-- 🎓 Root: [[Principal SWE]]
+

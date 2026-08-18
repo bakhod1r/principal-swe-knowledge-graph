@@ -81,4 +81,4 @@ func (s *TextAnalysisCorePrinciplesandArchitectureService) Execute(ctx context.C
 ## 🔗 References
 - ⬆️ Parent: [[Text Analysis]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

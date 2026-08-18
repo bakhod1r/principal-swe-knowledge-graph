@@ -32,4 +32,4 @@ Capacity Estimation
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

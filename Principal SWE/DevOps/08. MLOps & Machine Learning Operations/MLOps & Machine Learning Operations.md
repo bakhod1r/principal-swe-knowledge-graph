@@ -44,4 +44,4 @@ MLOps & Machine Learning Operations
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

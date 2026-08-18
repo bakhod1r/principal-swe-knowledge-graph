@@ -30,4 +30,4 @@ Treap
 
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

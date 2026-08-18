@@ -59,4 +59,4 @@ func NewFibonacciNumbers() *FibonacciNumbers {
 ## 🔗 References
 - ⬆️ Parent: [[Fibonacci Numbers]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

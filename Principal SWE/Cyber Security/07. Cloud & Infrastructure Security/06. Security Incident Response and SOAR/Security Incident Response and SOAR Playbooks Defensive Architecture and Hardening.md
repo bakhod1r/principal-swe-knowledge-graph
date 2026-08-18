@@ -85,4 +85,4 @@ func (e *SecurityIncidentResponseandSOARPlaybooksDefensiveArchitectureandHardeni
 ## 🔗 References
 - ⬆️ Parent: [[Security Incident Response and SOAR Playbooks]]
 - 📚 Module: [[Cloud & Infrastructure Security]]
-- 🎓 Root: [[Principal SWE]]
+

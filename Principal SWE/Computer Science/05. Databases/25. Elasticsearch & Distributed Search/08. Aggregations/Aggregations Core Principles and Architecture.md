@@ -81,4 +81,4 @@ func (s *AggregationsCorePrinciplesandArchitectureService) Execute(ctx context.C
 ## 🔗 References
 - ⬆️ Parent: [[Aggregations]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

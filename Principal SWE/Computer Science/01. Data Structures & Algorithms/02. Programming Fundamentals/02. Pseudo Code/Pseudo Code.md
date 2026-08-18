@@ -30,4 +30,4 @@ Pseudo Code
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Fundamentals]]
-- 🎓 Root: [[Principal SWE]]
+

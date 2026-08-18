@@ -32,4 +32,4 @@ Context Free Grammars and Pushdown Automata
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Backend Scalable Architectural Patterns
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

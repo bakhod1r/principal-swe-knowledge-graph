@@ -33,4 +33,4 @@ Custom Skills Architecture (skill.md) and Tool Extensions
 ## 🔗 References
 - ⬆️ Parent: [[Claude Code, Subagents & Workflows]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

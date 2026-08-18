@@ -81,4 +81,4 @@ func (m *LedgersandDoubleEntryAccountingManager) Execute(ctx context.Context) er
 ## 🔗 References
 - ⬆️ Parent: [[Ledgers and Double Entry Accounting]]
 - 📚 Module: [[Payments and Fintech]]
-- 🎓 Root: [[Principal SWE]]
+

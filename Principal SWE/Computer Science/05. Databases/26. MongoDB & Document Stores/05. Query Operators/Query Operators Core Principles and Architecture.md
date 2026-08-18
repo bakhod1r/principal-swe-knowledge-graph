@@ -81,4 +81,4 @@ func (s *QueryOperatorsCorePrinciplesandArchitectureService) Execute(ctx context
 ## 🔗 References
 - ⬆️ Parent: [[Query Operators]]
 - 📚 Module: [[Mongodb & Document Stores]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Tradeoff Analysis Frameworks
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture Decision Making]]
-- 🎓 Root: [[Principal SWE]]
+

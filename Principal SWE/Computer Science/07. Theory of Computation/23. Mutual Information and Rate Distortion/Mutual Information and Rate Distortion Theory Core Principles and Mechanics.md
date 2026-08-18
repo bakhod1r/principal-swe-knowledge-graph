@@ -78,4 +78,4 @@ func (m *MutualInformationandRateDistortionTheoryCorePrinciplesandMechanicsManag
 ## 🔗 References
 - ⬆️ Parent: [[Mutual Information and Rate Distortion Theory]]
 - 📚 Module: [[Theory of Computation]]
-- 🎓 Root: [[Principal SWE]]
+

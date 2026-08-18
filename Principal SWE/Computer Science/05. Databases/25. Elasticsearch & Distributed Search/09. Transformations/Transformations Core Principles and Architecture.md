@@ -81,4 +81,4 @@ func (s *TransformationsCorePrinciplesandArchitectureService) Execute(ctx contex
 ## 🔗 References
 - ⬆️ Parent: [[Transformations]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

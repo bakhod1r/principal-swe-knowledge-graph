@@ -33,4 +33,4 @@ API Transport Security and Data Encryption
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: [[Best Practices]]
-- 🎓 Root: [[Principal SWE]]
+

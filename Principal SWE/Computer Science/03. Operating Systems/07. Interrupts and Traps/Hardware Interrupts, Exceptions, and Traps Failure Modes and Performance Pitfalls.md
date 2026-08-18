@@ -78,4 +78,4 @@ func (m *HardwareInterruptsExceptionsandTrapsFailureModesandPerformancePitfallsM
 ## 🔗 References
 - ⬆️ Parent: [[Hardware Interrupts, Exceptions, and Traps]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

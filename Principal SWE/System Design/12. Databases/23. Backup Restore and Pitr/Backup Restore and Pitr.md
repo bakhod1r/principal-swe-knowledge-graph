@@ -30,4 +30,4 @@ Backup Restore and Pitr
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

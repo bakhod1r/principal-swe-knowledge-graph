@@ -44,4 +44,4 @@ Deployment Infrastructure
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

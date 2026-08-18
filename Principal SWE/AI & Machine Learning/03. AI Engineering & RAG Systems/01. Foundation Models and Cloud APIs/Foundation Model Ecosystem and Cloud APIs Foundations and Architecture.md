@@ -84,4 +84,4 @@ func (c *FoundationModelEcosystemandCloudAPIsFoundationsandArchitectureClient) C
 ## 🔗 References
 - ⬆️ Parent: [[Foundation Model Ecosystem and Cloud APIs]]
 - 📚 Module: [[AI Engineering & RAG Systems]]
-- 🎓 Root: [[Principal SWE]]
+

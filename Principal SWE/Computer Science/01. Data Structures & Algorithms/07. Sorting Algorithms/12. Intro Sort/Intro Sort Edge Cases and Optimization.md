@@ -65,4 +65,4 @@ func optimizeIntroSort(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Intro Sort]]
 - 📚 Module: [[Sorting Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

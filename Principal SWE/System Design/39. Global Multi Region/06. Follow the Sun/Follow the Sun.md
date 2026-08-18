@@ -30,4 +30,4 @@ Follow the Sun
 
 ## 🔗 References
 - ⬆️ Parent: [[Global Multi Region]]
-- 🎓 Root: [[Principal SWE]]
+

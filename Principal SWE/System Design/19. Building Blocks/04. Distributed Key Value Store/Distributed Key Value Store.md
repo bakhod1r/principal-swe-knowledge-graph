@@ -30,4 +30,4 @@ Distributed Key Value Store
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-- 🎓 Root: [[Principal SWE]]
+

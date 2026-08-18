@@ -78,4 +78,4 @@ func (m *NonUniformMemoryAccessnumaCorePrinciplesandMechanicsManager) Process(ct
 ## 🔗 References
 - ⬆️ Parent: [[Non Uniform Memory Access (numa)]]
 - 📚 Module: [[Computer Architecture]]
-- 🎓 Root: [[Principal SWE]]
+

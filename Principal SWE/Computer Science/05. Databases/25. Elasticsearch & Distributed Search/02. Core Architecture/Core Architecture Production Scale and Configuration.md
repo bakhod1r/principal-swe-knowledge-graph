@@ -81,4 +81,4 @@ func (s *CoreArchitectureProductionScaleandConfigurationService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Core Architecture]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *LoadSheddingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Load Shedding]]
 - 📚 Module: [[SRE Reliability Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -81,4 +81,4 @@ func (m *ChattyIOManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Chatty IO]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

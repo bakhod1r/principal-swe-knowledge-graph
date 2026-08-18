@@ -33,4 +33,4 @@ Security Architecture Reviews and Secure Design
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling & Risk Management]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

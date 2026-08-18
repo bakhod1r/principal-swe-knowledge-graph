@@ -85,4 +85,4 @@ func (e *SensitiveDataExposureandCryptographicProtectionThreatVectorandMechanics
 ## 🔗 References
 - ⬆️ Parent: [[Sensitive Data Exposure and Cryptographic Protection]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

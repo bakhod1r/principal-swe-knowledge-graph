@@ -85,4 +85,4 @@ func (e *BrokenAccessControlandBolaDefensesDefensiveArchitectureandHardeningSecu
 ## 🔗 References
 - ⬆️ Parent: [[Broken Access Control and Bola Defenses]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

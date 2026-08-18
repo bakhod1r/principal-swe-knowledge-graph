@@ -81,4 +81,4 @@ func (m *EncryptionatRESTandTransitManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Encryption at REST and Transit]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeBigintArithmetic(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Bigint Arithmetic]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

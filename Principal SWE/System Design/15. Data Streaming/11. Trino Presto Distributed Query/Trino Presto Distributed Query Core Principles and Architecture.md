@@ -81,4 +81,4 @@ func (m *TrinoPrestoDistributedQueryManager) Execute(ctx context.Context) error 
 ## 🔗 References
 - ⬆️ Parent: [[Trino Presto Distributed Query]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

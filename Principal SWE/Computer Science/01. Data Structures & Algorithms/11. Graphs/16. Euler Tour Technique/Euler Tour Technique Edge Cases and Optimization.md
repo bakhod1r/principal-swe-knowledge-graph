@@ -65,4 +65,4 @@ func optimizeEulerTourTechnique(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Euler Tour Technique]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewClosestPairofPoints() *ClosestPairofPoints {
 ## 🔗 References
 - ⬆️ Parent: [[Closest Pair of Points]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

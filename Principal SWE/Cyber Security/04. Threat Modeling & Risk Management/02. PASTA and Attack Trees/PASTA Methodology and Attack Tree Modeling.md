@@ -33,4 +33,4 @@ PASTA Methodology and Attack Tree Modeling
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling & Risk Management]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

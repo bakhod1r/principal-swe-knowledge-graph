@@ -30,4 +30,4 @@ Fault Injection
 
 ## 🔗 References
 - ⬆️ Parent: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

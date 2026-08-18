@@ -33,4 +33,4 @@ Testing Techniques
 ## 🔗 References
 - ⬆️ Parent: [[Quality Assurance & Testing Leadership]]
 - 📚 Module: [[Soft Skills]]
-- 🎓 Root: [[Principal SWE]]
+

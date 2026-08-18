@@ -65,4 +65,4 @@ func optimizeKnuthOptimization(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Knuth Optimization]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

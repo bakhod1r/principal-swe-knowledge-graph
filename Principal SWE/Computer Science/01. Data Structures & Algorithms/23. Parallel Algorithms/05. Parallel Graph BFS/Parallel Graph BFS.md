@@ -30,4 +30,4 @@ Parallel Graph BFS
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

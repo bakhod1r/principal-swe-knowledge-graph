@@ -81,4 +81,4 @@ func (s *FirstStepsCorePrinciplesandArchitectureService) Execute(ctx context.Con
 ## 🔗 References
 - ⬆️ Parent: [[First Steps]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

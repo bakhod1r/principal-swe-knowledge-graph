@@ -59,4 +59,4 @@ func NewTwoThreeFourTree() *TwoThreeFourTree {
 ## 🔗 References
 - ⬆️ Parent: [[Two Three Four Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

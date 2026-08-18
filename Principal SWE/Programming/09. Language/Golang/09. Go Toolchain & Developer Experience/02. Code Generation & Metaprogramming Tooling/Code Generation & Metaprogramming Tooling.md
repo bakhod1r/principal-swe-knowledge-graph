@@ -35,4 +35,4 @@ Code Generation & Metaprogramming Tooling
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Toolchain & Developer Experience]]
-- 🎓 Root: [[Principal SWE]]
+

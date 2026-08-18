@@ -85,4 +85,4 @@ func (e *BrokenAuthenticationandSessionHijackingDefensiveArchitectureandHardenin
 ## 🔗 References
 - ⬆️ Parent: [[Broken Authentication and Session Hijacking]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -65,4 +65,4 @@ func optimizeEulerianPathCircuit(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Eulerian Path Circuit]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Object vs Block vs File
 
 ## 🔗 References
 - ⬆️ Parent: [[Storage Systems]]
-- 🎓 Root: [[Principal SWE]]
+

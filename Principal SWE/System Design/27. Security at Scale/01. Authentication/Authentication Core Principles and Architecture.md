@@ -81,4 +81,4 @@ func (m *AuthenticationManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Authentication]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

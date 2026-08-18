@@ -59,4 +59,4 @@ func NewCoinChange() *CoinChange {
 ## 🔗 References
 - ⬆️ Parent: [[Coin Change]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

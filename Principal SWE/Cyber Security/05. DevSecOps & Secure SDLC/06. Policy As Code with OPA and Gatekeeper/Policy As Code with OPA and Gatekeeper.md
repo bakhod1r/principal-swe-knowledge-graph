@@ -33,4 +33,4 @@ Policy As Code with OPA and Gatekeeper
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops & Secure SDLC]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

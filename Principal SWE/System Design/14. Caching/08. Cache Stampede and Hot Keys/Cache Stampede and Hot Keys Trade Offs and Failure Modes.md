@@ -67,4 +67,4 @@ func BackoffWithJitter(attempt int, base, max time.Duration) time.Duration {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Stampede and Hot Keys]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

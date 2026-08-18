@@ -32,4 +32,4 @@ Mechanical Sympathy and Hardware Consciousness
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

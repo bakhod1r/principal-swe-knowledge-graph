@@ -30,4 +30,4 @@ Interval Scheduling Variations
 
 ## 🔗 References
 - ⬆️ Parent: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

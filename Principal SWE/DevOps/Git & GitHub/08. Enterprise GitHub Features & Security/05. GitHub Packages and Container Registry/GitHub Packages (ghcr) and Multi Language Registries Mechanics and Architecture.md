@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Packages (ghcr) and Multi Language Registries]]
 - 📚 Module: [[Enterprise GitHub Features & Security]]
-- 🎓 Root: [[Principal SWE]]
+

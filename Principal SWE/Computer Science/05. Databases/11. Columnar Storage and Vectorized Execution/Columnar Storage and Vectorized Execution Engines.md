@@ -33,4 +33,4 @@ Columnar Storage and Vectorized Execution Engines
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

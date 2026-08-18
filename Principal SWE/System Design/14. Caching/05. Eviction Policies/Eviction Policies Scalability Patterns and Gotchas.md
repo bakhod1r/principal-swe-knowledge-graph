@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[Eviction Policies]]
 - 📚 Module: [[Caching]]
-- 🎓 Root: [[Principal SWE]]
+

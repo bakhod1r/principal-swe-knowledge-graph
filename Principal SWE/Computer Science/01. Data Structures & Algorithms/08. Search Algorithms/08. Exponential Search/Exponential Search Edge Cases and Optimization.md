@@ -65,4 +65,4 @@ func optimizeExponentialSearch(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Exponential Search]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

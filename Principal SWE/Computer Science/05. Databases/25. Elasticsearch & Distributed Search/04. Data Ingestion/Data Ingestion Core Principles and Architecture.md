@@ -81,4 +81,4 @@ func (s *DataIngestionCorePrinciplesandArchitectureService) Execute(ctx context.
 ## 🔗 References
 - ⬆️ Parent: [[Data Ingestion]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

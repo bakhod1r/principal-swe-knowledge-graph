@@ -30,4 +30,4 @@ Capacity Estimation in Interview
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

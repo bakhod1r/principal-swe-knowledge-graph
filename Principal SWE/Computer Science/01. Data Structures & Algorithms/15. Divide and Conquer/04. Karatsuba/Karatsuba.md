@@ -30,4 +30,4 @@ Karatsuba
 
 ## 🔗 References
 - ⬆️ Parent: [[Divide and Conquer]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewTwoSAT() *TwoSAT {
 ## 🔗 References
 - ⬆️ Parent: [[Two SAT]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

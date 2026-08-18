@@ -81,4 +81,4 @@ func (m *HighLevelDesignManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[High Level Design]]
 - 📚 Module: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

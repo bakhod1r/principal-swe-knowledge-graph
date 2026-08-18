@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[QPS]]
 - 📚 Module: [[Capacity Estimation]]
-- 🎓 Root: [[Principal SWE]]
+

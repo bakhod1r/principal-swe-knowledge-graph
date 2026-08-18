@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Knowledge Management Anti Patterns and
 ## 🔗 References
 - ⬆️ Parent: [[Knowledge Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

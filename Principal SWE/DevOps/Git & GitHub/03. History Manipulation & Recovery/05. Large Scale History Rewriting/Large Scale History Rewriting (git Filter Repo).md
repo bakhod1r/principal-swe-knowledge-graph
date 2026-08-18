@@ -34,4 +34,4 @@ Large Scale History Rewriting (git Filter Repo)
 ## 🔗 References
 - ⬆️ Parent: [[History Manipulation & Recovery]]
 - 📚 Module: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

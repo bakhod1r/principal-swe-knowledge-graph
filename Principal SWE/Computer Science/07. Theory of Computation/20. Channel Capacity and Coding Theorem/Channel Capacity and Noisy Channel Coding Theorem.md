@@ -32,4 +32,4 @@ Channel Capacity and Noisy Channel Coding Theorem
 ## 🔗 References
 - ⬆️ Parent: [[Theory of Computation]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

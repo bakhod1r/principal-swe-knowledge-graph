@@ -65,4 +65,4 @@ func optimizeTheIOModel(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[The IO Model]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

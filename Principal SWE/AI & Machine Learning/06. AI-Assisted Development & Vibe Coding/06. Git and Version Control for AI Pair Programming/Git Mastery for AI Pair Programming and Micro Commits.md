@@ -33,4 +33,4 @@ Git Mastery for AI Pair Programming and Micro Commits
 ## 🔗 References
 - ⬆️ Parent: [[AI Assisted Development & Vibe Coding]]
 - 📚 Module: [[AI & Machine Learning]]
-- 🎓 Root: [[Principal SWE]]
+

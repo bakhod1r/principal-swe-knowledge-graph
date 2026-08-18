@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Product Strategy Anti Patterns and Com
 ## 🔗 References
 - ⬆️ Parent: [[Product Strategy]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

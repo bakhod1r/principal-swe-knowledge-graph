@@ -65,4 +65,4 @@ func optimizePrimeSieves(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Prime Sieves]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

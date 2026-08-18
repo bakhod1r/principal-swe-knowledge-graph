@@ -30,4 +30,4 @@ Connection Pooling Pgbouncer Proxysql
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ Union Find
 
 ## 🔗 References
 - ⬆️ Parent: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

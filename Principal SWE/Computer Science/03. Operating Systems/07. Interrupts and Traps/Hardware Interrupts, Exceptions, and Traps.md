@@ -32,4 +32,4 @@ Hardware Interrupts, Exceptions, and Traps
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems]]
 - 📚 Module: [[Computer Science]]
-- 🎓 Root: [[Principal SWE]]
+

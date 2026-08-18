@@ -65,4 +65,4 @@ func optimizeWhatAreDataStructuresRealWorldApplications(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[What Are Data Structures Overview]]
 - 📚 Module: [[What Are Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

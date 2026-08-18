@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[LCS LIS]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

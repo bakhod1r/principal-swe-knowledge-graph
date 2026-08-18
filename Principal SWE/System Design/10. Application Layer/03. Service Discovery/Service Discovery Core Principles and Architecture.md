@@ -81,4 +81,4 @@ func (m *ServiceDiscoveryManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Service Discovery]]
 - 📚 Module: [[Application Layer]]
-- 🎓 Root: [[Principal SWE]]
+

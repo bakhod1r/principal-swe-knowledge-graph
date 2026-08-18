@@ -81,4 +81,4 @@ func (m *AutoscalingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Autoscaling]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

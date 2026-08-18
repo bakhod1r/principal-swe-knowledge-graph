@@ -81,4 +81,4 @@ func (s *SearchFundamentalsCorePrinciplesandArchitectureService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Search Fundamentals]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

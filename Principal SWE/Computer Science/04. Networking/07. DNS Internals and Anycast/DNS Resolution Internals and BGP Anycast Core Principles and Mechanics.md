@@ -78,4 +78,4 @@ func (m *DNSResolutionInternalsandBGPAnycastCorePrinciplesandMechanicsManager) P
 ## 🔗 References
 - ⬆️ Parent: [[DNS Resolution Internals and BGP Anycast]]
 - 📚 Module: [[Networking (Computer Science)]]
-- 🎓 Root: [[Principal SWE]]
+

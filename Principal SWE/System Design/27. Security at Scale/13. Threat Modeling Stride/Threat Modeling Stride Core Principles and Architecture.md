@@ -81,4 +81,4 @@ func (m *ThreatModelingStrideManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling Stride]]
 - 📚 Module: [[Security at Scale]]
-- 🎓 Root: [[Principal SWE]]
+

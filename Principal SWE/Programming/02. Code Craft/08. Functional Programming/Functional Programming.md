@@ -57,4 +57,4 @@ Functional Programming
 
 ## 🔗 References
 - ⬆️ Parent: [[Code Craft]]
-- 🎓 Root: [[Principal SWE]]
+

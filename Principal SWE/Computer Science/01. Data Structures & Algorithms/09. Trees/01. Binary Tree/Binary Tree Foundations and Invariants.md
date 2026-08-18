@@ -59,4 +59,4 @@ func NewBinaryTree() *BinaryTree {
 ## 🔗 References
 - ⬆️ Parent: [[Binary Tree]]
 - 📚 Module: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

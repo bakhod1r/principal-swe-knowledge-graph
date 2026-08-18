@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Advanced Topics Anti Patterns and Comm
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Topics]]
 - 📚 Module: [[Product Management & Strategy]]
-- 🎓 Root: [[Principal SWE]]
+

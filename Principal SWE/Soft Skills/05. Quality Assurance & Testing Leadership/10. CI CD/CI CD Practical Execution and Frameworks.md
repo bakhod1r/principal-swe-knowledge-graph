@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for CI CD Practical Execution and Framewor
 ## 🔗 References
 - ⬆️ Parent: [[CI CD (Quality Assurance & Testing Leadership)]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

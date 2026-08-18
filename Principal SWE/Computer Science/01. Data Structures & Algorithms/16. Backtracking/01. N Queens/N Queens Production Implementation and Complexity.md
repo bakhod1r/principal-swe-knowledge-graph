@@ -62,4 +62,4 @@ public:
 ## 🔗 References
 - ⬆️ Parent: [[N Queens]]
 - 📚 Module: [[Backtracking]]
-- 🎓 Root: [[Principal SWE]]
+

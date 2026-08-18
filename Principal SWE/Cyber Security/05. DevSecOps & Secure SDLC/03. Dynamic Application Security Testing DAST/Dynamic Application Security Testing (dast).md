@@ -33,4 +33,4 @@ Dynamic Application Security Testing (dast)
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops & Secure SDLC]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

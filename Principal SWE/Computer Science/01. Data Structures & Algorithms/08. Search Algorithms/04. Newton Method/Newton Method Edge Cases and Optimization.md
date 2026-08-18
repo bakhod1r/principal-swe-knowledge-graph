@@ -65,4 +65,4 @@ func optimizeNewtonMethod(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Newton Method]]
 - 📚 Module: [[Search Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -36,4 +36,4 @@ Divide and Conquer
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures & Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

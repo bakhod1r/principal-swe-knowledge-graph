@@ -30,4 +30,4 @@ CRDT Fundamentals
 
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

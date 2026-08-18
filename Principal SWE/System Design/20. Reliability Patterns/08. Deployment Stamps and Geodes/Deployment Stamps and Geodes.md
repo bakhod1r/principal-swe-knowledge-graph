@@ -30,4 +30,4 @@ Deployment Stamps and Geodes
 
 ## 🔗 References
 - ⬆️ Parent: [[Reliability Patterns]]
-- 🎓 Root: [[Principal SWE]]
+

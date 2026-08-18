@@ -65,4 +65,4 @@ func optimizeGraphColoring(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Graph Coloring]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

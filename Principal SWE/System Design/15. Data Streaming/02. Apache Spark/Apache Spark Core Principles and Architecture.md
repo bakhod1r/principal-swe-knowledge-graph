@@ -81,4 +81,4 @@ func (m *ApacheSparkManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Apache Spark]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

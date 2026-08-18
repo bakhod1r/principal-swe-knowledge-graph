@@ -59,4 +59,4 @@ func NewCacheObliviousAlgorithms() *CacheObliviousAlgorithms {
 ## 🔗 References
 - ⬆️ Parent: [[Cache Oblivious Algorithms]]
 - 📚 Module: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

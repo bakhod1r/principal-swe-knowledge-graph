@@ -84,4 +84,4 @@ func (c *CustomSkillsArchitectureskillmdandToolExtensionsFailureModesandOptimiza
 ## 🔗 References
 - ⬆️ Parent: [[Custom Skills Architecture (skill.md) and Tool Extensions]]
 - 📚 Module: [[Claude Code, Subagents & Workflows]]
-- 🎓 Root: [[Principal SWE]]
+

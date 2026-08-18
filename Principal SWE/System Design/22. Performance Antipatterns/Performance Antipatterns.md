@@ -44,4 +44,4 @@ Performance Antipatterns
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

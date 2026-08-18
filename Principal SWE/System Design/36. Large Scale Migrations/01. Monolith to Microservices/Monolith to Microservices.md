@@ -30,4 +30,4 @@ Monolith to Microservices
 
 ## 🔗 References
 - ⬆️ Parent: [[Large Scale Migrations]]
-- 🎓 Root: [[Principal SWE]]
+

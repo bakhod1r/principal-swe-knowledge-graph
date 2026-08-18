@@ -59,4 +59,4 @@ func NewDijkstra() *Dijkstra {
 ## 🔗 References
 - ⬆️ Parent: [[Dijkstra]]
 - 📚 Module: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

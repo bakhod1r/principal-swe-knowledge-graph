@@ -81,4 +81,4 @@ func (m *InfrastructureAsCodeManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Infrastructure As Code]]
 - 📚 Module: [[Deployment Infrastructure]]
-- 🎓 Root: [[Principal SWE]]
+

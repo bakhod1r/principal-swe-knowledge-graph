@@ -81,4 +81,4 @@ func (m *MetricsPipelinesManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Metrics Pipelines]]
 - 📚 Module: [[Observability]]
-- 🎓 Root: [[Principal SWE]]
+

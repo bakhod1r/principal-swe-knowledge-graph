@@ -59,4 +59,4 @@ func NewMinkowskiSum() *MinkowskiSum {
 ## 🔗 References
 - ⬆️ Parent: [[Minkowski Sum]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

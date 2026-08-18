@@ -30,4 +30,4 @@ Eulerian Path Circuit
 
 ## 🔗 References
 - ⬆️ Parent: [[Graphs]]
-- 🎓 Root: [[Principal SWE]]
+

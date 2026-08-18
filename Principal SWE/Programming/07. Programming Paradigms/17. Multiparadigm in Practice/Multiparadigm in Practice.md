@@ -33,4 +33,4 @@ Multiparadigm in Practice
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Paradigms]]
-- 🎓 Root: [[Principal SWE]]
+

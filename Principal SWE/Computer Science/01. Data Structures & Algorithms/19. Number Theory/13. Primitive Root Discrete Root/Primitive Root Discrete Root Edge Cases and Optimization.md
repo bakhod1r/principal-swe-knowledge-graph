@@ -65,4 +65,4 @@ func optimizePrimitiveRootDiscreteRoot(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Primitive Root Discrete Root]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

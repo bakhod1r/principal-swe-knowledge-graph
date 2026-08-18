@@ -30,4 +30,4 @@ Randomized Quicksort
 
 ## 🔗 References
 - ⬆️ Parent: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

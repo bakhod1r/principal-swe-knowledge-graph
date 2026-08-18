@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Change Management Practical Execution 
 ## 🔗 References
 - ⬆️ Parent: [[Change Management]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

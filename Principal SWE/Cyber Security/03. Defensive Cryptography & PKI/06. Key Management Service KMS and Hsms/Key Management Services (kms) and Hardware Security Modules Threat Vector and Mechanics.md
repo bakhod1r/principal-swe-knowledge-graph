@@ -85,4 +85,4 @@ func (e *KeyManagementServiceskmsandHardwareSecurityModulesThreatVectorandMechan
 ## 🔗 References
 - ⬆️ Parent: [[Key Management Services (kms) and Hardware Security Modules]]
 - 📚 Module: [[Defensive Cryptography & PKI]]
-- 🎓 Root: [[Principal SWE]]
+

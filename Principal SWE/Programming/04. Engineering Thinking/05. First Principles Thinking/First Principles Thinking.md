@@ -33,4 +33,4 @@ First Principles Thinking
 
 ## 🔗 References
 - ⬆️ Parent: [[Engineering Thinking]]
-- 🎓 Root: [[Principal SWE]]
+

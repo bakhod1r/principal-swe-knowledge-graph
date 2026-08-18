@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[CodeQL Semantic Code Analysis and Query Authoring]]
 - 📚 Module: [[Enterprise GitHub Features & Security]]
-- 🎓 Root: [[Principal SWE]]
+

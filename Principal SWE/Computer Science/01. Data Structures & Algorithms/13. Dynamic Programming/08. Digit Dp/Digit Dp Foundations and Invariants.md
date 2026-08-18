@@ -59,4 +59,4 @@ func NewDigitDp() *DigitDp {
 ## 🔗 References
 - ⬆️ Parent: [[Digit Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

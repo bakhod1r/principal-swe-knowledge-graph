@@ -59,4 +59,4 @@ func NewWhatAreDataStructures() *WhatAreDataStructures {
 ## 🔗 References
 - ⬆️ Parent: [[What Are Data Structures Overview]]
 - 📚 Module: [[What Are Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

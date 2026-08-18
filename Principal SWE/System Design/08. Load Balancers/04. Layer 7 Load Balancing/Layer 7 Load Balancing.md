@@ -30,4 +30,4 @@ Layer 7 Load Balancing
 
 ## 🔗 References
 - ⬆️ Parent: [[Load Balancers]]
-- 🎓 Root: [[Principal SWE]]
+

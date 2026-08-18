@@ -33,4 +33,4 @@ Container Security
 ## 🔗 References
 - ⬆️ Parent: [[Docker & Containerization]]
 - 📚 Module: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

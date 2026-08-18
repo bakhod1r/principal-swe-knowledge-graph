@@ -81,4 +81,4 @@ func (m *LakehouseandTableFormatsManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Lakehouse and Table Formats]]
 - 📚 Module: [[Data Streaming]]
-- 🎓 Root: [[Principal SWE]]
+

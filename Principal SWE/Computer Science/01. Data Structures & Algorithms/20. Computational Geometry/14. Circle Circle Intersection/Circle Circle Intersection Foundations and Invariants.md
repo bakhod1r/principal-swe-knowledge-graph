@@ -59,4 +59,4 @@ func NewCircleCircleIntersection() *CircleCircleIntersection {
 ## 🔗 References
 - ⬆️ Parent: [[Circle Circle Intersection]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

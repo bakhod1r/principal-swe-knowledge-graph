@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Saying Yes and Commitment Core Princip
 ## 🔗 References
 - ⬆️ Parent: [[Saying Yes and Commitment]]
 - 📚 Module: [[Professionalism & Software Ethics]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Automated Testing Anti Patterns and Co
 ## 🔗 References
 - ⬆️ Parent: [[Automated Testing]]
 - 📚 Module: [[Quality Assurance & Testing Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

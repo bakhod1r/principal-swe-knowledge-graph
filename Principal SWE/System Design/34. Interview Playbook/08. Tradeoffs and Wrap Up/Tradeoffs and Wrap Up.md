@@ -30,4 +30,4 @@ Tradeoffs and Wrap Up
 
 ## 🔗 References
 - ⬆️ Parent: [[Interview Playbook]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -34,4 +34,4 @@ Geospatial Systems
 
 ## 🔗 References
 - ⬆️ Parent: [[System Design]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -59,4 +59,4 @@ func NewLRUCache() *LRUCache {
 ## 🔗 References
 - ⬆️ Parent: [[LRU Cache]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

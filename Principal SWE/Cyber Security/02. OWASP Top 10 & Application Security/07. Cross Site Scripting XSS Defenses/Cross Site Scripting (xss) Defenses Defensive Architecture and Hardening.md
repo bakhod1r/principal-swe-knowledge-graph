@@ -85,4 +85,4 @@ func (e *CrossSiteScriptingxssDefensesDefensiveArchitectureandHardeningSecurityE
 ## 🔗 References
 - ⬆️ Parent: [[Cross Site Scripting (xss) Defenses]]
 - 📚 Module: [[OWASP Top 10 & Application Security]]
-- 🎓 Root: [[Principal SWE]]
+

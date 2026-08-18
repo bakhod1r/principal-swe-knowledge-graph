@@ -64,4 +64,4 @@ git log --oneline --graph --decorate -n 5
 ## 🔗 References
 - ⬆️ Parent: [[Trunk Based Development vs Gitflow Workflows]]
 - 📚 Module: [[Branching & Merging Strategies]]
-- 🎓 Root: [[Principal SWE]]
+

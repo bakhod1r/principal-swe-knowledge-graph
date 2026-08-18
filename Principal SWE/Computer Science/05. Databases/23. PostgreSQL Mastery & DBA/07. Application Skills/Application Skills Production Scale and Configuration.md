@@ -81,4 +81,4 @@ func (s *ApplicationSkillsProductionScaleandConfigurationService) Execute(ctx co
 ## 🔗 References
 - ⬆️ Parent: [[Application Skills]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

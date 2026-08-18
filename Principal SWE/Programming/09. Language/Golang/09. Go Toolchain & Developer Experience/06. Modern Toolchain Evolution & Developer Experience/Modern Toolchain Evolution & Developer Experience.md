@@ -33,4 +33,4 @@ Modern Toolchain Evolution & Developer Experience
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Toolchain & Developer Experience]]
-- 🎓 Root: [[Principal SWE]]
+

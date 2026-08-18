@@ -78,4 +78,4 @@ func (m *PageReplacementandEvictionAlgorithmsProductionArchitectureandImplementa
 ## 🔗 References
 - ⬆️ Parent: [[Page Replacement and Eviction Algorithms]]
 - 📚 Module: [[Operating Systems]]
-- 🎓 Root: [[Principal SWE]]
+

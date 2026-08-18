@@ -81,4 +81,4 @@ func (m *ExtraneousFetchingManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Extraneous Fetching]]
 - 📚 Module: [[Performance Antipatterns]]
-- 🎓 Root: [[Principal SWE]]
+

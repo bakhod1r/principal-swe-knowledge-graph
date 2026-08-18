@@ -33,4 +33,4 @@ Operating System Security Hardening
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations]]
 - 📚 Module: [[Cyber Security]]
-- 🎓 Root: [[Principal SWE]]
+

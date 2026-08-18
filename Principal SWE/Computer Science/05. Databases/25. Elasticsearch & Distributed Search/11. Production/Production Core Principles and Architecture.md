@@ -81,4 +81,4 @@ func (s *ProductionCorePrinciplesandArchitectureService) Execute(ctx context.Con
 ## 🔗 References
 - ⬆️ Parent: [[Production]]
 - 📚 Module: [[Elasticsearch & Distributed Search]]
-- 🎓 Root: [[Principal SWE]]
+

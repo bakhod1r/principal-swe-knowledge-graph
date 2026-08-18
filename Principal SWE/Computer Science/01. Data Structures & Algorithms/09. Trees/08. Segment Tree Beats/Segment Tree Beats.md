@@ -30,4 +30,4 @@ Segment Tree Beats
 
 ## 🔗 References
 - ⬆️ Parent: [[Trees]]
-- 🎓 Root: [[Principal SWE]]
+

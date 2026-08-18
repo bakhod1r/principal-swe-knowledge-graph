@@ -66,4 +66,4 @@ Core DevOps Engineering
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

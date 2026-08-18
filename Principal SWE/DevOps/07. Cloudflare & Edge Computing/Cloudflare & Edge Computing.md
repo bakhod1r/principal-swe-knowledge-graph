@@ -46,4 +46,4 @@ Cloudflare & Edge Computing
 
 ## 🔗 References
 - ⬆️ Parent: [[DevOps]]
-- 🎓 Root: [[Principal SWE]]
+

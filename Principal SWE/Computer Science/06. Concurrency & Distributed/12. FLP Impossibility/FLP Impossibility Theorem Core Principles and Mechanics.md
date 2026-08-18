@@ -78,4 +78,4 @@ func (m *FLPImpossibilityTheoremCorePrinciplesandMechanicsManager) Process(ctx c
 ## 🔗 References
 - ⬆️ Parent: [[FLP Impossibility Theorem]]
 - 📚 Module: [[Concurrency & Distributed]]
-- 🎓 Root: [[Principal SWE]]
+

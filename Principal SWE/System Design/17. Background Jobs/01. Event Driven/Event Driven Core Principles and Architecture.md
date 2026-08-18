@@ -81,4 +81,4 @@ func (m *EventDrivenManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Event Driven]]
 - 📚 Module: [[Background Jobs]]
-- 🎓 Root: [[Principal SWE]]
+

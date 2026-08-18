@@ -59,4 +59,4 @@ func NewSuffixArrays() *SuffixArrays {
 ## 🔗 References
 - ⬆️ Parent: [[Suffix Arrays]]
 - 📚 Module: [[String Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

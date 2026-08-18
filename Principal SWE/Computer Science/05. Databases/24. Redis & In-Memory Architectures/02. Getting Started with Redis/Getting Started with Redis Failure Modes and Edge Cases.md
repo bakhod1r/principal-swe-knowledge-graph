@@ -81,4 +81,4 @@ func (s *GettingStartedwithRedisFailureModesandEdgeCasesService) Execute(ctx con
 ## 🔗 References
 - ⬆️ Parent: [[Getting Started with Redis]]
 - 📚 Module: [[Redis & in Memory Architectures]]
-- 🎓 Root: [[Principal SWE]]
+

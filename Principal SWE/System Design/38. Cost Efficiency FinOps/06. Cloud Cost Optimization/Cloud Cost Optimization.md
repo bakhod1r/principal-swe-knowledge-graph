@@ -30,4 +30,4 @@ Cloud Cost Optimization
 
 ## 🔗 References
 - ⬆️ Parent: [[Cost Efficiency FinOps]]
-- 🎓 Root: [[Principal SWE]]
+

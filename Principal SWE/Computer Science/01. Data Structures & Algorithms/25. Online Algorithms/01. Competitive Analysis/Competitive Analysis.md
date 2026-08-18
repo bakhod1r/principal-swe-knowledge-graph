@@ -30,4 +30,4 @@ Competitive Analysis
 
 ## 🔗 References
 - ⬆️ Parent: [[Online Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

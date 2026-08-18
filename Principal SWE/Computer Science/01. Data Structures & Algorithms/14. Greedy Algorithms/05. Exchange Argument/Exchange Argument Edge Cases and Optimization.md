@@ -65,4 +65,4 @@ func optimizeExchangeArgument(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Exchange Argument]]
 - 📚 Module: [[Greedy Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

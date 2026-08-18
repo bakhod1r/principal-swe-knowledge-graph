@@ -81,4 +81,4 @@ func (m *SQLvsNoSQLManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[SQL vs NoSQL]]
 - 📚 Module: [[Databases (System Design)]]
-- 🎓 Root: [[Principal SWE]]
+

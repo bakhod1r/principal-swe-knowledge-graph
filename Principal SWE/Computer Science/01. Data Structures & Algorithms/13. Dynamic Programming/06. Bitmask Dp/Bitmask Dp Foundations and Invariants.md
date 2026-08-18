@@ -59,4 +59,4 @@ func NewBitmaskDp() *BitmaskDp {
 ## 🔗 References
 - ⬆️ Parent: [[Bitmask Dp]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

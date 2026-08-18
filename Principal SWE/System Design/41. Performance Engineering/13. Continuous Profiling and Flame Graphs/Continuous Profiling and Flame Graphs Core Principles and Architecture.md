@@ -81,4 +81,4 @@ func (m *ContinuousProfilingandFlameGraphsManager) Execute(ctx context.Context) 
 ## 🔗 References
 - ⬆️ Parent: [[Continuous Profiling and Flame Graphs]]
 - 📚 Module: [[Performance Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

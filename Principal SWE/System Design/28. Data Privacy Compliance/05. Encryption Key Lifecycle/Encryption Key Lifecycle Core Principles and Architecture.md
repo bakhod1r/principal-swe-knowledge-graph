@@ -81,4 +81,4 @@ func (m *EncryptionKeyLifecycleManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Encryption Key Lifecycle]]
 - 📚 Module: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

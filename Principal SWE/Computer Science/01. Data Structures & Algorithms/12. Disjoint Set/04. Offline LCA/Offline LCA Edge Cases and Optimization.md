@@ -65,4 +65,4 @@ func optimizeOfflineLCA(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Offline LCA]]
 - 📚 Module: [[Disjoint Set]]
-- 🎓 Root: [[Principal SWE]]
+

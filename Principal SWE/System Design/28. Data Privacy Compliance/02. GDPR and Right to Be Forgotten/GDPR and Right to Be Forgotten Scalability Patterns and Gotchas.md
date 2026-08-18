@@ -68,4 +68,4 @@ spec:
 ## 🔗 References
 - ⬆️ Parent: [[GDPR and Right to Be Forgotten]]
 - 📚 Module: [[Data Privacy Compliance]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -30,4 +30,4 @@ The IO Model
 
 ## 🔗 References
 - ⬆️ Parent: [[External Memory and Cache Aware]]
-- 🎓 Root: [[Principal SWE]]
+

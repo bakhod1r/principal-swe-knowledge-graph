@@ -58,4 +58,4 @@ func ExecuteMultiProducerMultiConsumerMPMCQueueAtomicCAS(data []int, target int)
 ## 🔗 References
 - ⬆️ Parent: [[Queues (Basic Data Structures)]]
 - 📚 Module: [[Basic Data Structures]]
-- 🎓 Root: [[Principal SWE]]
+

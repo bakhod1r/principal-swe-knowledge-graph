@@ -59,4 +59,4 @@ func NewManhattanChebyshev() *ManhattanChebyshev {
 ## 🔗 References
 - ⬆️ Parent: [[Manhattan Chebyshev]]
 - 📚 Module: [[Computational Geometry]]
-- 🎓 Root: [[Principal SWE]]
+

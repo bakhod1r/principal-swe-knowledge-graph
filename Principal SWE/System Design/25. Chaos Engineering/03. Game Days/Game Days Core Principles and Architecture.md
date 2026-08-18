@@ -81,4 +81,4 @@ func (m *GameDaysManager) Execute(ctx context.Context) error {
 ## 🔗 References
 - ⬆️ Parent: [[Game Days]]
 - 📚 Module: [[Chaos Engineering]]
-- 🎓 Root: [[Principal SWE]]
+

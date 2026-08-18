@@ -59,4 +59,4 @@ func NewBitParallel() *BitParallel {
 ## 🔗 References
 - ⬆️ Parent: [[Bit Parallel]]
 - 📚 Module: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

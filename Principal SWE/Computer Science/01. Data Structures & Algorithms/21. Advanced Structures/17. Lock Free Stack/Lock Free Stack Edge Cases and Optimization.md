@@ -65,4 +65,4 @@ func optimizeLockFreeStack(data []int) int {
 ## 🔗 References
 - ⬆️ Parent: [[Lock Free Stack]]
 - 📚 Module: [[Advanced Structures]]
-- 🎓 Root: [[Principal SWE]]
+

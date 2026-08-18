@@ -59,4 +59,4 @@ func NewNim() *Nim {
 ## 🔗 References
 - ⬆️ Parent: [[Nim]]
 - 📚 Module: [[Dynamic Programming]]
-- 🎓 Root: [[Principal SWE]]
+

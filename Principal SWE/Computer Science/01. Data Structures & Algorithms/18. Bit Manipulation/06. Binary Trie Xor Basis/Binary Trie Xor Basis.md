@@ -30,4 +30,4 @@ Binary Trie Xor Basis
 
 ## 🔗 References
 - ⬆️ Parent: [[Bit Manipulation]]
-- 🎓 Root: [[Principal SWE]]
+

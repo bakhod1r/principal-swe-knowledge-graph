@@ -81,4 +81,4 @@ func (s *LearnSQLFailureModesandEdgeCasesService) Execute(ctx context.Context) e
 ## 🔗 References
 - ⬆️ Parent: [[Learn SQL]]
 - 📚 Module: [[Postgresql Mastery & DBA]]
-- 🎓 Root: [[Principal SWE]]
+

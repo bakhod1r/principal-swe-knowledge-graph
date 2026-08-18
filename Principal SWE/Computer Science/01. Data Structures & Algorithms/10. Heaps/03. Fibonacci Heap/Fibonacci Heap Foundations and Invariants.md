@@ -59,4 +59,4 @@ func NewFibonacciHeap() *FibonacciHeap {
 ## 🔗 References
 - ⬆️ Parent: [[Fibonacci Heap]]
 - 📚 Module: [[Heaps]]
-- 🎓 Root: [[Principal SWE]]
+

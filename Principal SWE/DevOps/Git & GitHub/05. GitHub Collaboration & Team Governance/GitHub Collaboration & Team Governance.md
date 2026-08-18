@@ -39,4 +39,4 @@ GitHub Collaboration & Team Governance
 
 ## 🔗 References
 - ⬆️ Parent: [[Git & GitHub]]
-- 🎓 Root: [[Principal SWE]]
+

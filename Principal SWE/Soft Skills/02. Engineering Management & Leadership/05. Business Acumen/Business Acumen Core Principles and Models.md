@@ -62,4 +62,4 @@ Leadership & Strategic Decision Model for Business Acumen Core Principles and Mo
 ## 🔗 References
 - ⬆️ Parent: [[Business Acumen]]
 - 📚 Module: [[Engineering Management & Leadership]]
-- 🎓 Root: [[Principal SWE]]
+

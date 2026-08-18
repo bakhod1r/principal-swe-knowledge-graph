@@ -59,4 +59,4 @@ func NewTreap() *Treap {
 ## 🔗 References
 - ⬆️ Parent: [[Treap]]
 - 📚 Module: [[Randomized Algorithms]]
-- 🎓 Root: [[Principal SWE]]
+

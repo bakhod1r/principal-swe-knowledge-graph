@@ -59,4 +59,4 @@ func NewPollardRhoFactorization() *PollardRhoFactorization {
 ## 🔗 References
 - ⬆️ Parent: [[Pollard Rho Factorization]]
 - 📚 Module: [[Number Theory]]
-- 🎓 Root: [[Principal SWE]]
+

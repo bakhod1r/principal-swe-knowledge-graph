@@ -37,4 +37,4 @@ Formal Methods and Verification
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-- 🎓 Root: [[Principal SWE]]
+
