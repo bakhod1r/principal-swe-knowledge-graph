@@ -4,7 +4,7 @@ tags:
   - golang
   - functions
   - principal-swe
-parent: "[[Functions]]"
+parent: "[[Functions (Clean Code)]]"
 ---
 
 # Anonymous Functions & Closures
@@ -34,5 +34,5 @@ Anonymous Functions & Closures
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions (Clean Code)]]
 

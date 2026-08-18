@@ -21,4 +21,4 @@ parent: "[[Stack Traces & Diagnostic Enrichment]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Stack Traces & Diagnostic Enrichment]]
-- 📚 Module: [[Error Handling]]
+- 📚 Module: [[Error Handling (Clean Code)]]

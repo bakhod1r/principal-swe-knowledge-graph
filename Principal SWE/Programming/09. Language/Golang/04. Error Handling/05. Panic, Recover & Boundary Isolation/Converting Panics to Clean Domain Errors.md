@@ -21,4 +21,4 @@ parent: "[[Panic, Recover & Boundary Isolation]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Panic, Recover & Boundary Isolation]]
-- 📚 Module: [[Error Handling]]
+- 📚 Module: [[Error Handling (Clean Code)]]

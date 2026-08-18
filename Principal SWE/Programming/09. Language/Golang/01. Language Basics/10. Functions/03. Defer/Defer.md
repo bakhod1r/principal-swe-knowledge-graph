@@ -4,7 +4,7 @@ tags:
   - golang
   - functions
   - principal-swe
-parent: "[[Functions]]"
+parent: "[[Functions (Clean Code)]]"
 ---
 
 # Defer
@@ -34,5 +34,5 @@ Defer
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions (Clean Code)]]
 

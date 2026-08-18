@@ -4,7 +4,7 @@ tags:
   - golang
   - functions
   - principal-swe
-parent: "[[Functions]]"
+parent: "[[Functions (Clean Code)]]"
 ---
 
 # Calling Conventions & Stacks
@@ -30,5 +30,5 @@ Calling Conventions & Stacks
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions (Clean Code)]]
 

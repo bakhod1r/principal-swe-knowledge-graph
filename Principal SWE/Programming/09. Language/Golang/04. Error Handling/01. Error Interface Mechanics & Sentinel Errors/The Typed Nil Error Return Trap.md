@@ -21,4 +21,4 @@ parent: "[[Error Interface Mechanics & Sentinel Errors]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Error Interface Mechanics & Sentinel Errors]]
-- 📚 Module: [[Error Handling]]
+- 📚 Module: [[Error Handling (Clean Code)]]

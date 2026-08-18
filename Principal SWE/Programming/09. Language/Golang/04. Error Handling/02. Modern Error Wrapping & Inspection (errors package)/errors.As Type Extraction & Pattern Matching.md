@@ -21,4 +21,4 @@ parent: "[[Modern Error Wrapping & Inspection (errors package)]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Modern Error Wrapping & Inspection (errors package)]]
-- 📚 Module: [[Error Handling]]
+- 📚 Module: [[Error Handling (Clean Code)]]

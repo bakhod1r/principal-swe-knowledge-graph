@@ -8,7 +8,7 @@ tags:
   - golang
   - functions
   - principal-swe
-parent: "[[Functions]]"
+parent: "[[Functions (Clean Code)]]"
 ---
 
 # Function Basics
@@ -38,5 +38,5 @@ Function Basics
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions (Clean Code)]]
 

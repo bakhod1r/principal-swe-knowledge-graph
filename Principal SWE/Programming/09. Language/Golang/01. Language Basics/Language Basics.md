@@ -59,7 +59,7 @@ Language Basics
 │   ├── [[For Loop]]
 │   ├── [[For Range]]
 │   └── [[Control Flow & Jumps]]
-├── [[Functions|10. Functions]]
+├── [[Functions (Clean Code)|10. Functions]]
 │   ├── [[Function Basics]]
 │   ├── [[Anonymous Functions & Closures]]
 │   ├── [[Defer]]
@@ -130,7 +130,7 @@ Language Basics
 - [[For Range]] — Iterating slices, maps, strings, channels, integers (1.22+), and push/pull iterators (1.23+ coroutines).
 - [[Control Flow & Jumps]] — break, continue, goto cleanup idioms, and labeled jumps.
 
-### 10. 📂 [[Functions|10. Functions]]
+### 10. 📂 [[Functions (Clean Code)|10. Functions]]
 - [[Function Basics]] — Function declarations, multiple return values, named returns, variadics, pass-by-value.
 - [[Anonymous Functions & Closures]] — Function literals, closures, variable capture, and heap escape.
 - [[Defer]] — LIFO defer mechanics, argument evaluation timing, open-coded defers (Go 1.14+ zero-cost), and heap escapes.

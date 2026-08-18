@@ -4,7 +4,7 @@ tags:
   - golang
   - functions
   - principal-swe
-parent: "[[Functions]]"
+parent: "[[Functions (Clean Code)]]"
 ---
 
 # Init Function
@@ -32,5 +32,5 @@ Init Function
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Functions]]
+- ⬆️ Parent: [[Functions (Clean Code)]]
 

@@ -4,7 +4,7 @@ tags:
   - golang
   - error-handling
   - principal-swe
-parent: "[[Error Handling]]"
+parent: "[[Error Handling (Clean Code)]]"
 ---
 
 # Error Handling Anti-Patterns & Code Smells
@@ -34,5 +34,5 @@ Error Handling Anti-Patterns & Code Smells
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Error Handling]]
+- ⬆️ Parent: [[Error Handling (Clean Code)]]
 

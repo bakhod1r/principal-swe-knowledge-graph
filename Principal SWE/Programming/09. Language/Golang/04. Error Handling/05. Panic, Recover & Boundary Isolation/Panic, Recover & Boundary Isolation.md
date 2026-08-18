@@ -4,7 +4,7 @@ tags:
   - golang
   - error-handling
   - principal-swe
-parent: "[[Error Handling]]"
+parent: "[[Error Handling (Clean Code)]]"
 ---
 
 # Panic, Recover & Boundary Isolation
@@ -34,5 +34,5 @@ Panic, Recover & Boundary Isolation
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Error Handling]]
+- ⬆️ Parent: [[Error Handling (Clean Code)]]
 

@@ -4,7 +4,7 @@ tags:
   - golang
   - error-handling
   - principal-swe
-parent: "[[Error Handling]]"
+parent: "[[Error Handling (Clean Code)]]"
 ---
 
 # Modern Error Wrapping & Inspection (errors package)
@@ -34,5 +34,5 @@ Modern Error Wrapping & Inspection (errors package)
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Error Handling]]
+- ⬆️ Parent: [[Error Handling (Clean Code)]]
 

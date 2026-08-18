@@ -13,7 +13,6 @@ Comprehensive, language-agnostic software engineering foundations, architecture 
 
 ```text
 Programming
-│
 ├── [[Choosing a Language & Polyglot|01. Choosing a Language & Polyglot]]
 ├── [[Code Craft|02. Code Craft]]
 ├── [[Diagnostics|03. Diagnostics]]
@@ -30,23 +29,31 @@ Programming
 ## 🏛️ Core Knowledge Domains
 
 ### 1. 📂 [[Choosing a Language & Polyglot|01. Choosing a Language & Polyglot]]
-Language evaluation frameworks, runtime vs developer velocity trade-offs, polyglot microservice communication (FFI, gRPC), and systems language trends.
+Language selection criteria, performance vs productivity trade-offs, tooling maturity, polyglot architectures, TCO, and language migration strategies.
+
 ### 2. 📂 [[Code Craft|02. Code Craft]]
-Clean code fundamentals, readability, high cohesion, low coupling, and defensive programming contracts.
+Clean code disciplines, design principles, design patterns, refactoring techniques, anti-patterns, documentation quality, and legacy code modernization.
+
 ### 3. 📂 [[Diagnostics|03. Diagnostics]]
-Debuggers, DWARF tables, CPU/memory flame graphs, off-CPU profiling, and distributed tracing.
+Logging, tracing, metrics, continuous profiling, interactive debugging, dynamic eBPF instrumentation, crash reporting, and post-mortem analysis.
+
 ### 4. 📂 [[Engineering Thinking|04. Engineering Thinking]]
-First principles, mechanical sympathy, trade-off analysis, root cause analysis, and ADR decision-making.
+Computational thinking, problem solving, systems thinking, first principles, probabilistic reasoning, lateral thinking, and hypothesis-driven engineering.
+
 ### 5. 📂 [[Language Internals|05. Language Internals]]
-Compilers, AST, SSA intermediate representation, virtual machines (JIT), garbage collection, and memory allocators.
+Compilers and interpreters, AST and SSA, memory management (GC, allocators), type systems, runtime systems, evaluation models, and FFI interop.
+
 ### 6. 📂 [[Object-Oriented Programming|06. Object-Oriented Programming]]
-Object memory layouts, vtables, SOLID principles, GoF design patterns, DDD domain modeling, and anti-patterns.
+Object-oriented fundamentals, memory layout (vtables), object contracts, SOLID principles, tactical DDD, and OO design & modeling.
+
 ### 7. 📂 [[Programming Paradigms|07. Programming Paradigms]]
-Imperative, functional, declarative, reactive streams, and Actor model concurrency.
+Imperative, procedural, functional, reactive, declarative, actor model & CSP, dataflow, logic, aspect-oriented, and multiparadigm programming.
+
 ### 8. 📂 [[Quality Engineering|08. Quality Engineering]]
-Testing pyramid, TDD/BDD, contract testing, property-based testing, chaos engineering, and CI/CD verification.
+Testing pyramid, static and dynamic analysis (sanitizers), code quality metrics, code review, performance benchmarking, release engineering, and DORA metrics.
+
 ### 9. 📂 [[Language]]
-Dedicated deep programming language mastery repositories (e.g. [[Golang]]).
+Dedicated deep programming language mastery repositories (e.g. [[Golang]] with 17 Master Pillars and 1,147+ notes).
 
 ---
 

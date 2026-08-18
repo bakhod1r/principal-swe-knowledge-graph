@@ -21,4 +21,4 @@ parent: "[[Error Handling Anti-Patterns & Code Smells]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Error Handling Anti-Patterns & Code Smells]]
-- 📚 Module: [[Error Handling]]
+- 📚 Module: [[Error Handling (Clean Code)]]

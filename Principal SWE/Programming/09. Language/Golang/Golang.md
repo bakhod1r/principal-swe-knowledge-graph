@@ -45,7 +45,7 @@ Method receivers, value vs pointer semantics, method sets, dynamic interface dis
 ### 3. 📂 [[Generics|03. Generics]]
 Parametric polymorphism, type parameters, type constraints, type sets (`~T`), generic data structures, GcShape stenciling, dictionary passing, and generic design patterns.
 
-### 4. 📂 [[Error Handling|04. Error Handling]]
+### 4. 📂 [[Error Handling (Clean Code)|04. Error Handling]]
 Error interface mechanics, sentinel errors, error wrapping (`%w`), multi-errors (`errors.Join`), domain error codes, stack traces, panic/recover boundary isolation, and error anti-patterns.
 
 ### 5. 📂 [[Code Organization & Architecture|05. Code Organization & Architecture]]

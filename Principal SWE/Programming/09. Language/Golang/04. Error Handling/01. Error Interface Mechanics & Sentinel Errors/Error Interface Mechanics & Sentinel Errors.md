@@ -4,7 +4,7 @@ tags:
   - golang
   - error-handling
   - principal-swe
-parent: "[[Error Handling]]"
+parent: "[[Error Handling (Clean Code)]]"
 ---
 
 # Error Interface Mechanics & Sentinel Errors
@@ -34,5 +34,5 @@ Error Interface Mechanics & Sentinel Errors
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Error Handling]]
+- ⬆️ Parent: [[Error Handling (Clean Code)]]
 

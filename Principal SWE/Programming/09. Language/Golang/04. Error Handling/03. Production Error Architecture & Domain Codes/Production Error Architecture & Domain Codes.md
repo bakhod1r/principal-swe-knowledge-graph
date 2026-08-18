@@ -4,7 +4,7 @@ tags:
   - golang
   - error-handling
   - principal-swe
-parent: "[[Error Handling]]"
+parent: "[[Error Handling (Clean Code)]]"
 ---
 
 # Production Error Architecture & Domain Codes
@@ -34,5 +34,5 @@ Production Error Architecture & Domain Codes
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Error Handling]]
+- ⬆️ Parent: [[Error Handling (Clean Code)]]
 
