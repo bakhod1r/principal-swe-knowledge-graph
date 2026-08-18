@@ -20,7 +20,7 @@ Modern Language Features
 │   ├── [[Go 1.22 Loop Variable Scoping (Loopvar)]]
 │   └── [[min, max, and clear Builtin Functions]]
 └── [[Type System & Stdlib Additions|02. Type System & Stdlib Additions]]
-│   ├── [[Generic Type Aliases (Go 1.24+)]]
+│   ├── [[Generic Type Aliases in Modern Go (1.24+)]]
 │   ├── [[slices and maps Standard Packages]]
 │   ├── [[cmp.Ordered and cmp.Compare]]
 │   ├── [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]]
@@ -37,7 +37,7 @@ Modern Language Features
 - [[Go 1.22 Loop Variable Scoping (Loopvar)]] — Per-iteration variable scoping eliminating goroutine loop capture bugs.
 - [[min, max, and clear Builtin Functions]] — Predeclared min/max for ordered types, clear() for zeroing slices and maps.
 ### 2. 📂 [[Type System & Stdlib Additions|02. Type System & Stdlib Additions]]
-- [[Generic Type Aliases (Go 1.24+)]] — type MyList[T] = other.List[T] generic alias syntax and migration patterns.
+- [[Generic Type Aliases in Modern Go (1.24+)]] — type MyList[T] = other.List[T] generic alias syntax and migration patterns.
 - [[slices and maps Standard Packages]] — Standard library algorithm functions for slices and maps without external dependencies.
 - [[cmp.Ordered and cmp.Compare]] — Standard ordering comparison interface and three-way compare function.
 - [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]] — Standard lazy initialization wrapper functions.

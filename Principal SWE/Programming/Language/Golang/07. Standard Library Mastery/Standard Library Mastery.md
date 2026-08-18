@@ -20,7 +20,7 @@ Standard Library Mastery
 │   ├── [[os Package]]
 │   ├── [[path-filepath Package]]
 │   ├── [[flag Package]]
-│   ├── [[go:embed Directive]]
+│   ├── [[embed Standard Package & Static Assets]]
 │   └── [[io-fs Virtual Filesystem]]
 ├── [[Networking & Serialization|02. Networking & Serialization]]
 │   ├── [[net Package]]
@@ -60,7 +60,7 @@ Standard Library Mastery
 - [[os Package]] — Environment variables, process management, POSIX signal handling, exit codes, os.File operations.
 - [[path-filepath Package]] — Cross-platform file path manipulation, filepath.Walk, filepath.Clean, filepath.Join.
 - [[flag Package]] — Command-line argument parsing and custom flag value types.
-- [[go:embed Directive]] — Embedding static assets, templates, and directory trees directly into binary executables.
+- [[embed Standard Package & Static Assets]] — Embedding static assets, templates, and directory trees directly into binary executables.
 - [[io-fs Virtual Filesystem]] — fs.FS, fs.File, fs.WalkDir virtual filesystem interface abstraction.
 ### 2. 📂 [[Networking & Serialization|02. Networking & Serialization]]
 - [[net Package]] — net.Dial, net.Listen, raw TCP/UDP socket programming, DNS resolution, and connection deadlines.

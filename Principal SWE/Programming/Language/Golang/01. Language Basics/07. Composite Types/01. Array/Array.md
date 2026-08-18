@@ -19,7 +19,7 @@ Array
 ├── [[Array Pass-by-Value Semantics]]
 ├── [[Multi-Dimensional Arrays]]
 ├── [[Array Comparison (==)]]
-├── [[Array to Slice Conversion]]
+├── [[Array Slicing to Slice Header]]
 └── [[Zero-Length Arrays ([0]T)]]
 ```
 
@@ -32,7 +32,7 @@ Array
 - [[Array Pass-by-Value Semantics]] — Copying the entire memory contents of the array upon function call or assignment.
 - [[Multi-Dimensional Arrays]] — Matrices and multi-dimensional grids ([M][N]T) in row-major contiguous memory.
 - [[Array Comparison (==)]] — Direct value equality comparison (arr1 == arr2) when element types are comparable.
-- [[Array to Slice Conversion]] — Creating a slice header referencing an array (arr[:] and &arr).
+- [[Array Slicing to Slice Header]] — Creating a slice header referencing an array (arr[:] and &arr).
 - [[Zero-Length Arrays ([0]T)]] — Zero-byte array types and their memory allocation characteristics.
 
 ---

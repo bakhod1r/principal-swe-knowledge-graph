@@ -18,7 +18,7 @@ Generic type aliases (Go 1.24+), sync.Map modern methods, and newly introduced s
 ```text
 Type System & Stdlib Additions
 │
-├── [[Generic Type Aliases (Go 1.24+)]]
+├── [[Generic Type Aliases in Modern Go (1.24+)]]
 ├── [[slices and maps Standard Packages]]
 ├── [[cmp.Ordered and cmp.Compare]]
 ├── [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]]
@@ -29,7 +29,7 @@ Type System & Stdlib Additions
 
 ## 🗂️ Topics
 
-- [[Generic Type Aliases (Go 1.24+)]] — type MyList[T] = other.List[T] generic alias syntax and migration patterns.
+- [[Generic Type Aliases in Modern Go (1.24+)]] — type MyList[T] = other.List[T] generic alias syntax and migration patterns.
 - [[slices and maps Standard Packages]] — Standard library algorithm functions for slices and maps without external dependencies.
 - [[cmp.Ordered and cmp.Compare]] — Standard ordering comparison interface and three-way compare function.
 - [[sync.OnceFunc, OnceValue, OnceValues (Go 1.21+)]] — Standard lazy initialization wrapper functions.

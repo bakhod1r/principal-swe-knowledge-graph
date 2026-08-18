@@ -19,7 +19,7 @@ I-O, OS & System
 ├── [[os Package]]
 ├── [[path-filepath Package]]
 ├── [[flag Package]]
-├── [[go:embed Directive]]
+├── [[embed Standard Package & Static Assets]]
 └── [[io-fs Virtual Filesystem]]
 ```
 
@@ -32,7 +32,7 @@ I-O, OS & System
 - [[os Package]] — Environment variables, process management, POSIX signal handling, exit codes, os.File operations.
 - [[path-filepath Package]] — Cross-platform file path manipulation, filepath.Walk, filepath.Clean, filepath.Join.
 - [[flag Package]] — Command-line argument parsing and custom flag value types.
-- [[go:embed Directive]] — Embedding static assets, templates, and directory trees directly into binary executables.
+- [[embed Standard Package & Static Assets]] — Embedding static assets, templates, and directory trees directly into binary executables.
 - [[io-fs Virtual Filesystem]] — fs.FS, fs.File, fs.WalkDir virtual filesystem interface abstraction.
 
 ---
