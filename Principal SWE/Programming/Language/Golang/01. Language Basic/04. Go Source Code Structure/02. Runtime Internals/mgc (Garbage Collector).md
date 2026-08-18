@@ -4,6 +4,7 @@ tags:
   - golang
   - runtime
   - gc
+  - memory
 parent: "[[Runtime Internals]]"
 ---
 

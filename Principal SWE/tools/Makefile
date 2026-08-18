@@ -3,23 +3,24 @@
 # ─────────────────────────────────────────────────
 #
 # Usage:
-#   make random PATH_ARG=<dir>     — pick a random empty note
+#   make random PATH_ARG=<dir>     — pick a random empty note (random topic → random note)
 #   make all    PATH_ARG=<dir>     — list all empty notes
-#   make topic  PATH_ARG=<dir>     — random topic + its empty notes
+#   make topic  PATH_ARG=<dir>     — random topic → all its empty notes
 #   make stats  PATH_ARG=<dir>     — per-topic statistics
 #
 # Examples:
-#   make random PATH_ARG="./Programming/Language/Golang"
-#   make stats  PATH_ARG="."
+#   make random PATH_ARG="../Programming/Language/Golang"
+#   make stats  PATH_ARG=".."
 # ─────────────────────────────────────────────────
 
 SHELL := /bin/bash
-SCRIPT := ./find_empty_note.sh
+BINARY := enf
+SRC_DIR := ./empty-note-finder
 
-# Default path — current directory
-PATH_ARG ?= .
+# Default path — parent directory (vault root)
+PATH_ARG ?= ..
 
-.PHONY: help random all topic stats setup
+.PHONY: help build random all topic stats clean
 
 help: ## Show help
 	@echo ""
@@ -27,29 +28,34 @@ help: ## Show help
 	@echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 	@echo ""
 	@echo "Commands:"
-	@echo "  make random PATH_ARG=<dir>   Pick a random empty note"
+	@echo "  make build                   Build the binary"
+	@echo "  make random PATH_ARG=<dir>   Random topic → random empty note"
 	@echo "  make all    PATH_ARG=<dir>   List all empty notes"
-	@echo "  make topic  PATH_ARG=<dir>   Random topic + its empty notes"
+	@echo "  make topic  PATH_ARG=<dir>   Random topic → all its empty notes"
 	@echo "  make stats  PATH_ARG=<dir>   Per-topic statistics"
-	@echo "  make setup                   Make script executable"
+	@echo "  make clean                   Remove the binary"
 	@echo ""
 	@echo "Examples:"
-	@echo "  make random PATH_ARG=\"./Programming/Language/Golang\""
-	@echo "  make stats  PATH_ARG=\".\""
+	@echo "  make random PATH_ARG=\"../Programming/Language/Golang\""
+	@echo "  make stats  PATH_ARG=\"..\""
 	@echo ""
 
-setup: ## Make the script executable
-	@chmod +x $(SCRIPT)
-	@echo "✅ $(SCRIPT) — ready!"
+build: ## Build the Go binary
+	@cd $(SRC_DIR) && go build -buildvcs=false -o ../$(BINARY) .
+	@echo "✅ Built ./$(BINARY)"
 
-random: setup ## Find a random empty note
-	@$(SCRIPT) "$(PATH_ARG)"
+random: build ## Random topic → random empty note
+	@./$(BINARY) "$(PATH_ARG)"
 
-all: setup ## List all empty notes
-	@$(SCRIPT) "$(PATH_ARG)" --all
+all: build ## List all empty notes
+	@./$(BINARY) "$(PATH_ARG)" --all
 
-topic: setup ## Random topic + its empty notes
-	@$(SCRIPT) "$(PATH_ARG)" --topic
+topic: build ## Random topic → all its empty notes
+	@./$(BINARY) "$(PATH_ARG)" --topic
 
-stats: setup ## Per-topic statistics
-	@$(SCRIPT) "$(PATH_ARG)" --stats
+stats: build ## Per-topic statistics
+	@./$(BINARY) "$(PATH_ARG)" --stats
+
+clean: ## Remove the binary
+	@rm -f $(BINARY)
+	@echo "🗑️  Cleaned"

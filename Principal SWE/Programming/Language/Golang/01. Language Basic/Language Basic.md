@@ -13,7 +13,7 @@ parent: "[[Golang]]"
 - [[Settings Environment|1. Go Setup & PATH Guide]]
 
 ### 2. 💻 Go Commands
-- `Go Commands`
+- [[Go Commands|Go Commands & Toolchain]]
 
 ### 3. 📦 Dependencies & Modules
 - [[Dependencies|Dependencies & Go Module System]]
