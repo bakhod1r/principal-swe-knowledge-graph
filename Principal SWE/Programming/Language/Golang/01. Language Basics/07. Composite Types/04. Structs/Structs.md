@@ -1,3 +1,7 @@
+- [[Empty Struct struct{} Memory Address (zerobase pointer)]] — Why all empty structs struct{} point to the same runtime.zerobase memory address.
+
+- [[Struct Alignment, Offset Calculation & False Sharing]] — Field alignment rules, 64-byte cache lines, and eliminating multi-core false sharing.
+
 ---
 title: Structs
 tags:
@@ -39,4 +43,4 @@ Structs
 
 ## 🔗 References
 - ⬆️ Parent: [[Composite Types]]
-- 🎓 Root: [[Principal SWE]]
+

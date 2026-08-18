@@ -37,4 +37,4 @@ Zero-Allocation Optimization Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering & Profiling]]
-- 🎓 Root: [[Principal SWE]]
+

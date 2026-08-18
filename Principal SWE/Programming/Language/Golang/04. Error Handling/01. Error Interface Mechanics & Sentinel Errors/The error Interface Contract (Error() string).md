@@ -1,0 +1,24 @@
+---
+title: "The error Interface Contract (Error() string)"
+tags:
+  - golang
+  - error-handling
+  - principal-swe
+parent: "[[Error Interface Mechanics & Sentinel Errors]]"
+---
+
+# The error Interface Contract (Error() string)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Error Interface Mechanics & Sentinel Errors]]
+- 📚 Module: [[Error Handling]]

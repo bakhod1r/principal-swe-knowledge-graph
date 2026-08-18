@@ -7,73 +7,93 @@ tags:
 parent: "[[Golang]]"
 ---
 
-# 🚨 Error Handling
+# 🛑 Error Handling
 
-Go error handling primitives, error wrapping, error inspection, custom error hierarchies, panic, and recover.
+Enterprise error handling architecture in Go: error interface mechanics, wrapping (%w), multi-errors (errors.Join), domain error codes, stack traces, panic/recover boundaries, and anti-patterns.
 
 ```text
 Error Handling
 │
-├── [[Core Primitives|01. Core Primitives]]
-│   ├── [[Errors as First-Class Values]]
-│   ├── [[error Interface Contract]]
-│   ├── [[errors.New]]
-│   ├── [[fmt.Errorf Formatting]]
-│   ├── [[Error String Conventions]]
-│   └── [[nil Error Pitfall]]
-├── [[Wrapping & Inspection|02. Wrapping & Inspection]]
-│   ├── [[Error Wrapping (%w)]]
-│   ├── [[errors.Unwrap]]
-│   ├── [[errors.Is and Custom Is()]]
-│   ├── [[errors.As and Custom As()]]
-│   ├── [[errors.Join (Multi-Error)]]
-│   ├── [[Sentinel Errors]]
-│   ├── [[Custom Error Types]]
-│   └── [[Error Tree Traversal Algorithms]]
-└── [[Panic, Recover & Architecture|03. Panic, Recover & Architecture]]
-│   ├── [[panic Semantics]]
-│   ├── [[recover in Deferred Functions]]
-│   ├── [[Goroutine Panic Isolation]]
-│   ├── [[Stack Traces & runtime-debug]]
-│   ├── [[Domain vs Infrastructure Errors]]
-│   ├── [[Error Classification (Transient vs Permanent)]]
-│   ├── [[Error Design Best Practices]]
-│   └── [[Handle Errors, Don't Just Check]]
+├── [[Error Interface Mechanics & Sentinel Errors|01. Error Interface Mechanics & Sentinel Errors]]
+│   ├── [[The error Interface Contract (Error() string)]]
+│   ├── [[Sentinel Errors Design (io.EOF, sql.ErrNoRows)]]
+│   ├── [[Constant Errors Pattern via Defined String Types]]
+│   ├── [[Custom Error Structs with Contextual Fields]]
+│   └── [[The Typed Nil Error Return Trap]]
+├── [[Modern Error Wrapping & Inspection (errors package)|02. Modern Error Wrapping & Inspection (errors package)]]
+│   ├── [[Error Wrapping Protocol with fmt.Errorf and %w]]
+│   ├── [[errors.Is Semantic Inspection (Unwrap Single)]]
+│   ├── [[errors.As Type Extraction & Pattern Matching]]
+│   ├── [[Multi-Error Aggregation with errors.Join (Go 1.20+)]]
+│   └── [[Error Tree Traversal Mechanics (Breadth-First vs Depth-First)]]
+├── [[Production Error Architecture & Domain Codes|03. Production Error Architecture & Domain Codes]]
+│   ├── [[Clean Architecture Domain Error Hierarchy]]
+│   ├── [[Standard Enterprise Error Codes & Error Taxonomies]]
+│   ├── [[HTTP Status & gRPC Status Code Translation Matrices]]
+│   ├── [[Error Obfuscation & Security Boundaries (Information Leakage)]]
+│   └── [[Retryable vs Non-Retryable Error Classification]]
+├── [[Stack Traces & Diagnostic Enrichment|04. Stack Traces & Diagnostic Enrichment]]
+│   ├── [[Stack Trace Capture Mechanics (pkg-errors & custom)]]
+│   ├── [[Structured Error Logging Integration with slog]]
+│   ├── [[Distributed Trace ID & Span Attachment to Errors]]
+│   └── [[Error Monitoring & Crash Reporting Integration (Sentry, Rollbar)]]
+├── [[Panic, Recover & Boundary Isolation|05. Panic, Recover & Boundary Isolation]]
+│   ├── [[Panic vs Error Decision Tree (Exceptional vs Expected)]]
+│   ├── [[Recover Boundary Middleware in HTTP & gRPC Servers]]
+│   ├── [[Goroutine Panic Isolation Hazard (Orphan Panics)]]
+│   ├── [[Converting Panics to Clean Domain Errors]]
+│   └── [[Structured Stack Frame Dumps during Panic Recovery]]
+└── [[Error Handling Anti-Patterns & Code Smells|06. Error Handling Anti-Patterns & Code Smells]]
+│   ├── [[The Blind Error Ignoration Anti-Pattern (_ = fn())]]
+│   ├── [[Double Logging & Double Handling Anti-Pattern]]
+│   ├── [[String Matching on Errors Anti-Pattern]]
+│   ├── [[Catch-All Generic Internal Error Anti-Pattern]]
+│   └── [[Staff-Level Error Handling Principles & Guidelines]]
 ```
 
 ---
 
 ## 🗂️ Core Categories & Topics
 
-### 1. 📂 [[Core Primitives|01. Core Primitives]]
-- [[Errors as First-Class Values]] — Explicit error values, if err != nil idiom, and error control flow.
-- [[error Interface Contract]] — The single-method built-in interface contract: Error() string.
-- [[errors.New]] — Creating simple static error values using errors.New().
-- [[fmt.Errorf Formatting]] — Formatting dynamic error messages with %s, %d, and %v.
-- [[Error String Conventions]] — Lowercase, no trailing punctuation, descriptive error phrasing standards.
-- [[nil Error Pitfall]] — Typed nil pointer assigned to error interface creating non-nil interface trap.
-### 2. 📂 [[Wrapping & Inspection|02. Wrapping & Inspection]]
-- [[Error Wrapping (%w)]] — Creating causal error chains using fmt.Errorf with %w verb.
-- [[errors.Unwrap]] — Extracting the immediate underlying error from an error chain.
-- [[errors.Is and Custom Is()]] — Checking for target error identity across wrapped error trees.
-- [[errors.As and Custom As()]] — Extracting custom typed error structs from wrapped error chains.
-- [[errors.Join (Multi-Error)]] — Combining multiple concurrent or independent errors into a single error.
-- [[Sentinel Errors]] — Exported package constants (io.EOF, sql.ErrNoRows) and comparison rules.
-- [[Custom Error Types]] — Implementing structured error structs containing error codes and context.
-- [[Error Tree Traversal Algorithms]] — Recursive unwrapping and multi-error branch traversal.
-### 3. 📂 [[Panic, Recover & Architecture|03. Panic, Recover & Architecture]]
-- [[panic Semantics]] — Unwinding the goroutine call stack on fatal, unrecoverable programmer errors.
-- [[recover in Deferred Functions]] — Safely intercepting panics in deferred functions and converting to errors.
-- [[Goroutine Panic Isolation]] — Uncaught panics inside spawned goroutines terminate the entire process.
-- [[Stack Traces & runtime-debug]] — Capturing, parsing, and logging panic stack traces for observability.
-- [[Domain vs Infrastructure Errors]] — Architectural separation of business rule errors vs database/network errors.
-- [[Error Classification (Transient vs Permanent)]] — Categorizing errors for intelligent retries, circuit breaking, and alerting.
-- [[Error Design Best Practices]] — Enriching errors without losing original context, avoiding string matching.
-- [[Handle Errors, Don't Just Check]] — Meaningful error recovery and remediation vs blind error return propagation.
+### 1. 📂 [[Error Interface Mechanics & Sentinel Errors|01. Error Interface Mechanics & Sentinel Errors]]
+- [[The error Interface Contract (Error() string)]] — Single-method interface simplicity, nil error representations, and zero-allocation static errors.
+- [[Sentinel Errors Design (io.EOF, sql.ErrNoRows)]] — Predeclared exported error variables, comparing with errors.Is, and immutability pitfalls.
+- [[Constant Errors Pattern via Defined String Types]] — Defining immutable package-level sentinel errors (type Error string) preventing global variable mutation.
+- [[Custom Error Structs with Contextual Fields]] — Creating structured errors carrying HTTP status codes, request IDs, retry after durations, and timestamps.
+- [[The Typed Nil Error Return Trap]] — Returning a concrete typed nil pointer as an error interface resulting in iface.tab != nil (err != nil).
+### 2. 📂 [[Modern Error Wrapping & Inspection (errors package)|02. Modern Error Wrapping & Inspection (errors package)]]
+- [[Error Wrapping Protocol with fmt.Errorf and %w]] — Constructing causal error chains using %w vs formatting without wrapping (%v).
+- [[errors.Is Semantic Inspection (Unwrap Single)]] — Recursive error tree traversal, custom Is(target error) bool method implementation.
+- [[errors.As Type Extraction & Pattern Matching]] — Extracting concrete error types across nested wrapping layers with As(target any) bool.
+- [[Multi-Error Aggregation with errors.Join (Go 1.20+)]] — Combining concurrent/batch errors into a single error, multi-branch Unwrap() []error.
+- [[Error Tree Traversal Mechanics (Breadth-First vs Depth-First)]] — How errors.Is and errors.As navigate tree structures created by errors.Join.
+### 3. 📂 [[Production Error Architecture & Domain Codes|03. Production Error Architecture & Domain Codes]]
+- [[Clean Architecture Domain Error Hierarchy]] — Decoupling transport errors (HTTP/gRPC), infrastructure errors (SQL/Redis), and domain errors.
+- [[Standard Enterprise Error Codes & Error Taxonomies]] — Uniform error catalog: NOT_FOUND, UNAUTHENTICATED, PERMISSION_DENIED, CONFLICT, INTERNAL.
+- [[HTTP Status & gRPC Status Code Translation Matrices]] — Centralized middleware mapping internal domain errors to RFC 7807 Problem Details and gRPC status codes.
+- [[Error Obfuscation & Security Boundaries (Information Leakage)]] — Stripping internal database query details and stack traces before responding to external API clients.
+- [[Retryable vs Non-Retryable Error Classification]] — Defining Retryable() bool and Temporary() bool behavior interfaces for resilient client retries.
+### 4. 📂 [[Stack Traces & Diagnostic Enrichment|04. Stack Traces & Diagnostic Enrichment]]
+- [[Stack Trace Capture Mechanics (pkg-errors & custom)]] — Capturing caller program counters (runtime.Callers) at error creation sites with minimal CPU overhead.
+- [[Structured Error Logging Integration with slog]] — Emitting error causes, stack frames, and contextual key-value pairs to structured log streams.
+- [[Distributed Trace ID & Span Attachment to Errors]] — Correlating errors with active OpenTelemetry span contexts for instant observability triaging.
+- [[Error Monitoring & Crash Reporting Integration (Sentry, Rollbar)]] — Automated capture, fingerprinting, and grouping of unhandled production errors.
+### 5. 📂 [[Panic, Recover & Boundary Isolation|05. Panic, Recover & Boundary Isolation]]
+- [[Panic vs Error Decision Tree (Exceptional vs Expected)]] — Staff-level heuristics: when is panic acceptable (programmer bug, startup failure) vs error.
+- [[Recover Boundary Middleware in HTTP & gRPC Servers]] — Capturing uncaught goroutine panics, logging stack traces, and returning 500 Internal Server Error.
+- [[Goroutine Panic Isolation Hazard (Orphan Panics)]] — Why a panic in a spawned background goroutine terminates the entire process if unrecovered inside itself.
+- [[Converting Panics to Clean Domain Errors]] — Safely capturing third-party panics inside library boundaries and translating them to structured errors.
+- [[Structured Stack Frame Dumps during Panic Recovery]] — Using debug.Stack() to capture and sanitize full multi-goroutine traces upon panic.
+### 6. 📂 [[Error Handling Anti-Patterns & Code Smells|06. Error Handling Anti-Patterns & Code Smells]]
+- [[The Blind Error Ignoration Anti-Pattern (_ = fn())]] — Security and state corruption risks of silently swallowing return errors.
+- [[Double Logging & Double Handling Anti-Pattern]] — Logging an error and returning it upward, leading to log spam and duplicate alert storms.
+- [[String Matching on Errors Anti-Pattern]] — Fragile strings.Contains(err.Error(), "not found") checks vs robust errors.Is/errors.As.
+- [[Catch-All Generic Internal Error Anti-Pattern]] — Wrapping everything in generic errors.New("something went wrong") destroying observability.
+- [[Staff-Level Error Handling Principles & Guidelines]] — Non-negotiable engineering principles: wrap once at the boundary, handle once, log once.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
-- 🎓 Root: [[Principal SWE]]
+

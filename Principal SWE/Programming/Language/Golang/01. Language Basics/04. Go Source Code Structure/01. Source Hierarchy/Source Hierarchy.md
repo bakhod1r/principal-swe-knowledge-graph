@@ -35,4 +35,4 @@ Source Hierarchy
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Source Code Structure]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -37,4 +37,4 @@ Core Environment Variables
 
 ## 🔗 References
 - ⬆️ Parent: [[Settings Environment]]
-- 🎓 Root: [[Principal SWE]]
+

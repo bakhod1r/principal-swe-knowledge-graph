@@ -35,4 +35,4 @@ Execution Tracing & Scheduler Latency
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering & Profiling]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -1,3 +1,7 @@
+- [[Pointer Aliasing & Optimization Barriers]] — How multiple pointers referencing the same memory location limit compiler optimizations.
+
+- [[Dangling Pointers Immunity in Garbage Collected Go]] — Why Go is immune to classic C use-after-free and dangling pointer memory corruption.
+
 ---
 title: Pointer Basics
 tags:
@@ -35,4 +39,4 @@ Pointer Basics
 
 ## 🔗 References
 - ⬆️ Parent: [[Pointers]]
-- 🎓 Root: [[Principal SWE]]
+

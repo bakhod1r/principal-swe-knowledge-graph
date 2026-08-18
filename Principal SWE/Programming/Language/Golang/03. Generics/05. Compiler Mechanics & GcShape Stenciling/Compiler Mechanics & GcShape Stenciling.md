@@ -35,4 +35,4 @@ Compiler Mechanics & GcShape Stenciling
 
 ## 🔗 References
 - ⬆️ Parent: [[Generics]]
-- 🎓 Root: [[Principal SWE]]
+

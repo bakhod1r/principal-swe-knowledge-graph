@@ -41,4 +41,4 @@ Synchronization Primitives (sync)
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+

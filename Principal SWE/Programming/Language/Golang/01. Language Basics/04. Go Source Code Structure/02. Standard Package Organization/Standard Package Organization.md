@@ -29,4 +29,4 @@ Standard Package Organization
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Source Code Structure]]
-- 🎓 Root: [[Principal SWE]]
+

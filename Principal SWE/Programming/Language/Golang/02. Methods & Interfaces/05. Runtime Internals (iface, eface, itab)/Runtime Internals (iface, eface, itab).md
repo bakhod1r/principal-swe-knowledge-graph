@@ -37,4 +37,4 @@ Runtime Internals (iface, eface, itab)
 
 ## 🔗 References
 - ⬆️ Parent: [[Methods & Interfaces]]
-- 🎓 Root: [[Principal SWE]]
+

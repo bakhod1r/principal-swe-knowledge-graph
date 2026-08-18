@@ -39,4 +39,4 @@ For Range
 
 ## 🔗 References
 - ⬆️ Parent: [[Loops]]
-- 🎓 Root: [[Principal SWE]]
+

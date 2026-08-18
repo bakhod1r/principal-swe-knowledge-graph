@@ -39,4 +39,4 @@ Lock-Free & Atomic Concurrency
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -31,4 +31,4 @@ Minimal Version Selection (MVS)
 
 ## 🔗 References
 - ⬆️ Parent: [[Dependencies & Go Modules]]
-- 🎓 Root: [[Principal SWE]]
+

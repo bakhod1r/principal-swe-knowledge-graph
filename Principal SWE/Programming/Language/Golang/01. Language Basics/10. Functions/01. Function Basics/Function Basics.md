@@ -1,3 +1,7 @@
+- [[Named Return Values & Naked Returns Gotchas]] — Naked return readability anti-patterns and deferred named return mutation.
+
+- [[Variadic Functions Slice Allocation & Memory Lifecycle]] — How ...T variadic arguments construct an implicit slice on stack or heap.
+
 ---
 title: Function Basics
 tags:
@@ -35,4 +39,4 @@ Function Basics
 
 ## 🔗 References
 - ⬆️ Parent: [[Functions]]
-- 🎓 Root: [[Principal SWE]]
+

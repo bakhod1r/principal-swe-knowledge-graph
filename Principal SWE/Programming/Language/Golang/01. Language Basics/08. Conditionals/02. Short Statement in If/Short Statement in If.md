@@ -31,4 +31,4 @@ Short Statement in If
 
 ## 🔗 References
 - ⬆️ Parent: [[Conditionals]]
-- 🎓 Root: [[Principal SWE]]
+

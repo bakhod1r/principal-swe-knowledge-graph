@@ -26,4 +26,4 @@ Welcome to the **Principal Software Engineer (SWE)** knowledge base. This reposi
 ## ⚡ Quick Navigation
 
 - 🔤 [[Programming]]
-- 🧮 `Data Structures & Algorithms`
+- 🧮 [[Data Structures & Algorithms]]

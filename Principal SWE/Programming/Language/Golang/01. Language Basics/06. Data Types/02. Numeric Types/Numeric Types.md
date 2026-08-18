@@ -35,4 +35,4 @@ Numeric Types
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Types]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -39,4 +39,4 @@ SIMD Vectorization & Mechanical Sympathy
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance Engineering & Profiling]]
-- 🎓 Root: [[Principal SWE]]
+

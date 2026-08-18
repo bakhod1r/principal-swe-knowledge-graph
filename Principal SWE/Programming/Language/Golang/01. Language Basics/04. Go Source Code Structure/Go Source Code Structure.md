@@ -29,4 +29,4 @@ Go Source Code Structure
 
 ## 🔗 References
 - ⬆️ Parent: [[Language Basics]]
-- 🎓 Root: [[Principal SWE]]
+

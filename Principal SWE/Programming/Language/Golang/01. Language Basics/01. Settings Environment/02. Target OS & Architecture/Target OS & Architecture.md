@@ -33,4 +33,4 @@ Target OS & Architecture
 
 ## 🔗 References
 - ⬆️ Parent: [[Settings Environment]]
-- 🎓 Root: [[Principal SWE]]
+

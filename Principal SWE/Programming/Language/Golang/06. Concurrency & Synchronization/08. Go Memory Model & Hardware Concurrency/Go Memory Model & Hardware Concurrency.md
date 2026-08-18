@@ -41,4 +41,4 @@ Go Memory Model & Hardware Concurrency
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+

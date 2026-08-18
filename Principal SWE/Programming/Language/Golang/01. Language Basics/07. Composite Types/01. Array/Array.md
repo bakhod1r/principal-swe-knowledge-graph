@@ -39,4 +39,4 @@ Array
 
 ## 🔗 References
 - ⬆️ Parent: [[Composite Types]]
-- 🎓 Root: [[Principal SWE]]
+

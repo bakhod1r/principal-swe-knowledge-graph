@@ -1,3 +1,7 @@
+- [[String Immutability & Read-Only Memory (RODATA Segment)]] — String literals compiled into read-only ELF/Mach-O .rodata segment and mutation attempts.
+
+- [[UTF-8 Multi-Byte Streaming & Validation (utf8.ValidString)]] — Validating corrupted multi-byte UTF-8 streams and RuneError boundary handling.
+
 ---
 title: Strings
 tags:
@@ -37,4 +41,4 @@ Strings
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Types]]
-- 🎓 Root: [[Principal SWE]]
+

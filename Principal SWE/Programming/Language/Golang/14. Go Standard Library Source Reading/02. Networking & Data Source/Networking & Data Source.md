@@ -31,4 +31,4 @@ Networking & Data Source
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Standard Library Source Reading]]
-- 🎓 Root: [[Principal SWE]]
+

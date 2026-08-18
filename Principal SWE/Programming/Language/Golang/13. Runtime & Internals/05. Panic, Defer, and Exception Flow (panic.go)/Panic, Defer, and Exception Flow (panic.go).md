@@ -9,7 +9,7 @@ parent: "[[Runtime & Internals]]"
 
 # Panic, Defer, and Exception Flow (panic.go)
 
-_defer linked lists, open-coded defers, _panic structs, gopanic execution flow, and gorecover.
+_defer linked lists, open-coded defers, _panic structs, gopanic execution flow, gorecover, and runtime.throw.
 
 ```text
 Panic, Defer, and Exception Flow (panic.go)
@@ -18,7 +18,8 @@ Panic, Defer, and Exception Flow (panic.go)
 ├── [[Open-Coded Defer Implementation (inline defer bits)]]
 ├── [[_panic Struct Architecture & Nested Panics]]
 ├── [[gopanic() Implementation Walkthrough]]
-└── [[gorecover() Implementation Walkthrough]]
+├── [[gorecover() Implementation Walkthrough]]
+└── [[Fatal Runtime Errors & Throw Mechanics (runtime.throw)]]
 ```
 
 ---
@@ -30,6 +31,7 @@ Panic, Defer, and Exception Flow (panic.go)
 - [[_panic Struct Architecture & Nested Panics]] — _panic struct layout, recovered flag, aborted flag, and active panic stack unwinding.
 - [[gopanic() Implementation Walkthrough]] — Complete line-by-line execution flow of gopanic() in panic.go traversing defer lists.
 - [[gorecover() Implementation Walkthrough]] — Intercepting active panic, setting recovered = true, and resuming execution at defer return site.
+- [[Fatal Runtime Errors & Throw Mechanics (runtime.throw)]] — Unrecoverable runtime aborts: printing crash dumps and calling exit(2) directly.
 
 ---
 

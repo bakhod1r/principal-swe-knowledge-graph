@@ -33,4 +33,4 @@ For Loop
 
 ## 🔗 References
 - ⬆️ Parent: [[Loops]]
-- 🎓 Root: [[Principal SWE]]
+

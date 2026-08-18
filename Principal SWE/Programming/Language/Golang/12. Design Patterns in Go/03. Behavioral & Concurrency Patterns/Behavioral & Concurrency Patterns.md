@@ -43,4 +43,4 @@ Behavioral & Concurrency Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Patterns in Go]]
-- 🎓 Root: [[Principal SWE]]
+

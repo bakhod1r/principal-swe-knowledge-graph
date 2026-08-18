@@ -35,4 +35,4 @@ Standard Library Generics
 
 ## 🔗 References
 - ⬆️ Parent: [[Generics]]
-- 🎓 Root: [[Principal SWE]]
+

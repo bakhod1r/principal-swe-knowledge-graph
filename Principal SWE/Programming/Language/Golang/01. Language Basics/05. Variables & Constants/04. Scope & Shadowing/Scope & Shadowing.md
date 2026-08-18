@@ -31,4 +31,4 @@ Scope & Shadowing
 
 ## 🔗 References
 - ⬆️ Parent: [[Variables & Constants]]
-- 🎓 Root: [[Principal SWE]]
+

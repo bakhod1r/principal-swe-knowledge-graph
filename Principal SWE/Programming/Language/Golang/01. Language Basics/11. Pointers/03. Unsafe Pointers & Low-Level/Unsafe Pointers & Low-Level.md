@@ -35,4 +35,4 @@ Unsafe Pointers & Low-Level
 
 ## 🔗 References
 - ⬆️ Parent: [[Pointers]]
-- 🎓 Root: [[Principal SWE]]
+

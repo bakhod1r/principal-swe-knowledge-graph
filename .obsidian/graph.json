@@ -6,32 +6,17 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"Principal SWE/Programming\"",
-      "color": {
-        "a": 1,
-        "rgb": 44504
-      }
-    },
-    {
-      "query": "path:\"Principal SWE/Computer Science\"",
-      "color": {
-        "a": 1,
-        "rgb": 16758531
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.15,
-  "lineSizeMultiplier": 0.5,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.3,
-  "repelStrength": 9,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 45,
-  "scale": 0.14820053794999596,
+  "linkDistance": 250,
+  "scale": 0.21789361251245107,
   "close": true
 }

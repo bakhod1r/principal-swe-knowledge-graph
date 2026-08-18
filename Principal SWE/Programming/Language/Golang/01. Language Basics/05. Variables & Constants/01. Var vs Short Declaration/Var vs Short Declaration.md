@@ -33,4 +33,4 @@ Var vs Short Declaration
 
 ## 🔗 References
 - ⬆️ Parent: [[Variables & Constants]]
-- 🎓 Root: [[Principal SWE]]
+

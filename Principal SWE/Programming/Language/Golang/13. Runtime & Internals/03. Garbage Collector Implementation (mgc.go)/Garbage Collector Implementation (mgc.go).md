@@ -9,7 +9,7 @@ parent: "[[Runtime & Internals]]"
 
 # Garbage Collector Implementation (mgc.go)
 
-Concurrent tricolor marking, hybrid write barriers, GC pacer math, mark termination STW, and background scavenging.
+Concurrent tricolor marking, hybrid write barriers, GC pacer math, mark work buffers, dedicated workers, and scavenging.
 
 ```text
 Garbage Collector Implementation (mgc.go)
@@ -20,6 +20,8 @@ Garbage Collector Implementation (mgc.go)
 ├── [[GC Mark Termination & Sweep Termination STW Phases]]
 ├── [[GC Dedicated Worker Goroutines (gcBgMarkWorker)]]
 ├── [[Mutator Assist Allocations]]
+├── [[Mark Work Buffers (gcWork & wbuf)]]
+├── [[GC Phase Transitions (gcStart, gcMarkDone, gcSweep)]]
 └── [[Memory Purging & Scavenging (scavenger.go)]]
 ```
 
@@ -33,6 +35,8 @@ Garbage Collector Implementation (mgc.go)
 - [[GC Mark Termination & Sweep Termination STW Phases]] — Sub-millisecond STW pause windows: disabling write barriers, flushing local caches, and starting sweep.
 - [[GC Dedicated Worker Goroutines (gcBgMarkWorker)]] — Dedicated mark workers: gcMarkWorkerDedicated, gcMarkWorkerFractional, and gcMarkWorkerIdle.
 - [[Mutator Assist Allocations]] — Forcing fast-allocating user goroutines to assist GC marking when allocation outpaces GC throughput.
+- [[Mark Work Buffers (gcWork & wbuf)]] — Thread-local grey object work buffers (wbuf1, wbuf2) preventing lock contention during concurrent mark.
+- [[GC Phase Transitions (gcStart, gcMarkDone, gcSweep)]] — State machine executing STW mark preparation, concurrent mark, STW mark termination, and concurrent sweep.
 - [[Memory Purging & Scavenging (scavenger.go)]] — Background page scavenger returning unused virtual memory spans back to the OS via madvise.
 
 ---

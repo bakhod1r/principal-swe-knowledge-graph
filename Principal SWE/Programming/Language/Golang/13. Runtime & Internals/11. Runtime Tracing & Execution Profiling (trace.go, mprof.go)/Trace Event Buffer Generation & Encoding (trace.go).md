@@ -1,0 +1,24 @@
+---
+title: "Trace Event Buffer Generation & Encoding (trace.go)"
+tags:
+  - golang
+  - runtime
+  - principal-swe
+parent: "[[Runtime Tracing & Execution Profiling (trace.go, mprof.go)]]"
+---
+
+# Trace Event Buffer Generation & Encoding (trace.go)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Runtime Tracing & Execution Profiling (trace.go, mprof.go)]]
+- 📚 Module: [[Runtime & Internals]]

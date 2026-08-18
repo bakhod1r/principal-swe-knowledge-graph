@@ -43,4 +43,4 @@ GMP Scheduler & Runtime Internals
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -9,7 +9,7 @@ parent: "[[Runtime & Internals]]"
 
 # Runtime Bootstrapping & Core Architecture
 
-Hardware entry points, runtime initialization (schedinit), main goroutine lifecycle, g/m/p structs, and g0 system stack.
+Hardware entry points, runtime initialization (schedinit), main goroutine lifecycle, g/m/p structs, and symbol table layout (symtab.go).
 
 ```text
 Runtime Bootstrapping & Core Architecture
@@ -20,7 +20,8 @@ Runtime Bootstrapping & Core Architecture
 ├── [[Goroutine Layout & g Struct Internals]]
 ├── [[OS Thread Layout & m Struct Internals]]
 ├── [[Logical Processor Layout & p Struct Internals]]
-└── [[The g0 System Stack & Stack Switching]]
+├── [[The g0 System Stack & Stack Switching]]
+└── [[moduledata & Global Symbol Table Layout (symtab.go)]]
 ```
 
 ---
@@ -34,6 +35,7 @@ Runtime Bootstrapping & Core Architecture
 - [[OS Thread Layout & m Struct Internals]] — Dissecting m struct: g0 system stack, gsignal, curg running goroutine, p pointer, and fastrand state.
 - [[Logical Processor Layout & p Struct Internals]] — Dissecting p struct: lock-free local runqueues (runq), mcache span caches, sudogcache, and timers.
 - [[The g0 System Stack & Stack Switching]] — Dedicated OS-sized system stack (8MB) used for scheduler execution, runtime memory allocation, and GC.
+- [[moduledata & Global Symbol Table Layout (symtab.go)]] — First-class binary metadata struct: pclntab line mapping, function descriptors (funcInfo), and type descriptors.
 
 ---
 

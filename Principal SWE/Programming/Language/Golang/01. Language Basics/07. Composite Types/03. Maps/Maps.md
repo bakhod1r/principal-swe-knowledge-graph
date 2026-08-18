@@ -1,5 +1,9 @@
 - [[Map Iteration Randomization & Hash-DoS Safety]] — Why Go uses fastrand hash seeds to protect against algorithmic complexity Hash-DoS attacks.
 
+- [[Map Concurrency Hazard & Race Detector Instrumentation]] — Why concurrent map read/write causes fatal runtime crash concurrent map writes.
+
+- [[Map Key Types Requirements (Equality Contract)]] — Legal map key types, comparable constraints, and why slices/funcs cannot be map keys.
+
 ---
 title: Maps
 tags:
@@ -49,4 +53,4 @@ Maps
 
 ## 🔗 References
 - ⬆️ Parent: [[Composite Types]]
-- 🎓 Root: [[Principal SWE]]
+

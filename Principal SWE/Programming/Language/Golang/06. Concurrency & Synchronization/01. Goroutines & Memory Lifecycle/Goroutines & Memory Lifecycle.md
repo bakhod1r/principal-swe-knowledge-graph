@@ -47,4 +47,4 @@ Goroutines & Memory Lifecycle
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+

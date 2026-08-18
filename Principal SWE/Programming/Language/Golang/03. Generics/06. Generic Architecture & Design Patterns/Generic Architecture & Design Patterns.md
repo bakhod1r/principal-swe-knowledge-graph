@@ -37,4 +37,4 @@ Generic Architecture & Design Patterns
 
 ## 🔗 References
 - ⬆️ Parent: [[Generics]]
-- 🎓 Root: [[Principal SWE]]
+

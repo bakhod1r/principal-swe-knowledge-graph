@@ -33,4 +33,4 @@ Binary Inspection Tools (go tool)
 
 ## 🔗 References
 - ⬆️ Parent: [[Go Commands]]
-- 🎓 Root: [[Principal SWE]]
+

@@ -33,4 +33,4 @@ Pointers with Types
 
 ## 🔗 References
 - ⬆️ Parent: [[Pointers]]
-- 🎓 Root: [[Principal SWE]]
+

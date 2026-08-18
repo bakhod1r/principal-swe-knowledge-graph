@@ -49,4 +49,4 @@ Channel Architecture & Operations
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency & Synchronization]]
-- 🎓 Root: [[Principal SWE]]
+
