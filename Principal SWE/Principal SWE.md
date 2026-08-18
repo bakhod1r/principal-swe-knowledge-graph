@@ -17,7 +17,7 @@ Welcome to the **Principal Software Engineer (SWE)** knowledge base. This reposi
 
 - 🎓 [[Computer Science|Computer Science (Fundamentals)]]
 - 💻 [[Programming|Programming (Languages & Foundations)]]
-- 🏗️ **Distributed Systems & System Design** *(Upcoming)*
+- 🏗️ [[System Design|Distributed Systems & System Design]]
 - ☁️ **Cloud Native & Platform Engineering** *(Upcoming)*
 - 🛡️ **Reliability, Security & Observability** *(Upcoming)*
 
@@ -27,3 +27,10 @@ Welcome to the **Principal Software Engineer (SWE)** knowledge base. This reposi
 
 - 🔤 [[Programming]]
 - 🧮 [[Data Structures & Algorithms]]
+- 🏗️ [[System Design]]
+- 🐹 [[Golang]]
+
+---
+
+## 🔗 Root References
+- 🎓 Root: [[Principal SWE]]
