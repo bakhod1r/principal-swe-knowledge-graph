@@ -1,6 +1,7 @@
 ---
 title: "Sentinel Errors Design (io.EOF, sql.ErrNoRows)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

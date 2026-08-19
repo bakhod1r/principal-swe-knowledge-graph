@@ -1,6 +1,7 @@
 ---
 title: "Multi-Error Aggregation with errors.Join (Go 1.20+)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Double Logging & Double Handling Anti-Pattern"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "The Blind Error Ignoration Anti-Pattern (_ = fn())"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

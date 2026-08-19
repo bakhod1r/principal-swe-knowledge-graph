@@ -1,6 +1,7 @@
 ---
 title: "Constant Errors Pattern via Defined String Types"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

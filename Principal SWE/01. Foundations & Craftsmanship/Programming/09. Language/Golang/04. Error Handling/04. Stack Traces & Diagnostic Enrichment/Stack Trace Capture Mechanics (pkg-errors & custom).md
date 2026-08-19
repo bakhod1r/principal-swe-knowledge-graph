@@ -1,6 +1,7 @@
 ---
 title: "Stack Trace Capture Mechanics (pkg-errors & custom)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

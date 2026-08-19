@@ -1,6 +1,7 @@
 ---
 title: "Error Wrapping Protocol with fmt.Errorf and %w"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

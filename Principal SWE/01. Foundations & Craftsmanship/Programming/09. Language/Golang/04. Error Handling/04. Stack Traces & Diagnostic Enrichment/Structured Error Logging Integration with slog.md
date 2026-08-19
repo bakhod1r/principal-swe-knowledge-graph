@@ -1,6 +1,7 @@
 ---
 title: "Structured Error Logging Integration with slog"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

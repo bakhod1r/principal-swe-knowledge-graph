@@ -1,6 +1,7 @@
 ---
 title: "Error Tree Traversal Mechanics (Breadth-First vs Depth-First)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

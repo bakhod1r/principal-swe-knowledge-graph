@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Panic Isolation Hazard (Orphan Panics)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

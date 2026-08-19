@@ -1,6 +1,7 @@
 ---
 title: "Distributed Trace ID & Span Attachment to Errors"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

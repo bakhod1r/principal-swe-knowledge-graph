@@ -1,6 +1,7 @@
 ---
 title: "Error Monitoring & Crash Reporting Integration (Sentry, Rollbar)"
 tags:
+  - review
   - golang
   - error-handling
   - principal-swe

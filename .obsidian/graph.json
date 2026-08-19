@@ -3,20 +3,1414 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/01. Data Structures/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16724480
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/02. Computer Architecture & Hardware Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15570266
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/03. Operating Systems & Kernel Internals/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11687957
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/04. Network Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14189372
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/05. Databases/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10049799
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/06. Concurrency and Multithreading/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16755968
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/07. Distributed Systems Theory/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15582042
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/08. Theory of Computation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11701013
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/09. Discrete Mathematics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14202172
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/10. Information Theory & Data Compression/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10058759
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/11. Compilers, Interpreters & Runtime Optimization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766976
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/12. Programming Language Theory/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15587930
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/13. Cryptography & Mathematical Security/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11707157
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/14. GPU Architecture & High-Performance Parallel Computing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14209084
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/15. Numerical Methods & Scientific Computing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10064903
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/16. Formal Logic/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16776448
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/17. Complexity Theory/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15461722
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/18. Internet Transport Internals/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11448853
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/19. Memory Models/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13883452
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/20. Consensus/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9607431
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/21. Algorithms/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12058368
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/22. Type System Theory/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10612058
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/01. Choosing a Language/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6271509
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/02. Code Craft/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7919676
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/03. Diagnostics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3315975
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/04. Engineering Thinking/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4194048
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/05. Language Internals/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7662938
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/06. Object-Oriented Programming/\"",
+      "color": {
+        "a": 1,
+        "rgb": 2470421
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/07. Programming Paradigms/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4511804
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/08. Quality Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 497931
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Golang/\"",
+      "color": {
+        "a": 1,
+        "rgb": 65391
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Java/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5959124
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Python/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1421984
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Rust/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3987662
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/SQL/\"",
+      "color": {
+        "a": 1,
+        "rgb": 498068
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Shell and Bash/\"",
+      "color": {
+        "a": 1,
+        "rgb": 65279
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/TypeScript/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5957869
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/10. Polyglot/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1419698
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/01. Classical Architectural Styles/\"",
+      "color": {
+        "a": 1,
+        "rgb": 60927
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/02. Clean, Hexagonal & Onion Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5955565
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/03. Gang of Four (GoF) & Enterprise Design Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1416882
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/04. Concurrency Architecture Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3981784
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/05. Domain-Driven Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 491929
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/06. Distributed Data Patterns (CQRS, Event Sourcing, Sagas)/\"",
+      "color": {
+        "a": 1,
+        "rgb": 53503
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/07. Microservice Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5951469
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/08. API Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1412274
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/09. Resilience, Fault Tolerance & Chaos Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3976664
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/10. Enterprise Integration Patterns (EIP)/\"",
+      "color": {
+        "a": 1,
+        "rgb": 486553
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/11. Multi-Tenant SaaS/\"",
+      "color": {
+        "a": 1,
+        "rgb": 44031
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/12. Architectural Anti-Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5946093
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/13. Software Architect Leadership/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1407666
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/14. Decentralized, Web3 & Blockchain Architectures/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3972824
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/15. Strategic Modeling/\"",
+      "color": {
+        "a": 1,
+        "rgb": 483481
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/16. Data Isolation Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 39423
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/17. High-Performance Design Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5943533
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/18. Technical Debt Refactoring/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1405106
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/19. Architecture Governance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3970520
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/20. Service Boundaries/\"",
+      "color": {
+        "a": 1,
+        "rgb": 481433
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/21. Modern Architectural Styles/\"",
+      "color": {
+        "a": 1,
+        "rgb": 35839
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/22. Gateway Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5941485
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/01. API Security Best Practices/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1402802
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/02. AWS & Multi-Cloud Architecture Best Practices/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3968216
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/03. Backend Performance & High-Throughput Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 479129
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/04. Code Review & Engineering Craftsmanship/\"",
+      "color": {
+        "a": 1,
+        "rgb": 31231
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/05. Database Schema Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5938925
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/06. Production Observability/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1400242
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/07. Microservice Resilience & Fault Tolerance Best Practices/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3965656
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/08. Secret Management, Supply Chain & CI-CD Hardening/\"",
+      "color": {
+        "a": 1,
+        "rgb": 476825
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/09. Clean Code Principles/\"",
+      "color": {
+        "a": 1,
+        "rgb": 27391
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/10. Migration Best Practices/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5936877
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/11. Refactoring Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1397938
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/12. Incident Readiness/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3963608
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/01. Introduction/\"",
+      "color": {
+        "a": 1,
+        "rgb": 475033
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/02. Tradeoffs Framework/\"",
+      "color": {
+        "a": 1,
+        "rgb": 24319
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/03. Capacity Estimation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5935085
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/04. Back of Envelope/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1395890
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/05. Networking Protocols/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3961304
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/06. Domain Name System/\"",
+      "color": {
+        "a": 1,
+        "rgb": 472473
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/07. Content Delivery Networks/\"",
+      "color": {
+        "a": 1,
+        "rgb": 19711
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/08. Load Balancers/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5932269
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/09. Communication/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1392562
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/10. Application Layer/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3957720
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/11. API Design at Scale/\"",
+      "color": {
+        "a": 1,
+        "rgb": 469145
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/12. Databases/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12031
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/13. Storage Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5926893
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/14. Caching/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1386930
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/15. Data Streaming/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3951576
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/16. Asynchronism/\"",
+      "color": {
+        "a": 1,
+        "rgb": 463257
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/17. Background Jobs/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3583
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/18. Concurrency Coordination/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5922797
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/19. Building Blocks/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1382322
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/20. Reliability Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4209880
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/21. Cloud Design Patterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 984985
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/22. Performance Antipatterns/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1376511
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/23. Monitoring/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6904557
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/24. Observability/\"",
+      "color": {
+        "a": 1,
+        "rgb": 2692530
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/25. Chaos Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5520600
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/26. Deployment Infrastructure/\"",
+      "color": {
+        "a": 1,
+        "rgb": 2099097
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/27. Security at Scale/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3277055
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/28. Data Privacy Compliance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8084205
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/29. Multi Tenancy SaaS/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3806642
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/30. Geospatial Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6503640
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/31. ML Recommendation Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3016601
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/32. Classic Problems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5177599
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/33. Real Architectures/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9263853
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/34. Interview Playbook/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5248434
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/35. Architecture Decision Making/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8010968
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/36. Large Scale Migrations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 4458393
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/37. Sociotechnical Org Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7209215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/38. Cost Efficiency FinOps/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10246893
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/39. Global Multi Region/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6165938
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/40. SRE Reliability Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8928472
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/41. Performance Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 5375897
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/42. Data Governance Contracts/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8978687
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/43. Payments and Fintech/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11295469
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/01. Core Cyber Security Foundations & Security Models/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9765119
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/02. Server Security & Infrastructure Hardening/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11688685
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/03. Database Security/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7673266
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/04. OWASP Top 10 & Web Application Hardening/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10435800
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/05. API & Microservice Security Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 6686617
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/06. Defensive Cryptography, PKI & Key Management/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11141375
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/07. Threat Modeling, Risk Assessment & Attack Trees/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12475117
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/08. DevSecOps, Secure SDLC & Supply Chain Hardening/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8590770
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/09. Attack Types, Red Teaming & Penetration Testing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11287768
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/10. Cloud Security, IAM & Workload Protection/\"",
+      "color": {
+        "a": 1,
+        "rgb": 7407513
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/11. AI Red Teaming & LLM Safety Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12452095
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/12. Incident Response, Digital Forensics & SOC Operations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13261549
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/13. Identity, Access Management & Zero Trust Governance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9377202
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/14. Storage Encryption/\"",
+      "color": {
+        "a": 1,
+        "rgb": 12008664
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/01. Core DevOps Principles/\"",
+      "color": {
+        "a": 1,
+        "rgb": 8193945
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/02. Docker/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14024959
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/03. Kubernetes/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14244589
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/04. Terraform/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10687922
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/05. AWS Cloud Platform/\"",
+      "color": {
+        "a": 1,
+        "rgb": 13581528
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/06. Linux Systems Administration/\"",
+      "color": {
+        "a": 1,
+        "rgb": 9766809
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/07. Cloudflare Edge Computing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16646399
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/08. MLOps & Machine Learning Operations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555305
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/09. Network Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670955
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/10. DevSecOps/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171343
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/11. Git Version Control/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028938
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/12. Cloud-Native Orchestration/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711900
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/13. Cloud-Native Security Automation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555287
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/14. Infrastructure as Code/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670936
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/15. DevOps Automation Tooling/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171323
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/16. Enterprise Protocols/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028923
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/17. CDN Infrastructure/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711879
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/18. Container Runtime Internals/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555275
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/19. Kernel Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670924
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/20. AWS Enterprise Infrastructure/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171312
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/21. GitHub and CI-CD Automation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028910
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/01. Machine Learning/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711852
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/02. Prompt Engineering, Context Optimization & LLM Alignment/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555259
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/03. AI Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670906
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/04. AI Agents/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171295
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/05. Claude Code/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028896
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/06. AI-Assisted Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711830
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/07. Large Language Model Fine-Tuning & Quantization/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555245
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/08. High-Performance Inference/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670891
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/09. Data Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171279
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/10. AI Data Science/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028883
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/11. Deep Learning/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711809
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/12. Transformer Foundations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555235
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/13. Vector Databases/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670882
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/14. RAG Architectures/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171271
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/15. Autonomous Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028874
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/16. Multi-Agent Orchestration/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711794
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/17. Model Context Protocol MCP/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555226
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/18. Vibe Coding/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670873
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/19. LLMOps Infrastructure/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171262
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/20. ETL Pipelines/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028866
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/21. Statistical Modeling/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711780
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/01. Tech Lead/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711776
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/02. Engineering Management/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/03. Professionalism/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670859
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/04. Product Management/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171248
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/05. Code Review Culture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028853
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/06. Quality Assurance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711756
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/07. Developer Relations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555203
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/08. Technical Writing/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670847
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/09. Principal SWE Influence/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171236
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/10. Negotiation and Conflict Resolution/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028842
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/11. Personal Productivity and Deep Work/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711738
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/12. Forward Deployed Engineering/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555193
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/13. Systems Thinking in Organizations/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670836
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/14. Executive Technical Strategy and Board Governance/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171225
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/15. Engineering Team Leadership/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028832
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/16. People Leadership/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711719
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/17. Software Craftsmanship/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555182
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/18. Strategic Execution/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670825
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/19. Engineering Standards/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171214
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/20. Testing Leadership/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028822
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/21. Community Leadership/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711701
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/22. Documentation Systems/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555172
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/23. Technical Strategy/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670814
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/24. Organizational Dynamics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 14171203
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/25. Cognitive Ergonomics/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10028812
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/26. Customer Architecture/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711686
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/27. Sociotechnical Dynamics and Org Design/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15555164
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/28. Capital Allocation/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11670806
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 0.95,
+  "lineSizeMultiplier": 0.15,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.18,
+  "repelStrength": 13,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.06675696170478133,
+  "linkDistance": 45,
+  "scale": 0.4856876380376155,
   "close": true
 }
