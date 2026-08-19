@@ -4,7 +4,7 @@ tags:
   - golang
   - dependencies
   - principal-swe
-parent: "[[Dependencies & Go Modules]]"
+parent: "[[Dependencies]]"
 ---
 
 # Enterprise & Monorepos
@@ -32,5 +32,5 @@ Enterprise & Monorepos
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Dependencies & Go Modules]]
+- ⬆️ Parent: [[Dependencies]]
 

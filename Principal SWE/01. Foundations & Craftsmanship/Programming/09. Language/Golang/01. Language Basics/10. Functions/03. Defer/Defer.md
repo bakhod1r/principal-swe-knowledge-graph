@@ -30,17 +30,8 @@ Defer
 - [[Modifying Named Return Values via Defer]] — Mutating named return variables inside deferred closures.
 - [[Stack vs Heap Defer Allocation]] — Open-coded defers (Go 1.14+) eliminating heap allocation for small defers.
 - [[defer in Loops Resource Leak Trap]] — Accumulating unexecuted defers inside long-running loops.
-
-
-## 🗂️ Contents
-
-- [[Argument Evaluation at Defer Time]]
-- [[Modifying Named Return Values via Defer]]
 - [[Open-Coded Defers (Go 1.14+ Zero-Cost)]]
-- [[Stack vs Heap Defer Allocation]]
 - [[Stack vs Heap Defer Allocations]]
-- [[defer Statement Mechanics]]
-- [[defer in Loops Resource Leak Trap]]
 
 ---
 

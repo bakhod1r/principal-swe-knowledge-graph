@@ -34,19 +34,8 @@ For Range
 - [[Range over Integer (Go 1.22+)]] — Syntactic sugar counting loops (for i := range 10).
 - [[Range over Func (Go 1.23+ Iterators)]] — Custom user iterator functions yielding elements to for-range.
 - [[Range Value Copying Pitfall]] — Mutating iteration value copy instead of slice element.
-
-
-## 🗂️ Contents
-
 - [[Coroutine Stack Switching in Pull Iterators]]
 - [[Push Iterators (iter.Seq) vs Pull Iterators (iter.Pull)]]
-- [[Range Value Copying Pitfall]]
-- [[Range over Channels]]
-- [[Range over Func (Go 1.23+ Iterators)]]
-- [[Range over Integer (Go 1.22+)]]
-- [[Range over Maps & Randomization]]
-- [[Range over Slices & Arrays]]
-- [[Range over Strings (Rune Decoding)]]
 - [[SIMD Vectorization & BCE in Loops]]
 
 ---

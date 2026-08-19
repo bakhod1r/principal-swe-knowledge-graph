@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsubqueriesandcommontableexpressionsctessyntaxandco
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctessyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctessyntaxandcoremechanics_created
 ON sqlsubqueriesandcommontableexpressionsctessyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

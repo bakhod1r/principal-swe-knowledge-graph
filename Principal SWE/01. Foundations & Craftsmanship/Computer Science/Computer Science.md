@@ -14,8 +14,6 @@ parent: "[[Foundations & Craftsmanship]]"
 
 Comprehensive, production-grade master architecture covering the complete academic and industrial foundations of computer science across 15 master pillars:
 
-
-
 ---
 
 ## 💻 Core Knowledge Pillars
@@ -205,7 +203,7 @@ Comprehensive, production-grade master architecture covering the complete academ
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Algorithms]]
 - [[Compilers, Interpreters & Runtime Optimization]]

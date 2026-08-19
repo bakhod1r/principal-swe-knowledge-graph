@@ -51,8 +51,7 @@ API Design & Gateway Architecture
 - 📂 `12. API Mocking, Service Virtualization, and Sandbox APIs`
 - 📂 `13. High Performance Reverse Proxies Nginx and Envoy`
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[API Mocking, Service Virtualization, and Developer Sandboxes]]
 - [[API Security Architecture: Oauth 2.1, Openid Connect (oidc), and Mutual Tls]]

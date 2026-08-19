@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS relationaldatabaseconceptsandrelationaltheorysyntaxan
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheorysyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheorysyntaxandcoremechanics_created
 ON relationaldatabaseconceptsandrelationaltheorysyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

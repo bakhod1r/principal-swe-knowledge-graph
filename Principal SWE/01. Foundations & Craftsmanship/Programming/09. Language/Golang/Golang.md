@@ -94,7 +94,7 @@ TLS 1.3/mTLS zero-trust architecture, AEAD encryption (AES-GCM, ChaCha20), const
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Advanced Topics & Low-Level Go]]
 - [[Application Architecture]]

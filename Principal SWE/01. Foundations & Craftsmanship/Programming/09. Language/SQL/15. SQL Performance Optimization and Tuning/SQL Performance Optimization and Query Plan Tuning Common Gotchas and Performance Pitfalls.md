@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlperformanceoptimizationandqueryplantuningcommongot
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlperformanceoptimizationandqueryplantuningcommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlperformanceoptimizationandqueryplantuningcommongotchasandperformancepitfalls_created
 ON sqlperformanceoptimizationandqueryplantuningcommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

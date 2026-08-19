@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsecuritygrantsandrowlevelsecurityrlssyntaxandcorem
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsecuritygrantsandrowlevelsecurityrlssyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsecuritygrantsandrowlevelsecurityrlssyntaxandcoremechanics_created
 ON sqlsecuritygrantsandrowlevelsecurityrlssyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

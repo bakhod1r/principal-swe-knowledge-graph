@@ -33,22 +33,12 @@ Design Principles (Object-Oriented Programming)
 - [[Cohesion and Coupling]]
 - [[DRY KISS YAGNI]]
 - [[Fragile Base Class Problem]]
-
-
-## 🗂️ Contents
-
 - [[Cohesion and Coupling (Design Principles (Object-Oriented Programming))]]
-- [[Cohesion and Coupling]]
 - [[Composition Over Inheritance (Design Principles (Object-Oriented Programming))]]
-- [[Composition Over Inheritance (Design Principles)]]
 - [[DRY KISS YAGNI (Design Principles (Object-Oriented Programming))]]
-- [[DRY KISS YAGNI]]
 - [[Fragile Base Class Problem (Design Principles (Object-Oriented Programming))]]
-- [[Fragile Base Class Problem]]
 - [[Law of Demeter (Design Principles (Object-Oriented Programming))]]
-- [[Law of Demeter (Design Principles)]]
 - [[SOLID Principles (Design Principles (Object-Oriented Programming))]]
-- [[SOLID Principles]]
 
 ---
 

@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqltransactionsandacidconcurrencycontrolsyntaxandcore
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqltransactionsandacidconcurrencycontrolsyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqltransactionsandacidconcurrencycontrolsyntaxandcoremechanics_created
 ON sqltransactionsandacidconcurrencycontrolsyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

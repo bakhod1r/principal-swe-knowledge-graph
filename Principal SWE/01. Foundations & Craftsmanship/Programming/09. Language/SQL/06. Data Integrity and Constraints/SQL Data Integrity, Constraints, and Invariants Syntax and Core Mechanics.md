@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqldataintegrityconstraintsandinvariantssyntaxandcore
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantssyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantssyntaxandcoremechanics_created
 ON sqldataintegrityconstraintsandinvariantssyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

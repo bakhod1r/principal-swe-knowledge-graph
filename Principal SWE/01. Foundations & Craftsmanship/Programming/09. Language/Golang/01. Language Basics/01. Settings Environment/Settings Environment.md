@@ -1,10 +1,13 @@
 ---
 title: Settings Environment
+type: index
 tags:
   - golang
   - environment
   - principal-swe
 parent: "[[Language Basics]]"
+cssclasses:
+  - index
 ---
 
 # Settings Environment
@@ -26,13 +29,6 @@ Settings Environment
 - [[Core Environment Variables]] — Fundamental Go directories, paths, binaries, and persistent environment configurations.
 - [[Target OS & Architecture]] — Cross-compilation matrices, CGO linking semantics, libc/musl resolution, and DNS resolver engines.
 - [[Build Caching & Reproducibility]] — Action cache mechanics, output caches, reproducible builds, and binary provenance.
-
-
-## 🗂️ Contents
-
-- [[Build Caching & Reproducibility]]
-- [[Core Environment Variables]]
-- [[Target OS & Architecture]]
 
 ---
 

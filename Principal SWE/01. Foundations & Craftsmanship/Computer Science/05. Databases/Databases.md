@@ -11,8 +11,6 @@ parent: "[[Computer Science]]"
 
 Comprehensive engineering guide, theoretical foundations, and systems blueprints for Databases.
 
-
-
 ---
 
 ## 🗂️ Core Knowledge Domains
@@ -45,8 +43,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Mongodb & Document Stores|26. MongoDB & Document Stores]]
 - 📂 [[Search Engines and Full Text Retrieval Systems (lucene, Elasticsearch, Meilisearch)|27. Search Engines and Full-Text Retrieval Systems]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Buffer Pool and Database Page Cache Management]]
 - [[CAP Theorem, Pacelc, and Distributed Consistency Models]]

@@ -44,7 +44,7 @@ func optimizeBoyerMoore(data []int) int {
     if n == 1 {
         return data[0] // Guard single-element base case
     }
-    
+
     // Fast-path vectorized or branchless loop
     res := 0
     for i := 0; i < n; i++ {

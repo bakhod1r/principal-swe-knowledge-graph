@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlbuiltinfunctionsandtransformationsproductionidioms
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlbuiltinfunctionsandtransformationsproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_sqlbuiltinfunctionsandtransformationsproductionidiomsandpatterns_created
 ON sqlbuiltinfunctionsandtransformationsproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

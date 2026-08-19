@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsubqueriesandcommontableexpressionsctescommongotch
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctescommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctescommongotchasandperformancepitfalls_created
 ON sqlsubqueriesandcommontableexpressionsctescommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

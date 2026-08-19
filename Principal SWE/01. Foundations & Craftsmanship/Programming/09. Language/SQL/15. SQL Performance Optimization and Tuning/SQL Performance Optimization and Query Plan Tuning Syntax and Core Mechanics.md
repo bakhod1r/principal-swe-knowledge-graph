@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlperformanceoptimizationandqueryplantuningsyntaxand
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlperformanceoptimizationandqueryplantuningsyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlperformanceoptimizationandqueryplantuningsyntaxandcoremechanics_created
 ON sqlperformanceoptimizationandqueryplantuningsyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

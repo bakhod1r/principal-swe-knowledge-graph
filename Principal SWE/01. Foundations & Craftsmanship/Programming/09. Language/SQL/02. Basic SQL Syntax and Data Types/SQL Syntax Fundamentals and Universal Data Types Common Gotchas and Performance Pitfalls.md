@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsyntaxfundamentalsanduniversaldatatypescommongotch
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsyntaxfundamentalsanduniversaldatatypescommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsyntaxfundamentalsanduniversaldatatypescommongotchasandperformancepitfalls_created
 ON sqlsyntaxfundamentalsanduniversaldatatypescommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

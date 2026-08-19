@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS relationaldatabaseconceptsandrelationaltheoryproducti
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheoryproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheoryproductionidiomsandpatterns_created
 ON relationaldatabaseconceptsandrelationaltheoryproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

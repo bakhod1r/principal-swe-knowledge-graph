@@ -23,10 +23,6 @@ Functions (Clean Code)
 ## 🗂️ Topics
 
 - `Clean Code Functions`
-
-
-## 🗂️ Contents
-
 - [[Anonymous Functions & Closures]]
 - [[Calling Conventions & Stacks]]
 - [[Defer]]

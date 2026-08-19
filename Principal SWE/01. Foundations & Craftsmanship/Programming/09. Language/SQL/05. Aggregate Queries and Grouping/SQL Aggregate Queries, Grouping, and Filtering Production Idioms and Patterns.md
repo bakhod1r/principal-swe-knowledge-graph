@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlaggregatequeriesgroupingandfilteringproductionidio
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlaggregatequeriesgroupingandfilteringproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_sqlaggregatequeriesgroupingandfilteringproductionidiomsandpatterns_created
 ON sqlaggregatequeriesgroupingandfilteringproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

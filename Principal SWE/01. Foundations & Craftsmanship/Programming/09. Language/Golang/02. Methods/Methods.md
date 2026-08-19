@@ -125,7 +125,7 @@ Methods & Interfaces
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Compiler Optimizations & Devirtualization]]
 - [[Method Declarations]]

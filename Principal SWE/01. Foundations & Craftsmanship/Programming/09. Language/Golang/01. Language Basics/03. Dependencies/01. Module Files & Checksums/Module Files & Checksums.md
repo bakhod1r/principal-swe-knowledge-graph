@@ -4,7 +4,7 @@ tags:
   - golang
   - dependencies
   - principal-swe
-parent: "[[Dependencies & Go Modules]]"
+parent: "[[Dependencies]]"
 ---
 
 # Module Files & Checksums
@@ -32,5 +32,5 @@ Module Files & Checksums
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Dependencies & Go Modules]]
+- ⬆️ Parent: [[Dependencies]]
 

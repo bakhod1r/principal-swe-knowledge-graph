@@ -4,7 +4,7 @@ tags:
   - golang
   - dependencies
   - principal-swe
-parent: "[[Dependencies & Go Modules]]"
+parent: "[[Dependencies]]"
 ---
 
 # Minimal Version Selection (MVS)
@@ -30,5 +30,5 @@ Minimal Version Selection (MVS)
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Dependencies & Go Modules]]
+- ⬆️ Parent: [[Dependencies]]
 

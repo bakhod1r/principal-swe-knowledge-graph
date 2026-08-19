@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsubqueriesandcommontableexpressionsctesproductioni
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctesproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsubqueriesandcommontableexpressionsctesproductionidiomsandpatterns_created
 ON sqlsubqueriesandcommontableexpressionsctesproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

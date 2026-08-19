@@ -212,7 +212,7 @@ Leadership & Soft Skills
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Capital Allocation]]
 - [[Code Review Culture]]

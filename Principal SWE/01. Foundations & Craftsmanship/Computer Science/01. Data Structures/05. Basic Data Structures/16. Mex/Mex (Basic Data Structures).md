@@ -35,8 +35,7 @@ Mex (Basic Data Structures)
 - [[Mex in Sprague-Grundy Game Theory (Nim-Value Transitions)]] — Computing Grundy values for impartial combinatorial games via state transition Mex.
 - [[Subarray Mex Computation and Frequency Counting]] — Computing Mex across sliding subarrays using frequency count tables.
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[First Missing Positive Algorithm (O(N) Time and O(1) Space)]]
 - [[In-Place Cyclic Sort for Mex (A[i] == i Mapping)]]

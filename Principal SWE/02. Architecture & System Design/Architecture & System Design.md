@@ -40,7 +40,7 @@ Architecture & System Design
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Architecture]]
 - [[Best Practices]]

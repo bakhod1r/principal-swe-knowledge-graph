@@ -26,14 +26,7 @@ Async
 - [[Async Error Handling Anti-Patterns]]
 - [[Execution Shape]]
 - [[Misuse]]
-
-
-## 🗂️ Contents
-
-- [[Async Error Handling Anti-Patterns]]
 - [[Error Handling (Async)]]
-- [[Execution Shape]]
-- [[Misuse]]
 
 ---
 

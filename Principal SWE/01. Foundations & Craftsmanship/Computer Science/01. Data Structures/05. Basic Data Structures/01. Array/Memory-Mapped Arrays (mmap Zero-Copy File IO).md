@@ -43,7 +43,7 @@ func OpenMmapArray(filename string) ([]byte, error) {
     f, err := os.Open(filename)
     if err != nil { return nil, err }
     defer f.Close()
-    
+
     info, _ := f.Stat()
     data, err := unix.Mmap(int(f.Fd()), 0, int(info.Size()), unix.PROT_READ, unix.MAP_SHARED)
     return data, err // Direct array access across multi-gigabyte files!

@@ -207,7 +207,7 @@ Runtime & Internals
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Core Runtime Architecture]]
 - [[Coroutine Runtime & Modern Concurrency (coro.go)]]

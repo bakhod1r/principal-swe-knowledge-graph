@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqldataintegrityconstraintsandinvariantscommongotchas
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantscommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantscommongotchasandperformancepitfalls_created
 ON sqldataintegrityconstraintsandinvariantscommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

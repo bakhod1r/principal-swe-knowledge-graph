@@ -151,7 +151,7 @@ Programming
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Choosing a Language]]
 - [[Code Craft]]

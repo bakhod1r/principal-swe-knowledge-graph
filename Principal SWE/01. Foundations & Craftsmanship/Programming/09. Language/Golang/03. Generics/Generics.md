@@ -129,7 +129,7 @@ Generics
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Compiler Mechanics & GcShape Stenciling]]
 - [[Generic Architecture & Design Patterns]]

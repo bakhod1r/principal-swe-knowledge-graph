@@ -35,17 +35,6 @@ Array
 - [[Array Slicing to Slice Header]] — Creating a slice header referencing an array (arr[:] and &arr).
 - [[Zero-Length Arrays ([0]T)]] — Zero-byte array types and their memory allocation characteristics.
 
-
-## 🗂️ Contents
-
-- [[Array Comparison (==)]]
-- [[Array Memory Layout]]
-- [[Array Pass-by-Value Semantics]]
-- [[Array Slicing to Slice Header]]
-- [[Fixed Length & Contiguous Memory]]
-- [[Multi-Dimensional Arrays]]
-- [[Zero-Length Arrays ([0]T)]]
-
 ---
 
 ## 🔗 References

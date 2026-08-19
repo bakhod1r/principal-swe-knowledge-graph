@@ -14,8 +14,7 @@ parent: "[[Golang]]"
 - [[Interface Design Patterns]]
 - [[Interface Contracts]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Interface Architecture]]
 - [[Interface Contracts]]

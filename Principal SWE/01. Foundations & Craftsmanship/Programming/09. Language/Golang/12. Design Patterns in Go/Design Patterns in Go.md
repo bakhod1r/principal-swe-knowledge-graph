@@ -89,7 +89,7 @@ Design Patterns in Go
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Behavioral Patterns]]
 - [[Creational Patterns]]

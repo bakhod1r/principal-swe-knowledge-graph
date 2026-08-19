@@ -31,15 +31,6 @@ Enterprise Secrets Management & Key Vaults (HSM, KMS)
 - [[Kubernetes Secrets Decryption & External Secrets Operator]] — Ingesting encrypted secrets directly into Go application memory without disk writes.
 - [[Automated Key Rotation Pipelines & Multi-Key Decryption]] — Handling versioned encryption keys, decrypting legacy data, and re-wrapping payloads.
 
-
-## 🗂️ Contents
-
-- [[Automated Key Rotation Pipelines & Multi-Key Decryption]]
-- [[Cloud KMS Envelope Encryption (AWS KMS, GCP KMS)]]
-- [[Hardware Security Module (HSM) Integration via PKCS#11]]
-- [[HashiCorp Vault Dynamic Secret Leasing & Token Renewal]]
-- [[Kubernetes Secrets Decryption & External Secrets Operator]]
-
 ---
 
 ## 🔗 References

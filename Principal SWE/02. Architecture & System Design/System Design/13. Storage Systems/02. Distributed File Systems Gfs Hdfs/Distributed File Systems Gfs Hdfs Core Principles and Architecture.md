@@ -65,7 +65,7 @@ func (m *DistributedFileSystemsGfsHdfsManager) Execute(ctx context.Context) erro
     // Circuit-breaker protected execution path with context deadline
     ctx, cancel := context.WithTimeout(ctx, m.timeout)
     defer cancel()
-    
+
     _ = ctx
     return nil
 }

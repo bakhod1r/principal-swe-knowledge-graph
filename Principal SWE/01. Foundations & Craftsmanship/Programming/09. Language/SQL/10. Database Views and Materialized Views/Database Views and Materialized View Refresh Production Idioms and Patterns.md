@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS databaseviewsandmaterializedviewrefreshproductionidio
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshproductionidiomsandpatterns_created
 ON databaseviewsandmaterializedviewrefreshproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

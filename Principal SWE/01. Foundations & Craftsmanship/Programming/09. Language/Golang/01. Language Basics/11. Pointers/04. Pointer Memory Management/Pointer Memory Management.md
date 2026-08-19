@@ -30,13 +30,7 @@ Memory Management & Escape Analysis
 - `Heap Escape Triggers` — Pointers returned from functions, interface boxing, dynamic slice sizes, large structs.
 - [[TCMalloc Allocation Hierarchy (mcache, mcentral, mheap)]] — Thread-local span caches, size classes, and central memory arenas.
 - [[Garbage Collection Tricolor Mark-Sweep]] — Concurrent tricolor marking, hybrid write barrier, and STW pause elimination.
-
-
-## 🗂️ Contents
-
 - [[Function Inlining Budget (Max 80 AST Nodes)]]
-- [[Garbage Collection Tricolor Mark-Sweep]]
-- [[TCMalloc Allocation Hierarchy (mcache, mcentral, mheap)]]
 - [[Tricolor GC Hybrid Write Barrier Deep Dive]]
 
 ---

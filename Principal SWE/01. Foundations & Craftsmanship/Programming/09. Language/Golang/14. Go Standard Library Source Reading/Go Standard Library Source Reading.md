@@ -49,7 +49,7 @@ Go Standard Library Source Reading
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Core & Concurrency Source]]
 - [[Networking & Data Source]]

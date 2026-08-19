@@ -65,7 +65,7 @@ func (m *ServiceDiscoveryManager) Execute(ctx context.Context) error {
     // Circuit-breaker protected execution path with context deadline
     ctx, cancel := context.WithTimeout(ctx, m.timeout)
     defer cancel()
-    
+
     _ = ctx
     return nil
 }

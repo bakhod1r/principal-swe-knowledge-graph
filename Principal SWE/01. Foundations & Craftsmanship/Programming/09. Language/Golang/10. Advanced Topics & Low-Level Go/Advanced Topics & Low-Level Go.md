@@ -120,7 +120,7 @@ Advanced Topics & Low-Level Go
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Alternative Targets]]
 - [[Compiler Pipeline]]

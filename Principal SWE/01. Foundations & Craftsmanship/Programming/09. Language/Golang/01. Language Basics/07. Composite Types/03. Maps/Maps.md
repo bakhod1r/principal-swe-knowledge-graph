@@ -53,27 +53,12 @@ Maps
 - [[Map Concurrency & Fatal Crashes]] — Concurrent map read/write fatal runtime crash, sync.RWMutex guarding, and sync.Map.
 - [[Map Memory Leaks & Bucket Growth]] — Maps never shrink bucket allocations after deletions, reclaiming memory via re-creation.
 - [[maps Standard Package (Go 1.21+)]] — Standard generic map helpers: maps.Clone, maps.Copy, maps.Equal, maps.DeleteFunc.
-
-
-## 🗂️ Contents
-
-- [[Comma-Ok Idiom for Maps]]
-- [[Iterating Maps & Randomization]]
-- [[Map Concurrency & Fatal Crashes]]
 - [[Map Concurrency Hazard & Race Detector Instrumentation]]
 - [[Map Evacuation & Load Factor (6.5 Threshold)]]
-- [[Map Insert, Update, and Lookup]]
-- [[Map Internals (hmap and bmap)]]
 - [[Map Iteration Randomization & Hash-DoS Safety]]
-- [[Map Key Constraints & Hashability]]
 - [[Map Key Types Requirements (Equality Contract)]]
-- [[Map Memory Leaks & Bucket Growth]]
-- [[Map delete() Builtin]]
 - [[SIMD Control Byte Probing (SSE2-NEON)]]
 - [[Swiss Table Map Architecture (Go 1.24+)]]
-- [[clear() on Maps (Go 1.21+)]]
-- [[make() for Maps]]
-- [[maps Standard Package (Go 1.21+)]]
 
 ---
 

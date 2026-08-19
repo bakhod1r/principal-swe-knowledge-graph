@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsecuritygrantsandrowlevelsecurityrlscommongotchasa
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsecuritygrantsandrowlevelsecurityrlscommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsecuritygrantsandrowlevelsecurityrlscommongotchasandperformancepitfalls_created
 ON sqlsecuritygrantsandrowlevelsecurityrlscommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

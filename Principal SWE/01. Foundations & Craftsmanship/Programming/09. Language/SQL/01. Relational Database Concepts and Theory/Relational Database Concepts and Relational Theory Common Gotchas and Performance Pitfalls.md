@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS relationaldatabaseconceptsandrelationaltheorycommongo
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheorycommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_relationaldatabaseconceptsandrelationaltheorycommongotchasandperformancepitfalls_created
 ON relationaldatabaseconceptsandrelationaltheorycommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

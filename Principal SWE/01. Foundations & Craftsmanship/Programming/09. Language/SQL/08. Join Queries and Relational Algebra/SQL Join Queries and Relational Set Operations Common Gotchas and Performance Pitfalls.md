@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqljoinqueriesandrelationalsetoperationscommongotchas
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqljoinqueriesandrelationalsetoperationscommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqljoinqueriesandrelationalsetoperationscommongotchasandperformancepitfalls_created
 ON sqljoinqueriesandrelationalsetoperationscommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

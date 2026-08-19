@@ -25,8 +25,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Randomized and Interactive Complexity (BPP, ZPP, IP=PSPACE, BQP Quantum Class)|08. Randomized, Interactive, and Quantum Complexity (BPP, IP, BQP)]]
 - 📂 [[The Chomsky Hierarchy (Type 0-3 Grammars) and Formal Language Classification|09. The Chomsky Hierarchy and Formal Grammar Classification]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Complexity Classes P vs NP, Verifiers, and the Cook-Levin Theorem]]
 - [[Context Free Grammars (cfg) and Pushdown Automata (pda)]]

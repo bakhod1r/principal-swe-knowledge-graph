@@ -1,19 +1,21 @@
 ---
-title: Dependencies & Go Modules
+title: Dependencies
+type: index
 tags:
-  - review
   - golang
   - dependencies
   - principal-swe
 parent: "[[Language Basics]]"
+cssclasses:
+  - index
 ---
 
-# Dependencies & Go Modules
+# Dependencies
 
 Go module system, MVS algorithm, checksum integrity, enterprise setups, and supply chain security.
 
 ```text
-Dependencies & Go Modules
+Dependencies
 │
 ├── [[Module Files & Checksums]]
 ├── [[Minimal Version Selection (MVS)]]

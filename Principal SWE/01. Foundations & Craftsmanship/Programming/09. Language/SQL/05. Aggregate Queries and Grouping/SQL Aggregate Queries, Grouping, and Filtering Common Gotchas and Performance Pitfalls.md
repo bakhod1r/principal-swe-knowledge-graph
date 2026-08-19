@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlaggregatequeriesgroupingandfilteringcommongotchasa
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlaggregatequeriesgroupingandfilteringcommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlaggregatequeriesgroupingandfilteringcommongotchasandperformancepitfalls_created
 ON sqlaggregatequeriesgroupingandfilteringcommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

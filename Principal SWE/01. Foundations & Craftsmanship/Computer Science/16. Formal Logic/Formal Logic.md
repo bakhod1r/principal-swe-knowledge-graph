@@ -24,8 +24,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Gödel's Incompleteness Theorems, Decidability Limits, and Proof Theory|07. Godel Incompleteness Theorems and Proof Theory]]
 - 📂 [[Curry-Howard Isomorphism (Propositions-as-Types), Intuitionistic Logic, and Type Theory|08. Lambda Calculus, Curry-Howard Isomorphism, and Type Theory Foundations]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Axiomatic Set Theory, Relations, and Order Theory]]
 - [[Boolean Algebra, Karnaugh Maps, and Logic Circuit Minimization]]

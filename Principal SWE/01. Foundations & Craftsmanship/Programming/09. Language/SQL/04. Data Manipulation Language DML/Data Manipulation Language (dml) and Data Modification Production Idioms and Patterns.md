@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS datamanipulationlanguagedmlanddatamodificationproduct
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_datamanipulationlanguagedmlanddatamodificationproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_datamanipulationlanguagedmlanddatamodificationproductionidiomsandpatterns_created
 ON datamanipulationlanguagedmlanddatamodificationproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

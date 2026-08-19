@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlsyntaxfundamentalsanduniversaldatatypessyntaxandco
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlsyntaxfundamentalsanduniversaldatatypessyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlsyntaxfundamentalsanduniversaldatatypessyntaxandcoremechanics_created
 ON sqlsyntaxfundamentalsanduniversaldatatypessyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

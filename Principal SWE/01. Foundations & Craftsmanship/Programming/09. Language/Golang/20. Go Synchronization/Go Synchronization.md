@@ -11,8 +11,7 @@ parent: "[[Golang]]"
 - `Lock-Free & Atomic Concurrency`
 - [[Atomic Operations]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Atomic Operations]]
 - [[Lock-Free Concurrency]]

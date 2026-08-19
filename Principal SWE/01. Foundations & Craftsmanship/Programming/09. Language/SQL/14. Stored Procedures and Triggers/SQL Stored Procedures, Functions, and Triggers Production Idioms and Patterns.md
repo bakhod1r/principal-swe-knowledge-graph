@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlstoredproceduresfunctionsandtriggersproductionidio
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlstoredproceduresfunctionsandtriggersproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_sqlstoredproceduresfunctionsandtriggersproductionidiomsandpatterns_created
 ON sqlstoredproceduresfunctionsandtriggersproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS databaseviewsandmaterializedviewrefreshcommongotchasa
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshcommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshcommongotchasandperformancepitfalls_created
 ON databaseviewsandmaterializedviewrefreshcommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

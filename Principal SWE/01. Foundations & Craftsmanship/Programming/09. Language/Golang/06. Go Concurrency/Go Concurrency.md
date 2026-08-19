@@ -215,7 +215,7 @@ Concurrency & Synchronization
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Advanced Concurrency Patterns]]
 - [[Channel Architecture]]

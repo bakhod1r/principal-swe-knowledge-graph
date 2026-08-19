@@ -23,10 +23,6 @@ Error Handling (Clean Code)
 ## 🗂️ Topics
 
 - `Error Handling (Clean Code)`
-
-
-## 🗂️ Contents
-
 - [[Error Handling Anti-Patterns & Code Smells]]
 - [[Error Interface Mechanics & Sentinel Errors]]
 - [[Modern Error Wrapping & Inspection (errors package)]]

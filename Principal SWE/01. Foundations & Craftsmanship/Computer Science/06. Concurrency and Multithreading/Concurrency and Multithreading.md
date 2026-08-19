@@ -28,8 +28,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Deadlock Prevention (Coffman Conditions), Livelock, and Starvation Proofs|11. Deadlock, Livelock, and Starvation Proofs and Prevention]]
 - 📂 [[Synchronization Primitives Internals, Linux Futexes, Hybrid Spin-Mutexes, and Condition Variables|12. Synchronization Primitives Internals (Mutexes, RWLocks, Futexes, Semaphores)]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Actor Model vs Communicating Sequential Processes (CSP) Concurrency Paradigms]]
 - [[Actor Model vs Communicating Sequential Processes (csp)]]

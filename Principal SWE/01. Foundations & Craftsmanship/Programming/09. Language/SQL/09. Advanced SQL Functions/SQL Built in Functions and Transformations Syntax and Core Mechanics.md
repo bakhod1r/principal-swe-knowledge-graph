@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlbuiltinfunctionsandtransformationssyntaxandcoremec
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlbuiltinfunctionsandtransformationssyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlbuiltinfunctionsandtransformationssyntaxandcoremechanics_created
 ON sqlbuiltinfunctionsandtransformationssyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

@@ -125,7 +125,7 @@ Code Organization & Architecture
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Idiomatic Clean Code]]
 - [[Modules, Workspaces & Versioning (go.mod, go.work)]]

@@ -28,10 +28,6 @@ Functions
 - `Anonymous Functions & Closures` — Function literals, lexical scoping, closure capture, and heap escape.
 - `Defer` — LIFO deferred execution, argument evaluation, named returns mutation, and stack allocation.
 - `Init Function` — Package initialization lifecycle, execution ordering, and dependency graphs.
-
-
-## 🗂️ Contents
-
 - [[Function Basics]]
 
 ---

@@ -26,8 +26,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation|09. Static Data Flow Analysis and Abstract Interpretation]]
 - 📂 [[Loop and Polyhedral Compilation Optimizations, Tiling, and Vectorization|10. Loop and Polyhedral Compilation Optimizations]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Abstract Syntax Trees (ast), Symbol Tables, and Semantic Analysis]]
 - [[Abstract Syntax Trees, Symbol Tables, and Semantic Analysis]]

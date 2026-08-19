@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlindexingstrategiesandbtreequeryaccelerationsyntaxa
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlindexingstrategiesandbtreequeryaccelerationsyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqlindexingstrategiesandbtreequeryaccelerationsyntaxandcoremechanics_created
 ON sqlindexingstrategiesandbtreequeryaccelerationsyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

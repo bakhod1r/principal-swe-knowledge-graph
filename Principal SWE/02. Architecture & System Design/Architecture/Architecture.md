@@ -372,7 +372,7 @@ Architecture
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[API Design]]
 - [[Architectural Anti-Patterns]]

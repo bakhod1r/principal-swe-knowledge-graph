@@ -32,7 +32,7 @@ Infrastructure & Security
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Cyber Security]]
 - [[DevOps]]

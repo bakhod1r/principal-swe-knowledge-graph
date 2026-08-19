@@ -1,11 +1,13 @@
 ---
 title: Go Commands
+type: index
 tags:
-  - review
   - golang
   - toolchain
   - principal-swe
 parent: "[[Language Basics]]"
+cssclasses:
+  - index
 ---
 
 # Go Commands

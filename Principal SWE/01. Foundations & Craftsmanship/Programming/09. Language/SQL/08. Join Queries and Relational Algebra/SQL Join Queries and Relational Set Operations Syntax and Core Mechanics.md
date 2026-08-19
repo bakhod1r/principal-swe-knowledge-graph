@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqljoinqueriesandrelationalsetoperationssyntaxandcore
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqljoinqueriesandrelationalsetoperationssyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_sqljoinqueriesandrelationalsetoperationssyntaxandcoremechanics_created
 ON sqljoinqueriesandrelationalsetoperationssyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

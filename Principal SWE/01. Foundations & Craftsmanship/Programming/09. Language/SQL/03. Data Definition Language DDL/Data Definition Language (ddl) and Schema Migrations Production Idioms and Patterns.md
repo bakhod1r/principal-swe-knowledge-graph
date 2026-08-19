@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS datadefinitionlanguageddlandschemamigrationsproductio
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_datadefinitionlanguageddlandschemamigrationsproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_datadefinitionlanguageddlandschemamigrationsproductionidiomsandpatterns_created
 ON datadefinitionlanguageddlandschemamigrationsproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

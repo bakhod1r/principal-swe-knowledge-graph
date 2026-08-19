@@ -167,7 +167,7 @@ Performance Engineering & Profiling
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Allocation Primitives]]
 - [[Benchmarking Methodology & Regression Gates]]

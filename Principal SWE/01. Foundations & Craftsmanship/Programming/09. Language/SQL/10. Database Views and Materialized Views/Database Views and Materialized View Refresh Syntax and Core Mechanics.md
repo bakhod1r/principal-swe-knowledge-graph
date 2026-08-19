@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS databaseviewsandmaterializedviewrefreshsyntaxandcorem
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshsyntaxandcoremechanics_created 
+CREATE INDEX IF NOT EXISTS idx_databaseviewsandmaterializedviewrefreshsyntaxandcoremechanics_created
 ON databaseviewsandmaterializedviewrefreshsyntaxandcoremechanics_records(created_at DESC);
 
 COMMIT;

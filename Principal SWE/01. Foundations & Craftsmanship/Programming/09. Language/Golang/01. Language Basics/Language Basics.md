@@ -1,10 +1,13 @@
 ---
 title: Language Basics
+type: index
 tags:
   - golang
   - basics
   - principal-swe
 parent: "[[Golang]]"
+cssclasses:
+  - index
 ---
 
 # 🔤 Language Basics
@@ -22,7 +25,7 @@ Language Basics
 │   ├── `Core CLI Commands`
 │   ├── `Compiler Pragmas & Directives (go:)`
 │   └── `Binary Inspection Tools (go tool)`
-├── [[Dependencies & Go Modules|03. Dependencies]]
+├── [[Dependencies|03. Dependencies]]
 │   ├── `Module Files & Checksums`
 │   ├── `Minimal Version Selection (MVS)`
 │   └── `Enterprise & Monorepos`
@@ -86,7 +89,7 @@ Language Basics
 - `Compiler Pragmas & Directives (go:)` — go:noinline, go:nosplit, go:linkname, go:uintptrescapes, go:notinheap, go:generate, and go:embed.
 - `Binary Inspection Tools (go tool)` — go tool compile -S (Plan 9 assembly), go tool objdump disassembly, go tool nm symbol tables, and go tool cgo.
 
-### 3. 📂 [[Dependencies & Go Modules|03. Dependencies]]
+### 3. 📂 [[Dependencies|03. Dependencies]]
 - `Module Files & Checksums` — go.mod directives, go.sum SHA-256 tree verification, GOPROXY mirrors, and GOSUMDB notary.
 - `Minimal Version Selection (MVS)` — MVS graph algorithm mechanics, semantic import versioning (v2+ rules), and retract directives.
 - `Enterprise & Monorepos` — GOPRIVATE corporate setups, vendoring (go mod vendor), multi-module workspaces, and govulncheck/SBOM.
@@ -151,12 +154,12 @@ Language Basics
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Composite Types]]
 - [[Conditionals]]
 - [[Data Types]]
-- [[Dependencies & Go Modules]]
+- [[Dependencies]]
 - [[Functions]]
 - [[Go Commands]]
 - [[Go Source Code Structure]]

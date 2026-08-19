@@ -30,7 +30,7 @@ AI & Intelligent Systems
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[AI Agents]]
 - [[AI Data Science]]

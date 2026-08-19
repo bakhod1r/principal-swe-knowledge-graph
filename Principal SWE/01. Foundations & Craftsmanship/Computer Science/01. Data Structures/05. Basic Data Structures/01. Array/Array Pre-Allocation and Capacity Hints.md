@@ -38,7 +38,7 @@ Total Malloc Calls: 1 heap allocation!
 // Pre-allocating slice capacity in Go
 func ProcessStream(stream <-chan int, batchSize int) []int {
     // Len = 0, Cap = batchSize -> 0 reallocations during append loop!
-    result := make([]int, 0, batchSize) 
+    result := make([]int, 0, batchSize)
     for item := range stream {
         result = append(result, item) // Always O(1) direct write!
     }

@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqldataintegrityconstraintsandinvariantsproductionidi
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantsproductionidiomsandpatterns_created 
+CREATE INDEX IF NOT EXISTS idx_sqldataintegrityconstraintsandinvariantsproductionidiomsandpatterns_created
 ON sqldataintegrityconstraintsandinvariantsproductionidiomsandpatterns_records(created_at DESC);
 
 COMMIT;

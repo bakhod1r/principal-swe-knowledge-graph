@@ -32,7 +32,7 @@ Foundations & Craftsmanship
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Computer Science]]
 - [[Programming]]

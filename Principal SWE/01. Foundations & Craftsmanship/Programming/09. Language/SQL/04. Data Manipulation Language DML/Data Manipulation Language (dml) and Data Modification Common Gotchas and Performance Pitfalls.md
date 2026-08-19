@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS datamanipulationlanguagedmlanddatamodificationcommong
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_datamanipulationlanguagedmlanddatamodificationcommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_datamanipulationlanguagedmlanddatamodificationcommongotchasandperformancepitfalls_created
 ON datamanipulationlanguagedmlanddatamodificationcommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

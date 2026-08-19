@@ -26,8 +26,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Post-Quantum Cryptography (PQC) Standards, Lattice-Based Cryptography (ML-KEM, ML-DSA)|09. Post Quantum Cryptography Pqc Standards]]
 - 📂 [[Multi-Party Computation (MPC), Shamir Secret Sharing, and Fully Homomorphic Encryption (FHE)|10. Multi Party Computation and Homomorphic Encryption]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)]]
 - [[Authenticated Encryption with Associated Data (AEAD), ChaCha20-Poly1305, and AES-GCM]]

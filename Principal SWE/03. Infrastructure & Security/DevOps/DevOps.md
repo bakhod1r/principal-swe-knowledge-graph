@@ -224,7 +224,7 @@ DevOps
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[AWS Cloud Platform]]
 - [[AWS Enterprise Infrastructure]]

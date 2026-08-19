@@ -37,23 +37,11 @@ Concurrency (Concurrency Async Parallel)
 - [[Deadlock Detection]]
 - [[Memory Models and Atomics Ordering]]
 - [[Lock Free and Wait Free Algorithms]]
-
-
-## 🗂️ Contents
-
 - [[Async Await (Concurrency (Concurrency Async Parallel))]]
-- [[Async Await]]
 - [[Deadlock Detection (Concurrency (Concurrency Async Parallel))]]
-- [[Deadlock Detection]]
 - [[Lock Free and Wait Free Algorithms (Concurrency (Concurrency Async Parallel))]]
-- [[Lock Free and Wait Free Algorithms]]
 - [[Memory Models and Atomics Ordering (Concurrency (Concurrency Async Parallel))]]
-- [[Memory Models and Atomics Ordering]]
-- [[Models]]
-- [[Patterns]]
-- [[Primitives]]
 - [[Race Conditions (Concurrency (Concurrency Async Parallel))]]
-- [[Race Conditions]]
 
 ---
 

@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqlstoredproceduresfunctionsandtriggerscommongotchasa
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqlstoredproceduresfunctionsandtriggerscommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqlstoredproceduresfunctionsandtriggerscommongotchasandperformancepitfalls_created
 ON sqlstoredproceduresfunctionsandtriggerscommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

@@ -25,8 +25,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Modern High-Speed Dictionary Compression (Zstandard FSE, Snappy, LZ4 Byte-Streaming)|08. Modern High-Speed Compression Engines (Zstandard, Snappy, LZ4)]]
 - 📂 [[Lossy Compression Theory, Discrete Cosine Transform (DCT), and Quantization Invariants|09. Lossy Compression, Transform Coding, and Quantization]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Arithmetic Coding, Range Coding, and Asymmetric Numeral Systems (ANS)]]
 - [[Arithmetic Coding, Range Coding, and Asymmetric Numeral Systems Ans]]

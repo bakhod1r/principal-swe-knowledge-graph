@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS advancedsqlwindowfunctionsandjsonboperationscommongot
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_advancedsqlwindowfunctionsandjsonboperationscommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_advancedsqlwindowfunctionsandjsonboperationscommongotchasandperformancepitfalls_created
 ON advancedsqlwindowfunctionsandjsonboperationscommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

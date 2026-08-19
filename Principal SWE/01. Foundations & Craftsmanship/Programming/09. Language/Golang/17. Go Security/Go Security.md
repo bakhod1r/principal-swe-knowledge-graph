@@ -149,7 +149,7 @@ Security, Cryptography & Hardening in Go
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Authentication, Authorization & Cryptographic Tokens]]
 - [[Code-Level Security]]

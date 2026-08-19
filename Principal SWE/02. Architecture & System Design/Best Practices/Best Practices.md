@@ -104,7 +104,7 @@ Best Practices
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[API Security Best Practices]]
 - [[AWS & Multi Cloud Architecture Best Practices]]

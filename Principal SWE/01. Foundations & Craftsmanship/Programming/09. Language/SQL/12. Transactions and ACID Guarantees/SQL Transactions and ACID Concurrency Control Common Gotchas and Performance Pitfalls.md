@@ -48,7 +48,7 @@ CREATE TABLE IF NOT EXISTS sqltransactionsandacidconcurrencycontrolcommongotchas
     created_at TIMESTAMPTZ NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-CREATE INDEX IF NOT EXISTS idx_sqltransactionsandacidconcurrencycontrolcommongotchasandperformancepitfalls_created 
+CREATE INDEX IF NOT EXISTS idx_sqltransactionsandacidconcurrencycontrolcommongotchasandperformancepitfalls_created
 ON sqltransactionsandacidconcurrencycontrolcommongotchasandperformancepitfalls_records(created_at DESC);
 
 COMMIT;

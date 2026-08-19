@@ -25,8 +25,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Tensor Cores, Matrix Multiplication Hardware (GEMM), and FP16-BF16-FP8 Arithmetic|07. Tensor Cores, Matrix Acceleration, and Mixed-Precision Arithmetic]]
 - 📂 [[Distributed Multi-GPU Communication, Ring AllReduce, NCCL, and NVLink Topologies|08. Distributed Multi-GPU Communication, Ring AllReduce, NCCL, and NVLink]]
 
-
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[CUDA Programming Model, Grids, Blocks, Threads, and Kernel Execution Topologies]]
 - [[CUDA Programming Model, Thread Blocks, Grids, and Kernels]]

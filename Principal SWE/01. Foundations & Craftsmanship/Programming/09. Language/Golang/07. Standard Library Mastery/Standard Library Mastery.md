@@ -169,7 +169,7 @@ Standard Library Mastery
 
 ---
 
-## 🗂️ Contents
+## 🗂️ Topics
 
 - [[Containers]]
 - [[Data Encoding, Formats & Serialization]]

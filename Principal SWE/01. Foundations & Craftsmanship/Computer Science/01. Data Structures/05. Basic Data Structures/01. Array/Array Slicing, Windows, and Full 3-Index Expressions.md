@@ -38,7 +38,7 @@ Len = High - Low = 2, Cap = Max - Low = 3
 // 3-Index Slicing to Protect Parent Buffers
 func SafeSubSlice(parent []byte) []byte {
     // Limits child slice capacity so append cannot overwrite parent[5..]
-    return parent[2:5:5] 
+    return parent[2:5:5]
 }
 ```
 
