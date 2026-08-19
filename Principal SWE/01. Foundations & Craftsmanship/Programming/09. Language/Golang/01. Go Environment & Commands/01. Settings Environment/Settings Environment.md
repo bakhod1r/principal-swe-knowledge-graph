@@ -19,19 +19,19 @@ Settings Environment
 │
 ├── [[Core Environment Variables]]
 ├── [[Target OS & Architecture]]
-└── `Build Caching & Reproducibility`
+└── [[Build Caching & Reproducibility]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[Core Environment Variables]] — Fundamental Go directories, paths, binaries, and persistent environment configurations.
-- [[Target OS & Architecture]] — Cross-compilation matrices, CGO linking semantics, libc/musl resolution, and DNS resolver engines.
-- [[Build Caching & Reproducibility]] — Action cache mechanics, output caches, reproducible builds, and binary provenance.
+- [[Core Environment Variables]] — Fundamental Go directories, paths, binaries, workspace controls, and persistent configurations.
+- [[Target OS & Architecture]] — Cross-compilation matrices, microarchitectures (`GOAMD64`), CGO linking, and WASI targets.
+- [[Build Caching & Reproducibility]] — Action cache mechanics, PGO compilation, runtime tuning (`GOMEMLIMIT`, `GODEBUG`), and build tags.
 
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Language Basics]]
-
+- ⬆️ Parent: [[Go Environment & Commands]]
+- 📚 Module: `Go Environment & Commands`

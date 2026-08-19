@@ -4,6 +4,7 @@ type: index
 tags:
   - golang
   - dependencies
+  - modules
   - principal-swe
 parent: "[[Go Environment & Commands]]"
 cssclasses:
@@ -26,12 +27,12 @@ Dependencies
 
 ## 🗂️ Topics
 
-- [[Module Files & Checksums]] — Module declarations, direct/indirect dependencies, cryptographic checksum verification, and mirrors.
-- [[Minimal Version Selection (MVS)]] — MVS deterministic algorithm, graph resolution, SemVer compatibility rules, and major version suffixes.
-- [[Enterprise & Monorepos]] — Private corporate setups, vendoring, multi-module workspaces, and supply chain security.
+- [[Module Files & Checksums]] — Module declarations, direct/indirect dependencies, cryptographic checksum verification, mirrors, and cache management.
+- [[Minimal Version Selection (MVS)]] — MVS deterministic algorithm, pseudo-versions, diamond dependency resolution, and SemVer compatibility rules.
+- [[Enterprise & Monorepos]] — Private corporate setups, corporate proxies, vendoring, multi-module workspaces, and hermetic builds.
 
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Language Basics]]
-
+- ⬆️ Parent: [[Go Environment & Commands]]
+- 📚 Module: `Go Environment & Commands`

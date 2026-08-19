@@ -12,7 +12,7 @@ cssclasses:
 
 # Go Commands
 
-Go CLI toolchain coordination, compiler pragmas (//go:), and binary inspection utilities.
+Go CLI toolchain coordination, compiler pragmas (`//go:`), and binary inspection utilities (`go tool`).
 
 ```text
 Go Commands
@@ -26,12 +26,12 @@ Go Commands
 
 ## 🗂️ Topics
 
-- [[Core CLI Commands]] — Toolchain coordinator commands: build, run, install, test, fmt, vet, doc, clean, and work.
-- [[Compiler Pragmas & Directives (go:)]] — Compiler pragma directives controlling inlining, stack allocation, symbol linking, and code generation.
-- [[Binary Inspection Tools (go tool)]] — Internal toolchain inspection utilities: compile -S, objdump, nm, and cgo.
+- [[Core CLI Commands]] — Toolchain coordinator commands: `build`, `run`, `install`, `test`, `fmt`, `vet`, `doc`, `clean`, `telemetry`, and `work`.
+- [[Compiler Pragmas & Directives (go:)]] — Compiler pragma directives controlling inlining, escape analysis, stack allocation, symbol linking, and code generation.
+- [[Binary Inspection Tools (go tool)]] — Internal toolchain inspection utilities: `compile -S`, `objdump`, `nm`, `pprof`, `trace`, `covdata`, and `cgo`.
 
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Language Basics]]
-
+- ⬆️ Parent: [[Go Environment & Commands]]
+- 📚 Module: `Go Environment & Commands`
