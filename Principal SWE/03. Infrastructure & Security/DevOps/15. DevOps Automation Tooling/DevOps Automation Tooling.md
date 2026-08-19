@@ -1,7 +1,5 @@
 ---
 title: DevOps Automation Tooling
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

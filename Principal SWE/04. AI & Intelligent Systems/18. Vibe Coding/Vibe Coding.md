@@ -1,7 +1,5 @@
 ---
 title: Vibe Coding
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

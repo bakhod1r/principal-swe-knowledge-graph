@@ -1,7 +1,5 @@
 ---
 title: Receivers
-tags:
-  - hub
 parent: "[[Methods]]"
 ---
 

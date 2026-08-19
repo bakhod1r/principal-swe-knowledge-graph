@@ -1,7 +1,5 @@
 ---
 title: Documentation Systems
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

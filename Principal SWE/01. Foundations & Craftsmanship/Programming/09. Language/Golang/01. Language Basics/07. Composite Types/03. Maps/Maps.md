@@ -1,7 +1,5 @@
 ---
 title: Maps
-tags:
-  - hub
 parent: "[[Composite Types]]"
 ---
 

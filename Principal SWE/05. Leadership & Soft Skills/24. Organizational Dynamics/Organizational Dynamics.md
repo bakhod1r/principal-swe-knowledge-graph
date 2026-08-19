@@ -1,7 +1,5 @@
 ---
 title: Organizational Dynamics
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

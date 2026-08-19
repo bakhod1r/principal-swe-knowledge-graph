@@ -1,7 +1,5 @@
 ---
 title: Enterprise Protocols
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

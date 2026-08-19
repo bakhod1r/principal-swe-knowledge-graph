@@ -15,18 +15,18 @@ Euler's totient theorem, modular exponentiation, RSA trapdoor permutation, Weier
 ```text
 Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)
 │
-├── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Theoretical Foundations and Invariants]]
-├── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Production Implementation Patterns]]
-└── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases]]
+├── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Theoretical Foundations and Invariants]]
+├── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Production Implementation Patterns]]
+└── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Failure Modes and Edge Cases]]
 ```
 
 ---
 
 ## 🗂️ Theoretical Foundations & Systems Blueprints
 
-- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Theoretical Foundations and Invariants]]
-- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Production Implementation Patterns]]
-- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases]]
+- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Theoretical Foundations and Invariants]]
+- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Production Implementation Patterns]]
+- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Failure Modes and Edge Cases]]
 
 ---
 

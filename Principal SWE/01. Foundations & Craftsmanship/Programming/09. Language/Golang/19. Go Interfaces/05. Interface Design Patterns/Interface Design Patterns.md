@@ -1,7 +1,5 @@
 ---
 title: Interface Design Patterns
-tags:
-  - hub
 parent: "[[Go Interfaces]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: GitHub and CI-CD Automation
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

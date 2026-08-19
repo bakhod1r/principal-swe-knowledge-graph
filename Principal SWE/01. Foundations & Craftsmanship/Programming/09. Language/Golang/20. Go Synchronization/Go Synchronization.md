@@ -1,7 +1,5 @@
 ---
 title: Go Synchronization
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 

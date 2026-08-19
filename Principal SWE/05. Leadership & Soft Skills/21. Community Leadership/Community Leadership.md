@@ -1,7 +1,5 @@
 ---
 title: Community Leadership
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

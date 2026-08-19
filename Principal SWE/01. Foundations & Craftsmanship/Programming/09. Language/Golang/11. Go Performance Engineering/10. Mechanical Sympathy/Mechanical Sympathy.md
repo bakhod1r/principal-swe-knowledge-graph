@@ -1,7 +1,5 @@
 ---
 title: Mechanical Sympathy
-tags:
-  - hub
 parent: "[[Go Performance Engineering]]"
 ---
 

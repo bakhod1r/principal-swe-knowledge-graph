@@ -1,7 +1,5 @@
 ---
 title: Function Basics
-tags:
-  - hub
 parent: "[[Functions]]"
 ---
 

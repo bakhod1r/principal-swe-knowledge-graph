@@ -1,7 +1,5 @@
 ---
 title: Deep Learning
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

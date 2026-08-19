@@ -1,7 +1,5 @@
 ---
 title: Vector Databases
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

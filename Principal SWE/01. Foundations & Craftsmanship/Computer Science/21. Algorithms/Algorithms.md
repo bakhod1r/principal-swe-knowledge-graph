@@ -1,7 +1,5 @@
 ---
 title: Algorithms
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

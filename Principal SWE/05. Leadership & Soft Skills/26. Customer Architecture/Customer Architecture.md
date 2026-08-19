@@ -1,7 +1,5 @@
 ---
 title: Customer Architecture
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

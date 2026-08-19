@@ -1,7 +1,5 @@
 ---
 title: Type Sets
-tags:
-  - hub
 parent: "[[Generics]]"
 ---
 

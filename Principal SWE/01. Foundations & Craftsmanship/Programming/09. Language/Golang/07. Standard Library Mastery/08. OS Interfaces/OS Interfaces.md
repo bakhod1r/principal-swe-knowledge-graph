@@ -1,7 +1,5 @@
 ---
 title: OS Interfaces
-tags:
-  - hub
 parent: "[[Standard Library Mastery]]"
 ---
 

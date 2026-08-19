@@ -1,7 +1,5 @@
 ---
 title: Refactoring Standards
-tags:
-  - hub
 parent: "[[Code Organization]]"
 ---
 

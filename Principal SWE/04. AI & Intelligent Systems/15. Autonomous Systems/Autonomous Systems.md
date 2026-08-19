@@ -1,7 +1,5 @@
 ---
 title: Autonomous Systems
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

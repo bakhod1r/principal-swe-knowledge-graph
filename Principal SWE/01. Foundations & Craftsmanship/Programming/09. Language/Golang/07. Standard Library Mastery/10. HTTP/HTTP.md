@@ -1,7 +1,5 @@
 ---
 title: HTTP
-tags:
-  - hub
 parent: "[[Standard Library Mastery]]"
 ---
 

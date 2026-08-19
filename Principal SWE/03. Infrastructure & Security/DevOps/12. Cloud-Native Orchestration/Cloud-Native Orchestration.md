@@ -1,7 +1,5 @@
 ---
 title: Cloud-Native Orchestration
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

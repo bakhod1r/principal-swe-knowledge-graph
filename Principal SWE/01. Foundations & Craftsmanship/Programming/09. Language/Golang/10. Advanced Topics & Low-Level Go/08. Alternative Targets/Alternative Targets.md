@@ -1,7 +1,5 @@
 ---
 title: Alternative Targets
-tags:
-  - hub
 parent: "[[Advanced Topics & Low-Level Go]]"
 ---
 

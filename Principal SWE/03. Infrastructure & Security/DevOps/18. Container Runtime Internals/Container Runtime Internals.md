@@ -1,7 +1,5 @@
 ---
 title: Container Runtime Internals
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

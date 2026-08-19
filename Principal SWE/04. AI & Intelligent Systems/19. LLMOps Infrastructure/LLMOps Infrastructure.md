@@ -1,7 +1,5 @@
 ---
 title: LLMOps Infrastructure
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

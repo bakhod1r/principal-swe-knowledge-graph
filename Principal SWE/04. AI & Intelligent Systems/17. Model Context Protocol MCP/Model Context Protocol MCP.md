@@ -1,7 +1,5 @@
 ---
 title: Model Context Protocol MCP
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

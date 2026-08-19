@@ -1,7 +1,5 @@
 ---
 title: Testing Leadership
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Kernel Engineering
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

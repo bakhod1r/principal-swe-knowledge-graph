@@ -1,7 +1,5 @@
 ---
 title: Migration Best Practices
-tags:
-  - hub
 parent: "[[Best Practices]]"
 ---
 

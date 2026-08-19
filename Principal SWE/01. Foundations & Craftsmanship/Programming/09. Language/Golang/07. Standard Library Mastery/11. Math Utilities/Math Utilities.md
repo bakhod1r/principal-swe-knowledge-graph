@@ -1,7 +1,5 @@
 ---
 title: Math Utilities
-tags:
-  - hub
 parent: "[[Standard Library Mastery]]"
 ---
 

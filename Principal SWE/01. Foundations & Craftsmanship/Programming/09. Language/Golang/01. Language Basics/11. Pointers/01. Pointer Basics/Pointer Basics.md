@@ -1,7 +1,5 @@
 ---
 title: Pointer Basics
-tags:
-  - hub
 parent: "[[Pointers]]"
 ---
 

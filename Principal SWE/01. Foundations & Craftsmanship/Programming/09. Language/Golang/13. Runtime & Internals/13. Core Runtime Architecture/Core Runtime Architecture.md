@@ -1,7 +1,5 @@
 ---
 title: Core Runtime Architecture
-tags:
-  - hub
 parent: "[[Runtime & Internals]]"
 ---
 

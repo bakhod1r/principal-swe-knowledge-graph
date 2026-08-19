@@ -1,7 +1,5 @@
 ---
 title: Application Architecture
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 

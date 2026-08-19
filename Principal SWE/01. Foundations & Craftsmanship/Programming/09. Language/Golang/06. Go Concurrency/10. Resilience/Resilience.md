@@ -1,7 +1,5 @@
 ---
 title: Resilience
-tags:
-  - hub
 parent: "[[Go Concurrency]]"
 ---
 

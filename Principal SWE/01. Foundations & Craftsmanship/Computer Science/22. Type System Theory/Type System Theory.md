@@ -1,7 +1,5 @@
 ---
 title: Type System Theory
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

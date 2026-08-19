@@ -1,7 +1,5 @@
 ---
 title: Data Isolation Architecture
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

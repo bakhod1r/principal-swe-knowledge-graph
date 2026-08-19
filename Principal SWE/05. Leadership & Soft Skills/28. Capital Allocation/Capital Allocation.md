@@ -1,7 +1,5 @@
 ---
 title: Capital Allocation
-tags:
-  - hub
 parent: "[[Leadership & Soft Skills]]"
 ---
 

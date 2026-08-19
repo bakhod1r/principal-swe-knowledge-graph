@@ -1,7 +1,5 @@
 ---
 title: Microservice & Cloud-Native Patterns
-tags:
-  - hub
 parent: "[[Design Patterns in Go]]"
 ---
 

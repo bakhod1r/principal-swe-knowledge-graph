@@ -1,7 +1,5 @@
 ---
 title: Modern Architectural Styles
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

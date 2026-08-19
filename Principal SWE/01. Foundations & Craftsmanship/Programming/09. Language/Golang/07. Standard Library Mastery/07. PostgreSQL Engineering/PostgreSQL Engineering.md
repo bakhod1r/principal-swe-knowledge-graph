@@ -1,7 +1,5 @@
 ---
 title: PostgreSQL Engineering
-tags:
-  - hub
 parent: "[[Standard Library Mastery]]"
 ---
 

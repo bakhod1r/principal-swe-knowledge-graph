@@ -1,7 +1,5 @@
 ---
 title: Engineering Team Leadership
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

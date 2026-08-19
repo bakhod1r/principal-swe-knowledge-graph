@@ -1,7 +1,5 @@
 ---
 title: AWS Enterprise Infrastructure
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

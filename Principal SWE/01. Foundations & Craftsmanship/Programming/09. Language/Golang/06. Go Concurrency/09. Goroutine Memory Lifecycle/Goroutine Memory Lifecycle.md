@@ -1,7 +1,5 @@
 ---
 title: Goroutine Memory Lifecycle
-tags:
-  - hub
 parent: "[[Go Concurrency]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Core & Concurrency Source
-tags:
-  - hub
 parent: "[[Go Standard Library Source Reading]]"
 ---
 

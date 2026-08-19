@@ -1,7 +1,5 @@
 ---
 title: Incident Readiness
-tags:
-  - hub
 parent: "[[Best Practices]]"
 ---
 

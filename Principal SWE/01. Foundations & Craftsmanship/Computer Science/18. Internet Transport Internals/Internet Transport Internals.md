@@ -1,7 +1,5 @@
 ---
 title: Internet Transport Internals
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

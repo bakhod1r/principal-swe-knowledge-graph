@@ -1,7 +1,5 @@
 ---
 title: Hardware Concurrency
-tags:
-  - hub
 parent: "[[Go Concurrency]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: ETL Pipelines
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

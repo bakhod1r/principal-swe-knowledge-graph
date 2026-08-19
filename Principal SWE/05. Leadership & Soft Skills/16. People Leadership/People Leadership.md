@@ -1,7 +1,5 @@
 ---
 title: People Leadership
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

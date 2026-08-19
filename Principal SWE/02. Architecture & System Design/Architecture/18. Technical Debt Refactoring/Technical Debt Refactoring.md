@@ -1,7 +1,5 @@
 ---
 title: Technical Debt Refactoring
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

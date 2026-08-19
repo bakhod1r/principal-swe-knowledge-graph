@@ -1,7 +1,5 @@
 ---
 title: Atomic Operations
-tags:
-  - hub
 parent: "[[Go Synchronization]]"
 ---
 

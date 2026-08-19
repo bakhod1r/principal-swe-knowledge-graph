@@ -1,7 +1,5 @@
 ---
 title: Go Concurrency Patterns
-tags:
-  - hub
 parent: "[[Design Patterns in Go]]"
 ---
 

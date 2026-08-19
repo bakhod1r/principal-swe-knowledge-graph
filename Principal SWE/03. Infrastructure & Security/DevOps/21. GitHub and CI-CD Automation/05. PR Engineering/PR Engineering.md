@@ -1,7 +1,5 @@
 ---
 title: PR Engineering
-tags:
-  - hub
 parent: "[[GitHub and CI-CD Automation]]"
 ---
 

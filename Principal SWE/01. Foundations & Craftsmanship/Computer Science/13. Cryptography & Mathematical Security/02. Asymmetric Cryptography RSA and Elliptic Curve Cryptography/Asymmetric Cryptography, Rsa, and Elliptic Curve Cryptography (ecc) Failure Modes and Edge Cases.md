@@ -5,7 +5,7 @@ tags:
   - systems-engineering
   - cryptography-and-mathematical-security
   - principal-swe
-parent: "[[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)]]"
+parent: "[[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)]]"
 ---
 
 # Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases
@@ -35,5 +35,5 @@ parent: "[[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)]]
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)]]
+- ⬆️ Parent: [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)]]
 - 📚 Module: `Cryptography & Mathematical Security`

@@ -1,7 +1,5 @@
 ---
 title: Strategic Execution
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

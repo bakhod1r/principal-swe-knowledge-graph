@@ -1,7 +1,5 @@
 ---
 title: Cognitive Ergonomics
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

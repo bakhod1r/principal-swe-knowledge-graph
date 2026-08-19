@@ -1,7 +1,5 @@
 ---
 title: Refactoring Patterns
-tags:
-  - hub
 parent: "[[Best Practices]]"
 ---
 

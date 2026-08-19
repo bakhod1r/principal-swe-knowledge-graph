@@ -1,7 +1,5 @@
 ---
 title: Sociotechnical Dynamics and Org Design
-tags:
-  - hub
 parent: "[[Leadership & Soft Skills]]"
 ---
 

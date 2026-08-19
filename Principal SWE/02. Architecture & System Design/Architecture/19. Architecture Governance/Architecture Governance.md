@@ -1,7 +1,5 @@
 ---
 title: Architecture Governance
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

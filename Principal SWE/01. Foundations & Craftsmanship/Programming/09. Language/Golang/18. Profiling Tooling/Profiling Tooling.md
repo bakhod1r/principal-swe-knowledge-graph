@@ -1,7 +1,5 @@
 ---
 title: Profiling Tooling
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 

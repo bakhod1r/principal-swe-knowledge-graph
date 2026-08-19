@@ -1,7 +1,5 @@
 ---
 title: Software Craftsmanship
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

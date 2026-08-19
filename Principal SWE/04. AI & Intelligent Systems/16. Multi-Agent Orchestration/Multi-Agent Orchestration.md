@@ -1,7 +1,5 @@
 ---
 title: Multi-Agent Orchestration
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

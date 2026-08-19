@@ -1,7 +1,5 @@
 ---
 title: RAG Architectures
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

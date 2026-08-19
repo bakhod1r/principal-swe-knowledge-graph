@@ -1,7 +1,5 @@
 ---
 title: Storage Encryption
-tags:
-  - hub
 parent: "[[Cyber Security]]"
 ---
 

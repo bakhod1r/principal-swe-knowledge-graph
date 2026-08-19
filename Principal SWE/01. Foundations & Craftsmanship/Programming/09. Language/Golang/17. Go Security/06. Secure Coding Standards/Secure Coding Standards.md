@@ -1,7 +1,5 @@
 ---
 title: Secure Coding Standards
-tags:
-  - hub
 parent: "[[Go Security]]"
 ---
 

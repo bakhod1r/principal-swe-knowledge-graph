@@ -1,7 +1,5 @@
 ---
 title: Statistical Modeling
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

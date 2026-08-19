@@ -1,7 +1,5 @@
 ---
 title: Transformer Foundations
-tags:
-  - hub
 parent: "[[AI & Machine Learning]]"
 ---
 

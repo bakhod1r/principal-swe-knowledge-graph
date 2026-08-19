@@ -1,7 +1,5 @@
 ---
 title: PostgreSQL DBA
-tags:
-  - hub
 parent: "[[Databases]]"
 ---
 

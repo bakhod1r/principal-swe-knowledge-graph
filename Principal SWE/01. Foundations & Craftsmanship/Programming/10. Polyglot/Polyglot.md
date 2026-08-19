@@ -1,7 +1,5 @@
 ---
 title: Polyglot
-tags:
-  - hub
 parent: "[[Programming]]"
 ---
 

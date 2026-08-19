@@ -1,7 +1,5 @@
 ---
 title: Apollo Federation Ecosystem
-tags:
-  - hub
 parent: "[[API Design]]"
 ---
 

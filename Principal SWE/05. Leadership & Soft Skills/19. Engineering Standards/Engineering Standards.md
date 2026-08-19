@@ -1,7 +1,5 @@
 ---
 title: Engineering Standards
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

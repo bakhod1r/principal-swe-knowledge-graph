@@ -1,7 +1,5 @@
 ---
 title: Strings
-tags:
-  - hub
 parent: "[[Data Types]]"
 ---
 

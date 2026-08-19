@@ -1,7 +1,5 @@
 ---
 title: Strategic Modeling
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

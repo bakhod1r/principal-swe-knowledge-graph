@@ -1,7 +1,5 @@
 ---
 title: CDN Infrastructure
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

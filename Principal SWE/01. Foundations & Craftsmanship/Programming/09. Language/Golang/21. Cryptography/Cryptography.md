@@ -1,7 +1,5 @@
 ---
 title: Cryptography
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 

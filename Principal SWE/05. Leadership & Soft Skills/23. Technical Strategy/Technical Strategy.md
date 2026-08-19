@@ -1,7 +1,5 @@
 ---
 title: Technical Strategy
-tags:
-  - hub
 parent: "[[Soft Skills]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Memory Models
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

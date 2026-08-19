@@ -1,7 +1,5 @@
 ---
 title: Consensus
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

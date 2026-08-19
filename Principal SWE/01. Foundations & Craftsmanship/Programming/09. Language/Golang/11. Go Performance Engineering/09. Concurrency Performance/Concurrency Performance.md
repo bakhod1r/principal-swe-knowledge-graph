@@ -1,7 +1,5 @@
 ---
 title: Concurrency Performance
-tags:
-  - hub
 parent: "[[Go Performance Engineering]]"
 ---
 

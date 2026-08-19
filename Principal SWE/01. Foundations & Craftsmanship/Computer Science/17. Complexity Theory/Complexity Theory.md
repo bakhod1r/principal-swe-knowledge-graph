@@ -1,7 +1,5 @@
 ---
 title: Complexity Theory
-tags:
-  - hub
 parent: "[[Computer Science]]"
 ---
 

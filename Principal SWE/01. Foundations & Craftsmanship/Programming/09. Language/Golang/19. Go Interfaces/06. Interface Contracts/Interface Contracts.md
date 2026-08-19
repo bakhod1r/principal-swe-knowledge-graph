@@ -1,7 +1,5 @@
 ---
 title: Interface Contracts
-tags:
-  - hub
 parent: "[[Go Interfaces]]"
 ---
 

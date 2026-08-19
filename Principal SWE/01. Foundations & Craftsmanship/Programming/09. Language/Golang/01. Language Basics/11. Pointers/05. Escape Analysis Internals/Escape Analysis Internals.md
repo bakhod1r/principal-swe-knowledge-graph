@@ -1,7 +1,5 @@
 ---
 title: Escape Analysis Internals
-tags:
-  - hub
 parent: "[[Pointers]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: Infrastructure as Code
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

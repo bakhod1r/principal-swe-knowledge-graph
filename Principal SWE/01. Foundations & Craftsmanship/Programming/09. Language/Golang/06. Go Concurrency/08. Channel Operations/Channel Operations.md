@@ -1,7 +1,5 @@
 ---
 title: Channel Operations
-tags:
-  - hub
 parent: "[[Go Concurrency]]"
 ---
 

@@ -1,7 +1,5 @@
 ---
 title: High-Performance Design Patterns
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

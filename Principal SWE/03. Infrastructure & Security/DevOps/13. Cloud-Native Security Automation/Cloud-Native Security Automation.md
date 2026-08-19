@@ -1,7 +1,5 @@
 ---
 title: Cloud-Native Security Automation
-tags:
-  - hub
 parent: "[[DevOps]]"
 ---
 

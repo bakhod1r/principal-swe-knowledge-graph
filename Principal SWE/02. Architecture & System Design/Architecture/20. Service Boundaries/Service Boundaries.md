@@ -1,7 +1,5 @@
 ---
 title: Service Boundaries
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

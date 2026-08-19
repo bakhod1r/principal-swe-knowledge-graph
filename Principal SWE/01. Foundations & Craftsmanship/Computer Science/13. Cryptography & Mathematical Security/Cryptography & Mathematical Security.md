@@ -16,7 +16,7 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 ## 🗂️ Core Knowledge Domains
 
 - 📂 [[Symmetric Ciphers, AES Rijndael, and Block Cipher Modes (CBC, CTR, GCM)|01. Symmetric Ciphers and Block Cipher Modes]]
-- 📂 [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)|02. Asymmetric Cryptography RSA and Elliptic Curve Cryptography]]
+- 📂 [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)|02. Asymmetric Cryptography RSA and Elliptic Curve Cryptography]]
 - 📂 [[Cryptographic Hash Functions (SHA-2, SHA-3 Keccak) and Key Derivation Functions (Argon2, PBKDF2)|03. Cryptographic Hash Functions and Key Derivation KDFs]]
 - 📂 [[Public Key Infrastructure (PKI), X.509 Certificates, and Certificate Revocation|04. Public Key Infrastructure PKI and Certificate Revocation]]
 - 📂 [[Zero-Knowledge Proofs, Sigma Protocols, and zk-SNARK zk-STARK Foundations|05. Zero Knowledge Proofs and Zk Snark Foundations]]

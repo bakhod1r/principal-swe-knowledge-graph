@@ -1,7 +1,5 @@
 ---
 title: Strings and Text
-tags:
-  - hub
 parent: "[[Standard Library Mastery]]"
 ---
 

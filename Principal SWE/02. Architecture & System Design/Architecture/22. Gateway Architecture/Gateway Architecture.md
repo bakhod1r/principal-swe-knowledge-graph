@@ -1,7 +1,5 @@
 ---
 title: Gateway Architecture
-tags:
-  - hub
 parent: "[[Architecture]]"
 ---
 

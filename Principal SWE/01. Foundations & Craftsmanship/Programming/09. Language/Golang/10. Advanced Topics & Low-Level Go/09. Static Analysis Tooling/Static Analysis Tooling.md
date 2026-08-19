@@ -1,7 +1,5 @@
 ---
 title: Static Analysis Tooling
-tags:
-  - hub
 parent: "[[Advanced Topics & Low-Level Go]]"
 ---
 

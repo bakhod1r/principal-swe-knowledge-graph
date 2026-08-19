@@ -1,7 +1,5 @@
 ---
 title: Structs
-tags:
-  - hub
 parent: "[[Composite Types]]"
 ---
 

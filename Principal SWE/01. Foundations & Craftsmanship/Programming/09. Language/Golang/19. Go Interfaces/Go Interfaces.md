@@ -1,7 +1,5 @@
 ---
 title: Go Interfaces
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 

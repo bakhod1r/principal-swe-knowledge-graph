@@ -1,7 +1,5 @@
 ---
 title: Hardening
-tags:
-  - hub
 parent: "[[Golang]]"
 ---
 
