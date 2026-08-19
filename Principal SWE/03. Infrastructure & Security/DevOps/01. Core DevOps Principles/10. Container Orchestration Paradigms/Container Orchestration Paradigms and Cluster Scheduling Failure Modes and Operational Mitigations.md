@@ -1,6 +1,7 @@
 ---
 title: "Container Orchestration Paradigms and Cluster Scheduling Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

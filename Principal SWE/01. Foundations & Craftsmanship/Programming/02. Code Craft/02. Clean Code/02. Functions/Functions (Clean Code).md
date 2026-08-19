@@ -1,6 +1,7 @@
 ---
 title: Functions (Clean Code)
 tags:
+  - review
   - programming
   - code-craft
   - principal-swe
@@ -22,6 +23,14 @@ Functions (Clean Code)
 ## 🗂️ Topics
 
 - `Clean Code Functions`
+
+
+## 🗂️ Contents
+
+- [[Anonymous Functions & Closures]]
+- [[Calling Conventions & Stacks]]
+- [[Defer]]
+- [[Init Function]]
 
 ---
 

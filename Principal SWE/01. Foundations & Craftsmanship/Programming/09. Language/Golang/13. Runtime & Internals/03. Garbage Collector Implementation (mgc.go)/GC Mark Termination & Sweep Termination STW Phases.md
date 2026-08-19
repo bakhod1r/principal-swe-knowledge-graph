@@ -1,6 +1,7 @@
 ---
 title: "GC Mark Termination & Sweep Termination STW Phases"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

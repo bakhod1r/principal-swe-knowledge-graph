@@ -1,6 +1,7 @@
 ---
 title: "SQL Subqueries and Common Table Expressions (ctes) Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

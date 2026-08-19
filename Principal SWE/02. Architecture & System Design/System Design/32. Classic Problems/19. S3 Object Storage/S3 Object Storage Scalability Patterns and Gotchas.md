@@ -1,6 +1,7 @@
 ---
 title: "S3 Object Storage Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

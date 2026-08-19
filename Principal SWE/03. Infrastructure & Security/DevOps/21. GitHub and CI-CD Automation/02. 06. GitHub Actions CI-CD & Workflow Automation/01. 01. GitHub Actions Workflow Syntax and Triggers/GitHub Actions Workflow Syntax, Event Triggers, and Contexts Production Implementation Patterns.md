@@ -1,6 +1,7 @@
 ---
 title: "GitHub Actions Workflow Syntax, Event Triggers, and Contexts Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

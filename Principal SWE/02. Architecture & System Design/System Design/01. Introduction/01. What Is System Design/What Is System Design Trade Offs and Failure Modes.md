@@ -1,6 +1,7 @@
 ---
 title: "What Is System Design Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

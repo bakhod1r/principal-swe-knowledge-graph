@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure Monitoring, Metrics Collection, and Prometheus Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

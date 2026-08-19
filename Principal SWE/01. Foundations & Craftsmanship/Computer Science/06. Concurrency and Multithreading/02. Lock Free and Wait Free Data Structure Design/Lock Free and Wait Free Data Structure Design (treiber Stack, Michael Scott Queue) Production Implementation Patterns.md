@@ -1,6 +1,7 @@
 ---
 title: "Lock Free and Wait Free Data Structure Design (treiber Stack, Michael Scott Queue) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

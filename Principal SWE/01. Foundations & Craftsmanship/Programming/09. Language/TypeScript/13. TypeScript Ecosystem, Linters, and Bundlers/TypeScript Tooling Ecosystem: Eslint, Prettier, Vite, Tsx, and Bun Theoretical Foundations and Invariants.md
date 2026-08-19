@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Tooling Ecosystem: Eslint, Prettier, Vite, Tsx, and Bun Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - typescript

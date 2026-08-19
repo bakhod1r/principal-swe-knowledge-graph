@@ -1,6 +1,7 @@
 ---
 title: "go generate Workflow & Directives Architecture"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

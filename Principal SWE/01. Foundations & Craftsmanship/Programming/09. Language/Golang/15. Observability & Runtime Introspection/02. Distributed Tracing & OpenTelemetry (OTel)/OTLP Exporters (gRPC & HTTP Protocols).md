@@ -1,6 +1,7 @@
 ---
 title: "OTLP Exporters (gRPC & HTTP Protocols)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

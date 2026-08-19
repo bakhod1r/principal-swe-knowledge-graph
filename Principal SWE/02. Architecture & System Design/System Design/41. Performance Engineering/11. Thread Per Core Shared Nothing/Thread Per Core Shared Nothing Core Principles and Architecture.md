@@ -1,6 +1,7 @@
 ---
 title: "Thread Per Core Shared Nothing Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

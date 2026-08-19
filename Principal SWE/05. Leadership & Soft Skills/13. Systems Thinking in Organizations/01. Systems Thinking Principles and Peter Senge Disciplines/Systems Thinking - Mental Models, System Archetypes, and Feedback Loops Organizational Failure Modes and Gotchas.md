@@ -1,6 +1,7 @@
 ---
 title: "Systems Thinking - Mental Models, System Archetypes, and Feedback Loops Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

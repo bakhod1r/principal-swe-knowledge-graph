@@ -28,3 +28,28 @@ AI & Intelligent Systems
 ## 🔗 Navigation
 - ⬆️ Master Root: [[Principal SWE]]
 
+---
+
+## 🗂️ Contents
+
+- [[AI Agents]]
+- [[AI Data Science]]
+- [[AI Engineering]]
+- [[AI-Assisted Engineering]]
+- [[Autonomous Systems]]
+- [[Claude Code]]
+- [[Data Engineering]]
+- [[Deep Learning]]
+- [[ETL Pipelines]]
+- [[High-Performance Inference]]
+- [[LLMOps Infrastructure]]
+- [[Large Language Model Fine Tuning & Quantization]]
+- [[Machine Learning]]
+- [[Model Context Protocol MCP]]
+- [[Multi-Agent Orchestration]]
+- [[Prompt Engineering, Context Optimization & LLM Alignment]]
+- [[RAG Architectures]]
+- [[Statistical Modeling]]
+- [[Transformer Foundations]]
+- [[Vector Databases]]
+- [[Vibe Coding]]

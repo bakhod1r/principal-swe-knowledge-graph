@@ -1,6 +1,7 @@
 ---
 title: "Clean Architecture & Hexagonal Ports-and-Adapters"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

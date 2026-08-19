@@ -1,6 +1,7 @@
 ---
 title: "Copy Mutex by Value Hazard & Struct Semantics"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

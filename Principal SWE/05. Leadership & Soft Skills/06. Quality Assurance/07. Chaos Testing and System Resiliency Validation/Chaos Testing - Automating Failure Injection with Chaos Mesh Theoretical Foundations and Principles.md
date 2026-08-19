@@ -1,6 +1,7 @@
 ---
 title: "Chaos Testing - Automating Failure Injection with Chaos Mesh Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

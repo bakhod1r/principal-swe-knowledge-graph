@@ -1,6 +1,7 @@
 ---
 title: "Developer Experience (devex) Frameworks - SPACE and Cognitive Friction Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

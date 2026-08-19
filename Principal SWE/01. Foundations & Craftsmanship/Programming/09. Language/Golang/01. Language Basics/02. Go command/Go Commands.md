@@ -1,6 +1,7 @@
 ---
 title: Go Commands
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

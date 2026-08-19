@@ -1,6 +1,7 @@
 ---
 title: "Key Characteristics Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

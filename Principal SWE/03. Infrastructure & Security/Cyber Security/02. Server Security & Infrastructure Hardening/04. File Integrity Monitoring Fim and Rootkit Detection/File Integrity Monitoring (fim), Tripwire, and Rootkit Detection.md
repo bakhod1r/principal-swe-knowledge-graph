@@ -1,6 +1,7 @@
 ---
 title: File Integrity Monitoring (fim), Tripwire, and Rootkit Detection
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

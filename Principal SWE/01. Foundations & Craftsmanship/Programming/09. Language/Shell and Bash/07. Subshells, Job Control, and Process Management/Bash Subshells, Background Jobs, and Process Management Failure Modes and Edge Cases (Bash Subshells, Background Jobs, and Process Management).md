@@ -1,6 +1,7 @@
 ---
 title: "Bash Subshells, Background Jobs, and Process Management Failure Modes and Edge Cases (Bash Subshells, Background Jobs, and Process Management)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

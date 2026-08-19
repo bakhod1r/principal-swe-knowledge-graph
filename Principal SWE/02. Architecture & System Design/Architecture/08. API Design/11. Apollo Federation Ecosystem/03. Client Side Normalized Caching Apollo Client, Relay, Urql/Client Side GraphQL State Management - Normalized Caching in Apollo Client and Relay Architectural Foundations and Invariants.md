@@ -1,6 +1,7 @@
 ---
 title: "Client Side GraphQL State Management - Normalized Caching in Apollo Client and Relay Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

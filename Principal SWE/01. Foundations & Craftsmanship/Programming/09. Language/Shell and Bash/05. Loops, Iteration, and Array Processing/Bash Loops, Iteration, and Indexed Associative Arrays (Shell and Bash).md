@@ -1,6 +1,7 @@
 ---
 title: Bash Loops, Iteration, and Indexed Associative Arrays (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

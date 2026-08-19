@@ -1,6 +1,7 @@
 ---
 title: "Array Geometric Growth Policies (1.5x vs 2.0x Amortization)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

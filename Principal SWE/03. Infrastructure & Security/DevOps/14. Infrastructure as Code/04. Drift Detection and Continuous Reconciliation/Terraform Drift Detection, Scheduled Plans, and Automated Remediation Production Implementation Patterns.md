@@ -1,6 +1,7 @@
 ---
 title: "Terraform Drift Detection, Scheduled Plans, and Automated Remediation Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

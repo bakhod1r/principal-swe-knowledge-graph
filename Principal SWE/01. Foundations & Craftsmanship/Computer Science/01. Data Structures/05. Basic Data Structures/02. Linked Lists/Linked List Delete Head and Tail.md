@@ -1,6 +1,7 @@
 ---
 title: "Linked List Delete Head and Tail"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

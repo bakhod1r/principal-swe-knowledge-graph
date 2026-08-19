@@ -1,6 +1,7 @@
 ---
 title: "Red and Use Methods Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

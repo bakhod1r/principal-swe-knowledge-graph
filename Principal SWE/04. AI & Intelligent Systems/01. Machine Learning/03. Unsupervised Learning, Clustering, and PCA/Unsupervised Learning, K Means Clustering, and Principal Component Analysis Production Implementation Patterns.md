@@ -1,6 +1,7 @@
 ---
 title: "Unsupervised Learning, K Means Clustering, and Principal Component Analysis Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

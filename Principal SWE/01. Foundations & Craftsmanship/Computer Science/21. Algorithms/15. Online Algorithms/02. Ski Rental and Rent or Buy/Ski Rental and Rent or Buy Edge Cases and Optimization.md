@@ -1,6 +1,7 @@
 ---
 title: "Ski Rental and Rent or Buy Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

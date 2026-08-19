@@ -1,6 +1,7 @@
 ---
 title: "Naming Idioms (Short-Lived vs Long-Lived Identifiers)"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

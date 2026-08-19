@@ -1,6 +1,7 @@
 ---
 title: "Generic Ring Buffer & Circular Queue"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

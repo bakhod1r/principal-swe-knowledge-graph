@@ -1,6 +1,7 @@
 ---
 title: "Executive Communication for Architects: Presenting Complex Systems to Leaders Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

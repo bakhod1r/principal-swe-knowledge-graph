@@ -1,6 +1,7 @@
 ---
 title: "CRDTs and Multi Master Causality Tracking Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

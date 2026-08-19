@@ -1,6 +1,7 @@
 ---
 title: "SQL Standards, Ddl, Dml, and Advanced Dialects Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Python Lambdas, Pure Functions, and Functional Primitives Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

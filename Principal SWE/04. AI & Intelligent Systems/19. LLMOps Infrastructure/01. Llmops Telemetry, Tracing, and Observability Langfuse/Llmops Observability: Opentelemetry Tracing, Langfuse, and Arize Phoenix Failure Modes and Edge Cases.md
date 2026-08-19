@@ -1,6 +1,7 @@
 ---
 title: "Llmops Observability: Opentelemetry Tracing, Langfuse, and Arize Phoenix Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

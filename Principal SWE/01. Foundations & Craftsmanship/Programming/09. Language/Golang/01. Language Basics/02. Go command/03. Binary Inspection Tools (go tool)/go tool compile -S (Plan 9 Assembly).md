@@ -1,6 +1,7 @@
 ---
 title: "go tool compile -S (Plan 9 Assembly)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

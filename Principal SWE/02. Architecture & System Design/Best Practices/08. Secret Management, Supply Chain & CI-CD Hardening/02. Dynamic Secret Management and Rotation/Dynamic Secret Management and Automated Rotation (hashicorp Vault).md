@@ -1,6 +1,7 @@
 ---
 title: Dynamic Secret Management and Automated Rotation (hashicorp Vault)
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

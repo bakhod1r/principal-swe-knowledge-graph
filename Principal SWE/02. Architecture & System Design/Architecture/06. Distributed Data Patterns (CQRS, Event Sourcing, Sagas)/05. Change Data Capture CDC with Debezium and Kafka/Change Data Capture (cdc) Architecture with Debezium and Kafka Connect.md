@@ -1,6 +1,7 @@
 ---
 title: Change Data Capture (cdc) Architecture with Debezium and Kafka Connect
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

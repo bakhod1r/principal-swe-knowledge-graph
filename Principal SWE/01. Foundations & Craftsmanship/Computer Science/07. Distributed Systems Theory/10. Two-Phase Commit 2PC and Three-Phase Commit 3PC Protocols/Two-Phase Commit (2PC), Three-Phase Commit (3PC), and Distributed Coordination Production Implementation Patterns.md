@@ -1,6 +1,7 @@
 ---
 title: "Two-Phase Commit (2PC), Three-Phase Commit (3PC), and Distributed Coordination Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

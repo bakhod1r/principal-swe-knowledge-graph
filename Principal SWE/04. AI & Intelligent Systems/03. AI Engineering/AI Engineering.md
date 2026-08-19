@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 AI Engineering, Vector Databases & RAG Architectures
@@ -51,5 +51,5 @@ AI Engineering, Vector Databases & RAG Architectures
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

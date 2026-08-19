@@ -1,6 +1,7 @@
 ---
 title: "sync.WaitGroup and sync.Once Source Walkthrough"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

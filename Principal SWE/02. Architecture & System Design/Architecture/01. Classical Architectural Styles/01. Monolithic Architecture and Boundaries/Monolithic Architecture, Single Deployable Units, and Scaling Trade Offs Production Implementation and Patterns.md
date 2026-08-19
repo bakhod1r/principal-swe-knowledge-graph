@@ -1,6 +1,7 @@
 ---
 title: "Monolithic Architecture, Single Deployable Units, and Scaling Trade Offs Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

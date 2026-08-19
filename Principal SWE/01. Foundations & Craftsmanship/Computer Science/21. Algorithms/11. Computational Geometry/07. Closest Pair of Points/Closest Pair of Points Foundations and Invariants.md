@@ -1,6 +1,7 @@
 ---
 title: "Closest Pair of Points Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

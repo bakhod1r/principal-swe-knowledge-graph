@@ -1,6 +1,7 @@
 ---
 title: "Documenting Architectural Decisions - Lightweight ADRs and RFCs Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

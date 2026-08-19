@@ -1,6 +1,7 @@
 ---
 title: "Architectural Style Selection Framework and Trade Off Matrix Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

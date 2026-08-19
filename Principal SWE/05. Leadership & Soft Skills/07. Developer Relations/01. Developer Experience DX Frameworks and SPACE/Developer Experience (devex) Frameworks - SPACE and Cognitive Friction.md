@@ -1,6 +1,7 @@
 ---
 title: Developer Experience (devex) Frameworks: SPACE and Cognitive Friction
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

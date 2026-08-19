@@ -1,6 +1,7 @@
 ---
 title: "Exploratory Data Analysis (eda) and Feature Engineering Techniques Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics

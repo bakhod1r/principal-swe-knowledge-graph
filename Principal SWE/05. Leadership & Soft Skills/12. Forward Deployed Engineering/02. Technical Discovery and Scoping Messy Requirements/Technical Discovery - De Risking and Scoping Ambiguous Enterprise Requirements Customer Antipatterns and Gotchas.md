@@ -1,6 +1,7 @@
 ---
 title: "Technical Discovery - De Risking and Scoping Ambiguous Enterprise Requirements Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

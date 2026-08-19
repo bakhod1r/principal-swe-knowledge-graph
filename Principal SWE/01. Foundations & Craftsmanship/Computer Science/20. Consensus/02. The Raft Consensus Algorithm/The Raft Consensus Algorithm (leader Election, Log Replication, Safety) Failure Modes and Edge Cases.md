@@ -1,6 +1,7 @@
 ---
 title: "The Raft Consensus Algorithm (leader Election, Log Replication, Safety) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

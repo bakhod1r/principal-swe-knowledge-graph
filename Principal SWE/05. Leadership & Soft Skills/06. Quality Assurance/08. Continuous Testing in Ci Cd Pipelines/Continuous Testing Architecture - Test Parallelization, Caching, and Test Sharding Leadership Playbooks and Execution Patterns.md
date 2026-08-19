@@ -1,6 +1,7 @@
 ---
 title: "Continuous Testing Architecture - Test Parallelization, Caching, and Test Sharding Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -42,6 +42,20 @@ Strings
 - [[String Concatenation Performance]] — Comparing +, fmt.Sprintf, strings.Join, bytes.Buffer, and strings.Builder.
 - [[strings.Builder Deep Dive]] — Zero-allocation string builder pattern and String() memory copy elimination.
 
+
+## 🗂️ Contents
+
+- [[Interpreted String Literals]]
+- [[Raw String Literals]]
+- [[String Concatenation Performance]]
+- [[String Immutability & Read-Only Memory (RODATA Segment)]]
+- [[String Immutability]]
+- [[String Indexing and Slicing]]
+- [[UTF-8 Multi-Byte Streaming & Validation (utf8.ValidString)]]
+- [[UTF-8 Streaming Decoders]]
+- [[Zero-Allocation Byte Scanners]]
+- [[strings.Builder Deep Dive]]
+
 ---
 
 ## 🔗 References

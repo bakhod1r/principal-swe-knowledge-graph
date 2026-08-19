@@ -1,6 +1,7 @@
 ---
 title: Native Machine Code Generation, Instruction Selection, and Instruction Scheduling
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

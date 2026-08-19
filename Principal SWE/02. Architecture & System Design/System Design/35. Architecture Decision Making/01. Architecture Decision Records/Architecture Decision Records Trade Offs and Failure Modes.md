@@ -1,6 +1,7 @@
 ---
 title: "Architecture Decision Records Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

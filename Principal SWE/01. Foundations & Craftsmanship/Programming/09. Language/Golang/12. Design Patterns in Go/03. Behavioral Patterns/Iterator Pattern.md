@@ -1,6 +1,7 @@
 ---
 title: "Iterator Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Graphics Rendering Pipeline, Shaders, and Compute Shaders (vulkan Directx) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

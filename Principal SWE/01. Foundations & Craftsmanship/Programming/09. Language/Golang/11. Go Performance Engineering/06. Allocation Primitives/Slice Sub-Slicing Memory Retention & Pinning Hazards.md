@@ -1,6 +1,7 @@
 ---
 title: "Slice Sub-Slicing Memory Retention & Pinning Hazards"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

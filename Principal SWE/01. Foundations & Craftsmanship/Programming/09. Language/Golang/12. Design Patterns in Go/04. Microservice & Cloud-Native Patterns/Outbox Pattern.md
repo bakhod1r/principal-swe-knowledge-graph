@@ -1,6 +1,7 @@
 ---
 title: "Outbox Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

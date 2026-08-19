@@ -1,6 +1,7 @@
 ---
 title: "Distributed Analytics Counter Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

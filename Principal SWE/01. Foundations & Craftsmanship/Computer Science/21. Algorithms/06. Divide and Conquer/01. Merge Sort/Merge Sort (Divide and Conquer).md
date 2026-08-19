@@ -1,6 +1,7 @@
 ---
 title: Merge Sort (Divide and Conquer)
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[Divide and Conquer]]"

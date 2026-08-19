@@ -1,6 +1,7 @@
 ---
 title: "Architectural Boundary Crossing, Dynamic Typing vs Static Dtos, and Serialization Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

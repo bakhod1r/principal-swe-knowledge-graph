@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Queries, Field Aliases, Inline Fragments, and Directives Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

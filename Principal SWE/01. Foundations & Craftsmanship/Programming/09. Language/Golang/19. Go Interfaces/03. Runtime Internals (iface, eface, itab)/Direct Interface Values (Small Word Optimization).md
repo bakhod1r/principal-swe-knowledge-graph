@@ -1,6 +1,7 @@
 ---
 title: "Direct Interface Values (Small Word Optimization)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

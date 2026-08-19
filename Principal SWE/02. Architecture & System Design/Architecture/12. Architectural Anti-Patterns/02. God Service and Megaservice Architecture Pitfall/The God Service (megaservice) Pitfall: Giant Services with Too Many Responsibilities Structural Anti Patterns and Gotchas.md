@@ -1,6 +1,7 @@
 ---
 title: "The God Service (megaservice) Pitfall: Giant Services with Too Many Responsibilities Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

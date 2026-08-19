@@ -1,6 +1,7 @@
 ---
 title: "Symbolication Pipelines and DWARF-PDB Debugging Symbol Management"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

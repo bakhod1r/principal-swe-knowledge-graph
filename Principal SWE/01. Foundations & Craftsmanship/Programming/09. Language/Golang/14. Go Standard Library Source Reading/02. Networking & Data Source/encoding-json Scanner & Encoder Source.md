@@ -1,6 +1,7 @@
 ---
 title: "encoding-json Scanner & Encoder Source"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

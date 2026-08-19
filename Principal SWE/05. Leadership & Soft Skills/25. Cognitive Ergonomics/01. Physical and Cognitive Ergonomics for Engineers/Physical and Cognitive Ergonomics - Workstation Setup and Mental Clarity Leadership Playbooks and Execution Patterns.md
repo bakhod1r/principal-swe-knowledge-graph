@@ -1,6 +1,7 @@
 ---
 title: "Physical and Cognitive Ergonomics - Workstation Setup and Mental Clarity Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

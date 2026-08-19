@@ -1,6 +1,7 @@
 ---
 title: "Policy As Code for Infrastructure (sentinel and OPA Rego) Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

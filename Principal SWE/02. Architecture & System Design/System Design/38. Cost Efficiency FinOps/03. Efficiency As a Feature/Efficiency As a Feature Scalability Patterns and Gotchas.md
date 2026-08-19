@@ -1,6 +1,7 @@
 ---
 title: "Efficiency As a Feature Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

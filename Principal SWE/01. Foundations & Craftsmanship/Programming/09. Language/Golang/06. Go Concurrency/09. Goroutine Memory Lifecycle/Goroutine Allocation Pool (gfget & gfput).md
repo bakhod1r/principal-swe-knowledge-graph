@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Allocation Pool (gfget & gfput)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

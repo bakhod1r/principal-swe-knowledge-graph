@@ -1,6 +1,7 @@
 ---
 title: "Linux Kernel Scheduler Internals and Completely Fair Scheduler (cfs) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

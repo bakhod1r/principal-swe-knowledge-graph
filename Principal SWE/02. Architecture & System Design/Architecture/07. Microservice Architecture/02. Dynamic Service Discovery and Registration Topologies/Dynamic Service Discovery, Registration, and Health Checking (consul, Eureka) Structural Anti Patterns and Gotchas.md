@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Service Discovery, Registration, and Health Checking (consul, Eureka) Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

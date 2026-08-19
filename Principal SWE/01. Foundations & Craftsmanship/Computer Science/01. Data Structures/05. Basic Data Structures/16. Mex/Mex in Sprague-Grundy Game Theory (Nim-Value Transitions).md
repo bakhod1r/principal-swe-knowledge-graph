@@ -1,6 +1,7 @@
 ---
 title: "Mex in Sprague-Grundy Game Theory (Nim-Value Transitions)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

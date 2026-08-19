@@ -1,6 +1,7 @@
 ---
 title: "Operating System Concepts and Linux Foundations for Devops Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

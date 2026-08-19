@@ -1,6 +1,6 @@
 ---
 title: Customer Architecture
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # Customer Architecture
@@ -15,4 +15,4 @@ parent: "[[Soft Skills]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`

@@ -1,6 +1,6 @@
 ---
 title: Engineering Team Leadership
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # Engineering Team Leadership
@@ -16,4 +16,4 @@ parent: "[[Soft Skills]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`

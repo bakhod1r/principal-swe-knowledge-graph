@@ -1,6 +1,7 @@
 ---
 title: "Numerical Linear Algebra, Gaussian Elimination, and Matrix Decompositions (lu, Qr, Svd) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing

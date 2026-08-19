@@ -1,6 +1,7 @@
 ---
 title: Offensive Red Teaming, Purple Teaming, and Adversary Emulation
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

@@ -1,6 +1,7 @@
 ---
 title: "Relational Database Concepts and Relational Theory Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

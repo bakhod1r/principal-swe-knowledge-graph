@@ -1,6 +1,7 @@
 ---
 title: "Method Values (Instance Binding & Closures)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Python Generator Expressions and Streaming Data Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

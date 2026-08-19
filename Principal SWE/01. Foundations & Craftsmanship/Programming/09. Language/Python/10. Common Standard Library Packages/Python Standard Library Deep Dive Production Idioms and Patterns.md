@@ -1,6 +1,7 @@
 ---
 title: "Python Standard Library Deep Dive Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

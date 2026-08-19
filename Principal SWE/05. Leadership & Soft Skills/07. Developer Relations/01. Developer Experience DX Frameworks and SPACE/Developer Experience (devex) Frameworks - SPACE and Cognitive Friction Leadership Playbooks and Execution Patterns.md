@@ -1,6 +1,7 @@
 ---
 title: "Developer Experience (devex) Frameworks - SPACE and Cognitive Friction Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

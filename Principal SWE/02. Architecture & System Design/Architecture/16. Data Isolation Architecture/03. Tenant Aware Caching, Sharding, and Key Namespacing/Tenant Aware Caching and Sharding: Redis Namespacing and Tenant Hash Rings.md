@@ -1,6 +1,7 @@
 ---
 title: Tenant Aware Caching and Sharding: Redis Namespacing and Tenant Hash Rings
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

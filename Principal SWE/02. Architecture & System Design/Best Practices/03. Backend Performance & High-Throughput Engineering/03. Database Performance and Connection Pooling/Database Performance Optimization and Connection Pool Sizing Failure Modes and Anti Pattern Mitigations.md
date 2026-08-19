@@ -1,6 +1,7 @@
 ---
 title: "Database Performance Optimization and Connection Pool Sizing Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering

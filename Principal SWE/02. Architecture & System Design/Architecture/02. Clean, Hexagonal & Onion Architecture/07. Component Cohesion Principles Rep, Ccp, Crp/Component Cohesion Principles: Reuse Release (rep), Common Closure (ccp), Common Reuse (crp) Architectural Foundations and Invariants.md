@@ -1,6 +1,7 @@
 ---
 title: "Component Cohesion Principles: Reuse Release (rep), Common Closure (ccp), Common Reuse (crp) Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

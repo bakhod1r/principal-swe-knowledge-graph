@@ -1,6 +1,7 @@
 ---
 title: "Combinatorics, Permutations, Combinations, and Generating Functions Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

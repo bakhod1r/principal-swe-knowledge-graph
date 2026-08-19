@@ -1,6 +1,7 @@
 ---
 title: "GPU Hardware Architecture, Streaming Multiprocessors (SM), and Warp Scheduling Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

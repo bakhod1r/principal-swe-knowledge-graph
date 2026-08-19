@@ -1,6 +1,7 @@
 ---
 title: "Database Backup Encryption, Worm Storage, and Secure Key Management Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

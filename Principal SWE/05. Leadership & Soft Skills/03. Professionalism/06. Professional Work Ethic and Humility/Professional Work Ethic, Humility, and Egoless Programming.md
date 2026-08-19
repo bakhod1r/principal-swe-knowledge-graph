@@ -1,6 +1,7 @@
 ---
 title: Professional Work Ethic, Humility, and Egoless Programming
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

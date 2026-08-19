@@ -1,6 +1,7 @@
 ---
 title: "Standard Go Project Layout (cmd, internal, pkg, api, web)"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

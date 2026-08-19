@@ -1,6 +1,7 @@
 ---
 title: "Building High Trust Cross Functional Coalitions Across Silos Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

@@ -1,6 +1,7 @@
 ---
 title: "Building Engineering Culture, High Retention, and Inclusive Teams Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

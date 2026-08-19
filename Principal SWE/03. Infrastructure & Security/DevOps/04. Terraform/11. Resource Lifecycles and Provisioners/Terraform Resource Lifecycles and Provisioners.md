@@ -1,6 +1,7 @@
 ---
 title: Terraform Resource Lifecycles and Provisioners
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

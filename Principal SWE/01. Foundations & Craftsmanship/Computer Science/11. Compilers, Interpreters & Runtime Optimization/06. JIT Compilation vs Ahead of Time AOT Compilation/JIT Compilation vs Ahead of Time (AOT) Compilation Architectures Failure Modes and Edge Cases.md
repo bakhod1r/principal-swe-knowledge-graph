@@ -1,6 +1,7 @@
 ---
 title: "JIT Compilation vs Ahead of Time (AOT) Compilation Architectures Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

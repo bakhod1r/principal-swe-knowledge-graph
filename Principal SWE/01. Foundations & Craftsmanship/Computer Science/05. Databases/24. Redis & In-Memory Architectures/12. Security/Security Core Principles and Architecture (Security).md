@@ -1,6 +1,7 @@
 ---
 title: "Security Core Principles and Architecture (Security)"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

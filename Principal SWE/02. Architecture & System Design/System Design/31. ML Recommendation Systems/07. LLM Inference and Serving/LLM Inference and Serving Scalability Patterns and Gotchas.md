@@ -1,6 +1,7 @@
 ---
 title: "LLM Inference and Serving Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

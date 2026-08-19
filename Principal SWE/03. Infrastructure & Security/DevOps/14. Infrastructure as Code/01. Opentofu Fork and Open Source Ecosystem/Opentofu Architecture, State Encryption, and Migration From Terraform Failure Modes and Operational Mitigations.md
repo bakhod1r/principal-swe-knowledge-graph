@@ -1,6 +1,7 @@
 ---
 title: "Opentofu Architecture, State Encryption, and Migration From Terraform Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

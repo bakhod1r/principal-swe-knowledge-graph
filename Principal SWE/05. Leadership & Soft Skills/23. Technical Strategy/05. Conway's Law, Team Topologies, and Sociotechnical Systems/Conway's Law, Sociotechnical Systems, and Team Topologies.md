@@ -1,6 +1,7 @@
 ---
 title: Conway's Law, Sociotechnical Systems, and Team Topologies
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

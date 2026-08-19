@@ -1,6 +1,7 @@
 ---
 title: "Numbers Every Engineer Should Know Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

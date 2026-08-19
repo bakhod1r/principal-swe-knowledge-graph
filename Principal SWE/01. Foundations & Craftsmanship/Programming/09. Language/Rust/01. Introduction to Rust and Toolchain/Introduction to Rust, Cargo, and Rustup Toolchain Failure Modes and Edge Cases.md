@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Rust, Cargo, and Rustup Toolchain Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

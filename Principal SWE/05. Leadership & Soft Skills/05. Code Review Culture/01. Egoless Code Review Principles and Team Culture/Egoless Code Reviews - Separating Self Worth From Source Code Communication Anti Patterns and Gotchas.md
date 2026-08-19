@@ -1,6 +1,7 @@
 ---
 title: "Egoless Code Reviews - Separating Self Worth From Source Code Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

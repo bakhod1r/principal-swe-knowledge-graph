@@ -1,6 +1,7 @@
 ---
 title: "Bellman Ford Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

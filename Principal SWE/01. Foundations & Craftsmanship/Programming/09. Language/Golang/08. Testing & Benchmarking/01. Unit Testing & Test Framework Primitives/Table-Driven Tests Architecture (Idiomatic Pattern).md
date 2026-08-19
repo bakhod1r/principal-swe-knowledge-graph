@@ -1,6 +1,7 @@
 ---
 title: "Table-Driven Tests Architecture (Idiomatic Pattern)"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Combinatorics, Permutations, Combinations, and Generating Functions Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

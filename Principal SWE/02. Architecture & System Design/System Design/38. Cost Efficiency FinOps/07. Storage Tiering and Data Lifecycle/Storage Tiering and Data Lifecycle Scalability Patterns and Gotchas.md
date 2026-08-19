@@ -1,6 +1,7 @@
 ---
 title: "Storage Tiering and Data Lifecycle Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Defensive Bash: Strict Mode (set Euo Pipefail) and Signal Traps (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

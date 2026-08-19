@@ -1,6 +1,7 @@
 ---
 title: "Cache Invalidation Core Principles and Architecture (Cache Invalidation)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

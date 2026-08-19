@@ -1,6 +1,7 @@
 ---
 title: Dockerfile Best Practices, Layer Caching, and Multi Stage Builds
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

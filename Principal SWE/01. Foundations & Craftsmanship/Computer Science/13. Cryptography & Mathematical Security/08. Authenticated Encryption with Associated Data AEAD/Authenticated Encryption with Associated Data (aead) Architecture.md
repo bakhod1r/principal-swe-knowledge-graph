@@ -1,6 +1,7 @@
 ---
 title: Authenticated Encryption with Associated Data (aead) Architecture
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

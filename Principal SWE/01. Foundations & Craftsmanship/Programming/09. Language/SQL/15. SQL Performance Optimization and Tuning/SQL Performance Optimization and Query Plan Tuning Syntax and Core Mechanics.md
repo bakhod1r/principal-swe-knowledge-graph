@@ -1,6 +1,7 @@
 ---
 title: "SQL Performance Optimization and Query Plan Tuning Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

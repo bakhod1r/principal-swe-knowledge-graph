@@ -1,6 +1,7 @@
 ---
 title: "Clean Code Standards, Boy Scout Rule, and Craftsmanship Discipline Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

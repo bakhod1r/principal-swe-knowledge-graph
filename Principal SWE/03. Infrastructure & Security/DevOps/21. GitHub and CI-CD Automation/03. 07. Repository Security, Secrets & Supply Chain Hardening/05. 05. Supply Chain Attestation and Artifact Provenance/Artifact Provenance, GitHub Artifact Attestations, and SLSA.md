@@ -1,6 +1,7 @@
 ---
 title: Artifact Provenance, GitHub Artifact Attestations, and SLSA
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

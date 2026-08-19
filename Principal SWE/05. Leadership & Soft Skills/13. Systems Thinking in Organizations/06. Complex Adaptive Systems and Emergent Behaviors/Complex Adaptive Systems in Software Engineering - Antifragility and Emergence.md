@@ -1,6 +1,7 @@
 ---
 title: Complex Adaptive Systems in Software Engineering: Antifragility and Emergence
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

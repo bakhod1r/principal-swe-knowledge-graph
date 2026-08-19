@@ -29,6 +29,11 @@ Functions
 - `Defer` — LIFO deferred execution, argument evaluation, named returns mutation, and stack allocation.
 - `Init Function` — Package initialization lifecycle, execution ordering, and dependency graphs.
 
+
+## 🗂️ Contents
+
+- [[Function Basics]]
+
 ---
 
 ## 🔗 References

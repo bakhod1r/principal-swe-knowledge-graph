@@ -1,6 +1,7 @@
 ---
 title: "Long-Tail Risk, Black Swans, and Antifragility in Systems"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

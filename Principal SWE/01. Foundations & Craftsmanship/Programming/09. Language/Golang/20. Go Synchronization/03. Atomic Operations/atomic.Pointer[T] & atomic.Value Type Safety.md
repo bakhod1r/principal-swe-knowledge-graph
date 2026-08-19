@@ -1,6 +1,7 @@
 ---
 title: "atomic.Pointer[T] & atomic.Value Type Safety"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

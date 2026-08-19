@@ -1,6 +1,7 @@
 ---
 title: "Synthetic Monitoring and Rum Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

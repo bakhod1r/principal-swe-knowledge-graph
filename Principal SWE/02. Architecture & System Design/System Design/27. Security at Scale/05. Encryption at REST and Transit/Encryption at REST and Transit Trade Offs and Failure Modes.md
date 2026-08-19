@@ -1,6 +1,7 @@
 ---
 title: "Encryption at REST and Transit Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

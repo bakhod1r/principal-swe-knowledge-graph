@@ -1,6 +1,7 @@
 ---
 title: "Database Partitioning, Sharding, and Federation Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

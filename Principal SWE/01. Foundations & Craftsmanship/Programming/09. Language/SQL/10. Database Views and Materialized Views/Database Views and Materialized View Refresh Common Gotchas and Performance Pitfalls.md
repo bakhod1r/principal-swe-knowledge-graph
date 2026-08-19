@@ -1,6 +1,7 @@
 ---
 title: "Database Views and Materialized View Refresh Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

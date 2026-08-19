@@ -1,6 +1,7 @@
 ---
 title: "Physical Computing Constraints and Speed of Light Limits"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

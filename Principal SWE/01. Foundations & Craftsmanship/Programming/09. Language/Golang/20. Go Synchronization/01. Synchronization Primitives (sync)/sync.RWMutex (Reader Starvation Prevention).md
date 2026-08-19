@@ -1,6 +1,7 @@
 ---
 title: "sync.RWMutex (Reader Starvation Prevention)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

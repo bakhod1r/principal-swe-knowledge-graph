@@ -1,6 +1,7 @@
 ---
 title: "Channel Close Operation (close(ch))"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Layer 7 Load Balancing Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "retract Directive & Broken Releases"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

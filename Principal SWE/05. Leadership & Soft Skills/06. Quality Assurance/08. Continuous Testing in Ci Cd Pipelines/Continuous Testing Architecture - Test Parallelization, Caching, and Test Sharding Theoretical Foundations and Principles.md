@@ -1,6 +1,7 @@
 ---
 title: "Continuous Testing Architecture - Test Parallelization, Caching, and Test Sharding Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

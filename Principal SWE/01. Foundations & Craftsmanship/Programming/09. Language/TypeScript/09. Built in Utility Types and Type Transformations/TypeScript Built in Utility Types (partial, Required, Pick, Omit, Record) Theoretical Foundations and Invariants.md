@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Built in Utility Types (partial, Required, Pick, Omit, Record) Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - typescript

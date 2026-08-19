@@ -1,6 +1,7 @@
 ---
 title: "API Audit Logging, Telemetry, and Anomaly Detection Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - api-security-best-practices

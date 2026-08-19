@@ -1,6 +1,7 @@
 ---
 title: "Evolutionary Architecture and Automated Architectural Fitness Functions Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

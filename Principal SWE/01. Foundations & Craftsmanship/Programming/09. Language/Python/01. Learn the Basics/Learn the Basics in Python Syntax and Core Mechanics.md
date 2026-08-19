@@ -1,6 +1,7 @@
 ---
 title: "Learn the Basics in Python Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

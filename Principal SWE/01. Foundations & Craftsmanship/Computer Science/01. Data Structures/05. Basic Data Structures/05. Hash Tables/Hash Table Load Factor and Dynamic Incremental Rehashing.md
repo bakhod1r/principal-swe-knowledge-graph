@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Load Factor and Dynamic Incremental Rehashing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

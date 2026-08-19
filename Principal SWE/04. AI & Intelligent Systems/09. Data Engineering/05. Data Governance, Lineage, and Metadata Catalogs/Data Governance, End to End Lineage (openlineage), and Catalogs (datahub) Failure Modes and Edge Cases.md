@@ -1,6 +1,7 @@
 ---
 title: "Data Governance, End to End Lineage (openlineage), and Catalogs (datahub) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

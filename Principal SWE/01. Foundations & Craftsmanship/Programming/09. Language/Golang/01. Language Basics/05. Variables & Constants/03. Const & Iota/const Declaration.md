@@ -1,6 +1,7 @@
 ---
 title: "const Declaration"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

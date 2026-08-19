@@ -1,6 +1,7 @@
 ---
 title: Delegating Technical Ownership: Architecture vs Implementation
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Webhook Architecture: Reliable Outbound Delivery and Hmac Signatures Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

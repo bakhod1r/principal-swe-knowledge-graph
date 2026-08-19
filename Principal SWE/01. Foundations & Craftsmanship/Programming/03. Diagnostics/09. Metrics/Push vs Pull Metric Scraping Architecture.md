@@ -1,6 +1,7 @@
 ---
 title: "Push vs Pull Metric Scraping Architecture"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

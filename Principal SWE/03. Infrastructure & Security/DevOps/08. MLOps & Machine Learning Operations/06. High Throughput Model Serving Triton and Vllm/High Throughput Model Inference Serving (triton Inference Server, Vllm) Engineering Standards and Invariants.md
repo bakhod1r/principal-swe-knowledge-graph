@@ -1,6 +1,7 @@
 ---
 title: "High Throughput Model Inference Serving (triton Inference Server, Vllm) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

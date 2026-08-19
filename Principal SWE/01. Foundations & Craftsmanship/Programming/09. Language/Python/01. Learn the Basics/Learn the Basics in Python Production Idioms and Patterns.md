@@ -1,6 +1,7 @@
 ---
 title: "Learn the Basics in Python Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

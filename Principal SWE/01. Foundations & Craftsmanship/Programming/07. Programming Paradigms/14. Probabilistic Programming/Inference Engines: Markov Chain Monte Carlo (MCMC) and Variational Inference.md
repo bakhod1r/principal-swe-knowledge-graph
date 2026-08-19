@@ -1,6 +1,7 @@
 ---
 title: "Inference Engines: Markov Chain Monte Carlo (MCMC) and Variational Inference"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

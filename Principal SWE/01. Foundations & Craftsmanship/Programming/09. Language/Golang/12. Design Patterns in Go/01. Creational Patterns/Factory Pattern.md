@@ -1,6 +1,7 @@
 ---
 title: "Factory Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

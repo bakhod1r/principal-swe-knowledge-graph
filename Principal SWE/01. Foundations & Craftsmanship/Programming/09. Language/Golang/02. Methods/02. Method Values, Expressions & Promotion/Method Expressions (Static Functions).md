@@ -1,6 +1,7 @@
 ---
 title: "Method Expressions (Static Functions)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

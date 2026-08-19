@@ -1,6 +1,7 @@
 ---
 title: "Buffer Pool and Database Page Cache Management Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

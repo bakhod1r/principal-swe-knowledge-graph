@@ -1,6 +1,7 @@
 ---
 title: "Package Stuttering & Ergonomic Naming Rules"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

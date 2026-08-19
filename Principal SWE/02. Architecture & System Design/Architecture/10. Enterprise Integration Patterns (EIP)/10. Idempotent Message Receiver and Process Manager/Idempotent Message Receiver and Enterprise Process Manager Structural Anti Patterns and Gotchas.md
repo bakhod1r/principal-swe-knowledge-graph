@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Message Receiver and Enterprise Process Manager Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

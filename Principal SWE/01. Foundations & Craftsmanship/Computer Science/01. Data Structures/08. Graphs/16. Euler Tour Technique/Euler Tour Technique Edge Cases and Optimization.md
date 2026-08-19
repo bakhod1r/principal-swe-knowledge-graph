@@ -1,6 +1,7 @@
 ---
 title: "Euler Tour Technique Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

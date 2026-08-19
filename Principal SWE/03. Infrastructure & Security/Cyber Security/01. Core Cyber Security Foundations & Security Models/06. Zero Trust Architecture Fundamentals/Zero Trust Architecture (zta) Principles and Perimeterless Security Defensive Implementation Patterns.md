@@ -1,6 +1,7 @@
 ---
 title: "Zero Trust Architecture (zta) Principles and Perimeterless Security Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

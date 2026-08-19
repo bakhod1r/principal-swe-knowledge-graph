@@ -1,6 +1,7 @@
 ---
 title: "Dangling Pointers Immunity in Garbage Collected Go"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

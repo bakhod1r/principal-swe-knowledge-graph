@@ -1,6 +1,7 @@
 ---
 title: "Code Readability, Self Documenting Naming, and Intent Revealing Comments Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

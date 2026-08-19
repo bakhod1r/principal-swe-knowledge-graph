@@ -1,6 +1,7 @@
 ---
 title: High Performance Rust: Criterion Benchmarking, Perf, and SIMD
 tags:
+  - review
   - programming
   - languages
   - rust

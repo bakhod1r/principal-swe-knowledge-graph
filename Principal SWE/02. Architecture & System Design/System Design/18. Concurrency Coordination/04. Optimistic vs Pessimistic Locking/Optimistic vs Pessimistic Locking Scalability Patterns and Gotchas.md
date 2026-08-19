@@ -1,6 +1,7 @@
 ---
 title: "Optimistic vs Pessimistic Locking Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

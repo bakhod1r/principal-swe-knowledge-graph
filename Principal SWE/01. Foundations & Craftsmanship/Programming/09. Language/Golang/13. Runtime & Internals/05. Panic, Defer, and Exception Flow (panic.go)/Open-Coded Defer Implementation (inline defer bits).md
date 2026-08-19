@@ -1,6 +1,7 @@
 ---
 title: "Open-Coded Defer Implementation (inline defer bits)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

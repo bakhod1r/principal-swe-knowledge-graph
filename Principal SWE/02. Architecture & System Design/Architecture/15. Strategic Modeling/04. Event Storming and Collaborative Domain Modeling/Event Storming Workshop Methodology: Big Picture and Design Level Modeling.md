@@ -1,6 +1,7 @@
 ---
 title: Event Storming Workshop Methodology: Big Picture and Design Level Modeling
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

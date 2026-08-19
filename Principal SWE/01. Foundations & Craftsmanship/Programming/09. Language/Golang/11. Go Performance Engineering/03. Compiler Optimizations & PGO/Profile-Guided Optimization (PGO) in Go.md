@@ -1,6 +1,7 @@
 ---
 title: "Profile-Guided Optimization (PGO) in Go"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

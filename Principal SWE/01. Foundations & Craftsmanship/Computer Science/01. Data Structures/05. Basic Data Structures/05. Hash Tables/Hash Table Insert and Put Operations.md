@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Insert and Put Operations"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

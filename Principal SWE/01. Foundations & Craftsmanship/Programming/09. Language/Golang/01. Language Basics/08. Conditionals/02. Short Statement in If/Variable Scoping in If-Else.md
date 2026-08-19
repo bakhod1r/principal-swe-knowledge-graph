@@ -1,6 +1,7 @@
 ---
 title: "Variable Scoping in If-Else"
 tags:
+  - review
   - golang
   - conditionals
   - principal-swe

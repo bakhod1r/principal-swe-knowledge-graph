@@ -1,6 +1,7 @@
 ---
 title: "Canonical Value Interning (unique package Go 1.23+)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "LLM Application Architecture Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

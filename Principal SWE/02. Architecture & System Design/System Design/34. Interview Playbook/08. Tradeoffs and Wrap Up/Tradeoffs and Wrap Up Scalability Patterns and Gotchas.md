@@ -1,6 +1,7 @@
 ---
 title: "Tradeoffs and Wrap Up Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

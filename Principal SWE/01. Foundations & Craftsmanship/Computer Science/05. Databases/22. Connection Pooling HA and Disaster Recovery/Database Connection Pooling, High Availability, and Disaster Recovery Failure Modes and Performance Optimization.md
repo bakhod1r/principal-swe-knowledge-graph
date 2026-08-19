@@ -1,6 +1,7 @@
 ---
 title: "Database Connection Pooling, High Availability, and Disaster Recovery Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

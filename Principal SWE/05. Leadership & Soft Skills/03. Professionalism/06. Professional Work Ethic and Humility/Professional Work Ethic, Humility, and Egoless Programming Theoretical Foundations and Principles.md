@@ -1,6 +1,7 @@
 ---
 title: "Professional Work Ethic, Humility, and Egoless Programming Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

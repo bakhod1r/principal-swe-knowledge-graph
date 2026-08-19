@@ -1,6 +1,7 @@
 ---
 title: "Cross Border and Fx Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

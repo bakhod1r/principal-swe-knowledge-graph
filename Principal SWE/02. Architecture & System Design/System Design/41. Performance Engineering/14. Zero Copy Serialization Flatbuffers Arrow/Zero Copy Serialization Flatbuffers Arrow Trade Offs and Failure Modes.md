@@ -1,6 +1,7 @@
 ---
 title: "Zero Copy Serialization Flatbuffers Arrow Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

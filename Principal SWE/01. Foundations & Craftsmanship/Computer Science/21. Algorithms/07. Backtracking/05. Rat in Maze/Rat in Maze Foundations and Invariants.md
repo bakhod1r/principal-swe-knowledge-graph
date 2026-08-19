@@ -1,6 +1,7 @@
 ---
 title: "Rat in Maze Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

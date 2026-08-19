@@ -1,6 +1,7 @@
 ---
 title: "Database Partitioning, Sharding, and Federation Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

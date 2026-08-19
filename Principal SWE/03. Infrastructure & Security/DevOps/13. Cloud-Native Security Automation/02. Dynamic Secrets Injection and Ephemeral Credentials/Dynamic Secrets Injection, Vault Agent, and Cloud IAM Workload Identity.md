@@ -1,6 +1,7 @@
 ---
 title: Dynamic Secrets Injection, Vault Agent, and Cloud IAM Workload Identity
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

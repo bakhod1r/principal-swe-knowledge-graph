@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Architecture, Compiler (tsc), and AST Pipeline Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - typescript

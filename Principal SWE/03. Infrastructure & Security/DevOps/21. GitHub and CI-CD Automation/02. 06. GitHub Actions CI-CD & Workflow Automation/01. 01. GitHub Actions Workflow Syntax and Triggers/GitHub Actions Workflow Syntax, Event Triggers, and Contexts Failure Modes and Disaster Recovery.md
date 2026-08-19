@@ -1,6 +1,7 @@
 ---
 title: "GitHub Actions Workflow Syntax, Event Triggers, and Contexts Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

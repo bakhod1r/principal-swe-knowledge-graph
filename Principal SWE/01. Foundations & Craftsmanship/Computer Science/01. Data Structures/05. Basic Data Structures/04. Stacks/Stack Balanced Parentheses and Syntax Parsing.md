@@ -1,6 +1,7 @@
 ---
 title: "Stack Balanced Parentheses and Syntax Parsing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "Tenant Onboarding and Config Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

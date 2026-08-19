@@ -1,6 +1,7 @@
 ---
 title: "Condition-Only For Loop (While Style)"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

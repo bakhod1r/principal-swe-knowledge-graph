@@ -1,6 +1,7 @@
 ---
 title: "Graceful Degradation Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

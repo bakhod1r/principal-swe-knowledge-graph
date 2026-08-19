@@ -1,6 +1,7 @@
 ---
 title: "Loop Variable Capture Trap"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

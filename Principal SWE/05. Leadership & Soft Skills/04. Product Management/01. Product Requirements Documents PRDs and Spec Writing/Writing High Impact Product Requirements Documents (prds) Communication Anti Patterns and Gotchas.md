@@ -1,6 +1,7 @@
 ---
 title: "Writing High Impact Product Requirements Documents (prds) Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

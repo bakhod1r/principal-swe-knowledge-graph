@@ -1,6 +1,7 @@
 ---
 title: "State Mutation, Variables, and Memory Side Effects"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

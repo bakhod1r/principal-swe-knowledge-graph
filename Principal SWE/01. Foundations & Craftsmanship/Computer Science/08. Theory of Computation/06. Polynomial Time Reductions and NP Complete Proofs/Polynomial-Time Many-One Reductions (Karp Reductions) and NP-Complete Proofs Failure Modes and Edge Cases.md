@@ -1,6 +1,7 @@
 ---
 title: "Polynomial-Time Many-One Reductions (Karp Reductions) and NP-Complete Proofs Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

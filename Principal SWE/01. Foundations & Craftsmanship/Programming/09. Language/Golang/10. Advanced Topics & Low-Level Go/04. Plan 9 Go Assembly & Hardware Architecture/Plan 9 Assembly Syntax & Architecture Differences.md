@@ -1,6 +1,7 @@
 ---
 title: "Plan 9 Assembly Syntax & Architecture Differences"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

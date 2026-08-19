@@ -1,6 +1,7 @@
 ---
 title: "Storage Engines (b Tree and LSM Tree Internals) Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

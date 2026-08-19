@@ -1,6 +1,7 @@
 ---
 title: "Performance Sympathy: SIMD Vectorization on DOD Buffers"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

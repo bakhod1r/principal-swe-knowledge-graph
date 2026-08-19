@@ -1,6 +1,7 @@
 ---
 title: "Cynefin Framework for Navigating Complexity"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

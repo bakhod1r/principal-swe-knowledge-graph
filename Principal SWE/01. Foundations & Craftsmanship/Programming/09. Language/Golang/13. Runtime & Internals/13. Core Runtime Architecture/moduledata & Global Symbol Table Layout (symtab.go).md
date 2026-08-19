@@ -1,6 +1,7 @@
 ---
 title: "moduledata & Global Symbol Table Layout (symtab.go)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

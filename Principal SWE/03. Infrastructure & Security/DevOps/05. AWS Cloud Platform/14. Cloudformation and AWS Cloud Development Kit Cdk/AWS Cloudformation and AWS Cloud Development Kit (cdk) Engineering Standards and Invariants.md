@@ -1,6 +1,7 @@
 ---
 title: "AWS Cloudformation and AWS Cloud Development Kit (cdk) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

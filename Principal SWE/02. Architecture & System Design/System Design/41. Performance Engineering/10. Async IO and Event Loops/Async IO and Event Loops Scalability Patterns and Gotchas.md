@@ -1,6 +1,7 @@
 ---
 title: "Async IO and Event Loops Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

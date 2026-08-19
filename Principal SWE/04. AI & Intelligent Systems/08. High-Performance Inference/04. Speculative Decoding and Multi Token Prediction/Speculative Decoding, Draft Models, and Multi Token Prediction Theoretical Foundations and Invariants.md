@@ -1,6 +1,7 @@
 ---
 title: "Speculative Decoding, Draft Models, and Multi Token Prediction Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

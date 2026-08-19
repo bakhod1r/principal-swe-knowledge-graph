@@ -1,6 +1,7 @@
 ---
 title: "Collections Methods Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

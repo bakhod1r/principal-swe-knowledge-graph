@@ -1,6 +1,7 @@
 ---
 title: "Terraform Workspaces vs Directory Based Multi Environment Architecture Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

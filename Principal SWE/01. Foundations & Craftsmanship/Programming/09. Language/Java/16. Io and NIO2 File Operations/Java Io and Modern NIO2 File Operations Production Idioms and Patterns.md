@@ -1,6 +1,7 @@
 ---
 title: "Java Io and Modern NIO2 File Operations Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

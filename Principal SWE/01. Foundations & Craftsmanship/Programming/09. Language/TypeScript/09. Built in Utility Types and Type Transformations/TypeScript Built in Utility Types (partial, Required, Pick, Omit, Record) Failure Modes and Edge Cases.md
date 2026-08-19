@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Built in Utility Types (partial, Required, Pick, Omit, Record) Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

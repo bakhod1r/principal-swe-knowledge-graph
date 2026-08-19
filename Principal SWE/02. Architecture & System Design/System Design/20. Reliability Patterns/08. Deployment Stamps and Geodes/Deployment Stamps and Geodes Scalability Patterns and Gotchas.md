@@ -1,6 +1,7 @@
 ---
 title: "Deployment Stamps and Geodes Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

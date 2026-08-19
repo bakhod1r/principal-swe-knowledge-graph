@@ -1,6 +1,7 @@
 ---
 title: "Byzantine Fault Tolerance, PBFT, and Quorum Certificates"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

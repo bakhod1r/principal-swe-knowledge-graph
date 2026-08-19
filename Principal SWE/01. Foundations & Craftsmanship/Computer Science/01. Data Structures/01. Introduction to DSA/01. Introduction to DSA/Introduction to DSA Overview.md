@@ -1,6 +1,7 @@
 ---
 title: Introduction to DSA Overview
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[Introduction to DSA]]"

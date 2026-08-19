@@ -1,6 +1,7 @@
 ---
 title: "Zero Downtime Database Migrations (expand and Contract Pattern) Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

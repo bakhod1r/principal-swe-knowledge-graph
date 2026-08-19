@@ -1,6 +1,7 @@
 ---
 title: "Python Lambdas, Pure Functions, and Functional Primitives Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

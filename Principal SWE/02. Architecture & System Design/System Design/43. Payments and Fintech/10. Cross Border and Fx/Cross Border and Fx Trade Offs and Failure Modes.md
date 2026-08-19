@@ -1,6 +1,7 @@
 ---
 title: "Cross Border and Fx Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

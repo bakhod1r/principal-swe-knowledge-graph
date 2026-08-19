@@ -1,6 +1,7 @@
 ---
 title: Error Handling (Clean Code)
 tags:
+  - review
   - programming
   - code-craft
   - principal-swe
@@ -22,6 +23,16 @@ Error Handling (Clean Code)
 ## 🗂️ Topics
 
 - `Error Handling (Clean Code)`
+
+
+## 🗂️ Contents
+
+- [[Error Handling Anti-Patterns & Code Smells]]
+- [[Error Interface Mechanics & Sentinel Errors]]
+- [[Modern Error Wrapping & Inspection (errors package)]]
+- [[Panic, Recover & Boundary Isolation]]
+- [[Production Error Architecture & Domain Codes]]
+- [[Stack Traces & Diagnostic Enrichment]]
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Memory Barriers & CPU Store Buffers"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

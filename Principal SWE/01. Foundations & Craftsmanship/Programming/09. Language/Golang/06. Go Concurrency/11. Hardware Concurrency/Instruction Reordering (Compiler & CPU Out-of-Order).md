@@ -1,6 +1,7 @@
 ---
 title: "Instruction Reordering (Compiler & CPU Out-of-Order)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

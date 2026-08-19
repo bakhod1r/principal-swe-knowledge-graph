@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Dynamic Ontologies - Semantic Object Modeling (palantir Foundry Pattern) Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

@@ -1,6 +1,7 @@
 ---
 title: "Semantic Import Versioning (v2+ Rules)"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

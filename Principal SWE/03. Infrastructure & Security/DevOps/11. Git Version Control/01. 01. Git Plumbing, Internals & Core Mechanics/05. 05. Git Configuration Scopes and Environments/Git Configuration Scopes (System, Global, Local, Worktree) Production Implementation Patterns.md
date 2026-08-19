@@ -1,6 +1,7 @@
 ---
 title: "Git Configuration Scopes (System, Global, Local, Worktree) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

@@ -1,6 +1,7 @@
 ---
 title: Digital Forensics, Memory Dumps, and Chain of Custody Preservation
 tags:
+  - review
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations

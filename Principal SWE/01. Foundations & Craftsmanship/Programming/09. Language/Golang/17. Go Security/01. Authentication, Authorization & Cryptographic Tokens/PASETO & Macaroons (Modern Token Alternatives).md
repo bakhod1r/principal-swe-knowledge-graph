@@ -1,6 +1,7 @@
 ---
 title: "PASETO & Macaroons (Modern Token Alternatives)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

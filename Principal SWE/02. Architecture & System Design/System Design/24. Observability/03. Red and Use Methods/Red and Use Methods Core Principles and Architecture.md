@@ -1,6 +1,7 @@
 ---
 title: "Red and Use Methods Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

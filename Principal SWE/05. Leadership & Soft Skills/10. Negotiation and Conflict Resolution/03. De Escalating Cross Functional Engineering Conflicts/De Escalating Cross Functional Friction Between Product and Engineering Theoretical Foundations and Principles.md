@@ -1,6 +1,7 @@
 ---
 title: "De Escalating Cross Functional Friction Between Product and Engineering Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

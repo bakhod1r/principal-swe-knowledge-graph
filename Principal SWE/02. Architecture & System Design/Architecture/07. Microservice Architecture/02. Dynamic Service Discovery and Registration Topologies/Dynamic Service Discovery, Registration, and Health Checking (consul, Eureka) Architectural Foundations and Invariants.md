@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Service Discovery, Registration, and Health Checking (consul, Eureka) Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

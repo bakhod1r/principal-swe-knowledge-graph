@@ -1,6 +1,7 @@
 ---
 title: "Modern Developer Portals - Interactive Documentation (scalar, Stoplight) Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

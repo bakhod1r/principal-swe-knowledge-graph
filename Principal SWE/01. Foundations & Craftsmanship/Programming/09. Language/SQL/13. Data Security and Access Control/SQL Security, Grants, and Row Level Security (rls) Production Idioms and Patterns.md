@@ -1,6 +1,7 @@
 ---
 title: "SQL Security, Grants, and Row Level Security (rls) Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Receiver Type Consistency & Heuristics Decision Tree"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

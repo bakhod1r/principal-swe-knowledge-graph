@@ -1,6 +1,7 @@
 ---
 title: "Array Delete Fast (Unordered Swap-and-Pop)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

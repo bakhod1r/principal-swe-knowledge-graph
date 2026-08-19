@@ -1,6 +1,7 @@
 ---
 title: "testing.T Lifecycle & Fatal vs Error Reporting"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

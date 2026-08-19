@@ -1,6 +1,7 @@
 ---
 title: "Dimensional Data Modeling Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

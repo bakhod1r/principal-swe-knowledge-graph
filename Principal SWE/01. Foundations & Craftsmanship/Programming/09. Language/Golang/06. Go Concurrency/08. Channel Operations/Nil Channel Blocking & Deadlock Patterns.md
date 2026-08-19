@@ -1,6 +1,7 @@
 ---
 title: "Nil Channel Blocking & Deadlock Patterns"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

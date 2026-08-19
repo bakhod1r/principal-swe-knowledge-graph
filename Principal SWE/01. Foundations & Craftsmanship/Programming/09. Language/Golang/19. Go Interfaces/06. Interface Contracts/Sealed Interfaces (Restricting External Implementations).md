@@ -1,6 +1,7 @@
 ---
 title: "Sealed Interfaces (Restricting External Implementations)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

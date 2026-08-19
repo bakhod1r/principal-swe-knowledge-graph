@@ -1,6 +1,7 @@
 ---
 title: "Blob Storage S3 Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

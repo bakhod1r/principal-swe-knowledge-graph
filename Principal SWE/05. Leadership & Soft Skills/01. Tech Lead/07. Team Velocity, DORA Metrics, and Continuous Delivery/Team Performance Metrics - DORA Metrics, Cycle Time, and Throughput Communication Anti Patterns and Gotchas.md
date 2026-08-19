@@ -1,6 +1,7 @@
 ---
 title: "Team Performance Metrics - DORA Metrics, Cycle Time, and Throughput Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

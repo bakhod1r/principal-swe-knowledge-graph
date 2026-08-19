@@ -1,6 +1,7 @@
 ---
 title: "Field Stakeholder Management - C Suite Alignment and Managing Scope Creep Operational Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

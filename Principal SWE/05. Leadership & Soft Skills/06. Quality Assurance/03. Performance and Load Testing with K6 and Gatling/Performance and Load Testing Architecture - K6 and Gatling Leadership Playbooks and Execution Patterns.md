@@ -1,6 +1,7 @@
 ---
 title: "Performance and Load Testing Architecture - K6 and Gatling Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

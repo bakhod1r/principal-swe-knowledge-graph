@@ -1,6 +1,7 @@
 ---
 title: "HugePages Allocation (2MB & 1GB Transparent Huge Pages)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

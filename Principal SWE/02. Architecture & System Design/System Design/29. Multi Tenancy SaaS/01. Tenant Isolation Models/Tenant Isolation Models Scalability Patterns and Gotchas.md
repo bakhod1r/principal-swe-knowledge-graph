@@ -1,6 +1,7 @@
 ---
 title: "Tenant Isolation Models Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

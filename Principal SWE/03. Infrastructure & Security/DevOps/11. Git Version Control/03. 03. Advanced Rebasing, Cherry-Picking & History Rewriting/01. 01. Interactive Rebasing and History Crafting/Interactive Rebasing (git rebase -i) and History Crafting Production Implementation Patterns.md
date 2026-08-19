@@ -1,6 +1,7 @@
 ---
 title: "Interactive Rebasing (git rebase -i) and History Crafting Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

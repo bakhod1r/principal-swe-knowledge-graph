@@ -1,6 +1,7 @@
 ---
 title: "Buffered Channel Ring Buffer Pointer Math"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

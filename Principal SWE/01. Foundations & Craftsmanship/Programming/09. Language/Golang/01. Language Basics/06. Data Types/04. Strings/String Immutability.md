@@ -1,6 +1,7 @@
 ---
 title: "String Immutability"
 tags:
+  - review
   - golang
   - types
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Writing Game Changing Technical RFCs and Architectural Proposals Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Exponential Backoff and Jitter: Mitigating the Thundering Herd Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

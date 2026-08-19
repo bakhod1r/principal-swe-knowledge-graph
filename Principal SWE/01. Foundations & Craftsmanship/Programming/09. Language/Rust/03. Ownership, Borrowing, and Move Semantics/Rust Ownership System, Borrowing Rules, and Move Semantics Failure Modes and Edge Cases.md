@@ -1,6 +1,7 @@
 ---
 title: "Rust Ownership System, Borrowing Rules, and Move Semantics Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

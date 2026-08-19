@@ -31,6 +31,18 @@ Numeric Types
 - [[Complex Numbers (complex64, complex128)]] — Complex number arithmetic, real() and imag() built-in functions.
 - [[Overflow and Precision Loss]] — Silent integer wrap-around overflow behavior and floating point comparison caveats.
 
+
+## 🗂️ Contents
+
+- [[Complex Numbers (complex64, complex128)]]
+- [[Epsilon Floating-Point Comparisons]]
+- [[Financial Arithmetic Alternatives (shopspring-decimal)]]
+- [[Floating Point Numbers (float32, float64)]]
+- [[IEEE-754 Precision & NaN Semantics]]
+- [[Overflow and Precision Loss]]
+- [[Signed Integers (int8 to int64, int)]]
+- [[Unsigned Integers (uint8 to uint64, uint, uintptr)]]
+
 ---
 
 ## 🔗 References

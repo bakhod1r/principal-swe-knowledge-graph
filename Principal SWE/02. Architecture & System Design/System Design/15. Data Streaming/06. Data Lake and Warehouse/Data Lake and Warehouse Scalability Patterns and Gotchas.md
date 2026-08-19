@@ -1,6 +1,7 @@
 ---
 title: "Data Lake and Warehouse Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Git Index (Staging Area), Working Tree, and Hash Object Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

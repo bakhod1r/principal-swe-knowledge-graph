@@ -1,6 +1,7 @@
 ---
 title: "High-Performance Zero-Allocation Logging (Zap vs slog)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

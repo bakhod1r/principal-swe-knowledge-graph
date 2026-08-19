@@ -1,6 +1,7 @@
 ---
 title: "Declarative Schema Migration Management and Versioning Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

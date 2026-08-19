@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Hashes (sha 256, Sha 3, Blake3) and Hmac Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management

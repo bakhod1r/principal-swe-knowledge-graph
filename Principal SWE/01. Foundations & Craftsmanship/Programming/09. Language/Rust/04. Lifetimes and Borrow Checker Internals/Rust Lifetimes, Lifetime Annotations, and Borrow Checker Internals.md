@@ -1,6 +1,7 @@
 ---
 title: Rust Lifetimes, Lifetime Annotations, and Borrow Checker Internals
 tags:
+  - review
   - programming
   - languages
   - rust

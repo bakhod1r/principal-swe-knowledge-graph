@@ -1,6 +1,7 @@
 ---
 title: "Mechanical Sympathy in Go Systems Design"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

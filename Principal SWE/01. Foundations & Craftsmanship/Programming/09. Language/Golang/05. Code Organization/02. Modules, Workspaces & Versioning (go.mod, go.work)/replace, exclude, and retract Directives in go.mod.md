@@ -1,6 +1,7 @@
 ---
 title: "replace, exclude, and retract Directives in go.mod"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

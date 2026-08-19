@@ -1,6 +1,7 @@
 ---
 title: "Pointer to Slice vs Slice of Pointers"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

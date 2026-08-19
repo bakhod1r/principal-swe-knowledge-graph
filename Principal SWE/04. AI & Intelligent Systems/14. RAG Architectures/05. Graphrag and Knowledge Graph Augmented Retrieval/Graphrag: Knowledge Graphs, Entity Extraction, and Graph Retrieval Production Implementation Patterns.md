@@ -1,6 +1,7 @@
 ---
 title: "Graphrag: Knowledge Graphs, Entity Extraction, and Graph Retrieval Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

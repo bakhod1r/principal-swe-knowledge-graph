@@ -1,6 +1,7 @@
 ---
 title: "Futures and Promises Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

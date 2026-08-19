@@ -1,6 +1,7 @@
 ---
 title: "Fixed-Size Sliding Window (Running Aggregation)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

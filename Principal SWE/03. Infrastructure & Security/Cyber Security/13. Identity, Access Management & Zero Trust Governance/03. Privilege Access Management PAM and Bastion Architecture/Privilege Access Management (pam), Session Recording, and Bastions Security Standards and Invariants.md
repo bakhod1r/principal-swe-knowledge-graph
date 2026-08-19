@@ -1,6 +1,7 @@
 ---
 title: "Privilege Access Management (pam), Session Recording, and Bastions Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance

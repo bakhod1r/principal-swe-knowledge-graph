@@ -1,6 +1,7 @@
 ---
 title: "Microkernel (plugin) Architecture and Extensibility Frameworks Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

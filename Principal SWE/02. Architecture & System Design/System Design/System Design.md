@@ -5,7 +5,7 @@ tags:
   - architecture
   - distributed-systems
   - principal-swe
-parent: "[[Principal SWE]]"
+parent: "[[Architecture & System Design]]"
 ---
 
 # 🏗️ System Design & Distributed Architecture
@@ -863,5 +863,5 @@ System Design
 ---
 
 ## 🔗 Navigation
-- ⬆️ Parent: [[Principal SWE]]
+- ⬆️ Parent: `Principal SWE`
 

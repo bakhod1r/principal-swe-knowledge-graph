@@ -1,6 +1,7 @@
 ---
 title: "Amazon VPC Architecture, Subnets, Route Tables, and Internet Gateways Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

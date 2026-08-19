@@ -1,6 +1,7 @@
 ---
 title: "Circular Dependency Elimination Strategies"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

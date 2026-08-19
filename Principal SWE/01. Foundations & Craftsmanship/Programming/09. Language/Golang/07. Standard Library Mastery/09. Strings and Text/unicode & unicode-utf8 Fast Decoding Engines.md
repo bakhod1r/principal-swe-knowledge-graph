@@ -1,6 +1,7 @@
 ---
 title: "unicode & unicode-utf8 Fast Decoding Engines"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

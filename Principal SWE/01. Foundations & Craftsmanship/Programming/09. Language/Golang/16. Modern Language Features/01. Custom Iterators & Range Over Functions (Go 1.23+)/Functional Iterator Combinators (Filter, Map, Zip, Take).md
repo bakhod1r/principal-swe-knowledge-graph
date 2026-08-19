@@ -1,6 +1,7 @@
 ---
 title: "Functional Iterator Combinators (Filter, Map, Zip, Take)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

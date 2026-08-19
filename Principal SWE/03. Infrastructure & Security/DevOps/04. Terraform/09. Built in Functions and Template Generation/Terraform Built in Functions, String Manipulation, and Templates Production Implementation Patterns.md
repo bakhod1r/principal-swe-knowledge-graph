@@ -1,6 +1,7 @@
 ---
 title: "Terraform Built in Functions, String Manipulation, and Templates Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

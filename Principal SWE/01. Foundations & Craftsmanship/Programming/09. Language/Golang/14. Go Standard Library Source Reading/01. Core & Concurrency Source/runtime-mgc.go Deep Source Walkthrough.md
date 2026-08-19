@@ -1,6 +1,7 @@
 ---
 title: "runtime-mgc.go Deep Source Walkthrough"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "The Global State & Singleton Anti-Pattern"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

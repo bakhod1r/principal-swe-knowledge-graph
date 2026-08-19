@@ -1,6 +1,7 @@
 ---
 title: "Set Intersection Operation (A AND B)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

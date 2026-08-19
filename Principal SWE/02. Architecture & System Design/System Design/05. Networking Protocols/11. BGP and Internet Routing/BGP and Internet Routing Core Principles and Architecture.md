@@ -1,6 +1,7 @@
 ---
 title: "BGP and Internet Routing Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

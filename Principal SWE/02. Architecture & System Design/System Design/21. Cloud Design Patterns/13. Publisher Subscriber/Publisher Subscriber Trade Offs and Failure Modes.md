@@ -1,6 +1,7 @@
 ---
 title: "Publisher Subscriber Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

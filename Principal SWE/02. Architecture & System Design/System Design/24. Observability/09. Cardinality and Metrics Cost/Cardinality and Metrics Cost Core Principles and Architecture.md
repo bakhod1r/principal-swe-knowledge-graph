@@ -1,6 +1,7 @@
 ---
 title: "Cardinality and Metrics Cost Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Docker Networking Models (bridge, Host, None, Macvlan, Overlay)
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

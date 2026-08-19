@@ -1,6 +1,7 @@
 ---
 title: "Intrusive Linked List (Linux Kernel list_head container_of)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

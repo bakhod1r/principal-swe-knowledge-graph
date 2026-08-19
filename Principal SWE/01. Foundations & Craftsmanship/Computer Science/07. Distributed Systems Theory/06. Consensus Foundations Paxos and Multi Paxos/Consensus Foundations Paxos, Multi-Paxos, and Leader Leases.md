@@ -1,6 +1,7 @@
 ---
 title: "Consensus Foundations Paxos, Multi-Paxos, and Leader Leases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

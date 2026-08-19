@@ -1,6 +1,7 @@
 ---
 title: "Database Views and Materialized View Refresh Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

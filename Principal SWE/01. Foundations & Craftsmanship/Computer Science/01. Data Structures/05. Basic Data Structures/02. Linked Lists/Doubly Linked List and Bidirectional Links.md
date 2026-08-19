@@ -1,6 +1,7 @@
 ---
 title: "Doubly Linked List and Bidirectional Links"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: High Cardinality Structured Logging Standards
 tags:
+  - review
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness

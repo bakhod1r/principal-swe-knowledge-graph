@@ -1,6 +1,7 @@
 ---
 title: "Application Level Field Encryption, Tokenization, and Pii Protection Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

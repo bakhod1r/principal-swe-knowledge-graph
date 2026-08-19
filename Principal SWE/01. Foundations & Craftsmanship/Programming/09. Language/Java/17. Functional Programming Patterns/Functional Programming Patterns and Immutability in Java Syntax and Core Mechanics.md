@@ -1,6 +1,7 @@
 ---
 title: "Functional Programming Patterns and Immutability in Java Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

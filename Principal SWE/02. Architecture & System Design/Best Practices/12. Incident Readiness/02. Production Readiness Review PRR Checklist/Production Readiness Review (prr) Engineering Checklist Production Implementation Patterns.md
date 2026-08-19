@@ -1,6 +1,7 @@
 ---
 title: "Production Readiness Review (prr) Engineering Checklist Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness

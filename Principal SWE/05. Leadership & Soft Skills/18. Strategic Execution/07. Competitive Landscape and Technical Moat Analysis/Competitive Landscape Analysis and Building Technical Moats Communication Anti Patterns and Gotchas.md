@@ -1,6 +1,7 @@
 ---
 title: "Competitive Landscape Analysis and Building Technical Moats Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

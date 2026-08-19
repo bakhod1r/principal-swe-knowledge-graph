@@ -1,6 +1,7 @@
 ---
 title: "Defensive Bash: Strict Mode (set Euo Pipefail) and Signal Traps Theoretical Foundations and Invariants (Defensive Bash: Strict Mode (set Euo Pipefail) and Signal Traps)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

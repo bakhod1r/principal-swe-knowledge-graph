@@ -1,6 +1,7 @@
 ---
 title: "Hashicorp Configuration Language (hcl2) Syntax and Structure Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

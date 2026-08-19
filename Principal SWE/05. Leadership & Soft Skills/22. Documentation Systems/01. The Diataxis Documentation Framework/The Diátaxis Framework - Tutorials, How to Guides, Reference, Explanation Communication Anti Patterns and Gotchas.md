@@ -1,6 +1,7 @@
 ---
 title: "The Diátaxis Framework - Tutorials, How to Guides, Reference, Explanation Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

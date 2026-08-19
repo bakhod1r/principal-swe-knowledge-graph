@@ -1,6 +1,7 @@
 ---
 title: "Bitmask and Flag Idioms"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

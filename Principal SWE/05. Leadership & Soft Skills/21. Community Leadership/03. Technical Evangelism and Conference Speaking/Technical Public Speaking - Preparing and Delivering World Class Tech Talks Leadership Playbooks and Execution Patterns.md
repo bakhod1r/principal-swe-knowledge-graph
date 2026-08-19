@@ -1,6 +1,7 @@
 ---
 title: "Technical Public Speaking - Preparing and Delivering World Class Tech Talks Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

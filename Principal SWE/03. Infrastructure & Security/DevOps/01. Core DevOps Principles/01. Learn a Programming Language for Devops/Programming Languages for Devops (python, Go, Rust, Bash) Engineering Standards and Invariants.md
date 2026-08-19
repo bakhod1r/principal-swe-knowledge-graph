@@ -1,6 +1,7 @@
 ---
 title: "Programming Languages for Devops (python, Go, Rust, Bash) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

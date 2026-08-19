@@ -1,6 +1,7 @@
 ---
 title: "Ledgers and Double Entry Accounting Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

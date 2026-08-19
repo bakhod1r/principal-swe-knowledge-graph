@@ -1,6 +1,7 @@
 ---
 title: "Call by Value Semantics"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "strings and bytes High-Performance Manipulation"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

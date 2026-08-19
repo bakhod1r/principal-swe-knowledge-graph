@@ -1,6 +1,7 @@
 ---
 title: "Monotonic Stack Invariants (Strictly Increasing vs Decreasing)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

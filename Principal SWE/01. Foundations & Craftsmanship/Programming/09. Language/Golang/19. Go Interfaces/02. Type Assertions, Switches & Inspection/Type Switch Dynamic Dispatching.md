@@ -1,6 +1,7 @@
 ---
 title: "Type Switch Dynamic Dispatching"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Testing As a Moral Imperative - Zero Known Defect Delivery Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

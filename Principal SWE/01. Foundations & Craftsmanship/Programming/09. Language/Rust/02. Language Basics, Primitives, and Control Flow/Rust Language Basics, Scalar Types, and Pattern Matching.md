@@ -1,6 +1,7 @@
 ---
 title: Rust Language Basics, Scalar Types, and Pattern Matching
 tags:
+  - review
   - programming
   - languages
   - rust

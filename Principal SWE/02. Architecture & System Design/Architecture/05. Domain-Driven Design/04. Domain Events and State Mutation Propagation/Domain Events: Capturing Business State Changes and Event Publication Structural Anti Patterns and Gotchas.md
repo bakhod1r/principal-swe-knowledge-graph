@@ -1,6 +1,7 @@
 ---
 title: "Domain Events: Capturing Business State Changes and Event Publication Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

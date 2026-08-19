@@ -1,6 +1,7 @@
 ---
 title: "Automated Regression Hunting with Git Bisect and Test Scripts Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

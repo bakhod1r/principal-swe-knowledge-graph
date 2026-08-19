@@ -1,6 +1,7 @@
 ---
 title: "Prepared Statement Caching & Query Planning Overhead"
 tags:
+  - review
   - golang
   - database
   - principal-swe

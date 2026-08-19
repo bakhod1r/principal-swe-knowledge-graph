@@ -1,6 +1,7 @@
 ---
 title: "Hardware Sympathy and Native Architecture Targets"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

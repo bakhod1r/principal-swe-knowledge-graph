@@ -1,6 +1,7 @@
 ---
 title: "Continuous Testing Architecture - Test Parallelization, Caching, and Test Sharding Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

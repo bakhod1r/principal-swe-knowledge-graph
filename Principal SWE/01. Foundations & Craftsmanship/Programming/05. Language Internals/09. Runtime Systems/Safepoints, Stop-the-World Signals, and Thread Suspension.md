@@ -1,6 +1,7 @@
 ---
 title: "Safepoints, Stop-the-World Signals, and Thread Suspension"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

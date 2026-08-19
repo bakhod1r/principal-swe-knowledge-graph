@@ -1,6 +1,6 @@
 ---
 title: Software Craftsmanship
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # Software Craftsmanship
@@ -16,4 +16,4 @@ parent: "[[Soft Skills]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`

@@ -1,6 +1,7 @@
 ---
 title: "AWS Key Management Service (kms) and AWS Secrets Manager Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

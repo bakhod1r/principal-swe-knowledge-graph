@@ -1,6 +1,7 @@
 ---
 title: "Flat vs Layered vs Modular Repository Architectures"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

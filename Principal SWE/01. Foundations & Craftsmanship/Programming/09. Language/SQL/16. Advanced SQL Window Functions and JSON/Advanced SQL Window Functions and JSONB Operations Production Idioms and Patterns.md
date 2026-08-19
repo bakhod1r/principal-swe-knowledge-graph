@@ -1,6 +1,7 @@
 ---
 title: "Advanced SQL Window Functions and JSONB Operations Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

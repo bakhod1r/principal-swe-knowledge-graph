@@ -1,6 +1,6 @@
 ---
 title: Documentation Systems
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # Documentation Systems
@@ -18,4 +18,4 @@ parent: "[[Soft Skills]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`

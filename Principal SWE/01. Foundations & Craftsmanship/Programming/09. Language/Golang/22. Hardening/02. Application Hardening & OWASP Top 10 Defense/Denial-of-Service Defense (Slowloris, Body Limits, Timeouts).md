@@ -1,6 +1,7 @@
 ---
 title: "Denial-of-Service Defense (Slowloris, Body Limits, Timeouts)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -165,3 +165,17 @@ Performance Engineering & Profiling
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
 
+---
+
+## 🗂️ Contents
+
+- [[Allocation Primitives]]
+- [[Benchmarking Methodology & Regression Gates]]
+- [[CPU Cache & Hardware-Conscious Design]]
+- [[Compiler Optimizations & PGO]]
+- [[Concurrency Performance]]
+- [[High-Performance I-O & Networking]]
+- [[Mechanical Sympathy]]
+- [[SIMD Vectorization]]
+- [[Ultra-Low-Latency & Kernel Bypass Systems]]
+- [[Zero-Allocation Optimization Patterns]]

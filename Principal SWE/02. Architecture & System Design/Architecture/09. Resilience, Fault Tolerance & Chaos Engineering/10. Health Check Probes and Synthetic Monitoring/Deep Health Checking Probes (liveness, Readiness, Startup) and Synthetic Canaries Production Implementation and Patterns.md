@@ -1,6 +1,7 @@
 ---
 title: "Deep Health Checking Probes (liveness, Readiness, Startup) and Synthetic Canaries Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

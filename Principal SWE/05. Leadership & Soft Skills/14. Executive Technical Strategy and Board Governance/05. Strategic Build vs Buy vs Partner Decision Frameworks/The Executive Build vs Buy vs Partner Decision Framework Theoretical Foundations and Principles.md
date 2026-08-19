@@ -1,6 +1,7 @@
 ---
 title: "The Executive Build vs Buy vs Partner Decision Framework Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

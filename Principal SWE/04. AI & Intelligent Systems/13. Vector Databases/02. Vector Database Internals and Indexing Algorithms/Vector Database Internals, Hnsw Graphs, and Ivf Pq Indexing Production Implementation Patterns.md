@@ -1,6 +1,7 @@
 ---
 title: "Vector Database Internals, Hnsw Graphs, and Ivf Pq Indexing Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

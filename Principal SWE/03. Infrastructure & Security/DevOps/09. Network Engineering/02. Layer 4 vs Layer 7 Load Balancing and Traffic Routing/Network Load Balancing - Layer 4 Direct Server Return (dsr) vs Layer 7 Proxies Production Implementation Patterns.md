@@ -1,6 +1,7 @@
 ---
 title: "Network Load Balancing - Layer 4 Direct Server Return (dsr) vs Layer 7 Proxies Production Implementation Patterns"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

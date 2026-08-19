@@ -1,6 +1,7 @@
 ---
 title: Python Lambdas, Pure Functions, and Functional Primitives
 tags:
+  - review
   - programming
   - python
   - principal-swe

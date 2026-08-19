@@ -1,6 +1,7 @@
 ---
 title: "Testing, Mocking, and QA in Python (pytest) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

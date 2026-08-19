@@ -1,6 +1,7 @@
 ---
 title: "Git References, Symbolic Refs, and Detached HEAD Mechanics Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

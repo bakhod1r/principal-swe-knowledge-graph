@@ -1,6 +1,7 @@
 ---
 title: "Architectural Cleanliness in Poly-Paradigm Codebases"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

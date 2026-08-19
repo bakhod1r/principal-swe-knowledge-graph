@@ -1,6 +1,7 @@
 ---
 title: "Full Stack Vibe Coding: High Velocity Prototyping with Instant Feedback Loops Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

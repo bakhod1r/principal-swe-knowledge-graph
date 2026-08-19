@@ -1,6 +1,7 @@
 ---
 title: "Devsecops and Supply Chain Security Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

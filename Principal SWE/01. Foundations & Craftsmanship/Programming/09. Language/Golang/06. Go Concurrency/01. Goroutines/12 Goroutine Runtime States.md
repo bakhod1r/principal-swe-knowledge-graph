@@ -1,6 +1,7 @@
 ---
 title: "12 Goroutine Runtime States"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

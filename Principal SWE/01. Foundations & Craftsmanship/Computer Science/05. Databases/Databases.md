@@ -45,6 +45,38 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Mongodb & Document Stores|26. MongoDB & Document Stores]]
 - 📂 [[Search Engines and Full Text Retrieval Systems (lucene, Elasticsearch, Meilisearch)|27. Search Engines and Full-Text Retrieval Systems]]
 
+
+## 🗂️ Contents
+
+- [[Buffer Pool and Database Page Cache Management]]
+- [[CAP Theorem, Pacelc, and Distributed Consistency Models]]
+- [[CRDTs and Multi Master Causality Tracking]]
+- [[Columnar Storage and Vectorized Execution Engines]]
+- [[Database Connection Pooling, High Availability, and Disaster Recovery]]
+- [[Database Indexing Structures (b Tree, Gin, Gist, Brin)]]
+- [[Database Partitioning, Sharding, and Federation]]
+- [[Distributed Consensus in Databases (raft, Paxos, Spanner)]]
+- [[Distributed Database Replication and Topologies]]
+- [[Distributed Transactions (2pc, 3pc, and Sagas)]]
+- [[Document and Key Value NoSQL Models]]
+- [[Elasticsearch & Distributed Search]]
+- [[Full Text Search and Vector Database Architectures]]
+- [[In Memory Data Stores and Caching Topologies]]
+- [[Locking and Concurrency Control (two Phase Locking 2pl)]]
+- [[MVCC Internals and Vacuum Garbage Collection]]
+- [[Mongodb & Document Stores]]
+- [[OLTP vs OLAP and Data Warehousing Architectures]]
+- [[PostgreSQL DBA]]
+- [[PostgreSQL Mastery]]
+- [[Query Planning, Relational Algebra, and Cost Based Optimization]]
+- [[Redis & in Memory Architectures]]
+- [[Relational Model and Database Foundations]]
+- [[SQL Standards, Ddl, Dml, and Advanced Dialects]]
+- [[Search Engines and Full Text Retrieval Systems (lucene, Elasticsearch, Meilisearch)]]
+- [[Storage Engines (b Tree and LSM Tree Internals)]]
+- [[Transactions, ACID Axioms, and Isolation Levels]]
+- [[Write Ahead Logging (wal) and ARIES Crash Recovery]]
+
 ---
 
 ## 🔗 References

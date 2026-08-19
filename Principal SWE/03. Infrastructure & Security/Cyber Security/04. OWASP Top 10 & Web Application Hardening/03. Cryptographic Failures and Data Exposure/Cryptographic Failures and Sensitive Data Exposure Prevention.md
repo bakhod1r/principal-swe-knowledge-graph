@@ -1,6 +1,7 @@
 ---
 title: Cryptographic Failures and Sensitive Data Exposure Prevention
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

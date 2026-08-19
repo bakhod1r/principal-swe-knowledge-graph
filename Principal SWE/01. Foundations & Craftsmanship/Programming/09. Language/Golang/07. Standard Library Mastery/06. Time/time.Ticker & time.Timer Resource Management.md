@@ -1,6 +1,7 @@
 ---
 title: "time.Ticker & time.Timer Resource Management"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "WAF and API Security Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

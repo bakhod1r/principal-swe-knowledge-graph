@@ -1,6 +1,7 @@
 ---
 title: "Cross Organization Technical Governance and Architectural Review Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

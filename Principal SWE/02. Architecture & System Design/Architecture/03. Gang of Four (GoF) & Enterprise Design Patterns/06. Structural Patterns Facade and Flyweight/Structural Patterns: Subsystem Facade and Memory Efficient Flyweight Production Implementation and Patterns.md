@@ -1,6 +1,7 @@
 ---
 title: "Structural Patterns: Subsystem Facade and Memory Efficient Flyweight Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

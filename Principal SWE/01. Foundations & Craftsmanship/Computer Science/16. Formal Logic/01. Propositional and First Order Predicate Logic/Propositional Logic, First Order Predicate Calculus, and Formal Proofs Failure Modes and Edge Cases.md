@@ -1,6 +1,7 @@
 ---
 title: "Propositional Logic, First Order Predicate Calculus, and Formal Proofs Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

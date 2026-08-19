@@ -1,6 +1,7 @@
 ---
 title: Java Logging Architecture (slf4j, Logback, Log4j2)
 tags:
+  - review
   - programming
   - java
   - principal-swe

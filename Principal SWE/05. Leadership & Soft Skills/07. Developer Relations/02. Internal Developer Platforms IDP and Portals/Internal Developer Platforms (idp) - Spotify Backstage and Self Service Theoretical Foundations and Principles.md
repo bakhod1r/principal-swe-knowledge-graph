@@ -1,6 +1,7 @@
 ---
 title: "Internal Developer Platforms (idp) - Spotify Backstage and Self Service Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

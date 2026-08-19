@@ -1,6 +1,7 @@
 ---
 title: "Rust Language Basics, Scalar Types, and Pattern Matching Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

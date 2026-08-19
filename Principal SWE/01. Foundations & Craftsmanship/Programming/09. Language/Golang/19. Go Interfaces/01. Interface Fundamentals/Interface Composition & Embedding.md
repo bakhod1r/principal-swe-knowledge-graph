@@ -1,6 +1,7 @@
 ---
 title: "Interface Composition & Embedding"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

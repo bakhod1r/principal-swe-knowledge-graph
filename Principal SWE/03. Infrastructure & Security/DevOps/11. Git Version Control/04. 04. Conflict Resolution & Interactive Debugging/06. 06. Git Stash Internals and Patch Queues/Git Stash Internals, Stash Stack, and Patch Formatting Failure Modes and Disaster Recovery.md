@@ -1,6 +1,7 @@
 ---
 title: "Git Stash Internals, Stash Stack, and Patch Formatting Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

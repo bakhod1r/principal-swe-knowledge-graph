@@ -1,6 +1,7 @@
 ---
 title: Value Objects: Immutability, Structural Equality, and Side Effect Free Functions
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

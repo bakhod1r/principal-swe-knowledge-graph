@@ -1,6 +1,7 @@
 ---
 title: "Finite Automata, Dfa, Nfa, and Regular Languages Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

@@ -1,6 +1,6 @@
 ---
 title: Technical Strategy
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # Technical Strategy
@@ -16,4 +16,4 @@ parent: "[[Soft Skills]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`

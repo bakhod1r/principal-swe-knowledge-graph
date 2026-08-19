@@ -1,6 +1,7 @@
 ---
 title: "Structured Audit Event Schemas (Actor, Action, Resource, Context)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

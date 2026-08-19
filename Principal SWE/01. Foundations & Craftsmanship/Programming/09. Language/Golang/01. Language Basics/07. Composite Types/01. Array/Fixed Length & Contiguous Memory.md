@@ -1,6 +1,7 @@
 ---
 title: "Fixed Length & Contiguous Memory"
 tags:
+  - review
   - golang
   - arrays
   - principal-swe

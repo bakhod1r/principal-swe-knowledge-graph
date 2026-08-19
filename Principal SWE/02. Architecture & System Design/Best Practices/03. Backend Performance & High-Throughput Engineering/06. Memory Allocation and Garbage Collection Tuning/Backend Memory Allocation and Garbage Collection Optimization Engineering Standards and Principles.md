@@ -1,6 +1,7 @@
 ---
 title: "Backend Memory Allocation and Garbage Collection Optimization Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering

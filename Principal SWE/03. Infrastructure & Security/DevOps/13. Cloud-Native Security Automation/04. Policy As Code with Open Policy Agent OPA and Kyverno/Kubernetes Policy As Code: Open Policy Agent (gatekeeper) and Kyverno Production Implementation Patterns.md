@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

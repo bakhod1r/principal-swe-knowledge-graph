@@ -1,6 +1,7 @@
 ---
 title: "Separating Code from Immutable Data (Clojure-DOP)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

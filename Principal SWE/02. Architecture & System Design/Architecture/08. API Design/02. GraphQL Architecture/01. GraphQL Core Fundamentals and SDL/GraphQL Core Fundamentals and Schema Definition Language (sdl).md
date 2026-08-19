@@ -1,6 +1,7 @@
 ---
 title: GraphQL Core Fundamentals and Schema Definition Language (sdl)
 tags:
+  - review
   - architecture
   - api-design
   - graphql

@@ -1,6 +1,7 @@
 ---
 title: "Function Inlining Heuristics & go:noinline Pragma"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

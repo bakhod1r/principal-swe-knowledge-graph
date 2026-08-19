@@ -1,6 +1,7 @@
 ---
 title: "Quorum Systems, Read Write Intersections, and Gossip Protocols"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

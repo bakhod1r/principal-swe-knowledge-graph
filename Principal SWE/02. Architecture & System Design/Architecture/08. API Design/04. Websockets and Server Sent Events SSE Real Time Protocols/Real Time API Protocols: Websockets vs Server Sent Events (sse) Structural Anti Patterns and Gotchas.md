@@ -1,6 +1,7 @@
 ---
 title: "Real Time API Protocols: Websockets vs Server Sent Events (sse) Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

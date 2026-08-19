@@ -1,6 +1,7 @@
 ---
 title: "Continuous Learning - Deliberate Practice, Katas, and Career Ownership Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

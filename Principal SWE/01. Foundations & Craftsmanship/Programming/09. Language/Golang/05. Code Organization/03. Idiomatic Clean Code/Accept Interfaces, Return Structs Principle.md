@@ -1,6 +1,7 @@
 ---
 title: "Accept Interfaces, Return Structs Principle"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Developer Experience (devex) Frameworks - SPACE and Cognitive Friction Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

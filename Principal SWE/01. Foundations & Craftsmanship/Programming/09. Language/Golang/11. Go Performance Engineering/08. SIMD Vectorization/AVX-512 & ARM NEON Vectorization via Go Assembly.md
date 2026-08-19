@@ -1,6 +1,7 @@
 ---
 title: "AVX-512 & ARM NEON Vectorization via Go Assembly"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

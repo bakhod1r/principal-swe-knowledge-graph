@@ -1,6 +1,7 @@
 ---
 title: "Saga Pattern in Distributed Concurrency"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

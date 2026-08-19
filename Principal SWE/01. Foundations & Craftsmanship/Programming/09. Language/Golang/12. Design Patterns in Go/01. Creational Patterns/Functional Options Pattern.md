@@ -1,6 +1,7 @@
 ---
 title: "Functional Options Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

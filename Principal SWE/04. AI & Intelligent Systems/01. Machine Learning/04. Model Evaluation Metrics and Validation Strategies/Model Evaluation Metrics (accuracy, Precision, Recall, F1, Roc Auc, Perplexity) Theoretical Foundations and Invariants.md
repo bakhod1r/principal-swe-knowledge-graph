@@ -1,6 +1,7 @@
 ---
 title: "Model Evaluation Metrics (accuracy, Precision, Recall, F1, Roc Auc, Perplexity) Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

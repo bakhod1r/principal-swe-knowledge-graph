@@ -1,6 +1,7 @@
 ---
 title: "Documenting Architectural Decisions - Lightweight ADRs and RFCs Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

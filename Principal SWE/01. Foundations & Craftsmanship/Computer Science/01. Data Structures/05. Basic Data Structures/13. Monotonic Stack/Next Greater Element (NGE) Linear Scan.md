@@ -1,6 +1,7 @@
 ---
 title: "Next Greater Element (NGE) Linear Scan"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

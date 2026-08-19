@@ -1,6 +1,7 @@
 ---
 title: "Double Checked Locking Pattern and Memory Barrier Invariants Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

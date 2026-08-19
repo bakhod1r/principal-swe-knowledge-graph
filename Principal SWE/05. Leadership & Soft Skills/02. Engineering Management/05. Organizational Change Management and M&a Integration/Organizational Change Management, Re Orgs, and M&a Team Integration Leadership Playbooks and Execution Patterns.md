@@ -1,6 +1,7 @@
 ---
 title: "Organizational Change Management, Re Orgs, and M&a Team Integration Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

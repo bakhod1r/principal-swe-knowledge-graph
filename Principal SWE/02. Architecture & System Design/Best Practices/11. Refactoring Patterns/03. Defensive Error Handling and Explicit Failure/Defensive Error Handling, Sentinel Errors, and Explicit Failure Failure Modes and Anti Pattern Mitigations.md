@@ -1,6 +1,7 @@
 ---
 title: "Defensive Error Handling, Sentinel Errors, and Explicit Failure Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

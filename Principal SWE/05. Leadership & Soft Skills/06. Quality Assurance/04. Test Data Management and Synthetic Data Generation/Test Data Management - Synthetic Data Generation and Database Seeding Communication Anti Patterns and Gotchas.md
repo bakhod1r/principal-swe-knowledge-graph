@@ -1,6 +1,7 @@
 ---
 title: "Test Data Management - Synthetic Data Generation and Database Seeding Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

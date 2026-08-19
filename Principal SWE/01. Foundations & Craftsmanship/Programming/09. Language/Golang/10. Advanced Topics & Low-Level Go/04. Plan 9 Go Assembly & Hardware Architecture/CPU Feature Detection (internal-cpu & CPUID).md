@@ -1,6 +1,7 @@
 ---
 title: "CPU Feature Detection (internal-cpu & CPUID)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

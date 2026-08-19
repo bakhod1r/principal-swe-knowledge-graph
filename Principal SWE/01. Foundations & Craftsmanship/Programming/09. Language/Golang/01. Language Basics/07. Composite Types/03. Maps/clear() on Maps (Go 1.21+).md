@@ -1,6 +1,7 @@
 ---
 title: "clear() on Maps (Go 1.21+)"
 tags:
+  - review
   - golang
   - maps
   - principal-swe

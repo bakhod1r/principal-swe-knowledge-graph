@@ -1,6 +1,7 @@
 ---
 title: "Type-Safe Enums with stringer & jsonenums"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Security Architecture Review and Threat Invariant Verification Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees

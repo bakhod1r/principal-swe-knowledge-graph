@@ -1,6 +1,7 @@
 ---
 title: Distributed Data Patterns (cqrs, Event Sourcing, Sagas)
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

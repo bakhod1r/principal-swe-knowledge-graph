@@ -1,6 +1,7 @@
 ---
 title: "Atomic Commit 2PC 3PC TCC Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

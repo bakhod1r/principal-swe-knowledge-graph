@@ -1,6 +1,7 @@
 ---
 title: "Oauth 2.1 Authorization Framework and Openid Connect (oidc) Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture

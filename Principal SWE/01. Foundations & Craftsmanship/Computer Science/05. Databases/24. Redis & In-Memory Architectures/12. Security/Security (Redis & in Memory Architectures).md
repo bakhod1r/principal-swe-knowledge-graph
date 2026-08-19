@@ -1,6 +1,7 @@
 ---
 title: Security (Redis & in Memory Architectures)
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

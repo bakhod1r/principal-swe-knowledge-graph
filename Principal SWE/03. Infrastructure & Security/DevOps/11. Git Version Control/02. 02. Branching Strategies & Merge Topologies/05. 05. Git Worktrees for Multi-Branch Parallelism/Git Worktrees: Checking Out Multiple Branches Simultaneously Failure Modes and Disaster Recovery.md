@@ -1,6 +1,7 @@
 ---
 title: "Git Worktrees: Checking Out Multiple Branches Simultaneously Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

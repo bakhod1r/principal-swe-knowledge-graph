@@ -1,6 +1,7 @@
 ---
 title: "Refactoring Code Smells to Clean Design Patterns Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

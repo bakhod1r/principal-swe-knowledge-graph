@@ -1,6 +1,7 @@
 ---
 title: "SIMD Vectorization & Bounds Check Elimination (BCE)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

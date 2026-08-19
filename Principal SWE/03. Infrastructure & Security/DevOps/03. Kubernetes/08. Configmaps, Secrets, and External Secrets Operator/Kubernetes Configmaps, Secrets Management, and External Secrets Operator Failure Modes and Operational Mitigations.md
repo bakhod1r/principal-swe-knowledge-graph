@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Configmaps, Secrets Management, and External Secrets Operator Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Tooling Ecosystem: Eslint, Prettier, Vite, Tsx, and Bun Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - typescript

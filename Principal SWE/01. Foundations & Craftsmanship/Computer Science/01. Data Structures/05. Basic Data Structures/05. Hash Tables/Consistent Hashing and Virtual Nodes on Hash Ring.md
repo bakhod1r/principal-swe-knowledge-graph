@@ -1,6 +1,7 @@
 ---
 title: "Consistent Hashing and Virtual Nodes on Hash Ring"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

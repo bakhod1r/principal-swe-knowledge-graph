@@ -1,6 +1,7 @@
 ---
 title: "Database Indexing Structures (b Tree, Gin, Gist, Brin) Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

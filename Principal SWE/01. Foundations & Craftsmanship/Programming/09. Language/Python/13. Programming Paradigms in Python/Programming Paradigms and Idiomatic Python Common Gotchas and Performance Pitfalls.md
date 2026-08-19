@@ -1,6 +1,7 @@
 ---
 title: "Programming Paradigms and Idiomatic Python Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Deep Copy & Serialization Generators (msgp, easyjson)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

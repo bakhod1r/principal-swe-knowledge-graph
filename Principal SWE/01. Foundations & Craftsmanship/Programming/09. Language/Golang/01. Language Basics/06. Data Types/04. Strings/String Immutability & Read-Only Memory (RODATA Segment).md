@@ -1,6 +1,7 @@
 ---
 title: "String Immutability & Read-Only Memory (RODATA Segment)"
 tags:
+  - review
   - golang
   - data-types
   - principal-swe

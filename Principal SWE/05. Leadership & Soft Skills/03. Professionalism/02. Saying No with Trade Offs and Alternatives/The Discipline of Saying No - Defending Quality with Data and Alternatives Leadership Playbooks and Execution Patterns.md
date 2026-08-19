@@ -1,6 +1,7 @@
 ---
 title: "The Discipline of Saying No - Defending Quality with Data and Alternatives Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

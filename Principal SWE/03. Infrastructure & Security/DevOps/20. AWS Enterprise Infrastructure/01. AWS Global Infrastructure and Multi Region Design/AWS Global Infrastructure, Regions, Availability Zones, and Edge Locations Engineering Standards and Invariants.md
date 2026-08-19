@@ -1,6 +1,7 @@
 ---
 title: "AWS Global Infrastructure, Regions, Availability Zones, and Edge Locations Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "Linked List Palindrome Verification"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

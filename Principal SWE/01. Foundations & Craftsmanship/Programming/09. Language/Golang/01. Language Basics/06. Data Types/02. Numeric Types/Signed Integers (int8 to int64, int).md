@@ -1,6 +1,7 @@
 ---
 title: "Signed Integers (int8 to int64, int)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

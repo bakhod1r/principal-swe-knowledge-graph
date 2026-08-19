@@ -1,6 +1,7 @@
 ---
 title: "Remote and Hybrid Team Leadership - Asynchronous Culture and Tooling Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

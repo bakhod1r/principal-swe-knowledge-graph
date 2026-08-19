@@ -1,6 +1,7 @@
 ---
 title: "Data Transfer and Egress Costs Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

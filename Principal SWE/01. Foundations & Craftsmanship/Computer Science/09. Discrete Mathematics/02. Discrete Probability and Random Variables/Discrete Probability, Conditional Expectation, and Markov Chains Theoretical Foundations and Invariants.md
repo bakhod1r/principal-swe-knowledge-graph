@@ -1,6 +1,7 @@
 ---
 title: "Discrete Probability, Conditional Expectation, and Markov Chains Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

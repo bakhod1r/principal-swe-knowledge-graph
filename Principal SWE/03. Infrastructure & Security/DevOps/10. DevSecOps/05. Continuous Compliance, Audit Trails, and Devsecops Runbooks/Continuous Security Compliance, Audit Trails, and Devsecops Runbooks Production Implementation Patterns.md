@@ -1,6 +1,7 @@
 ---
 title: "Continuous Security Compliance, Audit Trails, and Devsecops Runbooks Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

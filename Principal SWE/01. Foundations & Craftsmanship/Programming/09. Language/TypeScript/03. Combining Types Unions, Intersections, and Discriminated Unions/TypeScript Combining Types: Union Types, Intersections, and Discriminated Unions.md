@@ -1,6 +1,7 @@
 ---
 title: TypeScript Combining Types: Union Types, Intersections, and Discriminated Unions
 tags:
+  - review
   - programming
   - languages
   - typescript

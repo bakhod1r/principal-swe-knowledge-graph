@@ -1,6 +1,7 @@
 ---
 title: "Arithmetic Coding, Range Coding, and Asymmetric Numeral Systems Ans Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

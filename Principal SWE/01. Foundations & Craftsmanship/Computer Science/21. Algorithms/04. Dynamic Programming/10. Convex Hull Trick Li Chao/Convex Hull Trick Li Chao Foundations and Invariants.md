@@ -1,6 +1,7 @@
 ---
 title: "Convex Hull Trick Li Chao Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

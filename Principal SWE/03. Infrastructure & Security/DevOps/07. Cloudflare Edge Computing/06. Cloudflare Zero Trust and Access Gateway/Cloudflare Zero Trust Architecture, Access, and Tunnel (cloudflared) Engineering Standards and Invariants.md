@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Zero Trust Architecture, Access, and Tunnel (cloudflared) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

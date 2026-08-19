@@ -1,6 +1,7 @@
 ---
 title: "Internal Community Building - Engineering Guilds, Brown Bags, and Hackathons Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

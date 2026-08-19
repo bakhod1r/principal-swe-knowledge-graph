@@ -1,6 +1,7 @@
 ---
 title: "Open Weight Model Ecosystem: Llama 3, Mistral, Deepseek V3, Qwen 2.5 Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization

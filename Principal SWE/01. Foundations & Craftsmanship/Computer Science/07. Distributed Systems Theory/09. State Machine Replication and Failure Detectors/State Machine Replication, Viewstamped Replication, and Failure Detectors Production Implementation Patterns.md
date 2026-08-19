@@ -1,6 +1,7 @@
 ---
 title: "State Machine Replication, Viewstamped Replication, and Failure Detectors Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

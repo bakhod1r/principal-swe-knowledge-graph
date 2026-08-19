@@ -1,6 +1,7 @@
 ---
 title: "GitHub Environments, Secrets Scoping, and Deployment Protection Rules Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

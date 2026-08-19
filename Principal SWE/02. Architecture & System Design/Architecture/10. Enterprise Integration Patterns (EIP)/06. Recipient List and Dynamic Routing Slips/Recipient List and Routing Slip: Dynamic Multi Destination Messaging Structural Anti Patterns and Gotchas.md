@@ -1,6 +1,7 @@
 ---
 title: "Recipient List and Routing Slip: Dynamic Multi Destination Messaging Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

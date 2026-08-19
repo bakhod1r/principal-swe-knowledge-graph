@@ -1,6 +1,7 @@
 ---
 title: "Amazon EKS Production Cluster Management and Managed Node Groups Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

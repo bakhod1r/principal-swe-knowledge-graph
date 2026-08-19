@@ -1,6 +1,7 @@
 ---
 title: "GitHub Discussions, Architectural RFCs, and Collaborative Knowledge Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

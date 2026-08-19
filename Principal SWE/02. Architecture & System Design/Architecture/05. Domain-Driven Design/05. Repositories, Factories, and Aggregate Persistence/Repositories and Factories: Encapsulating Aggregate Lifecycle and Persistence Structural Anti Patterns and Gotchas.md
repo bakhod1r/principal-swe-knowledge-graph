@@ -1,6 +1,7 @@
 ---
 title: "Repositories and Factories: Encapsulating Aggregate Lifecycle and Persistence Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

@@ -1,6 +1,7 @@
 ---
 title: Java Generics, Wildcards, and Type Erasure
 tags:
+  - review
   - programming
   - java
   - principal-swe

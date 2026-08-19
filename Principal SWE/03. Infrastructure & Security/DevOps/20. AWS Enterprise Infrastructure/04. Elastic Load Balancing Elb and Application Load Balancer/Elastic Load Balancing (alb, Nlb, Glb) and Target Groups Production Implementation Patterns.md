@@ -1,6 +1,7 @@
 ---
 title: "Elastic Load Balancing (alb, Nlb, Glb) and Target Groups Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

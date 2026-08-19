@@ -1,6 +1,7 @@
 ---
 title: "Honest Estimation, Precision vs Accuracy, and Firm Commitments Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

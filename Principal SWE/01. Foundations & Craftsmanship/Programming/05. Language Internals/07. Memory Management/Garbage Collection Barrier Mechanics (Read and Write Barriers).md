@@ -1,6 +1,7 @@
 ---
 title: "Garbage Collection Barrier Mechanics (Read and Write Barriers)"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

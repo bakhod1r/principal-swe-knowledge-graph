@@ -1,6 +1,7 @@
 ---
 title: "Transactional Outbox Pattern with PostgreSQL & Kafka"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

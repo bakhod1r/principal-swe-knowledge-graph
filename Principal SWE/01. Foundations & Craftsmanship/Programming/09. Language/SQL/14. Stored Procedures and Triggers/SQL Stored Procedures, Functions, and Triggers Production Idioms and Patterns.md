@@ -1,6 +1,7 @@
 ---
 title: "SQL Stored Procedures, Functions, and Triggers Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

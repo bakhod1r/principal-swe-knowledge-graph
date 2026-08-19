@@ -1,6 +1,7 @@
 ---
 title: "stringStruct Runtime Layout"
 tags:
+  - review
   - golang
   - types
   - principal-swe

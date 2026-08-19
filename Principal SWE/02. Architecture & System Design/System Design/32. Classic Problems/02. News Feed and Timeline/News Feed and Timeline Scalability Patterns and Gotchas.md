@@ -1,6 +1,7 @@
 ---
 title: "News Feed and Timeline Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

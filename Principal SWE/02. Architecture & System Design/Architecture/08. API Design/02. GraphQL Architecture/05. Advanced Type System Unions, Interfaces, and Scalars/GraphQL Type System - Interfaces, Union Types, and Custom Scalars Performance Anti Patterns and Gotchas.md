@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Type System - Interfaces, Union Types, and Custom Scalars Performance Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

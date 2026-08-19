@@ -1,6 +1,7 @@
 ---
 title: "Zermelo-Fraenkel Set Theory (ZFC), Ordinals, and Binary Relations Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

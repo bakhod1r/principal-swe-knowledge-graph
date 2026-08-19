@@ -1,6 +1,7 @@
 ---
 title: "The Happens-Before Relationship, Synchronizes-With Edges, and Memory Visibility"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

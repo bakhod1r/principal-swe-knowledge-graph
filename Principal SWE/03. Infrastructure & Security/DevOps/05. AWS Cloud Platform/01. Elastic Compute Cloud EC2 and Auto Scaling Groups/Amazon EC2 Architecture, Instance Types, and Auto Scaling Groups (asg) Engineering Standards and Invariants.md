@@ -1,6 +1,7 @@
 ---
 title: "Amazon EC2 Architecture, Instance Types, and Auto Scaling Groups (asg) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

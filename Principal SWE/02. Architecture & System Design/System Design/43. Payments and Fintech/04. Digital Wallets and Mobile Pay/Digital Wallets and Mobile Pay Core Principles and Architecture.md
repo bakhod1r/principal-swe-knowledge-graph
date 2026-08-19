@@ -1,6 +1,7 @@
 ---
 title: "Digital Wallets and Mobile Pay Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Atomic Commit 2PC 3PC TCC Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

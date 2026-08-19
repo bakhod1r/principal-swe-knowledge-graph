@@ -1,6 +1,7 @@
 ---
 title: "Gödel's Incompleteness Theorems, Decidability Limits, and Proof Theory Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

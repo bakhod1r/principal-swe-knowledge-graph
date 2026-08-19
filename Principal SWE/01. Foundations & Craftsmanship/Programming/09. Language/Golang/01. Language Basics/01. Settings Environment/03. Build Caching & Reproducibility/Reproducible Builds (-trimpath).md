@@ -1,6 +1,7 @@
 ---
 title: "Reproducible Builds (-trimpath)"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

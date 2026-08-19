@@ -1,6 +1,7 @@
 ---
 title: "Active Object Pattern: Decoupling Method Execution From Invocation Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

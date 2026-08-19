@@ -1,6 +1,7 @@
 ---
 title: "Microkernel (plugin) Architecture and Extensibility Frameworks Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

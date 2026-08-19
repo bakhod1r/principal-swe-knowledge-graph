@@ -1,6 +1,7 @@
 ---
 title: "ThreadSanitizer & Race Detector Modernization"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Array Clear and Logical vs Physical Truncation"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

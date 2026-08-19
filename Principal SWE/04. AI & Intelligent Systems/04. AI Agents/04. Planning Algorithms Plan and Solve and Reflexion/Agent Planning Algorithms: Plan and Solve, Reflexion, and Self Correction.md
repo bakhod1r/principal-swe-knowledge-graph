@@ -1,6 +1,7 @@
 ---
 title: Agent Planning Algorithms: Plan and Solve, Reflexion, and Self Correction
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration

@@ -1,6 +1,7 @@
 ---
 title: "Pollard Rho Factorization Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

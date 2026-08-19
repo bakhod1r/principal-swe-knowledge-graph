@@ -1,6 +1,7 @@
 ---
 title: "Code Coverage Profiling & Quality Gates (-cover, -coverprofile)"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

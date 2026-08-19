@@ -1,6 +1,7 @@
 ---
 title: "Engineering Hiring Architecture - Structured Interviews and Bar Raisers Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Interpreted String Literals"
 tags:
+  - review
   - golang
   - types
   - principal-swe

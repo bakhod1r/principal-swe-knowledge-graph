@@ -1,6 +1,7 @@
 ---
 title: "Creational Patterns: Fluent Builder, Step Builder, and Prototype Cloning Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

@@ -7,7 +7,7 @@ tags:
   - team-lead
   - engineering-management-and-people-leadership
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Engineering Management & People Leadership
@@ -51,5 +51,5 @@ Engineering Management & People Leadership
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

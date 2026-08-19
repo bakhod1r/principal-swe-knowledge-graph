@@ -1,6 +1,7 @@
 ---
 title: "sqlc with pgx Integration (Type-Safe SQL Compiler)"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

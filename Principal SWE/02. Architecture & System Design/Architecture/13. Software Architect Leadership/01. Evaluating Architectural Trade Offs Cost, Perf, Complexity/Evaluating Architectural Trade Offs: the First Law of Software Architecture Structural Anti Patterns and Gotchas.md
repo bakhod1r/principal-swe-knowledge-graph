@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Architectural Trade Offs: the First Law of Software Architecture Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

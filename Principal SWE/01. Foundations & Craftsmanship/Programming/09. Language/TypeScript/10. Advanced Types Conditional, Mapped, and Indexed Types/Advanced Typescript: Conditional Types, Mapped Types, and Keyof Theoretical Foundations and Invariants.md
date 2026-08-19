@@ -1,6 +1,7 @@
 ---
 title: "Advanced Typescript: Conditional Types, Mapped Types, and Keyof Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - typescript

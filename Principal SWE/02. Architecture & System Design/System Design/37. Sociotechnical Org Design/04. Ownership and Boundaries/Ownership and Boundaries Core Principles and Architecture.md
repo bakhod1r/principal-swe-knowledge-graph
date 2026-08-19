@@ -1,6 +1,7 @@
 ---
 title: "Ownership and Boundaries Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

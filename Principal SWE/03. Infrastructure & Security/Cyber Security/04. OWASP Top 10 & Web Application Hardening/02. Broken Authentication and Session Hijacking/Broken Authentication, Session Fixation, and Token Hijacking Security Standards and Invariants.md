@@ -1,6 +1,7 @@
 ---
 title: "Broken Authentication, Session Fixation, and Token Hijacking Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

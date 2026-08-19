@@ -1,6 +1,7 @@
 ---
 title: Test Strategy and the Pyramid (Testing (Quality Engineering))
 tags:
+  - review
   - programming
   - quality
   - principal-swe

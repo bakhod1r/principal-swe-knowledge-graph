@@ -1,6 +1,7 @@
 ---
 title: "Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh) Theoretical Foundations and Invariants (Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh))"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: "Foreign Keys, Check Constraints, and Data Integrity Standards Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

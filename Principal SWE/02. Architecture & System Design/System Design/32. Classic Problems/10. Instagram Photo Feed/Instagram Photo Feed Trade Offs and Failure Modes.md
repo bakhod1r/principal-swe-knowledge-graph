@@ -1,6 +1,7 @@
 ---
 title: "Instagram Photo Feed Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

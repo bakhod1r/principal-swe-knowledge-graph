@@ -1,6 +1,7 @@
 ---
 title: "Prompt Engineering Foundations, Anatomy of a Prompt, and Directives Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment

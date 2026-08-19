@@ -1,6 +1,7 @@
 ---
 title: "Context Engineering: `.cursorrules`, Repository Maps, and Architectural Guides Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

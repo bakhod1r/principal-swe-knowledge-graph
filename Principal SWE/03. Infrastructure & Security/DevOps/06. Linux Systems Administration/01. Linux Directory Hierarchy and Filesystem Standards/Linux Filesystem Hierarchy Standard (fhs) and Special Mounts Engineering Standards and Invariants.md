@@ -1,6 +1,7 @@
 ---
 title: "Linux Filesystem Hierarchy Standard (fhs) and Special Mounts Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

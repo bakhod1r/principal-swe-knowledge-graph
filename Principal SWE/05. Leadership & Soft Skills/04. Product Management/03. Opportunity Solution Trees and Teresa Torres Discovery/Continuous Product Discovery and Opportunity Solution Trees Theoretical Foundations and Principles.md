@@ -1,6 +1,7 @@
 ---
 title: "Continuous Product Discovery and Opportunity Solution Trees Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

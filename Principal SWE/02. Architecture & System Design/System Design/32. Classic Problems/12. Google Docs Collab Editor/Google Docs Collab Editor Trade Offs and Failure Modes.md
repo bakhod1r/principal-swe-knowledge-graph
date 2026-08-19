@@ -1,6 +1,7 @@
 ---
 title: "Google Docs Collab Editor Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

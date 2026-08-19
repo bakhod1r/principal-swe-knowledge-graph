@@ -1,6 +1,7 @@
 ---
 title: "First Steps Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

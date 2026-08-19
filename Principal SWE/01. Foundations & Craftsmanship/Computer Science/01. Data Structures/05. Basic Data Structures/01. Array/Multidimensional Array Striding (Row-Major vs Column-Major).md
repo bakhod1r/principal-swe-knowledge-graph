@@ -1,6 +1,7 @@
 ---
 title: "Multidimensional Array Striding (Row-Major vs Column-Major)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

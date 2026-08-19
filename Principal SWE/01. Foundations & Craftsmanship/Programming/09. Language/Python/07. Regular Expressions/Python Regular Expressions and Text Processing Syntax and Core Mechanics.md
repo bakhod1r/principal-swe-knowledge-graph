@@ -1,6 +1,7 @@
 ---
 title: "Python Regular Expressions and Text Processing Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

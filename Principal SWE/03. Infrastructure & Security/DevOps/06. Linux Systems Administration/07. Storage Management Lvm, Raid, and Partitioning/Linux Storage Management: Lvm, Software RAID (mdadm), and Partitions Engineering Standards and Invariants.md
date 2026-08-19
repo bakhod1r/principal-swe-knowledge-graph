@@ -1,6 +1,7 @@
 ---
 title: "Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

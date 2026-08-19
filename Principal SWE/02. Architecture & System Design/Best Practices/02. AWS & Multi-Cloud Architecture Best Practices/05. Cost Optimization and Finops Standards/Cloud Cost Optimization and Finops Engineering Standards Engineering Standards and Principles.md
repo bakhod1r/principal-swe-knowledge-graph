@@ -1,6 +1,7 @@
 ---
 title: "Cloud Cost Optimization and Finops Engineering Standards Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

@@ -1,6 +1,7 @@
 ---
 title: "Tricolor GC Hybrid Write Barrier Deep Dive"
 tags:
+  - review
   - golang
   - memory
   - principal-swe

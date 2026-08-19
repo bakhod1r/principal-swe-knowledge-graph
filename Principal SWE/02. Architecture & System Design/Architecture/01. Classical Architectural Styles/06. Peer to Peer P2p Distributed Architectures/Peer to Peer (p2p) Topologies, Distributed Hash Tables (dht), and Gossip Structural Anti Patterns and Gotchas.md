@@ -1,6 +1,7 @@
 ---
 title: "Peer to Peer (p2p) Topologies, Distributed Hash Tables (dht), and Gossip Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

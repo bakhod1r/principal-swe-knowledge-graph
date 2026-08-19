@@ -1,6 +1,7 @@
 ---
 title: Rust Error Handling: Result, Option, and the Question Mark Operator
 tags:
+  - review
   - programming
   - languages
   - rust

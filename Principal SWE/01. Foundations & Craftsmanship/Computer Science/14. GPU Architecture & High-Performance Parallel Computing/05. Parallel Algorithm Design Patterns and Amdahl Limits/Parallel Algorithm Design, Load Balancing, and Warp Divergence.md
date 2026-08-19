@@ -1,6 +1,7 @@
 ---
 title: Parallel Algorithm Design, Load Balancing, and Warp Divergence
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

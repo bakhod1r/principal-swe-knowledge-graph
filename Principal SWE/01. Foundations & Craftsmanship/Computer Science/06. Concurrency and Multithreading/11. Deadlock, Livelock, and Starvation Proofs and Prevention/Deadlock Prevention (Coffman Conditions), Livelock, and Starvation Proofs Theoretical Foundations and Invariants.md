@@ -1,6 +1,7 @@
 ---
 title: "Deadlock Prevention (Coffman Conditions), Livelock, and Starvation Proofs Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

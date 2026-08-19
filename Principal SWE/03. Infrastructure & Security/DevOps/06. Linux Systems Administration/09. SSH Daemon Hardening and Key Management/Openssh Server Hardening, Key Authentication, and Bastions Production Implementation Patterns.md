@@ -1,6 +1,7 @@
 ---
 title: "Openssh Server Hardening, Key Authentication, and Bastions Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

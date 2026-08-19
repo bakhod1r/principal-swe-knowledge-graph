@@ -1,6 +1,7 @@
 ---
 title: "Server-Side Request Forgery (SSRF) Defense & IP Pinning"
 tags:
+  - review
   - golang
   - security
   - principal-swe

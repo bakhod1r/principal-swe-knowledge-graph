@@ -1,6 +1,7 @@
 ---
 title: "Automated E2e Testing - Playwright Framework, Page Objects, and Parallelism Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

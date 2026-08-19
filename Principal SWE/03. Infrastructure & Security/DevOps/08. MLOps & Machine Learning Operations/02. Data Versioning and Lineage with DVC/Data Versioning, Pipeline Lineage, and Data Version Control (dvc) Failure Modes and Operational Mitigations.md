@@ -1,6 +1,7 @@
 ---
 title: "Data Versioning, Pipeline Lineage, and Data Version Control (dvc) Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

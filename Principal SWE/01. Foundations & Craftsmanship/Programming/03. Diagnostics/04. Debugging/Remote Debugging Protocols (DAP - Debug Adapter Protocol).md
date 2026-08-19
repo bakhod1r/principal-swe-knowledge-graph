@@ -1,6 +1,7 @@
 ---
 title: "Remote Debugging Protocols (DAP - Debug Adapter Protocol)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

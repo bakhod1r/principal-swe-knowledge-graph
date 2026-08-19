@@ -1,6 +1,7 @@
 ---
 title: "Mathematical Foundations for Machine Learning (linear Algebra, Calculus, Probability) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

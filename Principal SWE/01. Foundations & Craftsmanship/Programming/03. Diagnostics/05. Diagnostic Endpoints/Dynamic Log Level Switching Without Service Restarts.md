@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Log Level Switching Without Service Restarts"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

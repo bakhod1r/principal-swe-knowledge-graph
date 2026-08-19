@@ -1,6 +1,7 @@
 ---
 title: "Fan-Out & Fan-In Multiplexing"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

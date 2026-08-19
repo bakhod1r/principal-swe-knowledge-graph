@@ -1,6 +1,7 @@
 ---
 title: "Mechanical Sympathy Cpu Cache Numa Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

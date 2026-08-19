@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Programming in Java Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

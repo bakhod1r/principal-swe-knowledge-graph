@@ -1,6 +1,7 @@
 ---
 title: "Chain of Responsibility Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

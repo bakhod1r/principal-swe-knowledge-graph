@@ -1,6 +1,7 @@
 ---
 title: "Search Engines and Full Text Retrieval Systems Production Implementation Patterns"
 tags:
+  - review
   - architecture
   - software-design
   - databases

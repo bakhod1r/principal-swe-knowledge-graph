@@ -1,6 +1,7 @@
 ---
 title: "Amdahl's Law and Gunther's Universal Scalability Law (usl) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

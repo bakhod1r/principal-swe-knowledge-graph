@@ -1,6 +1,7 @@
 ---
 title: "Amazon Route 53 DNS Routing Policies and Health Checks Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

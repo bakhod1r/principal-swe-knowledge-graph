@@ -1,6 +1,7 @@
 ---
 title: "Artifact Provenance, GitHub Artifact Attestations, and SLSA Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

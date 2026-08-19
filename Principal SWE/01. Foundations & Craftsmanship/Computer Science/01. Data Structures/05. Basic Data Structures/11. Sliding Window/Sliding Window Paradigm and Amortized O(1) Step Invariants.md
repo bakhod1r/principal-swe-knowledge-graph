@@ -1,6 +1,7 @@
 ---
 title: "Sliding Window Paradigm and Amortized O(1) Step Invariants"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

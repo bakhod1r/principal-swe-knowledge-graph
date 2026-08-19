@@ -1,6 +1,7 @@
 ---
 title: "Linker Architecture & Symbol Resolution (cmd-link)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

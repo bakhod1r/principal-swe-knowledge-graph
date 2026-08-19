@@ -1,6 +1,7 @@
 ---
 title: "Work-Stealing Deque (Chase-Lev Work Stealing)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

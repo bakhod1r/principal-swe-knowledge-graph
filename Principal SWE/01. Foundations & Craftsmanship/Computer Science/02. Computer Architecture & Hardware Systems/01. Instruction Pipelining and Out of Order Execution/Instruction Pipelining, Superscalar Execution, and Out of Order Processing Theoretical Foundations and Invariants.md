@@ -1,6 +1,7 @@
 ---
 title: "Instruction Pipelining, Superscalar Execution, and Out of Order Processing Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

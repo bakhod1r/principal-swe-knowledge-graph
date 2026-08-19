@@ -1,6 +1,7 @@
 ---
 title: TypeScript Basic and Primitive Types (any, Unknown, Never, Void)
 tags:
+  - review
   - programming
   - languages
   - typescript

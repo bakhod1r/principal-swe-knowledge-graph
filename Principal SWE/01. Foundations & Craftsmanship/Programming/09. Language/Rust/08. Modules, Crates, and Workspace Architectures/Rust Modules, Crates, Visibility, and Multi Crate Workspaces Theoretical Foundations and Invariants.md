@@ -1,6 +1,7 @@
 ---
 title: "Rust Modules, Crates, Visibility, and Multi Crate Workspaces Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with Redis Production Scale and Configuration"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

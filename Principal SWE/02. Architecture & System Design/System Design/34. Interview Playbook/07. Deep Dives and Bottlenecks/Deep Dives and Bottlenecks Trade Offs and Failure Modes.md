@@ -1,6 +1,7 @@
 ---
 title: "Deep Dives and Bottlenecks Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

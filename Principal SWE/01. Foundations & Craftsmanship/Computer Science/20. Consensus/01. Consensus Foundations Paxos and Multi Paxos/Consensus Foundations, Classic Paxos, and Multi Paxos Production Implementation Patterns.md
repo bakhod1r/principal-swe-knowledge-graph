@@ -1,6 +1,7 @@
 ---
 title: "Consensus Foundations, Classic Paxos, and Multi Paxos Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

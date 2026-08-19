@@ -1,6 +1,7 @@
 ---
 title: "Open Source Software (oss) Governance, Maintainership, and Community Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

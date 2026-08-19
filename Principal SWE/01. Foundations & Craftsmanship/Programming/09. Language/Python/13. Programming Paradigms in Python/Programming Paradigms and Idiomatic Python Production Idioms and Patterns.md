@@ -1,6 +1,7 @@
 ---
 title: "Programming Paradigms and Idiomatic Python Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

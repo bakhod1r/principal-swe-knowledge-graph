@@ -1,6 +1,7 @@
 ---
 title: Git Rerere (Reuse Recorded Resolution) and Merge Conflict Memory
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

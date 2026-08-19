@@ -1,6 +1,7 @@
 ---
 title: "Secure Client Deployments - Customer Vpcs, Soc2 Compliance, and Fedramp Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

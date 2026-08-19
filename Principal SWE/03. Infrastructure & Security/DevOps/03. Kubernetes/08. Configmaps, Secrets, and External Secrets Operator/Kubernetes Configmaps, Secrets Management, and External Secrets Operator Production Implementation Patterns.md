@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Configmaps, Secrets Management, and External Secrets Operator Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

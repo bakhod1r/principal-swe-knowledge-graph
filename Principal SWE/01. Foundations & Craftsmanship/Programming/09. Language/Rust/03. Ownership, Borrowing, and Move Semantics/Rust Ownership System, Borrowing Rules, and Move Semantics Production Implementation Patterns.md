@@ -1,6 +1,7 @@
 ---
 title: "Rust Ownership System, Borrowing Rules, and Move Semantics Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "Advanced Shell Text Processing: Awk, Sed, Grep, and Xargs Production Implementation Patterns (Advanced Shell Text Processing: Awk, Sed, Grep, and Xargs)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: "Google Drive File Sync Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

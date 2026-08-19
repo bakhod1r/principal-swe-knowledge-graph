@@ -1,6 +1,7 @@
 ---
 title: "Benchmarking Concrete Calls vs Interface Virtual Calls"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

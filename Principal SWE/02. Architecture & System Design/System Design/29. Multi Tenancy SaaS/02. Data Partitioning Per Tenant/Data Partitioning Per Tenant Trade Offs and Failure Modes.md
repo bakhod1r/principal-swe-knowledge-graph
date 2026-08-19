@@ -1,6 +1,7 @@
 ---
 title: "Data Partitioning Per Tenant Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

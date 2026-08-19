@@ -1,6 +1,7 @@
 ---
 title: "The Tech Lead Role - Balancing Code, Architecture, and Team Guidance Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "N Queens Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

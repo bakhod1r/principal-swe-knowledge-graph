@@ -1,6 +1,7 @@
 ---
 title: Secret Management in CI CD Pipelines and Infrastructure
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

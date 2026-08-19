@@ -1,6 +1,7 @@
 ---
 title: Flashattention 2 and Flashattention 3: GPU Sram Tiling and Io Awareness
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

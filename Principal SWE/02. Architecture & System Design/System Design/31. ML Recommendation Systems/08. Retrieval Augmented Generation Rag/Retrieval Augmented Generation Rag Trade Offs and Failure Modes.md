@@ -1,6 +1,7 @@
 ---
 title: "Retrieval Augmented Generation Rag Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

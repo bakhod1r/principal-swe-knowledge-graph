@@ -1,6 +1,7 @@
 ---
 title: "Online vs Offline Inference Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

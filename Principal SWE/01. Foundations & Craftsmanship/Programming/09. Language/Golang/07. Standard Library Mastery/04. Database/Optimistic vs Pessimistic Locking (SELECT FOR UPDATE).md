@@ -1,6 +1,7 @@
 ---
 title: "Optimistic vs Pessimistic Locking (SELECT FOR UPDATE)"
 tags:
+  - review
   - golang
   - database
   - principal-swe

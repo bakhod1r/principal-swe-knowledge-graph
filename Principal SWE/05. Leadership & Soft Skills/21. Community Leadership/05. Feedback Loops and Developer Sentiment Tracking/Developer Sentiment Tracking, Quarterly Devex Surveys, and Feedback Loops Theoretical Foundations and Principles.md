@@ -1,6 +1,7 @@
 ---
 title: "Developer Sentiment Tracking, Quarterly Devex Surveys, and Feedback Loops Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

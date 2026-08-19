@@ -1,6 +1,7 @@
 ---
 title: "Side Channel Attack Vectors and Constant Time Implementation Techniques Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

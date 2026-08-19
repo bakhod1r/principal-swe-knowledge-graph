@@ -1,6 +1,7 @@
 ---
 title: "go doc CLI Documentation"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

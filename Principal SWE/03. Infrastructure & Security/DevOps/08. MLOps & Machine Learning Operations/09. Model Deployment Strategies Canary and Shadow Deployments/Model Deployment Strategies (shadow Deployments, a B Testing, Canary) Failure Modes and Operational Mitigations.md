@@ -1,6 +1,7 @@
 ---
 title: "Model Deployment Strategies (shadow Deployments, a B Testing, Canary) Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

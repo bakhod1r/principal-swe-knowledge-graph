@@ -1,6 +1,7 @@
 ---
 title: "Redundancy and Failure Domains Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

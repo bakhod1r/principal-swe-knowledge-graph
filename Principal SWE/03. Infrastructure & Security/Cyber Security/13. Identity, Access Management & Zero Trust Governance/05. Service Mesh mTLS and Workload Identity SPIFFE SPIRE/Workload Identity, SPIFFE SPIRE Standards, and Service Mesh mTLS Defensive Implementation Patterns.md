@@ -1,6 +1,7 @@
 ---
 title: "Workload Identity, SPIFFE SPIRE Standards, and Service Mesh mTLS Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance

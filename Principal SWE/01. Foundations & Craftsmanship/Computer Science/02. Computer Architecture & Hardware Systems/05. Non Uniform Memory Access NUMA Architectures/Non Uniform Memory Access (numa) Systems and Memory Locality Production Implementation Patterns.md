@@ -1,6 +1,7 @@
 ---
 title: "Non Uniform Memory Access (numa) Systems and Memory Locality Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

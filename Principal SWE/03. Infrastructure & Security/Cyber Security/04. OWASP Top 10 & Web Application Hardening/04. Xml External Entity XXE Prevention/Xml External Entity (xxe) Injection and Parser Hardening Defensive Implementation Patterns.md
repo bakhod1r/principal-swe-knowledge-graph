@@ -1,6 +1,7 @@
 ---
 title: "Xml External Entity (xxe) Injection and Parser Hardening Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

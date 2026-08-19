@@ -1,6 +1,7 @@
 ---
 title: "Interactive Application Security Testing (iast) and Runtime Agents Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening

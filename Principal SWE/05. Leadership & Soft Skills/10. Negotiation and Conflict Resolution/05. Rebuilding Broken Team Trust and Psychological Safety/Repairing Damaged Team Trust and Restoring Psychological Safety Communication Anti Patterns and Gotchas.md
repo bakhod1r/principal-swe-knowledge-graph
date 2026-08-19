@@ -1,6 +1,7 @@
 ---
 title: "Repairing Damaged Team Trust and Restoring Psychological Safety Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

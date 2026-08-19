@@ -1,6 +1,7 @@
 ---
 title: "Array Memory Alignment, Cache Line Striding, and False Sharing"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

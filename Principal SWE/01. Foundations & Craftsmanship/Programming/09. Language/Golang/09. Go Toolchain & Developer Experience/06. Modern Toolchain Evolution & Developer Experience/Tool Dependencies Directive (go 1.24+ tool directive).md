@@ -1,6 +1,7 @@
 ---
 title: "Tool Dependencies Directive (go 1.24+ tool directive)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

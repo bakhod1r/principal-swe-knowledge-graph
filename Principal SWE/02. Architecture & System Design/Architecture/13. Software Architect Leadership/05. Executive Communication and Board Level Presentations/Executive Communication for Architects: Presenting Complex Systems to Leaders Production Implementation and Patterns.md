@@ -1,6 +1,7 @@
 ---
 title: "Executive Communication for Architects: Presenting Complex Systems to Leaders Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

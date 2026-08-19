@@ -1,6 +1,7 @@
 ---
 title: "Continuous Profiling and Flame Graphs Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

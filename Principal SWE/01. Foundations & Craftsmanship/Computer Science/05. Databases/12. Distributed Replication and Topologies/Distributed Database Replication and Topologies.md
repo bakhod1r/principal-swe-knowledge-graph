@@ -1,6 +1,7 @@
 ---
 title: Distributed Database Replication and Topologies
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

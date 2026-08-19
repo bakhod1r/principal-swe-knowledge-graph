@@ -1,6 +1,7 @@
 ---
 title: "Struct Memory Layout & Padding"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

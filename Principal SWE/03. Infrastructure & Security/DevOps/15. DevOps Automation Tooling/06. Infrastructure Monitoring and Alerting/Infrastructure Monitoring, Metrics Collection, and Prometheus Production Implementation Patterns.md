@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure Monitoring, Metrics Collection, and Prometheus Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

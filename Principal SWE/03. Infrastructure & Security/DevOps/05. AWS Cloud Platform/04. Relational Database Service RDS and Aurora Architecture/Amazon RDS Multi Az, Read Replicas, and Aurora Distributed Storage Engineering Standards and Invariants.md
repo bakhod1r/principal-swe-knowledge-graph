@@ -1,6 +1,7 @@
 ---
 title: "Amazon RDS Multi Az, Read Replicas, and Aurora Distributed Storage Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

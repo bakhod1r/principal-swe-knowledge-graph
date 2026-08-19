@@ -1,6 +1,7 @@
 ---
 title: "encoding-xml Parser Architecture & Security Constraints"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Managing Energy, Not Time - Circadian Rhythms and Cognitive Peaks Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

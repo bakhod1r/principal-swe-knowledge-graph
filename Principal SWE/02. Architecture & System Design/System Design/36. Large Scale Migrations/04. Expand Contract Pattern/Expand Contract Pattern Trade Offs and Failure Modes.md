@@ -1,6 +1,7 @@
 ---
 title: "Expand Contract Pattern Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Pre-Allocating Capacity in Slices and Maps"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

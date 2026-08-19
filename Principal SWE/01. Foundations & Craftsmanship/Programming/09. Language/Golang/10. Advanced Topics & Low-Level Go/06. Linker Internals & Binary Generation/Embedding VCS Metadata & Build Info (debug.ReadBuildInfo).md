@@ -1,6 +1,7 @@
 ---
 title: "Embedding VCS Metadata & Build Info (debug.ReadBuildInfo)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Zero Copy Serialization Flatbuffers Arrow Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

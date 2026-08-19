@@ -1,6 +1,7 @@
 ---
 title: "Context-Aware Logging & Trace ID Correlation"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

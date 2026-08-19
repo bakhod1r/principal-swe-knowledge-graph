@@ -1,6 +1,7 @@
 ---
 title: "S2 and H3 Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

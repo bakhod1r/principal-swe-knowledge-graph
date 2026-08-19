@@ -1,6 +1,7 @@
 ---
 title: "OLTP vs OLAP and Data Warehousing Architectures Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

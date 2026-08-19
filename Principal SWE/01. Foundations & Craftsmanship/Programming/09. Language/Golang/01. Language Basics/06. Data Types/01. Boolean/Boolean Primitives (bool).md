@@ -1,6 +1,7 @@
 ---
 title: "Boolean Primitives (bool)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

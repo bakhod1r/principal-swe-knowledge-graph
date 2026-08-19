@@ -1,6 +1,7 @@
 ---
 title: "Scale Up Governance - IPO Readiness, Sox 404, Soc2 Type Ii, and Iso 27001 Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

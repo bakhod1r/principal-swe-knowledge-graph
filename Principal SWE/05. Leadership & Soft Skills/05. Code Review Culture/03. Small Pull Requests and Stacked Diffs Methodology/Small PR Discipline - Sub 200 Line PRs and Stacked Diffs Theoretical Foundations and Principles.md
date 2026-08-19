@@ -1,6 +1,7 @@
 ---
 title: "Small PR Discipline - Sub 200 Line PRs and Stacked Diffs Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

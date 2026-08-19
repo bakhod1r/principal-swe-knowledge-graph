@@ -1,6 +1,7 @@
 ---
 title: "sync.Map Architecture (readOnly vs dirty Map)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

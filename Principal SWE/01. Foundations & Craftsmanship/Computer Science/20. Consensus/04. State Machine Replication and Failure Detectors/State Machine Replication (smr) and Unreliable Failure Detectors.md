@@ -1,6 +1,7 @@
 ---
 title: State Machine Replication (smr) and Unreliable Failure Detectors
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

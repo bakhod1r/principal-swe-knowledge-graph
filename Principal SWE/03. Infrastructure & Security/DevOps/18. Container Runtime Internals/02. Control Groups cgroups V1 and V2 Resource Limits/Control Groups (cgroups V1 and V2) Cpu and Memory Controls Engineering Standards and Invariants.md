@@ -1,6 +1,7 @@
 ---
 title: "Control Groups (cgroups V1 and V2) Cpu and Memory Controls Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

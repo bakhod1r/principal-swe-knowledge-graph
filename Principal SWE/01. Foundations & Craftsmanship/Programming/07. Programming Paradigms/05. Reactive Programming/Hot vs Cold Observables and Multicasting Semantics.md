@@ -1,6 +1,7 @@
 ---
 title: "Hot vs Cold Observables and Multicasting Semantics"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Bit Shift Operations (<<, >>)"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

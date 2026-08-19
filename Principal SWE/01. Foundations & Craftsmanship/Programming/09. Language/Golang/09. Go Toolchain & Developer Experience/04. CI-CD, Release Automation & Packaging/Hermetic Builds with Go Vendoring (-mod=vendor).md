@@ -1,6 +1,7 @@
 ---
 title: "Hermetic Builds with Go Vendoring (-mod=vendor)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

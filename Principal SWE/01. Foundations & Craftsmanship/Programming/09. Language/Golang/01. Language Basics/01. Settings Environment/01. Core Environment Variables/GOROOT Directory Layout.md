@@ -1,6 +1,7 @@
 ---
 title: "GOROOT Directory Layout"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

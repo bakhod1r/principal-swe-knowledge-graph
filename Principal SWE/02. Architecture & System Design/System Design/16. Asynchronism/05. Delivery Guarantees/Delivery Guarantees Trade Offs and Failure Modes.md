@@ -1,6 +1,7 @@
 ---
 title: "Delivery Guarantees Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

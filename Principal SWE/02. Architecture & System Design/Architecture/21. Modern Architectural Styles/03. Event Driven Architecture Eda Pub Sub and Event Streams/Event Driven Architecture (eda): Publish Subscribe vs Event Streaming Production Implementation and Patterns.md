@@ -1,6 +1,7 @@
 ---
 title: "Event Driven Architecture (eda): Publish Subscribe vs Event Streaming Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

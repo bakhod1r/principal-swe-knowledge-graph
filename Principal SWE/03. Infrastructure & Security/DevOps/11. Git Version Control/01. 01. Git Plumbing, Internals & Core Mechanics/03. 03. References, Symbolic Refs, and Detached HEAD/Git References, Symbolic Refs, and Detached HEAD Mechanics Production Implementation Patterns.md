@@ -1,6 +1,7 @@
 ---
 title: "Git References, Symbolic Refs, and Detached HEAD Mechanics Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

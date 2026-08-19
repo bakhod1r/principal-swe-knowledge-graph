@@ -1,6 +1,7 @@
 ---
 title: "Zero-Copy Memory Sharing (Go Wasm to JS TypedArrays)"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

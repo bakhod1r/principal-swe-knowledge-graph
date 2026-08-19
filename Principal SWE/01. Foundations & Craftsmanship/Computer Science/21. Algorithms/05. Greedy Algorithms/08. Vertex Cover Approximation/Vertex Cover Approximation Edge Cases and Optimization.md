@@ -1,6 +1,7 @@
 ---
 title: "Vertex Cover Approximation Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

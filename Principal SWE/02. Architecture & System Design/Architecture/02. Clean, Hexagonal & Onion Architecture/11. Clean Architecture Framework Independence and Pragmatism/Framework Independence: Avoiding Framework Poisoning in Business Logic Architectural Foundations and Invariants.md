@@ -1,6 +1,7 @@
 ---
 title: "Framework Independence: Avoiding Framework Poisoning in Business Logic Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

@@ -1,6 +1,7 @@
 ---
 title: "CPU Efficiency and Cloud Infrastructure Cost (FinOps)"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

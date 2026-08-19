@@ -1,6 +1,7 @@
 ---
 title: "Data Lineage Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

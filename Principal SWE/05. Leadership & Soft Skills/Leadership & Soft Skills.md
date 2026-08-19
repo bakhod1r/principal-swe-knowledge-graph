@@ -210,3 +210,35 @@ Leadership & Soft Skills
 - 🚀 `Infrastructure & Security`
 - 🤖 `AI & Intelligent Systems`
 
+---
+
+## 🗂️ Contents
+
+- [[Capital Allocation]]
+- [[Code Review Culture]]
+- [[Cognitive Ergonomics]]
+- [[Community Leadership]]
+- [[Customer Architecture]]
+- [[Developer Relations]]
+- [[Documentation Systems]]
+- [[Engineering Management]]
+- [[Engineering Standards]]
+- [[Engineering Team Leadership]]
+- [[Executive Technical Strategy and Board Governance]]
+- [[Forward Deployed Engineering]]
+- [[Negotiation and Conflict Resolution]]
+- [[Organizational Dynamics]]
+- [[People Leadership]]
+- [[Personal Productivity and Deep Work]]
+- [[Principal SWE Influence]]
+- [[Product Management]]
+- [[Professionalism]]
+- [[Quality Assurance]]
+- [[Sociotechnical Dynamics and Org Design]]
+- [[Software Craftsmanship]]
+- [[Strategic Execution]]
+- [[Systems Thinking in Organizations]]
+- [[Tech Lead]]
+- [[Technical Strategy]]
+- [[Technical Writing]]
+- [[Testing Leadership]]

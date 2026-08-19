@@ -1,6 +1,7 @@
 ---
 title: "Internal Developer Platforms (idp) - Spotify Backstage and Self Service Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

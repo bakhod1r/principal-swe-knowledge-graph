@@ -1,6 +1,7 @@
 ---
 title: "Functional Options Pattern for Flexible Configuration"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

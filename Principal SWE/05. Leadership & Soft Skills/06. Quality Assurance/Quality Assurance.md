@@ -7,7 +7,7 @@ tags:
   - team-lead
   - quality-assurance-and-testing-leadership
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Quality Assurance & Testing Leadership
@@ -53,5 +53,5 @@ Quality Assurance & Testing Leadership
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

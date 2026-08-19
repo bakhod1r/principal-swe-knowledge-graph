@@ -1,6 +1,7 @@
 ---
 title: "Loop Transformations, Vectorization, and Polyhedral Compilation Optimization Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

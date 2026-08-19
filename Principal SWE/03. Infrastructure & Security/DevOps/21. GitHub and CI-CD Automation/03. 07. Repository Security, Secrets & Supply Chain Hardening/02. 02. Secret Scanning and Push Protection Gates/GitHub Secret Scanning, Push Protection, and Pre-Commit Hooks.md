@@ -1,6 +1,7 @@
 ---
 title: GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

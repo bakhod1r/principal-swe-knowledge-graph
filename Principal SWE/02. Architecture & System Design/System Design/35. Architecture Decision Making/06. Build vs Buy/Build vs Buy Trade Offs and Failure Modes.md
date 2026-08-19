@@ -1,6 +1,7 @@
 ---
 title: "Build vs Buy Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

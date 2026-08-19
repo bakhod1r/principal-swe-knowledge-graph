@@ -1,6 +1,7 @@
 ---
 title: "Pitching Technical Initiatives - Securing Executive Buy in and Funding Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

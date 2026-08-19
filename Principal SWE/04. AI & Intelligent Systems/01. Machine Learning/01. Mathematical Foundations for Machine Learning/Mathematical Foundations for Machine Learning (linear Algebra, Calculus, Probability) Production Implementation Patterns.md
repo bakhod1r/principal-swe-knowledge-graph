@@ -1,6 +1,7 @@
 ---
 title: "Mathematical Foundations for Machine Learning (linear Algebra, Calculus, Probability) Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

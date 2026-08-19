@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Vendor Negotiation - Multi Year Cloud Commitments and Software Contracts Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

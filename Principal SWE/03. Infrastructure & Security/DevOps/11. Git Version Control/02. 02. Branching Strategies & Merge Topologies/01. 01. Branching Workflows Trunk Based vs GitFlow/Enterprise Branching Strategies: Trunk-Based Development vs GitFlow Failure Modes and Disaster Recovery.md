@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Branching Strategies: Trunk-Based Development vs GitFlow Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

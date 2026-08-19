@@ -1,6 +1,7 @@
 ---
 title: "Singly Linked List Memory Layout and Pointer Chasing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

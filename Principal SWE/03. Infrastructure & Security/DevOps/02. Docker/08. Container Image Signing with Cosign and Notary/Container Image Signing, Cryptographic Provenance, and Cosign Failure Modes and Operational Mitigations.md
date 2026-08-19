@@ -1,6 +1,7 @@
 ---
 title: "Container Image Signing, Cryptographic Provenance, and Cosign Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

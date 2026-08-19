@@ -1,6 +1,7 @@
 ---
 title: "Consistency vs Availability Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

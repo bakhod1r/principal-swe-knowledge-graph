@@ -1,6 +1,7 @@
 ---
 title: "Apache Kafka Trade Offs and Failure Modes (Apache Kafka)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

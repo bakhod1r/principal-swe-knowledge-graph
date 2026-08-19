@@ -1,6 +1,7 @@
 ---
 title: "Distributed Transactions (2pc, 3pc, and Sagas) Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

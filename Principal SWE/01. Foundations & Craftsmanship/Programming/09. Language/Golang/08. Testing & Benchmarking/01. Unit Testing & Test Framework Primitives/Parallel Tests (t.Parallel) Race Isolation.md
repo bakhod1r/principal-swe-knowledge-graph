@@ -1,6 +1,7 @@
 ---
 title: "Parallel Tests (t.Parallel) Race Isolation"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

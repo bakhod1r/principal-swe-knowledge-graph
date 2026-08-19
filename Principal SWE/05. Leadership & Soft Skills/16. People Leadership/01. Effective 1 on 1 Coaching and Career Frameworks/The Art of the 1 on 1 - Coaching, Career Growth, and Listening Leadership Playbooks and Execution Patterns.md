@@ -1,6 +1,7 @@
 ---
 title: "The Art of the 1 on 1 - Coaching, Career Growth, and Listening Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

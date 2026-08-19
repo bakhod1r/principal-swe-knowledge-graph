@@ -1,6 +1,7 @@
 ---
 title: "Database Authentication, Aws IAM DB Auth, and Ephemeral Credentials Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

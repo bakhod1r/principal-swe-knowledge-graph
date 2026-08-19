@@ -1,6 +1,7 @@
 ---
 title: "Cal Newport's Deep Work - Cultivating Intense Focus in Engineering Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

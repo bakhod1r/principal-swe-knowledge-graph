@@ -1,6 +1,7 @@
 ---
 title: "Locking and Concurrency Control (two Phase Locking 2pl) Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

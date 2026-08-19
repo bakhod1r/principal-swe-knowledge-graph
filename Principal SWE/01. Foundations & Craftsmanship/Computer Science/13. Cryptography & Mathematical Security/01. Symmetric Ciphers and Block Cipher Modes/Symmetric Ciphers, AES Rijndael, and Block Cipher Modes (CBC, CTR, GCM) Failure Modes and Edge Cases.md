@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Ciphers, AES Rijndael, and Block Cipher Modes (CBC, CTR, GCM) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

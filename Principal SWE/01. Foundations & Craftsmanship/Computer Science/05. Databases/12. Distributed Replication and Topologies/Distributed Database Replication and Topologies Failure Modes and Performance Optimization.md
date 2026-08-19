@@ -1,6 +1,7 @@
 ---
 title: "Distributed Database Replication and Topologies Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

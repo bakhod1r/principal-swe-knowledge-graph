@@ -1,6 +1,7 @@
 ---
 title: "LSM Trees and Btrees Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

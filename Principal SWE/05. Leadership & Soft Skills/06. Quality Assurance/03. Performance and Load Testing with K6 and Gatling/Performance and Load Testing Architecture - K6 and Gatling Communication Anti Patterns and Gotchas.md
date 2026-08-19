@@ -1,6 +1,7 @@
 ---
 title: "Performance and Load Testing Architecture - K6 and Gatling Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

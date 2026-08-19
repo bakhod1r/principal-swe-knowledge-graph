@@ -1,6 +1,7 @@
 ---
 title: "Games on Graphs Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Bit Clear Operator (&^)"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

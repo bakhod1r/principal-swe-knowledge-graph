@@ -1,6 +1,7 @@
 ---
 title: "Writing High Impact Technical Whitepapers and Architecture Deep Dives Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

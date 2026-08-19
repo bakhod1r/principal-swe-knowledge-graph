@@ -1,6 +1,7 @@
 ---
 title: "Writing High Impact Technical Whitepapers and Architecture Deep Dives Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security Posture Management and Compliance Guardrails Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

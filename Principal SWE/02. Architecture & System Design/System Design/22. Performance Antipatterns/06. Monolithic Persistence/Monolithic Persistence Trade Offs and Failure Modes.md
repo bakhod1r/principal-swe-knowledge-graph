@@ -1,6 +1,7 @@
 ---
 title: "Monolithic Persistence Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

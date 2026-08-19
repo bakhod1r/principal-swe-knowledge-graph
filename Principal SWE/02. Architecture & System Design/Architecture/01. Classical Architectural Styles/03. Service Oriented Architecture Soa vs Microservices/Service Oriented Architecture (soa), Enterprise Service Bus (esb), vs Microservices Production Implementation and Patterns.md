@@ -1,6 +1,7 @@
 ---
 title: "Service Oriented Architecture (soa), Enterprise Service Bus (esb), vs Microservices Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

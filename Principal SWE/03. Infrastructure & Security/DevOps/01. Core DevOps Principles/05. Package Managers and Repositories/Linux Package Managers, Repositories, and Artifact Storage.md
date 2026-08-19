@@ -1,6 +1,7 @@
 ---
 title: Linux Package Managers, Repositories, and Artifact Storage
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

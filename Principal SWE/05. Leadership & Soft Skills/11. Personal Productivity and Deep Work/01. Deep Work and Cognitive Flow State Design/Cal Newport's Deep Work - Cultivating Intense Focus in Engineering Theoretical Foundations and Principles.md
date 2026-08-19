@@ -1,6 +1,7 @@
 ---
 title: "Cal Newport's Deep Work - Cultivating Intense Focus in Engineering Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

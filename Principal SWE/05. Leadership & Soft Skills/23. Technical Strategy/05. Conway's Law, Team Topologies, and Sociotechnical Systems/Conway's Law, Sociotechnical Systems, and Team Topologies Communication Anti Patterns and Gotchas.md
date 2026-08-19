@@ -1,6 +1,7 @@
 ---
 title: "Conway's Law, Sociotechnical Systems, and Team Topologies Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

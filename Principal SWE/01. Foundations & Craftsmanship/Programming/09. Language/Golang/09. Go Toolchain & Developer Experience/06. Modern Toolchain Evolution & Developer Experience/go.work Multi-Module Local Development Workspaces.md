@@ -1,6 +1,7 @@
 ---
 title: "go.work Multi-Module Local Development Workspaces"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Clean Code Standards, Boy Scout Rule, and Craftsmanship Discipline Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

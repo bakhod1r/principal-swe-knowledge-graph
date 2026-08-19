@@ -1,6 +1,7 @@
 ---
 title: "Short-Circuit Evaluation"
 tags:
+  - review
   - golang
   - types
   - principal-swe

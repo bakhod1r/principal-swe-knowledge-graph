@@ -1,6 +1,7 @@
 ---
 title: "Hardware Atomics, Compare and Swap (cas), and Load Linked Store Conditional Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

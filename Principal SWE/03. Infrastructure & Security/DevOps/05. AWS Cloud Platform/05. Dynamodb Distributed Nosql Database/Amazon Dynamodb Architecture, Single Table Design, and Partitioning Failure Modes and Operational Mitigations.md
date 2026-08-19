@@ -1,6 +1,7 @@
 ---
 title: "Amazon Dynamodb Architecture, Single Table Design, and Partitioning Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

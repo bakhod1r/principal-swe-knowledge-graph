@@ -1,6 +1,7 @@
 ---
 title: "Wardley Mapping for Situational Awareness and Value Chains"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

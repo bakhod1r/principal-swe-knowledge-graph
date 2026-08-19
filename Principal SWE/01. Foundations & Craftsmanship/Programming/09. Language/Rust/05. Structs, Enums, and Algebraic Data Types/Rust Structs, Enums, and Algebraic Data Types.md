@@ -1,6 +1,7 @@
 ---
 title: Rust Structs, Enums, and Algebraic Data Types
 tags:
+  - review
   - programming
   - languages
   - rust

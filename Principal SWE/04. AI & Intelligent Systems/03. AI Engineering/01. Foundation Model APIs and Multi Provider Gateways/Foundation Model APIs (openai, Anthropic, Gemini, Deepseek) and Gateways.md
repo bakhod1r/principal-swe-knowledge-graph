@@ -1,6 +1,7 @@
 ---
 title: Foundation Model APIs (openai, Anthropic, Gemini, Deepseek) and Gateways
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

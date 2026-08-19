@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Architecture, Compiler (tsc), and AST Pipeline Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - typescript

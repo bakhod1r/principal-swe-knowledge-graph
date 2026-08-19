@@ -1,6 +1,7 @@
 ---
 title: "Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Hash Indexing and Merkle Trees"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

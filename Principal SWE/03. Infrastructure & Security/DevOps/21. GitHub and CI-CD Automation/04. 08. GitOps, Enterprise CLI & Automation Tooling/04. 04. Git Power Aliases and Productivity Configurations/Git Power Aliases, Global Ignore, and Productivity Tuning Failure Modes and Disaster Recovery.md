@@ -1,6 +1,7 @@
 ---
 title: "Git Power Aliases, Global Ignore, and Productivity Tuning Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

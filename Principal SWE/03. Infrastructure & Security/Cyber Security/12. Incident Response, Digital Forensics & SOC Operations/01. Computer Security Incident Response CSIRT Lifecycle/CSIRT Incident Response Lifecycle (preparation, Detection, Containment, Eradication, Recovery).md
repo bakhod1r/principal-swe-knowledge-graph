@@ -1,6 +1,7 @@
 ---
 title: CSIRT Incident Response Lifecycle (preparation, Detection, Containment, Eradication, Recovery)
 tags:
+  - review
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations

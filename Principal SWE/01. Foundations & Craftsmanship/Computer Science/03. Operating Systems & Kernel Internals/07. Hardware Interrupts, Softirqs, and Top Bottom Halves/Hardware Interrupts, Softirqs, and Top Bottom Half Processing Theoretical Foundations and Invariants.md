@@ -1,6 +1,7 @@
 ---
 title: "Hardware Interrupts, Softirqs, and Top Bottom Half Processing Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

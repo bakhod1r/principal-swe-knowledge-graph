@@ -1,6 +1,7 @@
 ---
 title: "Terraform State Manipulation, State Migration, and Import Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

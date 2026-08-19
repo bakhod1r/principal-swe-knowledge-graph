@@ -1,6 +1,7 @@
 ---
 title: "The Happens Before Relationship and Memory Visibility Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

@@ -1,6 +1,7 @@
 ---
 title: "Network Automation Engineering - Netmiko, Napalm, and Ansible Playbooks Production Implementation Patterns"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

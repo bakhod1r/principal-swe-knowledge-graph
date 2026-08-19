@@ -1,6 +1,7 @@
 ---
 title: "Adaptive Load Shedding and Concurrency Limiters (netflix Concurrency Limits) Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

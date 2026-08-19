@@ -1,6 +1,7 @@
 ---
 title: "Bytecode Virtual Machine Execution (Java JVM, WebAssembly Stack Engine)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

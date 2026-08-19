@@ -1,6 +1,7 @@
 ---
 title: "Team Onboarding and Ramp-Up Curves"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

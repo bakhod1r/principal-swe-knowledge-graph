@@ -1,6 +1,7 @@
 ---
 title: "How Search Works Production Scale and Configuration"
 tags:
+  - review
   - backend
   - architecture
   - elasticsearch-and-distributed-search

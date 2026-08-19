@@ -1,6 +1,7 @@
 ---
 title: "Uber Fx Framework in Enterprise Go Services"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

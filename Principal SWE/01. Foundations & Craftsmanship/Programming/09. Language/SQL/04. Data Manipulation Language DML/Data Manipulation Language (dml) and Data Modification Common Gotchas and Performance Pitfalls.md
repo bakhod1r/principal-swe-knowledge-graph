@@ -1,6 +1,7 @@
 ---
 title: "Data Manipulation Language (dml) and Data Modification Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

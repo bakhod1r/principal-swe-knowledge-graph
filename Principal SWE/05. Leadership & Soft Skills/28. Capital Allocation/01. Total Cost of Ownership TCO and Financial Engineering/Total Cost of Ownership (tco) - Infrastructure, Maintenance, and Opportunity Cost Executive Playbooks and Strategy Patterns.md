@@ -1,6 +1,7 @@
 ---
 title: "Total Cost of Ownership (tco) - Infrastructure, Maintenance, and Opportunity Cost Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: "Message Channels: Point to Point vs Publish Subscribe Channels Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

@@ -1,6 +1,7 @@
 ---
 title: "Data Modelling Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - elasticsearch-and-distributed-search

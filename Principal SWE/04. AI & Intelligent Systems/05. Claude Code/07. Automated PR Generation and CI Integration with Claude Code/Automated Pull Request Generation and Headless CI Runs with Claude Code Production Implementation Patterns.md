@@ -1,6 +1,7 @@
 ---
 title: "Automated Pull Request Generation and Headless CI Runs with Claude Code Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling

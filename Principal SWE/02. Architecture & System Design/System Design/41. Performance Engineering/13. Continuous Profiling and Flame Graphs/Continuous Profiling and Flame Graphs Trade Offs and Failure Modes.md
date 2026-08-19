@@ -1,6 +1,7 @@
 ---
 title: "Continuous Profiling and Flame Graphs Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

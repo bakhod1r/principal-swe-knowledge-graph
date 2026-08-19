@@ -1,6 +1,7 @@
 ---
 title: "GitHub Actions Cloud Authentication with OpenID Connect (OIDC) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

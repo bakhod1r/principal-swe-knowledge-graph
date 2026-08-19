@@ -1,6 +1,7 @@
 ---
 title: "Performance Economics Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

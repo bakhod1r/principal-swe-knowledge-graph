@@ -1,6 +1,7 @@
 ---
 title: "Domain Services vs Application Services: Pure Domain Logic vs Orchestration Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

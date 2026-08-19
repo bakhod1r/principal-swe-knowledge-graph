@@ -1,6 +1,7 @@
 ---
 title: "The Tech Lead Role - Balancing Code, Architecture, and Team Guidance Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

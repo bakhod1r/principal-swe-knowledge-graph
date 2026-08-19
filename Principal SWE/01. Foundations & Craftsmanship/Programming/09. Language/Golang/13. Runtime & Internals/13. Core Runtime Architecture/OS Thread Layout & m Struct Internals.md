@@ -1,6 +1,7 @@
 ---
 title: "OS Thread Layout & m Struct Internals"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

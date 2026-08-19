@@ -1,6 +1,7 @@
 ---
 title: "Command Execution Safety, Guardrails, and Destructive Action Prevention Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling

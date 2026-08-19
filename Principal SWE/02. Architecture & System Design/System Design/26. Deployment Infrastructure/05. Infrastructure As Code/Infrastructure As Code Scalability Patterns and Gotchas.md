@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure As Code Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

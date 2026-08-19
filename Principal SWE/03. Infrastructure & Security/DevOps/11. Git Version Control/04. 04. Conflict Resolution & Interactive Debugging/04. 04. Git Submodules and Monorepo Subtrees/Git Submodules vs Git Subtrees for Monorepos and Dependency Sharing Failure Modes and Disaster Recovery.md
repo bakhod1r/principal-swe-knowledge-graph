@@ -1,6 +1,7 @@
 ---
 title: "Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

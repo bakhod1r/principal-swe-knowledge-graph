@@ -1,6 +1,7 @@
 ---
 title: "Tradeoff Analysis Frameworks Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

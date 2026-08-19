@@ -1,6 +1,7 @@
 ---
 title: "High Performance I-o Models, Epoll, and I-O Uring Kernel Architecture Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

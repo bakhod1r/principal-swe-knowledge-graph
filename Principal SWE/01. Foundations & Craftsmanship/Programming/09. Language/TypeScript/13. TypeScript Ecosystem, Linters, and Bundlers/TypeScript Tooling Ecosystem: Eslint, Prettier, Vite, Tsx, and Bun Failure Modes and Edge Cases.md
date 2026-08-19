@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Tooling Ecosystem: Eslint, Prettier, Vite, Tsx, and Bun Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

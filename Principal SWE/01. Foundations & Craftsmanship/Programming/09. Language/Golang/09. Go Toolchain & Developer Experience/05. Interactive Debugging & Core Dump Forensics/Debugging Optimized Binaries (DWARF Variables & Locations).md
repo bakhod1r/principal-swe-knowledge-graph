@@ -1,6 +1,7 @@
 ---
 title: "Debugging Optimized Binaries (DWARF Variables & Locations)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

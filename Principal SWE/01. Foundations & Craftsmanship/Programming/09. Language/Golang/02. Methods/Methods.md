@@ -123,3 +123,11 @@ Methods & Interfaces
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
 
+---
+
+## 🗂️ Contents
+
+- [[Compiler Optimizations & Devirtualization]]
+- [[Method Declarations]]
+- [[Method Values, Expressions & Promotion]]
+- [[Receivers]]

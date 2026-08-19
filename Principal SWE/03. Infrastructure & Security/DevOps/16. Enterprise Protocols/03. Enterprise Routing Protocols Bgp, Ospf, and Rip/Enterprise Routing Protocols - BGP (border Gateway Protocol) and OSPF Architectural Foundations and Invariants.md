@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Routing Protocols - BGP (border Gateway Protocol) and OSPF Architectural Foundations and Invariants"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

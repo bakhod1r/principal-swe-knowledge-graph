@@ -1,6 +1,7 @@
 ---
 title: "Git Power Aliases, Global Ignore, and Productivity Tuning Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

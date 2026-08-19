@@ -1,6 +1,7 @@
 ---
 title: "Declarative UI Paradigms (React, SwiftUI, Flutter)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

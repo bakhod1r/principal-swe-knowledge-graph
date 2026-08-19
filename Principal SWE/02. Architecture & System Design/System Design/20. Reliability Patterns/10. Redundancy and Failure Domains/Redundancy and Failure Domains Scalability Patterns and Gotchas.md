@@ -1,6 +1,7 @@
 ---
 title: "Redundancy and Failure Domains Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

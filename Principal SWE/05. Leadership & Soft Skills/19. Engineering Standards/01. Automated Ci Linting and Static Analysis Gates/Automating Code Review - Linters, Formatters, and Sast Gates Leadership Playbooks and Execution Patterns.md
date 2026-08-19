@@ -1,6 +1,7 @@
 ---
 title: "Automating Code Review - Linters, Formatters, and Sast Gates Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

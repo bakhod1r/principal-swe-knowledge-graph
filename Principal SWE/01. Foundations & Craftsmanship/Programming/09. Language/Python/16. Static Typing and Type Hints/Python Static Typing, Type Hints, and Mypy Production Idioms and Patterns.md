@@ -1,6 +1,7 @@
 ---
 title: "Python Static Typing, Type Hints, and Mypy Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Rust Traits, Generics, and Static vs Dynamic Dispatch Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

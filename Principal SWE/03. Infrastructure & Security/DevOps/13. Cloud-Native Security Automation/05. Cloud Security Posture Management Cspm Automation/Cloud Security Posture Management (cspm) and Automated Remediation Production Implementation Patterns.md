@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security Posture Management (cspm) and Automated Remediation Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

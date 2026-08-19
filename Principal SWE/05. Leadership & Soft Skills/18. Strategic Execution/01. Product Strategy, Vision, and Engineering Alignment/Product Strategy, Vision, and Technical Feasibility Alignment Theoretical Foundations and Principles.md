@@ -1,6 +1,7 @@
 ---
 title: "Product Strategy, Vision, and Technical Feasibility Alignment Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

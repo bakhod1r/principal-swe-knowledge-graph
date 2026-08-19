@@ -1,6 +1,7 @@
 ---
 title: "Feature Prioritization Frameworks - Rice, Wsjf, and Kano Model Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Arena and Region Allocation Mechanics in High-Load Systems"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

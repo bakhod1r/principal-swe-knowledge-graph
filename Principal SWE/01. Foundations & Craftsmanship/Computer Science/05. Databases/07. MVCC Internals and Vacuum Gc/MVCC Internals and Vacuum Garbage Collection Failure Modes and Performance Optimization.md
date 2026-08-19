@@ -1,6 +1,7 @@
 ---
 title: "MVCC Internals and Vacuum Garbage Collection Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

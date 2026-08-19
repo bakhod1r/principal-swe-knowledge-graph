@@ -1,6 +1,7 @@
 ---
 title: "Evolutionary Architecture and Automated Architectural Fitness Functions Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

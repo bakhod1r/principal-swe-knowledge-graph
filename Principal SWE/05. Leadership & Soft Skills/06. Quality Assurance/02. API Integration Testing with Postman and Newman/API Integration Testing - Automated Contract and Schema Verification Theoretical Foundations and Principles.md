@@ -1,6 +1,7 @@
 ---
 title: "API Integration Testing - Automated Contract and Schema Verification Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

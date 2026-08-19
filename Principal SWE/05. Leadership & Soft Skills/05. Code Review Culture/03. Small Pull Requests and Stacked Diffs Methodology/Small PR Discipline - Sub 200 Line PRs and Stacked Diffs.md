@@ -1,6 +1,7 @@
 ---
 title: Small PR Discipline: Sub 200 Line PRs and Stacked Diffs
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

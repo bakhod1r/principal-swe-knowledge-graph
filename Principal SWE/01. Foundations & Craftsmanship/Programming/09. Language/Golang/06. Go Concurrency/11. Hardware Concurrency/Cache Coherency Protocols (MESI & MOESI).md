@@ -1,6 +1,7 @@
 ---
 title: "Cache Coherency Protocols (MESI & MOESI)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

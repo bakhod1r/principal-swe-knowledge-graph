@@ -1,6 +1,7 @@
 ---
 title: "defer Statement Mechanics"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

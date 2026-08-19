@@ -1,6 +1,7 @@
 ---
 title: "The Modern Data Stack (mds), ETL vs Elt, and Cloud Data Warehouses Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

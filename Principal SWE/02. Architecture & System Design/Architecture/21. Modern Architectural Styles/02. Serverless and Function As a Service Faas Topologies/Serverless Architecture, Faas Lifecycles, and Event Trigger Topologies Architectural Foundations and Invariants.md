@@ -1,6 +1,7 @@
 ---
 title: "Serverless Architecture, Faas Lifecycles, and Event Trigger Topologies Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

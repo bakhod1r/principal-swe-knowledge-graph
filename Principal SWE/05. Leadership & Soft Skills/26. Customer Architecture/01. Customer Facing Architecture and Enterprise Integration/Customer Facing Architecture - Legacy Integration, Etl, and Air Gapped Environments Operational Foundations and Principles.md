@@ -1,6 +1,7 @@
 ---
 title: "Customer Facing Architecture - Legacy Integration, Etl, and Air Gapped Environments Operational Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

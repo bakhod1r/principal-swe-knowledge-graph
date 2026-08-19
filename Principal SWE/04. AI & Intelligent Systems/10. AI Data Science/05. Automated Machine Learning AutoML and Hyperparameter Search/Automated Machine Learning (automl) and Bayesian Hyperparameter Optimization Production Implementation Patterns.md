@@ -1,6 +1,7 @@
 ---
 title: "Automated Machine Learning (automl) and Bayesian Hyperparameter Optimization Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics

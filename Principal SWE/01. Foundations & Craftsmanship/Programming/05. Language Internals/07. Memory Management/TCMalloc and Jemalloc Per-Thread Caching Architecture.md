@@ -1,6 +1,7 @@
 ---
 title: "TCMalloc and Jemalloc Per-Thread Caching Architecture"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

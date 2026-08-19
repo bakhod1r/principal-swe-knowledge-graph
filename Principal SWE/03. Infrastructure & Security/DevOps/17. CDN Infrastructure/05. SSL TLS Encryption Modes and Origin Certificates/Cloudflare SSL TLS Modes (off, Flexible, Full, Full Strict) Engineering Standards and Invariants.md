@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare SSL TLS Modes (off, Flexible, Full, Full Strict) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

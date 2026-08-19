@@ -1,6 +1,7 @@
 ---
 title: "Empty Struct (struct{}) Idioms"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

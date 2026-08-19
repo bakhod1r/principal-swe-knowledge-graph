@@ -1,6 +1,7 @@
 ---
 title: "init() Function Lifecycle"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

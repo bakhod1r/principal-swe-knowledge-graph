@@ -1,6 +1,7 @@
 ---
 title: "De Escalating Cross Functional Friction Between Product and Engineering Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Package Registry Security and Supply Chain Health"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

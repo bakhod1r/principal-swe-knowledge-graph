@@ -1,6 +1,7 @@
 ---
 title: "Insecure Deserialization & XML-JSON Bomb Defense"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "sync.Pool & sync.Map Source Walkthrough"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

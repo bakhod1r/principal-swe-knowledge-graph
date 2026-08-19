@@ -1,6 +1,7 @@
 ---
 title: "Multi-Party Computation (MPC), Shamir Secret Sharing, and Fully Homomorphic Encryption (FHE) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

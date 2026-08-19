@@ -1,6 +1,7 @@
 ---
 title: "Interface Pollution & Premature Abstraction Defense"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

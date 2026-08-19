@@ -1,6 +1,7 @@
 ---
 title: "Circuit Breaker Pattern: Closed, Open, Half Open State Transitions Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

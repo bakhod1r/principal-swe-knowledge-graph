@@ -1,6 +1,7 @@
 ---
 title: "Git Configuration Scopes (System, Global, Local, Worktree) Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

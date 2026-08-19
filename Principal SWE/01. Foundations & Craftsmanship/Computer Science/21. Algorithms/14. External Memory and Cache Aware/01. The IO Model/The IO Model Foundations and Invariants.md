@@ -1,6 +1,7 @@
 ---
 title: "The IO Model Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Stack Pop (Top Removal with GC Zeroing)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

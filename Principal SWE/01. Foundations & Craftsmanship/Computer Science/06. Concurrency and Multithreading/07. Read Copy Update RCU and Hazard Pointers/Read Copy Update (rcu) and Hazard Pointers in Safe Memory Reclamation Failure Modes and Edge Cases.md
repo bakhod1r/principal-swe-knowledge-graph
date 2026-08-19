@@ -1,6 +1,7 @@
 ---
 title: "Read Copy Update (rcu) and Hazard Pointers in Safe Memory Reclamation Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

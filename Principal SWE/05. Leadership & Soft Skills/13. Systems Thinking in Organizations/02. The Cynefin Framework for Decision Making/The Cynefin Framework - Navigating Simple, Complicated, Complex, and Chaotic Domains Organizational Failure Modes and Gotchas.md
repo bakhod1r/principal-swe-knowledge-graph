@@ -1,6 +1,7 @@
 ---
 title: "The Cynefin Framework - Navigating Simple, Complicated, Complex, and Chaotic Domains Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

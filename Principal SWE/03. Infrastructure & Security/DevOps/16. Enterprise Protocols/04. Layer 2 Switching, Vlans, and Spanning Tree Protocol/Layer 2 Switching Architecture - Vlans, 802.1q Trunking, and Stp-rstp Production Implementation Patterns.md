@@ -1,6 +1,7 @@
 ---
 title: "Layer 2 Switching Architecture - Vlans, 802.1q Trunking, and Stp-rstp Production Implementation Patterns"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

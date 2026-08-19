@@ -1,6 +1,7 @@
 ---
 title: Shell Input Output Redirection, File Descriptors, and Pipelines (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

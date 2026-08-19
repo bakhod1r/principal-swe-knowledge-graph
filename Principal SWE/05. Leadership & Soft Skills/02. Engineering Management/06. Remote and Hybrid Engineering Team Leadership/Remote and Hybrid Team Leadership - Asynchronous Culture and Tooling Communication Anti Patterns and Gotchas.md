@@ -1,6 +1,7 @@
 ---
 title: "Remote and Hybrid Team Leadership - Asynchronous Culture and Tooling Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Hiring Velocity and Engineering Talent Pool Sizing"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

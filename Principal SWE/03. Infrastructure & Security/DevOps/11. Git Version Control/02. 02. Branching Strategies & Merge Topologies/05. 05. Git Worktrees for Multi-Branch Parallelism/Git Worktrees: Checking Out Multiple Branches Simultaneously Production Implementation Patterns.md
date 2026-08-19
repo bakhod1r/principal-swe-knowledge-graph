@@ -1,6 +1,7 @@
 ---
 title: "Git Worktrees: Checking Out Multiple Branches Simultaneously Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

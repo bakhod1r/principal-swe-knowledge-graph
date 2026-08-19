@@ -1,6 +1,7 @@
 ---
 title: "Lb vs Reverse Proxy Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Amazon EKS Production Cluster Management and Managed Node Groups Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

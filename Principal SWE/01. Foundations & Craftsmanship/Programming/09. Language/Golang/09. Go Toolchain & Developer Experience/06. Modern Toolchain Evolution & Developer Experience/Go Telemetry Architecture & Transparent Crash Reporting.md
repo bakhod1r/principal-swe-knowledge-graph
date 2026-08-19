@@ -1,6 +1,7 @@
 ---
 title: "Go Telemetry Architecture & Transparent Crash Reporting"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

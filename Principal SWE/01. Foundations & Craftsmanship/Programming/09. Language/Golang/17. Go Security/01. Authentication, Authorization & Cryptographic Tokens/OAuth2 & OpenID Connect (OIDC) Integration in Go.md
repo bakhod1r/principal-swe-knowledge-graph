@@ -1,6 +1,7 @@
 ---
 title: "OAuth2 & OpenID Connect (OIDC) Integration in Go"
 tags:
+  - review
   - golang
   - security
   - principal-swe

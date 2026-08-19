@@ -1,6 +1,7 @@
 ---
 title: "Complex Adaptive Systems in Software Engineering - Antifragility and Emergence Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

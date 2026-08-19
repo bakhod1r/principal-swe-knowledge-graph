@@ -1,6 +1,7 @@
 ---
 title: "Paul Graham's Maker's Schedule, Manager's Schedule - Defending Time Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

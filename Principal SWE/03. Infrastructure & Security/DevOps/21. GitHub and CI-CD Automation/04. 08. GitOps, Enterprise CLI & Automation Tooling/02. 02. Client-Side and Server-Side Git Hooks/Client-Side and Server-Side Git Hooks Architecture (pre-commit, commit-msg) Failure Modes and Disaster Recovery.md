@@ -1,6 +1,7 @@
 ---
 title: "Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg) Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

@@ -1,6 +1,7 @@
 ---
 title: "Telemetry Volume FinOps and Storage Tiering (Hot, Warm, Cold)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

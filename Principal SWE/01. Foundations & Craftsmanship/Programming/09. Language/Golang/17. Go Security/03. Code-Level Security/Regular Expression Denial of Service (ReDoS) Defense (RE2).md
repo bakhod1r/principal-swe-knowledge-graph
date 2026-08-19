@@ -1,6 +1,7 @@
 ---
 title: "Regular Expression Denial of Service (ReDoS) Defense (RE2)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Sensitive Secret Erasure & Memory Zeroing (memclr)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

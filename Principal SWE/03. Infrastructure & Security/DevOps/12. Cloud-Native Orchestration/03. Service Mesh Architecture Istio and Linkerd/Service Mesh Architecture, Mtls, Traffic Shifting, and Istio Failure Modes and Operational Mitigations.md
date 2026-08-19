@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh Architecture, Mtls, Traffic Shifting, and Istio Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

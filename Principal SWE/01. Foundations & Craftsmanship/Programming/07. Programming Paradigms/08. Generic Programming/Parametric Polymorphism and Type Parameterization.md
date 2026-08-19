@@ -1,6 +1,7 @@
 ---
 title: "Parametric Polymorphism and Type Parameterization"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

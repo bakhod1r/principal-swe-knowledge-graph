@@ -1,6 +1,7 @@
 ---
 title: "Logical Operators (&&, ||, !)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

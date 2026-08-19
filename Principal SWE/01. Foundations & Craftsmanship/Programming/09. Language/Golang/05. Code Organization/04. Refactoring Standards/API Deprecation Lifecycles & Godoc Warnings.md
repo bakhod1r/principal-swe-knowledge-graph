@@ -1,6 +1,7 @@
 ---
 title: "API Deprecation Lifecycles & Godoc Warnings"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Defining True Minimum Viable Products (mvp) and Rapid Prototyping Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

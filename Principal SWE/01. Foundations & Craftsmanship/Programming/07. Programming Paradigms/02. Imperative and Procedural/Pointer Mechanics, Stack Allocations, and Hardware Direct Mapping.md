@@ -1,6 +1,7 @@
 ---
 title: "Pointer Mechanics, Stack Allocations, and Hardware Direct Mapping"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

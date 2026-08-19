@@ -1,6 +1,7 @@
 ---
 title: "Storage Tiering and Data Lifecycle Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

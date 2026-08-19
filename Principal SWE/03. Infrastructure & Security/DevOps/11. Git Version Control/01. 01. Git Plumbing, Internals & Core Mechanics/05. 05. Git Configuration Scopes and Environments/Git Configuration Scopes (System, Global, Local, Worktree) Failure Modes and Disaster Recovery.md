@@ -1,6 +1,7 @@
 ---
 title: "Git Configuration Scopes (System, Global, Local, Worktree) Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

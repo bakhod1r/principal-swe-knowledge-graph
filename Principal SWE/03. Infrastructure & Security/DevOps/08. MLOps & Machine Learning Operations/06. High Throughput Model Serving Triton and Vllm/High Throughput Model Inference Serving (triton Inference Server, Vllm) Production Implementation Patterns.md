@@ -1,6 +1,7 @@
 ---
 title: "High Throughput Model Inference Serving (triton Inference Server, Vllm) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

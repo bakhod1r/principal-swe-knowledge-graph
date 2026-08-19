@@ -1,6 +1,7 @@
 ---
 title: Advanced Reasoning: Tree of Thoughts (tot) and Graph of Thoughts (got)
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment

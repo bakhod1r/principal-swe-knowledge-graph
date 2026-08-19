@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 AI Assisted Engineering, Cursor, Copilot & Vibe Coding
@@ -49,5 +49,5 @@ AI Assisted Engineering, Cursor, Copilot & Vibe Coding
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

@@ -1,6 +1,7 @@
 ---
 title: "GOPROXY & Module Mirrors"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

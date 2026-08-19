@@ -1,6 +1,7 @@
 ---
 title: "The Attention Mechanism and Original Transformer Architecture (vaswani Et Al.) Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

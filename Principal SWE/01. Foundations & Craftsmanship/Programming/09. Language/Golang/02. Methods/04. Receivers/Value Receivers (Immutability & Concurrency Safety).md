@@ -1,6 +1,7 @@
 ---
 title: "Value Receivers (Immutability & Concurrency Safety)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

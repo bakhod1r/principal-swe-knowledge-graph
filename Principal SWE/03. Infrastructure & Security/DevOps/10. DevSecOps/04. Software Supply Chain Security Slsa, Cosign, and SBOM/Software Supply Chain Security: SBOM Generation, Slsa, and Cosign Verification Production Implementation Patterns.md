@@ -1,6 +1,7 @@
 ---
 title: "Software Supply Chain Security: SBOM Generation, Slsa, and Cosign Verification Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

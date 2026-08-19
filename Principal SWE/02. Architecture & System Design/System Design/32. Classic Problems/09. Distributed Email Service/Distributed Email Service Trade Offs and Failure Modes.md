@@ -1,6 +1,7 @@
 ---
 title: "Distributed Email Service Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

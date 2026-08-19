@@ -1,6 +1,7 @@
 ---
 title: "Monte Carlo Las Vegas Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

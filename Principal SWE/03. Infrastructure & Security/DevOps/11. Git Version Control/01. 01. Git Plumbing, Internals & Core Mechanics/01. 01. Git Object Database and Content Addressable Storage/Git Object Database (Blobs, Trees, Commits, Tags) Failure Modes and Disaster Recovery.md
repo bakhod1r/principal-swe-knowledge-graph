@@ -1,6 +1,7 @@
 ---
 title: "Git Object Database (Blobs, Trees, Commits, Tags) Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

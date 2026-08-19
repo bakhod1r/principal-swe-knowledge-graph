@@ -1,6 +1,7 @@
 ---
 title: "Log Aggregation Architecture (Vector, Fluentbit, Loki, Elasticsearch)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

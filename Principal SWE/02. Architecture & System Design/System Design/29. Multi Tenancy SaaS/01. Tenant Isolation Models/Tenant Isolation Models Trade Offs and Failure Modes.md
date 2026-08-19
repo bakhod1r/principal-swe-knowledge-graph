@@ -1,6 +1,7 @@
 ---
 title: "Tenant Isolation Models Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Distributed Denial of Service (ddos) Mitigation and Anycast Scrubbing Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

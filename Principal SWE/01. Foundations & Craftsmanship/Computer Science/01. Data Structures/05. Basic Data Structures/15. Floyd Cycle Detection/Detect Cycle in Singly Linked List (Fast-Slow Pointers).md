@@ -1,6 +1,7 @@
 ---
 title: "Detect Cycle in Singly Linked List (Fast-Slow Pointers)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

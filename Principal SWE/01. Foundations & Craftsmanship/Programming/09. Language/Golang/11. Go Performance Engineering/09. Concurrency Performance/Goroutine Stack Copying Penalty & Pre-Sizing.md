@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Stack Copying Penalty & Pre-Sizing"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

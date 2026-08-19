@@ -1,6 +1,7 @@
 ---
 title: "Python Built in Data Structures and Algorithmic Performance Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

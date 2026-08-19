@@ -1,6 +1,7 @@
 ---
 title: Osi Model and Tcp Ip Protocol Suite: Encapsulation and Data Flow
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

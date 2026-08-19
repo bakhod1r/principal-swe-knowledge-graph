@@ -1,6 +1,7 @@
 ---
 title: "Database Indexing Structures (b Tree, Gin, Gist, Brin) Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

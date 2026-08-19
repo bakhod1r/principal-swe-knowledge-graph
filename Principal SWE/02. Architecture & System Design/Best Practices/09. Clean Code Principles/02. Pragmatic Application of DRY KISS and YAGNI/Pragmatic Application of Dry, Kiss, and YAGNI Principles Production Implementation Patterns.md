@@ -1,6 +1,7 @@
 ---
 title: "Pragmatic Application of Dry, Kiss, and YAGNI Principles Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

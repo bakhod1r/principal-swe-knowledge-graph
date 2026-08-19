@@ -1,6 +1,7 @@
 ---
 title: "Docker Networking Models (bridge, Host, None, Macvlan, Overlay) Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

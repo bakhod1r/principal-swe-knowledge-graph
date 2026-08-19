@@ -1,6 +1,7 @@
 ---
 title: "Observer Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Linked List Delete Node by Value"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

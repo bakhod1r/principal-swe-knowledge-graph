@@ -1,6 +1,7 @@
 ---
 title: "Fundamental Parallel Primitives, Prefix Sum (Scan), and Parallel Reduction Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

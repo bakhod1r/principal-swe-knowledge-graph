@@ -1,6 +1,7 @@
 ---
 title: "Building for Scale, High Availability, and Load Balancing Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

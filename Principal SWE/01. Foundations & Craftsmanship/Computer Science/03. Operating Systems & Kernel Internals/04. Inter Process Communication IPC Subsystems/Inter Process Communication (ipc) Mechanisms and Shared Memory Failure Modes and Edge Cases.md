@@ -1,6 +1,7 @@
 ---
 title: "Inter Process Communication (ipc) Mechanisms and Shared Memory Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

@@ -1,6 +1,7 @@
 ---
 title: "Sweep Line Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

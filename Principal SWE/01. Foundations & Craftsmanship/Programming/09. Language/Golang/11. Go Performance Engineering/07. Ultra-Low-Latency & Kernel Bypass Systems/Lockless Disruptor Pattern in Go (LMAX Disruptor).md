@@ -1,6 +1,7 @@
 ---
 title: "Lockless Disruptor Pattern in Go (LMAX Disruptor)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

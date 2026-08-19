@@ -1,6 +1,7 @@
 ---
 title: "High Performance Rust: Criterion Benchmarking, Perf, and SIMD Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

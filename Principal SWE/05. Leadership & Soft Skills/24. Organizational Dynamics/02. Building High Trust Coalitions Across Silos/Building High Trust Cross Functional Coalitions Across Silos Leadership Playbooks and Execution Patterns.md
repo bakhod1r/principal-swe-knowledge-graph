@@ -1,6 +1,7 @@
 ---
 title: "Building High Trust Cross Functional Coalitions Across Silos Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "JWT Security Architecture & Signature Verification Pitfalls"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: Core CLI Commands
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

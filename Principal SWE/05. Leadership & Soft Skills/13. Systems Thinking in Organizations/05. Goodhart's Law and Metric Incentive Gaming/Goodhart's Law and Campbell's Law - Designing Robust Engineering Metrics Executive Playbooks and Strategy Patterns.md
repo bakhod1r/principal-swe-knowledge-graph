@@ -1,6 +1,7 @@
 ---
 title: "Goodhart's Law and Campbell's Law - Designing Robust Engineering Metrics Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

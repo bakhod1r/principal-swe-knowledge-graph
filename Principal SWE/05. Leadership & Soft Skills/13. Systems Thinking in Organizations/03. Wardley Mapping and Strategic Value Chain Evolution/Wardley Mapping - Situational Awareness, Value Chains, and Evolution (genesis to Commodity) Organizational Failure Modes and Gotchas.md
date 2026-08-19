@@ -1,6 +1,7 @@
 ---
 title: "Wardley Mapping - Situational Awareness, Value Chains, and Evolution (genesis to Commodity) Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

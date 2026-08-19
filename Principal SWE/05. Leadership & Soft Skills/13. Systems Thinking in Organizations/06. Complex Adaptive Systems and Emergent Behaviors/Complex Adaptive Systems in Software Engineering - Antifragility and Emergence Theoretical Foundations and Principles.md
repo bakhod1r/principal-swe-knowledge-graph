@@ -1,6 +1,7 @@
 ---
 title: "Complex Adaptive Systems in Software Engineering - Antifragility and Emergence Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

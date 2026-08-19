@@ -1,6 +1,7 @@
 ---
 title: "Short Variable Declaration (:=)"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

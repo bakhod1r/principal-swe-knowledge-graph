@@ -1,6 +1,7 @@
 ---
 title: "Amazon ECS Architecture, Task Definitions, and AWS Fargate Serverless Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

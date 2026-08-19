@@ -1,6 +1,7 @@
 ---
 title: "Happy Number Cycle Detection (State Graph Cycles)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

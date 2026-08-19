@@ -1,6 +1,7 @@
 ---
 title: "Documentation Maintenance - Garbage Collecting Stale Docs and Deprecation Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

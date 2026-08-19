@@ -1,6 +1,7 @@
 ---
 title: "Stack vs Heap Allocation Rules"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

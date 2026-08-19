@@ -1,6 +1,7 @@
 ---
 title: "Explainable AI (xai): SHAP (shapley Additive Explanations) and LIME Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics

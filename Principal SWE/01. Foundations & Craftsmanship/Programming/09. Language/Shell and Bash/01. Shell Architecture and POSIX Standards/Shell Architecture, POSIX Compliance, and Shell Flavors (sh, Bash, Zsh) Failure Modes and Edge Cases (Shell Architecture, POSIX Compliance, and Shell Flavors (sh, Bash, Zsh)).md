@@ -1,6 +1,7 @@
 ---
 title: "Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh) Failure Modes and Edge Cases (Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh))"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: Propositional Logic, First Order Predicate Calculus, and Formal Proofs
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

@@ -1,6 +1,7 @@
 ---
 title: "Compilation Speed vs Runtime Optimization Depth"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

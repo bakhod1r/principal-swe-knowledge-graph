@@ -1,6 +1,7 @@
 ---
 title: "Logs Metrics Traces Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

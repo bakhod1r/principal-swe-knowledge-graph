@@ -1,6 +1,7 @@
 ---
 title: Docker Compose Specification and Local Microservice Topology
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

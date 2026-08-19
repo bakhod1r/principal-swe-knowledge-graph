@@ -1,6 +1,7 @@
 ---
 title: "Python Iterators, Generator Functions, and Itertools Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Real Time Operating Systems (rtos) and Deterministic Scheduling Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

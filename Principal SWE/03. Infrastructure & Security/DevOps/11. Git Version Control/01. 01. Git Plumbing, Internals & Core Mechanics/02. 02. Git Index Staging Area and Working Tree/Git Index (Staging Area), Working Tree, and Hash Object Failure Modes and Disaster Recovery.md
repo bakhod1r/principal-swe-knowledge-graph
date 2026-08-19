@@ -1,6 +1,7 @@
 ---
 title: "Git Index (Staging Area), Working Tree, and Hash Object Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

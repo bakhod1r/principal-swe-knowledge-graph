@@ -1,6 +1,7 @@
 ---
 title: "Dependency Injection and Inversion of Control in Java Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

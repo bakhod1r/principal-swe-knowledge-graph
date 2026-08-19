@@ -7,7 +7,7 @@ tags:
   - team-lead
   - principal-swe-influence-and-technical-strategy
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Principal SWE Influence & Technical Strategy
@@ -47,5 +47,5 @@ Principal SWE Influence & Technical Strategy
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

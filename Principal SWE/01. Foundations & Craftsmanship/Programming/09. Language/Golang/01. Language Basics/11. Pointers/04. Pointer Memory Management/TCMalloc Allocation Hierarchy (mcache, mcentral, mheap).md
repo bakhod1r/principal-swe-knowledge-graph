@@ -1,6 +1,7 @@
 ---
 title: "TCMalloc Allocation Hierarchy (mcache, mcentral, mheap)"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

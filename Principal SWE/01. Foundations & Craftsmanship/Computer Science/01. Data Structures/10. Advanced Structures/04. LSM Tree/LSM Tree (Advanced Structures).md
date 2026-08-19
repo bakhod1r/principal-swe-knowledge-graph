@@ -1,6 +1,7 @@
 ---
 title: LSM Tree (Advanced Structures)
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[Advanced Structures]]"

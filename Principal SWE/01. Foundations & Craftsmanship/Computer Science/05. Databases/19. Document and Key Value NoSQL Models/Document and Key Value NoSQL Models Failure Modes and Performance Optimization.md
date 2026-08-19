@@ -1,6 +1,7 @@
 ---
 title: "Document and Key Value NoSQL Models Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

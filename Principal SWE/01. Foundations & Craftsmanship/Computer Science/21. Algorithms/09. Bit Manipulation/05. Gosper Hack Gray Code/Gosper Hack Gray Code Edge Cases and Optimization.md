@@ -1,6 +1,7 @@
 ---
 title: "Gosper Hack Gray Code Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

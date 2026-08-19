@@ -1,6 +1,7 @@
 ---
 title: "The God Package & Package Clutter Anti-Pattern"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

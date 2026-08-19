@@ -1,6 +1,7 @@
 ---
 title: "SQL Indexing Strategies and B Tree Query Acceleration Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

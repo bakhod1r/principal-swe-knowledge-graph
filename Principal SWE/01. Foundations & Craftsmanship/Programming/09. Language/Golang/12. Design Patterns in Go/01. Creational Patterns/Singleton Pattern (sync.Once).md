@@ -1,6 +1,7 @@
 ---
 title: "Singleton Pattern (sync.Once)"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Bash Loops, Iteration, and Indexed Associative Arrays Failure Modes and Edge Cases (Bash Loops, Iteration, and Indexed Associative Arrays)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: "Component Coupling Principles: Acyclic Dependencies (adp), Stable Dependencies (sdp), Stable Abstractions (sap) Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

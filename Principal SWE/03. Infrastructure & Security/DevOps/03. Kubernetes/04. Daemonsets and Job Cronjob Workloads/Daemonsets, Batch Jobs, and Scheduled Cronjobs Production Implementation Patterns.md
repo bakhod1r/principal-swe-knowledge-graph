@@ -1,6 +1,7 @@
 ---
 title: "Daemonsets, Batch Jobs, and Scheduled Cronjobs Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

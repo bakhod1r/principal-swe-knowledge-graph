@@ -1,6 +1,7 @@
 ---
 title: "Transactions, ACID Axioms, and Isolation Levels Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

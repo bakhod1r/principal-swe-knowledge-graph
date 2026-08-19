@@ -1,6 +1,7 @@
 ---
 title: "Rust Structs, Enums, and Algebraic Data Types Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

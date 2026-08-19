@@ -1,6 +1,7 @@
 ---
 title: "Map Key Hashability and Equality Constraints"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

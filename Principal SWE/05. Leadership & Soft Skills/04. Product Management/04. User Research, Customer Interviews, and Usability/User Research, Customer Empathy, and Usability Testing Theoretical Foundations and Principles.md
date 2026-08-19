@@ -1,6 +1,7 @@
 ---
 title: "User Research, Customer Empathy, and Usability Testing Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

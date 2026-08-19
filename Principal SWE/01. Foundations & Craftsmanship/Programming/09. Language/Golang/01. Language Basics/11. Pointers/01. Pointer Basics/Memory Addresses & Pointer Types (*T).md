@@ -1,6 +1,7 @@
 ---
 title: "Memory Addresses & Pointer Types (*T)"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

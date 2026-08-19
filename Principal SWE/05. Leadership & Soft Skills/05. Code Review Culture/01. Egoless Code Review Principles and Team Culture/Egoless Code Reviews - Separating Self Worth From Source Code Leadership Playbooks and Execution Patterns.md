@@ -1,6 +1,7 @@
 ---
 title: "Egoless Code Reviews - Separating Self Worth From Source Code Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

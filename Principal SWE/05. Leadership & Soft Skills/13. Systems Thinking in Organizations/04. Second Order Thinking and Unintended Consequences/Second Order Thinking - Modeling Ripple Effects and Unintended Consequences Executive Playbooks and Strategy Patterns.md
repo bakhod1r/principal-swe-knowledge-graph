@@ -1,6 +1,7 @@
 ---
 title: "Second Order Thinking - Modeling Ripple Effects and Unintended Consequences Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

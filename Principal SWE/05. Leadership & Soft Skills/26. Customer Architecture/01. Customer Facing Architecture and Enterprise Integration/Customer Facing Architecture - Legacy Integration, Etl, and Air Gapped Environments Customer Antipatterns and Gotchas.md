@@ -1,6 +1,7 @@
 ---
 title: "Customer Facing Architecture - Legacy Integration, Etl, and Air Gapped Environments Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

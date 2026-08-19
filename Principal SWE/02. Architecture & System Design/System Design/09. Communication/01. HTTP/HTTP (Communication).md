@@ -1,6 +1,7 @@
 ---
 title: HTTP (Communication)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Communication]]"

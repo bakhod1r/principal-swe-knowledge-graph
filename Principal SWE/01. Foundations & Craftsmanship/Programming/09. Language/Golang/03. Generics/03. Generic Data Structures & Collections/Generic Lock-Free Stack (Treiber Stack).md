@@ -1,6 +1,7 @@
 ---
 title: "Generic Lock-Free Stack (Treiber Stack)"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

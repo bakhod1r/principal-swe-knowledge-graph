@@ -1,6 +1,7 @@
 ---
 title: "Open Source Software (oss) Governance, Maintainership, and Community Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

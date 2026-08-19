@@ -1,6 +1,7 @@
 ---
 title: "Aggregates and Aggregate Roots: Transactional and Consistency Boundaries Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

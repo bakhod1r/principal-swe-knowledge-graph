@@ -1,6 +1,7 @@
 ---
 title: "Data Definition Language (ddl) and Schema Migrations Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

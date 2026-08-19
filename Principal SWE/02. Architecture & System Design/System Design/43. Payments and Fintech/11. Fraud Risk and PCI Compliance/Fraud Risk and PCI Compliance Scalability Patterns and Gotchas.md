@@ -1,6 +1,7 @@
 ---
 title: "Fraud Risk and PCI Compliance Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

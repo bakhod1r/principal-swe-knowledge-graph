@@ -1,6 +1,7 @@
 ---
 title: "Rootless Docker, User Namespaces, and Capability Dropping Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

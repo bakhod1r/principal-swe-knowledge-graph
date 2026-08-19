@@ -1,6 +1,7 @@
 ---
 title: "Pointer Pinning (runtime.Pinner)"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

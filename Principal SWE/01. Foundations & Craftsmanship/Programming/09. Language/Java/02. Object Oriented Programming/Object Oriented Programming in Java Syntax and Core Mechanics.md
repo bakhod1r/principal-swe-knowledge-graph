@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Programming in Java Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Hungarian Assignment Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

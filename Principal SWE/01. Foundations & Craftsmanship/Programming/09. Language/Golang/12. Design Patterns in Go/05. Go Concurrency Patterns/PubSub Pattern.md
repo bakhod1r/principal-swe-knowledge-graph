@@ -1,6 +1,7 @@
 ---
 title: "PubSub Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

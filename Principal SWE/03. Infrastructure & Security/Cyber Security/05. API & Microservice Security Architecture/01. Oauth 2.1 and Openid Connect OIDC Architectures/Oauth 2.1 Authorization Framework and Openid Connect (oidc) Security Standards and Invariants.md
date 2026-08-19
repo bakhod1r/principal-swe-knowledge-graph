@@ -1,6 +1,7 @@
 ---
 title: "Oauth 2.1 Authorization Framework and Openid Connect (oidc) Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture

@@ -1,6 +1,7 @@
 ---
 title: Privileged Access Management (pam) and Identity Lifecycles
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

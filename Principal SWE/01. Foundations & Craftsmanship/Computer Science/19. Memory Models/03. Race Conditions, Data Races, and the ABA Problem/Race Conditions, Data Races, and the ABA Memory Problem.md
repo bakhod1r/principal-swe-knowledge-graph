@@ -1,6 +1,7 @@
 ---
 title: Race Conditions, Data Races, and the ABA Memory Problem
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

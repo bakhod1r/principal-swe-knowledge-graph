@@ -1,6 +1,7 @@
 ---
 title: "Linux Kernel Scheduler Internals and Completely Fair Scheduler (cfs) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

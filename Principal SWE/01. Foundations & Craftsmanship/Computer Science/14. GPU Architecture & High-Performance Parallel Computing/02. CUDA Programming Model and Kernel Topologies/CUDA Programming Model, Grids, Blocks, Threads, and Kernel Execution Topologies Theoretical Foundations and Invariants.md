@@ -1,6 +1,7 @@
 ---
 title: "CUDA Programming Model, Grids, Blocks, Threads, and Kernel Execution Topologies Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

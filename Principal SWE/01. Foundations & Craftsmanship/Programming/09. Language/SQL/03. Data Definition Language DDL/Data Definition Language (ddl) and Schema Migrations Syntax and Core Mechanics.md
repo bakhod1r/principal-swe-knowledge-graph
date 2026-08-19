@@ -1,6 +1,7 @@
 ---
 title: "Data Definition Language (ddl) and Schema Migrations Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

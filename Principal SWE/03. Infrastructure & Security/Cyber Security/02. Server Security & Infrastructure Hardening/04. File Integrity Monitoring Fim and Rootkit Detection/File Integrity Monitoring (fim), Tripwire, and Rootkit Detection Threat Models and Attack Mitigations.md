@@ -1,6 +1,7 @@
 ---
 title: "File Integrity Monitoring (fim), Tripwire, and Rootkit Detection Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

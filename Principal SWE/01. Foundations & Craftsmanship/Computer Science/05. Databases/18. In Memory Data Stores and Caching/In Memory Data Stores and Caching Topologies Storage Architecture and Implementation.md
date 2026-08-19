@@ -1,6 +1,7 @@
 ---
 title: "In Memory Data Stores and Caching Topologies Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

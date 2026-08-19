@@ -1,6 +1,7 @@
 ---
 title: "At-Least-Once, At-Most-Once, and Exactly-Once Event Delivery Semantics"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

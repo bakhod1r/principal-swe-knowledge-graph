@@ -1,6 +1,7 @@
 ---
 title: "Functional Programming Patterns and Immutability in Java Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

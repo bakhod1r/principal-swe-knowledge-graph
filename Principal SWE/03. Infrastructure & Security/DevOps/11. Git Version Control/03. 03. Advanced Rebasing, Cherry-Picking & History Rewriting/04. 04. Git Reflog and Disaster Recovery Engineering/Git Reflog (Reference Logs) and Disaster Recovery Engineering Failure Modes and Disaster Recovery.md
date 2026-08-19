@@ -1,6 +1,7 @@
 ---
 title: "Git Reflog (Reference Logs) and Disaster Recovery Engineering Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

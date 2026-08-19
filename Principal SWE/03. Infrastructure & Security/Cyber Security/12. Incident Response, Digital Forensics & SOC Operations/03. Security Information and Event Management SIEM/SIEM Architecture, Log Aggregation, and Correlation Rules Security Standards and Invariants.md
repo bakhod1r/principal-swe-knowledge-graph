@@ -1,6 +1,7 @@
 ---
 title: "SIEM Architecture, Log Aggregation, and Correlation Rules Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations

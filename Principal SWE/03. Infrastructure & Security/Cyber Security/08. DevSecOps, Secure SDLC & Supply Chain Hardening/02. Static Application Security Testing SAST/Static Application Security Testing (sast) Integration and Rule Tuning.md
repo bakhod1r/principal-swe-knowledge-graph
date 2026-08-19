@@ -1,6 +1,7 @@
 ---
 title: Static Application Security Testing (sast) Integration and Rule Tuning
 tags:
+  - review
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening

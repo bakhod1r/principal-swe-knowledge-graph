@@ -1,6 +1,7 @@
 ---
 title: "Exactly Once Semantics Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

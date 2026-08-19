@@ -1,6 +1,7 @@
 ---
 title: "Blockchain Consensus Mechanisms: Proof of Work (pow) vs Proof of Stake (pos) Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

@@ -1,6 +1,7 @@
 ---
 title: "Multi Year Technology Vision - Mckinsey Three Horizons of Growth Framework Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

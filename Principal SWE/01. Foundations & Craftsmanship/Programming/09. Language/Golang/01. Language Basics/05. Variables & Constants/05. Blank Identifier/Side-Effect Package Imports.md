@@ -1,6 +1,7 @@
 ---
 title: "Side-Effect Package Imports"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

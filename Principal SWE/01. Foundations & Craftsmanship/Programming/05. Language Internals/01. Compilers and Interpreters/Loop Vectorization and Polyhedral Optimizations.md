@@ -1,6 +1,7 @@
 ---
 title: "Loop Vectorization and Polyhedral Optimizations"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

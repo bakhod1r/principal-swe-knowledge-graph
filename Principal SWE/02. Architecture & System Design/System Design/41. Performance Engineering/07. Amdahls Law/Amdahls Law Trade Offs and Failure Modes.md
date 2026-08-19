@@ -1,6 +1,7 @@
 ---
 title: "Amdahls Law Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

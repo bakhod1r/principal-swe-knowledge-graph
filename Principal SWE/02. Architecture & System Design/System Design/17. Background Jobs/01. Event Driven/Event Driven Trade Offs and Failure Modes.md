@@ -1,6 +1,7 @@
 ---
 title: "Event Driven Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

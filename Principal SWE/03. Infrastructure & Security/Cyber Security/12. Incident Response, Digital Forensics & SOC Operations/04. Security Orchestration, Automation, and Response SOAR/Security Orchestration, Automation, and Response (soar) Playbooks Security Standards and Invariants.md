@@ -1,6 +1,7 @@
 ---
 title: "Security Orchestration, Automation, and Response (soar) Playbooks Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations

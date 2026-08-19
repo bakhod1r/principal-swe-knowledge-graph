@@ -1,6 +1,7 @@
 ---
 title: "Max Flow Push Relabel Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

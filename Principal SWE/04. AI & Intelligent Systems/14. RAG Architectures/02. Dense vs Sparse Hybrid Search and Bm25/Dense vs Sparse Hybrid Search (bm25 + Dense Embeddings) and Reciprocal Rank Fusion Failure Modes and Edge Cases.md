@@ -1,6 +1,7 @@
 ---
 title: "Dense vs Sparse Hybrid Search (bm25 + Dense Embeddings) and Reciprocal Rank Fusion Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

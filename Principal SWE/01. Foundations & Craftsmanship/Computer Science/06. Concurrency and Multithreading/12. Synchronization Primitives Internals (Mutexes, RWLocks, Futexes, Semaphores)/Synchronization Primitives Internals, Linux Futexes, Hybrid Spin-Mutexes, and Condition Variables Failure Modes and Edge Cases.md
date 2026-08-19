@@ -1,6 +1,7 @@
 ---
 title: "Synchronization Primitives Internals, Linux Futexes, Hybrid Spin-Mutexes, and Condition Variables Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

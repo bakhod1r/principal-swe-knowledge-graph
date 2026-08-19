@@ -1,6 +1,7 @@
 ---
 title: "Java Optionals and Modern Null Safe Design Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

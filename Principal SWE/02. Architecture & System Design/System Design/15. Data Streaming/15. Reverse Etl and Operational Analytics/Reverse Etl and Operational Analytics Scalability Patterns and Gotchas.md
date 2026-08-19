@@ -1,6 +1,7 @@
 ---
 title: "Reverse Etl and Operational Analytics Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

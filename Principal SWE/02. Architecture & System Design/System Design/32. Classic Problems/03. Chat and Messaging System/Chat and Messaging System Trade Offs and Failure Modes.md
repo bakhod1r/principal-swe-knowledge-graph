@@ -1,6 +1,7 @@
 ---
 title: "Chat and Messaging System Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

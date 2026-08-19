@@ -1,6 +1,7 @@
 ---
 title: "Negotiating Technical Debt with Product - Financial Roi and Risk Models Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

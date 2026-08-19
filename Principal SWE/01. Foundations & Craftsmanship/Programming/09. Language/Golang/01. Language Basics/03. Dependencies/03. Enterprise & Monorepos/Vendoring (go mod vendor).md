@@ -1,6 +1,7 @@
 ---
 title: "Vendoring (go mod vendor)"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Variadic Functions Slice Allocation & Memory Lifecycle"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

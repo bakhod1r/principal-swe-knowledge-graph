@@ -1,6 +1,7 @@
 ---
 title: "OpenTelemetry Go SDK Architecture (TracerProvider & Spans)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

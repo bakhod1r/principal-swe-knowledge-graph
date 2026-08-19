@@ -1,6 +1,7 @@
 ---
 title: "Git Object Database (Blobs, Trees, Commits, Tags) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

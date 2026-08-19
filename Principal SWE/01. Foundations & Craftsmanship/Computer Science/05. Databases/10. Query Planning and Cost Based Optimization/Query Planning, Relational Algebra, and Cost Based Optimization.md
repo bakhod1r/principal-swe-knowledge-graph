@@ -1,6 +1,7 @@
 ---
 title: Query Planning, Relational Algebra, and Cost Based Optimization
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

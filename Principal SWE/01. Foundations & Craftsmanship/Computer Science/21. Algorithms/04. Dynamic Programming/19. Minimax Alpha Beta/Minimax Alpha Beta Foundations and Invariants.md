@@ -1,6 +1,7 @@
 ---
 title: "Minimax Alpha Beta Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

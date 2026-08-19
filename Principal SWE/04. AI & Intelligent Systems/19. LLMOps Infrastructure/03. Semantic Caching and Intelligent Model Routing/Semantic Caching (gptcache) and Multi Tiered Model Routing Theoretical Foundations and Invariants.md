@@ -1,6 +1,7 @@
 ---
 title: "Semantic Caching (gptcache) and Multi Tiered Model Routing Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

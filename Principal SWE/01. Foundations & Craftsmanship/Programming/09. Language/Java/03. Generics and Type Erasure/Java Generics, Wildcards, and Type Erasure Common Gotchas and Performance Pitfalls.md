@@ -1,6 +1,7 @@
 ---
 title: "Java Generics, Wildcards, and Type Erasure Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

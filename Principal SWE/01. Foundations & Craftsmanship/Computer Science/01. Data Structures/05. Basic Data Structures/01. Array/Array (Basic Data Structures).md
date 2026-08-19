@@ -1,6 +1,7 @@
 ---
 title: Array (Basic Data Structures)
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

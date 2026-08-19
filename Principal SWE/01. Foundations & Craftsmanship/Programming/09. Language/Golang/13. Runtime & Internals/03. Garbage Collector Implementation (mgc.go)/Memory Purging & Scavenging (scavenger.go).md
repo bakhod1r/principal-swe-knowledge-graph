@@ -1,6 +1,7 @@
 ---
 title: "Memory Purging & Scavenging (scavenger.go)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

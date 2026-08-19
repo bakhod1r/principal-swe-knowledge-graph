@@ -1,6 +1,7 @@
 ---
 title: "CODEOWNERS Configuration and Automated PR Review Routing Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

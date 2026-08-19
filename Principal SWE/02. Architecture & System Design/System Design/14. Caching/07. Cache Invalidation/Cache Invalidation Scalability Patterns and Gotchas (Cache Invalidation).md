@@ -1,6 +1,7 @@
 ---
 title: "Cache Invalidation Scalability Patterns and Gotchas (Cache Invalidation)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

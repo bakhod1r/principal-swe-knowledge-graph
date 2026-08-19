@@ -1,6 +1,7 @@
 ---
 title: "Fixup Commits, Amend Idioms, and Git Autosquash Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

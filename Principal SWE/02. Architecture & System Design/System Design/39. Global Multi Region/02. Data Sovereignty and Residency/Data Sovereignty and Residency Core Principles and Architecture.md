@@ -1,6 +1,7 @@
 ---
 title: "Data Sovereignty and Residency Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

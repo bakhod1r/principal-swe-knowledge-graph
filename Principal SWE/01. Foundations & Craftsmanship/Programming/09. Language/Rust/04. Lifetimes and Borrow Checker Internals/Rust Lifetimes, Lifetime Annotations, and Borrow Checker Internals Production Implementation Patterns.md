@@ -1,6 +1,7 @@
 ---
 title: "Rust Lifetimes, Lifetime Annotations, and Borrow Checker Internals Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

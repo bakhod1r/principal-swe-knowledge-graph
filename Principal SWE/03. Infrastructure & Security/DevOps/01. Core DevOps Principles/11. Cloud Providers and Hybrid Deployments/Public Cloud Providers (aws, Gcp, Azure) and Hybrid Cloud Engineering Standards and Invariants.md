@@ -1,6 +1,7 @@
 ---
 title: "Public Cloud Providers (aws, Gcp, Azure) and Hybrid Cloud Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

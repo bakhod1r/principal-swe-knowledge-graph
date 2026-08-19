@@ -1,6 +1,7 @@
 ---
 title: "Peer to Peer (p2p) Topologies, Distributed Hash Tables (dht), and Gossip Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

@@ -1,6 +1,7 @@
 ---
 title: UDP (Communication)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Communication]]"

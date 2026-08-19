@@ -1,6 +1,7 @@
 ---
 title: "FLP Impossibility Result and Asynchronous Consensus Limits Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

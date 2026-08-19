@@ -1,6 +1,7 @@
 ---
 title: "Lmax Disruptor Pattern: High Throughput Inter Thread Messaging with Ring Buffers Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

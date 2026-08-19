@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Security: Rbac, Pod Security Standards, and OPA Kyverno Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

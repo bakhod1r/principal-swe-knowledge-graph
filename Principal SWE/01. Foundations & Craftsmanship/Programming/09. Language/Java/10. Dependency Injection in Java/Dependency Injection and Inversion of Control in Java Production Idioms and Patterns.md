@@ -1,6 +1,7 @@
 ---
 title: "Dependency Injection and Inversion of Control in Java Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

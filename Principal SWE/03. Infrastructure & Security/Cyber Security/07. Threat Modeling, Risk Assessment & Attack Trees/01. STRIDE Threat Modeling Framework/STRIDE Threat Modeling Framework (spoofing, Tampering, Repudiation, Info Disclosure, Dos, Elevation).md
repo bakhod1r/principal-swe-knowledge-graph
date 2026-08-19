@@ -1,6 +1,7 @@
 ---
 title: STRIDE Threat Modeling Framework (spoofing, Tampering, Repudiation, Info Disclosure, Dos, Elevation)
 tags:
+  - review
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees

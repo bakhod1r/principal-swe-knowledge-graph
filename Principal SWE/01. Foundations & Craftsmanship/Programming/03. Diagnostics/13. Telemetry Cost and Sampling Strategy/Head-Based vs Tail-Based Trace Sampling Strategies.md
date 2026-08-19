@@ -1,6 +1,7 @@
 ---
 title: "Head-Based vs Tail-Based Trace Sampling Strategies"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

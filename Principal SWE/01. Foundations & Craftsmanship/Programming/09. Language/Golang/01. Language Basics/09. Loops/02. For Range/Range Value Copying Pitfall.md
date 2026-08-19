@@ -1,6 +1,7 @@
 ---
 title: "Range Value Copying Pitfall"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

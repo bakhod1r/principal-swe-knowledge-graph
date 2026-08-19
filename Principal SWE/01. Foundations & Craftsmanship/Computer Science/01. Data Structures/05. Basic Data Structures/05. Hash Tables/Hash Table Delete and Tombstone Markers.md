@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Delete and Tombstone Markers"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

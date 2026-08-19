@@ -1,6 +1,7 @@
 ---
 title: "Terraform State Management, S3 Backends, and Dynamodb Locking Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

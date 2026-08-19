@@ -1,6 +1,7 @@
 ---
 title: "Interface Adapters: Controllers, Presenters, Gateways, and Viewmodels Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

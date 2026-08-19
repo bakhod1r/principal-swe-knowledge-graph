@@ -1,6 +1,7 @@
 ---
 title: "atomic.Pointer[T] Type Safety (Go 1.19+)"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Observable Streams, Operators, and Marble Diagrams (RxJS, Project Reactor)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

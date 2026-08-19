@@ -1,6 +1,7 @@
 ---
 title: "Python Comprehensions and Memory Optimization Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

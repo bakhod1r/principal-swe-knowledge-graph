@@ -1,6 +1,7 @@
 ---
 title: "Max Flow Edmonds Karp Dinic Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

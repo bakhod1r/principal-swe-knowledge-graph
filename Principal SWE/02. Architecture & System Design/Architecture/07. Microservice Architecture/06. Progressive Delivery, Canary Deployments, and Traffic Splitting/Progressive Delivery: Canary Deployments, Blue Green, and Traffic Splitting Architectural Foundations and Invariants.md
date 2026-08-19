@@ -1,6 +1,7 @@
 ---
 title: "Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

@@ -1,6 +1,7 @@
 ---
 title: "Vendor Lock In, Cloud Sprawl, and Leaky Cloud Abstractions Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

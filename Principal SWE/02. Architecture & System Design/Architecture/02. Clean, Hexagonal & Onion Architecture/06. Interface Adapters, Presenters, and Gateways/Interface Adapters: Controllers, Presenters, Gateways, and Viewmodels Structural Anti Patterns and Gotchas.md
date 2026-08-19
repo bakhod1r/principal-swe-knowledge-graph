@@ -1,6 +1,7 @@
 ---
 title: "Interface Adapters: Controllers, Presenters, Gateways, and Viewmodels Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

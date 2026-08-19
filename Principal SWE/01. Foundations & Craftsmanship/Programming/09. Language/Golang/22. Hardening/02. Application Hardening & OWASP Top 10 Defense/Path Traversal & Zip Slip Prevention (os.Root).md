@@ -1,6 +1,7 @@
 ---
 title: "Path Traversal & Zip Slip Prevention (os.Root)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

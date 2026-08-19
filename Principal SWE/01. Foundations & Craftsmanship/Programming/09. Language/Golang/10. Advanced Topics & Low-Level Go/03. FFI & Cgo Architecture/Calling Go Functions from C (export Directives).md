@@ -1,6 +1,7 @@
 ---
 title: "Calling Go Functions from C (export Directives)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

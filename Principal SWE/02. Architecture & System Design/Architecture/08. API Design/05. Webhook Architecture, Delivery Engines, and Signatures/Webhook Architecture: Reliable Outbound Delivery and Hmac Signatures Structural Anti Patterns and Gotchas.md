@@ -1,6 +1,7 @@
 ---
 title: "Webhook Architecture: Reliable Outbound Delivery and Hmac Signatures Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

@@ -1,6 +1,7 @@
 ---
 title: GitOps Declarative Continuous Delivery: ArgoCD and FluxCD
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

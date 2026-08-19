@@ -1,6 +1,7 @@
 ---
 title: "Kernel Bypass Networking Dpdk Rdma Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

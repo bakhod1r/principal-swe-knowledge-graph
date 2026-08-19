@@ -1,6 +1,7 @@
 ---
 title: "Memory Ordering Models, Store Buffers, and Hardware Memory Barriers Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

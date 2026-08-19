@@ -1,6 +1,7 @@
 ---
 title: "go install Command"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

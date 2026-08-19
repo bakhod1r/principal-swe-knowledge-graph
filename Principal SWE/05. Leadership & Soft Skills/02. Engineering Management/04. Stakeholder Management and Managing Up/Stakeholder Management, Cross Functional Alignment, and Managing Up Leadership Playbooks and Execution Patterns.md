@@ -1,6 +1,7 @@
 ---
 title: "Stakeholder Management, Cross Functional Alignment, and Managing Up Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

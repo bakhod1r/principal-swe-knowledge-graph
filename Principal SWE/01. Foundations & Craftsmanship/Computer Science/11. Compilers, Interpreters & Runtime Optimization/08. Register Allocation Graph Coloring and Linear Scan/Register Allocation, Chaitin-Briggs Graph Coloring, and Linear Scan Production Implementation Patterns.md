@@ -1,6 +1,7 @@
 ---
 title: "Register Allocation, Chaitin-Briggs Graph Coloring, and Linear Scan Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

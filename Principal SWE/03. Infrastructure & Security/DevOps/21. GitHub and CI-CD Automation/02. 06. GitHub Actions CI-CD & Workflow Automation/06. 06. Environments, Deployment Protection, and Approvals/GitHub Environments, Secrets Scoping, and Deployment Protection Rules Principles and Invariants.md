@@ -1,6 +1,7 @@
 ---
 title: "GitHub Environments, Secrets Scoping, and Deployment Protection Rules Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

@@ -1,6 +1,7 @@
 ---
 title: "Multi Tier Caching Topologies and Invalidation Standards Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering

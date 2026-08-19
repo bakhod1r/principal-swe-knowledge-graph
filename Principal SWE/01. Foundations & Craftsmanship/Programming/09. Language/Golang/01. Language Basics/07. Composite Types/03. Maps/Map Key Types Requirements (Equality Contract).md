@@ -1,6 +1,7 @@
 ---
 title: "Map Key Types Requirements (Equality Contract)"
 tags:
+  - review
   - golang
   - composite-types
   - principal-swe

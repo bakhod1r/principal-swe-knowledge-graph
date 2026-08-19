@@ -1,6 +1,7 @@
 ---
 title: "Token Economics, LLM Cost Attribution, and Budget Governance Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

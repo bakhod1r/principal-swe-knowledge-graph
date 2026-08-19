@@ -1,6 +1,7 @@
 ---
 title: "String Indexing and Slicing"
 tags:
+  - review
   - golang
   - types
   - principal-swe

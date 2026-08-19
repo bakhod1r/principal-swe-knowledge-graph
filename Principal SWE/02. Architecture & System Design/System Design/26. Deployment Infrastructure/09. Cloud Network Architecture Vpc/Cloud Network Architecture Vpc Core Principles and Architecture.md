@@ -1,6 +1,7 @@
 ---
 title: "Cloud Network Architecture Vpc Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

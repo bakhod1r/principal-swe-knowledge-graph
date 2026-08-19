@@ -1,6 +1,7 @@
 ---
 title: "Amazon Cloudwatch Metrics, Logs Insights, and Cloudtrail Audit Trails Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

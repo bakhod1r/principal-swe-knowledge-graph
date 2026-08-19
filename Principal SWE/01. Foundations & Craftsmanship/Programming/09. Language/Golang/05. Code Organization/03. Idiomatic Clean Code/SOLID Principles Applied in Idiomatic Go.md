@@ -1,6 +1,7 @@
 ---
 title: "SOLID Principles Applied in Idiomatic Go"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

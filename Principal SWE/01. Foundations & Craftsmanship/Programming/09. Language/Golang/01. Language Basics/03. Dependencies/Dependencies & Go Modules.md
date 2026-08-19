@@ -1,6 +1,7 @@
 ---
 title: Dependencies & Go Modules
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

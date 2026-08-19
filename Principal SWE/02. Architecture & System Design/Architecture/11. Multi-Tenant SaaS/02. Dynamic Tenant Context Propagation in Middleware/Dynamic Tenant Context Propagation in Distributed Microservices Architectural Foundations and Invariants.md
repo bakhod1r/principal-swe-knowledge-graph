@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Tenant Context Propagation in Distributed Microservices Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

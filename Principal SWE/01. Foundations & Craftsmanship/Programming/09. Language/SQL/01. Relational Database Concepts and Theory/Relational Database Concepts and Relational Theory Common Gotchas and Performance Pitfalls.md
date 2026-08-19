@@ -1,6 +1,7 @@
 ---
 title: "Relational Database Concepts and Relational Theory Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

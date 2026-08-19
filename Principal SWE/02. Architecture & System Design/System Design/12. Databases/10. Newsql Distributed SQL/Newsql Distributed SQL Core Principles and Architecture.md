@@ -1,6 +1,7 @@
 ---
 title: "Newsql Distributed SQL Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "LLM Disaster Recovery, Multi Region Failover, and Graceful Degradation Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

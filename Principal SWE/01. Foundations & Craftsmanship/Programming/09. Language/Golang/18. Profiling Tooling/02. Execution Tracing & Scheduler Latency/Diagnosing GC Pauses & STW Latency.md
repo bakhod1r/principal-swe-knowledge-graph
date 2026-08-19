@@ -1,6 +1,7 @@
 ---
 title: "Diagnosing GC Pauses & STW Latency"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

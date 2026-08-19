@@ -1,6 +1,7 @@
 ---
 title: "strings.Builder vs bytes.Buffer Zero-Alloc Comparison"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

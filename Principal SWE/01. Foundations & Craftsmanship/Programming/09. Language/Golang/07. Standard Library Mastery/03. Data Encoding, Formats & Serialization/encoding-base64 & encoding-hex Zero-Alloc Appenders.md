@@ -1,6 +1,7 @@
 ---
 title: "encoding-base64 & encoding-hex Zero-Alloc Appenders"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

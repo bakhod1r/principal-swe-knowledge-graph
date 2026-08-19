@@ -1,6 +1,7 @@
 ---
 title: "Stateful Stream Processing and Distributed Checkpointing (Chandy-Lamport)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

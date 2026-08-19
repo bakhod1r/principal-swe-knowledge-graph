@@ -1,6 +1,7 @@
 ---
 title: "Bounded Contexts: Scoping Domain Models and Linguistic Boundaries Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

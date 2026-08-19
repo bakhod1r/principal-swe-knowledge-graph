@@ -1,6 +1,7 @@
 ---
 title: "Container Lifecycle Automation, Pruning, and Garbage Collection Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

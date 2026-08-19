@@ -1,6 +1,7 @@
 ---
 title: "Interactive Rebasing (git rebase -i) and History Crafting Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

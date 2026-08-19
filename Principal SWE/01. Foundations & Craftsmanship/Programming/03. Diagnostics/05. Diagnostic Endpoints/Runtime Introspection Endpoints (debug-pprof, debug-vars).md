@@ -1,6 +1,7 @@
 ---
 title: "Runtime Introspection Endpoints (debug-pprof, debug-vars)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Merge Topologies: Fast-Forward Merges vs True Three-Way Merges Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

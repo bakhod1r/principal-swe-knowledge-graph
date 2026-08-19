@@ -1,6 +1,7 @@
 ---
 title: "Privileged Access Management (pam) and Identity Lifecycles Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

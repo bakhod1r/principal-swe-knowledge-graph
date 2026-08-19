@@ -1,6 +1,7 @@
 ---
 title: Branching Strategies & Merge Topologies
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

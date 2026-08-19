@@ -1,6 +1,7 @@
 ---
 title: "Zero Copy IO Sendfile IO Uring Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

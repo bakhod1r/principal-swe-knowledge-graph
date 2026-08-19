@@ -1,6 +1,7 @@
 ---
 title: "Git Repository Initialization, Bare Repositories, and Mirrors Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

@@ -1,6 +1,7 @@
 ---
 title: "Paradigm Shifts and Language Evolution History"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

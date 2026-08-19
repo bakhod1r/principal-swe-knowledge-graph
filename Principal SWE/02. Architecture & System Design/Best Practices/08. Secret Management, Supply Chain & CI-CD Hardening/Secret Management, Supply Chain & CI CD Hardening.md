@@ -1,6 +1,7 @@
 ---
 title: Secret Management, Supply Chain & CI CD Hardening
 tags:
+  - review
   - best-practices
   - software-engineering
   - principal-swe

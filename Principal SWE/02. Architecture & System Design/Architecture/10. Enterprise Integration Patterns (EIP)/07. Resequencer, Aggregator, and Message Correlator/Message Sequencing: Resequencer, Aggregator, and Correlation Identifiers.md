@@ -1,6 +1,7 @@
 ---
 title: Message Sequencing: Resequencer, Aggregator, and Correlation Identifiers
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

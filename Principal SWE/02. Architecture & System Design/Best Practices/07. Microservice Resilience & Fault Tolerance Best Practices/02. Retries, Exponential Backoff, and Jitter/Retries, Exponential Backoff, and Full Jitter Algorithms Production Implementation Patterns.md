@@ -1,6 +1,7 @@
 ---
 title: "Retries, Exponential Backoff, and Full Jitter Algorithms Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

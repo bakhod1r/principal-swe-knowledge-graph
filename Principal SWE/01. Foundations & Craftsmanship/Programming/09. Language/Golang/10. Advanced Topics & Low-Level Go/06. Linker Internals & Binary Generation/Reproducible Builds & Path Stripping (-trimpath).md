@@ -1,6 +1,7 @@
 ---
 title: "Reproducible Builds & Path Stripping (-trimpath)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

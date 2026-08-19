@@ -1,6 +1,7 @@
 ---
 title: "Mutual Information, Kullback-Leibler (KL) Divergence, and Rate-Distortion Theory Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

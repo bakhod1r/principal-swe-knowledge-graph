@@ -1,6 +1,7 @@
 ---
 title: Database Views and Materialized View Refresh
 tags:
+  - review
   - programming
   - sql
   - principal-swe

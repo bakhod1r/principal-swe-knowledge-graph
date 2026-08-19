@@ -1,6 +1,7 @@
 ---
 title: Introduction (Elasticsearch & Distributed Search)
 tags:
+  - review
   - backend
   - architecture
   - elasticsearch-and-distributed-search

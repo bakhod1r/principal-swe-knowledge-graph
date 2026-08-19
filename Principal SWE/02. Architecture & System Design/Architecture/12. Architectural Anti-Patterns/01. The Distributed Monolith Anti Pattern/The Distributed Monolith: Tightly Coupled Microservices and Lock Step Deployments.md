@@ -1,6 +1,7 @@
 ---
 title: The Distributed Monolith: Tightly Coupled Microservices and Lock Step Deployments
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

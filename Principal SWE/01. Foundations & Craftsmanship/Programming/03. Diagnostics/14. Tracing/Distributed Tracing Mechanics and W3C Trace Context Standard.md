@@ -1,6 +1,7 @@
 ---
 title: "Distributed Tracing Mechanics and W3C Trace Context Standard"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

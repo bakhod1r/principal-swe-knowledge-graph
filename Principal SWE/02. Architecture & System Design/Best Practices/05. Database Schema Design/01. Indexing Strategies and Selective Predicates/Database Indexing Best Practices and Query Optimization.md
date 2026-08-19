@@ -1,6 +1,7 @@
 ---
 title: Database Indexing Best Practices and Query Optimization
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

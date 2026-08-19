@@ -1,6 +1,7 @@
 ---
 title: "Custom Resource Definitions (crds) and Kubernetes Operator Sdk Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

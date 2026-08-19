@@ -1,6 +1,7 @@
 ---
 title: "String Concatenation Performance"
 tags:
+  - review
   - golang
   - types
   - principal-swe

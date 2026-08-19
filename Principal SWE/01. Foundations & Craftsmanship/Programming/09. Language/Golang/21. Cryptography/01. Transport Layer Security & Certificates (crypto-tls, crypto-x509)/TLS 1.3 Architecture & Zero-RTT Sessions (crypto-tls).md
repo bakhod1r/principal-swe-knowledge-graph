@@ -1,6 +1,7 @@
 ---
 title: "TLS 1.3 Architecture & Zero-RTT Sessions (crypto-tls)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

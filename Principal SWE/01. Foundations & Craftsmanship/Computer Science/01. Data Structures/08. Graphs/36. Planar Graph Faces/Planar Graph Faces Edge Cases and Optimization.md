@@ -1,6 +1,7 @@
 ---
 title: "Planar Graph Faces Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

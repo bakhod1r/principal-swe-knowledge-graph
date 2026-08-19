@@ -1,6 +1,7 @@
 ---
 title: "Half Sync - Half Async Pattern: Bridging Asynchronous and Synchronous Services Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

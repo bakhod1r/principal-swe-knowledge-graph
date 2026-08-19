@@ -1,6 +1,7 @@
 ---
 title: "Data Model and Storage Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

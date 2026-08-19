@@ -1,6 +1,7 @@
 ---
 title: Terraform Multi Account AWS Landing Zones and Control Tower
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

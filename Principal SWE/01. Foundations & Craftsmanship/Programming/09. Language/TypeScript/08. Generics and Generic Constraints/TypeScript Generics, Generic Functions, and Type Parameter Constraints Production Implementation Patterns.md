@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Generics, Generic Functions, and Type Parameter Constraints Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - typescript

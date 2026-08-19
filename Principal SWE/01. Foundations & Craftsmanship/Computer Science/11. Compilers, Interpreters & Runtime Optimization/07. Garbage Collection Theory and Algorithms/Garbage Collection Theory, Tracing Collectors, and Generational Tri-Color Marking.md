@@ -1,6 +1,7 @@
 ---
 title: "Garbage Collection Theory, Tracing Collectors, and Generational Tri-Color Marking"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

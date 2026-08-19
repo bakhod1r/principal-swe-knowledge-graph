@@ -1,6 +1,7 @@
 ---
 title: "Bash Loops, Iteration, and Indexed Associative Arrays Theoretical Foundations and Invariants (Bash Loops, Iteration, and Indexed Associative Arrays)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

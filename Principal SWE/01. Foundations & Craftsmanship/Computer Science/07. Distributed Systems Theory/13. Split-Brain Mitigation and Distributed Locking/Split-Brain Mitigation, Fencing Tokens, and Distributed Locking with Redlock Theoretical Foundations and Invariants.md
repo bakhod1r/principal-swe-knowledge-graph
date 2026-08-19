@@ -1,6 +1,7 @@
 ---
 title: "Split-Brain Mitigation, Fencing Tokens, and Distributed Locking with Redlock Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

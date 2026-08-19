@@ -1,6 +1,7 @@
 ---
 title: "Backends for Frontend Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

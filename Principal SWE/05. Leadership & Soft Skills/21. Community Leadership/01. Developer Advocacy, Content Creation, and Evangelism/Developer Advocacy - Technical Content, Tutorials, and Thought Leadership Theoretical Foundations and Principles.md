@@ -1,6 +1,7 @@
 ---
 title: "Developer Advocacy - Technical Content, Tutorials, and Thought Leadership Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

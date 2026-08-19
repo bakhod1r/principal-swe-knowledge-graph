@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Vendor Negotiation - Multi Year Cloud Commitments and Software Contracts Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

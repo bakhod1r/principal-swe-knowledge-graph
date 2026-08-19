@@ -1,6 +1,7 @@
 ---
 title: "Page Replacement Algorithms, Kernel Swapping, and Oom Killer Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

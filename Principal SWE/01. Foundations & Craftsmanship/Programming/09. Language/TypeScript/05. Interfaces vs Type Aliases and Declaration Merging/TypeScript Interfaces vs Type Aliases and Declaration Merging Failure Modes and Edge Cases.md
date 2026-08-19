@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Interfaces vs Type Aliases and Declaration Merging Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

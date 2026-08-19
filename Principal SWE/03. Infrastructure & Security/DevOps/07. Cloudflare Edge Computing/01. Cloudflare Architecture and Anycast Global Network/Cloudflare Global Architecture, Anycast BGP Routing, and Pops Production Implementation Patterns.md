@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Global Architecture, Anycast BGP Routing, and Pops Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

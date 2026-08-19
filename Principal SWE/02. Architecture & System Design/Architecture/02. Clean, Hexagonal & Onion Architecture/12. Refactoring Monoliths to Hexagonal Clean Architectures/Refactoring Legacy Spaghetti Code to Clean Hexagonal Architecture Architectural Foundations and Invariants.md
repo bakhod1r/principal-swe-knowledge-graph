@@ -1,6 +1,7 @@
 ---
 title: "Refactoring Legacy Spaghetti Code to Clean Hexagonal Architecture Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

@@ -1,6 +1,7 @@
 ---
 title: Competitive Landscape Analysis and Building Technical Moats
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

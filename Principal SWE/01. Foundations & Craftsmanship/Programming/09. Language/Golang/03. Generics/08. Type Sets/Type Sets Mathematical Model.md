@@ -1,6 +1,7 @@
 ---
 title: "Type Sets Mathematical Model"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

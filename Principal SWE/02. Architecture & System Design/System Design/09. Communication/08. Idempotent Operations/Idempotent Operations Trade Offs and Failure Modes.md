@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Operations Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

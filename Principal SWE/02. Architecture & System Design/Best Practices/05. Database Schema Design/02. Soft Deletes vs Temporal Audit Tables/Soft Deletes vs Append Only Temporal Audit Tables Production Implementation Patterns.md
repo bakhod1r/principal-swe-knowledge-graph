@@ -1,6 +1,7 @@
 ---
 title: "Soft Deletes vs Append Only Temporal Audit Tables Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

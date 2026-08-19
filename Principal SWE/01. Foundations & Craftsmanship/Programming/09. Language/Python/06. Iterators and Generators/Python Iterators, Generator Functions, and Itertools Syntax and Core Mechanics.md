@@ -1,6 +1,7 @@
 ---
 title: "Python Iterators, Generator Functions, and Itertools Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

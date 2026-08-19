@@ -1,6 +1,7 @@
 ---
 title: "Slice Capacity Pre-Allocation & Reallocation Cost"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

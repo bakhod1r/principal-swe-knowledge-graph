@@ -1,6 +1,7 @@
 ---
 title: "SIMD Parallelism, Avx 512, and Hardware Vectorization Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

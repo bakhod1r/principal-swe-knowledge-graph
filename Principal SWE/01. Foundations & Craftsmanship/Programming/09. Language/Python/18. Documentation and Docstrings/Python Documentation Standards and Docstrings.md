@@ -1,6 +1,7 @@
 ---
 title: Python Documentation Standards and Docstrings
 tags:
+  - review
   - programming
   - python
   - principal-swe

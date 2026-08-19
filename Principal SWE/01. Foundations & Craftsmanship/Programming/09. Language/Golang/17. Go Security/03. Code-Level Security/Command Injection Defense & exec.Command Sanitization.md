@@ -1,6 +1,7 @@
 ---
 title: "Command Injection Defense & exec.Command Sanitization"
 tags:
+  - review
   - golang
   - security
   - principal-swe

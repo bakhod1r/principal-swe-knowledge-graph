@@ -1,6 +1,7 @@
 ---
 title: "Command Query Responsibility Segregation (cqrs) Architecture and Design Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

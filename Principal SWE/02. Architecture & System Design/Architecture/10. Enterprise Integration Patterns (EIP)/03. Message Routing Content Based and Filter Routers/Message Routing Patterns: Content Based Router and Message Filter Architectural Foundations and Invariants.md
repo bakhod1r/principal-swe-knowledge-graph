@@ -1,6 +1,7 @@
 ---
 title: "Message Routing Patterns: Content Based Router and Message Filter Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

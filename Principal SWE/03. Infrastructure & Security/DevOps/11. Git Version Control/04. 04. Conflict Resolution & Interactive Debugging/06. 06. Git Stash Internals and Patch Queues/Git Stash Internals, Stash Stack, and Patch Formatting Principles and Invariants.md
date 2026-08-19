@@ -1,6 +1,7 @@
 ---
 title: "Git Stash Internals, Stash Stack, and Patch Formatting Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

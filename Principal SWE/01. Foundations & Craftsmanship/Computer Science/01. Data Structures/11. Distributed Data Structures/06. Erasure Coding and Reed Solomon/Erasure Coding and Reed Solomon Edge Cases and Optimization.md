@@ -1,6 +1,7 @@
 ---
 title: "Erasure Coding and Reed Solomon Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

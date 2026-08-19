@@ -1,6 +1,7 @@
 ---
 title: "Building Reusable, Modular Terraform Blueprints and Modules Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

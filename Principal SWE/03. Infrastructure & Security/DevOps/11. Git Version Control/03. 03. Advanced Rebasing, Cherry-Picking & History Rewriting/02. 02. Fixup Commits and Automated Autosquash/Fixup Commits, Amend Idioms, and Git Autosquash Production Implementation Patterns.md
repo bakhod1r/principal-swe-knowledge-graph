@@ -1,6 +1,7 @@
 ---
 title: "Fixup Commits, Amend Idioms, and Git Autosquash Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

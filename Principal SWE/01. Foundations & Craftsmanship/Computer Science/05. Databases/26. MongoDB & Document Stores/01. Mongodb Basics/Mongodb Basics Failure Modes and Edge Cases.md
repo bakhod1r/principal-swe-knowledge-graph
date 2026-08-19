@@ -1,6 +1,7 @@
 ---
 title: "Mongodb Basics Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

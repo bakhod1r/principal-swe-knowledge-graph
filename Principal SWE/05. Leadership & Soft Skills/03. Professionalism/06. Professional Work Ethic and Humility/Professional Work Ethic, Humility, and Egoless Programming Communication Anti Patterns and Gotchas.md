@@ -1,6 +1,7 @@
 ---
 title: "Professional Work Ethic, Humility, and Egoless Programming Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

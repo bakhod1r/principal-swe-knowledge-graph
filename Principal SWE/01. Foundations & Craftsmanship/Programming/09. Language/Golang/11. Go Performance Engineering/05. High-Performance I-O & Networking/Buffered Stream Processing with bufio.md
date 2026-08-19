@@ -1,6 +1,7 @@
 ---
 title: "Buffered Stream Processing with bufio"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

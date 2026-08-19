@@ -1,6 +1,7 @@
 ---
 title: "Loop and Polyhedral Compilation Optimizations, Tiling, and Vectorization Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

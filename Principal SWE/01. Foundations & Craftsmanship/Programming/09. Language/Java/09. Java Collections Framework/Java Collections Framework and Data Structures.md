@@ -1,6 +1,7 @@
 ---
 title: Java Collections Framework and Data Structures
 tags:
+  - review
   - programming
   - java
   - principal-swe

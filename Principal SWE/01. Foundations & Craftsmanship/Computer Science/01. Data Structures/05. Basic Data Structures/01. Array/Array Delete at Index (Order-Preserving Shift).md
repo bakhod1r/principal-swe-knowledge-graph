@@ -1,6 +1,7 @@
 ---
 title: "Array Delete at Index (Order-Preserving Shift)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

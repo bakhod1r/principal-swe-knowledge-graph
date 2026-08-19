@@ -1,6 +1,7 @@
 ---
 title: "Consumer Driven Contract Testing for APIs with Pact Framework Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

@@ -1,6 +1,7 @@
 ---
 title: "Conway's Law, Sociotechnical Systems, and Team Topologies Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

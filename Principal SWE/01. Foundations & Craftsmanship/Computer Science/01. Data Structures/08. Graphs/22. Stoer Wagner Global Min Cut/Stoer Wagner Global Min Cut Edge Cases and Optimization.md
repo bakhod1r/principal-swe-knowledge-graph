@@ -1,6 +1,7 @@
 ---
 title: "Stoer Wagner Global Min Cut Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "GOENV Persistent Configuration"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

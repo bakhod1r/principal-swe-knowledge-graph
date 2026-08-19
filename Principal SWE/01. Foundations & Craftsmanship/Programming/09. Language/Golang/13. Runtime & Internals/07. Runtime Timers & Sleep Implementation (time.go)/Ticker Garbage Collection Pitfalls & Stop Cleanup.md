@@ -1,6 +1,7 @@
 ---
 title: "Ticker Garbage Collection Pitfalls & Stop Cleanup"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

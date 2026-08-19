@@ -1,6 +1,7 @@
 ---
 title: "S3 Object Storage Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

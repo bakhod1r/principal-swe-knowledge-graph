@@ -1,6 +1,7 @@
 ---
 title: "Engineering Management - People, Process, and Business Strategy Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

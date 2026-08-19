@@ -1,6 +1,7 @@
 ---
 title: "Pointer Flow Graph & Weight Analysis"
 tags:
+  - review
   - golang
   - memory
   - principal-swe

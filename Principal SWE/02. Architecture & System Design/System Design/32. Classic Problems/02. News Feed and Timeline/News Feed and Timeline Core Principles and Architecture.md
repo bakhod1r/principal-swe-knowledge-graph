@@ -1,6 +1,7 @@
 ---
 title: "News Feed and Timeline Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Monte Carlo Las Vegas Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

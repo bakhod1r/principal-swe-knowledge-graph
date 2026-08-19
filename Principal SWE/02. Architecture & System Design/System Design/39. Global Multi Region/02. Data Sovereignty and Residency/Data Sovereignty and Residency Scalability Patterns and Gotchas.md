@@ -1,6 +1,7 @@
 ---
 title: "Data Sovereignty and Residency Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

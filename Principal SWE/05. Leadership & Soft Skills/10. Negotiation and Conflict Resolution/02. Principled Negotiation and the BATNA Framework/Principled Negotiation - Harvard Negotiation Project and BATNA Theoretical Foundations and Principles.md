@@ -1,6 +1,7 @@
 ---
 title: "Principled Negotiation - Harvard Negotiation Project and BATNA Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

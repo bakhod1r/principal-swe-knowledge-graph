@@ -1,6 +1,7 @@
 ---
 title: "High Throughput Inference Serving: Vllm, Tgi, and Nvidia Tensorrt LLM Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "Core Dumps & Crash Interception (GOTRACEBACK)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

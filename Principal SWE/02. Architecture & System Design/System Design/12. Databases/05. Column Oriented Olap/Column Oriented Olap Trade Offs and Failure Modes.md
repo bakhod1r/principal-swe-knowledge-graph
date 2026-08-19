@@ -1,6 +1,7 @@
 ---
 title: "Column Oriented Olap Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

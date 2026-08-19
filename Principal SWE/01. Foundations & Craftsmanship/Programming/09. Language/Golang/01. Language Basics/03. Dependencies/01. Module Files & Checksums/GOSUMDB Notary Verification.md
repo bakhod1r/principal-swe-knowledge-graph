@@ -1,6 +1,7 @@
 ---
 title: "GOSUMDB Notary Verification"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

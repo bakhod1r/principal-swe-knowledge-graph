@@ -1,6 +1,7 @@
 ---
 title: "Pointer vs Value Semantics"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

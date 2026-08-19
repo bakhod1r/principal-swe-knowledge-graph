@@ -1,6 +1,7 @@
 ---
 title: "Structural Typing & Implicit Satisfaction"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

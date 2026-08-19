@@ -1,6 +1,7 @@
 ---
 title: "Async IO and Event Loops Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Cross Encoder Reranking (cohere Rerank, Bge Reranker) and Contextual Compression
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

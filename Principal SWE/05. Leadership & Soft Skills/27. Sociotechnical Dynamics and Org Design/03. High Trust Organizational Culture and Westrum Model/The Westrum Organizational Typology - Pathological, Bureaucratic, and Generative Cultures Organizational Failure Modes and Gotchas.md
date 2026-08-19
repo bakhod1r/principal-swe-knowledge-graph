@@ -1,6 +1,7 @@
 ---
 title: "The Westrum Organizational Typology - Pathological, Bureaucratic, and Generative Cultures Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

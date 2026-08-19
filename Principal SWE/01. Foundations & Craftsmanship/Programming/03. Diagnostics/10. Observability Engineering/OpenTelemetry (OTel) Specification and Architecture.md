@@ -1,6 +1,7 @@
 ---
 title: "OpenTelemetry (OTel) Specification and Architecture"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

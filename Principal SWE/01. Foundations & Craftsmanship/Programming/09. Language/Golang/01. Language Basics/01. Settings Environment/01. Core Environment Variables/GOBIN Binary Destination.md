@@ -1,6 +1,7 @@
 ---
 title: "GOBIN Binary Destination"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Hexagonal Architecture (ports & Adapters) by Alistair Cockburn Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

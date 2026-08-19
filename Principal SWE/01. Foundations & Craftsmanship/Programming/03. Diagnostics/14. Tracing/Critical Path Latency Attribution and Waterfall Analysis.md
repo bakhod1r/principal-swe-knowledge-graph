@@ -1,6 +1,7 @@
 ---
 title: "Critical Path Latency Attribution and Waterfall Analysis"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

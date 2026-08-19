@@ -1,6 +1,7 @@
 ---
 title: "Anemic Domain Model: Separation of Data and Behavior in Procedural Code Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

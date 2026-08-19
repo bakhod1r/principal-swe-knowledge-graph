@@ -1,6 +1,7 @@
 ---
 title: "Ethical Software Engineering, User Privacy, and Societal Impact Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Containers and Docker Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

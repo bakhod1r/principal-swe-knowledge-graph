@@ -1,6 +1,7 @@
 ---
 title: "Capacity Estimation in Interview Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Anonymous Structs & Inline Definitions"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

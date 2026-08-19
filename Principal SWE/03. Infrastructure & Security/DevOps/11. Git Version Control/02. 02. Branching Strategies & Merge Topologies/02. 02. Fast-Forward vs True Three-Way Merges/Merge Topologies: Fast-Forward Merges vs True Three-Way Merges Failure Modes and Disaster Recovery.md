@@ -1,6 +1,7 @@
 ---
 title: "Merge Topologies: Fast-Forward Merges vs True Three-Way Merges Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

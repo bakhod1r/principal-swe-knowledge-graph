@@ -1,6 +1,7 @@
 ---
 title: "Java Collections Framework and Data Structures Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

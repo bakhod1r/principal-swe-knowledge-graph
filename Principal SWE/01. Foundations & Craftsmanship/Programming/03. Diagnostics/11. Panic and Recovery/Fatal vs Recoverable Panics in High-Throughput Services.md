@@ -1,6 +1,7 @@
 ---
 title: "Fatal vs Recoverable Panics in High-Throughput Services"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

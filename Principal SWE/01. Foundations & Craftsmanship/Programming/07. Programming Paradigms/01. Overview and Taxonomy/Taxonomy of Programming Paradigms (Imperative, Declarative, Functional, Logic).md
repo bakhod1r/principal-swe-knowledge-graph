@@ -1,6 +1,7 @@
 ---
 title: "Taxonomy of Programming Paradigms (Imperative, Declarative, Functional, Logic)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

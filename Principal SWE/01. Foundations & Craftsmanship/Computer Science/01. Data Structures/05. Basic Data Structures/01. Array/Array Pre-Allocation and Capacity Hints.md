@@ -1,6 +1,7 @@
 ---
 title: "Array Pre-Allocation and Capacity Hints"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

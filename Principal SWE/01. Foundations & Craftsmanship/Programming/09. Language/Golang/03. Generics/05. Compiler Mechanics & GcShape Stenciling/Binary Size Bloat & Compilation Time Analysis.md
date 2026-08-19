@@ -1,6 +1,7 @@
 ---
 title: "Binary Size Bloat & Compilation Time Analysis"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Field Incident Management - Live Debugging in Client Environments and SLAs Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

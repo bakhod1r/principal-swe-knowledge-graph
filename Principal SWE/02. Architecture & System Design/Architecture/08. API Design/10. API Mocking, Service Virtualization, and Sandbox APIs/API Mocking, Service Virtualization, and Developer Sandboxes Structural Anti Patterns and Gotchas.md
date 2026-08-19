@@ -1,6 +1,7 @@
 ---
 title: "API Mocking, Service Virtualization, and Developer Sandboxes Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

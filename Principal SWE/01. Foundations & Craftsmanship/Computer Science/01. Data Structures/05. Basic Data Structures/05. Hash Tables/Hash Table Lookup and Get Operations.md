@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Lookup and Get Operations"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

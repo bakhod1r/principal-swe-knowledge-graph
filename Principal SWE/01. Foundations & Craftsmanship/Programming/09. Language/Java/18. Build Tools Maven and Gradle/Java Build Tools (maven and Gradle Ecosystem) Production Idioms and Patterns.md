@@ -1,6 +1,7 @@
 ---
 title: "Java Build Tools (maven and Gradle Ecosystem) Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Aligning Technical Architecture with Business Strategy and Economics Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

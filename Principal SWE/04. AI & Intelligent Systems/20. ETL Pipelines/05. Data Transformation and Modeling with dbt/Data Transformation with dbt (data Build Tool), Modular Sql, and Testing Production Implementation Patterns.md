@@ -1,6 +1,7 @@
 ---
 title: "Data Transformation with dbt (data Build Tool), Modular Sql, and Testing Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

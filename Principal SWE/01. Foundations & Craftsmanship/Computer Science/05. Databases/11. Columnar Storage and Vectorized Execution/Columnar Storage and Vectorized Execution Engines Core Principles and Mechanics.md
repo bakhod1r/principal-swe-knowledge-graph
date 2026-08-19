@@ -1,6 +1,7 @@
 ---
 title: "Columnar Storage and Vectorized Execution Engines Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

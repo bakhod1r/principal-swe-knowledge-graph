@@ -1,6 +1,7 @@
 ---
 title: "Staff Plus Engineering Archetypes - Tech Lead, Architect, Solver, Right Hand Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

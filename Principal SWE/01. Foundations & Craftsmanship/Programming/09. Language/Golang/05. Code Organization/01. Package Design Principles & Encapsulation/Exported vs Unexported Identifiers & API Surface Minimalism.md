@@ -1,6 +1,7 @@
 ---
 title: "Exported vs Unexported Identifiers & API Surface Minimalism"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

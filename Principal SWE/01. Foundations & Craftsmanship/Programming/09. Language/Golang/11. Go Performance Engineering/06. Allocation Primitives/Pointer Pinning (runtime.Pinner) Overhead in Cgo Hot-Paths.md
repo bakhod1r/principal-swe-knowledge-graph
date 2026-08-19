@@ -1,6 +1,7 @@
 ---
 title: "Pointer Pinning (runtime.Pinner) Overhead in Cgo Hot-Paths"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Valid Palindrome Verification with Pointers"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

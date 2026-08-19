@@ -1,6 +1,7 @@
 ---
 title: "Feature Stores Architecture (feast, Hopsworks) and Point in Time Joins Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

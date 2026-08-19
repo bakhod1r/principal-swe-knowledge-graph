@@ -1,6 +1,7 @@
 ---
 title: "Finite Automata (DFA, NFA), Regular Languages, and Kleene's Theorem"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

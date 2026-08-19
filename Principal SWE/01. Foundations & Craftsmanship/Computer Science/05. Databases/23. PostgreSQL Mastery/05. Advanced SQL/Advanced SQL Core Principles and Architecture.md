@@ -1,6 +1,7 @@
 ---
 title: "Advanced SQL Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - postgresql-mastery-and-dba

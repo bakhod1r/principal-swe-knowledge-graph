@@ -7,7 +7,7 @@ tags:
   - customer-architecture
   - enterprise-systems
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🚀 Forward Deployed Engineering (FDE) & Customer Architecture
@@ -47,5 +47,5 @@ Forward Deployed Engineering (FDE) & Customer Architecture
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

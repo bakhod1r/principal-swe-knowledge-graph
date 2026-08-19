@@ -1,6 +1,7 @@
 ---
 title: "GitHub Releases, Semantic Versioning (SemVer), and Auto Changelogs Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

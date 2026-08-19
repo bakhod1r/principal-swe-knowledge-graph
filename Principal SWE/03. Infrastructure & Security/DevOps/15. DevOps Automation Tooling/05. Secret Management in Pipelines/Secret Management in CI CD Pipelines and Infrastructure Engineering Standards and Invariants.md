@@ -1,6 +1,7 @@
 ---
 title: "Secret Management in CI CD Pipelines and Infrastructure Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

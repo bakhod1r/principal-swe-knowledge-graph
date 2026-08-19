@@ -1,6 +1,7 @@
 ---
 title: "Min Cost Max Flow Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

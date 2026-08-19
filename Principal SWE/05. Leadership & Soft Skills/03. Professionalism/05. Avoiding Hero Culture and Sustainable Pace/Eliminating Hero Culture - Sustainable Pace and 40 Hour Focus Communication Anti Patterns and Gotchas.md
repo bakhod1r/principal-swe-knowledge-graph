@@ -1,6 +1,7 @@
 ---
 title: "Eliminating Hero Culture - Sustainable Pace and 40 Hour Focus Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

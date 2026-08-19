@@ -1,6 +1,7 @@
 ---
 title: "Backup Restore and Pitr Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

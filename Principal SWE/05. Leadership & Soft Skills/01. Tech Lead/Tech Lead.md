@@ -7,7 +7,7 @@ tags:
   - team-lead
   - tech-lead-and-engineering-team-leadership
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Tech Lead & Engineering Team Leadership
@@ -51,5 +51,5 @@ Tech Lead & Engineering Team Leadership
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

@@ -1,6 +1,7 @@
 ---
 title: "HashiCorp Vault Dynamic Secret Leasing & Token Renewal"
 tags:
+  - review
   - golang
   - security
   - principal-swe

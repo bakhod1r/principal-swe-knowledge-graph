@@ -1,6 +1,7 @@
 ---
 title: "The Diátaxis Framework - Tutorials, How to Guides, Reference, Explanation Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

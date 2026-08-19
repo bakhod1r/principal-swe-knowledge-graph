@@ -1,6 +1,7 @@
 ---
 title: "Network Security Fundamentals, Firewall Topologies, and Deep Packet Inspection Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

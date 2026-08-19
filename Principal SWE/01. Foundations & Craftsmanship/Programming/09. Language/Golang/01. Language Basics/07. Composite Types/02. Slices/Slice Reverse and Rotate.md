@@ -1,6 +1,7 @@
 ---
 title: "Slice Reverse and Rotate"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

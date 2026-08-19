@@ -1,6 +1,7 @@
 ---
 title: "Python Comprehensions and Memory Optimization Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

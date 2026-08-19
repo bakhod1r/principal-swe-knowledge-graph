@@ -1,6 +1,7 @@
 ---
 title: "Wardley Mapping - Situational Awareness, Value Chains, and Evolution (genesis to Commodity) Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

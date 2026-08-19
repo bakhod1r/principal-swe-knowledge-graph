@@ -1,6 +1,7 @@
 ---
 title: "Linux Security Modules: Selinux Contexts and Apparmor Profiles Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

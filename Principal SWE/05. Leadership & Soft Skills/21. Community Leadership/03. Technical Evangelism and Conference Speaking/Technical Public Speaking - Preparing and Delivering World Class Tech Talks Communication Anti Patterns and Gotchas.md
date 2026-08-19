@@ -1,6 +1,7 @@
 ---
 title: "Technical Public Speaking - Preparing and Delivering World Class Tech Talks Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "SDK Engineering - Ergonomic Multi Language Client Library Architecture Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

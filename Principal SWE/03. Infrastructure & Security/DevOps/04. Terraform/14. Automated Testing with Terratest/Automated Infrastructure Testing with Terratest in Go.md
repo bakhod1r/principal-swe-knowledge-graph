@@ -1,6 +1,7 @@
 ---
 title: Automated Infrastructure Testing with Terratest in Go
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

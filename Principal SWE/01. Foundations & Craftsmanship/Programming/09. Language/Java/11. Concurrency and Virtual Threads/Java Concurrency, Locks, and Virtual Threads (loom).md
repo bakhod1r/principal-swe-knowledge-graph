@@ -1,6 +1,7 @@
 ---
 title: Java Concurrency, Locks, and Virtual Threads (loom)
 tags:
+  - review
   - programming
   - java
   - principal-swe

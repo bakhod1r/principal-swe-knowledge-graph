@@ -1,6 +1,7 @@
 ---
 title: "Async IO and Event Loops Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

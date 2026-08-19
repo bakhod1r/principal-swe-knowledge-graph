@@ -1,6 +1,7 @@
 ---
 title: Programming Paradigms and Idiomatic Python
 tags:
+  - review
   - programming
   - python
   - principal-swe

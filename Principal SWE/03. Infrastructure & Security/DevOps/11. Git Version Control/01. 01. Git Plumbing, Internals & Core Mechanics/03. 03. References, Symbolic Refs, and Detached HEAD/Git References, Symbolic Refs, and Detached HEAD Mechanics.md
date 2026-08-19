@@ -1,6 +1,7 @@
 ---
 title: Git References, Symbolic Refs, and Detached HEAD Mechanics
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

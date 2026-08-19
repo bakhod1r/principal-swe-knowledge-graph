@@ -1,6 +1,7 @@
 ---
 title: "Pointer Chasing vs Value Locality in Large Data Structures"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

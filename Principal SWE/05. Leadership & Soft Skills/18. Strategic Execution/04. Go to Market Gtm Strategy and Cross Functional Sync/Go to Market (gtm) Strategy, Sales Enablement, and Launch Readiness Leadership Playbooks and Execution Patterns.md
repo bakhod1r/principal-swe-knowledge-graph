@@ -1,6 +1,7 @@
 ---
 title: "Go to Market (gtm) Strategy, Sales Enablement, and Launch Readiness Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

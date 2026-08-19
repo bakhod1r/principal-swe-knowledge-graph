@@ -1,6 +1,7 @@
 ---
 title: "The Golden Hammer Anti Pattern, Resume Driven Development, and Trend Chasing Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

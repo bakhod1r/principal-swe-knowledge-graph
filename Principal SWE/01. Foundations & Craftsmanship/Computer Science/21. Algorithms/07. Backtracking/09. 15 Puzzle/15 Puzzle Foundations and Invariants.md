@@ -1,6 +1,7 @@
 ---
 title: "15 Puzzle Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

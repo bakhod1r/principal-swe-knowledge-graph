@@ -1,6 +1,7 @@
 ---
 title: "Rust Concurrency: Threads, Channels, Mutex, and Send Sync Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

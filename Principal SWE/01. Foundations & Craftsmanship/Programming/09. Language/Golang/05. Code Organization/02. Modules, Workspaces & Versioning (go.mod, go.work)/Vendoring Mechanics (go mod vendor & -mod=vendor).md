@@ -1,6 +1,7 @@
 ---
 title: "Vendoring Mechanics (go mod vendor & -mod=vendor)"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Native Code Generation, Instruction Selection, and Tree Rewriting"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

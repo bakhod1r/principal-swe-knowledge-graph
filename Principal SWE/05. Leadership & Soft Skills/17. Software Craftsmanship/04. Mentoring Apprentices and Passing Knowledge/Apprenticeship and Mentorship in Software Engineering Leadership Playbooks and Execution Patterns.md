@@ -1,6 +1,7 @@
 ---
 title: "Apprenticeship and Mentorship in Software Engineering Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Hermetic and Deterministic Build Pipelines (Bazel, Nix)"
 tags:
+  - review
   - programming
   - quality
   - principal-swe

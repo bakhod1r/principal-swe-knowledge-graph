@@ -1,6 +1,7 @@
 ---
 title: "Hardware Atomics, Compare and Swap (CAS), and Lock-Free Primitives Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

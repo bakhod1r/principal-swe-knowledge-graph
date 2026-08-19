@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Resolver Execution Engine and Dataloader (batching & Caching) Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

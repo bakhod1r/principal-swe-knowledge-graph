@@ -1,6 +1,7 @@
 ---
 title: "The Claim Check Pattern: Storing Large Payloads in Blob Storage Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

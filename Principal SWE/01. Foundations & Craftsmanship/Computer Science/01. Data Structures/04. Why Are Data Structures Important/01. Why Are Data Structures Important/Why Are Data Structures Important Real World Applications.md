@@ -1,6 +1,7 @@
 ---
 title: "Why Are Data Structures Important Real World Applications"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

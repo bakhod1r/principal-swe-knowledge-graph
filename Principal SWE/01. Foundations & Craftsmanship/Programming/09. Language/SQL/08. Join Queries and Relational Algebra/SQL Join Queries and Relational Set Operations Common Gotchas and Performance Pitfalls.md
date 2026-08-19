@@ -1,6 +1,7 @@
 ---
 title: "SQL Join Queries and Relational Set Operations Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

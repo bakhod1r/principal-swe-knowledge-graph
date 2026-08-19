@@ -1,6 +1,7 @@
 ---
 title: "Cache-Conscious Data Layout (Struct of Arrays vs Array of Structs)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

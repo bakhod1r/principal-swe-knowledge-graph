@@ -1,6 +1,7 @@
 ---
 title: GitOps, Enterprise CLI & Automation Tooling
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

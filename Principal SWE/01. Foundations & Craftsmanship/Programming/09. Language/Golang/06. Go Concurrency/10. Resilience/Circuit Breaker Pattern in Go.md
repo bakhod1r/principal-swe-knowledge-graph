@@ -1,6 +1,7 @@
 ---
 title: "Circuit Breaker Pattern in Go"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

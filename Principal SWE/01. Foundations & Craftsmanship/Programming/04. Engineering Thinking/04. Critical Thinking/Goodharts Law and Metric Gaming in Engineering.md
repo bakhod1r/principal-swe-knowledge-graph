@@ -1,6 +1,7 @@
 ---
 title: "Goodharts Law and Metric Gaming in Engineering"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

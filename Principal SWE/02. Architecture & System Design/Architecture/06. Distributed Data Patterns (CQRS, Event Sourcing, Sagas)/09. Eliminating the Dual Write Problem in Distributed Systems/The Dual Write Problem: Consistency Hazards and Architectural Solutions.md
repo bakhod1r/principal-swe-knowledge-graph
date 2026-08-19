@@ -1,6 +1,7 @@
 ---
 title: The Dual Write Problem: Consistency Hazards and Architectural Solutions
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

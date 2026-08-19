@@ -1,6 +1,7 @@
 ---
 title: "Reverse Etl and Operational Analytics Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

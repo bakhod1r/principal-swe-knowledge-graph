@@ -1,6 +1,7 @@
 ---
 title: "Boolean Algebra, Karnaugh Maps, and Quine-McCluskey Logic Minimization Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

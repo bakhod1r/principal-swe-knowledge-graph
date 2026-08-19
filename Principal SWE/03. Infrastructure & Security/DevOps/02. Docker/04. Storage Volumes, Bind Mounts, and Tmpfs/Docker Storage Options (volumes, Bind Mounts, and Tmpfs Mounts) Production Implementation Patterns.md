@@ -1,6 +1,7 @@
 ---
 title: "Docker Storage Options (volumes, Bind Mounts, and Tmpfs Mounts) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

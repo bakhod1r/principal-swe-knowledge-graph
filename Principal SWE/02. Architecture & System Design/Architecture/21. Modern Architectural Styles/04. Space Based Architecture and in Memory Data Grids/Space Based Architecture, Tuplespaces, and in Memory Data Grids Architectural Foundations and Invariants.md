@@ -1,6 +1,7 @@
 ---
 title: "Space Based Architecture, Tuplespaces, and in Memory Data Grids Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

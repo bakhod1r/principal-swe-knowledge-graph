@@ -1,6 +1,7 @@
 ---
 title: "Squash Merging, PR Cleanliness, and Commit Atomicity Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

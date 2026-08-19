@@ -1,6 +1,7 @@
 ---
 title: "Practical Applications: Resource Scheduling, Timetabling, and Routing"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

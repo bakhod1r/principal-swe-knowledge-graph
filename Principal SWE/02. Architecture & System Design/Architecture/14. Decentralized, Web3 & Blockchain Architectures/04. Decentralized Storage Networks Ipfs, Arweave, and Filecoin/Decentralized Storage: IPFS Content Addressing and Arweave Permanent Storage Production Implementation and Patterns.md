@@ -1,6 +1,7 @@
 ---
 title: "Decentralized Storage: IPFS Content Addressing and Arweave Permanent Storage Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

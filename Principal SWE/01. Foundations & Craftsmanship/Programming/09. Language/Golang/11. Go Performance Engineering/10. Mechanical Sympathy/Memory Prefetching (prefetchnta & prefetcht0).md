@@ -1,6 +1,7 @@
 ---
 title: "Memory Prefetching (prefetchnta & prefetcht0)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

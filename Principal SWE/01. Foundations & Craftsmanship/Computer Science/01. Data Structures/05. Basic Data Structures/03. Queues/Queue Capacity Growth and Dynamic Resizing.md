@@ -1,6 +1,7 @@
 ---
 title: "Queue Capacity Growth and Dynamic Resizing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

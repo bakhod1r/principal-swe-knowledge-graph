@@ -1,6 +1,7 @@
 ---
 title: "Sociotechnical Systems Design and the Inverse Conway Maneuver Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: "Linux Package Managers, Repositories, and Artifact Storage Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

@@ -1,6 +1,7 @@
 ---
 title: "GPU Hardware Architecture, Streaming Multiprocessors, and Simt Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

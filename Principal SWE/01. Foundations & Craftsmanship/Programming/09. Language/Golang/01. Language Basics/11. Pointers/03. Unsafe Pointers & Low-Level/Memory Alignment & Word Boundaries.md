@@ -1,6 +1,7 @@
 ---
 title: "Memory Alignment & Word Boundaries"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

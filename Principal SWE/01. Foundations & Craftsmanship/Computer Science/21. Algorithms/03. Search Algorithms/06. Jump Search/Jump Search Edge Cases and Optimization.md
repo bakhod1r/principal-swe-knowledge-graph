@@ -1,6 +1,7 @@
 ---
 title: "Jump Search Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Graphics Rendering Pipeline, Rasterization, and Modern Compute Shaders Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

@@ -1,6 +1,7 @@
 ---
 title: "Engineering Hiring Architecture - Structured Interviews and Bar Raisers Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

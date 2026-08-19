@@ -1,6 +1,7 @@
 ---
 title: "Docs As Code - Version Controlled Markdown, Linters, and Static Site Generators Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

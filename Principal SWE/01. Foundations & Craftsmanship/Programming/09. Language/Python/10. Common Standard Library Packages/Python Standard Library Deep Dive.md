@@ -1,6 +1,7 @@
 ---
 title: Python Standard Library Deep Dive
 tags:
+  - review
   - programming
   - python
   - principal-swe

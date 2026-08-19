@@ -1,6 +1,7 @@
 ---
 title: "Per Tenant Scaling and Limits Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

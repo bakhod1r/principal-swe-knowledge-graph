@@ -1,6 +1,7 @@
 ---
 title: "Layered N Tier Architecture (presentation, Business, Data) vs Vertical Slicing Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

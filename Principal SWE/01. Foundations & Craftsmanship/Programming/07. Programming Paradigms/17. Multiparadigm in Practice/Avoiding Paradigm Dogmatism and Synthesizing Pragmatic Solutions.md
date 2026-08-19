@@ -1,6 +1,7 @@
 ---
 title: "Avoiding Paradigm Dogmatism and Synthesizing Pragmatic Solutions"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

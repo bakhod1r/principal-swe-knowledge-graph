@@ -1,6 +1,7 @@
 ---
 title: "Product Analytics - Event Taxonomy, Funnel Conversion, and Retention Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

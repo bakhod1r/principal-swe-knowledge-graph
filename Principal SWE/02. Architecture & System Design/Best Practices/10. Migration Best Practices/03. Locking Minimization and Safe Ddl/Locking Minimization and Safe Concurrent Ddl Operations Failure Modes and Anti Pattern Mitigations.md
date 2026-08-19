@@ -1,6 +1,7 @@
 ---
 title: "Locking Minimization and Safe Concurrent Ddl Operations Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

@@ -1,6 +1,7 @@
 ---
 title: "Compiler Optimization Passes (inlining, Dce, Constant Folding, Gvn) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

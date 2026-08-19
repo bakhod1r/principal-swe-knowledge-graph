@@ -1,6 +1,7 @@
 ---
 title: "Model Extraction, Membership Inference, and Training Data Extraction Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering

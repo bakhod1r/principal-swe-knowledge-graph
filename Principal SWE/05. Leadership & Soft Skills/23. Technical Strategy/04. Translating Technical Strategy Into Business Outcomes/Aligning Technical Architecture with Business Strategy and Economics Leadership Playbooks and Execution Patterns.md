@@ -1,6 +1,7 @@
 ---
 title: "Aligning Technical Architecture with Business Strategy and Economics Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Document and Key Value NoSQL Models Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Channel Capacity, Shannon Hartley Theorem, and Noisy Channel Coding
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

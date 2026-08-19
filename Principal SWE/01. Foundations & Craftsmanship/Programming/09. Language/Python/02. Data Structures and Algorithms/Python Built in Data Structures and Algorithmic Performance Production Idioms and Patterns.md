@@ -1,6 +1,7 @@
 ---
 title: "Python Built in Data Structures and Algorithmic Performance Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

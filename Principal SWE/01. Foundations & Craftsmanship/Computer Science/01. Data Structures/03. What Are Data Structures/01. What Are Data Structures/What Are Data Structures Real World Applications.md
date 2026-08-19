@@ -1,6 +1,7 @@
 ---
 title: "What Are Data Structures Real World Applications"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

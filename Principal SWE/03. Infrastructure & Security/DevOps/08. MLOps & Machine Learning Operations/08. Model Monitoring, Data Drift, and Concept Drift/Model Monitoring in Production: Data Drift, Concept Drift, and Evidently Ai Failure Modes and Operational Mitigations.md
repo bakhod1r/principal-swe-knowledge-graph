@@ -1,6 +1,7 @@
 ---
 title: "Model Monitoring in Production: Data Drift, Concept Drift, and Evidently Ai Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

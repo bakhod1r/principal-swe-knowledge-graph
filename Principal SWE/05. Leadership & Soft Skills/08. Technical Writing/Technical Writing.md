@@ -7,7 +7,7 @@ tags:
   - team-lead
   - technical-writing-and-documentation-systems
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Technical Writing & Documentation Systems
@@ -51,5 +51,5 @@ Technical Writing & Documentation Systems
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

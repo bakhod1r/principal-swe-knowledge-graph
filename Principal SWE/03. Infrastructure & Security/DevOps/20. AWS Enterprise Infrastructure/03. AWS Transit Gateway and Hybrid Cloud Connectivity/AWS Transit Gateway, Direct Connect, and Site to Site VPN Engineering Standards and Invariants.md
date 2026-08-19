@@ -1,6 +1,7 @@
 ---
 title: "AWS Transit Gateway, Direct Connect, and Site to Site VPN Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

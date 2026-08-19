@@ -1,6 +1,7 @@
 ---
 title: "Lossless Data Compression Algorithms (huffman, Lz77, Snappy, Zstandard) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

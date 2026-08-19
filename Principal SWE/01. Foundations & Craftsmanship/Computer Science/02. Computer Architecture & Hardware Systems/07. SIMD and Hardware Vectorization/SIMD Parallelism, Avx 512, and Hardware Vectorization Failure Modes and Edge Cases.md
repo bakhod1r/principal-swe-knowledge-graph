@@ -1,6 +1,7 @@
 ---
 title: "SIMD Parallelism, Avx 512, and Hardware Vectorization Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

@@ -1,6 +1,7 @@
 ---
 title: "Web Application Penetration Testing Methodologies (ptes, OWASP Wstg) Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

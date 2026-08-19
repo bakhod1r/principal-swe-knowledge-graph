@@ -1,6 +1,7 @@
 ---
 title: "go tool objdump (Disassembly)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

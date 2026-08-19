@@ -1,6 +1,7 @@
 ---
 title: "encoding-binary & Varint Protocol Encoding"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

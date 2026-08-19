@@ -1,6 +1,7 @@
 ---
 title: "Entities: Unique Identity, Lifecycles, and Mutable State Invariants Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

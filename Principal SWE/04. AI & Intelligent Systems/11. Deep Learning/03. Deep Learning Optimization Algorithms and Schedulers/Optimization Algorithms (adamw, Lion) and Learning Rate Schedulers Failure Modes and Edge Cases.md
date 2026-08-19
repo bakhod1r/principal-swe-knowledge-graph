@@ -1,6 +1,7 @@
 ---
 title: "Optimization Algorithms (adamw, Lion) and Learning Rate Schedulers Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

@@ -1,6 +1,7 @@
 ---
 title: "Composition Over Inheritance (Design Principles)"
 tags:
+  - review
   - programming
   - oop
   - principal-swe

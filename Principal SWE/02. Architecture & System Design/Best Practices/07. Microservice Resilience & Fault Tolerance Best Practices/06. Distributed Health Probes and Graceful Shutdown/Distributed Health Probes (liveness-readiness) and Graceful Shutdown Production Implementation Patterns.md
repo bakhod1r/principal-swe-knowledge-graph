@@ -1,6 +1,7 @@
 ---
 title: "Distributed Health Probes (liveness-readiness) and Graceful Shutdown Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

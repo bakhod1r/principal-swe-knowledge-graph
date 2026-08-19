@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Separate Chaining (Linked Lists vs RB-Trees)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

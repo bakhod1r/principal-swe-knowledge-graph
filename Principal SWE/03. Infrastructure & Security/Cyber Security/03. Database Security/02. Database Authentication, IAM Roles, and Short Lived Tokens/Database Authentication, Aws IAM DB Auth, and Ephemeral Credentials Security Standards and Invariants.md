@@ -1,6 +1,7 @@
 ---
 title: "Database Authentication, Aws IAM DB Auth, and Ephemeral Credentials Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

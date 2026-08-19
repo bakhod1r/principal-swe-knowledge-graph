@@ -1,6 +1,7 @@
 ---
 title: "GPU Memory Hierarchy, Global Memory, Shared Memory, and Coalesced Access Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

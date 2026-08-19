@@ -1,6 +1,7 @@
 ---
 title: "Circuit Breakers and Failure State Transitions Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

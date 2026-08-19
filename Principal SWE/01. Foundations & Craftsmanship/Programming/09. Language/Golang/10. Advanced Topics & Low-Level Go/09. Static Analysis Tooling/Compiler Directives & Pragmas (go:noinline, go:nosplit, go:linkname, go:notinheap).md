@@ -1,6 +1,7 @@
 ---
 title: "Compiler Directives & Pragmas (go:noinline, go:nosplit, go:linkname, go:notinheap)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

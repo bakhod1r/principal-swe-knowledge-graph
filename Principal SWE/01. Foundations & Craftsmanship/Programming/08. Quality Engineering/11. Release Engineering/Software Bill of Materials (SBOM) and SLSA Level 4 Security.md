@@ -1,6 +1,7 @@
 ---
 title: "Software Bill of Materials (SBOM) and SLSA Level 4 Security"
 tags:
+  - review
   - programming
   - quality
   - principal-swe

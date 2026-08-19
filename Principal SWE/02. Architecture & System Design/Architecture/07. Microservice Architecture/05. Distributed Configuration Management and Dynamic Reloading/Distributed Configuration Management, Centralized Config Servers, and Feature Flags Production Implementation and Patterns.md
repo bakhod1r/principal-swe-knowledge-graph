@@ -1,6 +1,7 @@
 ---
 title: "Distributed Configuration Management, Centralized Config Servers, and Feature Flags Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

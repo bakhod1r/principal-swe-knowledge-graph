@@ -1,6 +1,7 @@
 ---
 title: "Developer Advocacy - Technical Content, Tutorials, and Thought Leadership Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

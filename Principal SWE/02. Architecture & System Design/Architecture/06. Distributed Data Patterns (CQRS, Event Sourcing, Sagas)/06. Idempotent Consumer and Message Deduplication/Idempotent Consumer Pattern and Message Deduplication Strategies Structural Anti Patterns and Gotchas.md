@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Consumer Pattern and Message Deduplication Strategies Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

@@ -1,6 +1,7 @@
 ---
 title: CAP Theorem (Tradeoffs Framework)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Tradeoffs Framework]]"

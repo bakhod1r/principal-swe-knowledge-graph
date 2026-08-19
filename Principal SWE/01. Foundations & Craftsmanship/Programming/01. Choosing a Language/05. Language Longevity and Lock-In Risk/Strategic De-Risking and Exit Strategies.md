@@ -1,6 +1,7 @@
 ---
 title: "Strategic De-Risking and Exit Strategies"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

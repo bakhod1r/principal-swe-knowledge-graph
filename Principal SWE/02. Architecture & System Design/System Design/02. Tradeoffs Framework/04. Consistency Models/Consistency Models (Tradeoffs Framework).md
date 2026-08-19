@@ -1,6 +1,7 @@
 ---
 title: Consistency Models (Tradeoffs Framework)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Tradeoffs Framework]]"

@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Ingress Controllers and Modern Gateway Api Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

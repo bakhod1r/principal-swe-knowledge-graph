@@ -1,6 +1,7 @@
 ---
 title: "Actor Model Architecture (Mailboxes, Message Immutability, Erlang-Akka)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

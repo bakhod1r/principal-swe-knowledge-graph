@@ -1,6 +1,7 @@
 ---
 title: "Authenticated Encryption with Associated Data (aead) Architecture Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

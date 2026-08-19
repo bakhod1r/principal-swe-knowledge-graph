@@ -1,6 +1,7 @@
 ---
 title: "Memory-Mapped Arrays (mmap Zero-Copy File IO)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

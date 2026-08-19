@@ -1,6 +1,7 @@
 ---
 title: "Transactional Pipelines & Savepoints in pgx"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

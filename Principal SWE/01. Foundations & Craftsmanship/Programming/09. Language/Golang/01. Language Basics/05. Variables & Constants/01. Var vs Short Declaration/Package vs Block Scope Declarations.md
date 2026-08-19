@@ -1,6 +1,7 @@
 ---
 title: "Package vs Block Scope Declarations"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

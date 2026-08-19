@@ -1,6 +1,7 @@
 ---
 title: "Segment Tree Beats Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

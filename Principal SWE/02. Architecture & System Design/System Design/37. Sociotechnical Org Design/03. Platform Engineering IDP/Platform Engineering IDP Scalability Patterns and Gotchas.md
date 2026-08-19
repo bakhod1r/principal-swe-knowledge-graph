@@ -1,6 +1,7 @@
 ---
 title: "Platform Engineering IDP Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

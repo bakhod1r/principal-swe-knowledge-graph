@@ -1,6 +1,7 @@
 ---
 title: "Blast Radius and Recovery Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

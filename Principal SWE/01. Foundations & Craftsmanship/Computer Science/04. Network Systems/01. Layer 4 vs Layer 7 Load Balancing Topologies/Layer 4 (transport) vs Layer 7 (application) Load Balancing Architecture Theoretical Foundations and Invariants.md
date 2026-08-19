@@ -1,6 +1,7 @@
 ---
 title: "Layer 4 (transport) vs Layer 7 (application) Load Balancing Architecture Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals

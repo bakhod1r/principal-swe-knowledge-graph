@@ -1,6 +1,7 @@
 ---
 title: "Cardinality and Metrics Cost Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

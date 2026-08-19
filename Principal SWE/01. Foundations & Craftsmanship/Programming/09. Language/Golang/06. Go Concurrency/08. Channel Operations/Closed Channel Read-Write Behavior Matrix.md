@@ -1,6 +1,7 @@
 ---
 title: "Closed Channel Read-Write Behavior Matrix"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

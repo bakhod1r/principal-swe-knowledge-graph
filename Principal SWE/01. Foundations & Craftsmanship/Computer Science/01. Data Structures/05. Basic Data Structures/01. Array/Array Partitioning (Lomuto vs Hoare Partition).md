@@ -1,6 +1,7 @@
 ---
 title: "Array Partitioning (Lomuto vs Hoare Partition)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

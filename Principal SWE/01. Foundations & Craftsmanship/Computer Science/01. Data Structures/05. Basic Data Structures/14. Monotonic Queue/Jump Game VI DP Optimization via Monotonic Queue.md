@@ -1,6 +1,7 @@
 ---
 title: "Jump Game VI DP Optimization via Monotonic Queue"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "Zero Value Mechanics"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

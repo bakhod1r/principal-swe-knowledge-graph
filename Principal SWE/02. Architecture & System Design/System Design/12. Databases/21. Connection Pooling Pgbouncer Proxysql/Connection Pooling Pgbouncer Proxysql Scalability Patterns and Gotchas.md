@@ -1,6 +1,7 @@
 ---
 title: "Connection Pooling Pgbouncer Proxysql Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

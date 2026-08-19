@@ -1,6 +1,7 @@
 ---
 title: "Complexity Classes P vs NP, Verifiers, and the Cook-Levin Theorem"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

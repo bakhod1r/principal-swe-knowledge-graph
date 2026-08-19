@@ -1,6 +1,7 @@
 ---
 title: Advanced Rebasing, Cherry-Picking & History Rewriting
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

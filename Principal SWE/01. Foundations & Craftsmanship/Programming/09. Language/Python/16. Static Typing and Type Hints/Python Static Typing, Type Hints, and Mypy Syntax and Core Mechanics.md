@@ -1,6 +1,7 @@
 ---
 title: "Python Static Typing, Type Hints, and Mypy Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

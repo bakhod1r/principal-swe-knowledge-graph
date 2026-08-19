@@ -1,6 +1,7 @@
 ---
 title: Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

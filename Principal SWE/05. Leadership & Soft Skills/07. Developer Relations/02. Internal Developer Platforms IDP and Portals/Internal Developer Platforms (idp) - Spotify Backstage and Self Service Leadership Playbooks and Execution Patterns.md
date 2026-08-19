@@ -1,6 +1,7 @@
 ---
 title: "Internal Developer Platforms (idp) - Spotify Backstage and Self Service Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

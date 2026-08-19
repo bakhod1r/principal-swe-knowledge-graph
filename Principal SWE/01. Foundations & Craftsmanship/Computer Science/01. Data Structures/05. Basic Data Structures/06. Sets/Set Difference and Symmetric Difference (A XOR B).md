@@ -1,6 +1,7 @@
 ---
 title: "Set Difference and Symmetric Difference (A XOR B)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

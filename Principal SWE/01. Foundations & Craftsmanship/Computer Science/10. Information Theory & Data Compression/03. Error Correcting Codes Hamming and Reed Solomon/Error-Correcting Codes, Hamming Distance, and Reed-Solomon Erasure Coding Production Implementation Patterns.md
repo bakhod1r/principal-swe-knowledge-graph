@@ -1,6 +1,7 @@
 ---
 title: "Error-Correcting Codes, Hamming Distance, and Reed-Solomon Erasure Coding Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

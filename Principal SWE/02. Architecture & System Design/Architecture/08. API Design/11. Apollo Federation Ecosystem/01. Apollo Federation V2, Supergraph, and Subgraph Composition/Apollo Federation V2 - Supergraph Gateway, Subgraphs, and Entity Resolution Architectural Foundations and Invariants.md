@@ -1,6 +1,7 @@
 ---
 title: "Apollo Federation V2 - Supergraph Gateway, Subgraphs, and Entity Resolution Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

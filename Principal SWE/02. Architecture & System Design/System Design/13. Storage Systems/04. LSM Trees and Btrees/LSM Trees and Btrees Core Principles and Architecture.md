@@ -1,6 +1,7 @@
 ---
 title: "LSM Trees and Btrees Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Generic Type Aliases in Modern Go (1.24+)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

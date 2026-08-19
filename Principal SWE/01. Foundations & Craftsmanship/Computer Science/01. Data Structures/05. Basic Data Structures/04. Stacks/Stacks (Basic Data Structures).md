@@ -1,6 +1,7 @@
 ---
 title: Stacks (Basic Data Structures)
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "MLOps Architecture, Maturity Levels, and CI CD for Machine Learning Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

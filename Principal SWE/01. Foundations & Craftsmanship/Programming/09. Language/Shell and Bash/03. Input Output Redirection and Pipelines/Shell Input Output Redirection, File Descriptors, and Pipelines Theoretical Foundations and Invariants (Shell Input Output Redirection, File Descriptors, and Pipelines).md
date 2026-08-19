@@ -1,6 +1,7 @@
 ---
 title: "Shell Input Output Redirection, File Descriptors, and Pipelines Theoretical Foundations and Invariants (Shell Input Output Redirection, File Descriptors, and Pipelines)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

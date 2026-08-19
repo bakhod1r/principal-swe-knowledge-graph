@@ -1,6 +1,7 @@
 ---
 title: "Clean Code Functions"
 tags:
+  - review
   - programming
   - code-craft
   - principal-swe

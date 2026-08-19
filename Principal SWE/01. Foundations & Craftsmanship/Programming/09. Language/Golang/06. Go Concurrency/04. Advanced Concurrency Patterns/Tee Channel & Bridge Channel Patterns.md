@@ -1,6 +1,7 @@
 ---
 title: "Tee Channel & Bridge Channel Patterns"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

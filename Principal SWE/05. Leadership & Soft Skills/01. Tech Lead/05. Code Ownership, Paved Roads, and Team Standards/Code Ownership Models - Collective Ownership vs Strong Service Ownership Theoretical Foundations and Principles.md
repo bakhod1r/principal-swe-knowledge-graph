@@ -1,6 +1,7 @@
 ---
 title: "Code Ownership Models - Collective Ownership vs Strong Service Ownership Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

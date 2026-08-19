@@ -1,6 +1,7 @@
 ---
 title: "Lossless Compression, Huffman Coding, LZ77, and Deflate Algorithms Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

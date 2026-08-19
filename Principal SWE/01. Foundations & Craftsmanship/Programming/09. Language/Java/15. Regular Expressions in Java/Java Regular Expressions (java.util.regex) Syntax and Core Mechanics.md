@@ -1,6 +1,7 @@
 ---
 title: "Java Regular Expressions (java.util.regex) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

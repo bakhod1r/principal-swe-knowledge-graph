@@ -1,6 +1,7 @@
 ---
 title: Structural (Refactoring to Patterns)
 tags:
+  - review
   - programming
   - code-craft
   - principal-swe

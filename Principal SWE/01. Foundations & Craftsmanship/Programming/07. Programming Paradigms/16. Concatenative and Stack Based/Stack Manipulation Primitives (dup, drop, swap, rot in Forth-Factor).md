@@ -1,6 +1,7 @@
 ---
 title: "Stack Manipulation Primitives (dup, drop, swap, rot in Forth-Factor)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

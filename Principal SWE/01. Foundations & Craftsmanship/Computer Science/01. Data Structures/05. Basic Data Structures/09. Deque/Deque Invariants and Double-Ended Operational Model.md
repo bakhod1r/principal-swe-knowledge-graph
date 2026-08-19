@@ -1,6 +1,7 @@
 ---
 title: "Deque Invariants and Double-Ended Operational Model"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

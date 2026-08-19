@@ -1,6 +1,7 @@
 ---
 title: "Span Events, Status Codes & Error Recording"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

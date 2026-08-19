@@ -1,6 +1,7 @@
 ---
 title: "closechan Implementation & Broadcast Signaling"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

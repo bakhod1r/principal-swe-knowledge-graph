@@ -1,6 +1,7 @@
 ---
 title: "Stack Peek and Top Inspection"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

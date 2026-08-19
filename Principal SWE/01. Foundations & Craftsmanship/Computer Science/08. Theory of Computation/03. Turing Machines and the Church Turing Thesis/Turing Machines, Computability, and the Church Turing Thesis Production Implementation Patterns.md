@@ -1,6 +1,7 @@
 ---
 title: "Turing Machines, Computability, and the Church Turing Thesis Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

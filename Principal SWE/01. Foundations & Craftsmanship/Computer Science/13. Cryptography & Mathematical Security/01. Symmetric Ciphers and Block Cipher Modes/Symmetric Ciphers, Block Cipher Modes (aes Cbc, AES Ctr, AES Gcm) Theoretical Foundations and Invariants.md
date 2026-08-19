@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Ciphers, Block Cipher Modes (aes Cbc, AES Ctr, AES Gcm) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

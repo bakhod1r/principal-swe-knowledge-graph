@@ -1,6 +1,7 @@
 ---
 title: "Secure Multi Party Computation (mpc) and Fully Homomorphic Encryption (fhe) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

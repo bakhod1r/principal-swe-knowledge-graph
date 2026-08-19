@@ -1,6 +1,7 @@
 ---
 title: "High-Performance Batch Queries with pgx.Batch"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

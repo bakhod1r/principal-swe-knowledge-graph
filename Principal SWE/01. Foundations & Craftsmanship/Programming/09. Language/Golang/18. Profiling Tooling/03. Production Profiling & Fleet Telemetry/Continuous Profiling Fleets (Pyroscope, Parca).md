@@ -1,6 +1,7 @@
 ---
 title: "Continuous Profiling Fleets (Pyroscope, Parca)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

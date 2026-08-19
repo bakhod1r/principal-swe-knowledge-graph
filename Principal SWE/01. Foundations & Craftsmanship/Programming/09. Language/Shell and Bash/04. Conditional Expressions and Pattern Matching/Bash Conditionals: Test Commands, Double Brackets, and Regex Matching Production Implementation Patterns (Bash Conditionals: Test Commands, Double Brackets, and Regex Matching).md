@@ -1,6 +1,7 @@
 ---
 title: "Bash Conditionals: Test Commands, Double Brackets, and Regex Matching Production Implementation Patterns (Bash Conditionals: Test Commands, Double Brackets, and Regex Matching)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

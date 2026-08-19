@@ -1,6 +1,7 @@
 ---
 title: "Conflict-Free Replicated Data Types (CRDTs), State-Based and Operation-Based Synchronization"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

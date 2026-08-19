@@ -1,6 +1,7 @@
 ---
 title: Object Oriented Typescript: Classes, Visibility, and Abstract Classes
 tags:
+  - review
   - programming
   - languages
   - typescript

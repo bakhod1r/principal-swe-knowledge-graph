@@ -1,6 +1,7 @@
 ---
 title: "Active Object Pattern: Decoupling Method Execution From Invocation Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

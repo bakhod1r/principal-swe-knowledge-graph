@@ -1,6 +1,7 @@
 ---
 title: "Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

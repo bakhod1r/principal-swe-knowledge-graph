@@ -1,6 +1,7 @@
 ---
 title: "SQL Aggregate Queries, Grouping, and Filtering Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

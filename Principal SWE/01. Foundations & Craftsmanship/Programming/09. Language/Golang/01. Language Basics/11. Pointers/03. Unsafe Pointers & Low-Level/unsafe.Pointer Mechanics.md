@@ -1,6 +1,7 @@
 ---
 title: "unsafe.Pointer Mechanics"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

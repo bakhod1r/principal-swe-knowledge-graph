@@ -1,6 +1,7 @@
 ---
 title: "Writing High Impact Technical Whitepapers and Architecture Deep Dives Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

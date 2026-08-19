@@ -1,6 +1,7 @@
 ---
 title: "SQL vs NoSQL Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Rate Limiting for Abuse Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

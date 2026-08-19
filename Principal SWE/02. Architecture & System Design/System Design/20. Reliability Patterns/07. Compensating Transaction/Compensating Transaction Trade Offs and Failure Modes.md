@@ -1,6 +1,7 @@
 ---
 title: "Compensating Transaction Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

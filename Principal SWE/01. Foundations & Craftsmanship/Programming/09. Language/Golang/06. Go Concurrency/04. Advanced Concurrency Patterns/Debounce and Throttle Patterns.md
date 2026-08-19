@@ -1,6 +1,7 @@
 ---
 title: "Debounce and Throttle Patterns"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

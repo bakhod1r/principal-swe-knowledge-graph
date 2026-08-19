@@ -1,6 +1,7 @@
 ---
 title: "itab Virtual Method Table & Function Offsets"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

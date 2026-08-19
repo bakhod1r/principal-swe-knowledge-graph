@@ -1,6 +1,7 @@
 ---
 title: "Deque Push Front and Push Back"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

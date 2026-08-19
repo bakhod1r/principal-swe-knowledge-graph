@@ -1,6 +1,7 @@
 ---
 title: "Gitops Continuous Delivery with Argocd, Flux, and Declarative Sync Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

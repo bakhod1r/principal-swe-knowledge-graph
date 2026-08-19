@@ -1,6 +1,7 @@
 ---
 title: "1D Prefix Sums Range Query (O(1) Interval Sums)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

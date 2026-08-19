@@ -1,6 +1,7 @@
 ---
 title: "Kolmogorov Complexity, Algorithmic Probability, and Incompressibility Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

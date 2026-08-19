@@ -1,6 +1,7 @@
 ---
 title: "Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

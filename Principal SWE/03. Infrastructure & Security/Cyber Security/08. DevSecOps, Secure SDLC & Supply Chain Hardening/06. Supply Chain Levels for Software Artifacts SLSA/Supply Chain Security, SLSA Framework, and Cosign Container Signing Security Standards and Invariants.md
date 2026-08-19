@@ -1,6 +1,7 @@
 ---
 title: "Supply Chain Security, SLSA Framework, and Cosign Container Signing Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening

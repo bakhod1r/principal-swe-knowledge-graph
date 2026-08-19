@@ -1,6 +1,7 @@
 ---
 title: "Extended Euclidean Modular Inverse Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

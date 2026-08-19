@@ -1,6 +1,7 @@
 ---
 title: "Pitfalls of AOP: Hidden Control Flow and Debugging Friction"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

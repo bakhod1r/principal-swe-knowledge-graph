@@ -1,6 +1,7 @@
 ---
 title: "Developer Tooling, IDEs, and Language Server Protocol (LSP)"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

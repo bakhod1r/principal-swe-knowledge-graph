@@ -1,6 +1,7 @@
 ---
 title: "Large Object Allocation Path (>32KB)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

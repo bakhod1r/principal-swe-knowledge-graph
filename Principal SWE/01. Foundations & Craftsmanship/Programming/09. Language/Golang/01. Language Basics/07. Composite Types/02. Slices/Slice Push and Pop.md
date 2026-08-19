@@ -1,6 +1,7 @@
 ---
 title: "Slice Push and Pop"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

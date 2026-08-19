@@ -1,6 +1,7 @@
 ---
 title: "Deque Array-of-Chunks Implementation (std::deque Map of Blocks)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

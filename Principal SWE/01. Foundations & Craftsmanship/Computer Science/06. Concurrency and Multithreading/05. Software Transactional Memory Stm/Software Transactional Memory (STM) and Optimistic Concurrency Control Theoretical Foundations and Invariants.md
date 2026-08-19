@@ -1,6 +1,7 @@
 ---
 title: "Software Transactional Memory (STM) and Optimistic Concurrency Control Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

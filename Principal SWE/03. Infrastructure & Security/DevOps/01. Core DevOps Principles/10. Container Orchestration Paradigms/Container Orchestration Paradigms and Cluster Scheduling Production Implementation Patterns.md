@@ -1,6 +1,7 @@
 ---
 title: "Container Orchestration Paradigms and Cluster Scheduling Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

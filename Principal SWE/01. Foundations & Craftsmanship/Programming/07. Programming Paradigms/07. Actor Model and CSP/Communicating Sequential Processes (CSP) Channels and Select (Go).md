@@ -1,6 +1,7 @@
 ---
 title: "Communicating Sequential Processes (CSP) Channels and Select (Go)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

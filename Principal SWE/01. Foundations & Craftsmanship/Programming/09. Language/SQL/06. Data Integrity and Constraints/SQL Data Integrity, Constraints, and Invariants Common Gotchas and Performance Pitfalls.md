@@ -1,6 +1,7 @@
 ---
 title: "SQL Data Integrity, Constraints, and Invariants Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

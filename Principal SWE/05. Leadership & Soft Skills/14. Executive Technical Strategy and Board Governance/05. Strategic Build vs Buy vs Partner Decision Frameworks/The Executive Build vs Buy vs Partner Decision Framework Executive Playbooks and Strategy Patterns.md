@@ -1,6 +1,7 @@
 ---
 title: "The Executive Build vs Buy vs Partner Decision Framework Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: Learn the Basics in Python
 tags:
+  - review
   - programming
   - python
   - principal-swe

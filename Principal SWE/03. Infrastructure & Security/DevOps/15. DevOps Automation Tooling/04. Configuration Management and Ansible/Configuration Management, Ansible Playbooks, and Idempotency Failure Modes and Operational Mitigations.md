@@ -1,6 +1,7 @@
 ---
 title: "Configuration Management, Ansible Playbooks, and Idempotency Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

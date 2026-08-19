@@ -1,6 +1,7 @@
 ---
 title: "Writing Executive 6 Page Narrative Memos and 1 Page Press Releases (pr Faq) Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: "makechan, chansend, and chanrecv Implementation (chan.go)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

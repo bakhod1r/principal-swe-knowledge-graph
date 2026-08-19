@@ -1,6 +1,7 @@
 ---
 title: "Pragmatic Application of Dry, Kiss, and YAGNI Principles Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

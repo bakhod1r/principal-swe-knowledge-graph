@@ -1,6 +1,7 @@
 ---
 title: "DNS Resolution Flow Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

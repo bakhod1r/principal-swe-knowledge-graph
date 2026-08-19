@@ -1,6 +1,7 @@
 ---
 title: "Rust Language Basics, Scalar Types, and Pattern Matching Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

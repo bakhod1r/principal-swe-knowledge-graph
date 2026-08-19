@@ -1,6 +1,7 @@
 ---
 title: "Data Manipulation Language (dml) and Data Modification Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Container Lifecycle Automation, Pruning, and Garbage Collection Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

@@ -1,6 +1,7 @@
 ---
 title: Supervised Learning Algorithms (linear Logistic Regression, Trees, Ensemble)
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

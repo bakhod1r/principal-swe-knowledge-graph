@@ -1,6 +1,7 @@
 ---
 title: "Intermediate Representations (ir) and Static Single Assignment (ssa) Form Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

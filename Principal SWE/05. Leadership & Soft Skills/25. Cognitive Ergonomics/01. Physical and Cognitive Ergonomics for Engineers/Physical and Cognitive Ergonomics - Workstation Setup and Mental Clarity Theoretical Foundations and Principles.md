@@ -1,6 +1,7 @@
 ---
 title: "Physical and Cognitive Ergonomics - Workstation Setup and Mental Clarity Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -6,7 +6,7 @@ tags:
   - paradigms
   - languages
   - principal-swe
-parent: "[[Principal SWE]]"
+parent: "[[Foundations & Craftsmanship]]"
 ---
 
 # 🛠️ Programming & Software Engineering Excellence
@@ -143,9 +143,24 @@ Programming
 ---
 
 ## 🔗 Navigation
-- ⬆️ Parent: [[Principal SWE]]
+- ⬆️ Parent: `Principal SWE`
 - 💻 Computer Science: `Computer Science`
 - 🏛️ Software Architecture: `Architecture`
 - 🏛️ System Design: `System Design`
 - 🎯 Best Practices: `Best Practices`
 
+---
+
+## 🗂️ Contents
+
+- [[Choosing a Language]]
+- [[Code Craft]]
+- [[Diagnostics]]
+- [[Engineering Thinking]]
+- [[Golang]]
+- [[Language Internals]]
+- [[Language]]
+- [[Object-Oriented Programming]]
+- [[Polyglot]]
+- [[Programming Paradigms]]
+- [[Quality Engineering]]

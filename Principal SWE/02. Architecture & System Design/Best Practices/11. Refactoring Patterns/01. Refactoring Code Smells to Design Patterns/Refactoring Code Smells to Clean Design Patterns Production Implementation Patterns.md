@@ -1,6 +1,7 @@
 ---
 title: "Refactoring Code Smells to Clean Design Patterns Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

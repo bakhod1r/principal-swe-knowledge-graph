@@ -1,6 +1,7 @@
 ---
 title: "Linux Host Hardening, Cis Benchmarks, and Kernel Protection Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

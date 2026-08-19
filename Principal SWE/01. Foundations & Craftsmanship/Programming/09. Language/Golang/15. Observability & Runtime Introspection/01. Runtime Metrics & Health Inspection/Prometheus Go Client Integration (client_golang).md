@@ -1,6 +1,7 @@
 ---
 title: "Prometheus Go Client Integration (client_golang)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

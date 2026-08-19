@@ -1,6 +1,7 @@
 ---
 title: "Remote and Hybrid Team Leadership - Asynchronous Culture and Tooling Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

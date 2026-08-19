@@ -1,6 +1,7 @@
 ---
 title: "Shift Left Security Culture and Devsecops Engineering Standards Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

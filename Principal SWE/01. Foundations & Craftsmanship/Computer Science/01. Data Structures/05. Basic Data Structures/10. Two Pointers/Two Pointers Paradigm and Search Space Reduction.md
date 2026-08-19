@@ -1,6 +1,7 @@
 ---
 title: "Two Pointers Paradigm and Search Space Reduction"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

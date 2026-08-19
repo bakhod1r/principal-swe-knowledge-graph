@@ -1,6 +1,7 @@
 ---
 title: "Distributed Consensus & Raft in Go (etcd-raft & hashicorp-raft)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

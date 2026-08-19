@@ -1,6 +1,7 @@
 ---
 title: "High-Cardinality Metric Explosion Mitigation"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

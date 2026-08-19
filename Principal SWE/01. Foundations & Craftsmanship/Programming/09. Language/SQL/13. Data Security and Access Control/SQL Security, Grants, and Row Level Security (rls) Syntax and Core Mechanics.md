@@ -1,6 +1,7 @@
 ---
 title: "SQL Security, Grants, and Row Level Security (rls) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Managing Redis in Production Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

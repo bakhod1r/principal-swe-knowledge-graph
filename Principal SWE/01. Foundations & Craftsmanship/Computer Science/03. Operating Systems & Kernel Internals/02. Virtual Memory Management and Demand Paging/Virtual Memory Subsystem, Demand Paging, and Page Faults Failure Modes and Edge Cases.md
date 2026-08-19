@@ -1,6 +1,7 @@
 ---
 title: "Virtual Memory Subsystem, Demand Paging, and Page Faults Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

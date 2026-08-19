@@ -1,6 +1,7 @@
 ---
 title: "SDK Engineering - Ergonomic Multi Language Client Library Architecture Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

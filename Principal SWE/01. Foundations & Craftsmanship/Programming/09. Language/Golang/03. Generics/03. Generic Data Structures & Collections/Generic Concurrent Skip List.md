@@ -1,6 +1,7 @@
 ---
 title: "Generic Concurrent Skip List"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

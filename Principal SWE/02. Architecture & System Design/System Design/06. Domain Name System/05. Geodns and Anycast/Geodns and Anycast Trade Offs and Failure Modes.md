@@ -1,6 +1,7 @@
 ---
 title: "Geodns and Anycast Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

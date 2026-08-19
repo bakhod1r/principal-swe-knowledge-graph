@@ -1,6 +1,7 @@
 ---
 title: "Data Transfer and Egress Costs Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

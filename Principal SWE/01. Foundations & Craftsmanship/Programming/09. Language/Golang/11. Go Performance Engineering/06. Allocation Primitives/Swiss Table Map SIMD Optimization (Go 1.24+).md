@@ -1,6 +1,7 @@
 ---
 title: "Swiss Table Map SIMD Optimization (Go 1.24+)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

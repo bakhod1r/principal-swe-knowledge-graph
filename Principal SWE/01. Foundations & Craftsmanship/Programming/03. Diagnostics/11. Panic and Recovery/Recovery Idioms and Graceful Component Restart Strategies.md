@@ -1,6 +1,7 @@
 ---
 title: "Recovery Idioms and Graceful Component Restart Strategies"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Google Drive File Sync Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

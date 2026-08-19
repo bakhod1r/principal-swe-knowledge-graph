@@ -1,6 +1,7 @@
 ---
 title: "Experimentation Design, Statistical a B Testing, and Variance Reduction Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics

@@ -1,6 +1,7 @@
 ---
 title: "Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

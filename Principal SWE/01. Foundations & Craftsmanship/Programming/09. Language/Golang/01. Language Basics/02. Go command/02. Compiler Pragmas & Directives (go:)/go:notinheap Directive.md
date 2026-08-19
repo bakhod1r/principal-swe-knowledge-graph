@@ -1,6 +1,7 @@
 ---
 title: "go:notinheap Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

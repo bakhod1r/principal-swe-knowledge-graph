@@ -1,6 +1,7 @@
 ---
 title: "No Generic Methods on Non-Generic Types Trap"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

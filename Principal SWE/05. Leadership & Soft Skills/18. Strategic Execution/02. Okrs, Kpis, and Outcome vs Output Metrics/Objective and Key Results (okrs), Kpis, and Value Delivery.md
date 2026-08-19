@@ -1,6 +1,7 @@
 ---
 title: Objective and Key Results (okrs), Kpis, and Value Delivery
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

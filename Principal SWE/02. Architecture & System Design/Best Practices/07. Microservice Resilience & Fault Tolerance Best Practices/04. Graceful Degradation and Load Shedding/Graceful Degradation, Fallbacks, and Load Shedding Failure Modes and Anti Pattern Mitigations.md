@@ -1,6 +1,7 @@
 ---
 title: "Graceful Degradation, Fallbacks, and Load Shedding Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

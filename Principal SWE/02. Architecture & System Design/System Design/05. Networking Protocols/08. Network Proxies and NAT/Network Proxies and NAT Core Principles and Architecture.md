@@ -1,6 +1,7 @@
 ---
 title: "Network Proxies and NAT Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

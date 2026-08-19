@@ -1,6 +1,7 @@
 ---
 title: "Linker Flags (-ldflags) Stripping & Metadata Injection"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Kirchhoff Theorem Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

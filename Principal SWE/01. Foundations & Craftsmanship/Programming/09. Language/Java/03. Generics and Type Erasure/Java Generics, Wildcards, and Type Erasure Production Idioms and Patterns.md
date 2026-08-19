@@ -1,6 +1,7 @@
 ---
 title: "Java Generics, Wildcards, and Type Erasure Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

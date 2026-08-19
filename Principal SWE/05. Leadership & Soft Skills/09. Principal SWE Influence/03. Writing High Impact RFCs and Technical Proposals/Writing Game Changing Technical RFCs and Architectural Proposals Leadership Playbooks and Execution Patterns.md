@@ -1,6 +1,7 @@
 ---
 title: "Writing Game Changing Technical RFCs and Architectural Proposals Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

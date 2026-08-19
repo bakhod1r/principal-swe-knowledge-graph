@@ -1,6 +1,7 @@
 ---
 title: "Developer Tools Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

@@ -1,6 +1,7 @@
 ---
 title: "Subword Tokenization Algorithms (byte Pair Encoding, Wordpiece, Tiktoken) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

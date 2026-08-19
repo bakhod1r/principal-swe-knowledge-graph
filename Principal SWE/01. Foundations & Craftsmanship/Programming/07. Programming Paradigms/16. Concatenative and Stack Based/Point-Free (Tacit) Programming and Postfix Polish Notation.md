@@ -1,6 +1,7 @@
 ---
 title: "Point-Free (Tacit) Programming and Postfix Polish Notation"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

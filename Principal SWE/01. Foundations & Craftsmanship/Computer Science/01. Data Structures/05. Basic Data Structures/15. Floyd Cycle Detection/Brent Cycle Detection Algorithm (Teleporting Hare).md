@@ -1,6 +1,7 @@
 ---
 title: "Brent Cycle Detection Algorithm (Teleporting Hare)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

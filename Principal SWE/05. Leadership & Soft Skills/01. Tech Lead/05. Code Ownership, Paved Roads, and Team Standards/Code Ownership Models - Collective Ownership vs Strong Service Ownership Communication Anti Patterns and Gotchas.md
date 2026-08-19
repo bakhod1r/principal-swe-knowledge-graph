@@ -1,6 +1,7 @@
 ---
 title: "Code Ownership Models - Collective Ownership vs Strong Service Ownership Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

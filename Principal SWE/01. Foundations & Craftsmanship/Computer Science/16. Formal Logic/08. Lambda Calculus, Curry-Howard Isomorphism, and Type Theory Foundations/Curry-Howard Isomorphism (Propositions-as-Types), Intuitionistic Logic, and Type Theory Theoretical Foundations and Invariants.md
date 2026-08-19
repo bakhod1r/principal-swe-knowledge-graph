@@ -1,6 +1,7 @@
 ---
 title: "Curry-Howard Isomorphism (Propositions-as-Types), Intuitionistic Logic, and Type Theory Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

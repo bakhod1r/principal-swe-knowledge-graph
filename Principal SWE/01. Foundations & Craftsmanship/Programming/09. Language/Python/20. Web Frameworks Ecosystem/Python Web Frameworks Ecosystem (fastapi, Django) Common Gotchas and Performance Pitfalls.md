@@ -1,6 +1,7 @@
 ---
 title: "Python Web Frameworks Ecosystem (fastapi, Django) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

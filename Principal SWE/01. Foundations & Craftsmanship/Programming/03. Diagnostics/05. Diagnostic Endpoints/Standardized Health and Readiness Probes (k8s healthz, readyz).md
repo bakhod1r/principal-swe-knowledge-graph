@@ -1,6 +1,7 @@
 ---
 title: "Standardized Health and Readiness Probes (k8s healthz, readyz)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

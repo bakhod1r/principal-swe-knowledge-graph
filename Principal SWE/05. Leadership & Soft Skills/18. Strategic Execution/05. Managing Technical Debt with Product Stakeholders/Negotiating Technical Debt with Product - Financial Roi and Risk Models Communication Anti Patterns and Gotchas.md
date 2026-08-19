@@ -1,6 +1,7 @@
 ---
 title: "Negotiating Technical Debt with Product - Financial Roi and Risk Models Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

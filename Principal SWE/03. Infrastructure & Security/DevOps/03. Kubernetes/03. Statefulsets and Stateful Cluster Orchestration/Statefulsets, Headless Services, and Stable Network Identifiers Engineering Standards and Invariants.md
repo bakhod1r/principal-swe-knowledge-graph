@@ -1,6 +1,7 @@
 ---
 title: "Statefulsets, Headless Services, and Stable Network Identifiers Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

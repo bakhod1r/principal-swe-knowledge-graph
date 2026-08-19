@@ -1,6 +1,7 @@
 ---
 title: "IEEE-754 Precision & NaN Semantics"
 tags:
+  - review
   - golang
   - types
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Document Ingestion, Parsing, and Chunking Strategies Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

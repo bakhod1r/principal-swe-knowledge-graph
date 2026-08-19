@@ -1,6 +1,7 @@
 ---
 title: "Amazon VPC Architecture, Subnets, Route Tables, and Internet Gateways Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

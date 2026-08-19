@@ -1,6 +1,7 @@
 ---
 title: "Linux Process Lifecycle, Priority (nice), and Signal Handling Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

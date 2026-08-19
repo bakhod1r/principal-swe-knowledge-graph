@@ -1,6 +1,7 @@
 ---
 title: "Stack LIFO Invariants and Call Frame Models"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

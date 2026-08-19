@@ -1,6 +1,7 @@
 ---
 title: "Chaos Testing - Automating Failure Injection with Chaos Mesh Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

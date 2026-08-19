@@ -1,6 +1,7 @@
 ---
 title: "go.sum Checksum Verification"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

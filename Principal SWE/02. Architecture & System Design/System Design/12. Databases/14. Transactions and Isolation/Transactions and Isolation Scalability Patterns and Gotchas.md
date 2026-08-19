@@ -1,6 +1,7 @@
 ---
 title: "Transactions and Isolation Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

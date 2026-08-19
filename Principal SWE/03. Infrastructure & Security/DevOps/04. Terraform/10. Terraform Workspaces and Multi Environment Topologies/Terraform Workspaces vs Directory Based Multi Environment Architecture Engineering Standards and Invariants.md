@@ -1,6 +1,7 @@
 ---
 title: "Terraform Workspaces vs Directory Based Multi Environment Architecture Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

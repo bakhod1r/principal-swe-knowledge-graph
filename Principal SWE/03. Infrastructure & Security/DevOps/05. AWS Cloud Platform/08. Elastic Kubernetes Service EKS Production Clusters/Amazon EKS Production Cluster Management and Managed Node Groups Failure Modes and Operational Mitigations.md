@@ -1,6 +1,7 @@
 ---
 title: "Amazon EKS Production Cluster Management and Managed Node Groups Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

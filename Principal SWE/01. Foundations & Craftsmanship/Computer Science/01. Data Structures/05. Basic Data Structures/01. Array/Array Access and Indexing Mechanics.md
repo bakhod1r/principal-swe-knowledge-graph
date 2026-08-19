@@ -1,6 +1,7 @@
 ---
 title: "Array Access and Indexing Mechanics"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

@@ -1,6 +1,7 @@
 ---
 title: Statefulsets, Headless Services, and Stable Network Identifiers
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

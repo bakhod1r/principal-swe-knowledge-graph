@@ -1,6 +1,7 @@
 ---
 title: "Key Characteristics Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

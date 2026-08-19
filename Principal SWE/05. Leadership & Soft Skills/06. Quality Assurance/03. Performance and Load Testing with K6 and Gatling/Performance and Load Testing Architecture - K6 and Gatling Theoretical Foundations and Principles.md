@@ -1,6 +1,7 @@
 ---
 title: "Performance and Load Testing Architecture - K6 and Gatling Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

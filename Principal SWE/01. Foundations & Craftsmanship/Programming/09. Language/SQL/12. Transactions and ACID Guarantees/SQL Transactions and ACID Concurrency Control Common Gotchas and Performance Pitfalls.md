@@ -1,6 +1,7 @@
 ---
 title: "SQL Transactions and ACID Concurrency Control Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

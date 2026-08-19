@@ -1,6 +1,7 @@
 ---
 title: "Immutable Server Infrastructure, Golden Images (packer), and Auto Patching Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

@@ -1,6 +1,7 @@
 ---
 title: "cmp Package Deep Dive"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Stack Shrinking Mechanics & GC Stack Scavenging"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

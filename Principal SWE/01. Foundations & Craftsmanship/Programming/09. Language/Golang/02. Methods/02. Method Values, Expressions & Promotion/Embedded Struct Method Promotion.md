@@ -1,6 +1,7 @@
 ---
 title: "Embedded Struct Method Promotion"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

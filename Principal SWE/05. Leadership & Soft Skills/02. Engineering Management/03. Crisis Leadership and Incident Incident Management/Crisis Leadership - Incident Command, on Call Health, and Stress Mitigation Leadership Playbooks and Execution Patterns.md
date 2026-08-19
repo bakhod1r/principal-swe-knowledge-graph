@@ -1,6 +1,7 @@
 ---
 title: "Crisis Leadership - Incident Command, on Call Health, and Stress Mitigation Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

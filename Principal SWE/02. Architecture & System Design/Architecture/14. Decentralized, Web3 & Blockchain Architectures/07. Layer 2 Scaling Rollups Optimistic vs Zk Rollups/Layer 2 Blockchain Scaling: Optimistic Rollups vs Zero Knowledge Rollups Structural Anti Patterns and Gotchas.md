@@ -1,6 +1,7 @@
 ---
 title: "Layer 2 Blockchain Scaling: Optimistic Rollups vs Zero Knowledge Rollups Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

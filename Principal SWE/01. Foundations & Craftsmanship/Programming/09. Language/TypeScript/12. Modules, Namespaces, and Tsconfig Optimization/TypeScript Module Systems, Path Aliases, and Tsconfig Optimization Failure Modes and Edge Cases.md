@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Module Systems, Path Aliases, and Tsconfig Optimization Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Robin Hood Hashing (PSL Equalization)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

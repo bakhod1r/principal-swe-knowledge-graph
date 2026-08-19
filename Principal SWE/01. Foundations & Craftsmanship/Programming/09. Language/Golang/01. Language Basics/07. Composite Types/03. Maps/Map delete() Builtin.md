@@ -1,6 +1,7 @@
 ---
 title: "Map delete() Builtin"
 tags:
+  - review
   - golang
   - maps
   - principal-swe

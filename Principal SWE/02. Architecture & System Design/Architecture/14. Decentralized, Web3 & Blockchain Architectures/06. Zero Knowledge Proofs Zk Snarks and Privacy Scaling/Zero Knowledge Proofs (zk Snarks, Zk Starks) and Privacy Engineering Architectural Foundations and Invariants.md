@@ -1,6 +1,7 @@
 ---
 title: "Zero Knowledge Proofs (zk Snarks, Zk Starks) and Privacy Engineering Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

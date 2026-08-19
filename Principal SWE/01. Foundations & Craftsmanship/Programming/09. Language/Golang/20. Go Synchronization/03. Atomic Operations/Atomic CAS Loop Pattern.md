@@ -1,6 +1,7 @@
 ---
 title: "Atomic CAS Loop Pattern"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

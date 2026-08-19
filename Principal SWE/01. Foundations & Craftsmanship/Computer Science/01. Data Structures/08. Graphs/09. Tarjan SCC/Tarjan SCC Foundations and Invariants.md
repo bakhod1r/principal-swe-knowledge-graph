@@ -1,6 +1,7 @@
 ---
 title: "Tarjan SCC Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

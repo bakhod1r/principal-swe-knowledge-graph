@@ -7,7 +7,7 @@ tags:
   - team-lead
   - professionalism-and-software-craftsmanship
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Professionalism & Software Craftsmanship
@@ -49,5 +49,5 @@ Professionalism & Software Craftsmanship
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

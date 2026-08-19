@@ -1,6 +1,7 @@
 ---
 title: "Auto-Referencing and Auto-Dereferencing"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

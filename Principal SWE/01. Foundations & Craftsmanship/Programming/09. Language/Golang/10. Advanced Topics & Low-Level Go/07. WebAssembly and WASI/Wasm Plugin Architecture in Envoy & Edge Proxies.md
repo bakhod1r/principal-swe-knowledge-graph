@@ -1,6 +1,7 @@
 ---
 title: "Wasm Plugin Architecture in Envoy & Edge Proxies"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

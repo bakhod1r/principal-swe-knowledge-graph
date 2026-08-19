@@ -1,6 +1,7 @@
 ---
 title: "GPU Cluster Orchestration, Nvidia GPU Operator, and Mig in Kubernetes Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

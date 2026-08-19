@@ -1,6 +1,7 @@
 ---
 title: "Hierarchical Domain Error Architecture (Sentinel vs Typed Errors)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

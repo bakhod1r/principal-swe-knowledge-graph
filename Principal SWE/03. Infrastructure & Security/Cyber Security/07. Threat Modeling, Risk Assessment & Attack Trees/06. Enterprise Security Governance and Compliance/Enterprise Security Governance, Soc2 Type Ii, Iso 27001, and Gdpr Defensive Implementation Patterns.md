@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Security Governance, Soc2 Type Ii, Iso 27001, and Gdpr Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees

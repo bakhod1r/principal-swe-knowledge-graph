@@ -1,6 +1,7 @@
 ---
 title: "Compiler Optimization Passes, Constant Folding, and Dead Code Elimination"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

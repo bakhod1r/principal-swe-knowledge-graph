@@ -1,6 +1,7 @@
 ---
 title: "Marty Cagan's 4 Big Product Risks - Value, Usability, Feasibility, Viability Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Persistent Volumes (pv), Pvcs, Storageclasses, and CSI Drivers Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

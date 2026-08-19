@@ -1,6 +1,7 @@
 ---
 title: "Actor Model vs Communicating Sequential Processes (csp) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

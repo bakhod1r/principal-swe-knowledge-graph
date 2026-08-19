@@ -1,6 +1,7 @@
 ---
 title: "Bash Variables, Environment Variables, and Parameter Expansions Theoretical Foundations and Invariants (Bash Variables, Environment Variables, and Parameter Expansions)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

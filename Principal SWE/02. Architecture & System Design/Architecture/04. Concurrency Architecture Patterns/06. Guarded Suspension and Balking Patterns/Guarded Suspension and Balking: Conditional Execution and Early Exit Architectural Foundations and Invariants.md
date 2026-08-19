@@ -1,6 +1,7 @@
 ---
 title: "Guarded Suspension and Balking: Conditional Execution and Early Exit Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

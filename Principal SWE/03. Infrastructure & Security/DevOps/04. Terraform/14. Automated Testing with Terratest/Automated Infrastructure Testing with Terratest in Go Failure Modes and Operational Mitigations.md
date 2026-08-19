@@ -1,6 +1,7 @@
 ---
 title: "Automated Infrastructure Testing with Terratest in Go Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

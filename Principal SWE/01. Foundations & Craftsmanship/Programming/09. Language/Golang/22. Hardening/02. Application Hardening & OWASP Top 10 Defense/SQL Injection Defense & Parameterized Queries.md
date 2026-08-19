@@ -1,6 +1,7 @@
 ---
 title: "SQL Injection Defense & Parameterized Queries"
 tags:
+  - review
   - golang
   - security
   - principal-swe

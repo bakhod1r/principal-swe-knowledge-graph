@@ -1,6 +1,7 @@
 ---
 title: "CSP Concurrency Model in Go"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

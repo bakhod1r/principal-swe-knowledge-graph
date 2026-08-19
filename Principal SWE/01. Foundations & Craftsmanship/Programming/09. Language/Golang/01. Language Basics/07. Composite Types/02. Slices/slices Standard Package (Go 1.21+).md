@@ -1,6 +1,7 @@
 ---
 title: "slices Standard Package (Go 1.21+)"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Anonymous Functions (Function Literals)"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

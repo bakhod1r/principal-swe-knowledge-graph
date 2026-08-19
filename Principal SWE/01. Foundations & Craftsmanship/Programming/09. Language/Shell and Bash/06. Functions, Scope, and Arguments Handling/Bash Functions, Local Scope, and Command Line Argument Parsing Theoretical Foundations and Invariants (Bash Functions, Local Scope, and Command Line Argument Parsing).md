@@ -1,6 +1,7 @@
 ---
 title: "Bash Functions, Local Scope, and Command Line Argument Parsing Theoretical Foundations and Invariants (Bash Functions, Local Scope, and Command Line Argument Parsing)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

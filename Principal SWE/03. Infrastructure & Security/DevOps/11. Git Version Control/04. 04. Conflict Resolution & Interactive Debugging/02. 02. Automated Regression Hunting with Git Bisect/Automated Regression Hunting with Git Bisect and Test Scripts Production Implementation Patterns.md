@@ -1,6 +1,7 @@
 ---
 title: "Automated Regression Hunting with Git Bisect and Test Scripts Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

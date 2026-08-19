@@ -370,3 +370,29 @@ Architecture
 - 💻 Computer Science Foundations: `Computer Science`
 - 🚀 Infrastructure & DevOps: `DevOps`
 
+---
+
+## 🗂️ Contents
+
+- [[API Design]]
+- [[Architectural Anti-Patterns]]
+- [[Architecture Governance]]
+- [[Classical Architectural Styles]]
+- [[Clean, Hexagonal & Onion Architecture]]
+- [[Concurrency Architecture Patterns]]
+- [[Data Isolation Architecture]]
+- [[Decentralized, Web3 & Blockchain Architectures]]
+- [[Distributed Data Patterns (cqrs, Event Sourcing, Sagas)]]
+- [[Domain-Driven Design]]
+- [[Enterprise Integration Patterns (eip)]]
+- [[Gang of Four (gof) & Enterprise Design Patterns]]
+- [[Gateway Architecture]]
+- [[High-Performance Design Patterns]]
+- [[Microservice Architecture]]
+- [[Modern Architectural Styles]]
+- [[Multi-Tenant SaaS]]
+- [[Resilience, Fault Tolerance & Chaos Engineering]]
+- [[Service Boundaries]]
+- [[Software Architect Leadership]]
+- [[Strategic Modeling]]
+- [[Technical Debt Refactoring]]

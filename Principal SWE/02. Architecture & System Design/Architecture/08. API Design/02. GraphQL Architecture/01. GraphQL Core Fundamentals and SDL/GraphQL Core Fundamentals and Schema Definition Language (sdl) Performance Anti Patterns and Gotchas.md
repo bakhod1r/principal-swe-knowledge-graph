@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Core Fundamentals and Schema Definition Language (sdl) Performance Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

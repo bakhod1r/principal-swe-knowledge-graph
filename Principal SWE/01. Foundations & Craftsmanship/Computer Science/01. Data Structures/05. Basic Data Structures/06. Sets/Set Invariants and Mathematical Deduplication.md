@@ -1,6 +1,7 @@
 ---
 title: "Set Invariants and Mathematical Deduplication"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "Microservice Decomposition Strategies (business Capability, Subdomain) Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

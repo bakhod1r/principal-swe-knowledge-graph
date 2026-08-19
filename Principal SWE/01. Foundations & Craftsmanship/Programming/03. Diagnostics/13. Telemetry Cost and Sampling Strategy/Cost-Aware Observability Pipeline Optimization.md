@@ -1,6 +1,7 @@
 ---
 title: "Cost-Aware Observability Pipeline Optimization"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

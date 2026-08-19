@@ -1,6 +1,7 @@
 ---
 title: Functional Programming Patterns and Immutability in Java
 tags:
+  - review
   - programming
   - java
   - principal-swe

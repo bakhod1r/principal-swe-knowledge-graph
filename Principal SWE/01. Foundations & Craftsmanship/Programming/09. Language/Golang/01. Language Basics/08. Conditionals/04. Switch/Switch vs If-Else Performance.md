@@ -1,6 +1,7 @@
 ---
 title: "Switch vs If-Else Performance"
 tags:
+  - review
   - golang
   - conditionals
   - principal-swe

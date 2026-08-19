@@ -1,6 +1,7 @@
 ---
 title: "Array Pass-by-Value Semantics"
 tags:
+  - review
   - golang
   - arrays
   - principal-swe

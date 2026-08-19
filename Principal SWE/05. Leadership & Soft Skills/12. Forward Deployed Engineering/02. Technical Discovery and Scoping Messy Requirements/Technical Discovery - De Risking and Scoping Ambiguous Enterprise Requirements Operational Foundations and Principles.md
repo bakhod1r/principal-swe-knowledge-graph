@@ -1,6 +1,7 @@
 ---
 title: "Technical Discovery - De Risking and Scoping Ambiguous Enterprise Requirements Operational Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

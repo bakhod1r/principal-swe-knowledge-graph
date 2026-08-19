@@ -1,6 +1,7 @@
 ---
 title: "Union by Rank Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

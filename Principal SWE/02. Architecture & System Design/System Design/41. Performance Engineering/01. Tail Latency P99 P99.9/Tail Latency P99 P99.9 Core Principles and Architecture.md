@@ -1,6 +1,7 @@
 ---
 title: "Tail Latency P99 P99.9 Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Java Annotations, Reflection, and Metaprogramming Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

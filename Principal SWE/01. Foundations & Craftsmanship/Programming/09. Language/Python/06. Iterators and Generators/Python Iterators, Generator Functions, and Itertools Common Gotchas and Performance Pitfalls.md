@@ -1,6 +1,7 @@
 ---
 title: "Python Iterators, Generator Functions, and Itertools Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

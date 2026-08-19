@@ -1,6 +1,7 @@
 ---
 title: "Objective and Key Results (okrs), Kpis, and Value Delivery Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

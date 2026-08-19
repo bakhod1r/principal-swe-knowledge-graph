@@ -1,6 +1,7 @@
 ---
 title: "Memory & GC Metrics Interpretation"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

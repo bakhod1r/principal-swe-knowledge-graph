@@ -1,6 +1,7 @@
 ---
 title: "Online Scheduling and Load Balancing Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

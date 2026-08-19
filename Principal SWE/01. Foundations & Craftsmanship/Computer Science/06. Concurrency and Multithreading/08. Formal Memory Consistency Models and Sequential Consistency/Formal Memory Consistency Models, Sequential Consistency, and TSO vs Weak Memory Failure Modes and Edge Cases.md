@@ -1,6 +1,7 @@
 ---
 title: "Formal Memory Consistency Models, Sequential Consistency, and TSO vs Weak Memory Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

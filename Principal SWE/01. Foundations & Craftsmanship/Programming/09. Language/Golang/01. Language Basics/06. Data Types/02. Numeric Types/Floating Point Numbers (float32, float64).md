@@ -1,6 +1,7 @@
 ---
 title: "Floating Point Numbers (float32, float64)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

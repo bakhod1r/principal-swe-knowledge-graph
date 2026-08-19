@@ -1,6 +1,7 @@
 ---
 title: "Array Memory Copy (SIMD rep movsq and memmove)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

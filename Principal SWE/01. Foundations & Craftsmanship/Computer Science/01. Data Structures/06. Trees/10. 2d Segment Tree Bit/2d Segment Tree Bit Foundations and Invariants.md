@@ -1,6 +1,7 @@
 ---
 title: "2d Segment Tree Bit Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

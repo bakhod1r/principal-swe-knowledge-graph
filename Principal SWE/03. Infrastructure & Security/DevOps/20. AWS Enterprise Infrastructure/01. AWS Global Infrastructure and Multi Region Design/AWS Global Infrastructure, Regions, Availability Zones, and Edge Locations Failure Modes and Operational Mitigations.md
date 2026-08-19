@@ -1,6 +1,7 @@
 ---
 title: "AWS Global Infrastructure, Regions, Availability Zones, and Edge Locations Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

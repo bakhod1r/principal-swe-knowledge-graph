@@ -7,7 +7,7 @@ tags:
   - team-lead
   - developer-relations-and-community-leadership
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Developer Relations & Community Leadership
@@ -47,5 +47,5 @@ Developer Relations & Community Leadership
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

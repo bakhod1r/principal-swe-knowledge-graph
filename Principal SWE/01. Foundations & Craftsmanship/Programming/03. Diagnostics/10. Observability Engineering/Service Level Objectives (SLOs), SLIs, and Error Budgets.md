@@ -1,6 +1,7 @@
 ---
 title: "Service Level Objectives (SLOs), SLIs, and Error Budgets"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Team Topologies - Stream Aligned, Enabling, Complicated Subsystem, and Platform Teams Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

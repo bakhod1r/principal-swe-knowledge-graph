@@ -1,6 +1,7 @@
 ---
 title: "State vs Operation Based CRDTs Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

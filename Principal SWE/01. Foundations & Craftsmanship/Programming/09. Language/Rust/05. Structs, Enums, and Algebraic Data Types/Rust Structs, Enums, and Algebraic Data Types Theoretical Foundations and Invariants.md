@@ -1,6 +1,7 @@
 ---
 title: "Rust Structs, Enums, and Algebraic Data Types Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

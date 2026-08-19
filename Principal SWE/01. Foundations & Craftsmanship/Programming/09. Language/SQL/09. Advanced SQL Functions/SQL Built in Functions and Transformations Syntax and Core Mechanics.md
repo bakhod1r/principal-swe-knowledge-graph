@@ -1,6 +1,7 @@
 ---
 title: "SQL Built in Functions and Transformations Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

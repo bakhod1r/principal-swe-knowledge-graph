@@ -1,6 +1,7 @@
 ---
 title: "Memory Contiguity and Strided Array Slicing Mechanics"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Zero-Allocation Base64 & Hex SIMD Encoding"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

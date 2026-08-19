@@ -1,6 +1,7 @@
 ---
 title: "Overview of Redis What Is It Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

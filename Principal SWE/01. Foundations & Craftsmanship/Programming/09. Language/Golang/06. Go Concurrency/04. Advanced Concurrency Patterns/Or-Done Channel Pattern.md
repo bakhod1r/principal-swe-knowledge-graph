@@ -1,6 +1,7 @@
 ---
 title: "Or-Done Channel Pattern"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

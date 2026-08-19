@@ -1,6 +1,7 @@
 ---
 title: "CAP Theorem and PACELC Trade Off Framework Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

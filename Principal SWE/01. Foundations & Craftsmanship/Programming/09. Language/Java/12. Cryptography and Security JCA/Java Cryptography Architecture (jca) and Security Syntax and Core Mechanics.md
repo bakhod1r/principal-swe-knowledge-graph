@@ -1,6 +1,7 @@
 ---
 title: "Java Cryptography Architecture (jca) and Security Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

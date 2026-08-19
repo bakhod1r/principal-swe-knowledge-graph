@@ -1,6 +1,7 @@
 ---
 title: SQL Stored Procedures, Functions, and Triggers
 tags:
+  - review
   - programming
   - sql
   - principal-swe

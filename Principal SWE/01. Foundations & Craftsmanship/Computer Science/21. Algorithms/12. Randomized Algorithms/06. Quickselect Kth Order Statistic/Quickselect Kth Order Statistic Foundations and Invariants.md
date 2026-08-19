@@ -1,6 +1,7 @@
 ---
 title: "Quickselect Kth Order Statistic Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

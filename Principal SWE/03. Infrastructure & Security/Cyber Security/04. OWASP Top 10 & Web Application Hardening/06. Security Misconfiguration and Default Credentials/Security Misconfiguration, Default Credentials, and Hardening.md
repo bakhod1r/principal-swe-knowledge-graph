@@ -1,6 +1,7 @@
 ---
 title: Security Misconfiguration, Default Credentials, and Hardening
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

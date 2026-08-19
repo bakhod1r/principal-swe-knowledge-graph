@@ -1,6 +1,7 @@
 ---
 title: "CPU Cache Hierarchy (L1, L2, L3, Cache Lines)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Java Module System (jpms) and Strong Encapsulation Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

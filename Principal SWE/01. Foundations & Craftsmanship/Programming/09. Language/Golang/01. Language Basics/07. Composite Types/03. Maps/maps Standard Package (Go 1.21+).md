@@ -1,6 +1,7 @@
 ---
 title: "maps Standard Package (Go 1.21+)"
 tags:
+  - review
   - golang
   - maps
   - principal-swe

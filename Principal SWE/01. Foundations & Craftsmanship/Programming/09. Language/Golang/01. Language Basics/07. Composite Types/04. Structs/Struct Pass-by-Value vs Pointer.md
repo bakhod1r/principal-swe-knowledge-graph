@@ -1,6 +1,7 @@
 ---
 title: "Struct Pass-by-Value vs Pointer"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

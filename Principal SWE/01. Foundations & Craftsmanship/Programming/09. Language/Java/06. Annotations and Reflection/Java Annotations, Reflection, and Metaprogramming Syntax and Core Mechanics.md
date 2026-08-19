@@ -1,6 +1,7 @@
 ---
 title: "Java Annotations, Reflection, and Metaprogramming Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

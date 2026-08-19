@@ -1,6 +1,7 @@
 ---
 title: Python Iterators, Generator Functions, and Itertools
 tags:
+  - review
   - programming
   - python
   - principal-swe

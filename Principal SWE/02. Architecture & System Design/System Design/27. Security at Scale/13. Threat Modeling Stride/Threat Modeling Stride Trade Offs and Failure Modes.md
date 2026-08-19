@@ -1,6 +1,7 @@
 ---
 title: "Threat Modeling Stride Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

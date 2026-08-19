@@ -1,6 +1,7 @@
 ---
 title: "Boyer Moore Horspool Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

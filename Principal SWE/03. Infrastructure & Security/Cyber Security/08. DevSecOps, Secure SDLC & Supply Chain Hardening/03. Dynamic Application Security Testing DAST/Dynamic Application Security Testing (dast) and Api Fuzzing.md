@@ -1,6 +1,7 @@
 ---
 title: Dynamic Application Security Testing (dast) and Api Fuzzing
 tags:
+  - review
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening

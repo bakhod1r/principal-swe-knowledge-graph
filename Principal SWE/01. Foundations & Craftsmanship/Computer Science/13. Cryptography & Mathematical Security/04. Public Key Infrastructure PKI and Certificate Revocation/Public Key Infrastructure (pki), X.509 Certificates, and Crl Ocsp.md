@@ -1,6 +1,7 @@
 ---
 title: Public Key Infrastructure (pki), X.509 Certificates, and Crl Ocsp
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

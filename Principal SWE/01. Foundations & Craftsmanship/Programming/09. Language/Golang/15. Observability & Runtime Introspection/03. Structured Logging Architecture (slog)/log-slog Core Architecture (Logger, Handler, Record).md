@@ -1,6 +1,7 @@
 ---
 title: "log-slog Core Architecture (Logger, Handler, Record)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

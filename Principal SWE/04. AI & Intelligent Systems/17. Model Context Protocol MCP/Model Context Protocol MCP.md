@@ -1,6 +1,6 @@
 ---
 title: Model Context Protocol MCP
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # Model Context Protocol MCP
@@ -14,4 +14,4 @@ parent: "[[AI & Machine Learning]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`

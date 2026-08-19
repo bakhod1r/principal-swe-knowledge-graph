@@ -1,6 +1,7 @@
 ---
 title: "Amazon Cloudwatch Metrics, Logs Insights, and Cloudtrail Audit Trails Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "Array Comparison (==)"
 tags:
+  - review
   - golang
   - arrays
   - principal-swe

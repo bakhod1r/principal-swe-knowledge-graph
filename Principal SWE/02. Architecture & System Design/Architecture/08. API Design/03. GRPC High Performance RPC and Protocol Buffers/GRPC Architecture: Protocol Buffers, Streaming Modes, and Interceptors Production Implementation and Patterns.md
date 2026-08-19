@@ -1,6 +1,7 @@
 ---
 title: "GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

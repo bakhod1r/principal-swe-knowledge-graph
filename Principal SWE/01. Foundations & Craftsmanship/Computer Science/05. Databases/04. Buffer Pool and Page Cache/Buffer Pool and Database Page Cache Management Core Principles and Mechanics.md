@@ -1,6 +1,7 @@
 ---
 title: "Buffer Pool and Database Page Cache Management Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

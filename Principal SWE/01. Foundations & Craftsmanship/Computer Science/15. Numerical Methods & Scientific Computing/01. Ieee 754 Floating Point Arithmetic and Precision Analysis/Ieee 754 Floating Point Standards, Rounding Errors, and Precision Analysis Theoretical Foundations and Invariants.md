@@ -1,6 +1,7 @@
 ---
 title: "Ieee 754 Floating Point Standards, Rounding Errors, and Precision Analysis Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing

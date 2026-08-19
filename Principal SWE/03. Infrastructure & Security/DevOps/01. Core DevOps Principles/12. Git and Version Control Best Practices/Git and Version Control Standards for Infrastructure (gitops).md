@@ -1,6 +1,7 @@
 ---
 title: Git and Version Control Standards for Infrastructure (gitops)
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

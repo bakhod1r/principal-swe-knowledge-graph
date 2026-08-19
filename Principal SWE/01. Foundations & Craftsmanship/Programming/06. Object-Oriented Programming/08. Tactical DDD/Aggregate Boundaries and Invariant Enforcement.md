@@ -1,6 +1,7 @@
 ---
 title: "Aggregate Boundaries and Invariant Enforcement"
 tags:
+  - review
   - programming
   - oop
   - principal-swe

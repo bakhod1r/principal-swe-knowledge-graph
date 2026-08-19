@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Programming in Python Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Preventing Engineering Burnout, Chronic Stress, and Overwork Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Generic Event Bus & PubSub Pipeline"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

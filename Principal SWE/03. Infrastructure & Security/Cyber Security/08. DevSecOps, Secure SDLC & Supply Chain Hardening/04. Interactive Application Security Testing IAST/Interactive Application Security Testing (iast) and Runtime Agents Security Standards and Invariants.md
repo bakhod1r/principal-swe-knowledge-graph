@@ -1,6 +1,7 @@
 ---
 title: "Interactive Application Security Testing (iast) and Runtime Agents Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening

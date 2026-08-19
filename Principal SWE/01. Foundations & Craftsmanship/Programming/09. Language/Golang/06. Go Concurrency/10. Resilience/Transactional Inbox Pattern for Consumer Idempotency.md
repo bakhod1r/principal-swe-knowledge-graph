@@ -1,6 +1,7 @@
 ---
 title: "Transactional Inbox Pattern for Consumer Idempotency"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

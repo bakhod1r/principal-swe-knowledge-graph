@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security Posture Management (cspm) and Continuous Compliance Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection

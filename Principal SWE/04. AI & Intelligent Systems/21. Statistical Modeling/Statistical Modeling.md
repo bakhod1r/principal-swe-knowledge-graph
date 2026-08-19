@@ -1,6 +1,6 @@
 ---
 title: Statistical Modeling
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # Statistical Modeling
@@ -16,4 +16,4 @@ parent: "[[AI & Machine Learning]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`

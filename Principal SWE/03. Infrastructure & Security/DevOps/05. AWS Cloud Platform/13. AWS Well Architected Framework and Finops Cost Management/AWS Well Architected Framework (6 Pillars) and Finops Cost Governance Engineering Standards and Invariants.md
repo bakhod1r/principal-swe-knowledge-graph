@@ -1,6 +1,7 @@
 ---
 title: "AWS Well Architected Framework (6 Pillars) and Finops Cost Governance Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

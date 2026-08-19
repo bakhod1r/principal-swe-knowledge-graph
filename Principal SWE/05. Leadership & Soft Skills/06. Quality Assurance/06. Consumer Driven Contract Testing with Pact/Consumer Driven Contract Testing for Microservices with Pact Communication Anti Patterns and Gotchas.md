@@ -1,6 +1,7 @@
 ---
 title: "Consumer Driven Contract Testing for Microservices with Pact Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Mechanical Sympathy Cpu Cache Numa Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

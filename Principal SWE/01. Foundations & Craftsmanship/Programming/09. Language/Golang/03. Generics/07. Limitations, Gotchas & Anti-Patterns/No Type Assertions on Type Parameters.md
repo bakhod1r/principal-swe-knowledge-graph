@@ -1,6 +1,7 @@
 ---
 title: "No Type Assertions on Type Parameters"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

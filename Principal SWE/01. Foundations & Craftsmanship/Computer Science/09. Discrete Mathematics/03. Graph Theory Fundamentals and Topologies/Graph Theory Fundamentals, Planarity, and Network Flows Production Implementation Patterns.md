@@ -1,6 +1,7 @@
 ---
 title: "Graph Theory Fundamentals, Planarity, and Network Flows Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

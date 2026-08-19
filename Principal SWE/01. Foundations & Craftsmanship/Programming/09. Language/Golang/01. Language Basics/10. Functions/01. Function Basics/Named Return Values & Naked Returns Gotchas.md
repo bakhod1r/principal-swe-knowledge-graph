@@ -1,6 +1,7 @@
 ---
 title: "Named Return Values & Naked Returns Gotchas"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

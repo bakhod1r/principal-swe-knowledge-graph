@@ -1,6 +1,7 @@
 ---
 title: "Column Oriented Olap Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

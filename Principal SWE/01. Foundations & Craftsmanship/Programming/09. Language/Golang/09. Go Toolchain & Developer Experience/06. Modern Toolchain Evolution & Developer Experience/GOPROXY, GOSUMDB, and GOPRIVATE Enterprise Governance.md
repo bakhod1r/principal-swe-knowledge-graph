@@ -1,6 +1,7 @@
 ---
 title: "GOPROXY, GOSUMDB, and GOPRIVATE Enterprise Governance"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

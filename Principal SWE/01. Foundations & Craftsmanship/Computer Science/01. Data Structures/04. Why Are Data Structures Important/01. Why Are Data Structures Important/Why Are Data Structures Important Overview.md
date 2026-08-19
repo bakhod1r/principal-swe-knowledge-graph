@@ -1,6 +1,7 @@
 ---
 title: Why Are Data Structures Important Overview
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[Why Are Data Structures Important]]"

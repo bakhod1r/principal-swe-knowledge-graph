@@ -1,6 +1,7 @@
 ---
 title: "switch Statement Syntax"
 tags:
+  - review
   - golang
   - conditionals
   - principal-swe

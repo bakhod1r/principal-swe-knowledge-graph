@@ -1,6 +1,7 @@
 ---
 title: "Server Side Request Forgery (ssrf) and Cloud Metadata Protection Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

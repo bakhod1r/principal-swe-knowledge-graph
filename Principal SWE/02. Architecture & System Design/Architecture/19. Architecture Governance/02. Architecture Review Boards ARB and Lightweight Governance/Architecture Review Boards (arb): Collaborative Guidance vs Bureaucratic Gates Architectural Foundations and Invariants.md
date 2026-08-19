@@ -1,6 +1,7 @@
 ---
 title: "Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

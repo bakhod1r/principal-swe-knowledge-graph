@@ -1,6 +1,7 @@
 ---
 title: "Semantic Import Versioning (v2+ Module Paths)"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

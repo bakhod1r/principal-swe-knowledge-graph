@@ -1,6 +1,7 @@
 ---
 title: "Onion Architecture (jeffrey Palermo), Domain Core, and Infrastructure Outer Layers Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

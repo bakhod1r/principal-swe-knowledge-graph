@@ -1,6 +1,7 @@
 ---
 title: "Devsecops and Supply Chain Security Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

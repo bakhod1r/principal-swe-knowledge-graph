@@ -1,6 +1,7 @@
 ---
 title: "bufio High-Performance Stream Buffering"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

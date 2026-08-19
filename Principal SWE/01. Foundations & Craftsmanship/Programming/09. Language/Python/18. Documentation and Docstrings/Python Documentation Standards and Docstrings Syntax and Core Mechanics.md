@@ -1,6 +1,7 @@
 ---
 title: "Python Documentation Standards and Docstrings Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

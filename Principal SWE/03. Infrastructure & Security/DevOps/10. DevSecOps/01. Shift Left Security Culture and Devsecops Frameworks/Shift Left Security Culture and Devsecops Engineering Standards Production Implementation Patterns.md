@@ -1,6 +1,7 @@
 ---
 title: "Shift Left Security Culture and Devsecops Engineering Standards Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

@@ -1,6 +1,7 @@
 ---
 title: "Numbers Every Engineer Should Know Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

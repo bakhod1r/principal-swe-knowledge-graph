@@ -1,6 +1,7 @@
 ---
 title: "Technical Mentorship - 1 on 1 Pair Programming, Coaching, and Feedback Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

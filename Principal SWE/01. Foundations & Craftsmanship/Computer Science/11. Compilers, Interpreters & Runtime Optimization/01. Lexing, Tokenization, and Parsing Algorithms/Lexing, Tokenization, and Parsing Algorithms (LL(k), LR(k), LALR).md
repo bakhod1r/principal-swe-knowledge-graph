@@ -1,6 +1,7 @@
 ---
 title: "Lexing, Tokenization, and Parsing Algorithms (LL(k), LR(k), LALR)"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

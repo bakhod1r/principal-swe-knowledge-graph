@@ -1,6 +1,7 @@
 ---
 title: "Closures & Lexical Scoping"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

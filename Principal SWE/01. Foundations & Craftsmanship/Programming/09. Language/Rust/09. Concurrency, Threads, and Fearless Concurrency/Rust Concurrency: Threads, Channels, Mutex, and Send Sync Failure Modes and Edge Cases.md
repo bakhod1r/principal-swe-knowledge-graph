@@ -1,6 +1,7 @@
 ---
 title: "Rust Concurrency: Threads, Channels, Mutex, and Send Sync Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

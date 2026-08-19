@@ -1,6 +1,7 @@
 ---
 title: "Channel Implementation Source (chan.go)"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

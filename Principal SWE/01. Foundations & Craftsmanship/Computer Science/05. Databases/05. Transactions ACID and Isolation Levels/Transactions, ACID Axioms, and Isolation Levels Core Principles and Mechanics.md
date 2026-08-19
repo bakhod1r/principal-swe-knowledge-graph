@@ -1,6 +1,7 @@
 ---
 title: "Transactions, ACID Axioms, and Isolation Levels Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

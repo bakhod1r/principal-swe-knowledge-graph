@@ -1,6 +1,7 @@
 ---
 title: "math-rand-v2 Modern Fast Pseudo-Random Generator"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

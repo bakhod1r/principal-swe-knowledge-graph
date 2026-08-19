@@ -1,6 +1,7 @@
 ---
 title: "Attack Trees Modeling and Mitre Att&ck Framework Mapping Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees

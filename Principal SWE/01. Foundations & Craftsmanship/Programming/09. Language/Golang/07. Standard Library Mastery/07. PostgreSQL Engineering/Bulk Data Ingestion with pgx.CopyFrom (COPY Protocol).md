@@ -1,6 +1,7 @@
 ---
 title: "Bulk Data Ingestion with pgx.CopyFrom (COPY Protocol)"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

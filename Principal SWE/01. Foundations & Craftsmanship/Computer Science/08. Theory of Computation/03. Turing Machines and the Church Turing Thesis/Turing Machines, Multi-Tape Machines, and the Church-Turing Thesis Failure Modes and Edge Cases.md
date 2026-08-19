@@ -1,6 +1,7 @@
 ---
 title: "Turing Machines, Multi-Tape Machines, and the Church-Turing Thesis Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

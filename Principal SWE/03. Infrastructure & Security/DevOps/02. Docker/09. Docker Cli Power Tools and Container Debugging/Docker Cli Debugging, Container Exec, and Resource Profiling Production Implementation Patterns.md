@@ -1,6 +1,7 @@
 ---
 title: "Docker Cli Debugging, Container Exec, and Resource Profiling Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

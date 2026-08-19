@@ -1,6 +1,7 @@
 ---
 title: "Java Collections Framework and Data Structures Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

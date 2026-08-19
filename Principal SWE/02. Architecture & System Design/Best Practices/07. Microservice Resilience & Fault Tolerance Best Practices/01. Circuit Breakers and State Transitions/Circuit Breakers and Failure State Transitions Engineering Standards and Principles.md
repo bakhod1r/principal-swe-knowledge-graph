@@ -1,6 +1,7 @@
 ---
 title: "Circuit Breakers and Failure State Transitions Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

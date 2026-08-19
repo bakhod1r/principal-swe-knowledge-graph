@@ -1,6 +1,7 @@
 ---
 title: "Variable Lifetime Minimization & Smallest Viable Scope"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Crucial Conversations in Engineering - Navigating High Stakes Dialogue Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

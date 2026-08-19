@@ -1,6 +1,7 @@
 ---
 title: "External Config Store Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

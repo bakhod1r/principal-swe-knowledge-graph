@@ -1,6 +1,7 @@
 ---
 title: "var Declaration Syntax"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

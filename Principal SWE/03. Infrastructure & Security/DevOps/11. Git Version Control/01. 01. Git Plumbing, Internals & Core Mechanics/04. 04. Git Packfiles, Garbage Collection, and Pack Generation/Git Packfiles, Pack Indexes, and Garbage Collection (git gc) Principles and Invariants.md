@@ -1,6 +1,7 @@
 ---
 title: "Git Packfiles, Pack Indexes, and Garbage Collection (git gc) Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

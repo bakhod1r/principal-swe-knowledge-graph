@@ -1,6 +1,7 @@
 ---
 title: "Python Generator Expressions and Streaming Data Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

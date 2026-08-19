@@ -1,6 +1,7 @@
 ---
 title: "Continuous Learning - Deliberate Practice, Katas, and Career Ownership Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

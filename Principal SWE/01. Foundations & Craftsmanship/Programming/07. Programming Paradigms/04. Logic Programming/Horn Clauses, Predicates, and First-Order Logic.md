@@ -1,6 +1,7 @@
 ---
 title: "Horn Clauses, Predicates, and First-Order Logic"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

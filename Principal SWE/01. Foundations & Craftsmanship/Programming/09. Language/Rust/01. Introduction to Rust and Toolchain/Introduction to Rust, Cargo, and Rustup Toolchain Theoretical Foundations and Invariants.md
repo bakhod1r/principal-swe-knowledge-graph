@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Rust, Cargo, and Rustup Toolchain Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "CodeQL Static Application Security Testing (SAST) in GitHub Actions Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

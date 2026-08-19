@@ -1,6 +1,7 @@
 ---
 title: "OLTP vs OLAP and Data Warehousing Architectures Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Marty Cagan's 4 Big Product Risks - Value, Usability, Feasibility, Viability Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

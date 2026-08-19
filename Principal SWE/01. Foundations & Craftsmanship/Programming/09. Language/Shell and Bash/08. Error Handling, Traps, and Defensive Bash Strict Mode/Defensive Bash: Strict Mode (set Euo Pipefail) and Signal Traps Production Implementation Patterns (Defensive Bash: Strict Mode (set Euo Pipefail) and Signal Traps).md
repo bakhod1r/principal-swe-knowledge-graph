@@ -1,6 +1,7 @@
 ---
 title: "Defensive Bash: Strict Mode (set Euo Pipefail) and Signal Traps Production Implementation Patterns (Defensive Bash: Strict Mode (set Euo Pipefail) and Signal Traps)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

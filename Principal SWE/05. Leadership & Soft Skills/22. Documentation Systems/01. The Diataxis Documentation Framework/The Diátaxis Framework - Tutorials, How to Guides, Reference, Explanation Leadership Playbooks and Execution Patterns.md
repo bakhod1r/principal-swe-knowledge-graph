@@ -1,6 +1,7 @@
 ---
 title: "The Diátaxis Framework - Tutorials, How to Guides, Reference, Explanation Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

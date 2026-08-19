@@ -1,6 +1,7 @@
 ---
 title: "Testing As a Moral Imperative - Zero Known Defect Delivery Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

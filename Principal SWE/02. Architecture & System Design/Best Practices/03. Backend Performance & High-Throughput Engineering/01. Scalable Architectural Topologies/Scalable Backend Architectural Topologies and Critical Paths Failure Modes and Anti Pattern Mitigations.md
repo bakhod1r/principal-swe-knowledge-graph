@@ -1,6 +1,7 @@
 ---
 title: "Scalable Backend Architectural Topologies and Critical Paths Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering

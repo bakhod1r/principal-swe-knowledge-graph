@@ -1,6 +1,7 @@
 ---
 title: "Data Lake and Warehouse Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

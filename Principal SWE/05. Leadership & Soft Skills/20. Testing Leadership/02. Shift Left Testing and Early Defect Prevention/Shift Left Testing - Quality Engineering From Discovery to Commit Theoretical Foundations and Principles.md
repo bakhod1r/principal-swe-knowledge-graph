@@ -1,6 +1,7 @@
 ---
 title: "Shift Left Testing - Quality Engineering From Discovery to Commit Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

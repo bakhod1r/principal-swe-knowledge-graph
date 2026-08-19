@@ -1,6 +1,7 @@
 ---
 title: "Tradeoffs and Wrap Up Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

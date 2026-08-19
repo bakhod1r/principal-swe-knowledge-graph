@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Programming in Python Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

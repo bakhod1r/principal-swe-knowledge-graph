@@ -1,6 +1,7 @@
 ---
 title: "Modifying Named Return Values via Defer"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

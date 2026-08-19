@@ -1,6 +1,7 @@
 ---
 title: "Long Polling and Streaming Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

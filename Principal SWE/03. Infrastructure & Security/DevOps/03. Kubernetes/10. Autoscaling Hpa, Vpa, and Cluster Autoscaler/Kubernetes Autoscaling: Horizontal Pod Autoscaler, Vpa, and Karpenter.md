@@ -1,6 +1,7 @@
 ---
 title: Kubernetes Autoscaling: Horizontal Pod Autoscaler, Vpa, and Karpenter
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

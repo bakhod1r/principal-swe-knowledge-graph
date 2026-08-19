@@ -1,6 +1,7 @@
 ---
 title: "Linux Core Commands, Text Manipulation (grep, Sed, Awk, Cut, Tr) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

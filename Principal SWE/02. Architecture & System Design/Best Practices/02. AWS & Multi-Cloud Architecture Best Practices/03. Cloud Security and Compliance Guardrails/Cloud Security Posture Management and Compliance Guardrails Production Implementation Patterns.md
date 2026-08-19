@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security Posture Management and Compliance Guardrails Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

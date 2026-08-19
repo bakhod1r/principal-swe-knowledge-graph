@@ -1,6 +1,7 @@
 ---
 title: "Automated Linting vs Human Semantic Review Separation Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship

@@ -1,6 +1,7 @@
 ---
 title: "Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals

@@ -1,6 +1,7 @@
 ---
 title: "Distributed Tracing Architecture, W3c Trace Context, and Opentelemetry Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

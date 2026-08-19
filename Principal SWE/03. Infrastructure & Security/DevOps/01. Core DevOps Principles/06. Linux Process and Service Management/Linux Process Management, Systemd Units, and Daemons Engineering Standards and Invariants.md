@@ -1,6 +1,7 @@
 ---
 title: "Linux Process Management, Systemd Units, and Daemons Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

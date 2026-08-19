@@ -1,6 +1,7 @@
 ---
 title: "PII and Data Classification Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

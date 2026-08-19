@@ -1,6 +1,7 @@
 ---
 title: "Software Transactional Memory (STM) and Optimistic Concurrency Control Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

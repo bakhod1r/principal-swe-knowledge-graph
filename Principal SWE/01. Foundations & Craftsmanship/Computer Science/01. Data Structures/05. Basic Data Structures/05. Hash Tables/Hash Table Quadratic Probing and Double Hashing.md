@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Quadratic Probing and Double Hashing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

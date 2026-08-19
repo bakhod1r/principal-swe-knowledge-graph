@@ -1,6 +1,7 @@
 ---
 title: "Channel Send Operation (ch <- v)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Public Key Infrastructure (pki), X.509, and Certificate Lifecycles Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management

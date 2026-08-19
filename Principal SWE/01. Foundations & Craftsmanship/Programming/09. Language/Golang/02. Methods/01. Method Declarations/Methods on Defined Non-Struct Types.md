@@ -1,6 +1,7 @@
 ---
 title: "Methods on Defined Non-Struct Types"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

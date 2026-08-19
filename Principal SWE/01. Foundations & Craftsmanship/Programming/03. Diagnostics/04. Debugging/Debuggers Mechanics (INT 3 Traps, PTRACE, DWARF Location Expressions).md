@@ -1,6 +1,7 @@
 ---
 title: "Debuggers Mechanics (INT 3 Traps, PTRACE, DWARF Location Expressions)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

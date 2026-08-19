@@ -1,6 +1,7 @@
 ---
 title: "DFS Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

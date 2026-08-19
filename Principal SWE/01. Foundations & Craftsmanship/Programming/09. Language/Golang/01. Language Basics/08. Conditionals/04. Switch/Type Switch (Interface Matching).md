@@ -1,6 +1,7 @@
 ---
 title: "Type Switch (Interface Matching)"
 tags:
+  - review
   - golang
   - conditionals
   - principal-swe

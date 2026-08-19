@@ -1,6 +1,7 @@
 ---
 title: "Continuous Adaptive Risk and Trust Assessment (carta) Architecture Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance

@@ -1,6 +1,7 @@
 ---
 title: "Test Data Management - Synthetic Data Generation and Database Seeding Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

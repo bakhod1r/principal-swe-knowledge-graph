@@ -1,6 +1,7 @@
 ---
 title: "Distributed Trace Context Propagation Standards (w3c Trace Context) Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness

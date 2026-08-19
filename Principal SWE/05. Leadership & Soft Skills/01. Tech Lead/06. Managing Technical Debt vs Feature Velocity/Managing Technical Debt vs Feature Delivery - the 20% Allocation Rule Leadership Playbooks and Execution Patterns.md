@@ -1,6 +1,7 @@
 ---
 title: "Managing Technical Debt vs Feature Delivery - the 20% Allocation Rule Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

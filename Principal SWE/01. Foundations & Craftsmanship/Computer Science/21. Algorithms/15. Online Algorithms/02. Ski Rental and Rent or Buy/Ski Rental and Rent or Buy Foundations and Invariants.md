@@ -1,6 +1,7 @@
 ---
 title: "Ski Rental and Rent or Buy Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

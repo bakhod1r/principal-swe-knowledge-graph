@@ -1,6 +1,7 @@
 ---
 title: "Array Memory Leaks and Garbage Collection Truncation"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

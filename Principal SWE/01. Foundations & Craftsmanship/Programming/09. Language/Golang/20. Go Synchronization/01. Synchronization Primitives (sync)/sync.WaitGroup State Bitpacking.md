@@ -1,6 +1,7 @@
 ---
 title: "sync.WaitGroup State Bitpacking"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

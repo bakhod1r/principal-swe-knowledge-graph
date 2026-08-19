@@ -1,6 +1,7 @@
 ---
 title: "Range over Slices & Arrays"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

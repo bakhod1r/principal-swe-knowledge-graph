@@ -1,6 +1,7 @@
 ---
 title: TypeScript Tooling Ecosystem: Eslint, Prettier, Vite, Tsx, and Bun
 tags:
+  - review
   - programming
   - languages
   - typescript

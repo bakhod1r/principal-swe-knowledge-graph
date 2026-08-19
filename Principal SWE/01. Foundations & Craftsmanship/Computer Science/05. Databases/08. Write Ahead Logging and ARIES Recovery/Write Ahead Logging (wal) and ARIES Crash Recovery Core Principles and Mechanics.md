@@ -1,6 +1,7 @@
 ---
 title: "Write Ahead Logging (wal) and ARIES Crash Recovery Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

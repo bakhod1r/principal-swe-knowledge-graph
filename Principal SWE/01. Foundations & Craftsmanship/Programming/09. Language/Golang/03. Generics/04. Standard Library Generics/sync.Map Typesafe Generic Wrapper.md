@@ -1,6 +1,7 @@
 ---
 title: "sync.Map Typesafe Generic Wrapper"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

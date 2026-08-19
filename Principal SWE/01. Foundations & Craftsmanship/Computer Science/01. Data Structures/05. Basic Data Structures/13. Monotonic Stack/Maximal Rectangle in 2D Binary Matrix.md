@@ -1,6 +1,7 @@
 ---
 title: "Maximal Rectangle in 2D Binary Matrix"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

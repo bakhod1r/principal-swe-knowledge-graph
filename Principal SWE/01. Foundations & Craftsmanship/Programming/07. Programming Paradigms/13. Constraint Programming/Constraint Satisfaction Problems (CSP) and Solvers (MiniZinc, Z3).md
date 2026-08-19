@@ -1,6 +1,7 @@
 ---
 title: "Constraint Satisfaction Problems (CSP) and Solvers (MiniZinc, Z3)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

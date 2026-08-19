@@ -1,6 +1,7 @@
 ---
 title: "Java Module System (jpms) and Strong Encapsulation Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare CDN Caching Rules, Cache Keys, and Instant Purging Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

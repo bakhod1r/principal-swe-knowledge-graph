@@ -1,6 +1,7 @@
 ---
 title: Git Index (Staging Area), Working Tree, and Hash Object
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

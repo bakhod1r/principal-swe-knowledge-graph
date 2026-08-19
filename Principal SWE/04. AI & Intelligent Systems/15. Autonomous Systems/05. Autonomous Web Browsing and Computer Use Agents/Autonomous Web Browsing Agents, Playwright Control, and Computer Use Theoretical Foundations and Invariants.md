@@ -1,6 +1,7 @@
 ---
 title: "Autonomous Web Browsing Agents, Playwright Control, and Computer Use Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration

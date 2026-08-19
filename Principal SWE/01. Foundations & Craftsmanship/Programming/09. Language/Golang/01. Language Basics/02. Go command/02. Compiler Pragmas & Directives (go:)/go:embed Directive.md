@@ -1,6 +1,7 @@
 ---
 title: "go:embed Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

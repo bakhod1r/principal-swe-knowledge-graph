@@ -1,6 +1,7 @@
 ---
 title: SOLID Principles in Modern Software Engineering Practice
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

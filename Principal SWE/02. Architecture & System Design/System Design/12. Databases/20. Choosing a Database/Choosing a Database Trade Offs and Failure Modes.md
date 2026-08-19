@@ -1,6 +1,7 @@
 ---
 title: "Choosing a Database Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

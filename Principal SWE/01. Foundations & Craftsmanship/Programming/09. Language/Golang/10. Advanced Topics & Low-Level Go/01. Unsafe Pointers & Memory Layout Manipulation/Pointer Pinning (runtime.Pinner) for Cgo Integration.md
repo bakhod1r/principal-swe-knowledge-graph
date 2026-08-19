@@ -1,6 +1,7 @@
 ---
 title: "Pointer Pinning (runtime.Pinner) for Cgo Integration"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

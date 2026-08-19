@@ -1,6 +1,7 @@
 ---
 title: "Struct Field Alignment & Padding Elimination"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

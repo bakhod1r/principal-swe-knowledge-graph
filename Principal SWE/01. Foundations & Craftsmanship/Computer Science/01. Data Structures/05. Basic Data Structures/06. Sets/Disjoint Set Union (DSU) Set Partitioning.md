@@ -1,6 +1,7 @@
 ---
 title: "Disjoint Set Union (DSU) Set Partitioning"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

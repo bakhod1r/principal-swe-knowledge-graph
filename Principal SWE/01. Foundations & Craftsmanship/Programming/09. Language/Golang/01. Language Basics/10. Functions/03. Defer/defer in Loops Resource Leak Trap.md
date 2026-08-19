@@ -1,6 +1,7 @@
 ---
 title: "defer in Loops Resource Leak Trap"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

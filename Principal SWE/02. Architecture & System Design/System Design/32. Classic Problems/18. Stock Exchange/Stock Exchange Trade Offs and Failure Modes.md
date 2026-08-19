@@ -1,6 +1,7 @@
 ---
 title: "Stock Exchange Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

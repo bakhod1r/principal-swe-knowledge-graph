@@ -1,6 +1,7 @@
 ---
 title: Databases (System Design)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[System Design]]"

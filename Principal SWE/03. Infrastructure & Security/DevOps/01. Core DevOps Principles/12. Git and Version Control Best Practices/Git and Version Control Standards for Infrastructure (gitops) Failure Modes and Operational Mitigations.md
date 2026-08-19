@@ -1,6 +1,7 @@
 ---
 title: "Git and Version Control Standards for Infrastructure (gitops) Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

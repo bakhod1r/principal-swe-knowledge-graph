@@ -1,6 +1,7 @@
 ---
 title: "Hotspot Accounts and Contention Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

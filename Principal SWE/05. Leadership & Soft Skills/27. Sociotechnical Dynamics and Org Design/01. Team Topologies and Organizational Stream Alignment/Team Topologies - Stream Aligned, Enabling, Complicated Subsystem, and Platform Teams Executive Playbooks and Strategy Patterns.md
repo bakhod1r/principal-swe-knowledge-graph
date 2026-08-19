@@ -1,6 +1,7 @@
 ---
 title: "Team Topologies - Stream Aligned, Enabling, Complicated Subsystem, and Platform Teams Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

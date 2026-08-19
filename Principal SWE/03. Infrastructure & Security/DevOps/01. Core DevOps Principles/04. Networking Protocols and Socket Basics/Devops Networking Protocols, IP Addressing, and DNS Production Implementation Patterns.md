@@ -1,6 +1,7 @@
 ---
 title: "Devops Networking Protocols, IP Addressing, and DNS Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

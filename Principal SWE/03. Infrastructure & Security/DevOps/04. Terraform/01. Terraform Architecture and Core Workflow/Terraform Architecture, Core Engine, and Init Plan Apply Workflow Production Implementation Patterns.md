@@ -1,6 +1,7 @@
 ---
 title: "Terraform Architecture, Core Engine, and Init Plan Apply Workflow Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

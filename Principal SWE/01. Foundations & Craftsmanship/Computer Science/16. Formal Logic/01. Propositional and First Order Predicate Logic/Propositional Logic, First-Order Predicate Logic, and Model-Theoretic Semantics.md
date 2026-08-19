@@ -1,6 +1,7 @@
 ---
 title: "Propositional Logic, First-Order Predicate Logic, and Model-Theoretic Semantics"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

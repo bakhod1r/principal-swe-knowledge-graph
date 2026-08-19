@@ -1,6 +1,7 @@
 ---
 title: "Total Cost of Ownership (tco) - Infrastructure, Maintenance, and Opportunity Cost Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

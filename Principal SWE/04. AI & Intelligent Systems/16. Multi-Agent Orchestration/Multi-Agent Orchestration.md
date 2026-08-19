@@ -1,6 +1,6 @@
 ---
 title: Multi-Agent Orchestration
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # Multi-Agent Orchestration
@@ -15,4 +15,4 @@ parent: "[[AI & Machine Learning]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`

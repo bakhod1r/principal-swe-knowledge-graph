@@ -33,6 +33,17 @@ Variables & Constants
 - [[Blank Identifier]] — Discarding unused values, side-effect imports, and compile-time interface assertion checks.
 - [[Bitwise Operations]] — Bitwise manipulation, shifts, masks, and the Go-specific bit clear (&^) operator.
 
+
+## 🗂️ Contents
+
+- [[Bitwise Operations]]
+- [[Blank Identifier]]
+- [[Const & Iota]]
+- [[Memory Alignment & Atomic Safety]]
+- [[Scope & Shadowing]]
+- [[Var vs Short Declaration]]
+- [[Zero Values]]
+
 ---
 
 ## 🔗 References

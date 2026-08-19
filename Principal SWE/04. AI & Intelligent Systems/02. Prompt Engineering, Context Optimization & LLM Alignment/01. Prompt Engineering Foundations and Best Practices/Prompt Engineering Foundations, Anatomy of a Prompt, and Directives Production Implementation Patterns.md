@@ -1,6 +1,7 @@
 ---
 title: "Prompt Engineering Foundations, Anatomy of a Prompt, and Directives Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment

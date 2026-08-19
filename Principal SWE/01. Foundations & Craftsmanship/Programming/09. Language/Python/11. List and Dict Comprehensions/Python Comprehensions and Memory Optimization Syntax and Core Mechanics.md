@@ -1,6 +1,7 @@
 ---
 title: "Python Comprehensions and Memory Optimization Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

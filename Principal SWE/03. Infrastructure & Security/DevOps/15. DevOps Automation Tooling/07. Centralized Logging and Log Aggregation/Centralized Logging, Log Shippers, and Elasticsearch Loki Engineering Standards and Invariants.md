@@ -1,6 +1,7 @@
 ---
 title: "Centralized Logging, Log Shippers, and Elasticsearch Loki Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

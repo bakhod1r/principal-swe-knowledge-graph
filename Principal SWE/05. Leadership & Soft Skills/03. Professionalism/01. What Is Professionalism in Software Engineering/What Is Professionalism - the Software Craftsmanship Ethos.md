@@ -1,6 +1,7 @@
 ---
 title: What Is Professionalism: the Software Craftsmanship Ethos
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

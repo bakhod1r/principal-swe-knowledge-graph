@@ -127,3 +127,15 @@ Generics
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
 
+---
+
+## 🗂️ Contents
+
+- [[Compiler Mechanics & GcShape Stenciling]]
+- [[Generic Architecture & Design Patterns]]
+- [[Generic Data Structures & Collections]]
+- [[Limitations, Gotchas & Anti-Patterns]]
+- [[Standard Library Generics]]
+- [[Type Constraints]]
+- [[Type Parameters & Functions]]
+- [[Type Sets]]

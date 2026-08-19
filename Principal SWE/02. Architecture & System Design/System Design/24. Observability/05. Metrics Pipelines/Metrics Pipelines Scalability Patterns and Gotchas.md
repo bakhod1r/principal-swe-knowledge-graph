@@ -1,6 +1,7 @@
 ---
 title: "Metrics Pipelines Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -44,6 +44,21 @@ Structs
 - [[Struct Comparison & Equality Rules]] — Compile-time struct comparability rules (all fields must be comparable), comparing with ==.
 - [[Struct Pass-by-Value vs Pointer]] — Memory copy overhead of large structs vs escape to heap and GC pressure with pointers.
 
+
+## 🗂️ Contents
+
+- [[Anonymous Structs & Inline Definitions]]
+- [[Cache Line Padding (cpu.CacheLineSize)]]
+- [[Embedding Structs & Promotion]]
+- [[Empty Struct (struct{}) Idioms]]
+- [[Empty Struct struct{} Memory Address (zerobase pointer)]]
+- [[False Sharing & CPU Cache Lines (64-byte)]]
+- [[Struct Alignment, Offset Calculation & False Sharing]]
+- [[Struct Comparison & Equality Rules]]
+- [[Struct Memory Layout & Padding]]
+- [[Struct Pass-by-Value vs Pointer]]
+- [[Struct Tags & Serialization]]
+
 ---
 
 ## 🔗 References

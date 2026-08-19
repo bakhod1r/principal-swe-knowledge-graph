@@ -1,6 +1,7 @@
 ---
 title: "Microservice Decomposition Strategies (business Capability, Subdomain) Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

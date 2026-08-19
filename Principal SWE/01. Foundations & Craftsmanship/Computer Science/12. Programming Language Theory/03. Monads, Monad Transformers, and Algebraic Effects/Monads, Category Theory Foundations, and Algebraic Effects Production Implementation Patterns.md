@@ -1,6 +1,7 @@
 ---
 title: "Monads, Category Theory Foundations, and Algebraic Effects Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems

@@ -1,6 +1,7 @@
 ---
 title: "Set Contains and Fast Membership Testing"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "SQL Join Queries and Relational Set Operations Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: Relational Model and Database Foundations
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

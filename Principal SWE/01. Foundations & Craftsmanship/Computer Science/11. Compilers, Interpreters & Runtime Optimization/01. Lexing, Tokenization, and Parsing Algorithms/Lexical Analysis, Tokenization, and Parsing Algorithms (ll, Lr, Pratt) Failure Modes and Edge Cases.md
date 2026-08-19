@@ -1,6 +1,7 @@
 ---
 title: "Lexical Analysis, Tokenization, and Parsing Algorithms (ll, Lr, Pratt) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

@@ -1,6 +1,7 @@
 ---
 title: "Writing SIMD Vector Instructions in Go Assembly"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

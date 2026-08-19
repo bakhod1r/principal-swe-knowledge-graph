@@ -1,6 +1,7 @@
 ---
 title: "Scanning Dynamic & NULL Values (sql.Null vs pgtype)"
 tags:
+  - review
   - golang
   - database
   - principal-swe

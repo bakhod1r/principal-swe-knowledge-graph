@@ -1,6 +1,7 @@
 ---
 title: "CAP Theorem and PACELC Trade Off Framework"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

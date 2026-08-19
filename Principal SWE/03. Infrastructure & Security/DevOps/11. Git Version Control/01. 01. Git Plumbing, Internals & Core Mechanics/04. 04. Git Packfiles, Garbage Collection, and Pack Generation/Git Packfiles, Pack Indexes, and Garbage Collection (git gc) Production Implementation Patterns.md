@@ -1,6 +1,7 @@
 ---
 title: "Git Packfiles, Pack Indexes, and Garbage Collection (git gc) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

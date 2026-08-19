@@ -1,6 +1,7 @@
 ---
 title: "Physical and Cognitive Ergonomics - Workstation Setup and Mental Clarity Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

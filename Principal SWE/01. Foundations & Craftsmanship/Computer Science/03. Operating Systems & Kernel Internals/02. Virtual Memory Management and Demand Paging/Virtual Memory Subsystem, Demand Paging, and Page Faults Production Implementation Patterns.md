@@ -1,6 +1,7 @@
 ---
 title: "Virtual Memory Subsystem, Demand Paging, and Page Faults Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

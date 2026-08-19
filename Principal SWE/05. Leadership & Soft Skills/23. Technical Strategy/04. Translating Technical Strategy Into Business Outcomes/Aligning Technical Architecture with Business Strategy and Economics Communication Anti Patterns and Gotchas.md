@@ -1,6 +1,7 @@
 ---
 title: "Aligning Technical Architecture with Business Strategy and Economics Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

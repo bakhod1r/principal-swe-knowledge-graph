@@ -1,6 +1,7 @@
 ---
 title: "Database Per Service Architecture and Distributed Data Ownership Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

@@ -1,6 +1,7 @@
 ---
 title: "Database Indexing Best Practices and Query Optimization Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices

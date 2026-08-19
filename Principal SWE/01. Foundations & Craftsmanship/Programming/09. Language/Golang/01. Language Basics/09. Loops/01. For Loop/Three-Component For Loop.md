@@ -1,6 +1,7 @@
 ---
 title: "Three-Component For Loop"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

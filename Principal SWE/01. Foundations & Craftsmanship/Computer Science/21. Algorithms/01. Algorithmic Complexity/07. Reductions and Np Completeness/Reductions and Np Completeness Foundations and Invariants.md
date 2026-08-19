@@ -1,6 +1,7 @@
 ---
 title: "Reductions and Np Completeness Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

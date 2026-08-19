@@ -1,6 +1,7 @@
 ---
 title: "Site Reliability Engineering (sre) Principles and Incident Command Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

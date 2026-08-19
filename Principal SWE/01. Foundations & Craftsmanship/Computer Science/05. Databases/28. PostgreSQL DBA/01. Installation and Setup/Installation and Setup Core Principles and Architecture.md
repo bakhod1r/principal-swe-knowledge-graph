@@ -1,6 +1,7 @@
 ---
 title: "Installation and Setup Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - postgresql-mastery-and-dba

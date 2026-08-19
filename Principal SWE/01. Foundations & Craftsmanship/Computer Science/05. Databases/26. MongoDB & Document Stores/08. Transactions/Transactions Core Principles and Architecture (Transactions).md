@@ -1,6 +1,7 @@
 ---
 title: "Transactions Core Principles and Architecture (Transactions)"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

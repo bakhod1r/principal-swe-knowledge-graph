@@ -1,6 +1,7 @@
 ---
 title: "Devirtualization Compiler Pass"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

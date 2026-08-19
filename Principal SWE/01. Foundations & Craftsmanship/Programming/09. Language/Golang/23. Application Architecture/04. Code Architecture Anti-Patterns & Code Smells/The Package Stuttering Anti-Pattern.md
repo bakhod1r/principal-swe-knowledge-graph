@@ -1,6 +1,7 @@
 ---
 title: "The Package Stuttering Anti-Pattern"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

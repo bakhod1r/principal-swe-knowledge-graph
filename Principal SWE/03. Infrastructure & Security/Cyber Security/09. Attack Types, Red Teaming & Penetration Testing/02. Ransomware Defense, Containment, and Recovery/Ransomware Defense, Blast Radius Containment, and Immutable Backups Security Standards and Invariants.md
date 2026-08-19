@@ -1,6 +1,7 @@
 ---
 title: "Ransomware Defense, Blast Radius Containment, and Immutable Backups Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

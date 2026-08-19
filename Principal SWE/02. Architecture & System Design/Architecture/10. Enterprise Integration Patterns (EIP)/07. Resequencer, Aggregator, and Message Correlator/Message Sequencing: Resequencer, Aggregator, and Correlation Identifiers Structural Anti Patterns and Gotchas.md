@@ -1,6 +1,7 @@
 ---
 title: "Message Sequencing: Resequencer, Aggregator, and Correlation Identifiers Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

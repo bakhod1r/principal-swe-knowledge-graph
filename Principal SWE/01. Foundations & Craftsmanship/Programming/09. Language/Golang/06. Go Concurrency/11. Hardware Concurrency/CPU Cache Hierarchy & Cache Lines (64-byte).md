@@ -1,6 +1,7 @@
 ---
 title: "CPU Cache Hierarchy & Cache Lines (64-byte)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

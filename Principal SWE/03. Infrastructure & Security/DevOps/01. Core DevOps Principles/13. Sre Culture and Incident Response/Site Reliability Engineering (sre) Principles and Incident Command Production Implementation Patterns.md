@@ -1,6 +1,7 @@
 ---
 title: "Site Reliability Engineering (sre) Principles and Incident Command Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

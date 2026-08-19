@@ -1,6 +1,7 @@
 ---
 title: "Production Readiness Review (prr) Engineering Checklist Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness

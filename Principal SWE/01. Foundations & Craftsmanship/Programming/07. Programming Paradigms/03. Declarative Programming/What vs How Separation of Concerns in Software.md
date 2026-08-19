@@ -1,6 +1,7 @@
 ---
 title: "What vs How Separation of Concerns in Software"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

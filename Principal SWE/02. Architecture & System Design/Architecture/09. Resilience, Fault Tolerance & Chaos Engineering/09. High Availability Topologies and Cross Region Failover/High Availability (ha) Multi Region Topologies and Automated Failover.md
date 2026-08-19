@@ -1,6 +1,7 @@
 ---
 title: High Availability (ha) Multi Region Topologies and Automated Failover
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

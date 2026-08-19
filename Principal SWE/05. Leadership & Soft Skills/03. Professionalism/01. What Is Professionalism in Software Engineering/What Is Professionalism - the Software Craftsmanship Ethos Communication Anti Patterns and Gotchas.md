@@ -1,6 +1,7 @@
 ---
 title: "What Is Professionalism - the Software Craftsmanship Ethos Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Model Packaging, Export Formats (onnx, Torchscript), and Bentoml Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

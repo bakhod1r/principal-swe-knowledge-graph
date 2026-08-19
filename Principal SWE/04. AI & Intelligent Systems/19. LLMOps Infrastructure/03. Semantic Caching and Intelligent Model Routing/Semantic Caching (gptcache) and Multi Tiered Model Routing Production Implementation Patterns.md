@@ -1,6 +1,7 @@
 ---
 title: "Semantic Caching (gptcache) and Multi Tiered Model Routing Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

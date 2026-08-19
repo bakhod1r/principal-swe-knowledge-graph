@@ -1,6 +1,7 @@
 ---
 title: "encoding-csv High-Speed Stream Reading & Lazy Quotes"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

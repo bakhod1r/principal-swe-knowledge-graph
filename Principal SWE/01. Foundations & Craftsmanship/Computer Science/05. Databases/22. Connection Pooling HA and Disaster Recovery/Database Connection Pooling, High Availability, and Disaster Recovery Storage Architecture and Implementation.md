@@ -1,6 +1,7 @@
 ---
 title: "Database Connection Pooling, High Availability, and Disaster Recovery Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

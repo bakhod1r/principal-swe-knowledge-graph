@@ -1,6 +1,7 @@
 ---
 title: "Enterprise GraphQL Pagination - Relay Cursor Based Connections vs Offset Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

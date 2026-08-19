@@ -1,6 +1,7 @@
 ---
 title: "Bulkhead Pattern: Thread Pool and Semaphore Resource Isolation Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

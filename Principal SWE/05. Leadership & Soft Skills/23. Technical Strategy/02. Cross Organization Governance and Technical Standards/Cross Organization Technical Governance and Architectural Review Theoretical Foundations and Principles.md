@@ -1,6 +1,7 @@
 ---
 title: "Cross Organization Technical Governance and Architectural Review Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

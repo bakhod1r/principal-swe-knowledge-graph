@@ -1,6 +1,7 @@
 ---
 title: Introduction (Postgresql Mastery & DBA)
 tags:
+  - review
   - backend
   - architecture
   - postgresql-mastery-and-dba

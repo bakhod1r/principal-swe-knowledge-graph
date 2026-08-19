@@ -1,6 +1,7 @@
 ---
 title: "Windowing Semantics (Tumbling, Sliding, Session Windows) and Watermarks"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

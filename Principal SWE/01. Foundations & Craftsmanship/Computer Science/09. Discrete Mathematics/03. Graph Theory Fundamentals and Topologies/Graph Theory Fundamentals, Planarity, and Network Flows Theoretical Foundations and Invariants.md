@@ -1,6 +1,7 @@
 ---
 title: "Graph Theory Fundamentals, Planarity, and Network Flows Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

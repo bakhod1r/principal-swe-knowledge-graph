@@ -10,7 +10,7 @@ tags:
   - cryptography
   - zero-trust
   - principal-swe
-parent: "[[Principal SWE]]"
+parent: "[[Infrastructure & Security]]"
 ---
 
 # 🛡️ Cyber Security & Defensive Systems Engineering
@@ -236,8 +236,26 @@ Cyber Security
 ---
 
 ## 🔗 Navigation
-- ⬆️ Parent: [[Principal SWE]]
+- ⬆️ Parent: `Principal SWE`
 - 🏛️ Software Architecture: `Architecture`
 - 💻 Computer Science Foundations: `Computer Science`
 - 🚀 Infrastructure & DevOps: `DevOps`
 
+---
+
+## 🗂️ Contents
+
+- [[AI Red Teaming & LLM Safety Engineering]]
+- [[Api & Microservice Security Architecture]]
+- [[Attack Types, Red Teaming & Penetration Testing]]
+- [[Cloud Security, IAM & Workload Protection]]
+- [[Core Cyber Security Foundations & Security Models]]
+- [[Database Security]]
+- [[Defensive Cryptography, PKI & Key Management]]
+- [[Devsecops, Secure SDLC & Supply Chain Hardening]]
+- [[Identity, Access Management & Zero Trust Governance]]
+- [[Incident Response, Digital Forensics & Soc Operations]]
+- [[OWASP Top 10 & Web Application Hardening]]
+- [[Server Security & Infrastructure Hardening]]
+- [[Storage Encryption]]
+- [[Threat Modeling, Risk Assessment & Attack Trees]]

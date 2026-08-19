@@ -1,6 +1,7 @@
 ---
 title: "Np Hard TSP Hamiltonian Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

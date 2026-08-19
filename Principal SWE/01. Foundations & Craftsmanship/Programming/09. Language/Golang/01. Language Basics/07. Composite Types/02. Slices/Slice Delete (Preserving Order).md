@@ -1,6 +1,7 @@
 ---
 title: "Slice Delete (Preserving Order)"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

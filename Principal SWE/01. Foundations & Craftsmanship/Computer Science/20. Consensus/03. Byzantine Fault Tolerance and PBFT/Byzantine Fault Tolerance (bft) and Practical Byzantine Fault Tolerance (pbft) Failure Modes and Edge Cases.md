@@ -1,6 +1,7 @@
 ---
 title: "Byzantine Fault Tolerance (bft) and Practical Byzantine Fault Tolerance (pbft) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

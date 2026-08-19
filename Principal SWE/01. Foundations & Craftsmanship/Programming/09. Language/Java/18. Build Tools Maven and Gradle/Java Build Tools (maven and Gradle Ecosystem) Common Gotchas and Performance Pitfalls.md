@@ -1,6 +1,7 @@
 ---
 title: "Java Build Tools (maven and Gradle Ecosystem) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

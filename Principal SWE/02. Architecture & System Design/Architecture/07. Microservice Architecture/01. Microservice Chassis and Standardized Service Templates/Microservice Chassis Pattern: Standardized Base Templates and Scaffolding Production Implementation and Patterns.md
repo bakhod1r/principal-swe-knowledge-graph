@@ -1,6 +1,7 @@
 ---
 title: "Microservice Chassis Pattern: Standardized Base Templates and Scaffolding Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

@@ -1,6 +1,7 @@
 ---
 title: "Python Package Managers and Build Tools Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

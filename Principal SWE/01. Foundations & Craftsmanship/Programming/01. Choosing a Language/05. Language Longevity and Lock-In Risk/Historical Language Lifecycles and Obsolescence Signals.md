@@ -1,6 +1,7 @@
 ---
 title: "Historical Language Lifecycles and Obsolescence Signals"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "The Technical Debt Balance Sheet - Quantifying Architectural Drag in Dollars Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

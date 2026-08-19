@@ -1,6 +1,7 @@
 ---
 title: "Quantization Aware Training (qat) and Mixed Precision Training (fp16, Bf16, Fp8) Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization

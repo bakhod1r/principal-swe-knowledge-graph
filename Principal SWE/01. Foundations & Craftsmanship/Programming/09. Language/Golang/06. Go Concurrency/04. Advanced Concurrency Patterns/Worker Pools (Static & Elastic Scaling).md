@@ -1,6 +1,7 @@
 ---
 title: "Worker Pools (Static & Elastic Scaling)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

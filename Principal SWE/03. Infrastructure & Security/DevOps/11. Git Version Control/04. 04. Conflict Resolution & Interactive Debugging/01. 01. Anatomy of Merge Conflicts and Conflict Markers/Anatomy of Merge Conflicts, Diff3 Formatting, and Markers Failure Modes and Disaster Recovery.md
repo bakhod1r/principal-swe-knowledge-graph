@@ -1,6 +1,7 @@
 ---
 title: "Anatomy of Merge Conflicts, Diff3 Formatting, and Markers Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

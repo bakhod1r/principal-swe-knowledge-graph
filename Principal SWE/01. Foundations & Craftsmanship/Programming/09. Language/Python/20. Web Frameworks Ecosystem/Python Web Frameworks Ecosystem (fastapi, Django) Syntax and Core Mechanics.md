@@ -1,6 +1,7 @@
 ---
 title: "Python Web Frameworks Ecosystem (fastapi, Django) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

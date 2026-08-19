@@ -1,6 +1,7 @@
 ---
 title: "Pull Request (pr) Sizing, Trunk Based Development, and Velocity Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship

@@ -1,6 +1,7 @@
 ---
 title: Systems Thinking: Mental Models, System Archetypes, and Feedback Loops
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

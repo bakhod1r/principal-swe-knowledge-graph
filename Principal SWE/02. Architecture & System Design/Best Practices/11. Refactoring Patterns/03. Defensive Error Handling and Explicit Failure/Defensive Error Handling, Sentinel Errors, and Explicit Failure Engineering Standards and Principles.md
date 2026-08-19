@@ -1,6 +1,7 @@
 ---
 title: "Defensive Error Handling, Sentinel Errors, and Explicit Failure Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

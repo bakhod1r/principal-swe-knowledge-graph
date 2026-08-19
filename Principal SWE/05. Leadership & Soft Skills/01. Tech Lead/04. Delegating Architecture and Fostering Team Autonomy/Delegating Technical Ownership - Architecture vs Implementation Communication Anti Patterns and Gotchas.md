@@ -1,6 +1,7 @@
 ---
 title: "Delegating Technical Ownership - Architecture vs Implementation Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

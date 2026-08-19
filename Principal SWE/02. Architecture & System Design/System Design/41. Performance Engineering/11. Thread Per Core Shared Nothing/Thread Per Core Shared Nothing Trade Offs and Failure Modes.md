@@ -1,6 +1,7 @@
 ---
 title: "Thread Per Core Shared Nothing Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

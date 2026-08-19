@@ -1,6 +1,7 @@
 ---
 title: "Distributed Lock (Redlock Algorithm & Etcd Lease Fencing)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

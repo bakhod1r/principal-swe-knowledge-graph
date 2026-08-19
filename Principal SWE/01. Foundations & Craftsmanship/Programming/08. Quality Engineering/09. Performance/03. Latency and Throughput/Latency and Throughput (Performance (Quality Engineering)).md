@@ -1,6 +1,7 @@
 ---
 title: Latency and Throughput (Performance (Quality Engineering))
 tags:
+  - review
   - programming
   - quality
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Code Review Slas - Minimizing Review Latency and Blocking Queues Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

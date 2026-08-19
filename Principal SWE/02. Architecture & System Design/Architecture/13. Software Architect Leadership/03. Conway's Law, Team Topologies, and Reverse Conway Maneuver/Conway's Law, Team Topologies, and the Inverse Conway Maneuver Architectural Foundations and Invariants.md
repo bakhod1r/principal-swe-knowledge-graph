@@ -1,6 +1,7 @@
 ---
 title: "Conway's Law, Team Topologies, and the Inverse Conway Maneuver Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

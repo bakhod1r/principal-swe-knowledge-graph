@@ -1,6 +1,7 @@
 ---
 title: "Product Strategy, Vision, and Technical Feasibility Alignment Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

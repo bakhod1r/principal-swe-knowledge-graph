@@ -1,6 +1,7 @@
 ---
 title: "Osi and TCP Ip Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

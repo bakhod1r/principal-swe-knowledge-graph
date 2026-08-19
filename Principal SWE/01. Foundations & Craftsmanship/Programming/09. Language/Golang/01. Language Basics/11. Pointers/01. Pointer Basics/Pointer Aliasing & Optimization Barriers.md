@@ -1,6 +1,7 @@
 ---
 title: "Pointer Aliasing & Optimization Barriers"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

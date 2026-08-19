@@ -1,6 +1,7 @@
 ---
 title: "Struct Alignment, Offset Calculation & False Sharing"
 tags:
+  - review
   - golang
   - composite-types
   - principal-swe

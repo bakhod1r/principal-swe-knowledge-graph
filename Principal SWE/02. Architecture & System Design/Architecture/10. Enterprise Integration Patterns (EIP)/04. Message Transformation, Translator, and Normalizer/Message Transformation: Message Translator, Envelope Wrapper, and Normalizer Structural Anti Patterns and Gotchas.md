@@ -1,6 +1,7 @@
 ---
 title: "Message Transformation: Message Translator, Envelope Wrapper, and Normalizer Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

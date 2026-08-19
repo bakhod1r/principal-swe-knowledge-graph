@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Bot Management, Super Bot Fight Mode, and Turnstile Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

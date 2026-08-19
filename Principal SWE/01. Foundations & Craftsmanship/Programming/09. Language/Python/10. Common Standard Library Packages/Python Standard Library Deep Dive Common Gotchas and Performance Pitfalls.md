@@ -1,6 +1,7 @@
 ---
 title: "Python Standard Library Deep Dive Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

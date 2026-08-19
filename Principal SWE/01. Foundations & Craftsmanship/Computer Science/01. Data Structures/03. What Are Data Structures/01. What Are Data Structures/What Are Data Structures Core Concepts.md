@@ -1,6 +1,7 @@
 ---
 title: "What Are Data Structures Core Concepts"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

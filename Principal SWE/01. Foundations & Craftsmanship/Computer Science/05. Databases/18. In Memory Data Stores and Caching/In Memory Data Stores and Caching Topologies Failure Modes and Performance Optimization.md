@@ -1,6 +1,7 @@
 ---
 title: "In Memory Data Stores and Caching Topologies Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

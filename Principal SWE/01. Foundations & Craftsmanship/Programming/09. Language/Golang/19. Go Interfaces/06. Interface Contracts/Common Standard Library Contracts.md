@@ -1,6 +1,7 @@
 ---
 title: "Common Standard Library Contracts"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

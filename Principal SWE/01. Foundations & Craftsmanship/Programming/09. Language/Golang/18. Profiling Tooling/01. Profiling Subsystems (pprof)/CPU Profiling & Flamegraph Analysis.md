@@ -1,6 +1,7 @@
 ---
 title: "CPU Profiling & Flamegraph Analysis"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

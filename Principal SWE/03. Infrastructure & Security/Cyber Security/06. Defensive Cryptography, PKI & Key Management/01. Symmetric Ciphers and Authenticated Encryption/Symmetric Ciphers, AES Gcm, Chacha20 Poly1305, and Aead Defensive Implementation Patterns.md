@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Ciphers, AES Gcm, Chacha20 Poly1305, and Aead Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management

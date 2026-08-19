@@ -1,6 +1,7 @@
 ---
 title: "Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh) Production Implementation Patterns (Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh))"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

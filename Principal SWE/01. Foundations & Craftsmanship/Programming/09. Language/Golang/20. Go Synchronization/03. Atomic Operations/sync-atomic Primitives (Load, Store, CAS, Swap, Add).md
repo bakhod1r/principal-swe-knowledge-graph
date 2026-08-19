@@ -1,6 +1,7 @@
 ---
 title: "sync-atomic Primitives (Load, Store, CAS, Swap, Add)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

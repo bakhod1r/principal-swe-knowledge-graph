@@ -1,6 +1,7 @@
 ---
 title: "Circular Ring Buffer Array Indexing (Bitwise AND Masking)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

@@ -1,6 +1,7 @@
 ---
 title: "Model Extraction, Membership Inference, and Training Data Extraction Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering

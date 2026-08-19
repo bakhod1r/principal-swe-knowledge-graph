@@ -1,6 +1,7 @@
 ---
 title: "Egg Dropping Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

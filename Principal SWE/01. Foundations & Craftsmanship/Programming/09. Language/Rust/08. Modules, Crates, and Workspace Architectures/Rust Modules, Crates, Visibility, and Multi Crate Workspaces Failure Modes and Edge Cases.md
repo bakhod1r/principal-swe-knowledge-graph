@@ -1,6 +1,7 @@
 ---
 title: "Rust Modules, Crates, Visibility, and Multi Crate Workspaces Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

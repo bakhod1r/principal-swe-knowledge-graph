@@ -1,6 +1,7 @@
 ---
 title: "Row Level Security (rls), Tenant Isolation, and Virtual Private Databases Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

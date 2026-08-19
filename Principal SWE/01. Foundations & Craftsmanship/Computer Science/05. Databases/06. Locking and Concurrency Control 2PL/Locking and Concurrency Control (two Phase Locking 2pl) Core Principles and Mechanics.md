@@ -1,6 +1,7 @@
 ---
 title: "Locking and Concurrency Control (two Phase Locking 2pl) Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

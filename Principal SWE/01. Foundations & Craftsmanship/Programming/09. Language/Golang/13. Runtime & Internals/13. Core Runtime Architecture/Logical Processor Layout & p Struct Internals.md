@@ -1,6 +1,7 @@
 ---
 title: "Logical Processor Layout & p Struct Internals"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

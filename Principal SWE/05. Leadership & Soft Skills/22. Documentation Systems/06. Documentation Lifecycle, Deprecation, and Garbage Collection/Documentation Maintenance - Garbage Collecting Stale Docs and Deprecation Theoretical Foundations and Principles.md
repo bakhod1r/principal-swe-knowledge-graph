@@ -1,6 +1,7 @@
 ---
 title: "Documentation Maintenance - Garbage Collecting Stale Docs and Deprecation Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

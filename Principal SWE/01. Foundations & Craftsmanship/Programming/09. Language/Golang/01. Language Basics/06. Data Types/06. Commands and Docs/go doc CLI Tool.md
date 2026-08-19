@@ -1,6 +1,7 @@
 ---
 title: "go doc CLI Tool"
 tags:
+  - review
   - golang
   - types
   - principal-swe

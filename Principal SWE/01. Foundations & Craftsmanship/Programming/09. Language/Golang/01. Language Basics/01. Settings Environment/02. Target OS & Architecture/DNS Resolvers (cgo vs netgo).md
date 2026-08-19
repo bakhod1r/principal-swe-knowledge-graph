@@ -1,6 +1,7 @@
 ---
 title: "DNS Resolvers (cgo vs netgo)"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

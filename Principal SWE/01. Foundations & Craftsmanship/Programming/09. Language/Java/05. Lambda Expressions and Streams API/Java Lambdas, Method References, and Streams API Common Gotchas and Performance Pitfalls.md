@@ -1,6 +1,7 @@
 ---
 title: "Java Lambdas, Method References, and Streams API Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Ciphers, AES Rijndael, and Block Cipher Modes (CBC, CTR, GCM) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

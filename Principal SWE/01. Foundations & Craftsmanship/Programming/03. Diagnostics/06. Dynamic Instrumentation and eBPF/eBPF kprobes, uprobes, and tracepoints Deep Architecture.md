@@ -1,6 +1,7 @@
 ---
 title: "eBPF kprobes, uprobes, and tracepoints Deep Architecture"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

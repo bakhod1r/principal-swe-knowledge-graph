@@ -1,6 +1,7 @@
 ---
 title: "Structure of Arrays (SoA) vs Array of Structures (AoS)"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

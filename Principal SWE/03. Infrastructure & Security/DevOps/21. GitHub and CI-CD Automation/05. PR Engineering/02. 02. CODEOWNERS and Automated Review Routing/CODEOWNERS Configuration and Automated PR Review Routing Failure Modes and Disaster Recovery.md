@@ -1,6 +1,7 @@
 ---
 title: "CODEOWNERS Configuration and Automated PR Review Routing Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

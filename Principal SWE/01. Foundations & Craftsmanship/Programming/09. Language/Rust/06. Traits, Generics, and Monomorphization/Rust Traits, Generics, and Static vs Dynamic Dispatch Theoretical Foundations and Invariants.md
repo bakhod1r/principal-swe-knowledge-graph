@@ -1,6 +1,7 @@
 ---
 title: "Rust Traits, Generics, and Static vs Dynamic Dispatch Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

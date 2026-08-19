@@ -1,6 +1,7 @@
 ---
 title: "SQL Performance Optimization and Query Plan Tuning Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

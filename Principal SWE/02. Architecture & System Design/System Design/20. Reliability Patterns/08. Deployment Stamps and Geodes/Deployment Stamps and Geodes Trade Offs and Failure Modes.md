@@ -1,6 +1,7 @@
 ---
 title: "Deployment Stamps and Geodes Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

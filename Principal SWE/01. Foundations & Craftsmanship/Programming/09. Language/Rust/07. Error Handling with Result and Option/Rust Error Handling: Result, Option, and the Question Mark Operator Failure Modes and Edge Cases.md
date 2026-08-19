@@ -1,6 +1,7 @@
 ---
 title: "Rust Error Handling: Result, Option, and the Question Mark Operator Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

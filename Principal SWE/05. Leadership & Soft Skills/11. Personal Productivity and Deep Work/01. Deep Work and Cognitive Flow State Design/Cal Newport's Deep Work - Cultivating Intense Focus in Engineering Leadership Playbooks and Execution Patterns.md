@@ -1,6 +1,7 @@
 ---
 title: "Cal Newport's Deep Work - Cultivating Intense Focus in Engineering Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

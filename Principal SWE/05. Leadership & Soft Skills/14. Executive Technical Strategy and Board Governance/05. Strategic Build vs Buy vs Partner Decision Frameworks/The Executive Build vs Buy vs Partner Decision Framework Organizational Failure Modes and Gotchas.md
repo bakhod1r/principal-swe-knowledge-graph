@@ -1,6 +1,7 @@
 ---
 title: "The Executive Build vs Buy vs Partner Decision Framework Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

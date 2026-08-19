@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Memory Limit Tuning (debug.SetMemoryLimit)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

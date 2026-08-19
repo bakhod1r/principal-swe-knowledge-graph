@@ -1,6 +1,7 @@
 ---
 title: "Range over Func (Go 1.23+ Iterators)"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

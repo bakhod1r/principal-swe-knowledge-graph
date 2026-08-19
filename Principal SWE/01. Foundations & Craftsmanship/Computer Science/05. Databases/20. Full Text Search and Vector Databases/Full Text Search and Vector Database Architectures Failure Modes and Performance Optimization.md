@@ -1,6 +1,7 @@
 ---
 title: "Full Text Search and Vector Database Architectures Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

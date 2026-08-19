@@ -1,6 +1,7 @@
 ---
 title: "Delve Debugger (dlv) Deep Architectural Mastery"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

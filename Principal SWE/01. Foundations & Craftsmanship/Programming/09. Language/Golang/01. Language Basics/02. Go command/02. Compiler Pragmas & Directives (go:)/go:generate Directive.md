@@ -1,6 +1,7 @@
 ---
 title: "go:generate Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

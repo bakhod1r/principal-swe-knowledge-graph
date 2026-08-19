@@ -1,6 +1,7 @@
 ---
 title: Python Generator Expressions and Streaming Data
 tags:
+  - review
   - programming
   - python
   - principal-swe

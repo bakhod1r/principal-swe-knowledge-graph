@@ -1,6 +1,7 @@
 ---
 title: "uintptr Pointer Arithmetic Rules"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

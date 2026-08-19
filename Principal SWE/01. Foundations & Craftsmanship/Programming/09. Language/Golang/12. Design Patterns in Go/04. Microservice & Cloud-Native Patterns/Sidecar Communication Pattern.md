@@ -1,6 +1,7 @@
 ---
 title: "Sidecar Communication Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

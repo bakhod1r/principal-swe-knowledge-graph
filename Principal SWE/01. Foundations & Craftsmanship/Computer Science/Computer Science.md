@@ -7,7 +7,7 @@ tags:
   - distributed-systems
   - compilers
   - principal-swe
-parent: "[[Principal SWE]]"
+parent: "[[Foundations & Craftsmanship]]"
 ---
 
 # 💻 Computer Science (Core Foundations, Systems Engineering & Mathematical Theory)
@@ -198,8 +198,34 @@ Comprehensive, production-grade master architecture covering the complete academ
 ---
 
 ## 🔗 Navigation
-- ⬆️ Parent: [[Principal SWE]]
+- ⬆️ Parent: `Principal SWE`
 - 🏛️ Software Architecture: `Architecture`
 - 🏛️ High-Scale Systems: `System Design`
 - 🚀 Infrastructure & DevOps: `DevOps`
 
+---
+
+## 🗂️ Contents
+
+- [[Algorithms]]
+- [[Compilers, Interpreters & Runtime Optimization]]
+- [[Complexity Theory]]
+- [[Computer Architecture & Hardware Systems]]
+- [[Concurrency and Multithreading]]
+- [[Consensus]]
+- [[Cryptography & Mathematical Security]]
+- [[Data Structures]]
+- [[Databases]]
+- [[Discrete Mathematics]]
+- [[Distributed Systems Theory]]
+- [[Formal Logic]]
+- [[GPU Architecture & High Performance Parallel Computing]]
+- [[Information Theory & Data Compression]]
+- [[Internet Transport Internals]]
+- [[Memory Models]]
+- [[Network Systems]]
+- [[Numerical Methods & Scientific Computing]]
+- [[Operating Systems & Kernel Internals]]
+- [[Programming Language Theory]]
+- [[Theory of Computation]]
+- [[Type System Theory]]

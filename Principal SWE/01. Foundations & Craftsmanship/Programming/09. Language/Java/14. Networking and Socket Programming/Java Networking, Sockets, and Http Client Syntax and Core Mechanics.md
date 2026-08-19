@@ -1,6 +1,7 @@
 ---
 title: "Java Networking, Sockets, and Http Client Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

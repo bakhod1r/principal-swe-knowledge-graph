@@ -1,6 +1,7 @@
 ---
 title: "Database Partitioning, Sharding, and Federation Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

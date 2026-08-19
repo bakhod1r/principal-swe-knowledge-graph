@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Programming in Java Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

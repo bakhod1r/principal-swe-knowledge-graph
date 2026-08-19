@@ -1,6 +1,7 @@
 ---
 title: "Python Context Managers and with Statements Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

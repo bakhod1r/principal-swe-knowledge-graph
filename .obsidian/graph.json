@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -158,14 +158,14 @@
       "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/22. Type System Theory/\"",
       "color": {
         "a": 1,
-        "rgb": 10612058
+        "rgb": 10546522
       }
     },
     {
       "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/01. Choosing a Language/\"",
       "color": {
         "a": 1,
-        "rgb": 6271509
+        "rgb": 6205973
       }
     },
     {
@@ -312,14 +312,14 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/06. Distributed Data Patterns (CQRS, Event Sourcing, Sagas)/\"",
       "color": {
         "a": 1,
-        "rgb": 53503
+        "rgb": 53247
       }
     },
     {
       "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/07. Microservice Architecture/\"",
       "color": {
         "a": 1,
-        "rgb": 5951469
+        "rgb": 5951213
       }
     },
     {
@@ -417,7 +417,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/21. Modern Architectural Styles/\"",
       "color": {
         "a": 1,
-        "rgb": 35839
+        "rgb": 35583
       }
     },
     {
@@ -438,7 +438,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/02. AWS & Multi-Cloud Architecture Best Practices/\"",
       "color": {
         "a": 1,
-        "rgb": 3968216
+        "rgb": 3967960
       }
     },
     {
@@ -508,7 +508,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/12. Incident Readiness/\"",
       "color": {
         "a": 1,
-        "rgb": 3963608
+        "rgb": 3963352
       }
     },
     {
@@ -529,7 +529,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/03. Capacity Estimation/\"",
       "color": {
         "a": 1,
-        "rgb": 5935085
+        "rgb": 5934829
       }
     },
     {
@@ -543,7 +543,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/05. Networking Protocols/\"",
       "color": {
         "a": 1,
-        "rgb": 3961304
+        "rgb": 3961048
       }
     },
     {
@@ -578,7 +578,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/10. Application Layer/\"",
       "color": {
         "a": 1,
-        "rgb": 3957720
+        "rgb": 3957464
       }
     },
     {
@@ -641,7 +641,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/19. Building Blocks/\"",
       "color": {
         "a": 1,
-        "rgb": 1382322
+        "rgb": 1382066
       }
     },
     {
@@ -676,7 +676,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/24. Observability/\"",
       "color": {
         "a": 1,
-        "rgb": 2692530
+        "rgb": 2758066
       }
     },
     {
@@ -697,7 +697,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/27. Security at Scale/\"",
       "color": {
         "a": 1,
-        "rgb": 3277055
+        "rgb": 3342591
       }
     },
     {
@@ -809,7 +809,7 @@
       "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/43. Payments and Fintech/\"",
       "color": {
         "a": 1,
-        "rgb": 11295469
+        "rgb": 11361005
       }
     },
     {
@@ -830,7 +830,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/03. Database Security/\"",
       "color": {
         "a": 1,
-        "rgb": 7673266
+        "rgb": 7738802
       }
     },
     {
@@ -879,7 +879,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/10. Cloud Security, IAM & Workload Protection/\"",
       "color": {
         "a": 1,
-        "rgb": 7407513
+        "rgb": 7473049
       }
     },
     {
@@ -907,7 +907,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/14. Storage Encryption/\"",
       "color": {
         "a": 1,
-        "rgb": 12008664
+        "rgb": 12074200
       }
     },
     {
@@ -928,7 +928,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/03. Kubernetes/\"",
       "color": {
         "a": 1,
-        "rgb": 14244589
+        "rgb": 14310125
       }
     },
     {
@@ -956,7 +956,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/07. Cloudflare Edge Computing/\"",
       "color": {
         "a": 1,
-        "rgb": 16646399
+        "rgb": 16711934
       }
     },
     {
@@ -991,7 +991,7 @@
       "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/12. Cloud-Native Orchestration/\"",
       "color": {
         "a": 1,
-        "rgb": 16711900
+        "rgb": 16711899
       }
     },
     {
@@ -1068,7 +1068,7 @@
       "query": "path:\"Principal SWE/04. AI & Intelligent Systems/02. Prompt Engineering, Context Optimization & LLM Alignment/\"",
       "color": {
         "a": 1,
-        "rgb": 15555259
+        "rgb": 15555258
       }
     },
     {
@@ -1152,7 +1152,7 @@
       "query": "path:\"Principal SWE/04. AI & Intelligent Systems/14. RAG Architectures/\"",
       "color": {
         "a": 1,
-        "rgb": 14171271
+        "rgb": 14171270
       }
     },
     {
@@ -1399,6 +1399,104 @@
         "a": 1,
         "rgb": 11670806
       }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Foundations & Craftsmanship.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture & System Design.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Infrastructure & Security.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/04. AI & Intelligent Systems/AI & Intelligent Systems.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/05. Leadership & Soft Skills/Leadership & Soft Skills.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/Principal SWE.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/System Design/System Design.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Best Practices/Best Practices.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/02. Architecture & System Design/Architecture/Architecture.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/DevOps/DevOps.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/03. Infrastructure & Security/Cyber Security/Cyber Security.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/Programming.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Computer Science/Computer Science.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
+    },
+    {
+      "query": "path:\"Principal SWE/01. Foundations & Craftsmanship/Programming/09. Language/Language.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12109008
+      }
     }
   ],
   "collapse-display": true,
@@ -1409,8 +1507,8 @@
   "collapse-forces": true,
   "centerStrength": 0.18,
   "repelStrength": 13,
-  "linkStrength": 1,
+  "linkStrength": 1.0,
   "linkDistance": 45,
-  "scale": 0.4856876380376155,
+  "scale": 0.15,
   "close": true
 }

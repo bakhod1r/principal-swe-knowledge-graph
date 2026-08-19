@@ -1,6 +1,7 @@
 ---
 title: "Push vs Pull Iterators (iter.Pull & iter.Pull2)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

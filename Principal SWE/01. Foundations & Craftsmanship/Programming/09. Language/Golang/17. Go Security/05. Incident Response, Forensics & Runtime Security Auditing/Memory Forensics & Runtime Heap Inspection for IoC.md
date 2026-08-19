@@ -1,6 +1,7 @@
 ---
 title: "Memory Forensics & Runtime Heap Inspection for IoC"
 tags:
+  - review
   - golang
   - security
   - principal-swe

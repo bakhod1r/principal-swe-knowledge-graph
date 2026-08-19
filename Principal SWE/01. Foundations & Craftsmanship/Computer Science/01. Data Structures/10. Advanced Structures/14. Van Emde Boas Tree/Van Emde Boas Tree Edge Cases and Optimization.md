@@ -1,6 +1,7 @@
 ---
 title: "Van Emde Boas Tree Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Accidental Complexity vs Essential Complexity: Avoiding Premature Abstraction Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

@@ -1,6 +1,7 @@
 ---
 title: "Runtime Boot Sequence (rt0_go & asm_amd64.s)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

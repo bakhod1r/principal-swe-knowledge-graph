@@ -1,6 +1,7 @@
 ---
 title: "Lossless Compression, Huffman Coding, LZ77, and Deflate Algorithms Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

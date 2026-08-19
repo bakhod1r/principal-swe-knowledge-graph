@@ -1,6 +1,7 @@
 ---
 title: "Channel Memory Layout (hchan Struct)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

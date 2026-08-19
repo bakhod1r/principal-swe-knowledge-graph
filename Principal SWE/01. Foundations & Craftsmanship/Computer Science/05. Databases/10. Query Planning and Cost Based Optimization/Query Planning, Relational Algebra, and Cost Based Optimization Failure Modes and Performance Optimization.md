@@ -1,6 +1,7 @@
 ---
 title: "Query Planning, Relational Algebra, and Cost Based Optimization Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Rust, Cargo, and Rustup Toolchain Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "Semantic Caching (gptcache) and Multi Tiered Model Routing Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

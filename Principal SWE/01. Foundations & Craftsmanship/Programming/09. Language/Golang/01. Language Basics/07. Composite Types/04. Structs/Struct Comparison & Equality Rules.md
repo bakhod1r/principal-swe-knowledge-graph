@@ -1,6 +1,7 @@
 ---
 title: "Struct Comparison & Equality Rules"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

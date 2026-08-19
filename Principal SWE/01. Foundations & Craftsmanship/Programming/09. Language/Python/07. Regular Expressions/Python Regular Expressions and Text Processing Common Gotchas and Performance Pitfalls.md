@@ -1,6 +1,7 @@
 ---
 title: "Python Regular Expressions and Text Processing Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - python
   - principal-swe

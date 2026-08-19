@@ -1,6 +1,7 @@
 ---
 title: "Mechanical Sympathy and Hardware Aligned Software Design Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

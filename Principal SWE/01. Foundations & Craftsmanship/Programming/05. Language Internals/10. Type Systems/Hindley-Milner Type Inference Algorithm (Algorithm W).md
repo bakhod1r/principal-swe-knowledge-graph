@@ -1,6 +1,7 @@
 ---
 title: "Hindley-Milner Type Inference Algorithm (Algorithm W)"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

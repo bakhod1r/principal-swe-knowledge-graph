@@ -1,6 +1,7 @@
 ---
 title: "Hardware Atomics, Compare and Swap (CAS), and Lock-Free Primitives"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

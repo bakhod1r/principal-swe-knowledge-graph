@@ -1,6 +1,7 @@
 ---
 title: Repository Security, Secrets & Supply Chain Hardening
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

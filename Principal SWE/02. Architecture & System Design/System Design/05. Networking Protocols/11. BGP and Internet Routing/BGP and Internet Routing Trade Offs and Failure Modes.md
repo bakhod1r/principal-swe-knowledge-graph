@@ -1,6 +1,7 @@
 ---
 title: "BGP and Internet Routing Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

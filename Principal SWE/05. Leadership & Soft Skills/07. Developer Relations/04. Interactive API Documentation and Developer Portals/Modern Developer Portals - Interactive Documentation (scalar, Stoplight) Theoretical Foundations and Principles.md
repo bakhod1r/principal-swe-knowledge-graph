@@ -1,6 +1,7 @@
 ---
 title: "Modern Developer Portals - Interactive Documentation (scalar, Stoplight) Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: Bash Functions, Local Scope, and Command Line Argument Parsing (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: "Consumer-Defined Interfaces (Accept Interfaces, Return Structs)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

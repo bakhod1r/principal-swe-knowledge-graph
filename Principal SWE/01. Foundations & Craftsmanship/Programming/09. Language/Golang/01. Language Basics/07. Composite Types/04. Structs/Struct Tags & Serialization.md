@@ -1,6 +1,7 @@
 ---
 title: "Struct Tags & Serialization"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

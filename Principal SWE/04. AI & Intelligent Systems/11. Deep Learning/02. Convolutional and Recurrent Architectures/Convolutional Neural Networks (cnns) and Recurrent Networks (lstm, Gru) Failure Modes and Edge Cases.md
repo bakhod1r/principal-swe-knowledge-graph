@@ -1,6 +1,7 @@
 ---
 title: "Convolutional Neural Networks (cnns) and Recurrent Networks (lstm, Gru) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

@@ -1,6 +1,7 @@
 ---
 title: "Primitive Root Discrete Root Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

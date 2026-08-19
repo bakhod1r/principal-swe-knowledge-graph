@@ -1,6 +1,7 @@
 ---
 title: "Bulkhead Isolation and Concurrency Segregation Standards Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

@@ -1,6 +1,7 @@
 ---
 title: "Leader-Followers Pattern: Eliminating Context Switching in Thread Pools Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

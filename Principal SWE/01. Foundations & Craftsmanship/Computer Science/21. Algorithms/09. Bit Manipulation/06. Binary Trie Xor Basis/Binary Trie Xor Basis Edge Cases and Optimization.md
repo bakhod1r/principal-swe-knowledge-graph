@@ -1,6 +1,7 @@
 ---
 title: "Binary Trie Xor Basis Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Distributed Transactions, Saga Orchestration, Choreography, and Transactional Outbox"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

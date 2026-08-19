@@ -1,6 +1,7 @@
 ---
 title: "Writing Game Changing Technical RFCs and Architectural Proposals Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

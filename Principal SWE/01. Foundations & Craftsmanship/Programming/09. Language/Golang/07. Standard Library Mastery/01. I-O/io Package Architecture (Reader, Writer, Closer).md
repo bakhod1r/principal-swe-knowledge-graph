@@ -1,6 +1,7 @@
 ---
 title: "io Package Architecture (Reader, Writer, Closer)"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

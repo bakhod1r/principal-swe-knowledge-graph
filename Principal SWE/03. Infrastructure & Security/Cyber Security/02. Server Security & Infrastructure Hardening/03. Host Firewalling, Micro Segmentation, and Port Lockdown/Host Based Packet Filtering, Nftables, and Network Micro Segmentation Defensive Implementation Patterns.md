@@ -1,6 +1,7 @@
 ---
 title: "Host Based Packet Filtering, Nftables, and Network Micro Segmentation Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

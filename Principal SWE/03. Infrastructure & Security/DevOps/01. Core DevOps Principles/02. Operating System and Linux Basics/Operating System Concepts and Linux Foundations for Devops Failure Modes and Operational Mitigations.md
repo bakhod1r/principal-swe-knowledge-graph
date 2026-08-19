@@ -1,6 +1,7 @@
 ---
 title: "Operating System Concepts and Linux Foundations for Devops Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

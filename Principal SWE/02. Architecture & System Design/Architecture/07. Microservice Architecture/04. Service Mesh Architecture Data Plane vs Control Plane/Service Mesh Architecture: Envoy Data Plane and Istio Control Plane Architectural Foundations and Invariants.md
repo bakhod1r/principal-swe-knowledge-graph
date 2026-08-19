@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh Architecture: Envoy Data Plane and Istio Control Plane Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

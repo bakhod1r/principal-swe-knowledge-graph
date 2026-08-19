@@ -1,6 +1,7 @@
 ---
 title: "Blameless Culture, Five Whys, and Systemic Root Cause Analysis Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

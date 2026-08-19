@@ -1,6 +1,7 @@
 ---
 title: "SPIFFE & SPIRE Workload Identity in Go"
 tags:
+  - review
   - golang
   - security
   - principal-swe

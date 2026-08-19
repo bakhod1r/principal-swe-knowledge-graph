@@ -1,6 +1,7 @@
 ---
 title: "Kernel Audit Subsystem (auditd), Syscall Telemetry, and eBPF Tracing Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening

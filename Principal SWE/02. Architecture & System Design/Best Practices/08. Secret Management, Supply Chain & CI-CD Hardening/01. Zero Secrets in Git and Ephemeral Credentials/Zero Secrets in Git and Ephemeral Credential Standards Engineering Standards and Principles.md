@@ -1,6 +1,7 @@
 ---
 title: "Zero Secrets in Git and Ephemeral Credential Standards Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

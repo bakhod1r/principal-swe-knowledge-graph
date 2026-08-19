@@ -1,6 +1,7 @@
 ---
 title: "Internal Community Building - Engineering Guilds, Brown Bags, and Hackathons Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

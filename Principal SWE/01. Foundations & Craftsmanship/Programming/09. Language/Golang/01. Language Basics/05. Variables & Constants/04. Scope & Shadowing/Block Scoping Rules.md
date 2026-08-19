@@ -1,6 +1,7 @@
 ---
 title: "Block Scoping Rules"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

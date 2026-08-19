@@ -1,6 +1,7 @@
 ---
 title: "SQL Stored Procedures, Functions, and Triggers Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

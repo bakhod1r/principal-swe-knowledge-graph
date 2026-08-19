@@ -1,6 +1,7 @@
 ---
 title: "Idempotency and Exactly Once Payments Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

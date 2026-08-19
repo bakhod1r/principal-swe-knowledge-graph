@@ -1,6 +1,7 @@
 ---
 title: "Payments Ecosystem and Rails Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

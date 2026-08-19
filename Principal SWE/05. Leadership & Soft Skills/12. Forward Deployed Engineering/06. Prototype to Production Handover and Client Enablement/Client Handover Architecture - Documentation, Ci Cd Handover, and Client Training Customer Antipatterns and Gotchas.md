@@ -1,6 +1,7 @@
 ---
 title: "Client Handover Architecture - Documentation, Ci Cd Handover, and Client Training Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

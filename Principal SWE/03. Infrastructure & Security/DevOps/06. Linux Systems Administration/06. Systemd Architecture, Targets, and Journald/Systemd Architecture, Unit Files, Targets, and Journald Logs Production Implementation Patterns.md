@@ -1,6 +1,7 @@
 ---
 title: "Systemd Architecture, Unit Files, Targets, and Journald Logs Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

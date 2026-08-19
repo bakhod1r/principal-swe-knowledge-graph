@@ -1,6 +1,7 @@
 ---
 title: "GOPRIVATE Enterprise Repositories"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

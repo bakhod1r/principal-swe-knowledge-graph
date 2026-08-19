@@ -1,6 +1,7 @@
 ---
 title: "Container Lifecycle Automation, Pruning, and Garbage Collection Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

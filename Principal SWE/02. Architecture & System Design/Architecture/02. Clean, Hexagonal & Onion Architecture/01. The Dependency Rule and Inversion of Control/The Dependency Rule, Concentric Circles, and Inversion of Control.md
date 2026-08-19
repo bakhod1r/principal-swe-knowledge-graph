@@ -1,6 +1,7 @@
 ---
 title: The Dependency Rule, Concentric Circles, and Inversion of Control
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

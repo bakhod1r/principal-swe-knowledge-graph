@@ -1,6 +1,7 @@
 ---
 title: "Embedding Structs & Promotion"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

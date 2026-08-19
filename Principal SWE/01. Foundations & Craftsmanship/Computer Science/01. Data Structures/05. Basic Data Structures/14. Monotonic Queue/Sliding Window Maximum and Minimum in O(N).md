@@ -1,6 +1,7 @@
 ---
 title: "Sliding Window Maximum and Minimum in O(N)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

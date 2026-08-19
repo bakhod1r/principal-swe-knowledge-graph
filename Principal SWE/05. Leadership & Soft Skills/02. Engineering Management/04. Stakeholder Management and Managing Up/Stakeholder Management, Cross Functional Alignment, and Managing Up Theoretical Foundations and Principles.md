@@ -1,6 +1,7 @@
 ---
 title: "Stakeholder Management, Cross Functional Alignment, and Managing Up Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

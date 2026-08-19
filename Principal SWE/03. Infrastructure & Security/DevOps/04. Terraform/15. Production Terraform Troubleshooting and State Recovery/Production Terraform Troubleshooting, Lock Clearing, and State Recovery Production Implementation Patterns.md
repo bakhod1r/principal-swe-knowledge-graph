@@ -1,6 +1,7 @@
 ---
 title: "Production Terraform Troubleshooting, Lock Clearing, and State Recovery Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

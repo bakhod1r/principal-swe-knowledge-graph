@@ -1,6 +1,7 @@
 ---
 title: "Assembly Generation (-S & go tool compile -S)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "The Three Pillars of Observability and Unified Telemetry"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

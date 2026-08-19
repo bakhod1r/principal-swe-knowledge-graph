@@ -1,6 +1,7 @@
 ---
 title: "High Impact Agile Rituals - Asynchronous Standups, Blameless Retros, and Demos Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

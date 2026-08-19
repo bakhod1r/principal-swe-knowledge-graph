@@ -1,6 +1,7 @@
 ---
 title: "Linux Kernel Performance Tuning via Sysctl and Procfs Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-and-administration

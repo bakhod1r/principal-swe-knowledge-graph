@@ -1,6 +1,7 @@
 ---
 title: "Write Ahead Logging (wal) and ARIES Crash Recovery Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

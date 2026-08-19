@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 Data Engineering, ETL Pipelines & Lakehouse Architecture
@@ -45,5 +45,5 @@ Data Engineering, ETL Pipelines & Lakehouse Architecture
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

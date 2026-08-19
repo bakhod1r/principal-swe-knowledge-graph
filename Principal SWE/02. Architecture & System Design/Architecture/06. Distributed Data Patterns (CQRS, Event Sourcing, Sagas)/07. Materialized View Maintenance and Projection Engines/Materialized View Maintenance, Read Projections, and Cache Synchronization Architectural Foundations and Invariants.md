@@ -1,6 +1,7 @@
 ---
 title: "Materialized View Maintenance, Read Projections, and Cache Synchronization Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

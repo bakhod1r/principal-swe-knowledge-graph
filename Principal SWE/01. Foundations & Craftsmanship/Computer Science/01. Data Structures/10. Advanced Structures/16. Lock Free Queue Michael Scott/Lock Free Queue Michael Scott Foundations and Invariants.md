@@ -1,6 +1,7 @@
 ---
 title: "Lock Free Queue Michael Scott Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

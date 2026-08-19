@@ -1,6 +1,7 @@
 ---
 title: "_defer Struct Architecture & Linked Lists"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

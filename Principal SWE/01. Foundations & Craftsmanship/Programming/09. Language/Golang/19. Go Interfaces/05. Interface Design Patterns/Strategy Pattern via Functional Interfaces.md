@@ -1,6 +1,7 @@
 ---
 title: "Strategy Pattern via Functional Interfaces"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

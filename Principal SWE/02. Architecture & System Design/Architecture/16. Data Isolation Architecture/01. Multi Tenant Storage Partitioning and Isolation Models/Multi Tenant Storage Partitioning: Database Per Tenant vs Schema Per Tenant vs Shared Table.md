@@ -1,6 +1,7 @@
 ---
 title: Multi Tenant Storage Partitioning: Database Per Tenant vs Schema Per Tenant vs Shared Table
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

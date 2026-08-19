@@ -1,6 +1,7 @@
 ---
 title: "Writing High Impact Product Requirements Documents (prds) Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

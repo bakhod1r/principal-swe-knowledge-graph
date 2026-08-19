@@ -1,6 +1,7 @@
 ---
 title: Compensation Structures, Salary Bands, Equity, and Promotion Packets
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

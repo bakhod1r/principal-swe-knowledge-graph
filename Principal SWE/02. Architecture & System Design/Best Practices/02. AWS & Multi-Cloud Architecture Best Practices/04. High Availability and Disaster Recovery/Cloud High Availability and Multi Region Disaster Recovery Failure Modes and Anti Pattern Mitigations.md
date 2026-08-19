@@ -1,6 +1,7 @@
 ---
 title: "Cloud High Availability and Multi Region Disaster Recovery Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

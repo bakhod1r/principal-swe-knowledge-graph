@@ -1,6 +1,7 @@
 ---
 title: What Are Data Structures Overview
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[What Are Data Structures]]"

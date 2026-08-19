@@ -1,6 +1,7 @@
 ---
 title: "CodeQL Static Application Security Testing (SAST) in GitHub Actions Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

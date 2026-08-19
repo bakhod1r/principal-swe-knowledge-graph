@@ -1,6 +1,7 @@
 ---
 title: "Dead Letter Queue (DLQ) Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

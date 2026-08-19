@@ -1,6 +1,7 @@
 ---
 title: "Continuous Off-CPU Profiling with eBPF"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

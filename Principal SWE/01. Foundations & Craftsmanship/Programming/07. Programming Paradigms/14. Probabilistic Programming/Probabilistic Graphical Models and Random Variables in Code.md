@@ -1,6 +1,7 @@
 ---
 title: "Probabilistic Graphical Models and Random Variables in Code"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

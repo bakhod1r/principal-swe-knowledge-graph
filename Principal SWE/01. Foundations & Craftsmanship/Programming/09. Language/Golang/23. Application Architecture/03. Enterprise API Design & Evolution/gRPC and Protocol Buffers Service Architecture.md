@@ -1,6 +1,7 @@
 ---
 title: "gRPC and Protocol Buffers Service Architecture"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

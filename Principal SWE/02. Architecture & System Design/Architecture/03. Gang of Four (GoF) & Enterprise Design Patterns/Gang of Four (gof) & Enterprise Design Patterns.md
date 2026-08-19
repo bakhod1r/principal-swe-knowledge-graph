@@ -1,6 +1,7 @@
 ---
 title: Gang of Four (gof) & Enterprise Design Patterns
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

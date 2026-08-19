@@ -1,6 +1,7 @@
 ---
 title: "Consumer Driven Contract Testing for APIs with Pact Framework Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

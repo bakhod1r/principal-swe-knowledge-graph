@@ -1,6 +1,7 @@
 ---
 title: "Java Io and Modern NIO2 File Operations Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

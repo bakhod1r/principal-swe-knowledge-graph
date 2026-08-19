@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Edge Storage: Workers Kv, D1 Sql Database, and R2 Storage Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: Control Groups (cgroups V1 and V2) Cpu and Memory Controls
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

@@ -1,6 +1,7 @@
 ---
 title: "Retrieval Augmented Generation Rag Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

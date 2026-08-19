@@ -1,6 +1,7 @@
 ---
 title: "Defensive Nil Checking Patterns"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

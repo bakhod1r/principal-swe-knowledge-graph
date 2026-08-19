@@ -1,6 +1,7 @@
 ---
 title: "Distributed Task Scheduler Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

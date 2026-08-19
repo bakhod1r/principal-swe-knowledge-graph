@@ -1,6 +1,7 @@
 ---
 title: "De Escalating Cross Functional Friction Between Product and Engineering Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

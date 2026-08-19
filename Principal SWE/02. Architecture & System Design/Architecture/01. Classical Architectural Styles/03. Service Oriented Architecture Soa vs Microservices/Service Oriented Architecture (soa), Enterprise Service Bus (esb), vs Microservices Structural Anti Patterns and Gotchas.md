@@ -1,6 +1,7 @@
 ---
 title: "Service Oriented Architecture (soa), Enterprise Service Bus (esb), vs Microservices Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

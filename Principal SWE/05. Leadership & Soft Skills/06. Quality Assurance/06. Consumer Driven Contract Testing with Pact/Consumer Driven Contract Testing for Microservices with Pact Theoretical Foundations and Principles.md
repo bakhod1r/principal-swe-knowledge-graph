@@ -1,6 +1,7 @@
 ---
 title: "Consumer Driven Contract Testing for Microservices with Pact Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

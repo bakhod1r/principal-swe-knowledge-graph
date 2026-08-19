@@ -1,6 +1,7 @@
 ---
 title: "Queue FIFO Invariants and State Transitions"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

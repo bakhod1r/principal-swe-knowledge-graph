@@ -1,6 +1,7 @@
 ---
 title: "Finite Automata (DFA, NFA), Regular Languages, and Kleene's Theorem Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

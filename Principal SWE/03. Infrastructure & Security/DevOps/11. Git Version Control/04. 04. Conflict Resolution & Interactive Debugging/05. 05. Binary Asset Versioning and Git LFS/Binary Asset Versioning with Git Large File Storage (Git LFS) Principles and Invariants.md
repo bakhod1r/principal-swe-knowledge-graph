@@ -1,6 +1,7 @@
 ---
 title: "Binary Asset Versioning with Git Large File Storage (Git LFS) Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

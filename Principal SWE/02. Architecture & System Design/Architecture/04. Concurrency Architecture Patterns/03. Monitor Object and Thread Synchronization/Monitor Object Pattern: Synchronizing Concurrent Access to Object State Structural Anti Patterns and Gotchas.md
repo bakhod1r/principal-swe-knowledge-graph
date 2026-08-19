@@ -1,6 +1,7 @@
 ---
 title: "Monitor Object Pattern: Synchronizing Concurrent Access to Object State Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

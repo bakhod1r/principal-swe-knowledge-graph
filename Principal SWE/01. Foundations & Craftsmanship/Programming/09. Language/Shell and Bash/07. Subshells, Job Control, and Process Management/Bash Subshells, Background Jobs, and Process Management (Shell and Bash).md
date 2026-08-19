@@ -1,6 +1,7 @@
 ---
 title: Bash Subshells, Background Jobs, and Process Management (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

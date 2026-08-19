@@ -1,6 +1,7 @@
 ---
 title: "Public Key Infrastructure (pki), X.509 Certificates, and Crl Ocsp Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

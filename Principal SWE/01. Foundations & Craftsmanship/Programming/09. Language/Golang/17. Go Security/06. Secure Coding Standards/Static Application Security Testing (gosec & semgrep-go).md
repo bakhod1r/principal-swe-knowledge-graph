@@ -1,6 +1,7 @@
 ---
 title: "Static Application Security Testing (gosec & semgrep-go)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

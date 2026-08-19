@@ -1,6 +1,7 @@
 ---
 title: "Rust Concurrency: Threads, Channels, Mutex, and Send Sync Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "Google Docs Collab Editor Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

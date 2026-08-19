@@ -1,6 +1,7 @@
 ---
 title: "AWS Lambda Internals, Event Source Mappings, and Step Functions Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

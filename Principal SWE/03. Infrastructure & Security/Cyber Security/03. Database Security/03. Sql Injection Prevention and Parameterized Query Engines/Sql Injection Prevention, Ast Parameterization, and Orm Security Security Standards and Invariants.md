@@ -1,6 +1,7 @@
 ---
 title: "Sql Injection Prevention, Ast Parameterization, and Orm Security Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

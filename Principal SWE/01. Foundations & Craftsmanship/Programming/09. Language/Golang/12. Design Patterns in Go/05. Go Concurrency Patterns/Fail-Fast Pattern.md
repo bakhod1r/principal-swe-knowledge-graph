@@ -1,6 +1,7 @@
 ---
 title: "Fail-Fast Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

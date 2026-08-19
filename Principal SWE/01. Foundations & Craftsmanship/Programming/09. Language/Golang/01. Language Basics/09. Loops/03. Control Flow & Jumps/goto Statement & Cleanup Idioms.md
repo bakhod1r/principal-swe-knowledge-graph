@@ -1,6 +1,7 @@
 ---
 title: "goto Statement & Cleanup Idioms"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

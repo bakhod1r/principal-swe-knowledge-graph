@@ -1,6 +1,7 @@
 ---
 title: "Array Slicing, Windows, and Full 3-Index Expressions"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

@@ -1,6 +1,7 @@
 ---
 title: Bash Conditionals: Test Commands, Double Brackets, and Regex Matching (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

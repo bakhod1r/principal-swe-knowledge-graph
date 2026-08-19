@@ -1,6 +1,7 @@
 ---
 title: "Engineering Knowledge Systems - Structuring Team Wikis and Obsidian Vaults Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

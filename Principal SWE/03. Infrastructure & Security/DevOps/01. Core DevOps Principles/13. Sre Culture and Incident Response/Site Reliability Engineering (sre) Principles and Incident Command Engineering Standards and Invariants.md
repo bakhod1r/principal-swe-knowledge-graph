@@ -1,6 +1,7 @@
 ---
 title: "Site Reliability Engineering (sre) Principles and Incident Command Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

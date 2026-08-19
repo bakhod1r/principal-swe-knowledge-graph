@@ -1,6 +1,7 @@
 ---
 title: "Cloud Infrastructure As Code (iac) and Gitops Standards Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

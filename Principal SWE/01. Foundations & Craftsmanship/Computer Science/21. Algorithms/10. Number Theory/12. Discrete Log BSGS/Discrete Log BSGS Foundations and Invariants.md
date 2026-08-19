@@ -1,6 +1,7 @@
 ---
 title: "Discrete Log BSGS Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

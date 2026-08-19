@@ -1,6 +1,7 @@
 ---
 title: "Change Data Capture Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

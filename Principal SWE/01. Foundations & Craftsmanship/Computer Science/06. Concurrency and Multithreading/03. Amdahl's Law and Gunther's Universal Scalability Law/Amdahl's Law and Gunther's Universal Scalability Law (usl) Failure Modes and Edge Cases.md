@@ -1,6 +1,7 @@
 ---
 title: "Amdahl's Law and Gunther's Universal Scalability Law (usl) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

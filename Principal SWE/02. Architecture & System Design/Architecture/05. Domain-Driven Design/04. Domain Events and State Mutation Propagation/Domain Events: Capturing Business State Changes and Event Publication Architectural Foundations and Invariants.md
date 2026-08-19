@@ -1,6 +1,7 @@
 ---
 title: "Domain Events: Capturing Business State Changes and Event Publication Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

@@ -1,6 +1,7 @@
 ---
 title: "Ethical Software Engineering, User Privacy, and Societal Impact Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Python Package Managers and Build Tools Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Ledgers and Double Entry Accounting Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

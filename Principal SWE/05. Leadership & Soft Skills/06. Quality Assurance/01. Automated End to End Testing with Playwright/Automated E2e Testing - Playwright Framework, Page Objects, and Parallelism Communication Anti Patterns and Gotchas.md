@@ -1,6 +1,7 @@
 ---
 title: "Automated E2e Testing - Playwright Framework, Page Objects, and Parallelism Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

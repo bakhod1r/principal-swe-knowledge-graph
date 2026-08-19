@@ -1,6 +1,7 @@
 ---
 title: "Empty Struct struct{} Memory Address (zerobase pointer)"
 tags:
+  - review
   - golang
   - composite-types
   - principal-swe

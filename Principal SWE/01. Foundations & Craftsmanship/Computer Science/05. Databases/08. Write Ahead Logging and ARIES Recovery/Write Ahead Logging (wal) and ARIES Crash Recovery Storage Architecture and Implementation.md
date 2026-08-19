@@ -1,6 +1,7 @@
 ---
 title: "Write Ahead Logging (wal) and ARIES Crash Recovery Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

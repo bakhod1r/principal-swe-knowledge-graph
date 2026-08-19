@@ -1,6 +1,7 @@
 ---
 title: "Execution Latency vs Time-to-Market Curve"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

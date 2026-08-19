@@ -1,6 +1,7 @@
 ---
 title: "Goroutines vs OS Threads"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

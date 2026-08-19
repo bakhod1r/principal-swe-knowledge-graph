@@ -1,6 +1,7 @@
 ---
 title: "Stack Shrinking during GC"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

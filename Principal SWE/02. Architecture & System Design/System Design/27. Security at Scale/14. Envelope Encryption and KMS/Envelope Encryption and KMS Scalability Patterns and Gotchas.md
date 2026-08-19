@@ -1,6 +1,7 @@
 ---
 title: "Envelope Encryption and KMS Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

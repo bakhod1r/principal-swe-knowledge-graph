@@ -1,6 +1,7 @@
 ---
 title: "Worker Pool Pattern: Bounded Work Queues and Worker Thread Scheduling Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

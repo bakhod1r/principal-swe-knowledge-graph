@@ -1,6 +1,7 @@
 ---
 title: "Map Memory Footprint and Bucket Re-Allocation"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

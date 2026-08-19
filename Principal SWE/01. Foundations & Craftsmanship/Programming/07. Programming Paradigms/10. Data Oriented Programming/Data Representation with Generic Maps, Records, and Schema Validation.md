@@ -1,6 +1,7 @@
 ---
 title: "Data Representation with Generic Maps, Records, and Schema Validation"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

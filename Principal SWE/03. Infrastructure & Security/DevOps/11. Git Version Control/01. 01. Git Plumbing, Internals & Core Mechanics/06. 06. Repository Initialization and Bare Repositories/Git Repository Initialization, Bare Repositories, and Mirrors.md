@@ -1,6 +1,7 @@
 ---
 title: Git Repository Initialization, Bare Repositories, and Mirrors
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

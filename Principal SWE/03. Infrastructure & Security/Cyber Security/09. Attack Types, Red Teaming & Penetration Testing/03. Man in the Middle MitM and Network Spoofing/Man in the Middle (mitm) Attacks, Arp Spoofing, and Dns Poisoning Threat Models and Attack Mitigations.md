@@ -1,6 +1,7 @@
 ---
 title: "Man in the Middle (mitm) Attacks, Arp Spoofing, and Dns Poisoning Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

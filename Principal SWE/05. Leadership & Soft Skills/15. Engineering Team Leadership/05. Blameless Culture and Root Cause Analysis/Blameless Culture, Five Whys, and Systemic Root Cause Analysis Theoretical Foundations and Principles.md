@@ -1,6 +1,7 @@
 ---
 title: "Blameless Culture, Five Whys, and Systemic Root Cause Analysis Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

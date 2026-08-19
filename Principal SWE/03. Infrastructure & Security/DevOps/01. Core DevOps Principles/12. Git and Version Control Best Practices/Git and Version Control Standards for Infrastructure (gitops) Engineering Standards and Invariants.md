@@ -1,6 +1,7 @@
 ---
 title: "Git and Version Control Standards for Infrastructure (gitops) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

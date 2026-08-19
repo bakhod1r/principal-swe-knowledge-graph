@@ -1,6 +1,7 @@
 ---
 title: "Relational Rdbms Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

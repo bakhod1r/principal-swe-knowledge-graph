@@ -1,6 +1,7 @@
 ---
 title: "Python Package Managers and Build Tools Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - python
   - principal-swe

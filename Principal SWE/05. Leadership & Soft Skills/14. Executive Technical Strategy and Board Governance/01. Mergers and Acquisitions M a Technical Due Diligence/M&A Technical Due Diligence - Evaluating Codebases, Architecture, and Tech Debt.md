@@ -1,6 +1,7 @@
 ---
 title: M&A Technical Due Diligence: Evaluating Codebases, Architecture, and Tech Debt
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

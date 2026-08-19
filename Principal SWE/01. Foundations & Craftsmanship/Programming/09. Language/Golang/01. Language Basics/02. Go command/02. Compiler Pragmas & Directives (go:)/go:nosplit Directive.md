@@ -1,6 +1,7 @@
 ---
 title: "go:nosplit Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

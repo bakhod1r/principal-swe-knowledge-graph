@@ -1,6 +1,7 @@
 ---
 title: "GDPR and Right to Be Forgotten Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

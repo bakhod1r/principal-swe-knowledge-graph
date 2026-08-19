@@ -1,6 +1,7 @@
 ---
 title: Pipes and Filters Architecture: Composable Data Processing Pipelines
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

@@ -1,6 +1,7 @@
 ---
 title: "Ownership and Boundaries Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

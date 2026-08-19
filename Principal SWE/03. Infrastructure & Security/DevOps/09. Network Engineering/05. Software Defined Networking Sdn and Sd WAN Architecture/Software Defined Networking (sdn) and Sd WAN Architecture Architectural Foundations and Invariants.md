@@ -1,6 +1,7 @@
 ---
 title: "Software Defined Networking (sdn) and Sd WAN Architecture Architectural Foundations and Invariants"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh Architecture: Envoy Data Plane and Istio Control Plane Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

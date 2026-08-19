@@ -1,6 +1,7 @@
 ---
 title: "TinyGo Compiler Architecture for Microcontrollers & Web"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

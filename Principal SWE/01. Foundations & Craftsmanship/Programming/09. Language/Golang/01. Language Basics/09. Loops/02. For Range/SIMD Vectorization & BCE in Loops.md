@@ -1,6 +1,7 @@
 ---
 title: "SIMD Vectorization & BCE in Loops"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

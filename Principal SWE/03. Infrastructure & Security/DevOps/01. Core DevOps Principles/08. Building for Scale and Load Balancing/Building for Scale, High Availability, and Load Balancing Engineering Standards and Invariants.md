@@ -1,6 +1,7 @@
 ---
 title: "Building for Scale, High Availability, and Load Balancing Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

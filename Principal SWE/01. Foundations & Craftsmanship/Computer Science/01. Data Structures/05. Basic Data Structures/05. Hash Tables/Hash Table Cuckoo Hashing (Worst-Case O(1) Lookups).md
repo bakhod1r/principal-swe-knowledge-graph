@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Cuckoo Hashing (Worst-Case O(1) Lookups)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

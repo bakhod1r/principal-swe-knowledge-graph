@@ -1,6 +1,7 @@
 ---
 title: "Pipelined Stream Processing vs Micro-Batching"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

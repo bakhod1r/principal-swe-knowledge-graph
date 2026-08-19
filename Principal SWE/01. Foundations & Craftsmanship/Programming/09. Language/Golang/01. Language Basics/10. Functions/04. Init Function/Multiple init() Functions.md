@@ -1,6 +1,7 @@
 ---
 title: "Multiple init() Functions"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

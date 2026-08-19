@@ -1,6 +1,7 @@
 ---
 title: "Online vs Offline Inference Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

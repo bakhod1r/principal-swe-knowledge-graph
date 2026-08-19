@@ -1,6 +1,7 @@
 ---
 title: "Redis Modules Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

@@ -1,6 +1,7 @@
 ---
 title: "Architecture Decision Records (adrs): Capturing Context, Decision, and Consequences Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

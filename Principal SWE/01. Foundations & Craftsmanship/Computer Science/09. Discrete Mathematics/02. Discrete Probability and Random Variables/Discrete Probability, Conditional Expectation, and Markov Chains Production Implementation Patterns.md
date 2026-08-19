@@ -1,6 +1,7 @@
 ---
 title: "Discrete Probability, Conditional Expectation, and Markov Chains Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

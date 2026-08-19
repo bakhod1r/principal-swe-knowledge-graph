@@ -1,6 +1,7 @@
 ---
 title: "Blameless Culture, Five Whys, and Systemic Root Cause Analysis Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

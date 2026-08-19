@@ -1,6 +1,7 @@
 ---
 title: "Sparse Table Rmq Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

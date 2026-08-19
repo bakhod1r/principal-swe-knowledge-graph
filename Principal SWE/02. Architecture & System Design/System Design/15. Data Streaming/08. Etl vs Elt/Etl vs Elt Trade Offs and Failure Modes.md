@@ -1,6 +1,7 @@
 ---
 title: "Etl vs Elt Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

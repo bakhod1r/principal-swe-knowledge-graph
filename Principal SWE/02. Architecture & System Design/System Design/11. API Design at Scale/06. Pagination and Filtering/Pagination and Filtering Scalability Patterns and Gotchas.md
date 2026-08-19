@@ -1,6 +1,7 @@
 ---
 title: "Pagination and Filtering Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

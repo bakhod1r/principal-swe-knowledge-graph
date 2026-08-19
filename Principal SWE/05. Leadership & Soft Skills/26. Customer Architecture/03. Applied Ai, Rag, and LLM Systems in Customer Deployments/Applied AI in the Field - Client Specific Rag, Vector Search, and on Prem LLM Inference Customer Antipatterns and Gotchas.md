@@ -1,6 +1,7 @@
 ---
 title: "Applied AI in the Field - Client Specific Rag, Vector Search, and on Prem LLM Inference Customer Antipatterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

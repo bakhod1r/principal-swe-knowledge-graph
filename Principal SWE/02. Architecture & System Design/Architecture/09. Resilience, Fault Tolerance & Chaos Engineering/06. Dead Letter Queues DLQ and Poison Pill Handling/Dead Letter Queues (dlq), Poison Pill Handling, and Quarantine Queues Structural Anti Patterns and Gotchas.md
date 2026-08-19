@@ -1,6 +1,7 @@
 ---
 title: "Dead Letter Queues (dlq), Poison Pill Handling, and Quarantine Queues Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

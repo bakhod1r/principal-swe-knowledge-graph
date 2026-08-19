@@ -1,6 +1,7 @@
 ---
 title: "Channel Receive Operation (v <- ch & v, ok <- ch)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

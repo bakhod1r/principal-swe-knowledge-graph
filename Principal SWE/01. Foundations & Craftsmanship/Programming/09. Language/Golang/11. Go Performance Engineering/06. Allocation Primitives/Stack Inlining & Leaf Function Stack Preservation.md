@@ -1,6 +1,7 @@
 ---
 title: "Stack Inlining & Leaf Function Stack Preservation"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

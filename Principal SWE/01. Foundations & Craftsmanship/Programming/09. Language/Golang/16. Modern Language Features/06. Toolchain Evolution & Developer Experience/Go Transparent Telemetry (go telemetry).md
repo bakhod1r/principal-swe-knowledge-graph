@@ -1,6 +1,7 @@
 ---
 title: "Go Transparent Telemetry (go telemetry)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

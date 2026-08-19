@@ -1,6 +1,7 @@
 ---
 title: Cache Invalidation (Caching)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Caching]]"

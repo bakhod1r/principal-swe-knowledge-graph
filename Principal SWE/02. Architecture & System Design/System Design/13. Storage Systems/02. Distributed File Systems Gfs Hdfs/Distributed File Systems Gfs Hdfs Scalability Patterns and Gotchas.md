@@ -1,6 +1,7 @@
 ---
 title: "Distributed File Systems Gfs Hdfs Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

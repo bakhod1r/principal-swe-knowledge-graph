@@ -1,6 +1,7 @@
 ---
 title: "Array Memory Layout and Pointer Arithmetic"
 tags:
+  - review
   - computer-science
   - data-structures
   - arrays

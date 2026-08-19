@@ -1,6 +1,7 @@
 ---
 title: "Principal Code Review Checklist & Style Guide Synthesis"
 tags:
+  - review
   - golang
   - clean-code
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Structural Patterns: Virtual Proxy, Remote Proxy, and Protection Gateways Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

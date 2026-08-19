@@ -1,6 +1,7 @@
 ---
 title: "Valet Key Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

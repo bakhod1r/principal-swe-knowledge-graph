@@ -1,6 +1,7 @@
 ---
 title: "Gitops Argocd Flux Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

@@ -1,6 +1,7 @@
 ---
 title: "Building Reusable, Modular Terraform Blueprints and Modules Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

@@ -1,6 +1,7 @@
 ---
 title: "Anti Corruption Layer Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Insecure Deserialization and Object Injection Vulnerabilities Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

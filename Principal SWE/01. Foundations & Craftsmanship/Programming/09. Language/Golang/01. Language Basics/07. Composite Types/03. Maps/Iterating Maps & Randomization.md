@@ -1,6 +1,7 @@
 ---
 title: "Iterating Maps & Randomization"
 tags:
+  - review
   - golang
   - maps
   - principal-swe

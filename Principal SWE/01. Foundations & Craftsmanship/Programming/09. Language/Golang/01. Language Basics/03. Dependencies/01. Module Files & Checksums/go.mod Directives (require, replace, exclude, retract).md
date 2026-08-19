@@ -1,6 +1,7 @@
 ---
 title: "go.mod Directives (require, replace, exclude, retract)"
 tags:
+  - review
   - golang
   - dependencies
   - principal-swe

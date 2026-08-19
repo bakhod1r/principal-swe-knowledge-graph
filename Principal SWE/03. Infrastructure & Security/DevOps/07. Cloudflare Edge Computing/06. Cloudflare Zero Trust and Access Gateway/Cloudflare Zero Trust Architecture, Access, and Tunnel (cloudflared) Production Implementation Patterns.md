@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Zero Trust Architecture, Access, and Tunnel (cloudflared) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

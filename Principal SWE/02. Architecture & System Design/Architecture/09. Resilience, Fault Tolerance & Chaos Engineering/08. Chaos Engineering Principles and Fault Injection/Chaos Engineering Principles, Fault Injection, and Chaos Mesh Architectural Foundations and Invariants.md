@@ -1,6 +1,7 @@
 ---
 title: "Chaos Engineering Principles, Fault Injection, and Chaos Mesh Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

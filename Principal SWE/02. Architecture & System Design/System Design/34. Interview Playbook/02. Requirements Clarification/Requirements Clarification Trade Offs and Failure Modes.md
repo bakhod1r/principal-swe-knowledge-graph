@@ -1,6 +1,7 @@
 ---
 title: "Requirements Clarification Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

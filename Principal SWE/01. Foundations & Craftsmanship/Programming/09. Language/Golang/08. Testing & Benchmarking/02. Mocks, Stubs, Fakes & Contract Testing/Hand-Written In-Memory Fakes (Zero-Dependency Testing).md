@@ -1,6 +1,7 @@
 ---
 title: "Hand-Written In-Memory Fakes (Zero-Dependency Testing)"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

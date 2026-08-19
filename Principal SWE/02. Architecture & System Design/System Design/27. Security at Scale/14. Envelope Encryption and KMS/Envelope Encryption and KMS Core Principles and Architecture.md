@@ -1,6 +1,7 @@
 ---
 title: "Envelope Encryption and KMS Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

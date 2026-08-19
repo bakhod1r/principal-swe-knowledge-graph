@@ -1,6 +1,7 @@
 ---
 title: "Modular Monolith Architecture, Domain Enforced Boundaries, and in Memory Contracts Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

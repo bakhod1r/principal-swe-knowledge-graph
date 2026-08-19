@@ -1,6 +1,7 @@
 ---
 title: "SQL Subqueries and Common Table Expressions (ctes) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

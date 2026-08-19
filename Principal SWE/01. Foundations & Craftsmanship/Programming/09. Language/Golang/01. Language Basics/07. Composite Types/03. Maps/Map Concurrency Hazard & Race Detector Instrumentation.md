@@ -1,6 +1,7 @@
 ---
 title: "Map Concurrency Hazard & Race Detector Instrumentation"
 tags:
+  - review
   - golang
   - composite-types
   - principal-swe

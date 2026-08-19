@@ -1,6 +1,7 @@
 ---
 title: "Function Inlining Heuristics & Budget Calculation"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Terraform Resource Lifecycles and Provisioners Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

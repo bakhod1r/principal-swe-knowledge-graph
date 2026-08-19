@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Package Management: Helm Charts and Kustomize Overlays Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

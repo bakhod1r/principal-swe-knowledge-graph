@@ -1,6 +1,7 @@
 ---
 title: "sync.Mutex (Normal vs Starvation Mode)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

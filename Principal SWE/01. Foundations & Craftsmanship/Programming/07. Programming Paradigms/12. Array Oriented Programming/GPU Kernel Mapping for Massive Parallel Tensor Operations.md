@@ -1,6 +1,7 @@
 ---
 title: "GPU Kernel Mapping for Massive Parallel Tensor Operations"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

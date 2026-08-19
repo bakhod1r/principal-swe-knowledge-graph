@@ -1,6 +1,7 @@
 ---
 title: "Swiss Table Map Architecture (Go 1.24+)"
 tags:
+  - review
   - golang
   - maps
   - principal-swe

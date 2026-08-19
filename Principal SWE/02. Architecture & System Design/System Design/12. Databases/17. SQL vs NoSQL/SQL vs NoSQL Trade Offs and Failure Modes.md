@@ -1,6 +1,7 @@
 ---
 title: "SQL vs NoSQL Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

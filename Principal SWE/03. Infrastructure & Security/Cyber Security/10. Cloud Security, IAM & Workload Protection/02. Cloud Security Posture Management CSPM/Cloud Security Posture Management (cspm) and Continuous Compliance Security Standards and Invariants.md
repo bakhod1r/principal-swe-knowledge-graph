@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security Posture Management (cspm) and Continuous Compliance Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection

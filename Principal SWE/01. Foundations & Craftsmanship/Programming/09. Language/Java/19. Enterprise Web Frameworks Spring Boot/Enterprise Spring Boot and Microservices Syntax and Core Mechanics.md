@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Spring Boot and Microservices Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

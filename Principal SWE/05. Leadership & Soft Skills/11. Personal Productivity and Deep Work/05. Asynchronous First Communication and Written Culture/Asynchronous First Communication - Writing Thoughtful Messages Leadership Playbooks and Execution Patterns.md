@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous First Communication - Writing Thoughtful Messages Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

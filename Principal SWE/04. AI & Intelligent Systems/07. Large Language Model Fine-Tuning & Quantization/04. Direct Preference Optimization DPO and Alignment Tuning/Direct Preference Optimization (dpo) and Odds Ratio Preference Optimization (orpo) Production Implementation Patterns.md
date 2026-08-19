@@ -1,6 +1,7 @@
 ---
 title: "Direct Preference Optimization (dpo) and Odds Ratio Preference Optimization (orpo) Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization

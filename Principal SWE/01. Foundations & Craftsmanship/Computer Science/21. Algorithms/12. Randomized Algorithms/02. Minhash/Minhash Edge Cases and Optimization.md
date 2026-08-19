@@ -1,6 +1,7 @@
 ---
 title: "Minhash Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

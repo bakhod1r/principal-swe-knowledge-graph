@@ -1,6 +1,7 @@
 ---
 title: Advanced Shell Text Processing: Awk, Sed, Grep, and Xargs (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

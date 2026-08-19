@@ -1,6 +1,7 @@
 ---
 title: "Passing Pointers between Go and C (Pointer Passing Rules)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

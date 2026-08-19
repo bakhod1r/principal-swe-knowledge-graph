@@ -1,6 +1,7 @@
 ---
 title: "Circuit Breaker Pattern: Closed, Open, Half Open State Transitions Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

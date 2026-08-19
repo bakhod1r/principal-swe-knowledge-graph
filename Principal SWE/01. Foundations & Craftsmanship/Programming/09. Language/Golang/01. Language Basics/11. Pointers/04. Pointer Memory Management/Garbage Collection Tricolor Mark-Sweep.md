@@ -1,6 +1,7 @@
 ---
 title: "Garbage Collection Tricolor Mark-Sweep"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

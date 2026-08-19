@@ -1,6 +1,7 @@
 ---
 title: "Monomorphization vs Type Erasure Compilation Strategies"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

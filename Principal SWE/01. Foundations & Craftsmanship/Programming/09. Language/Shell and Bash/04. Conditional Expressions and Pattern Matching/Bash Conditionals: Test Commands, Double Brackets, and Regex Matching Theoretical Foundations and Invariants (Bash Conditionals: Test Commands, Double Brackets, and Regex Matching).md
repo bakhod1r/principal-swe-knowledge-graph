@@ -1,6 +1,7 @@
 ---
 title: "Bash Conditionals: Test Commands, Double Brackets, and Regex Matching Theoretical Foundations and Invariants (Bash Conditionals: Test Commands, Double Brackets, and Regex Matching)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

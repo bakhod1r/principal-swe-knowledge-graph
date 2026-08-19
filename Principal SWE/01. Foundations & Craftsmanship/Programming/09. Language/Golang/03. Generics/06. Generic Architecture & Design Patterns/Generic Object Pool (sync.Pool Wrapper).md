@@ -1,6 +1,7 @@
 ---
 title: "Generic Object Pool (sync.Pool Wrapper)"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "go:uintptrescapes Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

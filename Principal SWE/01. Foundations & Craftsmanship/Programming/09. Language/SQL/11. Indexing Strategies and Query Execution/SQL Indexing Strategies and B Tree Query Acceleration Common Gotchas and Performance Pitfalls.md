@@ -1,6 +1,7 @@
 ---
 title: "SQL Indexing Strategies and B Tree Query Acceleration Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

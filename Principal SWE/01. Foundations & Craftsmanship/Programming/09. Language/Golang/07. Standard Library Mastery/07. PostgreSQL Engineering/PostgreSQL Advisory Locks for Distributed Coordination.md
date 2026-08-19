@@ -1,6 +1,7 @@
 ---
 title: "PostgreSQL Advisory Locks for Distributed Coordination"
 tags:
+  - review
   - golang
   - database
   - principal-swe

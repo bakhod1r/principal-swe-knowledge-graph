@@ -1,6 +1,7 @@
 ---
 title: "Distributed Consensus in Databases (raft, Paxos, Spanner) Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

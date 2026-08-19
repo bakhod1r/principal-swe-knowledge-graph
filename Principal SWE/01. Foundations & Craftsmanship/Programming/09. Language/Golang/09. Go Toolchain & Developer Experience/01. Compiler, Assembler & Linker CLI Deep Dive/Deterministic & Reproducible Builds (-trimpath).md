@@ -1,6 +1,7 @@
 ---
 title: "Deterministic & Reproducible Builds (-trimpath)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

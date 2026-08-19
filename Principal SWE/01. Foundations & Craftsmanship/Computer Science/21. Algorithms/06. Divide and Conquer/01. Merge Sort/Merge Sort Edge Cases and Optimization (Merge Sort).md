@@ -1,6 +1,7 @@
 ---
 title: "Merge Sort Edge Cases and Optimization (Merge Sort)"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

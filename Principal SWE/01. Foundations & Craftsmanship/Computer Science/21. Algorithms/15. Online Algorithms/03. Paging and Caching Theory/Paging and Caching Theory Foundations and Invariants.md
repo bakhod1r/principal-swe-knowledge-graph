@@ -1,6 +1,7 @@
 ---
 title: "Paging and Caching Theory Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

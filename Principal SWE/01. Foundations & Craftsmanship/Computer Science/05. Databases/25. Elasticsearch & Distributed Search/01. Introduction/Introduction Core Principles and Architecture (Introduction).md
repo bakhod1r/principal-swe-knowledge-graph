@@ -1,6 +1,7 @@
 ---
 title: "Introduction Core Principles and Architecture (Introduction)"
 tags:
+  - review
   - backend
   - architecture
   - elasticsearch-and-distributed-search

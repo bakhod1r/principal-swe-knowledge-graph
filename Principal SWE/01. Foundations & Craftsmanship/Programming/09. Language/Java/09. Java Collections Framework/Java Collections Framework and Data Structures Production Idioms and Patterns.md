@@ -1,6 +1,7 @@
 ---
 title: "Java Collections Framework and Data Structures Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

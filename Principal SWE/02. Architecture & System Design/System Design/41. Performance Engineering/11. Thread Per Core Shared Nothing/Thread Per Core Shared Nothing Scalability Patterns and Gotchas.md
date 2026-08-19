@@ -1,6 +1,7 @@
 ---
 title: "Thread Per Core Shared Nothing Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

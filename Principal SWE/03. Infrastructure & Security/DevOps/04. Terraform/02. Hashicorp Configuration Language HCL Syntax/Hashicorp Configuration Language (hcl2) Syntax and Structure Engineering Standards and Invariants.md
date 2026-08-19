@@ -1,6 +1,7 @@
 ---
 title: "Hashicorp Configuration Language (hcl2) Syntax and Structure Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

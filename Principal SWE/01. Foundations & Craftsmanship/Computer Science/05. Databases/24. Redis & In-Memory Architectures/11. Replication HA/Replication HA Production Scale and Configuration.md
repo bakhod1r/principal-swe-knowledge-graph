@@ -1,6 +1,7 @@
 ---
 title: "Replication HA Production Scale and Configuration"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

@@ -1,6 +1,7 @@
 ---
 title: "Idempotency and Exactly Once Payments Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

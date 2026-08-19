@@ -1,6 +1,7 @@
 ---
 title: "Docker Engine Architecture, Containerd, Runc, and Oci Standards Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

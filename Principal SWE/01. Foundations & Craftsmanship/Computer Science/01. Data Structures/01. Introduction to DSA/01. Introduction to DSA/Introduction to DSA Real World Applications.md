@@ -1,6 +1,7 @@
 ---
 title: "Introduction to DSA Real World Applications"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

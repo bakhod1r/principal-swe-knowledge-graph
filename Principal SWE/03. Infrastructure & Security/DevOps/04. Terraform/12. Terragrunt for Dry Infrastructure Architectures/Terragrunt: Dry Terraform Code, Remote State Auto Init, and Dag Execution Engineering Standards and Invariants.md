@@ -1,6 +1,7 @@
 ---
 title: "Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

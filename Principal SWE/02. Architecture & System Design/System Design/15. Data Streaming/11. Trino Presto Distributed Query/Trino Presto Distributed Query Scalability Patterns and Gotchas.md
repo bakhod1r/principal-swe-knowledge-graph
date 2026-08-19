@@ -1,6 +1,7 @@
 ---
 title: "Trino Presto Distributed Query Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

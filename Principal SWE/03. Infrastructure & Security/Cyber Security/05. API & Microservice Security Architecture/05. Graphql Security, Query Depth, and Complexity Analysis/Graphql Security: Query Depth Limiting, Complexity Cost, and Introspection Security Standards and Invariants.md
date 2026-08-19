@@ -1,6 +1,7 @@
 ---
 title: "Graphql Security: Query Depth Limiting, Complexity Cost, and Introspection Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture

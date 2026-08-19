@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Mutations, Input Objects, and Transactional Workflows Performance Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

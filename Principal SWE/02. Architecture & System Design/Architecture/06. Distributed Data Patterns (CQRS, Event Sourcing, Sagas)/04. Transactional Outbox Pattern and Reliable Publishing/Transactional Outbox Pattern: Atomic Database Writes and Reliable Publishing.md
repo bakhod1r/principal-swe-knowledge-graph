@@ -1,6 +1,7 @@
 ---
 title: Transactional Outbox Pattern: Atomic Database Writes and Reliable Publishing
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

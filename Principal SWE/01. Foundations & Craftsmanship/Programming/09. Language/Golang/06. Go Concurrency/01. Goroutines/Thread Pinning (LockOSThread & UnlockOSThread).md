@@ -1,6 +1,7 @@
 ---
 title: "Thread Pinning (LockOSThread & UnlockOSThread)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

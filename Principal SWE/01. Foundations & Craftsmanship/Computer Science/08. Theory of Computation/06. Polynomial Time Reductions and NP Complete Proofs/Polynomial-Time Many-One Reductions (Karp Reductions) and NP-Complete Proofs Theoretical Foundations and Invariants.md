@@ -1,6 +1,7 @@
 ---
 title: "Polynomial-Time Many-One Reductions (Karp Reductions) and NP-Complete Proofs Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

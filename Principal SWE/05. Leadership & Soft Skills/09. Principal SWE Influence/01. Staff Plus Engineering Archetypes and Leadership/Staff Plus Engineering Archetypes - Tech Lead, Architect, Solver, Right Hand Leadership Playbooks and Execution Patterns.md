@@ -1,6 +1,7 @@
 ---
 title: "Staff Plus Engineering Archetypes - Tech Lead, Architect, Solver, Right Hand Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

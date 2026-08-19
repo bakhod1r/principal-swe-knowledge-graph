@@ -1,6 +1,7 @@
 ---
 title: Disaster Recovery Planning, Backup Automation, and Rto Rpo
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

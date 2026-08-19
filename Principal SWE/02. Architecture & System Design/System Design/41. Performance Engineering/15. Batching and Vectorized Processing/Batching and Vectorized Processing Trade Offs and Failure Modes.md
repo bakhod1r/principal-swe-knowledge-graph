@@ -1,6 +1,7 @@
 ---
 title: "Batching and Vectorized Processing Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

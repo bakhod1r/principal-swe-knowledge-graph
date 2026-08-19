@@ -1,6 +1,7 @@
 ---
 title: "Cache Aware Data Layout Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

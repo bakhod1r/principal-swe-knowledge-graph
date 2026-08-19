@@ -1,6 +1,7 @@
 ---
 title: Python Comprehensions and Memory Optimization
 tags:
+  - review
   - programming
   - python
   - principal-swe

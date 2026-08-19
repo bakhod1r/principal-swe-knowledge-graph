@@ -1,6 +1,7 @@
 ---
 title: "Parallel Algorithm Design Patterns, Tile-Based Matrix Multiplication, and Roofline Model Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

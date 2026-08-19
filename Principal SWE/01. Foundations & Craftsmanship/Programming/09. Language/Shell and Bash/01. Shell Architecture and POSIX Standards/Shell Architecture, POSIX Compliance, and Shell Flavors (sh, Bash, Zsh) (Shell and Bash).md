@@ -1,6 +1,7 @@
 ---
 title: Shell Architecture, POSIX Compliance, and Shell Flavors (sh, Bash, Zsh) (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

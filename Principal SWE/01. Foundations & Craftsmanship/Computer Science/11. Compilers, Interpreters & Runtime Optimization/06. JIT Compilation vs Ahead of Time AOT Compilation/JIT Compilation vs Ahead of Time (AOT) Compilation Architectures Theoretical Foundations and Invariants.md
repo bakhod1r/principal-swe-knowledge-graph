@@ -1,6 +1,7 @@
 ---
 title: "JIT Compilation vs Ahead of Time (AOT) Compilation Architectures Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

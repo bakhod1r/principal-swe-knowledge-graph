@@ -1,6 +1,7 @@
 ---
 title: "GoReleaser Enterprise Pipeline Automation"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

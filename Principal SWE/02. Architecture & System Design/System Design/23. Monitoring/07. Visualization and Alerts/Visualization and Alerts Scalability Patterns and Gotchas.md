@@ -1,6 +1,7 @@
 ---
 title: "Visualization and Alerts Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

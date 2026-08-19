@@ -1,6 +1,7 @@
 ---
 title: "Topological Sort Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Search Engines and Full Text Retrieval Systems Architectural Principles and Invariants"
 tags:
+  - review
   - architecture
   - software-design
   - databases

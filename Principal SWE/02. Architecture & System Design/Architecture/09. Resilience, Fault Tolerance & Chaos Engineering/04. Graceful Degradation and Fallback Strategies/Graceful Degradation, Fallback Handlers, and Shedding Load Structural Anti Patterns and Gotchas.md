@@ -1,6 +1,7 @@
 ---
 title: "Graceful Degradation, Fallback Handlers, and Shedding Load Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering

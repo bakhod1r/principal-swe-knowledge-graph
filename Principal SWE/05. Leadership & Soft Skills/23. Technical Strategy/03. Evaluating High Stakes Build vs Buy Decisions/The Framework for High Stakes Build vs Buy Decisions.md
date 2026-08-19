@@ -1,6 +1,7 @@
 ---
 title: The Framework for High Stakes Build vs Buy Decisions
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

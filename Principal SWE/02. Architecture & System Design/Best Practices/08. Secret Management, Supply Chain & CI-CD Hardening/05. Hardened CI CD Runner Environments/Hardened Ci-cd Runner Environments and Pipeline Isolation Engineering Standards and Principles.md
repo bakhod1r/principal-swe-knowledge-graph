@@ -1,6 +1,7 @@
 ---
 title: "Hardened Ci-cd Runner Environments and Pipeline Isolation Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

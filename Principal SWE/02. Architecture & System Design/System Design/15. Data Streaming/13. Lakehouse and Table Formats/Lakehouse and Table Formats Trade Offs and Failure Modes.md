@@ -1,6 +1,7 @@
 ---
 title: "Lakehouse and Table Formats Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

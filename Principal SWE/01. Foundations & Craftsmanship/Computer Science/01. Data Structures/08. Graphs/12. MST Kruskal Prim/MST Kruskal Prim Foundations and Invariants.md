@@ -1,6 +1,7 @@
 ---
 title: "MST Kruskal Prim Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

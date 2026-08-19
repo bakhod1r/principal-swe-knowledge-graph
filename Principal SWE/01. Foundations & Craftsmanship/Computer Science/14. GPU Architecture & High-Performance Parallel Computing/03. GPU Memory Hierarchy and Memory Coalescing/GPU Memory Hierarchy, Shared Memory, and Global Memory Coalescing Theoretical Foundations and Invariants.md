@@ -1,6 +1,7 @@
 ---
 title: "GPU Memory Hierarchy, Shared Memory, and Global Memory Coalescing Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

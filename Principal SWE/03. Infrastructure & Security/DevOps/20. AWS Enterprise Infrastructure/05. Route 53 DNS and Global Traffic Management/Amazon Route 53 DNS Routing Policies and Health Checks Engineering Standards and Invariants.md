@@ -1,6 +1,7 @@
 ---
 title: "Amazon Route 53 DNS Routing Policies and Health Checks Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

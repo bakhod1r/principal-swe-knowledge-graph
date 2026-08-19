@@ -1,6 +1,7 @@
 ---
 title: "Java Lambdas, Method References, and Streams API Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

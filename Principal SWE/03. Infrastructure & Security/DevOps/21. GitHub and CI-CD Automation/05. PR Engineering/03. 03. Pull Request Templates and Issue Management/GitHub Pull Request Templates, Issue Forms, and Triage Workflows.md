@@ -1,6 +1,7 @@
 ---
 title: GitHub Pull Request Templates, Issue Forms, and Triage Workflows
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

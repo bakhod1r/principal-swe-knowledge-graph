@@ -1,6 +1,7 @@
 ---
 title: "Linked List Delete Node in O(1) without Prev Pointer"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

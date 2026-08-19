@@ -1,6 +1,7 @@
 ---
 title: "DNS Caching and Ttl Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

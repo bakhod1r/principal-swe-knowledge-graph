@@ -1,6 +1,7 @@
 ---
 title: Apache Kafka (Real Architectures)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Real Architectures]]"

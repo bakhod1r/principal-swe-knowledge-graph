@@ -1,6 +1,7 @@
 ---
 title: "Block Profiling (runtime.SetBlockProfileRate)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

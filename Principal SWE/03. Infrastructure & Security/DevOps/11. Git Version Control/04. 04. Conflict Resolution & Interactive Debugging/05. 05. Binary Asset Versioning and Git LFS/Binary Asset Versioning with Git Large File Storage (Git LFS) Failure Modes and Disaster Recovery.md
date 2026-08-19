@@ -1,6 +1,7 @@
 ---
 title: "Binary Asset Versioning with Git Large File Storage (Git LFS) Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

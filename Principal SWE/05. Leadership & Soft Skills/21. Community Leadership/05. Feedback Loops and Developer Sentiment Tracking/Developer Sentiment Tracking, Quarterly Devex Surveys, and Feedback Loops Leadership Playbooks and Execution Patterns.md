@@ -1,6 +1,7 @@
 ---
 title: "Developer Sentiment Tracking, Quarterly Devex Surveys, and Feedback Loops Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

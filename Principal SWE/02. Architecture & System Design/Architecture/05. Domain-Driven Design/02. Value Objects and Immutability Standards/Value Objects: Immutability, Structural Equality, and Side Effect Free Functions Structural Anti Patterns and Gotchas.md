@@ -1,6 +1,7 @@
 ---
 title: "Value Objects: Immutability, Structural Equality, and Side Effect Free Functions Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

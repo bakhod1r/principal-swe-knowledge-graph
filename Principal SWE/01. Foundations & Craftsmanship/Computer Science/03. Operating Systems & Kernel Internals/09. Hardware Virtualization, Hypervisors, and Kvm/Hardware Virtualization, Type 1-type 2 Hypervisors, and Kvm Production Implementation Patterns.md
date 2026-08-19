@@ -1,6 +1,7 @@
 ---
 title: "Hardware Virtualization, Type 1-type 2 Hypervisors, and Kvm Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

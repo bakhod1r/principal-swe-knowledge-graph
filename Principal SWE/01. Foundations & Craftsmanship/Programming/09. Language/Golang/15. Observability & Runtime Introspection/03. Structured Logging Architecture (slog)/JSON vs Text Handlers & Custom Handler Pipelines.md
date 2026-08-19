@@ -1,6 +1,7 @@
 ---
 title: "JSON vs Text Handlers & Custom Handler Pipelines"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

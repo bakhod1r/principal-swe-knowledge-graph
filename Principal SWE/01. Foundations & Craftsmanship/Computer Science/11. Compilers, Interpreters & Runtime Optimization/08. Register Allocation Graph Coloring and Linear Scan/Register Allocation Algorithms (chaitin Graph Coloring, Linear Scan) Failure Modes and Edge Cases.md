@@ -1,6 +1,7 @@
 ---
 title: "Register Allocation Algorithms (chaitin Graph Coloring, Linear Scan) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

@@ -1,6 +1,7 @@
 ---
 title: "Hardcoded Secret Detection & Git Pre-Commit Scanning (Gitleaks)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

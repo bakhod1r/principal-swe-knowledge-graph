@@ -1,6 +1,7 @@
 ---
 title: "Sqrt Decomposition Mos Algorithm Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

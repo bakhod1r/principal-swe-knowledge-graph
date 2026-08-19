@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Layout & g Struct Internals"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

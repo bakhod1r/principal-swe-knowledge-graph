@@ -1,6 +1,7 @@
 ---
 title: "Multi-Module Workspaces with go.work"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

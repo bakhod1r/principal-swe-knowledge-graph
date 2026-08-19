@@ -1,6 +1,7 @@
 ---
 title: "Branch Prediction, Branch Target Buffers, and Speculative Execution Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

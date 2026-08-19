@@ -1,6 +1,7 @@
 ---
 title: "Edge Vertex Connectivity Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

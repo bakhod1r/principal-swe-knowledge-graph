@@ -1,6 +1,7 @@
 ---
 title: "Procedural Abstraction and Modular Encapsulation"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

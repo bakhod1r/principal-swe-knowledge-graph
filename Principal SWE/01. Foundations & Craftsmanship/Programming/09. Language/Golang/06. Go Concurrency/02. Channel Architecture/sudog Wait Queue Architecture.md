@@ -1,6 +1,7 @@
 ---
 title: "sudog Wait Queue Architecture"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

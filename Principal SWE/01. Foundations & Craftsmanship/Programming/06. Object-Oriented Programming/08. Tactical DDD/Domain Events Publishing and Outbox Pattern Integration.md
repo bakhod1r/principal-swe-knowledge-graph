@@ -1,6 +1,7 @@
 ---
 title: "Domain Events Publishing and Outbox Pattern Integration"
 tags:
+  - review
   - programming
   - oop
   - principal-swe

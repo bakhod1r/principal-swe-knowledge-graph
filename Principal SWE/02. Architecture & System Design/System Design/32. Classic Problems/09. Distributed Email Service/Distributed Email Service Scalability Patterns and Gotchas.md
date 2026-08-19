@@ -1,6 +1,7 @@
 ---
 title: "Distributed Email Service Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

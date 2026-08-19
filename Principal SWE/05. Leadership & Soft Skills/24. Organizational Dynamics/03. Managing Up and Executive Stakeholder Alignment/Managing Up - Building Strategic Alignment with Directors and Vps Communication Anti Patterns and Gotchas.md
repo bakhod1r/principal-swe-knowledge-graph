@@ -1,6 +1,7 @@
 ---
 title: "Managing Up - Building Strategic Alignment with Directors and Vps Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

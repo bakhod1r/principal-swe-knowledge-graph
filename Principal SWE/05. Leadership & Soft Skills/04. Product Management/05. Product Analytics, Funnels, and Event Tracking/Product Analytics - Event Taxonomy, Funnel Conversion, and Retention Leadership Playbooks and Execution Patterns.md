@@ -1,6 +1,7 @@
 ---
 title: "Product Analytics - Event Taxonomy, Funnel Conversion, and Retention Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

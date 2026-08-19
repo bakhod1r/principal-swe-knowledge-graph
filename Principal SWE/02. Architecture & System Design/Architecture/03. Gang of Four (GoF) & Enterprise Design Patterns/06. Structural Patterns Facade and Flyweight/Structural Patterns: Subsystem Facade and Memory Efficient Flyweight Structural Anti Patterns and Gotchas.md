@@ -1,6 +1,7 @@
 ---
 title: "Structural Patterns: Subsystem Facade and Memory Efficient Flyweight Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

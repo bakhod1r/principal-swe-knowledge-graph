@@ -1,6 +1,7 @@
 ---
 title: "Variable Capture Mechanics"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

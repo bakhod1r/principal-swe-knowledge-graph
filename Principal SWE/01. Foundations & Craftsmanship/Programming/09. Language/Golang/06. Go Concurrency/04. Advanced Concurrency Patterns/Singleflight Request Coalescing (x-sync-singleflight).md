@@ -1,6 +1,7 @@
 ---
 title: "Singleflight Request Coalescing (x-sync-singleflight)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

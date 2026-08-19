@@ -1,6 +1,7 @@
 ---
 title: "Memory-Mapped I-O (mmap & unix.Mmap)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

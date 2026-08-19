@@ -1,6 +1,7 @@
 ---
 title: "Map Reduce Patterns Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Public Key Infrastructure (PKI), X.509 Certificates, and Certificate Revocation Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

@@ -1,6 +1,7 @@
 ---
 title: "CIA Triad and Formal Security Models (bell Lapadula, Biba) Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

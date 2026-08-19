@@ -1,6 +1,7 @@
 ---
 title: "Git Repository Initialization, Bare Repositories, and Mirrors Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

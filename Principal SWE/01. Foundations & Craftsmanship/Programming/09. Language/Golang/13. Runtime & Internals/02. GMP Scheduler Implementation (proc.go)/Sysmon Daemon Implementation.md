@@ -1,6 +1,7 @@
 ---
 title: "Sysmon Daemon Implementation"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

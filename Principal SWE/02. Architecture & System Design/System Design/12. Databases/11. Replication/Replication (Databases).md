@@ -1,6 +1,7 @@
 ---
 title: Replication (Databases)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Databases (System Design)]]"

@@ -1,6 +1,7 @@
 ---
 title: "Rust Language Basics, Scalar Types, and Pattern Matching Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - rust

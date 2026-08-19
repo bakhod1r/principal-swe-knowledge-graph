@@ -1,6 +1,7 @@
 ---
 title: "Transactions, ACID Axioms, and Isolation Levels Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

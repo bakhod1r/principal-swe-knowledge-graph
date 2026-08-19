@@ -1,6 +1,7 @@
 ---
 title: Conflict Resolution & Interactive Debugging
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

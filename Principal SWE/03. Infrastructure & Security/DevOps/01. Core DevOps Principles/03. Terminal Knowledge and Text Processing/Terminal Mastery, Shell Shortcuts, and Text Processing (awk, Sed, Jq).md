@@ -1,6 +1,7 @@
 ---
 title: Terminal Mastery, Shell Shortcuts, and Text Processing (awk, Sed, Jq)
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

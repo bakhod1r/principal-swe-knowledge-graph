@@ -1,6 +1,7 @@
 ---
 title: "Open-Coded Defers (Go 1.14+ Zero-Cost)"
 tags:
+  - review
   - golang
   - defer
   - principal-swe

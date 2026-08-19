@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Workloads: Pods, Replicasets, and Deployments Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

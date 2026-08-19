@@ -1,6 +1,7 @@
 ---
 title: "Search Engines and Full Text Retrieval Systems Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - architecture
   - software-design
   - databases

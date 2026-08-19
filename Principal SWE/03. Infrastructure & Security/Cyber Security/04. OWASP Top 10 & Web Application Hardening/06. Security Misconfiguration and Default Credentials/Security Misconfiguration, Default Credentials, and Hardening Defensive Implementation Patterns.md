@@ -1,6 +1,7 @@
 ---
 title: "Security Misconfiguration, Default Credentials, and Hardening Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

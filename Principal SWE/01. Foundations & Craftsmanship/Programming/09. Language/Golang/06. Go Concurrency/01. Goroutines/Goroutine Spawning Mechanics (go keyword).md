@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Spawning Mechanics (go keyword)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

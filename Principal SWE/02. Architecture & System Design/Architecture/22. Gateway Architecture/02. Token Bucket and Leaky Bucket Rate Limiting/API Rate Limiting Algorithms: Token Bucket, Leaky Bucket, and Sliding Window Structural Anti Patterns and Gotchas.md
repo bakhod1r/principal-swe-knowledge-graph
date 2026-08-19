@@ -1,6 +1,7 @@
 ---
 title: "API Rate Limiting Algorithms: Token Bucket, Leaky Bucket, and Sliding Window Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

@@ -1,6 +1,7 @@
 ---
 title: "Mock Interview Walkthroughs Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

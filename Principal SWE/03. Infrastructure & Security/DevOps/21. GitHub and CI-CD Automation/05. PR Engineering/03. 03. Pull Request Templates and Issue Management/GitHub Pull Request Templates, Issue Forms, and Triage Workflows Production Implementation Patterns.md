@@ -1,6 +1,7 @@
 ---
 title: "GitHub Pull Request Templates, Issue Forms, and Triage Workflows Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

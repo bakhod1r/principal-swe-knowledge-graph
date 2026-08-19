@@ -1,6 +1,7 @@
 ---
 title: "Memory Management Model Evaluation"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

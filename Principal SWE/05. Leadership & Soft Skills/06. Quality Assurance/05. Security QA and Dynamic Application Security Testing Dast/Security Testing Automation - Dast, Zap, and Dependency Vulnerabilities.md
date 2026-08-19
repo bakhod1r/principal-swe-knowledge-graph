@@ -1,6 +1,7 @@
 ---
 title: Security Testing Automation: Dast, Zap, and Dependency Vulnerabilities
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

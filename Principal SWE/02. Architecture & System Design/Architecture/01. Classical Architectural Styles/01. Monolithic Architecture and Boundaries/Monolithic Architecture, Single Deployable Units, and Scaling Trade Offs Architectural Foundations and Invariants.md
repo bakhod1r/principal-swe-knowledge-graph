@@ -1,6 +1,7 @@
 ---
 title: "Monolithic Architecture, Single Deployable Units, and Scaling Trade Offs Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

@@ -1,6 +1,7 @@
 ---
 title: "Java Concurrency, Locks, and Virtual Threads (loom) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

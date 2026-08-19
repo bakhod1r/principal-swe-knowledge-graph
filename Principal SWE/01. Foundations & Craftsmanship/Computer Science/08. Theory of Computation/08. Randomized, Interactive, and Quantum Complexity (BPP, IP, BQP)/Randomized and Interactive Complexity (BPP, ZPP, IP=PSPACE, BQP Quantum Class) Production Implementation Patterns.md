@@ -1,6 +1,7 @@
 ---
 title: "Randomized and Interactive Complexity (BPP, ZPP, IP=PSPACE, BQP Quantum Class) Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

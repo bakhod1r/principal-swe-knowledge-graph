@@ -1,6 +1,7 @@
 ---
 title: "Java Logging Architecture (slf4j, Logback, Log4j2) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

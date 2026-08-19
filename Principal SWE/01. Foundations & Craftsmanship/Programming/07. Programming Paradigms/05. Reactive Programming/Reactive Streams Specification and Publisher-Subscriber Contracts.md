@@ -1,6 +1,7 @@
 ---
 title: "Reactive Streams Specification and Publisher-Subscriber Contracts"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

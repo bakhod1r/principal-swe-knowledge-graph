@@ -1,6 +1,7 @@
 ---
 title: Rust Traits, Generics, and Static vs Dynamic Dispatch
 tags:
+  - review
   - programming
   - languages
   - rust

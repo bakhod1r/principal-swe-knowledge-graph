@@ -1,6 +1,7 @@
 ---
 title: "DNS Resolution Internals, Bgp Anycast Routing, and Edns0 Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals

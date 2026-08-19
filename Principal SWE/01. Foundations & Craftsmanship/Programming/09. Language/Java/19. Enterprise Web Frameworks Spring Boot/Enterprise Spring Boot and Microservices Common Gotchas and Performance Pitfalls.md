@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Spring Boot and Microservices Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

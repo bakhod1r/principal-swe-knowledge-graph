@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure Provisioning, Cloud Automation, and Declarative IaC Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

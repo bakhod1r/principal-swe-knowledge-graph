@@ -1,6 +1,7 @@
 ---
 title: "Transparent Data Encryption (tde) and Block Level Storage Encryption Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

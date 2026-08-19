@@ -1,6 +1,7 @@
 ---
 title: "SQL Data Integrity, Constraints, and Invariants Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

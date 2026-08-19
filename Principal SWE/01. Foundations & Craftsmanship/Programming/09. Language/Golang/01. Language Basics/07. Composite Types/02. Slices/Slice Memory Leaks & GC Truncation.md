@@ -1,6 +1,7 @@
 ---
 title: "Slice Memory Leaks & GC Truncation"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

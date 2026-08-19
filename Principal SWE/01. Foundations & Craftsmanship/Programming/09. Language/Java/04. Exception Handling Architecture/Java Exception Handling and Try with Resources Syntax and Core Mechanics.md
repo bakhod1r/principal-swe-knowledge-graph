@@ -1,6 +1,7 @@
 ---
 title: "Java Exception Handling and Try with Resources Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

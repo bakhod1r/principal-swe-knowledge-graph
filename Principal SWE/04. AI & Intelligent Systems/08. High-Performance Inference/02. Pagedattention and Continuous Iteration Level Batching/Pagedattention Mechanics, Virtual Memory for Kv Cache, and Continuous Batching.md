@@ -1,6 +1,7 @@
 ---
 title: Pagedattention Mechanics, Virtual Memory for Kv Cache, and Continuous Batching
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

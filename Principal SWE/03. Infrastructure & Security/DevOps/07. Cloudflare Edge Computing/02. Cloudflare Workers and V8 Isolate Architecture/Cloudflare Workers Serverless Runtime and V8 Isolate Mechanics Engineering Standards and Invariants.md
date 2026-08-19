@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Workers Serverless Runtime and V8 Isolate Mechanics Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

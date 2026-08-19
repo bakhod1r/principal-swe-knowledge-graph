@@ -1,6 +1,7 @@
 ---
 title: "The Interface Pollution Anti-Pattern"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: Serving GraphQL Over Http: Automated Persisted Queries (apq) and Cdn Caching
 tags:
+  - review
   - architecture
   - api-design
   - graphql

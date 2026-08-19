@@ -1,6 +1,7 @@
 ---
 title: "Numerical Stability, Well Posed Problems, and Condition Numbers Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing

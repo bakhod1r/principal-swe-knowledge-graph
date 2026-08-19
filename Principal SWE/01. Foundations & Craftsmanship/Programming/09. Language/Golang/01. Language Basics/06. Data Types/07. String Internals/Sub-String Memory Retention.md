@@ -1,6 +1,7 @@
 ---
 title: "Sub-String Memory Retention"
 tags:
+  - review
   - golang
   - types
   - principal-swe

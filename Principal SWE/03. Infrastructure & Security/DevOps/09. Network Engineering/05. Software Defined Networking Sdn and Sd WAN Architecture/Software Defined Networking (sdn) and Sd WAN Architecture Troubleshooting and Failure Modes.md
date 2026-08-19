@@ -1,6 +1,7 @@
 ---
 title: "Software Defined Networking (sdn) and Sd WAN Architecture Troubleshooting and Failure Modes"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

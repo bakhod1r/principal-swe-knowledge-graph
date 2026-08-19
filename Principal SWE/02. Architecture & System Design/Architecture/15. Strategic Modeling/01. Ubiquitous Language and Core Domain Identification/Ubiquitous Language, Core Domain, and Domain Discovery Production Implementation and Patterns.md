@@ -1,6 +1,7 @@
 ---
 title: "Ubiquitous Language, Core Domain, and Domain Discovery Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

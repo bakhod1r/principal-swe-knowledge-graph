@@ -1,6 +1,7 @@
 ---
 title: Bash Variables, Environment Variables, and Parameter Expansions (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

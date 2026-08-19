@@ -1,6 +1,7 @@
 ---
 title: "Semantic Caching (gptcache, Redis), Prompt Caching, and Latency Reduction Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

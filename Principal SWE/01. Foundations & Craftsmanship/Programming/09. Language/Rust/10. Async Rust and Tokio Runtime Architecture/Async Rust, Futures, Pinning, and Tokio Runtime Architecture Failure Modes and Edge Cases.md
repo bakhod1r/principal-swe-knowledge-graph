@@ -1,6 +1,7 @@
 ---
 title: "Async Rust, Futures, Pinning, and Tokio Runtime Architecture Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

@@ -1,6 +1,7 @@
 ---
 title: "Testing Strategies in Clean Architecture: Unit, Interactor, and Sociable Tests Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

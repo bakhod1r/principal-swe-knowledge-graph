@@ -1,6 +1,7 @@
 ---
 title: "Chaos Testing - Automating Failure Injection with Chaos Mesh Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

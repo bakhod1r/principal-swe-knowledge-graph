@@ -1,6 +1,7 @@
 ---
 title: Formal Memory Consistency Models (sequential, Tso, Weak)
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

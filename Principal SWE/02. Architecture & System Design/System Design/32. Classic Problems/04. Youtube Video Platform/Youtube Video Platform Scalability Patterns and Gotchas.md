@@ -1,6 +1,7 @@
 ---
 title: "Youtube Video Platform Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

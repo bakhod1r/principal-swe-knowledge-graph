@@ -1,6 +1,7 @@
 ---
 title: "PATH and Go Binaries"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

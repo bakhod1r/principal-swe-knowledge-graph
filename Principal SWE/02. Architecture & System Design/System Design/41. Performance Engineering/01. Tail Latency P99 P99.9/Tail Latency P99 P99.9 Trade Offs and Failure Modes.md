@@ -1,6 +1,7 @@
 ---
 title: "Tail Latency P99 P99.9 Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

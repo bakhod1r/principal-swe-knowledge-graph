@@ -1,6 +1,7 @@
 ---
 title: "Manual Constructor Dependency Injection (Idiomatic Go)"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

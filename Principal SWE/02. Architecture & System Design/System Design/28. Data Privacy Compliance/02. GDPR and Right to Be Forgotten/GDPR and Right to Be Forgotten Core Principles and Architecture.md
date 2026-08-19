@@ -1,6 +1,7 @@
 ---
 title: "GDPR and Right to Be Forgotten Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

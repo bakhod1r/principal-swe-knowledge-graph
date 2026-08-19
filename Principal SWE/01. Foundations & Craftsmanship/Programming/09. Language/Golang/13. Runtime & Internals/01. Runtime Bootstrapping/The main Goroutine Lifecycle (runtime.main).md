@@ -1,6 +1,7 @@
 ---
 title: "The main Goroutine Lifecycle (runtime.main)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

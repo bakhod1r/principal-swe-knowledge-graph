@@ -7,7 +7,7 @@ tags:
   - team-lead
   - code-review-culture-and-engineering-standards
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Code Review Culture & Engineering Standards
@@ -43,5 +43,5 @@ Code Review Culture & Engineering Standards
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

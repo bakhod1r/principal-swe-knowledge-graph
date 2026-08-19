@@ -1,6 +1,7 @@
 ---
 title: "Pointers to Interfaces Trap"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

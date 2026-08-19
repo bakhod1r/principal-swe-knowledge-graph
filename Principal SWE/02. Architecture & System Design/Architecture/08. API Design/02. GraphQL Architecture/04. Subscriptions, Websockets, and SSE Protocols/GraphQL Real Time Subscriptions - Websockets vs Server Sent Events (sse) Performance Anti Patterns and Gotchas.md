@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Real Time Subscriptions - Websockets vs Server Sent Events (sse) Performance Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

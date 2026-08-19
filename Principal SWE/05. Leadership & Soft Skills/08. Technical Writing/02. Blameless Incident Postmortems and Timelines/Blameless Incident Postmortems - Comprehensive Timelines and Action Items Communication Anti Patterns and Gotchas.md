@@ -1,6 +1,7 @@
 ---
 title: "Blameless Incident Postmortems - Comprehensive Timelines and Action Items Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

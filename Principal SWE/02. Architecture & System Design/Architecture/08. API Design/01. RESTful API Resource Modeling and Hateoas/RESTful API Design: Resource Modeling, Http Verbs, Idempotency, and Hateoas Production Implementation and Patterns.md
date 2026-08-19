@@ -1,6 +1,7 @@
 ---
 title: "RESTful API Design: Resource Modeling, Http Verbs, Idempotency, and Hateoas Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

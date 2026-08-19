@@ -1,6 +1,7 @@
 ---
 title: "Ubiquitous Language, Core Domain, and Domain Discovery Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling

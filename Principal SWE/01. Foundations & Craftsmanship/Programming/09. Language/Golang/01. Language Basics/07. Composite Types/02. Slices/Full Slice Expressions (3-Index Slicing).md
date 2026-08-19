@@ -1,6 +1,7 @@
 ---
 title: "Full Slice Expressions (3-Index Slicing)"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

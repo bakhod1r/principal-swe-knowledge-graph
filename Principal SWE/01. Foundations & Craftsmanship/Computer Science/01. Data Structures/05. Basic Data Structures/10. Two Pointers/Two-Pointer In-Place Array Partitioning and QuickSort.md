@@ -1,6 +1,7 @@
 ---
 title: "Two-Pointer In-Place Array Partitioning and QuickSort"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

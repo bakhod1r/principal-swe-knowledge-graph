@@ -1,6 +1,7 @@
 ---
 title: "Iterator Inlining & Allocation Profiles"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

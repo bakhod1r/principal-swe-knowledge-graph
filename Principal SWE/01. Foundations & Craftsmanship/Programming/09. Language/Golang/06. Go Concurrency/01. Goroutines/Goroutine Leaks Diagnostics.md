@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Leaks Diagnostics"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

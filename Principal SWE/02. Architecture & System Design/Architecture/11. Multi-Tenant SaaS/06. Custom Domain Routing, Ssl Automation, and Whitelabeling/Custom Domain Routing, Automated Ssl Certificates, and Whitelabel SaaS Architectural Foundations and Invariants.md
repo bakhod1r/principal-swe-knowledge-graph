@@ -1,6 +1,7 @@
 ---
 title: "Custom Domain Routing, Automated Ssl Certificates, and Whitelabel SaaS Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

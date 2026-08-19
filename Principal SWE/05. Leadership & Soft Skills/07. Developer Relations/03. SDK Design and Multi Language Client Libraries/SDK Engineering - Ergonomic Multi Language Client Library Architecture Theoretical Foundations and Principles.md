@@ -1,6 +1,7 @@
 ---
 title: "SDK Engineering - Ergonomic Multi Language Client Library Architecture Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

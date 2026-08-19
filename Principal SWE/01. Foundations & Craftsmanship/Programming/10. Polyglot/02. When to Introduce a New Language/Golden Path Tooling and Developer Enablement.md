@@ -1,6 +1,7 @@
 ---
 title: "Golden Path Tooling and Developer Enablement"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

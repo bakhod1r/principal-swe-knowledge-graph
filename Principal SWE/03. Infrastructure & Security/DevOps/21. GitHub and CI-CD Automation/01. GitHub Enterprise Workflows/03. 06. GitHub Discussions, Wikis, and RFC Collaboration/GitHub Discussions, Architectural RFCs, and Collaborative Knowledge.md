@@ -1,6 +1,7 @@
 ---
 title: GitHub Discussions, Architectural RFCs, and Collaborative Knowledge
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

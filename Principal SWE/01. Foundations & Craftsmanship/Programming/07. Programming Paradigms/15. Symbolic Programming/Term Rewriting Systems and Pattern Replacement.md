@@ -1,6 +1,7 @@
 ---
 title: "Term Rewriting Systems and Pattern Replacement"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

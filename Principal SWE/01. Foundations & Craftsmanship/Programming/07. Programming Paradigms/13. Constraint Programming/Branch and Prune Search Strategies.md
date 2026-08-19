@@ -1,6 +1,7 @@
 ---
 title: "Branch and Prune Search Strategies"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

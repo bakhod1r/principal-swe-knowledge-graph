@@ -1,6 +1,7 @@
 ---
 title: "Propositional Logic, First-Order Predicate Logic, and Model-Theoretic Semantics Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

@@ -1,6 +1,7 @@
 ---
 title: "Database Indexing Structures (b Tree, Gin, Gist, Brin) Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

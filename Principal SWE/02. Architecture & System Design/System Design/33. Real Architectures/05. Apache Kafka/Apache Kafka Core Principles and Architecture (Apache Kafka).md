@@ -1,6 +1,7 @@
 ---
 title: "Apache Kafka Core Principles and Architecture (Apache Kafka)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

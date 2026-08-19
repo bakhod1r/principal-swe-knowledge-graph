@@ -1,6 +1,7 @@
 ---
 title: "Daily Temperatures and Stock Span Monotonic Decreasing Stack"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

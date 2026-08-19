@@ -1,6 +1,7 @@
 ---
 title: "Health Checks and Failover Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

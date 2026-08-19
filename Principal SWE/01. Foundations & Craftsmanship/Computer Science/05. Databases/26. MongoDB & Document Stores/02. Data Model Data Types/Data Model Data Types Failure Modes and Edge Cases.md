@@ -1,6 +1,7 @@
 ---
 title: "Data Model Data Types Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

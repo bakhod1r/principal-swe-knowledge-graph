@@ -1,6 +1,7 @@
 ---
 title: "Navigating Organizational Politics with Integrity and Transparency Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

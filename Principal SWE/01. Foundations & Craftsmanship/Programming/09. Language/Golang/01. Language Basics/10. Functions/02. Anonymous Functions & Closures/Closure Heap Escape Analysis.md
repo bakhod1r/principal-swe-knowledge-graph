@@ -1,6 +1,7 @@
 ---
 title: "Closure Heap Escape Analysis"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

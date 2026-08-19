@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Binary Signing with Cosign & Rekor"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "iter.Seq and iter.Seq2 Standard Contracts"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

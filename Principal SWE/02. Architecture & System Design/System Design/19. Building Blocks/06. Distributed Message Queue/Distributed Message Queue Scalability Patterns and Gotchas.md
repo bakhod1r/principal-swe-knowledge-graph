@@ -1,6 +1,7 @@
 ---
 title: "Distributed Message Queue Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

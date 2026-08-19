@@ -1,6 +1,7 @@
 ---
 title: "Security Testing Automation - Dast, Zap, and Dependency Vulnerabilities Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

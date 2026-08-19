@@ -1,6 +1,7 @@
 ---
 title: "Methods vs Functions Architectural Differences"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

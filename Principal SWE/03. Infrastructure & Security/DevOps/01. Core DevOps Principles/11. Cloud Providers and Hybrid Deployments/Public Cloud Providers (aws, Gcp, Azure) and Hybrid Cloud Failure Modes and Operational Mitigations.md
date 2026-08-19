@@ -1,6 +1,7 @@
 ---
 title: "Public Cloud Providers (aws, Gcp, Azure) and Hybrid Cloud Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

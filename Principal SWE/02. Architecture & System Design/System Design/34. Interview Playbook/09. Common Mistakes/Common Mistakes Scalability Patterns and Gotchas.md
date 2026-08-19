@@ -1,6 +1,7 @@
 ---
 title: "Common Mistakes Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

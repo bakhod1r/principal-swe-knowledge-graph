@@ -1,6 +1,7 @@
 ---
 title: "Mex Query on Dynamic Array via Segment Tree"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

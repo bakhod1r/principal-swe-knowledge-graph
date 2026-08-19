@@ -1,6 +1,7 @@
 ---
 title: "Full Text Search and Vector Database Architectures Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Behavioral Patterns: Observer Event Notification and Subject Decoupling Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

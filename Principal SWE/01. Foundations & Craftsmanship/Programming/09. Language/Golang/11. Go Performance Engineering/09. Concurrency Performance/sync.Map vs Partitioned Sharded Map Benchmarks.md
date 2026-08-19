@@ -1,6 +1,7 @@
 ---
 title: "sync.Map vs Partitioned Sharded Map Benchmarks"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

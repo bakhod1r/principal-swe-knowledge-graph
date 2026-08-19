@@ -1,6 +1,7 @@
 ---
 title: "Behavioral Patterns: Strategy Algorithm Swapping and Template Method Invariants Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

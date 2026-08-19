@@ -1,6 +1,7 @@
 ---
 title: "Containerization Foundations and Docker Container Lifecycles Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

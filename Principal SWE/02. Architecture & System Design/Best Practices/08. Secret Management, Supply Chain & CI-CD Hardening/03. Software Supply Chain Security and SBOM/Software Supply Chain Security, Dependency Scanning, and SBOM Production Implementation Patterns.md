@@ -1,6 +1,7 @@
 ---
 title: "Software Supply Chain Security, Dependency Scanning, and SBOM Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

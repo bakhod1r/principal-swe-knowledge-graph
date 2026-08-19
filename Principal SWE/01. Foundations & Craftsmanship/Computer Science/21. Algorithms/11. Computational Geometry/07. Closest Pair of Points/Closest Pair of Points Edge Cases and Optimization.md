@@ -1,6 +1,7 @@
 ---
 title: "Closest Pair of Points Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

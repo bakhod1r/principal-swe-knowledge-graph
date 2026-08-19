@@ -1,6 +1,7 @@
 ---
 title: "Defining True Minimum Viable Products (mvp) and Rapid Prototyping Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

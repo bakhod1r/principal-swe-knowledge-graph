@@ -1,6 +1,7 @@
 ---
 title: "container-ring Circular Ring Buffer Mechanics"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

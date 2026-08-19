@@ -1,6 +1,7 @@
 ---
 title: "Erasure Coding and Durability Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

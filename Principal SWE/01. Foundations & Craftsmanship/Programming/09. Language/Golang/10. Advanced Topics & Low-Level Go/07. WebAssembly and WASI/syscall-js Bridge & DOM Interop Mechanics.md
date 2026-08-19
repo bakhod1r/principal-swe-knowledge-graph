@@ -1,6 +1,7 @@
 ---
 title: "syscall-js Bridge & DOM Interop Mechanics"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

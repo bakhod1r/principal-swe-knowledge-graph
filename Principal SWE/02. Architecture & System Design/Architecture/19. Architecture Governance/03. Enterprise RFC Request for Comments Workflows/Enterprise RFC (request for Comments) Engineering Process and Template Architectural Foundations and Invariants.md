@@ -1,6 +1,7 @@
 ---
 title: "Enterprise RFC (request for Comments) Engineering Process and Template Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

@@ -1,6 +1,7 @@
 ---
 title: "Health Endpoint Monitoring Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Multi-Variable Declarations"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Discord Realtime Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

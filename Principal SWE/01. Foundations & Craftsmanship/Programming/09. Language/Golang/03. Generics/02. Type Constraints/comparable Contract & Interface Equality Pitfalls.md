@@ -1,6 +1,7 @@
 ---
 title: "comparable Contract & Interface Equality Pitfalls"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Static Security Analysis and Linting for Terraform (tfsec, Checkov, Tflint) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

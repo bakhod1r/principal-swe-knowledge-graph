@@ -1,6 +1,7 @@
 ---
 title: "Unsigned Integers (uint8 to uint64, uint, uintptr)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

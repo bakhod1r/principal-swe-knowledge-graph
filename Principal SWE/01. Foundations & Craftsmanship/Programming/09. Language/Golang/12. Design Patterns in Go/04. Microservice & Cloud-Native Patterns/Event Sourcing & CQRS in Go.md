@@ -1,6 +1,7 @@
 ---
 title: "Event Sourcing & CQRS in Go"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

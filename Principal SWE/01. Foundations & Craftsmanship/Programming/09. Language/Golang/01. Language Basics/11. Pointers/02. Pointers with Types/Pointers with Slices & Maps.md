@@ -1,6 +1,7 @@
 ---
 title: "Pointers with Slices & Maps"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

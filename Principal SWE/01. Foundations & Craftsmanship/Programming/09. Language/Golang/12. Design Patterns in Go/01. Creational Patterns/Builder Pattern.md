@@ -1,6 +1,7 @@
 ---
 title: "Builder Pattern"
 tags:
+  - review
   - golang
   - design-patterns
   - principal-swe

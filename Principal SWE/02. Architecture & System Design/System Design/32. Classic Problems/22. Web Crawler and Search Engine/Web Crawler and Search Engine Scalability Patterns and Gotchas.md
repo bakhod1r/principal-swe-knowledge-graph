@@ -1,6 +1,7 @@
 ---
 title: "Web Crawler and Search Engine Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

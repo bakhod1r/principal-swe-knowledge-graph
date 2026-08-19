@@ -1,6 +1,7 @@
 ---
 title: In Memory Data Stores and Caching Topologies
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Zero Copy IO Sendfile IO Uring Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

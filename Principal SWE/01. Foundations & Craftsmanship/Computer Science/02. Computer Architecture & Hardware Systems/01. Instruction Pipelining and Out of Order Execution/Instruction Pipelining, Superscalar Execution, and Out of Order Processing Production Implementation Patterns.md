@@ -1,6 +1,7 @@
 ---
 title: "Instruction Pipelining, Superscalar Execution, and Out of Order Processing Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

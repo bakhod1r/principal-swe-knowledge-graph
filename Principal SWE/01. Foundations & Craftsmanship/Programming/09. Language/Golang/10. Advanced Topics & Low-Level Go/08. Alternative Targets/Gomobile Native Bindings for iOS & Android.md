@@ -1,6 +1,7 @@
 ---
 title: "Gomobile Native Bindings for iOS & Android"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Erasure Coding and Durability Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

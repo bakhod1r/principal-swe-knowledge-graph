@@ -1,6 +1,7 @@
 ---
 title: "Operating System Hardening, Apparmor, Selinux, and Kernel Protection Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models

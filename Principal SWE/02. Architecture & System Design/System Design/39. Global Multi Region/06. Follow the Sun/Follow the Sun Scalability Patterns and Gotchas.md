@@ -1,6 +1,7 @@
 ---
 title: "Follow the Sun Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

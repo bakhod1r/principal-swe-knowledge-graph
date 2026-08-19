@@ -1,6 +1,7 @@
 ---
 title: "Lamport Logical Clocks, Vector Clocks, and Causality Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

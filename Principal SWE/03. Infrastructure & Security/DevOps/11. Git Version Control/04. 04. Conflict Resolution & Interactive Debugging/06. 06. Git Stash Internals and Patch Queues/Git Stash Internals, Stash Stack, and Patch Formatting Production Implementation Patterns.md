@@ -1,6 +1,7 @@
 ---
 title: "Git Stash Internals, Stash Stack, and Patch Formatting Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

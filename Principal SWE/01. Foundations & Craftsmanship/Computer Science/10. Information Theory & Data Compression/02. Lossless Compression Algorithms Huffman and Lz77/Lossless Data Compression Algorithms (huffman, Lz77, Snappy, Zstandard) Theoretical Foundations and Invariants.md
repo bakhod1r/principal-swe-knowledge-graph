@@ -1,6 +1,7 @@
 ---
 title: "Lossless Data Compression Algorithms (huffman, Lz77, Snappy, Zstandard) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

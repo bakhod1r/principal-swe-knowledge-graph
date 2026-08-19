@@ -1,6 +1,7 @@
 ---
 title: "Behavioral Patterns: Command Encapsulation, Undo Redo, and Memento Snapshots Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

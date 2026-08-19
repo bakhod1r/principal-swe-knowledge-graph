@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Spring Boot and Microservices Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

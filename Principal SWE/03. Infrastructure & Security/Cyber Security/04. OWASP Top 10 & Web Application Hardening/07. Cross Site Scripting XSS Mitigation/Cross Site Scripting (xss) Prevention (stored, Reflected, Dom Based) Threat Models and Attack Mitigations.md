@@ -1,6 +1,7 @@
 ---
 title: "Cross Site Scripting (xss) Prevention (stored, Reflected, Dom Based) Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

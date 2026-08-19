@@ -1,6 +1,7 @@
 ---
 title: Agent Memory Architectures: Short Term, Long Term, and Episodic Memory
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration

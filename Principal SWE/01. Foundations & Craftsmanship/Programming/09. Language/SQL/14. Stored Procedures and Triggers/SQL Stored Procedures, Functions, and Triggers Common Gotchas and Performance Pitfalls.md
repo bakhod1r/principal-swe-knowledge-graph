@@ -1,6 +1,7 @@
 ---
 title: "SQL Stored Procedures, Functions, and Triggers Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

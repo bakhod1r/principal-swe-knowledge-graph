@@ -1,6 +1,7 @@
 ---
 title: "Array Memory Layout"
 tags:
+  - review
   - golang
   - arrays
   - principal-swe

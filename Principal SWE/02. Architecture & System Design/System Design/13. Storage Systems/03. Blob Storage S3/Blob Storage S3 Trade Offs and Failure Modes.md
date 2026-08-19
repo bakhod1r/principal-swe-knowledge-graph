@@ -1,6 +1,7 @@
 ---
 title: "Blob Storage S3 Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

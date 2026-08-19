@@ -1,6 +1,7 @@
 ---
 title: "Pure Go vs Cgo Compilation (CGO_ENABLED=0 vs 1)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Git Repository Initialization, Bare Repositories, and Mirrors Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

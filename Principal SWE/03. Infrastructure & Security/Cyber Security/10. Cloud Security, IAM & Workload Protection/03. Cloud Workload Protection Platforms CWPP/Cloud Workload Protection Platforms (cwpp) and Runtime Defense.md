@@ -1,6 +1,7 @@
 ---
 title: Cloud Workload Protection Platforms (cwpp) and Runtime Defense
 tags:
+  - review
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection

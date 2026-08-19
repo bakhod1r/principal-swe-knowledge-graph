@@ -1,6 +1,7 @@
 ---
 title: "Directory Sandboxing (os.Root Go 1.24+)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

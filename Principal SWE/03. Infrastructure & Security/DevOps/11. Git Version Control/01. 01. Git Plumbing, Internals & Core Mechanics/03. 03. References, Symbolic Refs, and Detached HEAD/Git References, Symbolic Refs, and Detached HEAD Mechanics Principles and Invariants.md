@@ -1,6 +1,7 @@
 ---
 title: "Git References, Symbolic Refs, and Detached HEAD Mechanics Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

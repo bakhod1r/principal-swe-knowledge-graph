@@ -1,6 +1,7 @@
 ---
 title: "Listen-Notify Asynchronous PubSub with pgx"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Retry Storm Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

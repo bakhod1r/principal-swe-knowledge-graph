@@ -1,6 +1,7 @@
 ---
 title: "Docker Engine Architecture, Containerd, Runc, and Oci Standards Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

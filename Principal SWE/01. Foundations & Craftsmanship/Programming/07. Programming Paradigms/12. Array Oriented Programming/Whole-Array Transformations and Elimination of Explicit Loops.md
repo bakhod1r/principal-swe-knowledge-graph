@@ -1,6 +1,7 @@
 ---
 title: "Whole-Array Transformations and Elimination of Explicit Loops"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

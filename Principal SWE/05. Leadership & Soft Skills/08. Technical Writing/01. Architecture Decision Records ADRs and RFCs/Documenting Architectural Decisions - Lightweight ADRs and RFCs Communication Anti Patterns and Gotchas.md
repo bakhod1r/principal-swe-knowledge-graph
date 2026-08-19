@@ -1,6 +1,7 @@
 ---
 title: "Documenting Architectural Decisions - Lightweight ADRs and RFCs Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

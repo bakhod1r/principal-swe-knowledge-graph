@@ -1,6 +1,7 @@
 ---
 title: "Strangler Fig Pattern for Language Modernization"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

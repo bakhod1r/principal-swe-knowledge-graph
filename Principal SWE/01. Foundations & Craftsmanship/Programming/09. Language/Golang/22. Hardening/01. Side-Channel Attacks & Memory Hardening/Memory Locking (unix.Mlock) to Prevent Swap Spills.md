@@ -1,6 +1,7 @@
 ---
 title: "Memory Locking (unix.Mlock) to Prevent Swap Spills"
 tags:
+  - review
   - golang
   - security
   - principal-swe

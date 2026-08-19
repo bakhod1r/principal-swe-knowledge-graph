@@ -1,6 +1,7 @@
 ---
 title: "Redundancy and Failure Domains Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

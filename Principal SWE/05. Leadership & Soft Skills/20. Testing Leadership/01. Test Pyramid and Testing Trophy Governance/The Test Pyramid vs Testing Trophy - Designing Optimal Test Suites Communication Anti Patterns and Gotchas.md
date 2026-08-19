@@ -1,6 +1,7 @@
 ---
 title: "The Test Pyramid vs Testing Trophy - Designing Optimal Test Suites Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

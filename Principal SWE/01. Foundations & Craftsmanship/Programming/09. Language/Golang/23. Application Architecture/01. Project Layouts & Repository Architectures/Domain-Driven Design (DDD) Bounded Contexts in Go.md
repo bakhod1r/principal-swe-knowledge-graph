@@ -1,6 +1,7 @@
 ---
 title: "Domain-Driven Design (DDD) Bounded Contexts in Go"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Product Strategy, Vision, and Technical Feasibility Alignment Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

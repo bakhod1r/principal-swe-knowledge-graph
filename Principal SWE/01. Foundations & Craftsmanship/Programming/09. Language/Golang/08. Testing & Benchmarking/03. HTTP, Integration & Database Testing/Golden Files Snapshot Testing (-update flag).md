@@ -1,6 +1,7 @@
 ---
 title: "Golden Files Snapshot Testing (-update flag)"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

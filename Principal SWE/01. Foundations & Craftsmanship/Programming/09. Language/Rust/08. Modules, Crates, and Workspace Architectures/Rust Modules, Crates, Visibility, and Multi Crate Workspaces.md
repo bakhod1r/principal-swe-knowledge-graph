@@ -1,6 +1,7 @@
 ---
 title: Rust Modules, Crates, Visibility, and Multi Crate Workspaces
 tags:
+  - review
   - programming
   - languages
   - rust

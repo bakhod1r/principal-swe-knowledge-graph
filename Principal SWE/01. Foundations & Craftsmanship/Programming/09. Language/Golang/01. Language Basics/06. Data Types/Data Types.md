@@ -35,6 +35,17 @@ Data Types
 - [[Commands and Docs]] — Standard library documentation tools, go doc, and symbol inspection.
 - [[String Internals]] — stringStruct layout, pointer and length fields, and zero-copy string conversions.
 
+
+## 🗂️ Contents
+
+- [[Boolean]]
+- [[Commands and Docs]]
+- [[Numeric Types]]
+- [[Runes]]
+- [[String Internals]]
+- [[Strings]]
+- [[Type Conversion]]
+
 ---
 
 ## 🔗 References

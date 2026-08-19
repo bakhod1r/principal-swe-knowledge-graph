@@ -1,6 +1,7 @@
 ---
 title: Openapi 3.1 Specification, Json Schema Dialects, and Swagger Docs
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

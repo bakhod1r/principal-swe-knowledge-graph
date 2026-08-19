@@ -1,6 +1,7 @@
 ---
 title: "Loop and Polyhedral Compilation Optimizations, Tiling, and Vectorization Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

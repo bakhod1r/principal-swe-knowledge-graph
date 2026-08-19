@@ -1,6 +1,7 @@
 ---
 title: "Tensor Cores, Matrix Multiplication Hardware (GEMM), and FP16-BF16-FP8 Arithmetic"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

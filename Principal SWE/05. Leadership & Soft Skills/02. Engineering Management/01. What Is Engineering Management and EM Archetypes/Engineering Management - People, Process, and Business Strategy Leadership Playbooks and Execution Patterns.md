@@ -1,6 +1,7 @@
 ---
 title: "Engineering Management - People, Process, and Business Strategy Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

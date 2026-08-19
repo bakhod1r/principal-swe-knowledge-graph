@@ -1,6 +1,7 @@
 ---
 title: "Authenticated Symmetric Encryption (AES-GCM & ChaCha20-Poly1305)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

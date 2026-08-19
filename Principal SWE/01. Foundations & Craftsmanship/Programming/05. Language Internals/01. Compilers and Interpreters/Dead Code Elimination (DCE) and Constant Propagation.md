@@ -1,6 +1,7 @@
 ---
 title: "Dead Code Elimination (DCE) and Constant Propagation"
 tags:
+  - review
   - programming
   - language-internals
   - principal-swe

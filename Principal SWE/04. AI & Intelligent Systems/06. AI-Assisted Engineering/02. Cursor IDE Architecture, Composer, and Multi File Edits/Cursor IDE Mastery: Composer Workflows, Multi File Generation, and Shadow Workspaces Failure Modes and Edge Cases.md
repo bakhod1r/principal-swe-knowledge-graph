@@ -1,6 +1,7 @@
 ---
 title: "Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

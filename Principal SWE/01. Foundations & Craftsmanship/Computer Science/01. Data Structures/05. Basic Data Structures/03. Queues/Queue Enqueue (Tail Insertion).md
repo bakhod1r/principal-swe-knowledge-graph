@@ -1,6 +1,7 @@
 ---
 title: "Queue Enqueue (Tail Insertion)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

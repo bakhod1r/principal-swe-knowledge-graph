@@ -1,6 +1,7 @@
 ---
 title: "hash Package Hierarchy & CRC32 Hardware Checksums"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

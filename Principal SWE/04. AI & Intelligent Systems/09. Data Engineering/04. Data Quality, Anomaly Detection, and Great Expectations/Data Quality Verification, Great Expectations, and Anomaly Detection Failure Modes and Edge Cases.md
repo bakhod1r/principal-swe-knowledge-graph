@@ -1,6 +1,7 @@
 ---
 title: "Data Quality Verification, Great Expectations, and Anomaly Detection Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

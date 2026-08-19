@@ -1,6 +1,7 @@
 ---
 title: "Expand Contract Pattern Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

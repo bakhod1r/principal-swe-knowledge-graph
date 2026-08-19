@@ -1,6 +1,7 @@
 ---
 title: "Memory Alignment & Word Boundaries (8-byte Alignment)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

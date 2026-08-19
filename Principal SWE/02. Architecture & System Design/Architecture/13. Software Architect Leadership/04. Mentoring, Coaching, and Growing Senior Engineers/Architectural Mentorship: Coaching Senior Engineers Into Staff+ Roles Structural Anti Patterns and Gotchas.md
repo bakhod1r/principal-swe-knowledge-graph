@@ -1,6 +1,7 @@
 ---
 title: "Architectural Mentorship: Coaching Senior Engineers Into Staff+ Roles Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

@@ -1,6 +1,7 @@
 ---
 title: "Engineering Hiring Architecture - Structured Interviews and Bar Raisers Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

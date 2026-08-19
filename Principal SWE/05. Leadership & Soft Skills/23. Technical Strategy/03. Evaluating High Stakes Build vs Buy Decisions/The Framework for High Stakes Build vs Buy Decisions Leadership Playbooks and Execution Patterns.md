@@ -1,6 +1,7 @@
 ---
 title: "The Framework for High Stakes Build vs Buy Decisions Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

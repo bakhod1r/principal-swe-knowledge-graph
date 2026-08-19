@@ -1,6 +1,7 @@
 ---
 title: "Database Access (jdbc, Hikaricp, and JPA Hibernate) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

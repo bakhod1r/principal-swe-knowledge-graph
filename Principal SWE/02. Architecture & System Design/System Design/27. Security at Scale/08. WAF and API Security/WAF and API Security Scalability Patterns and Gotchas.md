@@ -1,6 +1,7 @@
 ---
 title: "WAF and API Security Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Bitwise AND, OR, XOR"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

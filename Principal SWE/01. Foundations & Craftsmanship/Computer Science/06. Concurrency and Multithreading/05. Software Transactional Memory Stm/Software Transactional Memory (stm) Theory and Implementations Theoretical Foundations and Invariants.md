@@ -1,6 +1,7 @@
 ---
 title: "Software Transactional Memory (stm) Theory and Implementations Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models

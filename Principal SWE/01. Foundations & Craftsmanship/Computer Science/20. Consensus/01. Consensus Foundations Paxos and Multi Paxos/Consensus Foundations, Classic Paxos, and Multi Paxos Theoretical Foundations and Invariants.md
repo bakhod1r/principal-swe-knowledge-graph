@@ -1,6 +1,7 @@
 ---
 title: "Consensus Foundations, Classic Paxos, and Multi Paxos Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

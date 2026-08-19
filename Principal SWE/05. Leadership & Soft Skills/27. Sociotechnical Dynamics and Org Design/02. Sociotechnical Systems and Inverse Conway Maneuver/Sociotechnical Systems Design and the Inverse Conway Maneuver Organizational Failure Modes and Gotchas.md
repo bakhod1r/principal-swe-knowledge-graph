@@ -1,6 +1,7 @@
 ---
 title: "Sociotechnical Systems Design and the Inverse Conway Maneuver Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

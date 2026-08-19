@@ -1,6 +1,7 @@
 ---
 title: "Solidity Smart Contract Design Patterns and Proxy Upgradability (uups, Diamond) Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

@@ -1,6 +1,7 @@
 ---
 title: "Geodns and Anycast Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

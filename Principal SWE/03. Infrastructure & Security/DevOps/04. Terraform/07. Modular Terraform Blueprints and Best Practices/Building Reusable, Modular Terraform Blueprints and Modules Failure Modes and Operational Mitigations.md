@@ -1,6 +1,7 @@
 ---
 title: "Building Reusable, Modular Terraform Blueprints and Modules Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

@@ -1,6 +1,7 @@
 ---
 title: "Writing Robust, Production Grade CLI Scripts and Automation Runbooks Production Implementation Patterns (Writing Robust, Production Grade CLI Scripts and Automation Runbooks)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

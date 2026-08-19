@@ -1,6 +1,7 @@
 ---
 title: "Synchronization Primitives Internals, Linux Futexes, Hybrid Spin-Mutexes, and Condition Variables Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

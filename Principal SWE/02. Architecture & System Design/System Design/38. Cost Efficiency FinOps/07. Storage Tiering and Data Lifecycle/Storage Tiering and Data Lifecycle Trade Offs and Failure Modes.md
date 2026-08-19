@@ -1,6 +1,7 @@
 ---
 title: "Storage Tiering and Data Lifecycle Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

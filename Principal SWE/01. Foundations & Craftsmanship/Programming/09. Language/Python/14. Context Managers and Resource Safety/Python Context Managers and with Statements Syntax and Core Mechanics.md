@@ -1,6 +1,7 @@
 ---
 title: "Python Context Managers and with Statements Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

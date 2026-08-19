@@ -1,6 +1,7 @@
 ---
 title: "Building Quality Engineering Culture - Whole Team Quality Ownership Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

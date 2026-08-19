@@ -1,6 +1,7 @@
 ---
 title: "Hardened Ci-cd Runner Environments and Pipeline Isolation Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

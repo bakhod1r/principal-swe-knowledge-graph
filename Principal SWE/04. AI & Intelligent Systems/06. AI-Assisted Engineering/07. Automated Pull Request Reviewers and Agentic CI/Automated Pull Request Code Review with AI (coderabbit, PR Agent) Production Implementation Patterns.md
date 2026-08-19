@@ -1,6 +1,7 @@
 ---
 title: "Automated Pull Request Code Review with AI (coderabbit, PR Agent) Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

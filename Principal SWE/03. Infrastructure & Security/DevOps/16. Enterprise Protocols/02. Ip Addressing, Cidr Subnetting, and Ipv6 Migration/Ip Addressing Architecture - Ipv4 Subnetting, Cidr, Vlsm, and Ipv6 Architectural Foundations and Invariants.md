@@ -1,6 +1,7 @@
 ---
 title: "Ip Addressing Architecture - Ipv4 Subnetting, Cidr, Vlsm, and Ipv6 Architectural Foundations and Invariants"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

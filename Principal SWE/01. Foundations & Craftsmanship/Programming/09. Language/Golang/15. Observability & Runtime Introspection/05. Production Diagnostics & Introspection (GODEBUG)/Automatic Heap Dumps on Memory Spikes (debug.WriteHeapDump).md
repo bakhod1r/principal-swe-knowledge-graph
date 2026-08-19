@@ -1,6 +1,7 @@
 ---
 title: "Automatic Heap Dumps on Memory Spikes (debug.WriteHeapDump)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

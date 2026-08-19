@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 Machine Learning, Deep Learning & Transformer Foundations
@@ -47,5 +47,5 @@ Machine Learning, Deep Learning & Transformer Foundations
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

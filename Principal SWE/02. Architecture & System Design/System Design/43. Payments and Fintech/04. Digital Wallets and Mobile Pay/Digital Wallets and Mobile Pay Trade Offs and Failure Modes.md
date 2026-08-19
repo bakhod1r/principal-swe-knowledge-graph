@@ -1,6 +1,7 @@
 ---
 title: "Digital Wallets and Mobile Pay Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

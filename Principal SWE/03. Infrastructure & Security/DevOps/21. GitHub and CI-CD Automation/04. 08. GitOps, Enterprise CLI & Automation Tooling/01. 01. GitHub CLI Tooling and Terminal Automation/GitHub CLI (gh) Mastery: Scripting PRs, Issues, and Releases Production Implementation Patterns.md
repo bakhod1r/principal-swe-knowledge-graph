@@ -1,6 +1,7 @@
 ---
 title: "GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

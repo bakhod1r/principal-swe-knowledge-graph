@@ -1,6 +1,7 @@
 ---
 title: "High Performance Reverse Proxies: Nginx and Envoy Proxy Internals Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

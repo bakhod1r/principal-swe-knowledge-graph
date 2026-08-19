@@ -1,6 +1,7 @@
 ---
 title: "Conways Law and the Inverse Conway Maneuver"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

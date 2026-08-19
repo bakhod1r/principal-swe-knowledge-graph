@@ -1,6 +1,7 @@
 ---
 title: "Queue Based Load Leveling Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

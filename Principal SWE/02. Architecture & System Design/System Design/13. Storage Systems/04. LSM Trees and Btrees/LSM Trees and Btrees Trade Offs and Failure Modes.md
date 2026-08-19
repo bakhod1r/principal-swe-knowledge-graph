@@ -1,6 +1,7 @@
 ---
 title: "LSM Trees and Btrees Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

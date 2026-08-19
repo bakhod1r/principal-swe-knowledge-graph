@@ -1,6 +1,7 @@
 ---
 title: "Advanced Cherry-Picking (git cherry-pick) and Range Extraction Principles and Invariants"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

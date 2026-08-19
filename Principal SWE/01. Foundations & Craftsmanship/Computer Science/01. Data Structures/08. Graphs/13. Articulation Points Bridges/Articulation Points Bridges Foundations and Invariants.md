@@ -1,6 +1,7 @@
 ---
 title: "Articulation Points Bridges Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

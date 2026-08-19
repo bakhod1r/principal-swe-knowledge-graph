@@ -1,6 +1,7 @@
 ---
 title: "Learn the Basics in Java Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - java
   - principal-swe

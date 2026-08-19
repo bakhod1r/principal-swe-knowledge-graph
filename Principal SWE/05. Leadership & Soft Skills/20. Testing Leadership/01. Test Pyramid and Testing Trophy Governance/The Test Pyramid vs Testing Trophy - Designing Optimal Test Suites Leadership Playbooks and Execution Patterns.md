@@ -1,6 +1,7 @@
 ---
 title: "The Test Pyramid vs Testing Trophy - Designing Optimal Test Suites Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

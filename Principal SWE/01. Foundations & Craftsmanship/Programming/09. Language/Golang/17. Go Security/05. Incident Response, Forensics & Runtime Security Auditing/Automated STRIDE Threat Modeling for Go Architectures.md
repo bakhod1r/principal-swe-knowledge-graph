@@ -1,6 +1,7 @@
 ---
 title: "Automated STRIDE Threat Modeling for Go Architectures"
 tags:
+  - review
   - golang
   - security
   - principal-swe

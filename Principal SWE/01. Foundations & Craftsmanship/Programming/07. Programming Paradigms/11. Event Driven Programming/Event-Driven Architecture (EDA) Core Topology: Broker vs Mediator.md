@@ -1,6 +1,7 @@
 ---
 title: "Event-Driven Architecture (EDA) Core Topology: Broker vs Mediator"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

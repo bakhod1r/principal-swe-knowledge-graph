@@ -1,6 +1,7 @@
 ---
 title: "Binary Security Hardening (PIE, ASLR, Stack Canaries)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Floyd Tortoise and Hare Cycle Detection Proof (2(F+a) = F+a+kC)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

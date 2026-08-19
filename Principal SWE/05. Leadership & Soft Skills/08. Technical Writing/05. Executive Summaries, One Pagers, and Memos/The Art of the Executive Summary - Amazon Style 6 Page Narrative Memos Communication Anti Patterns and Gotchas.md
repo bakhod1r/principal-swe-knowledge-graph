@@ -1,6 +1,7 @@
 ---
 title: "The Art of the Executive Summary - Amazon Style 6 Page Narrative Memos Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "sync.Mutex Source Walkthrough"
 tags:
+  - review
   - golang
   - source-reading
   - principal-swe

@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 Prompt Engineering, Context Optimization & LLM Alignment
@@ -43,5 +43,5 @@ Prompt Engineering, Context Optimization & LLM Alignment
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

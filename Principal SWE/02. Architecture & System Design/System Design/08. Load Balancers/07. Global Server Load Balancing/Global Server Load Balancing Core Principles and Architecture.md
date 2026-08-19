@@ -1,6 +1,7 @@
 ---
 title: "Global Server Load Balancing Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Shell and Bash (Language)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

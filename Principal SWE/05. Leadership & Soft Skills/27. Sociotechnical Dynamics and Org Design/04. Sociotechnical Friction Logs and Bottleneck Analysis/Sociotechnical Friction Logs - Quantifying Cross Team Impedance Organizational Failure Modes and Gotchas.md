@@ -1,6 +1,7 @@
 ---
 title: "Sociotechnical Friction Logs - Quantifying Cross Team Impedance Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

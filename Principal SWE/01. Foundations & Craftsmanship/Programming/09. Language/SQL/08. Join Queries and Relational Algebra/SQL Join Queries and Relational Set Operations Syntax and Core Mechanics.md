@@ -1,6 +1,7 @@
 ---
 title: "SQL Join Queries and Relational Set Operations Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Difference Array Range Update (O(1) Batch Range Addition)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

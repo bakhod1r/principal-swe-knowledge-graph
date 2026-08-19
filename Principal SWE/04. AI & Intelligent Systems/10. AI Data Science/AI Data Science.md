@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 AI Data Science, Statistical Modeling & Econometrics
@@ -45,5 +45,5 @@ AI Data Science, Statistical Modeling & Econometrics
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

@@ -1,6 +1,7 @@
 ---
 title: "Hardware Security Module (HSM) Integration via PKCS#11"
 tags:
+  - review
   - golang
   - security
   - principal-swe

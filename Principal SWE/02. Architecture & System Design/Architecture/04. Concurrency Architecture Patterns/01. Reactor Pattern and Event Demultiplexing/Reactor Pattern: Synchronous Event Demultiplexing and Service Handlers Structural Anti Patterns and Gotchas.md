@@ -1,6 +1,7 @@
 ---
 title: "Reactor Pattern: Synchronous Event Demultiplexing and Service Handlers Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

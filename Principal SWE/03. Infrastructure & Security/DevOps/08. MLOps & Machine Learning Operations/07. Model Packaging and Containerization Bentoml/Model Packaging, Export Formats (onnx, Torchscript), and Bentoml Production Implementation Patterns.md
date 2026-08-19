@@ -1,6 +1,7 @@
 ---
 title: "Model Packaging, Export Formats (onnx, Torchscript), and Bentoml Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

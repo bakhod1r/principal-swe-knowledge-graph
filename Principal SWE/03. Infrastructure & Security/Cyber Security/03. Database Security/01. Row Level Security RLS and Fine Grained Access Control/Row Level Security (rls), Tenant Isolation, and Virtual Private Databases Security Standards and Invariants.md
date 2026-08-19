@@ -1,6 +1,7 @@
 ---
 title: "Row Level Security (rls), Tenant Isolation, and Virtual Private Databases Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

@@ -1,6 +1,7 @@
 ---
 title: "Apprenticeship and Mentorship in Software Engineering Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

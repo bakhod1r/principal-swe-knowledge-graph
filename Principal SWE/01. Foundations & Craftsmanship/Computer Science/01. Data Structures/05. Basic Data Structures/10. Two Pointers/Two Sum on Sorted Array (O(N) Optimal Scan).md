@@ -1,6 +1,7 @@
 ---
 title: "Two Sum on Sorted Array (O(N) Optimal Scan)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

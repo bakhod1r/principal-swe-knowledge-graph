@@ -1,6 +1,7 @@
 ---
 title: "Allocation Profiling in Benchmarks (-benchmem & b.ReportAllocs)"
 tags:
+  - review
   - golang
   - testing
   - principal-swe

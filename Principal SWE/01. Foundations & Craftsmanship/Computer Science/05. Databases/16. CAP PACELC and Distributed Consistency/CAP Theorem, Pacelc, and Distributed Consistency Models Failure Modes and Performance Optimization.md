@@ -1,6 +1,7 @@
 ---
 title: "CAP Theorem, Pacelc, and Distributed Consistency Models Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "CAP Theorem, Pacelc, and Distributed Consistency Models Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

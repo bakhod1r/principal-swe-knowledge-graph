@@ -1,6 +1,7 @@
 ---
 title: "Structural Patterns: Object Adapter, Class Adapter, and Bridge Decoupling Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Commit Signing with GPG and SSH Keys Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

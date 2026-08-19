@@ -1,6 +1,7 @@
 ---
 title: "Trino Presto Distributed Query Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Generic Type Aliases (Go 1.24+)"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

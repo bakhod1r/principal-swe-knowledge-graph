@@ -1,6 +1,7 @@
 ---
 title: Kubernetes Services (clusterip, Nodeport, Loadbalancer) and Coredns
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

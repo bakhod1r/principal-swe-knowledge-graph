@@ -1,6 +1,7 @@
 ---
 title: "Stateful Stream Processing with Apache Flink and Exactly Once Semantics Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

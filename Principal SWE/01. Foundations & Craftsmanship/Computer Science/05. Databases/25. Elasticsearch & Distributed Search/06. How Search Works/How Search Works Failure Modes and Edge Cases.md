@@ -1,6 +1,7 @@
 ---
 title: "How Search Works Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - elasticsearch-and-distributed-search

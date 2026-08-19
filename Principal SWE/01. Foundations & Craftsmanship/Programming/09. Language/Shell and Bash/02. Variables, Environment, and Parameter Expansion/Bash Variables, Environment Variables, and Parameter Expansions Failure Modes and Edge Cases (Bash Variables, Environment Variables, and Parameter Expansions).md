@@ -1,6 +1,7 @@
 ---
 title: "Bash Variables, Environment Variables, and Parameter Expansions Failure Modes and Edge Cases (Bash Variables, Environment Variables, and Parameter Expansions)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

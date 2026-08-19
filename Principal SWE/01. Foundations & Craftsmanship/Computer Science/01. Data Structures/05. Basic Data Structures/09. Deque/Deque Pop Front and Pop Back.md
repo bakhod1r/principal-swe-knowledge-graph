@@ -1,6 +1,7 @@
 ---
 title: "Deque Pop Front and Pop Back"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

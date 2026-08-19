@@ -1,6 +1,7 @@
 ---
 title: "Persistent Volumes (pv), Pvcs, Storageclasses, and CSI Drivers Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

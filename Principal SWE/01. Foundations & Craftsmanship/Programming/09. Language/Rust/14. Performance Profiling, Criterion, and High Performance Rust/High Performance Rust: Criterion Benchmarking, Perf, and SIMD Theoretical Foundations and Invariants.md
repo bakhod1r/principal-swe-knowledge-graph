@@ -1,6 +1,7 @@
 ---
 title: "High Performance Rust: Criterion Benchmarking, Perf, and SIMD Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - rust

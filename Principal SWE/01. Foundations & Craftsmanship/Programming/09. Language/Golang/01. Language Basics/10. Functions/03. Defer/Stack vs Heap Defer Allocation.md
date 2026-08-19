@@ -1,6 +1,7 @@
 ---
 title: "Stack vs Heap Defer Allocation"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

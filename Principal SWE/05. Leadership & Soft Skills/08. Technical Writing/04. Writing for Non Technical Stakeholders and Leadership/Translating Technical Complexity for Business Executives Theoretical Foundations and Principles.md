@@ -1,6 +1,7 @@
 ---
 title: "Translating Technical Complexity for Business Executives Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

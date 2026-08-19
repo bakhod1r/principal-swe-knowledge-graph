@@ -1,6 +1,7 @@
 ---
 title: "Distributed Context Propagation (W3C TraceContext & B3)"
 tags:
+  - review
   - golang
   - observability
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Java Module System (jpms) and Strong Encapsulation Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

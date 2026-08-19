@@ -1,6 +1,7 @@
 ---
 title: "Per-Iteration Loop Scoping Semantics"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

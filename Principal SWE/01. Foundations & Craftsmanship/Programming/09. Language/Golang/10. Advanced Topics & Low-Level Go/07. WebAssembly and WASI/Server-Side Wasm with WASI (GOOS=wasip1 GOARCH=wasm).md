@@ -1,6 +1,7 @@
 ---
 title: "Server-Side Wasm with WASI (GOOS=wasip1 GOARCH=wasm)"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

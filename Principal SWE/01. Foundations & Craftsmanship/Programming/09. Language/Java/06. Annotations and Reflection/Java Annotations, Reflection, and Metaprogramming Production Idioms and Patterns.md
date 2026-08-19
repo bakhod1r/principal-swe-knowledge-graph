@@ -1,6 +1,7 @@
 ---
 title: "Java Annotations, Reflection, and Metaprogramming Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Batch Processing Mapreduce Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

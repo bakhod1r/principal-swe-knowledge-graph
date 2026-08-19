@@ -1,6 +1,7 @@
 ---
 title: "Advanced RAG Architectures: Self Rag, Corrective RAG (crag), and Adaptive RAG Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

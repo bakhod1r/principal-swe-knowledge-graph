@@ -1,6 +1,7 @@
 ---
 title: "Java Build Tools (maven and Gradle Ecosystem) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - java
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: SQL Aggregate Queries, Grouping, and Filtering
 tags:
+  - review
   - programming
   - sql
   - principal-swe

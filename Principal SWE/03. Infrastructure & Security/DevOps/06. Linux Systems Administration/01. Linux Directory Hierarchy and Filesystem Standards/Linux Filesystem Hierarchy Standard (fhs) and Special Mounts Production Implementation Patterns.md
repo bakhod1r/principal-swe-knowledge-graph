@@ -1,6 +1,7 @@
 ---
 title: "Linux Filesystem Hierarchy Standard (fhs) and Special Mounts Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

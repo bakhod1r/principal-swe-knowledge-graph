@@ -1,6 +1,7 @@
 ---
 title: "Redis Internals Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Snapshot and Approval Testing (Testing (Quality Engineering))
 tags:
+  - review
   - programming
   - quality
   - principal-swe

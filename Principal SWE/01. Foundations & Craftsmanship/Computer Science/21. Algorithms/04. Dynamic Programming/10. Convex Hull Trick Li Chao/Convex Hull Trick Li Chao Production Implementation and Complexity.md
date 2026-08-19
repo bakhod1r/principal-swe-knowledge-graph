@@ -1,6 +1,7 @@
 ---
 title: "Convex Hull Trick Li Chao Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

@@ -1,6 +1,7 @@
 ---
 title: "Weighted Semaphore Resource Limiting (x-sync-semaphore)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

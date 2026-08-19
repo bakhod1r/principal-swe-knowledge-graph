@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Type System - Interfaces, Union Types, and Custom Scalars Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

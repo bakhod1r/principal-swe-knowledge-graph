@@ -1,6 +1,7 @@
 ---
 title: Buffer Pool and Database Page Cache Management
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

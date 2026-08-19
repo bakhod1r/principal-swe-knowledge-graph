@@ -1,6 +1,7 @@
 ---
 title: "Pointer Receivers (State Mutation & Copy Elimination)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

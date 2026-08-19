@@ -1,6 +1,7 @@
 ---
 title: "go build Command"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

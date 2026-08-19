@@ -1,6 +1,7 @@
 ---
 title: "Python Standard Library Deep Dive Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

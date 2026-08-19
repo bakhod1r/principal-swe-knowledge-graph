@@ -1,6 +1,7 @@
 ---
 title: "Static (sast), Dynamic (dast), and Secret Analysis Automation Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

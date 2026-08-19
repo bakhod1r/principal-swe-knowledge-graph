@@ -1,6 +1,7 @@
 ---
 title: "Graphics Rendering Pipeline, Rasterization, and Modern Compute Shaders Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

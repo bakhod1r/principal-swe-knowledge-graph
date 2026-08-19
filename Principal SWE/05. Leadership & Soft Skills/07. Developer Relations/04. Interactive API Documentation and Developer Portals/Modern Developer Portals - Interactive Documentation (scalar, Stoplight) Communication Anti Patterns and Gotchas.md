@@ -1,6 +1,7 @@
 ---
 title: "Modern Developer Portals - Interactive Documentation (scalar, Stoplight) Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

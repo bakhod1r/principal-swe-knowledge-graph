@@ -1,6 +1,7 @@
 ---
 title: "Event Sourcing and CQRS (Command Query Responsibility Segregation)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

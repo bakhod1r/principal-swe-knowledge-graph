@@ -1,6 +1,7 @@
 ---
 title: "The Claim Check Pattern: Storing Large Payloads in Blob Storage Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

@@ -1,6 +1,7 @@
 ---
 title: "Structural Patterns: Composite Tree Hierarchies and Dynamic Decorators Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

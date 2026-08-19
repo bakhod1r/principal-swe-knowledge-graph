@@ -1,6 +1,7 @@
 ---
 title: "Linked List Sentinel Dummy Node Pattern"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

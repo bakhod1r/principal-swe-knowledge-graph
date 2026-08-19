@@ -1,6 +1,7 @@
 ---
 title: "encoding-gob Binary Stream Protocol"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

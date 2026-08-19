@@ -1,6 +1,7 @@
 ---
 title: "Message Broker Topologies, Messaging Bridges, and Bus Interconnects Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

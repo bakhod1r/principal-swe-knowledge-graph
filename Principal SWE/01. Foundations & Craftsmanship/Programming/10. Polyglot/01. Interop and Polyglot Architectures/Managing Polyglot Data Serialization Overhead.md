@@ -1,6 +1,7 @@
 ---
 title: "Managing Polyglot Data Serialization Overhead"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

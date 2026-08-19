@@ -1,6 +1,7 @@
 ---
 title: Distributed Multi GPU Inference: Tensor Parallelism vs Pipeline Parallelism
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure

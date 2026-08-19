@@ -1,6 +1,7 @@
 ---
 title: "Developer Ergonomics, Preserving Cognitive Flow, and Avoiding AI Fatigue Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding

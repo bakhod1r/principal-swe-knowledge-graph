@@ -1,6 +1,7 @@
 ---
 title: "Apache Kafka Scalability Patterns and Gotchas (Apache Kafka)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Boardroom Technical Leadership - Presenting Systemic Risk and Cyber Posture Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

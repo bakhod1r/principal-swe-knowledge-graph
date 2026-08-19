@@ -1,6 +1,7 @@
 ---
 title: "Principled Negotiation - Harvard Negotiation Project and BATNA Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

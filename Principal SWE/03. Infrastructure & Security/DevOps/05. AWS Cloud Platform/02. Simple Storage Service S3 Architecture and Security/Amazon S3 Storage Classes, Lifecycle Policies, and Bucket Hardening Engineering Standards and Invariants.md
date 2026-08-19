@@ -1,6 +1,7 @@
 ---
 title: "Amazon S3 Storage Classes, Lifecycle Policies, and Bucket Hardening Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

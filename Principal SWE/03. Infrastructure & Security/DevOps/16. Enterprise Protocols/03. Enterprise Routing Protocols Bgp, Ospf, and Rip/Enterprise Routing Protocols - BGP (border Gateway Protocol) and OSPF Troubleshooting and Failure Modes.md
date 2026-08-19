@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Routing Protocols - BGP (border Gateway Protocol) and OSPF Troubleshooting and Failure Modes"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

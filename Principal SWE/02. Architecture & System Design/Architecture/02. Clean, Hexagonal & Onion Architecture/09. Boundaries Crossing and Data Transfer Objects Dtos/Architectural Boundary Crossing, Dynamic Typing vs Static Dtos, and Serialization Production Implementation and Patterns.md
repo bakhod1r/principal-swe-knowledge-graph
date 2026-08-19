@@ -1,6 +1,7 @@
 ---
 title: "Architectural Boundary Crossing, Dynamic Typing vs Static Dtos, and Serialization Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

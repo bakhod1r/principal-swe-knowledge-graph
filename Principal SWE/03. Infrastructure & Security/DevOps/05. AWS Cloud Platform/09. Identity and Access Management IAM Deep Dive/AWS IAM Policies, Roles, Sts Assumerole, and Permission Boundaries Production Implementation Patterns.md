@@ -1,6 +1,7 @@
 ---
 title: "AWS IAM Policies, Roles, Sts Assumerole, and Permission Boundaries Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "Tool Directives in go.mod (Go 1.24+)"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

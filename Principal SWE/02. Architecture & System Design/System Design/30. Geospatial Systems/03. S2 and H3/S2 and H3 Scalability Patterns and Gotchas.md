@@ -1,6 +1,7 @@
 ---
 title: "S2 and H3 Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

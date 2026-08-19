@@ -1,6 +1,7 @@
 ---
 title: "Variadic Functions (...T)"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

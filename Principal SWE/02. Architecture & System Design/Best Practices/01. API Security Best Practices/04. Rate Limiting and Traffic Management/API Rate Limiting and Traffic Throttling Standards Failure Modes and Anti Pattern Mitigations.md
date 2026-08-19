@@ -1,6 +1,7 @@
 ---
 title: "API Rate Limiting and Traffic Throttling Standards Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - api-security-best-practices

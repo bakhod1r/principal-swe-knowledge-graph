@@ -1,6 +1,7 @@
 ---
 title: "GitHub Pull Request Templates, Issue Forms, and Triage Workflows Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

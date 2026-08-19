@@ -1,6 +1,7 @@
 ---
 title: "Side Channel Attack Vectors and Constant Time Implementation Techniques Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

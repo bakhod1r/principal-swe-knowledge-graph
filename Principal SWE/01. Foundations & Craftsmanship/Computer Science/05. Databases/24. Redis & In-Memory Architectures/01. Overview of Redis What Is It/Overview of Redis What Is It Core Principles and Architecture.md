@@ -1,6 +1,7 @@
 ---
 title: "Overview of Redis What Is It Core Principles and Architecture"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

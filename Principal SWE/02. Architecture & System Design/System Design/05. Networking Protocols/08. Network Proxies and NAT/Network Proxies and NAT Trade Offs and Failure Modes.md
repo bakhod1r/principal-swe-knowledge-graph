@@ -1,6 +1,7 @@
 ---
 title: "Network Proxies and NAT Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

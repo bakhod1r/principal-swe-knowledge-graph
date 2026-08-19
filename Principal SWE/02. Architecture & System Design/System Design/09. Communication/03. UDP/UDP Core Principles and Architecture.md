@@ -1,6 +1,7 @@
 ---
 title: "UDP Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

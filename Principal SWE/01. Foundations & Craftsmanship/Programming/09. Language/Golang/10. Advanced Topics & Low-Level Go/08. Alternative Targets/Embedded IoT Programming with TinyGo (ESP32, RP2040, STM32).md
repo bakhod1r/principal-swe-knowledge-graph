@@ -1,6 +1,7 @@
 ---
 title: "Embedded IoT Programming with TinyGo (ESP32, RP2040, STM32)"
 tags:
+  - review
   - golang
   - wasm
   - principal-swe

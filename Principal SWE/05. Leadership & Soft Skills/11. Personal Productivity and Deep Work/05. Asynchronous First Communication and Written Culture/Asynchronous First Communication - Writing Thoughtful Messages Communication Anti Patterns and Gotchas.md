@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous First Communication - Writing Thoughtful Messages Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

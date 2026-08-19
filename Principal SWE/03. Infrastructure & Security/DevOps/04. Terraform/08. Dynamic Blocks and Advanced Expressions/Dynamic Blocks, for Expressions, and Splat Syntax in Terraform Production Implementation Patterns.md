@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Blocks, for Expressions, and Splat Syntax in Terraform Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous First Communication - Writing Thoughtful Messages Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

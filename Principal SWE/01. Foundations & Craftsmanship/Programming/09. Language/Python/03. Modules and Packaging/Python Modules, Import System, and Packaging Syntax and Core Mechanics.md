@@ -1,6 +1,7 @@
 ---
 title: "Python Modules, Import System, and Packaging Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

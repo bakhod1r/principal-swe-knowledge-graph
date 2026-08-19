@@ -1,6 +1,7 @@
 ---
 title: "Stoer Wagner Global Min Cut Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

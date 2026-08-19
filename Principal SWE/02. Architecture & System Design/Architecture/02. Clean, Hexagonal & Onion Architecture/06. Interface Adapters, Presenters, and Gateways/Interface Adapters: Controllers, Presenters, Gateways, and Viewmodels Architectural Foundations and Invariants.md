@@ -1,6 +1,7 @@
 ---
 title: "Interface Adapters: Controllers, Presenters, Gateways, and Viewmodels Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

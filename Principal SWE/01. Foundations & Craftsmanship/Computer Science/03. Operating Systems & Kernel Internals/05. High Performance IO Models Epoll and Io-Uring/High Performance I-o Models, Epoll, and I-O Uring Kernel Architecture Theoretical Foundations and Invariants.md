@@ -1,6 +1,7 @@
 ---
 title: "High Performance I-o Models, Epoll, and I-O Uring Kernel Architecture Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

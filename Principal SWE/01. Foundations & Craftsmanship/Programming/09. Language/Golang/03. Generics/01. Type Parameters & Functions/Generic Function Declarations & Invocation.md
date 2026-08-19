@@ -1,6 +1,7 @@
 ---
 title: "Generic Function Declarations & Invocation"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

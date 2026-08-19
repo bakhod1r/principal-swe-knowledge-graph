@@ -1,6 +1,7 @@
 ---
 title: Cloudflare Managed Dns, Proxied vs DNS Only Records, and Dnssec
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

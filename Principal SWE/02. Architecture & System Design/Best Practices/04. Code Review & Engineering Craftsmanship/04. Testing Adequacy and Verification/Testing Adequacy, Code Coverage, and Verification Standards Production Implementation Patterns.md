@@ -1,6 +1,7 @@
 ---
 title: "Testing Adequacy, Code Coverage, and Verification Standards Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship

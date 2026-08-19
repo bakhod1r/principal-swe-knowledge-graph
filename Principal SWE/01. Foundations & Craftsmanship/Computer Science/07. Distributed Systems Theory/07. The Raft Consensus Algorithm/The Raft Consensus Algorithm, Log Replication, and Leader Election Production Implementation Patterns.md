@@ -1,6 +1,7 @@
 ---
 title: "The Raft Consensus Algorithm, Log Replication, and Leader Election Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

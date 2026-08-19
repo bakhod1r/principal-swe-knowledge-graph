@@ -1,6 +1,7 @@
 ---
 title: Neural Network Foundations, Activation Functions, and Backpropagation
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

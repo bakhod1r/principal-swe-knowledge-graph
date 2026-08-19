@@ -1,6 +1,7 @@
 ---
 title: "compress-gzip & flate High-Throughput Stream Compression"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

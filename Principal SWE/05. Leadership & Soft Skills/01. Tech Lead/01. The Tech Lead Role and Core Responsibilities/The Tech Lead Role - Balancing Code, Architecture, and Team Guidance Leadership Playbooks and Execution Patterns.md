@@ -1,6 +1,7 @@
 ---
 title: "The Tech Lead Role - Balancing Code, Architecture, and Team Guidance Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

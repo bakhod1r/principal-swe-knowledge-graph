@@ -1,6 +1,6 @@
 ---
 title: RAG Architectures
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # RAG Architectures
@@ -18,4 +18,4 @@ parent: "[[AI & Machine Learning]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`

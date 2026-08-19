@@ -1,6 +1,7 @@
 ---
 title: "go tool nm (Symbol Table)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

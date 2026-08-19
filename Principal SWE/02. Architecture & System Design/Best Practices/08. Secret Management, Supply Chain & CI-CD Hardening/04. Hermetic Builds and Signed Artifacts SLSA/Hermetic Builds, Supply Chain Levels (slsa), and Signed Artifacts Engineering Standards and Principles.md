@@ -1,6 +1,7 @@
 ---
 title: "Hermetic Builds, Supply Chain Levels (slsa), and Signed Artifacts Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening

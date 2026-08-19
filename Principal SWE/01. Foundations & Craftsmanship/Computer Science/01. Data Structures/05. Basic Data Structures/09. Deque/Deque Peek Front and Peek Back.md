@@ -1,6 +1,7 @@
 ---
 title: "Deque Peek Front and Peek Back"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

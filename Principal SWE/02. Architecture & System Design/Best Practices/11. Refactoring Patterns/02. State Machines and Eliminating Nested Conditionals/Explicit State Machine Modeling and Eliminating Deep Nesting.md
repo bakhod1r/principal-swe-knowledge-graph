@@ -1,6 +1,7 @@
 ---
 title: Explicit State Machine Modeling and Eliminating Deep Nesting
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

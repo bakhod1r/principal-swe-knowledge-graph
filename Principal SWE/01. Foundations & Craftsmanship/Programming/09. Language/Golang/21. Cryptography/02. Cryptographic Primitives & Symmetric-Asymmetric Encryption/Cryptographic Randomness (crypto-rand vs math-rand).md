@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Randomness (crypto-rand vs math-rand)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Authenticated Encryption with Associated Data (AEAD), ChaCha20-Poly1305, and AES-GCM"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

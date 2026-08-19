@@ -1,6 +1,7 @@
 ---
 title: Retries, Exponential Backoff, and Full Jitter Algorithms
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

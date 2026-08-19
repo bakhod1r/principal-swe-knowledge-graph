@@ -1,6 +1,7 @@
 ---
 title: "Unsafe Rust, Raw Pointers, and Foreign Function Interface (ffi) Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - rust

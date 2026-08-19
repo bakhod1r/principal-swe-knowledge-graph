@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Secrets Decryption & External Secrets Operator"
 tags:
+  - review
   - golang
   - security
   - principal-swe

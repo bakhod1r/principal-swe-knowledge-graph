@@ -1,6 +1,7 @@
 ---
 title: "Law of Demeter (Design Principles)"
 tags:
+  - review
   - programming
   - oop
   - principal-swe

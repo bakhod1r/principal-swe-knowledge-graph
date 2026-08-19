@@ -1,6 +1,7 @@
 ---
 title: "Zero-Allocation JSON Parsers (Sonic, Jsoniter)"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

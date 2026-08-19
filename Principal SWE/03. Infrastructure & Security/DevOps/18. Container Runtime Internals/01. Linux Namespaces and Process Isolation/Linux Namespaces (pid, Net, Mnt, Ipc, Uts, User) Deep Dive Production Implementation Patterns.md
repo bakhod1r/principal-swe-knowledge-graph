@@ -1,6 +1,7 @@
 ---
 title: "Linux Namespaces (pid, Net, Mnt, Ipc, Uts, User) Deep Dive Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals

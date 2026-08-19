@@ -1,6 +1,7 @@
 ---
 title: "Navigating Organizational Politics with Integrity and Transparency Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

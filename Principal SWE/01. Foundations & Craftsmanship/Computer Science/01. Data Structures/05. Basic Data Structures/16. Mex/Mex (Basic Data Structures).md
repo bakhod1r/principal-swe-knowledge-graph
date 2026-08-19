@@ -1,6 +1,7 @@
 ---
 title: Mex (Basic Data Structures)
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures
@@ -33,6 +34,16 @@ Mex (Basic Data Structures)
 - [[Mex Query on Dynamic Array via Segment Tree]] — Segment tree tracking value frequencies to execute dynamic range Mex queries in O(log N).
 - [[Mex in Sprague-Grundy Game Theory (Nim-Value Transitions)]] — Computing Grundy values for impartial combinatorial games via state transition Mex.
 - [[Subarray Mex Computation and Frequency Counting]] — Computing Mex across sliding subarrays using frequency count tables.
+
+
+## 🗂️ Contents
+
+- [[First Missing Positive Algorithm (O(N) Time and O(1) Space)]]
+- [[In-Place Cyclic Sort for Mex (A[i] == i Mapping)]]
+- [[Mex Query on Dynamic Array via Segment Tree]]
+- [[Mex in Sprague-Grundy Game Theory (Nim-Value Transitions)]]
+- [[Minimum Excluded Value (Mex) Definition and Axioms]]
+- [[Subarray Mex Computation and Frequency Counting]]
 
 ---
 

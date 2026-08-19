@@ -1,6 +1,7 @@
 ---
 title: "Tenant Data Portability, Gdpr Right to Be Forgotten, and Tenant Purging Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

@@ -1,6 +1,7 @@
 ---
 title: "Data Transfer and Egress Costs Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

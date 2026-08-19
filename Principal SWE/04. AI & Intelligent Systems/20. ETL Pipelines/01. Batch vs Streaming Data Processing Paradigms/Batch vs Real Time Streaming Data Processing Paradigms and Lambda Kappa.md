@@ -1,6 +1,7 @@
 ---
 title: Batch vs Real Time Streaming Data Processing Paradigms and Lambda Kappa
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture

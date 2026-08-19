@@ -1,6 +1,7 @@
 ---
 title: "Finalizer Queue & Execution Lifecycle (runtime.SetFinalizer)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

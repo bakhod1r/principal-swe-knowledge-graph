@@ -1,6 +1,7 @@
 ---
 title: "Sociotechnical Systems Design and the Inverse Conway Maneuver Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

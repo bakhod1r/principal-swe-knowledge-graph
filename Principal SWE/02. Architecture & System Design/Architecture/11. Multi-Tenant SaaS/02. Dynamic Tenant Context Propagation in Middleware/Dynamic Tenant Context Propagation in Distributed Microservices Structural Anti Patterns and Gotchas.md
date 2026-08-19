@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Tenant Context Propagation in Distributed Microservices Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture

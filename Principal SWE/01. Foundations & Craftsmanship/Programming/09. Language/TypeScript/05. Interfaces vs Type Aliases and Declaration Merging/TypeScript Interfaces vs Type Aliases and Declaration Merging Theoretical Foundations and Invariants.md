@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Interfaces vs Type Aliases and Declaration Merging Theoretical Foundations and Invariants"
 tags:
+  - review
   - programming
   - languages
   - typescript

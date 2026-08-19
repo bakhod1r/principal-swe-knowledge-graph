@@ -1,6 +1,7 @@
 ---
 title: "go tool cgo (Bridge Stubs)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Built in Utility Types (partial, Required, Pick, Omit, Record) Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - typescript

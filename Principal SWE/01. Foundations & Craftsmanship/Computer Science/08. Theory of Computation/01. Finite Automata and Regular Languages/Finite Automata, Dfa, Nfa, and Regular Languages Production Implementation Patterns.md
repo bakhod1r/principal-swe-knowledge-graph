@@ -1,6 +1,7 @@
 ---
 title: "Finite Automata, Dfa, Nfa, and Regular Languages Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

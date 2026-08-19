@@ -1,6 +1,7 @@
 ---
 title: "Terraform Input Variables, Outputs, and Custom Validation Rules Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

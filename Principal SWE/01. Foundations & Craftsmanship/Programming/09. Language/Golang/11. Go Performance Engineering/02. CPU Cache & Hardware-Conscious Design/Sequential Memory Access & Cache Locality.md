@@ -1,6 +1,7 @@
 ---
 title: "Sequential Memory Access & Cache Locality"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

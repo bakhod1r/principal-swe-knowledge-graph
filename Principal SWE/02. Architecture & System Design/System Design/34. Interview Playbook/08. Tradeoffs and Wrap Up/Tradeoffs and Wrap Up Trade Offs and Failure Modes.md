@@ -1,6 +1,7 @@
 ---
 title: "Tradeoffs and Wrap Up Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

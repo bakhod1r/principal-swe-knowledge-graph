@@ -1,6 +1,7 @@
 ---
 title: "Stack vs Heap Optimization via Inlining"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

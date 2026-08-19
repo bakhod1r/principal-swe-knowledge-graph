@@ -1,6 +1,7 @@
 ---
 title: "Ethical Software Engineering, User Privacy, and Societal Impact Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

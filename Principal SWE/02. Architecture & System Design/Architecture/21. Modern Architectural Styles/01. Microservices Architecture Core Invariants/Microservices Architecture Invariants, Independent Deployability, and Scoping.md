@@ -1,6 +1,7 @@
 ---
 title: Microservices Architecture Invariants, Independent Deployability, and Scoping
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

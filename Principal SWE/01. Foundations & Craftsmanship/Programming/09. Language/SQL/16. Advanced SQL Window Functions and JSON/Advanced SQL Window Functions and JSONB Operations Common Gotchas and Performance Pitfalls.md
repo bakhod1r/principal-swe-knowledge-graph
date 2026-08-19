@@ -1,6 +1,7 @@
 ---
 title: "Advanced SQL Window Functions and JSONB Operations Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

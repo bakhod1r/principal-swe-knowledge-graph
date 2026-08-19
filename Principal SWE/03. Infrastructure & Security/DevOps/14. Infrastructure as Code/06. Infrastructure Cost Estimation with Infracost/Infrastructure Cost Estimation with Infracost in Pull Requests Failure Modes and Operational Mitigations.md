@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure Cost Estimation with Infracost in Pull Requests Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

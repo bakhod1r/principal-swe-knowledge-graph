@@ -1,6 +1,7 @@
 ---
 title: Fundamental Parallel Computing Primitives (reduce, Scan, Prefix Sum, Sort)
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

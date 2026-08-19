@@ -1,6 +1,7 @@
 ---
 title: "Client Handover Architecture - Documentation, Ci Cd Handover, and Client Training Operational Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - forward-deployed-engineer

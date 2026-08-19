@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Autoscaling: Horizontal Pod Autoscaler, Vpa, and Karpenter Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

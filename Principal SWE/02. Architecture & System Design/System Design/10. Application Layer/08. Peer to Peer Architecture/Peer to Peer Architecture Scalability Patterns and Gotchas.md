@@ -1,6 +1,7 @@
 ---
 title: "Peer to Peer Architecture Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

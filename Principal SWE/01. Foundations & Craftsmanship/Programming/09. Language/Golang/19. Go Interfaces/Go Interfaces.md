@@ -14,6 +14,16 @@ parent: "[[Golang]]"
 - [[Interface Design Patterns]]
 - [[Interface Contracts]]
 
+
+## 🗂️ Contents
+
+- [[Interface Architecture]]
+- [[Interface Contracts]]
+- [[Interface Design Patterns]]
+- [[Interface Fundamentals]]
+- [[Runtime Internals (iface, eface, itab)]]
+- [[Type Assertions, Switches & Inspection]]
+
 ---
 
 ## 🔗 References

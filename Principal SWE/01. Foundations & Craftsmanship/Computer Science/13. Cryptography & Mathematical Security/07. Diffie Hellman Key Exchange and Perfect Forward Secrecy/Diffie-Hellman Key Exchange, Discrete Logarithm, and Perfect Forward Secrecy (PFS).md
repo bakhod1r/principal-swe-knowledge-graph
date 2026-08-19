@@ -1,6 +1,7 @@
 ---
 title: "Diffie-Hellman Key Exchange, Discrete Logarithm, and Perfect Forward Secrecy (PFS)"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

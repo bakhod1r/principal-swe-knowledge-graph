@@ -1,6 +1,7 @@
 ---
 title: "Unsupervised Learning, K Means Clustering, and Principal Component Analysis Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

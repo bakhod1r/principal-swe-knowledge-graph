@@ -1,6 +1,7 @@
 ---
 title: "AWS Key Management Service (kms) and AWS Secrets Manager Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

@@ -1,6 +1,7 @@
 ---
 title: "GPU Memory Hierarchy, Shared Memory, and Global Memory Coalescing Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

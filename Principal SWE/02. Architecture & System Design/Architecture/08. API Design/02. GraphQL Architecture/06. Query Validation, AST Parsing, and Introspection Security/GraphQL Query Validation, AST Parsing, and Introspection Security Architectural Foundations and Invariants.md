@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Query Validation, AST Parsing, and Introspection Security Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

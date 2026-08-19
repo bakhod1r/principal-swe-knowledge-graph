@@ -1,6 +1,7 @@
 ---
 title: "Constraint Propagation and Domain Reduction Algorithms"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

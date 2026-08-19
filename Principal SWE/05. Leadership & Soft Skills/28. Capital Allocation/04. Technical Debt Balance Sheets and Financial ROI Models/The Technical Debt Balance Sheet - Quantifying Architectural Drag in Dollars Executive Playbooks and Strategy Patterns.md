@@ -1,6 +1,7 @@
 ---
 title: "The Technical Debt Balance Sheet - Quantifying Architectural Drag in Dollars Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

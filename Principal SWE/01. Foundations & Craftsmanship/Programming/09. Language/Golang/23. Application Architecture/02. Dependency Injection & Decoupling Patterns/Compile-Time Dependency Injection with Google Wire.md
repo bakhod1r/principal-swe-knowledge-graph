@@ -1,6 +1,7 @@
 ---
 title: "Compile-Time Dependency Injection with Google Wire"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

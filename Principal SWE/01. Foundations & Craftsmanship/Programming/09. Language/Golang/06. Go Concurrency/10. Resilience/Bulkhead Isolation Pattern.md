@@ -1,6 +1,7 @@
 ---
 title: "Bulkhead Isolation Pattern"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

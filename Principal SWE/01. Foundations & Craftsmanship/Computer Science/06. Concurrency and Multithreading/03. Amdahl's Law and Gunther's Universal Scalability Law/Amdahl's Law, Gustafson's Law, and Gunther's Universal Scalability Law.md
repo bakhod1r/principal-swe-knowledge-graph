@@ -1,6 +1,7 @@
 ---
 title: "Amdahl's Law, Gustafson's Law, and Gunther's Universal Scalability Law"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

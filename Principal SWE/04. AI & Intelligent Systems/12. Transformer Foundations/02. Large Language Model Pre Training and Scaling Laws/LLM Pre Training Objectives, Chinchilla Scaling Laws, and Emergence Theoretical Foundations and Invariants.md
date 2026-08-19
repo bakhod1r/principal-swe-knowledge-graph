@@ -1,6 +1,7 @@
 ---
 title: "LLM Pre Training Objectives, Chinchilla Scaling Laws, and Emergence Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

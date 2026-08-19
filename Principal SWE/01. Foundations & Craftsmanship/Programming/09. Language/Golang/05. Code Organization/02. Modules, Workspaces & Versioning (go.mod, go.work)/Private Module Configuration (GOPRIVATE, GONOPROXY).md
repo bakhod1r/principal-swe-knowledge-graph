@@ -1,6 +1,7 @@
 ---
 title: "Private Module Configuration (GOPRIVATE, GONOPROXY)"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

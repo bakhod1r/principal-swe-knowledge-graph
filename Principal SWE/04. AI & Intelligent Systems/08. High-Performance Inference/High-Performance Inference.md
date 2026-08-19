@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 High Performance Inference & Llmops Infrastructure
@@ -45,5 +45,5 @@ High Performance Inference & Llmops Infrastructure
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

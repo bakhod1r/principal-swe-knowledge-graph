@@ -1,6 +1,7 @@
 ---
 title: "go:linkname Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

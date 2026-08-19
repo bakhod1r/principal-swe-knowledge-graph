@@ -1,6 +1,7 @@
 ---
 title: "Generic Repository Pattern in Clean Architecture"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

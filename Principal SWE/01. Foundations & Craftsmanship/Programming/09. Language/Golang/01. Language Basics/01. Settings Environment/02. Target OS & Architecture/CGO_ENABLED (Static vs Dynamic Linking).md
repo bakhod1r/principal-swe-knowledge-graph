@@ -1,6 +1,7 @@
 ---
 title: "CGO_ENABLED (Static vs Dynamic Linking)"
 tags:
+  - review
   - golang
   - environment
   - principal-swe

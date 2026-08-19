@@ -1,6 +1,7 @@
 ---
 title: "Entities, Enterprise Business Rules, and Critical Invariants Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

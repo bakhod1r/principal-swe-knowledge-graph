@@ -1,6 +1,7 @@
 ---
 title: "go:noinline Directive"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

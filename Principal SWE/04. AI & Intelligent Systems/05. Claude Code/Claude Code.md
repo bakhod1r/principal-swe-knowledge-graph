@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 Claude Code, Subagents, Model Context Protocol MCP & Tooling
@@ -51,5 +51,5 @@ Claude Code, Subagents, Model Context Protocol MCP & Tooling
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Analytics, Real Time Web Traffic, and Logpush Pipelines Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

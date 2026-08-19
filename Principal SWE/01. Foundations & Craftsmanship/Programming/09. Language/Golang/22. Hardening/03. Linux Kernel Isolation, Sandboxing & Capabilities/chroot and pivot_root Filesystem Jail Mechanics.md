@@ -1,6 +1,7 @@
 ---
 title: "chroot and pivot_root Filesystem Jail Mechanics"
 tags:
+  - review
   - golang
   - security
   - principal-swe

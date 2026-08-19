@@ -1,6 +1,7 @@
 ---
 title: "SAT Solvers (DPLL, CDCL), Satisfiability Modulo Theories (SMT - Z3), and Proof Generation Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

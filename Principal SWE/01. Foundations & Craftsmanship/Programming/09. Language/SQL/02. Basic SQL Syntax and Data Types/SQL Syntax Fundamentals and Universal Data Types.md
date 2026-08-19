@@ -1,6 +1,7 @@
 ---
 title: SQL Syntax Fundamentals and Universal Data Types
 tags:
+  - review
   - programming
   - sql
   - principal-swe

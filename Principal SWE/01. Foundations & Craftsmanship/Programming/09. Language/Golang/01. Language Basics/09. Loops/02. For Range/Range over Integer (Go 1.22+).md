@@ -1,6 +1,7 @@
 ---
 title: "Range over Integer (Go 1.22+)"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

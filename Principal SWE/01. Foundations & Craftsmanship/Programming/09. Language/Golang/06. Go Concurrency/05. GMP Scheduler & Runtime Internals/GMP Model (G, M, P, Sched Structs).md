@@ -1,6 +1,7 @@
 ---
 title: "GMP Model (G, M, P, Sched Structs)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

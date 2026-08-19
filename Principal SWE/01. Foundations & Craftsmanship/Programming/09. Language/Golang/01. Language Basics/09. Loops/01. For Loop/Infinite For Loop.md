@@ -1,6 +1,7 @@
 ---
 title: "Infinite For Loop"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

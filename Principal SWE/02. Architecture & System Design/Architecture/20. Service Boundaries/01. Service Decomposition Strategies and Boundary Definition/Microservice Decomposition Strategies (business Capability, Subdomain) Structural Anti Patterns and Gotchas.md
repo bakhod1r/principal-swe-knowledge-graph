@@ -1,6 +1,7 @@
 ---
 title: "Microservice Decomposition Strategies (business Capability, Subdomain) Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

@@ -1,6 +1,7 @@
 ---
 title: "Monolith to Microservices Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

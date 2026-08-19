@@ -1,6 +1,7 @@
 ---
 title: "Pointers with Structs"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

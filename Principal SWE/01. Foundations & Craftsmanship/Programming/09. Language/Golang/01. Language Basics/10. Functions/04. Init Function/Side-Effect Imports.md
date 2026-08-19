@@ -1,6 +1,7 @@
 ---
 title: "Side-Effect Imports"
 tags:
+  - review
   - golang
   - functions
   - principal-swe

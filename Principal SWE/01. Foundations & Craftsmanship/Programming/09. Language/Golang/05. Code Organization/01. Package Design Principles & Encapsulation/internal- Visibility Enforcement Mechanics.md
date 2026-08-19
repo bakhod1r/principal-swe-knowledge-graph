@@ -1,6 +1,7 @@
 ---
 title: "internal- Visibility Enforcement Mechanics"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

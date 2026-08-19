@@ -1,6 +1,7 @@
 ---
 title: "Package Naming Conventions & Anti-Patterns"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

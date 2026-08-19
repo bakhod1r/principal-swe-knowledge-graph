@@ -1,6 +1,7 @@
 ---
 title: "Crucial Conversations in Engineering - Navigating High Stakes Dialogue Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

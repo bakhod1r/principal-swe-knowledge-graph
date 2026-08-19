@@ -1,6 +1,7 @@
 ---
 title: "SLO SLI Error Budgets Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

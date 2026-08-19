@@ -1,6 +1,7 @@
 ---
 title: "Distributed ML Training Pipelines, Kubeflow, and Ray Train Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

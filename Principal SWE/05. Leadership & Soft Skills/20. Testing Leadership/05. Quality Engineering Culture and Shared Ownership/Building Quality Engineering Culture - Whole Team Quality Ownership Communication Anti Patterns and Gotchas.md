@@ -1,6 +1,7 @@
 ---
 title: "Building Quality Engineering Culture - Whole Team Quality Ownership Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

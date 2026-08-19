@@ -1,6 +1,7 @@
 ---
 title: "The Halting Problem, Undecidability Proofs, and Rice's Theorem Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

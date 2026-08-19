@@ -1,6 +1,7 @@
 ---
 title: "Initial 2KB Stack Allocation (stack.go)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

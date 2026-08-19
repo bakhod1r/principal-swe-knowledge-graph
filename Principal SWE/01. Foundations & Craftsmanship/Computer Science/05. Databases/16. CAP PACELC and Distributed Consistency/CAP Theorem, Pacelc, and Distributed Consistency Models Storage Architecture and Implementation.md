@@ -1,6 +1,7 @@
 ---
 title: "CAP Theorem, Pacelc, and Distributed Consistency Models Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

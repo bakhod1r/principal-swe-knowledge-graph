@@ -1,6 +1,7 @@
 ---
 title: "Python Code Formatting, Linting, and Static Analysis Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

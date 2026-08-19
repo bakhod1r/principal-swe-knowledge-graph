@@ -1,6 +1,7 @@
 ---
 title: "Principled Negotiation - Harvard Negotiation Project and BATNA Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

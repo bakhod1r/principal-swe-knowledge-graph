@@ -1,6 +1,7 @@
 ---
 title: "SQL Optimization Techniques Production Scale and Configuration"
 tags:
+  - review
   - backend
   - architecture
   - postgresql-mastery-and-dba

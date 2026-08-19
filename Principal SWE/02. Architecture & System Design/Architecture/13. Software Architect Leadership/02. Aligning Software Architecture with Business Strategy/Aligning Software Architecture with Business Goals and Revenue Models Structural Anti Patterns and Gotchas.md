@@ -1,6 +1,7 @@
 ---
 title: "Aligning Software Architecture with Business Goals and Revenue Models Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance

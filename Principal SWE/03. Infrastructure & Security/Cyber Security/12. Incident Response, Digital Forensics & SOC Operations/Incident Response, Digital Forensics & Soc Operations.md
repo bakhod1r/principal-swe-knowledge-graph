@@ -1,6 +1,7 @@
 ---
 title: Incident Response, Digital Forensics & Soc Operations
 tags:
+  - review
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations

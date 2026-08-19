@@ -1,6 +1,7 @@
 ---
 title: "sync-atomic Type-Safe Pointers & Value Types"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

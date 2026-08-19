@@ -1,6 +1,7 @@
 ---
 title: "Flaky Test Engineering - Automated Detection, Quarantine, and Fixes Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Causal, Eventual)"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus

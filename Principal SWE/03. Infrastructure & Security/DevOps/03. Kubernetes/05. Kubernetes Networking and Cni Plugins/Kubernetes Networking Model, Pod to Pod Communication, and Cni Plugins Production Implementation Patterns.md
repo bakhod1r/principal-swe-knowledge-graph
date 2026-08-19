@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Networking Model, Pod to Pod Communication, and Cni Plugins Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

@@ -1,6 +1,7 @@
 ---
 title: "Advanced Cherry-Picking (git cherry-pick) and Range Extraction Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

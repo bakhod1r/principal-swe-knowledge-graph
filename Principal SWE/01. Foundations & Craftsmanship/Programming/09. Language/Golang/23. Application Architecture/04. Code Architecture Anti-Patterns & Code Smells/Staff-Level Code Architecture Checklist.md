@@ -1,6 +1,7 @@
 ---
 title: "Staff-Level Code Architecture Checklist"
 tags:
+  - review
   - golang
   - architecture
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Hardware Interrupts, Softirqs, and Top Bottom Half Processing Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals

@@ -1,6 +1,7 @@
 ---
 title: "Smawk Monge Matrix Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

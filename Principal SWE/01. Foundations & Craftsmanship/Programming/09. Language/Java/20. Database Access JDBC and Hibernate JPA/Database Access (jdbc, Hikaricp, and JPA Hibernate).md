@@ -1,6 +1,7 @@
 ---
 title: Database Access (jdbc, Hikaricp, and JPA Hibernate)
 tags:
+  - review
   - programming
   - java
   - principal-swe

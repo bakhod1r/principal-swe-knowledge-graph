@@ -1,6 +1,7 @@
 ---
 title: "Kernel Bypass Networking - Data Plane Development Kit (dpdk) and Rdma Architectural Foundations and Invariants"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

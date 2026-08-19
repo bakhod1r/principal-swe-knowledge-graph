@@ -1,6 +1,7 @@
 ---
 title: "Variable-Size Dynamic Sliding Window (Expand-Contract)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

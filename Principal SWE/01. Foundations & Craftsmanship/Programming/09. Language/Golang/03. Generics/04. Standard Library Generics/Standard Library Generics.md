@@ -31,6 +31,15 @@ Standard Library Generics
 - [[sync.Map Typesafe Generic Wrapper]] — Building a type-safe generic wrapper over sync.Map without casting.
 - [[atomic.Pointer[T] Type Safety (Go 1.19+)]] — Lock-free atomic pointer storage with full generic compile-time type safety.
 
+
+## 🗂️ Contents
+
+- [[atomic.Pointer[T] Type Safety (Go 1.19+)]]
+- [[cmp Package Deep Dive]]
+- [[maps Package Deep Dive]]
+- [[slices Package Deep Dive]]
+- [[sync.Map Typesafe Generic Wrapper]]
+
 ---
 
 ## 🔗 References

@@ -1,6 +1,7 @@
 ---
 title: "Engineering Knowledge Systems - Structuring Team Wikis and Obsidian Vaults Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

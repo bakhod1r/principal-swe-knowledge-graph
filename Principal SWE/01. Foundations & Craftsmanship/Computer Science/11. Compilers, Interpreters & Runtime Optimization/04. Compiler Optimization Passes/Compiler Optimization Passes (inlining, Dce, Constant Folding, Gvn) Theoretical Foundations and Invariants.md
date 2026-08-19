@@ -1,6 +1,7 @@
 ---
 title: "Compiler Optimization Passes (inlining, Dce, Constant Folding, Gvn) Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization

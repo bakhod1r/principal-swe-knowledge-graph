@@ -1,6 +1,7 @@
 ---
 title: "Queue Dequeue (Head Removal)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

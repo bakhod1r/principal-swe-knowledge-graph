@@ -1,6 +1,7 @@
 ---
 title: "Struct Field Offsets (unsafe.Offsetof & unsafe.Alignof)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

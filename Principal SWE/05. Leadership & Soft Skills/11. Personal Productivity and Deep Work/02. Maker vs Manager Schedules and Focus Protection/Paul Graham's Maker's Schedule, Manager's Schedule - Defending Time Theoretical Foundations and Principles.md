@@ -1,6 +1,7 @@
 ---
 title: "Paul Graham's Maker's Schedule, Manager's Schedule - Defending Time Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

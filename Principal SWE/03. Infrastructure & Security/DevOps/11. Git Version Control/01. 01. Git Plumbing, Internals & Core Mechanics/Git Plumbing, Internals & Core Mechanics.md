@@ -1,6 +1,7 @@
 ---
 title: Git Plumbing, Internals & Core Mechanics
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

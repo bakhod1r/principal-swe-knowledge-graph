@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Consumers and Message Deduplication Stores Engineering Standards and Principles"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

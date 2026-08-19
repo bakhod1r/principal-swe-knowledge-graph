@@ -1,6 +1,7 @@
 ---
 title: "Abstract Syntax Trees, Symbol Tables, and Semantic Analysis Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - compilers-interpreters-and-runtime-optimization

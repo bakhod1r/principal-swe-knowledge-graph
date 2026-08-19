@@ -1,6 +1,7 @@
 ---
 title: Writing Robust, Production Grade CLI Scripts and Automation Runbooks (Shell and Bash)
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

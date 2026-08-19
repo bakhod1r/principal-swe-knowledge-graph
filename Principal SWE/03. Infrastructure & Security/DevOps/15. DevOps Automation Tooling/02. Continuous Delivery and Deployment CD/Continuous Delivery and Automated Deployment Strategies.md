@@ -1,6 +1,7 @@
 ---
 title: Continuous Delivery and Automated Deployment Strategies
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

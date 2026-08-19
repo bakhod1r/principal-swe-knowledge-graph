@@ -1,6 +1,7 @@
 ---
 title: "Next Smaller Element (NSE) and Previous Smaller Element"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

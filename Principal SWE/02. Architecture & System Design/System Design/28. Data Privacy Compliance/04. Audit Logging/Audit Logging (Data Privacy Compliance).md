@@ -1,6 +1,7 @@
 ---
 title: Audit Logging (Data Privacy Compliance)
 tags:
+  - review
   - distributed-systems
   - principal-swe
 parent: "[[Data Privacy Compliance]]"

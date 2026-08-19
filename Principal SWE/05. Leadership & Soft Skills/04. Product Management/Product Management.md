@@ -7,7 +7,7 @@ tags:
   - team-lead
   - product-management-and-strategic-execution
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Product Management & Strategic Execution
@@ -55,5 +55,5 @@ Product Management & Strategic Execution
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

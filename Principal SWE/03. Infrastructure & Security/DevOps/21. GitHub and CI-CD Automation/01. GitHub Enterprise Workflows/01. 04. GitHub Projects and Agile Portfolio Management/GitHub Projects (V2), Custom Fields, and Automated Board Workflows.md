@@ -1,6 +1,7 @@
 ---
 title: GitHub Projects (V2), Custom Fields, and Automated Board Workflows
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

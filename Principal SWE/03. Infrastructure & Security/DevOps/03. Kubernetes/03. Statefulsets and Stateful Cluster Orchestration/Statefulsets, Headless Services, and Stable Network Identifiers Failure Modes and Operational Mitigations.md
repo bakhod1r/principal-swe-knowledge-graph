@@ -1,6 +1,7 @@
 ---
 title: "Statefulsets, Headless Services, and Stable Network Identifiers Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

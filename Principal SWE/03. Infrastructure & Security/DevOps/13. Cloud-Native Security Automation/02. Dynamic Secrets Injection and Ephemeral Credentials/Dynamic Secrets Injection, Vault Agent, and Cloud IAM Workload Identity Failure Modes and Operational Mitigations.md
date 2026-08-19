@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Secrets Injection, Vault Agent, and Cloud IAM Workload Identity Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

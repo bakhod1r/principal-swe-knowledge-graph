@@ -1,6 +1,7 @@
 ---
 title: "Applications in Risk Modeling, AB Testing, and Machine Learning"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

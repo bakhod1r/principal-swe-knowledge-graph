@@ -1,6 +1,7 @@
 ---
 title: "Python Virtual Environments and Runtime Isolation Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

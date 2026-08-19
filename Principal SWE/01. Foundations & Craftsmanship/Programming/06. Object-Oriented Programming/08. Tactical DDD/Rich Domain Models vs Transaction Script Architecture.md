@@ -1,6 +1,7 @@
 ---
 title: "Rich Domain Models vs Transaction Script Architecture"
 tags:
+  - review
   - programming
   - oop
   - principal-swe

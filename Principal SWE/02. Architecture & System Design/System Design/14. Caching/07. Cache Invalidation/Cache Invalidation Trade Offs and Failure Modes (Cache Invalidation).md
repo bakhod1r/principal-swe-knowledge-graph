@@ -1,6 +1,7 @@
 ---
 title: "Cache Invalidation Trade Offs and Failure Modes (Cache Invalidation)"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

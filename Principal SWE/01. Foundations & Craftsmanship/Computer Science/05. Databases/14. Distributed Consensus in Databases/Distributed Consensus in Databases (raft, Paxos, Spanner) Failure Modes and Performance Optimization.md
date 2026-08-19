@@ -1,6 +1,7 @@
 ---
 title: "Distributed Consensus in Databases (raft, Paxos, Spanner) Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

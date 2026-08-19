@@ -1,6 +1,7 @@
 ---
 title: "Actor Model vs Communicating Sequential Processes (CSP) Concurrency Paradigms"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

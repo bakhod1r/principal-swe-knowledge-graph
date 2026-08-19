@@ -1,6 +1,7 @@
 ---
 title: "Auto-Dereferencing with Dot Notation"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Data Sovereignty and Residency Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

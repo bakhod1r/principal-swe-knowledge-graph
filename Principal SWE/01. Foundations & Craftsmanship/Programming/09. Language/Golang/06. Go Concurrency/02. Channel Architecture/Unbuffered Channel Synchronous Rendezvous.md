@@ -1,6 +1,7 @@
 ---
 title: "Unbuffered Channel Synchronous Rendezvous"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

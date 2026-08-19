@@ -1,6 +1,7 @@
 ---
 title: "Choosing the Right Paradigm at Different Architectural Layers"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

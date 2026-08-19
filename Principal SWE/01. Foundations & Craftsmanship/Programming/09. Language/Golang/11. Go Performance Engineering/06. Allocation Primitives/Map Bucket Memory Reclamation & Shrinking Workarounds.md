@@ -1,6 +1,7 @@
 ---
 title: "Map Bucket Memory Reclamation & Shrinking Workarounds"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

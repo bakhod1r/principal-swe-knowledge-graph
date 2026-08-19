@@ -1,6 +1,7 @@
 ---
 title: "PgBouncer Connection Pooling & pgx Compatibility"
 tags:
+  - review
   - golang
   - database
   - principal-swe

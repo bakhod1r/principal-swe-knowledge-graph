@@ -1,6 +1,7 @@
 ---
 title: "Multi Year Technology Vision - Mckinsey Three Horizons of Growth Framework Executive Playbooks and Strategy Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

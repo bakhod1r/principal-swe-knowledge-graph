@@ -1,6 +1,7 @@
 ---
 title: TypeScript Interfaces vs Type Aliases and Declaration Merging
 tags:
+  - review
   - programming
   - languages
   - typescript

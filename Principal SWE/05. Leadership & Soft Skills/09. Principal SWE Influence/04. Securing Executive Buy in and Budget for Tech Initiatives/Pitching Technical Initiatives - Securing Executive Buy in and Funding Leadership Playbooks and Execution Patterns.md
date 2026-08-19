@@ -1,6 +1,7 @@
 ---
 title: "Pitching Technical Initiatives - Securing Executive Buy in and Funding Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

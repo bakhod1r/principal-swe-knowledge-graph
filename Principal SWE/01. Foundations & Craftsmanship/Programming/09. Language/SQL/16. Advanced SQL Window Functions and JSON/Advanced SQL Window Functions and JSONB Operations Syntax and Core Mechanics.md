@@ -1,6 +1,7 @@
 ---
 title: "Advanced SQL Window Functions and JSONB Operations Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

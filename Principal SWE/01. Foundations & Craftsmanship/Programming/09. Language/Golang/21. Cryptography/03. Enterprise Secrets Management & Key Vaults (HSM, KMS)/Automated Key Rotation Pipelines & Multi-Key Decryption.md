@@ -1,6 +1,7 @@
 ---
 title: "Automated Key Rotation Pipelines & Multi-Key Decryption"
 tags:
+  - review
   - golang
   - security
   - principal-swe

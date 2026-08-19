@@ -1,6 +1,7 @@
 ---
 title: "Bash Subshells, Background Jobs, and Process Management Production Implementation Patterns (Bash Subshells, Background Jobs, and Process Management)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

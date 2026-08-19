@@ -1,6 +1,7 @@
 ---
 title: "SQL Security, Grants, and Row Level Security (rls) Common Gotchas and Performance Pitfalls"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

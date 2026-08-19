@@ -1,6 +1,7 @@
 ---
 title: "Systemic Technical Debt Quantification and Architectural Refactoring Roadmaps Production Implementation and Patterns"
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

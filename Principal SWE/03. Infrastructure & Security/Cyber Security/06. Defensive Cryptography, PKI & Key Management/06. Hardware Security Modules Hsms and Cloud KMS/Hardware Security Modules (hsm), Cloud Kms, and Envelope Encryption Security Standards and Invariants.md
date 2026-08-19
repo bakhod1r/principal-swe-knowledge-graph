@@ -1,6 +1,7 @@
 ---
 title: "Hardware Security Modules (hsm), Cloud Kms, and Envelope Encryption Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management

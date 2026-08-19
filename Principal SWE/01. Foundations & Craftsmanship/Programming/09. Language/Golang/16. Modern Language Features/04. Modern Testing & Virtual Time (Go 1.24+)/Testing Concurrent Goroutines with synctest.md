@@ -1,6 +1,7 @@
 ---
 title: "Testing Concurrent Goroutines with synctest"
 tags:
+  - review
   - golang
   - modern-go
   - principal-swe

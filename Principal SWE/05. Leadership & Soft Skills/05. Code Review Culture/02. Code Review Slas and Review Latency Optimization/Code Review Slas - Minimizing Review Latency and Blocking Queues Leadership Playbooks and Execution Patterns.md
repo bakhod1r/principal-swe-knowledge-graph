@@ -1,6 +1,7 @@
 ---
 title: "Code Review Slas - Minimizing Review Latency and Blocking Queues Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

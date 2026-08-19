@@ -1,6 +1,7 @@
 ---
 title: "Leases and Fencing Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

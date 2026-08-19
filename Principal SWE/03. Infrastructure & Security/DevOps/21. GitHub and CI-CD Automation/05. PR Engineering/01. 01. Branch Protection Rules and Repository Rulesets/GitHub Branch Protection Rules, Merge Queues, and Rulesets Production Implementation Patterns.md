@@ -1,6 +1,7 @@
 ---
 title: "GitHub Branch Protection Rules, Merge Queues, and Rulesets Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

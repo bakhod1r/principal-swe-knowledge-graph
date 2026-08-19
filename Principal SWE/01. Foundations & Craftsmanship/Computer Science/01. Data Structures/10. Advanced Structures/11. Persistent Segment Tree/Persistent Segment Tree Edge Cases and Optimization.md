@@ -1,6 +1,7 @@
 ---
 title: "Persistent Segment Tree Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

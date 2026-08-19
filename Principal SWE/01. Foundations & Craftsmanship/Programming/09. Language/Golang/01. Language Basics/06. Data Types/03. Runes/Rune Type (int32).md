@@ -1,6 +1,7 @@
 ---
 title: "Rune Type (int32)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

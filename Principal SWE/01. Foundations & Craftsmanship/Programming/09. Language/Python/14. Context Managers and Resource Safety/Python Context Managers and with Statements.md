@@ -1,6 +1,7 @@
 ---
 title: Python Context Managers and with Statements
 tags:
+  - review
   - programming
   - python
   - principal-swe

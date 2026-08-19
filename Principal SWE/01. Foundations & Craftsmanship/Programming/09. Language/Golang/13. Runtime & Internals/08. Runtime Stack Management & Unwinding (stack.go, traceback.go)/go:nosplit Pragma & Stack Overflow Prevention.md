@@ -1,6 +1,7 @@
 ---
 title: "go:nosplit Pragma & Stack Overflow Prevention"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

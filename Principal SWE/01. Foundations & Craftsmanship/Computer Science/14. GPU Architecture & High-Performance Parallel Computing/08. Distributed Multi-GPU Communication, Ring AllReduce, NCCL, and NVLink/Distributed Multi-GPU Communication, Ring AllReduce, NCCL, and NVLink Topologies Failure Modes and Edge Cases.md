@@ -1,6 +1,7 @@
 ---
 title: "Distributed Multi-GPU Communication, Ring AllReduce, NCCL, and NVLink Topologies Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing

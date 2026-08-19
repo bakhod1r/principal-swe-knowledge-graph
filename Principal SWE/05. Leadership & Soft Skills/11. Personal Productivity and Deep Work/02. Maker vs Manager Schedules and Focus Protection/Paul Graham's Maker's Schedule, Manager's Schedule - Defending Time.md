@@ -1,6 +1,7 @@
 ---
 title: Paul Graham's Maker's Schedule, Manager's Schedule: Defending Time
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

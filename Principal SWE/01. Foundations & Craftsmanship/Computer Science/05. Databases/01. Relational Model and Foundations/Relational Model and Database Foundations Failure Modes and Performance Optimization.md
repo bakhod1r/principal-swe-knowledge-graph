@@ -1,6 +1,7 @@
 ---
 title: "Relational Model and Database Foundations Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

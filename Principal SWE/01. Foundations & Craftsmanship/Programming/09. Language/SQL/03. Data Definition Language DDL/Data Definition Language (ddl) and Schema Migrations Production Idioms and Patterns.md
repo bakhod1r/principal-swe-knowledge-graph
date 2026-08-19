@@ -1,6 +1,7 @@
 ---
 title: "Data Definition Language (ddl) and Schema Migrations Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

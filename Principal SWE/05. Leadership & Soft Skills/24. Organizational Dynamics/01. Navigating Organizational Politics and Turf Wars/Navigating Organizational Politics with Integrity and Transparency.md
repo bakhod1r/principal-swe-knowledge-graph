@@ -1,6 +1,7 @@
 ---
 title: Navigating Organizational Politics with Integrity and Transparency
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

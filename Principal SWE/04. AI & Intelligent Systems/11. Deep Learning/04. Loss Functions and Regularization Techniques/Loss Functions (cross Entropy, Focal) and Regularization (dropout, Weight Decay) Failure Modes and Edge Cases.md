@@ -1,6 +1,7 @@
 ---
 title: "Loss Functions (cross Entropy, Focal) and Regularization (dropout, Weight Decay) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations

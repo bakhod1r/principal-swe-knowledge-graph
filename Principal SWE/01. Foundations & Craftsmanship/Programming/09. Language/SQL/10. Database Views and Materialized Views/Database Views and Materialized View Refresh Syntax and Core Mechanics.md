@@ -1,6 +1,7 @@
 ---
 title: "Database Views and Materialized View Refresh Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

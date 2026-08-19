@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Analytics, Real Time Web Traffic, and Logpush Pipelines Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

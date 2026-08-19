@@ -1,6 +1,7 @@
 ---
 title: "Managing Up - Building Strategic Alignment with Directors and Vps Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

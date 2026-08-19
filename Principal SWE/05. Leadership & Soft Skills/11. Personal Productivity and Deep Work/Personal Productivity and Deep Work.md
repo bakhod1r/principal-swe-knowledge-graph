@@ -7,7 +7,7 @@ tags:
   - team-lead
   - personal-productivity,-deep-work-and-cognitive-ergonomics
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Personal Productivity, Deep Work & Cognitive Ergonomics
@@ -43,5 +43,5 @@ Personal Productivity, Deep Work & Cognitive Ergonomics
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

@@ -1,6 +1,7 @@
 ---
 title: "Hardware Atomics, Compare and Swap (CAS), and Lock-Free Primitives Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

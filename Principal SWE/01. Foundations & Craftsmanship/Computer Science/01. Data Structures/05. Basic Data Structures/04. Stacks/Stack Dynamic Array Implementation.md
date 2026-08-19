@@ -1,6 +1,7 @@
 ---
 title: "Stack Dynamic Array Implementation"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

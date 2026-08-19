@@ -1,6 +1,7 @@
 ---
 title: "Configuration Management, Ansible Playbooks, and Idempotency Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

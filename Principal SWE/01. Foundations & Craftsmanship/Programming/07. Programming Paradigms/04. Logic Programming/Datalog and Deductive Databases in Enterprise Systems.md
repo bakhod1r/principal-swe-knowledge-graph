@@ -1,6 +1,7 @@
 ---
 title: "Datalog and Deductive Databases in Enterprise Systems"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

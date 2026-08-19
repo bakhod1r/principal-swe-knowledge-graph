@@ -1,6 +1,7 @@
 ---
 title: "Slice Delete (Unordered Swap-and-Pop)"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

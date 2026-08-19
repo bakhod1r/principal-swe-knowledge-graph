@@ -1,6 +1,7 @@
 ---
 title: Chatty I O Anti Pattern, Microservice Sprawl, and Deep Dependency Chains
 tags:
+  - review
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring

@@ -1,6 +1,7 @@
 ---
 title: "Chestertons Fence Principle in Legacy Systems"
 tags:
+  - review
   - programming
   - engineering-thinking
   - principal-swe

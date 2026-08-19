@@ -1,6 +1,7 @@
 ---
 title: "Programs as Data (Homoiconicity in Lisp, Clojure, Racket)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

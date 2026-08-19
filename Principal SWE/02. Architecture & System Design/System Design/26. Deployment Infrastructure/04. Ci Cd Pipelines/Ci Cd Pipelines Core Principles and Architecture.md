@@ -1,6 +1,7 @@
 ---
 title: "Ci Cd Pipelines Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

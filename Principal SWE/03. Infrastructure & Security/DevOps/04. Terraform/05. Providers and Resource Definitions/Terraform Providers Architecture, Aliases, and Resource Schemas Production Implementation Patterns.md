@@ -1,6 +1,7 @@
 ---
 title: "Terraform Providers Architecture, Aliases, and Resource Schemas Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

@@ -1,6 +1,7 @@
 ---
 title: Rust Ownership System, Borrowing Rules, and Move Semantics
 tags:
+  - review
   - programming
   - languages
   - rust

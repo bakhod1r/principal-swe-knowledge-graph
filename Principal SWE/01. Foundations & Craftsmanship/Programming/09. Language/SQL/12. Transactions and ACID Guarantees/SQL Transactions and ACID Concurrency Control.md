@@ -1,6 +1,7 @@
 ---
 title: SQL Transactions and ACID Concurrency Control
 tags:
+  - review
   - programming
   - sql
   - principal-swe

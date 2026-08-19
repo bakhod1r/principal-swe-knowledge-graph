@@ -1,6 +1,7 @@
 ---
 title: "Software Bill of Materials (SBOM) Generation (cyclonedx-gomod)"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

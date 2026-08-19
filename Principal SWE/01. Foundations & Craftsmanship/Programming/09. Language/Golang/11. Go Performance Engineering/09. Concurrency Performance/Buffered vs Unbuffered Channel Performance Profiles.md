@@ -1,6 +1,7 @@
 ---
 title: "Buffered vs Unbuffered Channel Performance Profiles"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

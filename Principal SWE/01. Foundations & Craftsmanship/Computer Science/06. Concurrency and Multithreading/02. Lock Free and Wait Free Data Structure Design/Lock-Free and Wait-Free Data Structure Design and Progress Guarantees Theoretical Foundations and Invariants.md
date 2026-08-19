@@ -1,6 +1,7 @@
 ---
 title: "Lock-Free and Wait-Free Data Structure Design and Progress Guarantees Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

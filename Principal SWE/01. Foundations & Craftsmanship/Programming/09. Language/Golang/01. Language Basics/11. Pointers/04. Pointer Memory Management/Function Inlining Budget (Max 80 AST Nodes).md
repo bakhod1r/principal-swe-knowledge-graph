@@ -1,6 +1,7 @@
 ---
 title: "Function Inlining Budget (Max 80 AST Nodes)"
 tags:
+  - review
   - golang
   - memory
   - principal-swe

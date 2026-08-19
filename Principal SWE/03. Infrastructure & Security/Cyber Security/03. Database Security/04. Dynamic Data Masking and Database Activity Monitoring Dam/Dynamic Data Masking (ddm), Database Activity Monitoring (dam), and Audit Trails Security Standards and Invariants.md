@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Data Masking (ddm), Database Activity Monitoring (dam), and Audit Trails Security Standards and Invariants"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption

@@ -1,6 +1,7 @@
 ---
 title: "Numerical Stability, Well Posed Problems, and Condition Numbers Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing

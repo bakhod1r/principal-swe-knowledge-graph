@@ -1,6 +1,7 @@
 ---
 title: "Pointer Indirection & CPU Memory Latency (Cache Misses)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

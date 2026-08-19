@@ -1,6 +1,7 @@
 ---
 title: "Lock-Free Queue (Michael-Scott Queue)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

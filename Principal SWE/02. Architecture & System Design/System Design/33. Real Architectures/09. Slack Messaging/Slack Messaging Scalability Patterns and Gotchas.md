@@ -1,6 +1,7 @@
 ---
 title: "Slack Messaging Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

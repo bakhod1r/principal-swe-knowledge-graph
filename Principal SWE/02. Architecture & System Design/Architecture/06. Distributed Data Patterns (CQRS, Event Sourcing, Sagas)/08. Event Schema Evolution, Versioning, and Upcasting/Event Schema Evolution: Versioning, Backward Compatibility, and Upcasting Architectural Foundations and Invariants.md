@@ -1,6 +1,7 @@
 ---
 title: "Event Schema Evolution: Versioning, Backward Compatibility, and Upcasting Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

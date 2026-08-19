@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Queries, Field Aliases, Inline Fragments, and Directives Performance Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

@@ -1,6 +1,7 @@
 ---
 title: "Shared Memory, Ring Buffers, and Low-Latency IPC"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

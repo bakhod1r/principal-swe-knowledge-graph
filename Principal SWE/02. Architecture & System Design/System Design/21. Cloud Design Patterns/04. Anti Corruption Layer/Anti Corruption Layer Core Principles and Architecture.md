@@ -1,6 +1,7 @@
 ---
 title: "Anti Corruption Layer Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

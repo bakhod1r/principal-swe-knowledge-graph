@@ -1,6 +1,7 @@
 ---
 title: Go to Market (gtm) Strategy, Sales Enablement, and Launch Readiness
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

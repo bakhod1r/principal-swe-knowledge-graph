@@ -1,6 +1,7 @@
 ---
 title: "Organizational Change Management, Re Orgs, and M&a Team Integration Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

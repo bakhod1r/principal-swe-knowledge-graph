@@ -1,6 +1,7 @@
 ---
 title: "Writing Robust, Production Grade CLI Scripts and Automation Runbooks Failure Modes and Edge Cases (Writing Robust, Production Grade CLI Scripts and Automation Runbooks)"
 tags:
+  - review
   - programming
   - languages
   - shell-and-bash

@@ -1,6 +1,7 @@
 ---
 title: "Extended Euclidean Modular Inverse Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

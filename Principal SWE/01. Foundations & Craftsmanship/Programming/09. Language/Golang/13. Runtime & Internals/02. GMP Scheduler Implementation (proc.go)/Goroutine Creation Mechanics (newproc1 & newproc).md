@@ -1,6 +1,7 @@
 ---
 title: "Goroutine Creation Mechanics (newproc1 & newproc)"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

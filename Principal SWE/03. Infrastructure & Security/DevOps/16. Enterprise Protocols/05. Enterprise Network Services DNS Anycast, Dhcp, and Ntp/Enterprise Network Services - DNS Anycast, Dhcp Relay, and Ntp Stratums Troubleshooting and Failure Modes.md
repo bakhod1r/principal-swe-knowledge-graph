@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Network Services - DNS Anycast, Dhcp Relay, and Ntp Stratums Troubleshooting and Failure Modes"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

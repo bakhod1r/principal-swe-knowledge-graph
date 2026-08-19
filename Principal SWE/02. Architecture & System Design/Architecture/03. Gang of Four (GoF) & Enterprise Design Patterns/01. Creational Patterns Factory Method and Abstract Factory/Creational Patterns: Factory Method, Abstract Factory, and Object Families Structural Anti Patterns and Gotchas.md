@@ -1,6 +1,7 @@
 ---
 title: "Creational Patterns: Factory Method, Abstract Factory, and Object Families Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns

@@ -1,6 +1,7 @@
 ---
 title: Building Long Term Strategic Technical Roadmaps (3 to 5 Year Vision)
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

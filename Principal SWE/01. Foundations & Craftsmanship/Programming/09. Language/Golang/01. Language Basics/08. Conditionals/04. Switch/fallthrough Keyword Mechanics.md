@@ -1,6 +1,7 @@
 ---
 title: "fallthrough Keyword Mechanics"
 tags:
+  - review
   - golang
   - conditionals
   - principal-swe

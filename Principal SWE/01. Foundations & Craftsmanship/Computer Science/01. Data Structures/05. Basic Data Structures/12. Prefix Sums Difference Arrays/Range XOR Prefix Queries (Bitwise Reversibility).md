@@ -1,6 +1,7 @@
 ---
 title: "Range XOR Prefix Queries (Bitwise Reversibility)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

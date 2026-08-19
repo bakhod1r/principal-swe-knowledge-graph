@@ -1,6 +1,7 @@
 ---
 title: "The IO Model Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

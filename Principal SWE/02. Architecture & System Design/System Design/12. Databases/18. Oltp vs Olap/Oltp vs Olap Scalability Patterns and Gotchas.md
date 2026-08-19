@@ -1,6 +1,7 @@
 ---
 title: "Oltp vs Olap Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

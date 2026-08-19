@@ -1,6 +1,7 @@
 ---
 title: "Generic Result and Option Monads"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

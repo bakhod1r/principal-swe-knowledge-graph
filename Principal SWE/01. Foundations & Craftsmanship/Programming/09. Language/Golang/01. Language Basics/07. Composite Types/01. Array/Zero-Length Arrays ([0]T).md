@@ -1,6 +1,7 @@
 ---
 title: "Zero-Length Arrays ([0]T)"
 tags:
+  - review
   - golang
   - arrays
   - principal-swe

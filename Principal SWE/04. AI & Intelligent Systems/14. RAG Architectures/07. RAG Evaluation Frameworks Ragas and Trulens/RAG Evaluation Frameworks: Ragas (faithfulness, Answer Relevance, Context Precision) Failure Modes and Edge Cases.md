@@ -1,6 +1,7 @@
 ---
 title: "RAG Evaluation Frameworks: Ragas (faithfulness, Answer Relevance, Context Precision) Failure Modes and Edge Cases"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

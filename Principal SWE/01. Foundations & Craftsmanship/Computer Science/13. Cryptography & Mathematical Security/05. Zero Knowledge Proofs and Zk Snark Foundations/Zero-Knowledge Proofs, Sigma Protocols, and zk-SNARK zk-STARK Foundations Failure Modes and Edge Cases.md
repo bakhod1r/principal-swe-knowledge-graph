@@ -1,6 +1,7 @@
 ---
 title: "Zero-Knowledge Proofs, Sigma Protocols, and zk-SNARK zk-STARK Foundations Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

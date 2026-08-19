@@ -1,6 +1,7 @@
 ---
 title: "The Halting Problem, Undecidable Problems, and Rice's Theorem Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

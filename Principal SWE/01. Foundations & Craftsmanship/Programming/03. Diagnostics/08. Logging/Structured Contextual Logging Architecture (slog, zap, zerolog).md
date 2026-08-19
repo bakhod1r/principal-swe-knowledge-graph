@@ -1,6 +1,7 @@
 ---
 title: "Structured Contextual Logging Architecture (slog, zap, zerolog)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

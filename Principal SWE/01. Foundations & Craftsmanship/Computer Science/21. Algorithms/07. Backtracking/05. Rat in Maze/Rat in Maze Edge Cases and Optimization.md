@@ -1,6 +1,7 @@
 ---
 title: "Rat in Maze Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

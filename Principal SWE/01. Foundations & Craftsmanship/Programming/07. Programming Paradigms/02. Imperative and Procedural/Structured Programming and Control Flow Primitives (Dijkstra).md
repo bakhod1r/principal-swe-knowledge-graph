@@ -1,6 +1,7 @@
 ---
 title: "Structured Programming and Control Flow Primitives (Dijkstra)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

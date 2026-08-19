@@ -1,6 +1,7 @@
 ---
 title: "Osi and TCP Ip Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

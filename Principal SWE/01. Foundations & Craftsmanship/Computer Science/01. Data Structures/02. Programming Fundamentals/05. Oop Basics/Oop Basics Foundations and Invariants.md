@@ -1,6 +1,7 @@
 ---
 title: "Oop Basics Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

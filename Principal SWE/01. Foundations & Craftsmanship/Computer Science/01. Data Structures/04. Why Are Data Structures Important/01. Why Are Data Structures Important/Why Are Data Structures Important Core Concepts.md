@@ -1,6 +1,7 @@
 ---
 title: "Why Are Data Structures Important Core Concepts"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

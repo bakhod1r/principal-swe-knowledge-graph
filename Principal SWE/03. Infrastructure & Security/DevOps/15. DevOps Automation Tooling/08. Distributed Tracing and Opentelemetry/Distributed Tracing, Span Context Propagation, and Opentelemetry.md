@@ -1,6 +1,7 @@
 ---
 title: Distributed Tracing, Span Context Propagation, and Opentelemetry
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

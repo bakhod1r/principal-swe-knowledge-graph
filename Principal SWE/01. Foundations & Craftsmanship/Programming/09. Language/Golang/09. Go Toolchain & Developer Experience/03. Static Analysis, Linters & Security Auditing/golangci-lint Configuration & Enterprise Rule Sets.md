@@ -1,6 +1,7 @@
 ---
 title: "golangci-lint Configuration & Enterprise Rule Sets"
 tags:
+  - review
   - golang
   - toolchain
   - principal-swe

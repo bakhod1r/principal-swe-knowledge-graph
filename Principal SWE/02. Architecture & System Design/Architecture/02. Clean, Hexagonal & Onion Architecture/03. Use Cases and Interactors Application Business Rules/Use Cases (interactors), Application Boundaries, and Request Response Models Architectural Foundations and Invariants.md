@@ -1,6 +1,7 @@
 ---
 title: "Use Cases (interactors), Application Boundaries, and Request Response Models Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

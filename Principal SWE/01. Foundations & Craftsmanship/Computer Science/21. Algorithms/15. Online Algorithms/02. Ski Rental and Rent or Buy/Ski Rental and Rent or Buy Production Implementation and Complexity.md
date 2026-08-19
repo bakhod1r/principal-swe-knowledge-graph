@@ -1,6 +1,7 @@
 ---
 title: "Ski Rental and Rent or Buy Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

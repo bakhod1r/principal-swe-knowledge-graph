@@ -1,6 +1,7 @@
 ---
 title: "Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg) Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

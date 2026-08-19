@@ -1,6 +1,7 @@
 ---
 title: "Compiler Pipeline Architecture (Scanning to Code Generation)"
 tags:
+  - review
   - golang
   - advanced
   - principal-swe

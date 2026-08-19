@@ -1,6 +1,7 @@
 ---
 title: "MVCC Internals and Vacuum Garbage Collection Storage Architecture and Implementation"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Java Lambdas, Method References, and Streams API Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

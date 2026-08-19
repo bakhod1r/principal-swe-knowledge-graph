@@ -1,6 +1,7 @@
 ---
 title: "Insufficient Logging, Monitoring, and Software Integrity Failures Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening

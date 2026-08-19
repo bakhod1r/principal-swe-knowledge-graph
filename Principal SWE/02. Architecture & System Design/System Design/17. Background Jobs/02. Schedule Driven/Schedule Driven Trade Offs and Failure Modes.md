@@ -1,6 +1,7 @@
 ---
 title: "Schedule Driven Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

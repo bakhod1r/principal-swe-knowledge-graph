@@ -1,6 +1,7 @@
 ---
 title: "Generic LRU & LFU Cache"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "The Art of the Executive Summary - Amazon Style 6 Page Narrative Memos Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

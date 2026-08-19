@@ -1,6 +1,7 @@
 ---
 title: "Introduction to DSA Core Concepts"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

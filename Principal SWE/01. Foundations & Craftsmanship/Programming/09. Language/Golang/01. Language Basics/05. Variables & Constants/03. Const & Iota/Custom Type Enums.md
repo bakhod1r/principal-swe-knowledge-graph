@@ -1,6 +1,7 @@
 ---
 title: "Custom Type Enums"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

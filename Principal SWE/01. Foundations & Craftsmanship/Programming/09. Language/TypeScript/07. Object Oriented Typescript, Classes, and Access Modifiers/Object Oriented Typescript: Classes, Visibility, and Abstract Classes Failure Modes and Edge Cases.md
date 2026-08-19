@@ -1,6 +1,7 @@
 ---
 title: "Object Oriented Typescript: Classes, Visibility, and Abstract Classes Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

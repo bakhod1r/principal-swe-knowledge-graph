@@ -1,6 +1,7 @@
 ---
 title: "LLM Inference and Serving Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

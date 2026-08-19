@@ -87,3 +87,12 @@ Design Patterns in Go
 - ⬆️ Parent: [[Golang]]
 - 💻 Base: `Programming`
 
+---
+
+## 🗂️ Contents
+
+- [[Behavioral Patterns]]
+- [[Creational Patterns]]
+- [[Go Concurrency Patterns]]
+- [[Microservice & Cloud-Native Patterns]]
+- [[Structural Patterns]]

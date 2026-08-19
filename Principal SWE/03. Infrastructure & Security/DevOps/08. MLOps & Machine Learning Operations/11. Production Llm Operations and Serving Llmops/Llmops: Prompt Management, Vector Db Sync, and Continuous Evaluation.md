@@ -1,6 +1,7 @@
 ---
 title: Llmops: Prompt Management, Vector Db Sync, and Continuous Evaluation
 tags:
+  - review
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations

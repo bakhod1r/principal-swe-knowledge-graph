@@ -1,6 +1,7 @@
 ---
 title: "Stack Segment Bounds & Guard Page Protection"
 tags:
+  - review
   - golang
   - runtime
   - principal-swe

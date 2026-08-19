@@ -1,6 +1,7 @@
 ---
 title: "Token Economics, LLM Cost Attribution, and Budget Governance Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures

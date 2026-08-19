@@ -1,6 +1,7 @@
 ---
 title: "Standardized Model Evaluation: Mmlu, Humaneval, Gsm8k, and Mt Bench Production Implementation Patterns"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization

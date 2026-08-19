@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Services (clusterip, Nodeport, Loadbalancer) and Coredns Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration

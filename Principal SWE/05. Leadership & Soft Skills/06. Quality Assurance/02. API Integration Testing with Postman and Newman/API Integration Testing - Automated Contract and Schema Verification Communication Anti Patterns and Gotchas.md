@@ -1,6 +1,7 @@
 ---
 title: "API Integration Testing - Automated Contract and Schema Verification Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

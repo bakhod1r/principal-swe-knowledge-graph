@@ -1,6 +1,7 @@
 ---
 title: "Optimistic vs Pessimistic Locking Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

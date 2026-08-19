@@ -1,6 +1,7 @@
 ---
 title: "Monotonic Queue Invariants and Candidate Extrema Maintenance"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "The Chomsky Hierarchy (Type 0-3 Grammars) and Formal Language Classification"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

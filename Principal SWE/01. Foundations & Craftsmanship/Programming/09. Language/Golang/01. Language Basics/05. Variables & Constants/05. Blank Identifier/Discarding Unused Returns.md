@@ -1,6 +1,7 @@
 ---
 title: "Discarding Unused Returns"
 tags:
+  - review
   - golang
   - variables
   - principal-swe

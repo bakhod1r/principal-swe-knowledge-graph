@@ -1,6 +1,7 @@
 ---
 title: "The Typed Nil Interface Trap (*MyType(nil) != nil)"
 tags:
+  - review
   - golang
   - methods-and-interfaces
   - principal-swe

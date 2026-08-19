@@ -1,6 +1,7 @@
 ---
 title: "Fast Hash Functions (AHash, WyHash, XXHash)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

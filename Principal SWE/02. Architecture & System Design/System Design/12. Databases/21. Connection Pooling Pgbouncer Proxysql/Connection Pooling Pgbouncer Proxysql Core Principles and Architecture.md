@@ -1,6 +1,7 @@
 ---
 title: "Connection Pooling Pgbouncer Proxysql Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

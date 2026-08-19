@@ -1,6 +1,7 @@
 ---
 title: "Automated Minidump and Core Dump Generation in Production"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "2d Segment Tree Bit Production Implementation and Complexity"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

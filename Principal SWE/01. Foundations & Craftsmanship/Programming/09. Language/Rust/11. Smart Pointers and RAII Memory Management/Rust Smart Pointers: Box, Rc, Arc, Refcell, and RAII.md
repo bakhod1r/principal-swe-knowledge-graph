@@ -1,6 +1,7 @@
 ---
 title: Rust Smart Pointers: Box, Rc, Arc, Refcell, and RAII
 tags:
+  - review
   - programming
   - languages
   - rust

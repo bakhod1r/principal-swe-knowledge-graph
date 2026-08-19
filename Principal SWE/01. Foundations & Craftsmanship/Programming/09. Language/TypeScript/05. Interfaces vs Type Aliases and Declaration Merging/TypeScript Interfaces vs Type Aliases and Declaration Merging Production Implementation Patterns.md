@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Interfaces vs Type Aliases and Declaration Merging Production Implementation Patterns"
 tags:
+  - review
   - programming
   - languages
   - typescript

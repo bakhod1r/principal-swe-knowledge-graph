@@ -1,6 +1,7 @@
 ---
 title: "net-http Server Graceful Shutdown Lifecycle"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

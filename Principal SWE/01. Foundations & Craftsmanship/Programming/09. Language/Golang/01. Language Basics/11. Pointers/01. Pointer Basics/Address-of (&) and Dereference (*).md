@@ -1,6 +1,7 @@
 ---
 title: "Address-of (&) and Dereference (*)"
 tags:
+  - review
   - golang
   - pointers
   - principal-swe

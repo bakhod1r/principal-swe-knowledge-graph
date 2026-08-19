@@ -1,6 +1,7 @@
 ---
 title: "Continuous Security Compliance, Audit Trails, and Devsecops Runbooks Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

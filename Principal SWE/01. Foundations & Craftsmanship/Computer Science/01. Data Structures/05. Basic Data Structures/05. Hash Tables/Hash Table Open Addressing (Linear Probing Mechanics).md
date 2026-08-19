@@ -1,6 +1,7 @@
 ---
 title: "Hash Table Open Addressing (Linear Probing Mechanics)"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

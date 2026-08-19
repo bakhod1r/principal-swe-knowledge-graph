@@ -1,6 +1,7 @@
 ---
 title: "The Cynefin Framework - Navigating Simple, Complicated, Complex, and Chaotic Domains Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: "Feature Flag Management, Dark Launches, and Progressive Rollouts Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

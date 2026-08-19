@@ -1,6 +1,7 @@
 ---
 title: "Cloud Network Perimeter, Vpc Endpoints, and Privatelink Isolation Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection

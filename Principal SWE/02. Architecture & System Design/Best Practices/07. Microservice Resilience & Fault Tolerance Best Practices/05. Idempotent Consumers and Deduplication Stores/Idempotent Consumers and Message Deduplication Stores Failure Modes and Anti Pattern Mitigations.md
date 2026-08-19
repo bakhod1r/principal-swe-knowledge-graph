@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Consumers and Message Deduplication Stores Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices

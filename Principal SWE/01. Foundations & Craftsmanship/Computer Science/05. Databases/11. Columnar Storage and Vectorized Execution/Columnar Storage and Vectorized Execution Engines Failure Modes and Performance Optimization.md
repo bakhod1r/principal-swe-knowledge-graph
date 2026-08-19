@@ -1,6 +1,7 @@
 ---
 title: "Columnar Storage and Vectorized Execution Engines Failure Modes and Performance Optimization"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

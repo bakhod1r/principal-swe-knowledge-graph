@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with Redis Failure Modes and Edge Cases"
 tags:
+  - review
   - backend
   - architecture
   - redis-and-in-memory-architectures

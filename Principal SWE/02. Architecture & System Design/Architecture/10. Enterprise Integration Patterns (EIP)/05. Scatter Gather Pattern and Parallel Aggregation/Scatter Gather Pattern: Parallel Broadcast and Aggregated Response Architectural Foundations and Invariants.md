@@ -1,6 +1,7 @@
 ---
 title: "Scatter Gather Pattern: Parallel Broadcast and Aggregated Response Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

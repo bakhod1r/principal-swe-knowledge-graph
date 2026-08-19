@@ -1,6 +1,7 @@
 ---
 title: "Live Process Inspection and Hot Patching in Production"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

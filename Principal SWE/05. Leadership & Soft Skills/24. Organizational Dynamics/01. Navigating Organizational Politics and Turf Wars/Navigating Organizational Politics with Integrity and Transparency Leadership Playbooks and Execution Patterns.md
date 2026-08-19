@@ -1,6 +1,7 @@
 ---
 title: "Navigating Organizational Politics with Integrity and Transparency Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

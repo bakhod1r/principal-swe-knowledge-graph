@@ -1,6 +1,7 @@
 ---
 title: "Visual Software Architecture - the C4 Model (context, Container, Component, Code) Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

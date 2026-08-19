@@ -1,6 +1,7 @@
 ---
 title: "embed Standard Package & Static Assets"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

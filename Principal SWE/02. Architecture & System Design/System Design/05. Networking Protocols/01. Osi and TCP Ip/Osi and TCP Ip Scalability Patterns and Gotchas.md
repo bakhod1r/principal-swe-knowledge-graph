@@ -1,6 +1,7 @@
 ---
 title: "Osi and TCP Ip Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: Java Networking, Sockets, and Http Client
 tags:
+  - review
   - programming
   - java
   - principal-swe

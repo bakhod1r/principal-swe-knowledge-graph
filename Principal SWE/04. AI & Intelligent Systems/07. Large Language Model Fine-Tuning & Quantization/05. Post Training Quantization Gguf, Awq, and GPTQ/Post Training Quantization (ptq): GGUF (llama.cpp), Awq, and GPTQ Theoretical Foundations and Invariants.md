@@ -1,6 +1,7 @@
 ---
 title: "Post Training Quantization (ptq): GGUF (llama.cpp), Awq, and GPTQ Theoretical Foundations and Invariants"
 tags:
+  - review
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization

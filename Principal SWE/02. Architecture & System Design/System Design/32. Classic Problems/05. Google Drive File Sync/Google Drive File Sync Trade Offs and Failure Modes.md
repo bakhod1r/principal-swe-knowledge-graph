@@ -1,6 +1,7 @@
 ---
 title: "Google Drive File Sync Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

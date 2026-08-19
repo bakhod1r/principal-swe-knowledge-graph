@@ -1,6 +1,7 @@
 ---
 title: "Java Logging Architecture (slf4j, Logback, Log4j2) Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - java
   - principal-swe

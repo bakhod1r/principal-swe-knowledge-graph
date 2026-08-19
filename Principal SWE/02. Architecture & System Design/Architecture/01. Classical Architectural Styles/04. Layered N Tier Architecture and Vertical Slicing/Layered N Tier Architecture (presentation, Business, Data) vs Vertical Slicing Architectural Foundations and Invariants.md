@@ -1,6 +1,7 @@
 ---
 title: "Layered N Tier Architecture (presentation, Business, Data) vs Vertical Slicing Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles

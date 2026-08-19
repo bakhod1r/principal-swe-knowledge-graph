@@ -1,6 +1,7 @@
 ---
 title: "Use Cases (interactors), Application Boundaries, and Request Response Models Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

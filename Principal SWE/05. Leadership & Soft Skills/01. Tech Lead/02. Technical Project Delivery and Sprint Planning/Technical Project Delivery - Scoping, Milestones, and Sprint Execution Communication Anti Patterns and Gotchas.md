@@ -1,6 +1,7 @@
 ---
 title: "Technical Project Delivery - Scoping, Milestones, and Sprint Execution Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

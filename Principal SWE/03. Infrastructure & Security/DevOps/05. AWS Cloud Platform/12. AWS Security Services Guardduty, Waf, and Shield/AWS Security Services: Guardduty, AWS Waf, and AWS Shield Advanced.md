@@ -1,6 +1,7 @@
 ---
 title: AWS Security Services: Guardduty, AWS Waf, and AWS Shield Advanced
 tags:
+  - review
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure

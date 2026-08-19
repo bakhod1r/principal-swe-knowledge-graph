@@ -1,6 +1,7 @@
 ---
 title: "Transactions Failure Modes and Edge Cases (Transactions)"
 tags:
+  - review
   - backend
   - architecture
   - mongodb-and-document-stores

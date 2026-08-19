@@ -1,6 +1,7 @@
 ---
 title: "TypeScript Architecture, Compiler (tsc), and AST Pipeline Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

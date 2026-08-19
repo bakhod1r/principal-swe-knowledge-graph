@@ -1,6 +1,7 @@
 ---
 title: "GraphQL Mutations, Input Objects, and Transactional Workflows Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - api-design
   - graphql

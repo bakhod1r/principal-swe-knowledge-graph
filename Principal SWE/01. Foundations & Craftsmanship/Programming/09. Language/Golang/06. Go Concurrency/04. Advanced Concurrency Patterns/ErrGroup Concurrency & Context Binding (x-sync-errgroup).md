@@ -1,6 +1,7 @@
 ---
 title: "ErrGroup Concurrency & Context Binding (x-sync-errgroup)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

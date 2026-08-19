@@ -1,6 +1,7 @@
 ---
 title: "Alerting and on Call Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

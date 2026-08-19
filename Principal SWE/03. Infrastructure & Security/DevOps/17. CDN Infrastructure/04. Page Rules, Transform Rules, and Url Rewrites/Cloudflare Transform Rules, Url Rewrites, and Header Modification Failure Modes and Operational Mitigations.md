@@ -1,6 +1,7 @@
 ---
 title: "Cloudflare Transform Rules, Url Rewrites, and Header Modification Failure Modes and Operational Mitigations"
 tags:
+  - review
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure

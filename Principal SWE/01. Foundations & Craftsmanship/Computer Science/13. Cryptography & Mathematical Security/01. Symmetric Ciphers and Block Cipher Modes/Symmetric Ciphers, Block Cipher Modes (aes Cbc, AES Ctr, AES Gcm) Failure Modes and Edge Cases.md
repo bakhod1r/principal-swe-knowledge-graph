@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Ciphers, Block Cipher Modes (aes Cbc, AES Ctr, AES Gcm) Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

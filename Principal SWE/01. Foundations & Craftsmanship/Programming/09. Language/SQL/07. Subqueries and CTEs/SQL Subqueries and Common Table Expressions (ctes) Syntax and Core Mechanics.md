@@ -1,6 +1,7 @@
 ---
 title: "SQL Subqueries and Common Table Expressions (ctes) Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

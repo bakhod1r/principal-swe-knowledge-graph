@@ -1,6 +1,7 @@
 ---
 title: "Async Error Handling Anti-Patterns"
 tags:
+  - review
   - programming
   - code-craft
   - principal-swe

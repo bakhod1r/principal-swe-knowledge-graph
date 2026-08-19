@@ -1,6 +1,7 @@
 ---
 title: "Tail Latency P99 P99.9 Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

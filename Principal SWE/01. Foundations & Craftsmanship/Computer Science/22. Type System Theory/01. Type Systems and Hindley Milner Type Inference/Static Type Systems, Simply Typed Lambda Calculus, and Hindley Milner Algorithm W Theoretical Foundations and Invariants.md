@@ -1,6 +1,7 @@
 ---
 title: "Static Type Systems, Simply Typed Lambda Calculus, and Hindley Milner Algorithm W Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems

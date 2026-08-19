@@ -1,6 +1,7 @@
 ---
 title: Boardroom Technical Leadership: Presenting Systemic Risk and Cyber Posture
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

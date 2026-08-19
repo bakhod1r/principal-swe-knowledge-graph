@@ -1,6 +1,7 @@
 ---
 title: "Von Neumann vs Non-Von Neumann Computing Models"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

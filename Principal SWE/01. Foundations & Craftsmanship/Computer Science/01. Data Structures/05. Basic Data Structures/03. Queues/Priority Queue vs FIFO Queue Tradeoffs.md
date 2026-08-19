@@ -1,6 +1,7 @@
 ---
 title: "Priority Queue vs FIFO Queue Tradeoffs"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

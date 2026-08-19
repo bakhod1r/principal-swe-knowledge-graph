@@ -1,6 +1,7 @@
 ---
 title: Functions (Programming Fundamentals)
 tags:
+  - review
   - algorithms
   - principal-swe
 parent: "[[Programming Fundamentals]]"

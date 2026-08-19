@@ -1,6 +1,7 @@
 ---
 title: "Internal Community Building - Engineering Guilds, Brown Bags, and Hackathons Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

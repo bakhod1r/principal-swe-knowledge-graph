@@ -1,6 +1,7 @@
 ---
 title: "Lakehouse and Table Formats Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

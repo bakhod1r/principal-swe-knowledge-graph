@@ -1,6 +1,7 @@
 ---
 title: "Slice Copy"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

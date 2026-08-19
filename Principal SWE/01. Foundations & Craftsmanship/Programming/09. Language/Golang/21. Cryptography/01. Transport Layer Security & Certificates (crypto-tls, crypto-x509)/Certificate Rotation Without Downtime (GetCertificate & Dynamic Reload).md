@@ -1,6 +1,7 @@
 ---
 title: "Certificate Rotation Without Downtime (GetCertificate & Dynamic Reload)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

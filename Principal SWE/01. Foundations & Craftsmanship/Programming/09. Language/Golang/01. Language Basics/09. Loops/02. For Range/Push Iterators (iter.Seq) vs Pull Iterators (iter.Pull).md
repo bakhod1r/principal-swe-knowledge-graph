@@ -1,6 +1,7 @@
 ---
 title: "Push Iterators (iter.Seq) vs Pull Iterators (iter.Pull)"
 tags:
+  - review
   - golang
   - loops
   - principal-swe

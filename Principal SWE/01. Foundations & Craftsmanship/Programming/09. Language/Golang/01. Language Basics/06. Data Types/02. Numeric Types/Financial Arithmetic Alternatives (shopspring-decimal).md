@@ -1,6 +1,7 @@
 ---
 title: "Financial Arithmetic Alternatives (shopspring-decimal)"
 tags:
+  - review
   - golang
   - types
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: "Network Security Architecture - Next Gen Firewalls, Ids Ips, and VPNs Production Implementation Patterns"
 tags:
+  - review
   - devops
   - network-engineering
   - protocols

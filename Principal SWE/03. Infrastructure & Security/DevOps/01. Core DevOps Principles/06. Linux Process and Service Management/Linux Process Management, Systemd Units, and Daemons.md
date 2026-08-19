@@ -1,6 +1,7 @@
 ---
 title: Linux Process Management, Systemd Units, and Daemons
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

@@ -1,6 +1,7 @@
 ---
 title: "Continuous Learning - Deliberate Practice, Katas, and Career Ownership Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

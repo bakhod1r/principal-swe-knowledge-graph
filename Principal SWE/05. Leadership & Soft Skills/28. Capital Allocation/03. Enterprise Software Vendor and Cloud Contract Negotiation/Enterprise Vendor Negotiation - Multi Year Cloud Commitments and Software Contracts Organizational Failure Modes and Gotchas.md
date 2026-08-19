@@ -1,6 +1,7 @@
 ---
 title: "Enterprise Vendor Negotiation - Multi Year Cloud Commitments and Software Contracts Organizational Failure Modes and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

@@ -1,6 +1,7 @@
 ---
 title: "API Authorization and Access Control Enforcement Production Implementation Patterns"
 tags:
+  - review
   - best-practices
   - software-engineering
   - api-security-best-practices

@@ -1,6 +1,7 @@
 ---
 title: "Minimalistic Formal Semantics and Extreme Embedded Efficiency"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

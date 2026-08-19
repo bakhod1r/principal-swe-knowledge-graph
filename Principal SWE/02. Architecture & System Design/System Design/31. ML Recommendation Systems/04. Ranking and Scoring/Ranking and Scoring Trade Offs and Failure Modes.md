@@ -1,6 +1,7 @@
 ---
 title: "Ranking and Scoring Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

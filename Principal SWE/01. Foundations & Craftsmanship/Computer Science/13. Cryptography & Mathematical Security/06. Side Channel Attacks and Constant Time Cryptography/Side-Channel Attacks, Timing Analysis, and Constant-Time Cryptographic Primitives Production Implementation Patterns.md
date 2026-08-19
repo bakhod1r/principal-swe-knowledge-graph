@@ -1,6 +1,7 @@
 ---
 title: "Side-Channel Attacks, Timing Analysis, and Constant-Time Cryptographic Primitives Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security

@@ -1,6 +1,7 @@
 ---
 title: "GitOps Declarative Continuous Delivery: ArgoCD and FluxCD Failure Modes and Disaster Recovery"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

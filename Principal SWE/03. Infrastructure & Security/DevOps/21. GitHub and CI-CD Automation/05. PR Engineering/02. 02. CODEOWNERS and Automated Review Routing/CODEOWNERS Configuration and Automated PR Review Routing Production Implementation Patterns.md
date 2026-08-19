@@ -1,6 +1,7 @@
 ---
 title: "CODEOWNERS Configuration and Automated PR Review Routing Production Implementation Patterns"
 tags:
+  - review
   - devops
   - git-and-github
   - version-control

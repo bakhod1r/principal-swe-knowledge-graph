@@ -1,6 +1,7 @@
 ---
 title: "API Versioning Strategies (uri, Header, Query) and Sunsetting Lifecycles Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture

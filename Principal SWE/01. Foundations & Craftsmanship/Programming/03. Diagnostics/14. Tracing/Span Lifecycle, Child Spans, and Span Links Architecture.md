@@ -1,6 +1,7 @@
 ---
 title: "Span Lifecycle, Child Spans, and Span Links Architecture"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

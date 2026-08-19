@@ -1,6 +1,7 @@
 ---
 title: "Cross-Site Scripting (XSS) & Template Escaping (html-template)"
 tags:
+  - review
   - golang
   - security
   - principal-swe

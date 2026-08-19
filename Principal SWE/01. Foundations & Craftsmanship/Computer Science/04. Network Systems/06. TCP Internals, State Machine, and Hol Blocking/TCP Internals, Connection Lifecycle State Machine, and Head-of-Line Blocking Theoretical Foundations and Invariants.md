@@ -1,6 +1,7 @@
 ---
 title: "TCP Internals, Connection Lifecycle State Machine, and Head-of-Line Blocking Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals

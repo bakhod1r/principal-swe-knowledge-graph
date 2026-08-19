@@ -1,6 +1,7 @@
 ---
 title: "Evaluating Paradigm Suitability for Domain Problems"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

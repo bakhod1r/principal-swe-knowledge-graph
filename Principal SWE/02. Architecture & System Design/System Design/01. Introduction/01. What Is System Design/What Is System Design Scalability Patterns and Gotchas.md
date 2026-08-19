@@ -1,6 +1,7 @@
 ---
 title: "What Is System Design Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

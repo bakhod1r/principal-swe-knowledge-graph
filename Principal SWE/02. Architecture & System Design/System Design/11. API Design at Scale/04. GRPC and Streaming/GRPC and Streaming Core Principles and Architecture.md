@@ -1,6 +1,7 @@
 ---
 title: "GRPC and Streaming Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

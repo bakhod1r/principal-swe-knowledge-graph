@@ -1,6 +1,7 @@
 ---
 title: "Python Built in Data Structures and Algorithmic Performance Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - python
   - principal-swe

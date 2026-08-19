@@ -1,6 +1,7 @@
 ---
 title: "Idempotent Message Receiver and Enterprise Process Manager Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)

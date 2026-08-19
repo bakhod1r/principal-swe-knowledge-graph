@@ -1,6 +1,7 @@
 ---
 title: "Channel Length & Capacity (len, cap)"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

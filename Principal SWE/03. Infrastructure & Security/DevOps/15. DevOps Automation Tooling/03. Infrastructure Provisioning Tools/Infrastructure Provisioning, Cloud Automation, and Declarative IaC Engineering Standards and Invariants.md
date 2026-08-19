@@ -1,6 +1,7 @@
 ---
 title: "Infrastructure Provisioning, Cloud Automation, and Declarative IaC Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling

@@ -1,6 +1,7 @@
 ---
 title: "Atomic Commit 2PC 3PC TCC Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

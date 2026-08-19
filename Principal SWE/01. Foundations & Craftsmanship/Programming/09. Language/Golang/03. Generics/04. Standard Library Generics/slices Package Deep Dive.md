@@ -1,6 +1,7 @@
 ---
 title: "slices Package Deep Dive"
 tags:
+  - review
   - golang
   - generics
   - principal-swe

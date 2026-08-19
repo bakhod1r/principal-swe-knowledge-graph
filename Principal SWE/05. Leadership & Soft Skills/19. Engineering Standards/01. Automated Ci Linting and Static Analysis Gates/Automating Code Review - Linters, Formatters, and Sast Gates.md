@@ -1,6 +1,7 @@
 ---
 title: Automating Code Review: Linters, Formatters, and Sast Gates
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

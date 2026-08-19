@@ -1,6 +1,7 @@
 ---
 title: "Map Delete and Slot Clearance"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

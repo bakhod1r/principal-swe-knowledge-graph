@@ -1,6 +1,7 @@
 ---
 title: "Data Manipulation Language (dml) and Data Modification Syntax and Core Mechanics"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

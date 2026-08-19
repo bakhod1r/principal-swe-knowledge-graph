@@ -1,6 +1,7 @@
 ---
 title: "Continuous Fleet-Wide Production Profiling (Pyroscope, Parca)"
 tags:
+  - review
   - programming
   - diagnostics
   - principal-swe

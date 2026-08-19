@@ -1,6 +1,7 @@
 ---
 title: "Queue Based Load Leveling Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

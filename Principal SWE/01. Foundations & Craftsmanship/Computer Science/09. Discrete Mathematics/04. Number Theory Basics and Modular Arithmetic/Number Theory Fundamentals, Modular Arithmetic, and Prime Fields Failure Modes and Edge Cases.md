@@ -1,6 +1,7 @@
 ---
 title: "Number Theory Fundamentals, Modular Arithmetic, and Prime Fields Failure Modes and Edge Cases"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic

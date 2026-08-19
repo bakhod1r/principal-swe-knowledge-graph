@@ -1,6 +1,7 @@
 ---
 title: "Capacity Estimation in Interview Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

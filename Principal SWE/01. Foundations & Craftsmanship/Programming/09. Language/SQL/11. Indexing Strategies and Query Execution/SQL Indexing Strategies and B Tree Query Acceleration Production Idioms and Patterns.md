@@ -1,6 +1,7 @@
 ---
 title: "SQL Indexing Strategies and B Tree Query Acceleration Production Idioms and Patterns"
 tags:
+  - review
   - programming
   - sql
   - principal-swe

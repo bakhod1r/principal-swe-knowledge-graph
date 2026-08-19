@@ -1,6 +1,7 @@
 ---
 title: "Idempotency and Reconciler Engines (Virtual DOM, IaC State Engines)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

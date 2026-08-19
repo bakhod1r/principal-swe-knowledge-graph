@@ -1,6 +1,7 @@
 ---
 title: "Linux Filesystems Internals: Inodes, Superblocks, Ext4, and Xfs Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

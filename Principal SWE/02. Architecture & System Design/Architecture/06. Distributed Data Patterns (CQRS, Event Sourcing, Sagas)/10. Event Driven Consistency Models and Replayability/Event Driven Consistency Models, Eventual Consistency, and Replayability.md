@@ -1,6 +1,7 @@
 ---
 title: Event Driven Consistency Models, Eventual Consistency, and Replayability
 tags:
+  - review
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)

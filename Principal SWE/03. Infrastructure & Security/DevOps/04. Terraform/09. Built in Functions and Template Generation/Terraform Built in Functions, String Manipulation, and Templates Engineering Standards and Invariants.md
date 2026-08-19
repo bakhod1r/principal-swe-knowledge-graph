@@ -1,6 +1,7 @@
 ---
 title: "Terraform Built in Functions, String Manipulation, and Templates Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)

@@ -1,6 +1,7 @@
 ---
 title: "Managing Energy, Not Time - Circadian Rhythms and Cognitive Peaks Communication Anti Patterns and Gotchas"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

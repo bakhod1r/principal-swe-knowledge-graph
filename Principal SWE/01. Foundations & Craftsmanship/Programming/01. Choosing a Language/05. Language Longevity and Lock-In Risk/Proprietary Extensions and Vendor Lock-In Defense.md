@@ -1,6 +1,7 @@
 ---
 title: "Proprietary Extensions and Vendor Lock-In Defense"
 tags:
+  - review
   - programming
   - polyglot
   - principal-swe

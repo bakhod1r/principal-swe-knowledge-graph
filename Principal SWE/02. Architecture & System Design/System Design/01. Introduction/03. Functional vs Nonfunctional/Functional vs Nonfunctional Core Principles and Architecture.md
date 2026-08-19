@@ -1,6 +1,7 @@
 ---
 title: "Functional vs Nonfunctional Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

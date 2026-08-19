@@ -1,6 +1,7 @@
 ---
 title: "Sharding and Partitioning Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

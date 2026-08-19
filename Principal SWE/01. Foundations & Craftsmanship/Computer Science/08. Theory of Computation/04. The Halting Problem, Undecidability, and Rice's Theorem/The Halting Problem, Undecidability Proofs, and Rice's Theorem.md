@@ -1,6 +1,7 @@
 ---
 title: "The Halting Problem, Undecidability Proofs, and Rice's Theorem"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

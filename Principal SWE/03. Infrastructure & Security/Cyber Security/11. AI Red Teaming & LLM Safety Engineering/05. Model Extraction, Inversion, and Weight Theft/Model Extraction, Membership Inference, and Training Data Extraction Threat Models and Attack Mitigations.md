@@ -1,6 +1,7 @@
 ---
 title: "Model Extraction, Membership Inference, and Training Data Extraction Threat Models and Attack Mitigations"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering

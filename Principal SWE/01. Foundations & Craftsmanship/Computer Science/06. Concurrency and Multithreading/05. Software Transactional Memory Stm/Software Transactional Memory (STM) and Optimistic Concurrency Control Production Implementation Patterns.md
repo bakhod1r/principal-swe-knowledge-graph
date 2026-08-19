@@ -1,6 +1,7 @@
 ---
 title: "Software Transactional Memory (STM) and Optimistic Concurrency Control Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - concurrency-and-multithreading

@@ -1,6 +1,7 @@
 ---
 title: "Database Connection Pooling, High Availability, and Disaster Recovery Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

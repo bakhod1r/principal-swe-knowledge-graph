@@ -5,7 +5,7 @@ tags:
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
   - principal-swe
-parent: "[[AI & Machine Learning]]"
+parent: "[[AI & Intelligent Systems]]"
 ---
 
 # 🤖 AI Agents, Autonomous Systems & Multi Agent Orchestration
@@ -53,5 +53,5 @@ AI Agents, Autonomous Systems & Multi Agent Orchestration
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[AI & Machine Learning]]
+- ⬆️ Parent: `AI & Machine Learning`
 

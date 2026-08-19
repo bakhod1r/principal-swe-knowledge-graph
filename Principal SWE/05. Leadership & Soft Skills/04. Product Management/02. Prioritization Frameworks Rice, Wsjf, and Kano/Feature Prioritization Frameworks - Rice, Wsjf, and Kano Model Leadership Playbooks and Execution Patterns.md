@@ -1,6 +1,7 @@
 ---
 title: "Feature Prioritization Frameworks - Rice, Wsjf, and Kano Model Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

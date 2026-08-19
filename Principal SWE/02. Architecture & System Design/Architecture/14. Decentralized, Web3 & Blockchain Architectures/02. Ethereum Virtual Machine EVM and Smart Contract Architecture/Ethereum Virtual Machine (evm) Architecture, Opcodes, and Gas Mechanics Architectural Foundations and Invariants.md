@@ -1,6 +1,7 @@
 ---
 title: "Ethereum Virtual Machine (evm) Architecture, Opcodes, and Gas Mechanics Architectural Foundations and Invariants"
 tags:
+  - review
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures

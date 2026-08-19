@@ -1,6 +1,7 @@
 ---
 title: "False Sharing & CPU Cache Lines (64-byte)"
 tags:
+  - review
   - golang
   - structs
   - principal-swe

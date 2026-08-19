@@ -1,6 +1,7 @@
 ---
 title: "Shannon Entropy, Information Entropy Bounds, and Source Coding Theorem"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression

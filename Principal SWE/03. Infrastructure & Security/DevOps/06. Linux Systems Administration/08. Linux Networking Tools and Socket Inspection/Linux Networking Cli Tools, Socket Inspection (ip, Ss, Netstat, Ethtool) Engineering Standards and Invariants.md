@@ -1,6 +1,7 @@
 ---
 title: "Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Engineering Standards and Invariants"
 tags:
+  - review
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering

@@ -1,6 +1,7 @@
 ---
 title: "Per Tenant Scaling and Limits Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

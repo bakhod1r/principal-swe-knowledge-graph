@@ -1,6 +1,7 @@
 ---
 title: "Layer 7 Load Balancing Scalability Patterns and Gotchas"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Social Engineering, Spear Phishing, and MFA Fatigue Attacks Defensive Implementation Patterns"
 tags:
+  - review
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing

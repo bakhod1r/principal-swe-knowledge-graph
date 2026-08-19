@@ -1,6 +1,7 @@
 ---
 title: "Dimensional Data Modeling Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

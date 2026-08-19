@@ -1,6 +1,7 @@
 ---
 title: "SOLID Principles in Modern Software Engineering Practice Failure Modes and Anti Pattern Mitigations"
 tags:
+  - review
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns

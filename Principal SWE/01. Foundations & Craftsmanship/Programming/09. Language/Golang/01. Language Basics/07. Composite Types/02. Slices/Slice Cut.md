@@ -1,6 +1,7 @@
 ---
 title: "Slice Cut"
 tags:
+  - review
   - golang
   - slices
   - principal-swe

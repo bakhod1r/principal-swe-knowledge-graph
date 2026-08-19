@@ -1,6 +1,7 @@
 ---
 title: "Technical Project Delivery - Scoping, Milestones, and Sprint Execution Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

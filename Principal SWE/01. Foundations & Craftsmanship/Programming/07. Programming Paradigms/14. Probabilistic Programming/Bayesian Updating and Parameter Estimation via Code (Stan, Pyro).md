@@ -1,6 +1,7 @@
 ---
 title: "Bayesian Updating and Parameter Estimation via Code (Stan, Pyro)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

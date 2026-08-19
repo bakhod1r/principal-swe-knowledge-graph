@@ -1,6 +1,7 @@
 ---
 title: "Crucial Conversations in Engineering - Navigating High Stakes Dialogue Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

@@ -1,6 +1,7 @@
 ---
 title: "Branch Prediction, Branch Target Buffers, and Speculative Execution Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

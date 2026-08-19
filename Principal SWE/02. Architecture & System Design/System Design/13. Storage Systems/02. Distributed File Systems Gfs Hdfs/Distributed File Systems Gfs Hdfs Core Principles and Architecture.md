@@ -1,6 +1,7 @@
 ---
 title: "Distributed File Systems Gfs Hdfs Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

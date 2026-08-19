@@ -1,6 +1,7 @@
 ---
 title: "Document and Key Value NoSQL Models Core Principles and Mechanics"
 tags:
+  - review
   - computer-science
   - databases
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Min Stack and Max Stack with O(1) Auxiliary State"
 tags:
+  - review
   - computer-science
   - data-structures
   - basic-data-structures

@@ -1,6 +1,7 @@
 ---
 title: "Online Scheduling and Load Balancing Edge Cases and Optimization"
 tags:
+  - review
   - computer-science
   - algorithms
   - dsa

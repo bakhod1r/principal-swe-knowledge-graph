@@ -1,6 +1,7 @@
 ---
 title: "Go Memory Model Specification"
 tags:
+  - review
   - golang
   - concurrency
   - principal-swe

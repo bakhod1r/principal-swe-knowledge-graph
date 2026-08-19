@@ -1,6 +1,7 @@
 ---
 title: "File Formats Parquet Orc Iceberg Trade Offs and Failure Modes"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

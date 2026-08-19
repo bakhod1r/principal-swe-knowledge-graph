@@ -1,6 +1,7 @@
 ---
 title: "Building Quality Engineering Culture - Whole Team Quality Ownership Leadership Playbooks and Execution Patterns"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

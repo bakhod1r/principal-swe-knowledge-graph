@@ -25,6 +25,26 @@ Comprehensive engineering guide, theoretical foundations, and systems blueprints
 - 📂 [[Modern High-Speed Dictionary Compression (Zstandard FSE, Snappy, LZ4 Byte-Streaming)|08. Modern High-Speed Compression Engines (Zstandard, Snappy, LZ4)]]
 - 📂 [[Lossy Compression Theory, Discrete Cosine Transform (DCT), and Quantization Invariants|09. Lossy Compression, Transform Coding, and Quantization]]
 
+
+## 🗂️ Contents
+
+- [[Arithmetic Coding, Range Coding, and Asymmetric Numeral Systems (ANS)]]
+- [[Arithmetic Coding, Range Coding, and Asymmetric Numeral Systems Ans]]
+- [[Channel Capacity, Shannon Hartley Theorem, and Noisy Channel Coding]]
+- [[Channel Capacity, Shannon-Hartley Theorem, and Noisy Channel Coding Theorem]]
+- [[Error Correcting Codes, Hamming Distance, and Reed Solomon Codes]]
+- [[Error-Correcting Codes, Hamming Distance, and Reed-Solomon Erasure Coding]]
+- [[Kolmogorov Complexity, Algorithmic Probability, and Incompressibility]]
+- [[Kolmogorov Complexity, Incompressibility, and Algorithmic Information Theory]]
+- [[Lossless Compression, Huffman Coding, LZ77, and Deflate Algorithms]]
+- [[Lossless Data Compression Algorithms (huffman, Lz77, Snappy, Zstandard)]]
+- [[Lossy Compression Theory, Discrete Cosine Transform (DCT), and Quantization Invariants]]
+- [[Modern High-Speed Dictionary Compression (Zstandard FSE, Snappy, LZ4 Byte-Streaming)]]
+- [[Mutual Information, Kullback Leibler Divergence, and Rate Distortion]]
+- [[Mutual Information, Kullback-Leibler (KL) Divergence, and Rate-Distortion Theory]]
+- [[Shannon Entropy, Information Entropy Bounds, and Source Coding Theorem]]
+- [[Shannon Entropy, Self Information, and Theoretical Limits of Compression]]
+
 ---
 
 ## 🔗 References

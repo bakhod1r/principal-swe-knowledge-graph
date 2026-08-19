@@ -1,6 +1,7 @@
 ---
 title: "Minimizing Context Switching, Notification Batching, and Slack Hygiene Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - engineering-management

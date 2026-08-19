@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh Architecture: Envoy Data Plane and Istio Control Plane Structural Anti Patterns and Gotchas"
 tags:
+  - review
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries

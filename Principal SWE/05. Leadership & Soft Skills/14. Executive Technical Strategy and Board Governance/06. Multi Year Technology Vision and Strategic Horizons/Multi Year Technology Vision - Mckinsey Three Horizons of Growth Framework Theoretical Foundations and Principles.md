@@ -1,6 +1,7 @@
 ---
 title: "Multi Year Technology Vision - Mckinsey Three Horizons of Growth Framework Theoretical Foundations and Principles"
 tags:
+  - review
   - soft-skills
   - leadership
   - executive-strategy

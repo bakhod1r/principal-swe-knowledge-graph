@@ -1,6 +1,7 @@
 ---
 title: "Change Data Capture (CDC) and Transactional Outbox Pattern"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

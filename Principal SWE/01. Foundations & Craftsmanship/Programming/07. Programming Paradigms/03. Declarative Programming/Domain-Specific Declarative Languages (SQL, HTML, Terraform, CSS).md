@@ -1,6 +1,7 @@
 ---
 title: "Domain-Specific Declarative Languages (SQL, HTML, Terraform, CSS)"
 tags:
+  - review
   - programming
   - paradigms
   - principal-swe

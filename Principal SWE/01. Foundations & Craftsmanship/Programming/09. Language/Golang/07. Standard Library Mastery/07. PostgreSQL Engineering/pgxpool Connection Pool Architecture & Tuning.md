@@ -1,6 +1,7 @@
 ---
 title: "pgxpool Connection Pool Architecture & Tuning"
 tags:
+  - review
   - golang
   - stdlib
   - principal-swe

@@ -1,6 +1,7 @@
 ---
 title: AWS Multi Account Strategy and VPC Network Topology
 tags:
+  - review
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices

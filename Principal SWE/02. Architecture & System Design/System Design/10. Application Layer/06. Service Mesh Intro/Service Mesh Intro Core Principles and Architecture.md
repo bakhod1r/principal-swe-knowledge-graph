@@ -1,6 +1,7 @@
 ---
 title: "Service Mesh Intro Core Principles and Architecture"
 tags:
+  - review
   - system-design
   - architecture
   - distributed-systems

@@ -1,6 +1,7 @@
 ---
 title: "Fast-Path Serialization (Protobuf vs Sonic vs Stdlib JSON)"
 tags:
+  - review
   - golang
   - performance
   - principal-swe

@@ -7,7 +7,7 @@ tags:
   - team-lead
   - negotiation,-conflict-resolution-and-organizational-dynamics
   - principal-swe
-parent: "[[Soft Skills]]"
+parent: "[[Leadership & Soft Skills]]"
 ---
 
 # 🤝 Negotiation, Conflict Resolution & Organizational Dynamics
@@ -43,5 +43,5 @@ Negotiation, Conflict Resolution & Organizational Dynamics
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Soft Skills]]
+- ⬆️ Parent: `Soft Skills`
 

@@ -1,6 +1,7 @@
 ---
 title: "Advanced Typescript: Conditional Types, Mapped Types, and Keyof Failure Modes and Edge Cases"
 tags:
+  - review
   - programming
   - languages
   - typescript

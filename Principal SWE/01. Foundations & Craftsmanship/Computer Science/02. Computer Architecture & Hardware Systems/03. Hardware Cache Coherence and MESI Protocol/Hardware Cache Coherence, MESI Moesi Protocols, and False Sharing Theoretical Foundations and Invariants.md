@@ -1,6 +1,7 @@
 ---
 title: "Hardware Cache Coherence, MESI Moesi Protocols, and False Sharing Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems

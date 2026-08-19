@@ -1,6 +1,7 @@
 ---
 title: "eBPF, XDP (eXpress Data Path), and High-Performance Kernel Packet Processing Theoretical Foundations and Invariants"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals

@@ -1,6 +1,7 @@
 ---
 title: "Automated Sast, Dast, and Secret Scanning in CI CD Pipelines Production Implementation Patterns"
 tags:
+  - review
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation

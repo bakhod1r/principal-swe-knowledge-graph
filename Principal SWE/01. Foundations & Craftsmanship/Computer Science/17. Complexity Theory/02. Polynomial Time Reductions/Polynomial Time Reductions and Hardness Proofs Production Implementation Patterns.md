@@ -1,6 +1,7 @@
 ---
 title: "Polynomial Time Reductions and Hardness Proofs Production Implementation Patterns"
 tags:
+  - review
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory

@@ -1,6 +1,7 @@
 ---
 title: "Shell Startup & Profile Persistence"
 tags:
+  - review
   - golang
   - environment
   - principal-swe
