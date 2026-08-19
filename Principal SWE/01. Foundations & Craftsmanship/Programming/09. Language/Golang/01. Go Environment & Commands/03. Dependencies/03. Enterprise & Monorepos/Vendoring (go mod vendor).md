@@ -1,0 +1,25 @@
+---
+title: "Vendoring (go mod vendor)"
+tags:
+  - review
+  - golang
+  - dependencies
+  - principal-swe
+parent: "[[Enterprise & Monorepos]]"
+---
+
+# Vendoring (go mod vendor)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Enterprise & Monorepos]]
+- 📚 Module: `Go Environment & Commands`

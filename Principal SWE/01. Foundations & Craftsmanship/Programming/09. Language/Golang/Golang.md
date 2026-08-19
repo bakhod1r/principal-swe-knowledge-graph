@@ -13,23 +13,30 @@ A structured, battle-tested, high-performance reference repository for Go engine
 
 ```text
 Golang
-├── 01. Language Basics
-├── 02. Methods & Interfaces
-├── 03. Generics
-├── 04. Error Handling
-├── 05. Code Organization & Architecture
-├── 06. Concurrency & Synchronization
-├── 07. Standard Library Mastery
-├── 08. Testing & Benchmarking
-├── 09. Go Toolchain & Developer Experience
-├── 10. Advanced Topics & Low-Level Go
-├── 11. Performance Engineering & Profiling
-├── 12. Design Patterns in Go
-├── 13. Runtime & Internals
-├── 14. Go Standard Library Source Reading
-├── 15. Observability & Runtime Introspection
-├── 16. Modern Language Features
-└── 17. Security, Cryptography & Hardening in Go
+├── 01. Go Environment & Commands
+├── 02. Language Basics
+├── 03. Methods
+├── 04. Generics
+├── 05. Error Handling
+├── 06. Code Organization
+├── 07. Go Concurrency
+├── 08. Standard Library Mastery
+├── 09. Testing & Benchmarking
+├── 10. Go Toolchain & Developer Experience
+├── 11. Advanced Topics & Low-Level Go
+├── 12. Go Performance Engineering
+├── 13. Design Patterns in Go
+├── 14. Runtime & Internals
+├── 15. Go Standard Library Source Reading
+├── 16. Observability & Runtime Introspection
+├── 17. Modern Language Features
+├── 18. Go Security
+├── 19. Profiling Tooling
+├── 20. Go Interfaces
+├── 21. Go Synchronization
+├── 22. Cryptography
+├── 23. Hardening
+└── 24. Application Architecture
 ```
 
 ---
@@ -96,26 +103,27 @@ TLS 1.3/mTLS zero-trust architecture, AEAD encryption (AES-GCM, ChaCha20), const
 
 ## 🗂️ Topics
 
-- [[Advanced Topics & Low-Level Go]]
-- [[Application Architecture]]
-- [[Code Organization]]
-- [[Cryptography]]
-- [[Design Patterns in Go]]
-- [[Error Handling]]
-- [[Generics]]
-- [[Go Concurrency]]
-- [[Go Interfaces]]
-- [[Go Performance Engineering]]
-- [[Go Security]]
-- [[Go Standard Library Source Reading]]
-- [[Go Synchronization]]
-- [[Go Toolchain & Developer Experience]]
-- [[Hardening]]
+- [[Go Environment & Commands]]
 - [[Language Basics]]
 - [[Methods]]
-- [[Modern Language Features]]
-- [[Observability & Runtime Introspection]]
-- [[Profiling Tooling]]
-- [[Runtime & Internals]]
+- [[Generics]]
+- [[Error Handling]]
+- [[Code Organization]]
+- [[Go Concurrency]]
 - [[Standard Library Mastery]]
 - [[Testing & Benchmarking]]
+- [[Go Toolchain & Developer Experience]]
+- [[Advanced Topics & Low-Level Go]]
+- [[Go Performance Engineering]]
+- [[Design Patterns in Go]]
+- [[Runtime & Internals]]
+- [[Go Standard Library Source Reading]]
+- [[Observability & Runtime Introspection]]
+- [[Modern Language Features]]
+- [[Go Security]]
+- [[Profiling Tooling]]
+- [[Go Interfaces]]
+- [[Go Synchronization]]
+- [[Cryptography]]
+- [[Hardening]]
+- [[Application Architecture]]
