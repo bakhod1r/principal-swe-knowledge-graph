@@ -1,0 +1,24 @@
+---
+title: "go tool nm (Symbol Table)"
+tags:
+  - golang
+  - toolchain
+  - principal-swe
+parent: "[[Binary Inspection Tools (go tool)]]"
+---
+
+# go tool nm (Symbol Table)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Binary Inspection Tools (go tool)]]
+- 📚 Module: `Language Basics`

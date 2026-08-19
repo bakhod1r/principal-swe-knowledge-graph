@@ -1,0 +1,24 @@
+---
+title: "Refactoring Complex Conditionals & Deep Nesting"
+tags:
+  - golang
+  - clean-code
+  - principal-swe
+parent: "[[Refactoring Standards]]"
+---
+
+# Refactoring Complex Conditionals & Deep Nesting
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: `Idiomatic Clean Code & Refactoring Standards`
+- 📚 Module: `Code Organization & Architecture`

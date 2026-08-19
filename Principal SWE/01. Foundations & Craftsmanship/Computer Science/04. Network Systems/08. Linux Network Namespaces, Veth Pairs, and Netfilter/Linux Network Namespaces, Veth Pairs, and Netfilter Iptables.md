@@ -1,0 +1,36 @@
+---
+title: Linux Network Namespaces, Veth Pairs, and Netfilter Iptables
+tags:
+  - computer-science
+  - systems-engineering
+  - networking-and-internet-transport-internals
+  - principal-swe
+parent: "[[Network Systems]]"
+---
+
+# 📦 Linux Network Namespaces, Veth Pairs, and Netfilter Iptables
+
+Network isolation namespaces (`ip netns`), virtual ethernet pairs (`veth`), Linux bridge forwarding, `iptables`/`nftables` packet filtering, and eBPF XDP kernel bypass.
+
+```text
+Linux Network Namespaces, Veth Pairs, and Netfilter Iptables
+│
+├── [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Theoretical Foundations and Invariants]]
+├── [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Production Implementation Patterns]]
+└── [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Failure Modes and Edge Cases]]
+```
+
+---
+
+## 🗂️ Theoretical Foundations & Systems Blueprints
+
+- [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Theoretical Foundations and Invariants]]
+- [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Production Implementation Patterns]]
+- [[Linux Network Namespaces, Veth Pairs, and Netfilter Iptables Failure Modes and Edge Cases]]
+
+---
+
+## 🔗 References
+- ⬆️ Parent: `Networking & Internet Transport Internals`
+- 📚 Module: `Computer Science`
+

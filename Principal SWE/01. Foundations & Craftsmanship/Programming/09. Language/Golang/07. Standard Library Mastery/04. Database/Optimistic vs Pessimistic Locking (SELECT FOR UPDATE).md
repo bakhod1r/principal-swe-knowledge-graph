@@ -1,0 +1,24 @@
+---
+title: "Optimistic vs Pessimistic Locking (SELECT FOR UPDATE)"
+tags:
+  - golang
+  - database
+  - principal-swe
+parent: "[[Database]]"
+---
+
+# Optimistic vs Pessimistic Locking (SELECT FOR UPDATE)
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: `Database & PostgreSQL Engineering (database-sql, pgx)`
+- 📚 Module: `Standard Library Mastery`
