@@ -1,5 +1,5 @@
 ---
-title: FLP Impossibility Result and Asynchronous Consensus Limits
+title: "FLP Impossibility Result and Asynchronous Consensus Limits"
 tags:
   - computer-science
   - systems-engineering
@@ -10,7 +10,7 @@ parent: "[[Distributed Systems Theory]]"
 
 # 📦 FLP Impossibility Result and Asynchronous Consensus Limits
 
-Fischer-Lynch-Paterson proof: impossibility of deterministic asynchronous consensus in the presence of a single unannounced fail-stop failure.
+Formal proof of Fischer-Lynch-Paterson impossibility, non-blocking atomic broadcast, partial synchrony, and failure detectors.
 
 ```text
 FLP Impossibility Result and Asynchronous Consensus Limits
@@ -31,6 +31,5 @@ FLP Impossibility Result and Asynchronous Consensus Limits
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Distributed Systems Theory & Consensus`
+- ⬆️ Parent: [[Distributed Systems Theory]]
 - 📚 Module: `Computer Science`
-

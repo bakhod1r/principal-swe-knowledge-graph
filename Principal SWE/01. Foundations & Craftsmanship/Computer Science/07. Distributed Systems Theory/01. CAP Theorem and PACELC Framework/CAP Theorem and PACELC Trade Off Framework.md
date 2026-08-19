@@ -1,5 +1,5 @@
 ---
-title: CAP Theorem and PACELC Trade Off Framework
+title: "CAP Theorem and PACELC Trade Off Framework"
 tags:
   - computer-science
   - systems-engineering
@@ -31,6 +31,5 @@ CAP Theorem and PACELC Trade Off Framework
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Distributed Systems Theory & Consensus`
+- ⬆️ Parent: [[Distributed Systems Theory]]
 - 📚 Module: `Computer Science`
-

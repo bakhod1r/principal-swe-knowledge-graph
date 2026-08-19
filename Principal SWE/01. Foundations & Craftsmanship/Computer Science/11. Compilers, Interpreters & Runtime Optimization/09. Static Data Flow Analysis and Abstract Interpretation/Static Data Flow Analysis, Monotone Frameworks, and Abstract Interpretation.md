@@ -1,16 +1,16 @@
 ---
-title: Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation
+title: "Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation"
 tags:
   - computer-science
   - systems-engineering
-  - compilers,-interpreters-and-runtime-optimization
+  - compilers-interpreters-and-runtime-optimization
   - principal-swe
 parent: "[[Compilers, Interpreters & Runtime Optimization]]"
 ---
 
 # 📦 Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation
 
-Forward vs backward analysis, Available Expressions, Reaching Definitions, Live Variable analysis, lattice theory fixed-point iteration, and abstract interpretation safety.
+Reaching definitions, live variable analysis, available expressions, meet-over-all-paths (MOP) lattice solutions, and Cousot's Abstract Interpretation.
 
 ```text
 Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation
@@ -33,4 +33,3 @@ Static Data Flow Analysis, Monotone Frameworks, and Abstract Interpretation
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

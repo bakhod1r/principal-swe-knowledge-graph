@@ -1,5 +1,5 @@
 ---
-title: Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)
+title: "Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)"
 tags:
   - computer-science
   - systems-engineering
@@ -8,29 +8,28 @@ tags:
 parent: "[[Cryptography & Mathematical Security]]"
 ---
 
-# 📦 Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)
+# 📦 Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)
 
-Modular exponentiation, trapdoor one-way functions, discrete logarithm problem, Weierstrass curves vs Edwards curves (Ed25519), and ECDSA signatures.
+Euler's totient theorem, modular exponentiation, RSA trapdoor permutation, Weierstrass and Edwards elliptic curves (secp256k1, Ed25519), and ECDSA signatures.
 
 ```text
-Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc)
+Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC)
 │
-├── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Theoretical Foundations and Invariants]]
-├── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Production Implementation Patterns]]
-└── [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Failure Modes and Edge Cases]]
+├── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Theoretical Foundations and Invariants]]
+├── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Production Implementation Patterns]]
+└── [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases]]
 ```
 
 ---
 
 ## 🗂️ Theoretical Foundations & Systems Blueprints
 
-- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Theoretical Foundations and Invariants]]
-- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Production Implementation Patterns]]
-- [[Asymmetric Cryptography, Rsa, and Elliptic Curve Cryptography (ecc) Failure Modes and Edge Cases]]
+- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Theoretical Foundations and Invariants]]
+- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Production Implementation Patterns]]
+- [[Asymmetric Cryptography, RSA, and Elliptic Curve Cryptography (ECC) Failure Modes and Edge Cases]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

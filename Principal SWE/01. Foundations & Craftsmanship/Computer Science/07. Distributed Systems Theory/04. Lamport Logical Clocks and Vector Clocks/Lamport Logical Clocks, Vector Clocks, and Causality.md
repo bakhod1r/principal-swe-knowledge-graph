@@ -1,5 +1,5 @@
 ---
-title: Lamport Logical Clocks, Vector Clocks, and Causality
+title: "Lamport Logical Clocks, Vector Clocks, and Causality"
 tags:
   - computer-science
   - systems-engineering
@@ -10,7 +10,7 @@ parent: "[[Distributed Systems Theory]]"
 
 # 📦 Lamport Logical Clocks, Vector Clocks, and Causality
 
-Partial ordering of distributed events, Lamport timestamps, Vector clocks for detecting concurrent conflicting updates, and version vectors.
+Partial ordering of events, happens-before relation, scalar Lamport clocks, vector clocks, and version vectors in distributed storage.
 
 ```text
 Lamport Logical Clocks, Vector Clocks, and Causality
@@ -31,6 +31,5 @@ Lamport Logical Clocks, Vector Clocks, and Causality
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Distributed Systems Theory & Consensus`
+- ⬆️ Parent: [[Distributed Systems Theory]]
 - 📚 Module: `Computer Science`
-

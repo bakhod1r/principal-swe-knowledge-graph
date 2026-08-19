@@ -1,5 +1,5 @@
 ---
-title: Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Causal, Eventual)
+title: "Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Causal, Eventual)"
 tags:
   - computer-science
   - systems-engineering
@@ -10,7 +10,7 @@ parent: "[[Distributed Systems Theory]]"
 
 # 📦 Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Causal, Eventual)
 
-Linearizability (real-time external clock ordering), Sequential consistency, Causal consistency, Read-Your-Writes, Monotonic Reads, and Eventual consistency.
+Strict serializability, linearizability, sequential consistency, causal consistency, read-after-write, and eventual consistency.
 
 ```text
 Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Causal, Eventual)
@@ -31,6 +31,5 @@ Distributed Consistency Models Hierarchy (strict, Linearizable, Sequential, Caus
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Distributed Systems Theory & Consensus`
+- ⬆️ Parent: [[Distributed Systems Theory]]
 - 📚 Module: `Computer Science`
-

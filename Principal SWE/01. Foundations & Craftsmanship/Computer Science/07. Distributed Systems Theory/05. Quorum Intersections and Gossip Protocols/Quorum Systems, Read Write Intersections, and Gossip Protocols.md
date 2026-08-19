@@ -1,5 +1,5 @@
 ---
-title: Quorum Systems, Read Write Intersections, and Gossip Protocols
+title: "Quorum Systems, Read Write Intersections, and Gossip Protocols"
 tags:
   - computer-science
   - systems-engineering
@@ -10,7 +10,7 @@ parent: "[[Distributed Systems Theory]]"
 
 # 📦 Quorum Systems, Read Write Intersections, and Gossip Protocols
 
-Strict quorum condition (`R + W > N`), sloppy quorums with hinted handoff, epidemic gossip dissemination protocols, and anti-entropy synchronization.
+Strict quorum condition (R + W > N), sloppy quorums, hinted handoff, epidemic gossip dissemination, and anti-entropy synchronization.
 
 ```text
 Quorum Systems, Read Write Intersections, and Gossip Protocols
@@ -31,6 +31,5 @@ Quorum Systems, Read Write Intersections, and Gossip Protocols
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Distributed Systems Theory & Consensus`
+- ⬆️ Parent: [[Distributed Systems Theory]]
 - 📚 Module: `Computer Science`
-
