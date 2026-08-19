@@ -27,7 +27,7 @@ Core Environment Variables
 ## 🗂️ Topics
 
 - [[PATH and Go Binaries]] — OS search path resolution for Go binary executable and installed CLI tools.
-- [[GOROOT Directory Layout]] — Root directory of the Go SDK distribution containing standard library source.
+- [[GOROOT]] — Root directory of the Go SDK distribution containing standard library source.
 - [[GOPATH Workspace & Module Cache]] — Workspace structure, pkg/mod module cache, and bin output directories.
 - [[GOBIN Binary Destination]] — Target directory where go install outputs compiled executable binaries.
 - [[GOENV Persistent Configuration]] — Location of persistent environment variable settings file ($HOME/.config/go/env).

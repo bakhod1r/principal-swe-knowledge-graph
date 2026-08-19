@@ -1,5 +1,5 @@
 ---
-title: "GOROOT Directory Layout"
+title: GOROOT
 tags:
   - review
   - golang
@@ -7,16 +7,6 @@ tags:
   - principal-swe
 parent: "[[Core Environment Variables]]"
 ---
-
-# GOROOT Directory Layout
-
-## 1. Definition
-
-## 2. Mental Model
-
-## 3. Usage
-
-## 4. Gotchas
 
 ---
 
