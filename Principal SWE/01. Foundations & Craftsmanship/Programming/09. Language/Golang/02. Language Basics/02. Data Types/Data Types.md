@@ -9,7 +9,7 @@ parent: "[[Language Basics]]"
 
 # Data Types
 
-Primitive data types: booleans, numeric types, runes, strings, conversions, documentation tools, and string internals.
+Primitive data types: booleans, numeric types, runes, strings, conversions, documentation tools, and low-level string internals.
 
 ```text
 Data Types
@@ -17,7 +17,7 @@ Data Types
 ├── [[Boolean]]
 ├── [[Numeric Types]]
 ├── [[Runes]]
-├── `Strings`
+├── [[Strings]]
 ├── [[Type Conversion]]
 ├── [[Commands and Docs]]
 └── [[String Internals]]
@@ -27,17 +27,16 @@ Data Types
 
 ## 🗂️ Topics
 
-- [[Boolean]] — Boolean primitives, logical operators, truth tables, and short-circuit evaluation.
-- [[Numeric Types]] — Signed/unsigned integers, floats, complex numbers, overflow, and precision loss.
-- [[Runes]] — Unicode code points, rune literals, UTF-8 encoding, and unicode/utf8 package.
-- `Strings` — Immutable byte sequences, string literals, indexing, slicing, and string operations.
-- [[Type Conversion]] — Explicit type casting between numeric types, strings, bytes, and runes.
-- [[Commands and Docs]] — Standard library documentation tools, go doc, and symbol inspection.
-- [[String Internals]] — stringStruct layout, pointer and length fields, and zero-copy string conversions.
-- [[Strings]]
+- [[Boolean]] — Boolean primitives, logical operators, truth tables, short-circuit evaluation, and branchless optimizations.
+- [[Numeric Types]] — Signed/unsigned integers, floating-point IEEE-754 numbers, arbitrary precision math/big, complex numbers, and SIMD.
+- [[Runes]] — Unicode code points, UTF-8 variable-width encoding, normalization (NFC/NFD), and grapheme clusters.
+- [[Strings]] — Immutable byte sequences, string literals, strings.Builder, zero-allocation operations, and unique package interning.
+- [[Type Conversion]] — Explicit numeric casting, string-to-byte conversions, strconv, and zero-copy unsafe.String / unsafe.Slice.
+- [[Commands and Docs]] — Standard library documentation tools, go doc, pkgsite server, doc comment standards, and example tests.
+- [[String Internals]] — stringStruct layout, 2-word pointer and length fields, .rodata segment, and GC memory retention.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Language Basics]]
-
+- 📚 Module: `Language Basics`

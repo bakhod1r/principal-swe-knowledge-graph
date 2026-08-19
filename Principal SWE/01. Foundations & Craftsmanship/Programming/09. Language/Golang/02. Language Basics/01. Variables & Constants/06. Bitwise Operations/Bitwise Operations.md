@@ -20,10 +20,10 @@ graph TD
 
     BitOps["Go Bitwise Primitives"]:::op --> Logic["Logical Bitwise<br/>(&, |, ^, Unary ^)"]:::op
     BitOps --> Clear["Bit Clear (AND NOT)<br/>(&^) -> Maps to ARM BIC / x86 ANDN"]:::op
-    BitOps --> Shifts["Bit Shifts<br/>(<< Logical, >> Arithmetic/Logical)"]:::op
+    BitOps --> Shifts["Bit Shifts<br/>(<< Left Shift, >> Right Shift)"]:::op
     BitOps --> Intrinsics["Hardware Intrinsics<br/>(math/bits: POPCNT, LZCNT, TZCNT)"]:::pkg
     
-    Logic & Clear & Shifts --> Patterns["Production Systems Patterns<br/>(Bitmasks, Flags, Twiddles, Morton Codes)"]:::op
+    Logic & Clear & Shifts --> Patterns["Production Systems Patterns<br/>(Bitmasks, Bitsets, SWAR, Endianness, Varints)"]:::op
 ```
 
 ---
@@ -33,48 +33,38 @@ graph TD
 ```text
 Bitwise Operations
 │
-├── [[Bitwise AND, OR, XOR]]
-│   ├── Bitwise AND (&), OR (|), XOR (^) Truth Tables
-│   ├── Unary Bitwise NOT (^) Complement Invariants
-│   └── Go vs C Operator Precedence Differences
-│
+├── [[Bitwise AND (&)]]
+├── [[Bitwise OR (|)]]
+├── [[Bitwise XOR and NOT (^)]]
 ├── [[Bit Clear Operator (&^)]]
-│   ├── Go-Specific AND NOT Binary Operator Invariants
-│   ├── Hardware Mapping: ARM BIC & x86-64 BMI1 ANDN
-│   └── Atomic Flag Clears with Compare-And-Swap (CAS)
-│
-├── [[Bit Shift Operations (<<, >>)]]
-│   ├── Logical Left Shift (<<) & Integer Bounds
-│   ├── Logical Right Shift (Unsigned) vs Arithmetic Right Shift (Signed)
-│   └── Strict Unsigned Shift Count Type Invariant in Go
-│
+├── [[Left Shift Operator (<<)]]
+├── [[Right Shift Operator (>>)]]
 ├── [[math-bits Standard Package]]
-│   ├── Direct Compiler Intrinsics (POPCNT, LZCNT, TZCNT, BSWAP)
-│   ├── Fast Bit Length (Len64) & Next Power-of-Two Calculations
-│   └── 128-Bit Multi-Precision Arithmetic (Add64, Mul64, Div64)
-│
 ├── [[Bitmasking and Bit Flags Patterns]]
-│   ├── Zero-Allocation High-Density State Packing
-│   ├── Atomic Bitmask Transitions in Concurrent Systems
-│   └── Submask Testing & Permission Verification
-│
-└── [[Bit Manipulation Hacks and Twiddles]]
-    ├── Brian Kernighan's Bit Counting Algorithm
-    ├── Isolating & Clearing Lowest Set Bits (x & -x, x & x-1)
-    ├── Branchless Min, Max, and Absolute Value
-    └── Morton Codes (Z-Order 2D Curve Packing)
+├── [[Bit Manipulation Hacks and Twiddles]]
+├── [[Bitsets and Bitmaps Implementation]]
+├── [[Endianness and Byte Order (encoding-binary)]]
+├── [[SWAR and Bit-Level Parallelism]]
+└── [[Varints and Variable-Length Encoding]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[Bitwise AND, OR, XOR]] — Standard bitwise arithmetic, binary operators, and unary bitwise complement in Go.
+- [[Bitwise AND (&)]] — Bitwise AND operator for masking, filtering, and intersection testing.
+- [[Bitwise OR (|)]] — Bitwise OR operator for combining flags, setting bits, and union operations.
+- [[Bitwise XOR and NOT (^)]] — Bitwise XOR for toggling and unary `^` for bitwise inversion (complement).
 - [[Bit Clear Operator (&^)]] — Go-specific AND NOT operator for clearing specific bits in a mask.
-- [[Bit Shift Operations (<<, >>)]] — Left shift multiplication and right shift division with logical vs arithmetic sign propagation.
+- [[Left Shift Operator (<<)]] — Logical left shift for multiplication by powers of two and bit packing.
+- [[Right Shift Operator (>>)]] — Logical (unsigned) vs Arithmetic (signed) right shifts for division and sign extension.
 - [[math-bits Standard Package]] — Hardware compiler intrinsics for leading zeros, trailing zeros, popcount, and multi-word arithmetic.
 - [[Bitmasking and Bit Flags Patterns]] — Production idioms for permission bitfields, state management, and atomic flag transitions.
 - [[Bit Manipulation Hacks and Twiddles]] — High-performance branchless algorithms, power-of-two checks, and low-level bit twiddling.
+- [[Bitsets and Bitmaps Implementation]] — High-density dynamic bitsets, bit vectors, and $O(N/64)$ set algebra in Go.
+- [[Endianness and Byte Order (encoding-binary)]] — BigEndian vs LittleEndian memory layout, byte packing, and network wire protocol encoding.
+- [[SWAR and Bit-Level Parallelism]] — SIMD Within A Register techniques for 8-byte parallel search and bitfield manipulation.
+- [[Varints and Variable-Length Encoding]] — Protocol Buffers variable-length integer compression and bit-continuation encoding.
 
 ---
 

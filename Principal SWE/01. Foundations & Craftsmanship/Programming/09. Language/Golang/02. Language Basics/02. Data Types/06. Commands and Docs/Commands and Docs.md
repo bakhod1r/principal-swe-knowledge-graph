@@ -2,33 +2,40 @@
 title: Commands and Docs
 tags:
   - golang
-  - types
+  - documentation
+  - tooling
   - principal-swe
 parent: "[[Data Types]]"
 ---
 
 # Commands and Docs
 
-Standard library documentation tools, go doc, and symbol inspection.
+Standard library documentation tools, `go doc`, `pkgsite`, package documentation standards, markdown support, and executable example tests.
 
 ```text
 Commands and Docs
 │
 ├── [[go doc CLI Tool]]
 ├── [[godoc Web Server]]
-└── [[Package Documentation Standards]]
+├── [[pkgsite Local Documentation Server]]
+├── [[Package Documentation Standards]]
+├── [[Doc Comments Formatting & Markdown Support (Go 1.19+)]]
+└── [[Executable Example Tests in Documentation]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[go doc CLI Tool]] — Viewing package and symbol documentation directly from the terminal.
-- [[godoc Web Server]] — Running local godoc documentation web server for offline code exploration.
-- [[Package Documentation Standards]] — Writing idiomatic Go package doc comments and examples (godoc conventions).
+- [[go doc CLI Tool]] — Viewing package, symbol, and method documentation directly from the terminal.
+- [[godoc Web Server]] — Legacy godoc documentation web server mechanics and features.
+- [[pkgsite Local Documentation Server]] — Modern `golang.org/x/pkgsite` server for local module discovery and documentation browsing.
+- [[Package Documentation Standards]] — Idiomatic package doc comments, summary sentences, and export conventions.
+- [[Doc Comments Formatting & Markdown Support (Go 1.19+)]] — Headings, links, lists, doc comment syntax, and rendering rules.
+- [[Executable Example Tests in Documentation]] — Writing `ExampleXxx` test functions with `// Output:` comments that act as compiled, regression-tested documentation.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Types]]
-
+- 📚 Module: `Language Basics`
