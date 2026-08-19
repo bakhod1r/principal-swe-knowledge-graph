@@ -15,10 +15,12 @@ Fundamental Go directories, paths, binaries, and persistent environment configur
 Core Environment Variables
 │
 ├── [[PATH and Go Binaries]]
-├── [[GOROOT Directory Layout]]
+├── [[GOROOT]]
 ├── [[GOPATH Workspace & Module Cache]]
 ├── [[GOBIN Binary Destination]]
 ├── [[GOENV Persistent Configuration]]
+├── [[GOMODCACHE Module Cache]]
+├── [[GOTOOLCHAIN Version Selection]]
 └── [[Shell Startup & Profile Persistence]]
 ```
 
@@ -31,6 +33,8 @@ Core Environment Variables
 - [[GOPATH Workspace & Module Cache]] — Workspace structure, pkg/mod module cache, and bin output directories.
 - [[GOBIN Binary Destination]] — Target directory where go install outputs compiled executable binaries.
 - [[GOENV Persistent Configuration]] — Location of persistent environment variable settings file ($HOME/.config/go/env).
+- [[GOMODCACHE Module Cache]] — Download cache for modules and toolchains; read-only layout and `go clean -modcache`.
+- [[GOTOOLCHAIN Version Selection]] — Which Go toolchain actually runs the build; `auto`/`local`/`path` and the `toolchain` directive.
 - [[Shell Startup & Profile Persistence]] — Configuring environment variables in .zshrc, .bashrc, or /etc/profile.
 
 ---
