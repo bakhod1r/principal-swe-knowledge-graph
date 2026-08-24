@@ -39,11 +39,11 @@ off
 
 They mean:
 
-|Mode|Local collection|Upload|
-|---|--:|--:|
-|`local`|Yes|No|
-|`on`|Yes|Yes, approved/sampled data|
-|`off`|No|No|
+| Mode    | Local collection |                     Upload |
+| ------- | ---------------: | -------------------------: |
+| `local` |              Yes |                         No |
+| `on`    |              Yes | Yes, approved/sampled data |
+| `off`   |               No |                         No |
 
 The default mode is:
 
