@@ -11,7 +11,7 @@ parent: "[[Foundations & Craftsmanship]]"
 
 # 🛠️ Programming & Software Engineering Excellence
 
-Comprehensive, production-grade master architecture covering the complete spectrum of programming paradigms, clean code, OOP, runtime internals, quality engineering, polyglot patterns, diagnostics, and language ecosystems (7 languages: Golang, Java, Python, Rust, TypeScript, SQL, Shell & Bash) across 9 master pillars:
+Comprehensive, production-grade master architecture covering the complete spectrum of programming paradigms, clean code, OOP, runtime internals, quality engineering, polyglot patterns, diagnostics, and language ecosystems (Golang, SQL) across 9 master pillars:
 
 ```text
 Programming
@@ -133,12 +133,7 @@ Programming
 - 📂 `14. Testing`
 ### 9. 📂 [[Language|09. Language]]
 - 📂 [[Golang|Golang]]
-- 📂 `Java`
-- 📂 `Python`
-- 📂 `Rust`
-- 📂 `SQL`
-- 📂 `Shell and Bash`
-- 📂 `TypeScript`
+- 📂 [[SQL|SQL]]
 
 ---
 
