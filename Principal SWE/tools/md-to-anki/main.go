@@ -357,7 +357,7 @@ func deckFromPath(path string) string {
 func main() {
 	var (
 		deck   = flag.String("deck", "", "target deck (default: derived from the note's folder path)")
-		model  = flag.String("model", "Basic", "Anki note type")
+		model  = flag.String("model", "Principal SWE", "Anki note type (created automatically when missing)")
 		tagCSV = flag.String("tags", "", "extra comma-separated tags")
 		url    = flag.String("url", "http://127.0.0.1:8765", "AnkiConnect endpoint")
 		dryRun = flag.Bool("dry-run", false, "print the cards instead of sending them")
@@ -437,6 +437,20 @@ func main() {
 		return
 	}
 
+	// Make sure the note type exists, and map Front/Back onto its real fields.
+	front, back, err := ensureModel(*url, *model)
+	if err != nil {
+		fatal(err)
+	}
+	if front != "Front" || back != "Back" {
+		for i := range notes {
+			notes[i].Fields = map[string]string{
+				front: cards[i].Front,
+				back:  cards[i].Back,
+			}
+		}
+	}
+
 	// Make sure every deck exists.
 	for _, d := range dedupe(deckNames(cards)) {
 		if err := ankiCall(*url, "createDeck", map[string]any{"deck": d}, nil); err != nil {
@@ -457,7 +471,7 @@ func main() {
 		}
 		dup++
 		if *update {
-			if err := updateExisting(*url, notes[i]); err != nil {
+			if err := updateExisting(*url, notes[i], front); err != nil {
 				fmt.Fprintf(os.Stderr, "⚠️  update failed for %q: %v\n", cards[i].Front, err)
 			}
 		}
@@ -474,9 +488,71 @@ func main() {
 	fmt.Println()
 }
 
+// ensureModel creates the note type when it is missing and returns the field
+// names to use for the question and the answer.
+func ensureModel(url, model string) (string, string, error) {
+	var models []string
+	if err := ankiCall(url, "modelNames", nil, &models); err != nil {
+		return "", "", err
+	}
+	exists := false
+	for _, m := range models {
+		if m == model {
+			exists = true
+			break
+		}
+	}
+
+	if !exists {
+		params := map[string]any{
+			"modelName":     model,
+			"inOrderFields": []string{"Front", "Back"},
+			"isCloze":       false,
+			"css": ".card{font-family:-apple-system,Helvetica,sans-serif;font-size:17px;" +
+				"text-align:left;color:#e8e8e8;background:#1e1e1e;line-height:1.55;padding:14px}\n" +
+				"pre{background:#141414;border:1px solid #333;border-radius:6px;padding:10px;overflow-x:auto}\n" +
+				"code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px}\n" +
+				"blockquote{border-left:3px solid #666;margin:8px 0;padding-left:10px;color:#bbb}\n" +
+				"b{color:#fff}",
+			"cardTemplates": []map[string]string{{
+				"Name":  "Card 1",
+				"Front": "{{Front}}",
+				"Back":  "{{FrontSide}}<hr id=answer>{{Back}}",
+			}},
+		}
+		if err := ankiCall(url, "createModel", params, nil); err != nil {
+			return "", "", err
+		}
+		fmt.Printf("🆕 Created note type %q\n", model)
+		return "Front", "Back", nil
+	}
+
+	var fields []string
+	if err := ankiCall(url, "modelFieldNames", map[string]any{"modelName": model}, &fields); err != nil {
+		return "", "", err
+	}
+	if len(fields) < 2 {
+		return "", "", fmt.Errorf("note type %q has fewer than 2 fields", model)
+	}
+	hasFront, hasBack := false, false
+	for _, f := range fields {
+		switch f {
+		case "Front":
+			hasFront = true
+		case "Back":
+			hasBack = true
+		}
+	}
+	if hasFront && hasBack {
+		return "Front", "Back", nil
+	}
+	// Fall back to the first two fields in order.
+	return fields[0], fields[1], nil
+}
+
 // updateExisting rewrites the fields of the note that shares this Front.
-func updateExisting(url string, n ankiNote) error {
-	query := fmt.Sprintf(`deck:"%s" "Front:%s"`, n.DeckName, escapeQuery(n.Fields["Front"]))
+func updateExisting(url string, n ankiNote, frontField string) error {
+	query := fmt.Sprintf(`deck:"%s" "%s:%s"`, n.DeckName, frontField, escapeQuery(n.Fields[frontField]))
 	var found []int64
 	if err := ankiCall(url, "findNotes", map[string]any{"query": query}, &found); err != nil {
 		return err
