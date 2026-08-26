@@ -94,23 +94,17 @@ For example:
 
 For `n` elements:
 
-[  
-n!  
-]
+[  n!  ]
 
 possibilities.
 
 For `n = 10`:
 
-[  
-10! = 3,628,800  
-]
+[  10! = 3,628,800  ]
 
 For `n = 20`:
 
-[  
-20! \approx 2.43 \times 10^{18}  
-]
+[  20! > 2.43 times 10^18  ]
 
 We cannot blindly enumerate every possibility efficiently.
 
