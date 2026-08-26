@@ -94,17 +94,17 @@ For example:
 
 For `n` elements:
 
-[  n!  ]
+  n!  
 
 possibilities.
 
 For `n = 10`:
 
-[  10! = 3,628,800  ]
+ 10! = 3,628,800  ]
 
 For `n = 20`:
 
-[  20! > 2.43 times 10^18  ]
+20! > 2.43 times 10^18  ]
 
 We cannot blindly enumerate every possibility efficiently.
 
@@ -728,9 +728,7 @@ Backtracking is often exponential.
 
 If every state has `b` choices and maximum depth is `d`:
 
-[  
-O(b^d)  
-]
+ O(b^d)  ]
 
 For example, generating all subsets:
 
@@ -742,13 +740,10 @@ Each element:
 
 Therefore:
 
-[  
-O(2^n)  
-]
+ O(2^n)  
 
 Permutations:
 
-[  
 O(n!)  
 ]
 
@@ -1229,7 +1224,6 @@ It is **search-space engineering**.
 
 Suppose the theoretical search space is:
 
-[  
 10^{15}  
 ]
 
