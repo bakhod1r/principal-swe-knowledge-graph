@@ -141,7 +141,7 @@ func (c *Client) EnsureModel(model string) (Fields, error) {
 		if err := c.createModel(model); err != nil {
 			return Fields{}, err
 		}
-		fmt.Printf("🆕 Created note type %q\n", model)
+		fmt.Fprintf(out, "🆕 Created note type %q\n", model)
 		return Fields{Front: "Front", Back: "Back"}, nil
 	}
 
@@ -218,10 +218,12 @@ func ownedTemplate(templates map[string]map[string]string, fields []string) (str
 	if len(fields) != 2 || len(templates) != 1 {
 		return "", false
 	}
-	for name := range templates {
-		return name, true
+
+	name := ""
+	for only := range templates {
+		name = only
 	}
-	return "", false
+	return name, true
 }
 
 func contains(list []string, want string) bool {

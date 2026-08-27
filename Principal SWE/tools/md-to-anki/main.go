@@ -21,6 +21,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io"
 	"os"
 	"path/filepath"
 	"strings"
@@ -38,52 +39,70 @@ type options struct {
 	targets []string
 }
 
-func main() {
-	opts := parseFlags()
+// out is where the run report is written; tests redirect it.
+var out io.Writer = os.Stdout
 
-	cards, files, err := buildCards(opts)
+const usage = "usage: md-to-anki <file.md|dir> [--deck D] [--model M] [--tags a,b] [--dry-run] [--json] [--html F] [--update]"
+
+func main() {
+	opts, err := parseFlags(os.Args[1:])
 	if err != nil {
 		fatal(err)
 	}
-
-	fmt.Printf("\n📚 md-to-anki\n")
-	fmt.Printf("───────────────────────────────────────────────\n")
-	fmt.Printf("Files: %d   Cards: %d   Model: %s\n\n", len(files), len(cards), opts.model)
-
-	if opts.htmlOut != "" {
-		if err := WritePreviewHTML(opts.htmlOut, cards, opts.model); err != nil {
-			fatal(err)
-		}
-		fmt.Printf("🖼️  Preview written to %s\n\n", opts.htmlOut)
-		return
-	}
-	if opts.dryRun {
-		preview(cards, opts)
-		return
-	}
-	if err := importCards(cards, opts); err != nil {
+	if err := run(opts); err != nil {
 		fatal(err)
+	}
+}
+
+// run performs the whole job: parse the notes, then preview or import them.
+func run(opts options) error {
+	cards, files, err := buildCards(opts)
+	if err != nil {
+		return err
+	}
+
+	fmt.Fprintf(out, "\n📚 md-to-anki\n")
+	fmt.Fprintf(out, "───────────────────────────────────────────────\n")
+	fmt.Fprintf(out, "Files: %d   Cards: %d   Model: %s\n\n", len(files), len(cards), opts.model)
+
+	switch {
+	case opts.htmlOut != "":
+		if err := WritePreviewHTML(opts.htmlOut, cards, opts.model); err != nil {
+			return err
+		}
+		fmt.Fprintf(out, "🖼️  Preview written to %s\n\n", opts.htmlOut)
+		return nil
+
+	case opts.dryRun:
+		preview(cards, opts)
+		return nil
+
+	default:
+		return importCards(cards, opts)
 	}
 }
 
 // ─── command line ───
 
-func parseFlags() options {
-	var (
-		deck   = flag.String("deck", "", "target deck (default: mirrored from the note's folder path)")
-		model  = flag.String("model", "Principal SWE", "Anki note type (created automatically when missing)")
-		tagCSV = flag.String("tags", "", "extra comma-separated tags")
-		url    = flag.String("url", "http://127.0.0.1:8765", "AnkiConnect endpoint")
-		dryRun = flag.Bool("dry-run", false, "print the cards instead of sending them")
-		asJSON = flag.Bool("json", false, "with --dry-run, dump the AnkiConnect request payload")
-		update = flag.Bool("update", false, "refresh notes that already exist instead of skipping them")
-		htmlP  = flag.String("html", "", "write a browser preview of the cards to this file instead of importing")
-	)
-	flag.CommandLine.Parse(flagsFirst(os.Args[1:]))
+func parseFlags(argv []string) (options, error) {
+	fs := flag.NewFlagSet("md-to-anki", flag.ContinueOnError)
+	fs.SetOutput(os.Stderr)
 
-	if flag.NArg() < 1 {
-		fmt.Fprintln(os.Stderr, "usage: md-to-anki <file.md|dir> [--deck D] [--model M] [--tags a,b] [--dry-run] [--json] [--update]")
-		os.Exit(1)
+	var (
+		deck   = fs.String("deck", "", "target deck (default: mirrored from the note's folder path)")
+		model  = fs.String("model", "Principal SWE", "Anki note type (created automatically when missing)")
+		tagCSV = fs.String("tags", "", "extra comma-separated tags")
+		url    = fs.String("url", "http://127.0.0.1:8765", "AnkiConnect endpoint")
+		dryRun = fs.Bool("dry-run", false, "print the cards instead of sending them")
+		asJSON = fs.Bool("json", false, "with --dry-run, dump the AnkiConnect request payload")
+		update = fs.Bool("update", false, "refresh notes that already exist instead of skipping them")
+		htmlP  = fs.String("html", "", "write a browser preview of the cards to this file instead of importing")
+	)
+	if err := fs.Parse(flagsFirst(argv)); err != nil {
+		return options{}, err
+	}
+	if fs.NArg() < 1 {
+		return options{}, fmt.Errorf(usage)
 	}
 
 	var tags []string
@@ -102,8 +121,8 @@ func parseFlags() options {
 		asJSON:  *asJSON,
 		update:  *update,
 		htmlOut: *htmlP,
-		targets: flag.Args(),
-	}
+		targets: fs.Args(),
+	}, nil
 }
 
 // flagsFirst moves flags ahead of positional arguments so the file or directory
@@ -258,23 +277,23 @@ func listNewNotes(cards []Card, newCards []int) {
 		counts[src]++
 	}
 
-	fmt.Printf("🆕 New notes: %d\n", len(order))
+	fmt.Fprintf(out, "🆕 New notes: %d\n", len(order))
 	for _, src := range order {
-		fmt.Printf("   %-4d %s\n", counts[src], filepath.Base(src))
+		fmt.Fprintf(out, "   %-4d %s\n", counts[src], filepath.Base(src))
 	}
-	fmt.Println()
+	fmt.Fprintln(out)
 }
 
 func report(added, existing int, updated bool) {
-	fmt.Printf("✅ Added: %d\n", added)
+	fmt.Fprintf(out, "✅ Added: %d\n", added)
 	switch {
 	case existing == 0:
 	case updated:
-		fmt.Printf("♻️  Updated (already existed): %d\n", existing)
+		fmt.Fprintf(out, "♻️  Updated (already existed): %d\n", existing)
 	default:
-		fmt.Printf("⏭️  Already in Anki, skipped: %d  (use --update to refresh them)\n", existing)
+		fmt.Fprintf(out, "⏭️  Already in Anki, skipped: %d  (use --update to refresh them)\n", existing)
 	}
-	fmt.Println()
+	fmt.Fprintln(out)
 }
 
 func deckNames(cards []Card) []string {
@@ -295,20 +314,23 @@ func preview(cards []Card, opts options) {
 			Version: 6,
 			Params:  map[string]any{"notes": notes},
 		}, "", "  ")
-		fmt.Println(string(payload))
+		fmt.Fprintln(out, string(payload))
 		return
 	}
 
 	for i, c := range cards {
-		fmt.Printf("── Card %d ──────────────────────────────────\n", i+1)
-		fmt.Printf("Deck : %s\n", c.Deck)
-		fmt.Printf("Tags : %s\n", strings.Join(c.Tags, ", "))
-		fmt.Printf("Front: %s\n", c.Front)
-		fmt.Printf("Back :\n%s\n\n", c.Back)
+		fmt.Fprintf(out, "── Card %d ──────────────────────────────────\n", i+1)
+		fmt.Fprintf(out, "Deck : %s\n", c.Deck)
+		fmt.Fprintf(out, "Tags : %s\n", strings.Join(c.Tags, ", "))
+		fmt.Fprintf(out, "Front: %s\n", c.Front)
+		fmt.Fprintf(out, "Back :\n%s\n\n", c.Back)
 	}
 }
 
+// exit is os.Exit in production; tests replace it.
+var exit = os.Exit
+
 func fatal(err error) {
 	fmt.Fprintf(os.Stderr, "❌ %v\n", err)
-	os.Exit(1)
+	exit(1)
 }

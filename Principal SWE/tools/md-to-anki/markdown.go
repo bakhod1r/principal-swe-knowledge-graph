@@ -271,7 +271,7 @@ func (r *htmlRenderer) toggleFence(line string) {
 
 func (r *htmlRenderer) codeLine(line string) {
 	// Drop a blank line right after the opening fence.
-	if strings.TrimSpace(line) == "" && strings.Contains(r.last(), "<pre><code") {
+	if strings.TrimSpace(line) == "" && strings.Contains(r.lastWritten(), "<pre><code") {
 		return
 	}
 	r.write(html.EscapeString(line))
@@ -301,7 +301,8 @@ func (r *htmlRenderer) done() string {
 
 func (r *htmlRenderer) write(s string) { r.out = append(r.out, s) }
 
-func (r *htmlRenderer) last() string {
+// lastWritten is the most recent line of output, or "" when nothing was written.
+func (r *htmlRenderer) lastWritten() string {
 	if len(r.out) == 0 {
 		return ""
 	}

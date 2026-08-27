@@ -48,6 +48,7 @@ help: ## Show help
 	@echo "  make anki-html    NOTE=<md>  Browser preview"
 	@echo "  make anki-json    NOTE=<md>  Dump the AnkiConnect payload"
 	@echo "  make anki-test               Run the unit tests"
+	@echo "  make anki-cover              Tests + coverage summary"
 	@echo "  (NOTE defaults to the whole vault; optional: DECK=\"Name\" TAGS=\"a,b\")"
 	@echo ""
 	@echo "Examples:"
@@ -89,7 +90,7 @@ clean: ## Remove the binaries
 # the whole collection, so a re-run only picks up what is new.
 # ─────────────────────────────────────────────────
 
-.PHONY: anki-build anki-test anki-sync anki anki-preview anki-html anki-json anki-update anki-check
+.PHONY: anki-build anki-test anki-cover anki-sync anki anki-preview anki-html anki-json anki-update anki-check
 
 anki-build: ## Build the md-to-anki binary
 	@cd $(ANKI_SRC_DIR) && go build -buildvcs=false -o ../$(ANKI_BINARY) .
@@ -103,6 +104,10 @@ NOTE ?= ..
 
 anki-test: ## Run the md-to-anki unit tests
 	@cd $(ANKI_SRC_DIR) && go test ./...
+
+anki-cover: ## Run the tests and report coverage per function
+	@cd $(ANKI_SRC_DIR) && go test -coverprofile=/tmp/md2anki.cover ./... \
+		&& go tool cover -func=/tmp/md2anki.cover | tail -1
 
 anki-sync: anki-build anki-check ## Import every note that is not in Anki yet
 	@./$(ANKI_BINARY) "$(NOTE)" $(ANKI_FLAGS)
