@@ -100,11 +100,11 @@ possibilities.
 
 For `n = 10`:
 
- 10! = 3,628,800  ]
+ 10! = 3,628,800 
 
 For `n = 20`:
 
-20! > 2.43 times 10^18  ]
+20! > 2.43 times 10^18 
 
 We cannot blindly enumerate every possibility efficiently.
 
@@ -728,7 +728,7 @@ Backtracking is often exponential.
 
 If every state has `b` choices and maximum depth is `d`:
 
- O(b^d)  ]
+ O(b^d) 
 
 For example, generating all subsets:
 
@@ -745,7 +745,6 @@ Therefore:
 Permutations:
 
 O(n!)  
-]
 
 N-Queens has a large combinatorial search space and is commonly described with exponential/factorial-style upper bounds depending on the formulation and pruning.
 
@@ -1225,7 +1224,6 @@ It is **search-space engineering**.
 Suppose the theoretical search space is:
 
 10^{15}  
-]
 
 You cannot make that fast simply by writing cleaner recursion.
 
@@ -1310,7 +1308,7 @@ The canonical mental equation is:
 
 And the most important implementation invariant is:
 
-`apply(choice)-> recurse-> undo(choice)`
+`apply(choice) -> recurse -> undo(choice)`
 
 
 That invariant is the foundation for solving **permutations, combinations, subsets, N-Queens, Sudoku, graph coloring, maze problems, constraint satisfaction**, and many other combinatorial search problems.
