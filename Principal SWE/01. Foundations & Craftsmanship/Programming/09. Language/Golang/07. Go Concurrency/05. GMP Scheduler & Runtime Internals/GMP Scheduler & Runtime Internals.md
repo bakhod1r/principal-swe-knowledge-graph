@@ -9,12 +9,15 @@ parent: "[[Go Concurrency]]"
 
 # GMP Scheduler & Runtime Internals
 
-GMP architecture, local/global runqueues, work stealing, sysmon, signal preemption (SIGURG), and CFS quotas.
+GMP architecture, core runtime structs (G, M, P, Sched), local/global runqueues, work stealing, sysmon, signal preemption (SIGURG), and CFS quotas.
 
 ```text
 GMP Scheduler & Runtime Internals
 │
 ├── [[GMP Model (G, M, P, Sched Structs)]]
+│   ├── [[G Struct (Goroutine Internals)]]
+│   ├── [[M Struct (Machine OS Thread Internals)]]
+│   └── [[P Struct (Processor Context Internals)]]
 ├── [[Runqueue Architecture (Local vs Global)]]
 ├── [[Work Stealing Algorithm]]
 ├── [[Netpoller (epoll, kqueue, IOCP) Integration]]
@@ -29,7 +32,10 @@ GMP Scheduler & Runtime Internals
 
 ## 🗂️ Topics
 
-- [[GMP Model (G, M, P, Sched Structs)]] — Goroutines (G), OS Threads (M), Logical Processors (P), and global scheduler state.
+- [[GMP Model (G, M, P, Sched Structs)]] — High-level GMP architecture overview and global scheduler state (`schedt`).
+- [[G Struct (Goroutine Internals)]] — Goroutine runtime struct (`g`), stack bounds (`stackguard0`), `g0`/`gsignal`, and context switching (`mcall`/`gogo`).
+- [[M Struct (Machine OS Thread Internals)]] — OS kernel thread abstraction (`m`), spinning threads (`nmspinning`), parking (`notesleep`), and `LockOSThread`.
+- [[P Struct (Processor Context Internals)]] — Logical processor (`p`), 256-slot ring buffer local runqueue, `runnext`, `mcache` allocation, and timer management.
 - [[Runqueue Architecture (Local vs Global)]] — 256-element lock-free local runqueue per P and mutex-guarded global runqueue.
 - [[Work Stealing Algorithm]] — Checking local queue, 1/61 global check, netpoller check, and stealing half from random P.
 - [[Netpoller (epoll, kqueue, IOCP) Integration]] — Asynchronous non-blocking I/O event loop integrated directly with scheduler parking.
@@ -42,5 +48,4 @@ GMP Scheduler & Runtime Internals
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Concurrency & Synchronization`
-
+- ⬆️ Parent: [[Go Concurrency]]
