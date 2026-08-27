@@ -16,7 +16,6 @@ To understand goroutines at a **runtime level**, first separate two concepts:
 - **OS thread (`M`)** — actual operating-system thread that executes Go code.
     
 - **Processor (`P`)** — runtime resource required for a goroutine to execute Go code.
-    
 
 A goroutine can move between several runtime states as the scheduler manages it.
 
