@@ -22,6 +22,7 @@ import (
 	"flag"
 	"fmt"
 	"os"
+	"path/filepath"
 	"strings"
 )
 
@@ -139,16 +140,30 @@ func buildCards(opts options) (cards []Card, files []string, err error) {
 		return nil, nil, fmt.Errorf("no .md files found")
 	}
 
+	seen := map[string]string{} // front → note it first came from
+
 	for _, file := range files {
 		deck := opts.deck
 		if deck == "" {
 			deck = DeckFromPath(file)
 		}
-		c, err := ParseNote(file, deck, opts.tags)
+		parsed, err := ParseNote(file, deck, opts.tags)
 		if err != nil {
 			return nil, nil, err
 		}
-		cards = append(cards, c...)
+
+		// Two notes can carry the same title and section heading. AnkiConnect
+		// only checks a new card against the collection, not against the rest
+		// of the batch, so identical fronts are dropped here.
+		for _, c := range parsed {
+			if first, dup := seen[c.Front]; dup {
+				fmt.Fprintf(os.Stderr, "⚠️  duplicate card %q in %s (already in %s) — skipped\n",
+					c.Front, filepath.Base(file), filepath.Base(first))
+				continue
+			}
+			seen[c.Front] = file
+			cards = append(cards, c)
+		}
 	}
 	return cards, files, nil
 }
@@ -163,9 +178,11 @@ func notesFor(cards []Card, model string, fields Fields) []Note {
 			Fields:    map[string]string{fields.Front: c.Front, fields.Back: c.Back},
 			Tags:      c.Tags,
 			Options: map[string]any{
-				"allowDuplicate":        false,
-				"duplicateScope":        "deck",
-				"duplicateScopeOptions": map[string]any{"checkChildren": false},
+				// A card is a duplicate anywhere in the collection, not just
+				// inside its own deck — moving or renaming a deck must never
+				// let the same question come back twice.
+				"allowDuplicate": false,
+				"duplicateScope": "collection",
 			},
 		})
 	}
@@ -197,10 +214,11 @@ func importCards(cards []Card, opts options) error {
 	}
 
 	var fresh []Note
-	var existing []int
+	var newCards, existing []int
 	for i, ok := range addable {
 		if ok {
 			fresh = append(fresh, notes[i])
+			newCards = append(newCards, i)
 		} else {
 			existing = append(existing, i)
 		}
@@ -219,8 +237,32 @@ func importCards(cards []Card, opts options) error {
 		}
 	}
 
+	listNewNotes(cards, newCards)
 	report(added, len(existing), opts.update)
 	return nil
+}
+
+// listNewNotes shows which notes contributed cards that were not in Anki yet.
+func listNewNotes(cards []Card, newCards []int) {
+	if len(newCards) == 0 {
+		return
+	}
+
+	counts := map[string]int{}
+	var order []string
+	for _, i := range newCards {
+		src := cards[i].Source
+		if counts[src] == 0 {
+			order = append(order, src)
+		}
+		counts[src]++
+	}
+
+	fmt.Printf("🆕 New notes: %d\n", len(order))
+	for _, src := range order {
+		fmt.Printf("   %-4d %s\n", counts[src], filepath.Base(src))
+	}
+	fmt.Println()
 }
 
 func report(added, existing int, updated bool) {
@@ -230,7 +272,7 @@ func report(added, existing int, updated bool) {
 	case updated:
 		fmt.Printf("♻️  Updated (already existed): %d\n", existing)
 	default:
-		fmt.Printf("⏭️  Skipped duplicates: %d  (use --update to refresh them)\n", existing)
+		fmt.Printf("⏭️  Already in Anki, skipped: %d  (use --update to refresh them)\n", existing)
 	}
 	fmt.Println()
 }
