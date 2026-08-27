@@ -1,0 +1,9 @@
+{
+  "id": "md-to-anki",
+  "name": "md-to-anki",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Send the current note to Anki as one card per numbered heading, via the md2anki binary and AnkiConnect.",
+  "author": "mrb",
+  "isDesktopOnly": true
+}
