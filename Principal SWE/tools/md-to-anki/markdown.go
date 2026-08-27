@@ -77,6 +77,12 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 				heading = number + ". " + text
 				continue
 			}
+			// Navigation sections (References, See also, …) carry no content
+			// worth reviewing — end the card here.
+			if isSkippedHeading(line) {
+				flush()
+				continue
+			}
 		}
 		if heading != "" {
 			section = append(section, line)
@@ -98,6 +104,38 @@ func numberedHeading(line string) (number, text string, ok bool) {
 		return "", "", false
 	}
 	return n[1], strings.TrimSpace(n[2]), true
+}
+
+// skippedHeadings are section titles that only link elsewhere in the vault.
+// Their body never becomes part of a card.
+var skippedHeadings = []string{
+	"references", "reference", "see also", "related", "related notes",
+	"links", "sources", "further reading", "backlinks",
+}
+
+// isSkippedHeading reports whether the line opens a navigation-only section,
+// ignoring any leading emoji or decoration in the title.
+func isSkippedHeading(line string) bool {
+	h := headingRe.FindStringSubmatch(line)
+	if h == nil {
+		return false
+	}
+
+	title := strings.ToLower(strings.TrimSpace(h[2]))
+	title = strings.Map(func(r rune) rune {
+		if r > 127 { // drop emoji and other decoration
+			return -1
+		}
+		return r
+	}, title)
+	title = strings.TrimSpace(strings.Trim(title, ":*_ "))
+
+	for _, skip := range skippedHeadings {
+		if title == skip {
+			return true
+		}
+	}
+	return false
 }
 
 // ─── frontmatter ───
