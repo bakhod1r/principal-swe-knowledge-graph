@@ -14,6 +14,7 @@
 //	--dry-run print the cards instead of sending them
 //	--json    with --dry-run, dump the AnkiConnect request payload
 //	--update  refresh notes that already exist instead of skipping them
+//	--html F  write a browser preview of the cards to F instead of importing
 package main
 
 import (
@@ -32,6 +33,7 @@ type options struct {
 	dryRun  bool
 	asJSON  bool
 	update  bool
+	htmlOut string
 	targets []string
 }
 
@@ -47,6 +49,13 @@ func main() {
 	fmt.Printf("───────────────────────────────────────────────\n")
 	fmt.Printf("Files: %d   Cards: %d   Model: %s\n\n", len(files), len(cards), opts.model)
 
+	if opts.htmlOut != "" {
+		if err := WritePreviewHTML(opts.htmlOut, cards, opts.model); err != nil {
+			fatal(err)
+		}
+		fmt.Printf("🖼️  Preview written to %s\n\n", opts.htmlOut)
+		return
+	}
 	if opts.dryRun {
 		preview(cards, opts)
 		return
@@ -67,6 +76,7 @@ func parseFlags() options {
 		dryRun = flag.Bool("dry-run", false, "print the cards instead of sending them")
 		asJSON = flag.Bool("json", false, "with --dry-run, dump the AnkiConnect request payload")
 		update = flag.Bool("update", false, "refresh notes that already exist instead of skipping them")
+		htmlP  = flag.String("html", "", "write a browser preview of the cards to this file instead of importing")
 	)
 	flag.CommandLine.Parse(flagsFirst(os.Args[1:]))
 
@@ -90,6 +100,7 @@ func parseFlags() options {
 		dryRun:  *dryRun,
 		asJSON:  *asJSON,
 		update:  *update,
+		htmlOut: *htmlP,
 		targets: flag.Args(),
 	}
 }
@@ -97,7 +108,7 @@ func parseFlags() options {
 // flagsFirst moves flags ahead of positional arguments so the file or directory
 // may appear anywhere — Go's flag package stops parsing at the first positional.
 func flagsFirst(args []string) []string {
-	takesValue := map[string]bool{"deck": true, "model": true, "tags": true, "url": true}
+	takesValue := map[string]bool{"deck": true, "model": true, "tags": true, "url": true, "html": true}
 
 	var flags, positional []string
 	for i := 0; i < len(args); i++ {
