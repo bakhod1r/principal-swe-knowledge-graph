@@ -8,84 +8,99 @@ tags:
   - principal-swe
 parent: "[[Target OS & Architecture]]"
 ---
-# WebAssembly Targets: `GOOS=js` vs `GOOS=wasip1`
+# WebAssembly Targets (`GOOS=js` vs `GOOS=wasip1`) in Go
 
-Go’da WebAssembly uchun **ikkita muhim target** mavjud:
+Go supports WebAssembly (`wasm`) as a compilation target, but there are **two fundamentally different execution environments**:
 
-```bash
-GOOS=js      GOARCH=wasm
-GOOS=wasip1  GOARCH=wasm
-```
+- `GOOS=js GOARCH=wasm` — WebAssembly running through a **JavaScript host**, typically a browser or Node.js.
+    
+- `GOOS=wasip1 GOARCH=wasm` — WebAssembly targeting **WASI Preview 1**, designed for non-browser WASM runtimes.
+    
 
-Ikkalasi ham `.wasm` binary yaratadi, lekin **host environment va system interface butunlay boshqacha**. `js` browser/JavaScript execution modeliga, `wasip1` esa WASI Preview 1 syscall modeliga mo‘ljallangan. `wasip1` Go 1.21’da qo‘shilgan. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
+The important mental model is:
+
+> **`GOARCH=wasm` describes the CPU/ISA target. `GOOS` describes the operating-system/host environment and therefore the available runtime APIs.**
 
 ---
 
-## 1. Mental Model
+## 1. Why Does Go Have Two WASM Targets?
 
-Eng muhim farq:
+WebAssembly itself does not provide things such as:
+
+- files
+    
+- sockets
+    
+- environment variables
+    
+- clocks
+    
+- processes
+    
+- JavaScript APIs
+    
+
+Those capabilities come from the **host environment**.
+
+Go therefore needs to know what kind of host its WebAssembly program will run in.
 
 ```text
-                    Go source code
-                          │
-                          ▼
-                    GOARCH=wasm
-                          │
-             ┌────────────┴────────────┐
-             │                         │
-         GOOS=js                  GOOS=wasip1
-             │                         │
-             ▼                         ▼
-      JavaScript host              WASI host
-             │                         │
-       Browser / Node.js      Wasmtime / Wazero /
-                              WasmEdge / Wasmer / Node
+                    Go source
+                       │
+                       ▼
+                GOARCH=wasm
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+        GOOS=js             GOOS=wasip1
+             │                   │
+             ▼                   ▼
+      JavaScript host        WASI host
+      Browser / Node         Wasmtime / Wasmer /
+                             WasmEdge / etc.
 ```
 
-Ya'ni:
+So these are **not merely two ways of compiling the same WASM binary**.
 
-> **`GOARCH=wasm` — instruction architecture.**  
-> **`GOOS` — Go program qanday host/system API bilan gaplashishini belgilaydi.**
-
-Go toolchain `wasm`ni `GOARCH`, `js` yoki `wasip1`ni esa `GOOS` sifatida ko‘radi. ([Go.dev](https://go.dev/doc/install/source?utm_source=chatgpt.com "Installing Go from source - The Go Programming Language"))
+They target different host APIs and runtime assumptions.
 
 ---
 
-# 2. `GOOS=js`
+# 2. `GOOS=js GOARCH=wasm`
+
+This target is designed for environments where **JavaScript is the host integration layer**.
+
+Build:
 
 ```bash
-GOOS=js GOARCH=wasm go build -o main.wasm
+GOOS=js GOARCH=wasm go build -o main.wasm .
 ```
 
-Bu Go'ning original WebAssembly targetidir.
+The resulting program normally requires Go's JavaScript WebAssembly runtime support.
 
-Go 1.11'dan mavjud va asosiy maqsadi:
-
-> **WebAssembly module → JavaScript runtime → Browser**
-
-Go program JavaScript bilan `syscall/js` orqali interoperate qiladi. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
-
-### Architecture
+A common browser setup looks conceptually like:
 
 ```text
 Browser
-│
-├── JavaScript
-│   │
-│   ├── DOM
-│   ├── fetch()
-│   ├── Web APIs
-│   └── events
-│
-└── Go WASM
-    │
-    ├── Go runtime
-    ├── goroutines
-    ├── GC
-    └── syscall/js
+ ├── JavaScript
+ │    └── Go WASM runtime / wasm_exec.js
+ │          └── main.wasm
+ │
+ └── Web APIs
+      ├── DOM
+      ├── fetch
+      ├── WebSocket
+      ├── localStorage
+      └── etc.
 ```
 
-Masalan:
+Go exposes JavaScript interoperability through:
+
+```go
+import "syscall/js"
+```
+
+For example:
 
 ```go
 package main
@@ -96,76 +111,160 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello from Go")
+	fmt.Println("Hello from Go WASM")
 
-	document := js.Global().Get("document")
-	body := document.Get("body")
-
-	body.Set("innerText", "Hello from Go WASM!")
-
-	select {}
+	window := js.Global()
+	fmt.Println(window.Get("location"))
 }
 ```
 
-Bu yerda:
+This is fundamentally different from ordinary Go code running on Linux.
 
-```go
-js.Global()
-```
-
-orqali Go JavaScript global environment bilan gaplashmoqda.
-
-Shuning uchun `js/wasm`:
-
-- browser UI
-    
-- DOM
-    
-- JavaScript APIs
-    
-- browser events
-    
-- Web APIs
-    
-
-uchun tabiiy target.
+The Go program is interacting with **JavaScript objects**, not directly with browser APIs.
 
 ---
 
-# 3. `GOOS=wasip1`
+# 3. `GOOS=wasip1 GOARCH=wasm`
+
+`wasip1` targets **WASI Preview 1**.
+
+Build:
 
 ```bash
-GOOS=wasip1 GOARCH=wasm go build -o main.wasm
+GOOS=wasip1 GOARCH=wasm go build -o main.wasm .
 ```
 
-Bu esa browserga bog‘liq emas.
-
-WASI — **WebAssembly System Interface**.
-
-Mental model:
+The execution model becomes:
 
 ```text
-Go program
+WASI Runtime
     │
-    ▼
-Wasm module
-    │
-    ▼
-WASI imports
-    │
-    ▼
-Wasm runtime
-    │
-    ├── filesystem
-    ├── clock
-    ├── random
+    ├── stdin
     ├── stdout
-    └── other host capabilities
+    ├── filesystem capabilities
+    ├── environment
+    ├── clocks
+    └── other WASI APIs
+         │
+         ▼
+      Go WASM
 ```
 
-Go `wasip1` targeti **WASI Preview 1 (`wasi_snapshot_preview1`)** API'ga target qiladi. Go 1.21 bu targetni qo‘shgan. ([Go.dev](https://go.dev/blog/wasi?utm_source=chatgpt.com "WASI support in Go - The Go Programming Language"))
+Instead of relying on JavaScript, the program interacts with the **WASI environment**.
 
-Masalan:
+This makes `wasip1` much more appropriate for server-side or sandboxed WebAssembly runtimes.
+
+Examples include runtimes such as:
+
+- Wasmtime
+    
+- Wasmer
+    
+- WasmEdge
+    
+
+The exact capabilities depend on the runtime and how it configures WASI.
+
+---
+
+# 4. The Most Important Difference
+
+A useful comparison:
+
+||`js/wasm`|`wasip1/wasm`|
+|---|---|---|
+|Host|JavaScript|WASI|
+|Browser|Yes|Generally not the primary target|
+|Node.js|Yes|No JavaScript dependency required|
+|Wasmtime|Not the intended model|Yes|
+|JavaScript interop|`syscall/js`|No|
+|DOM|Via JS/browser|No|
+|WASI APIs|Not the primary interface|Yes|
+|Server-side WASM|Possible|Natural fit|
+|CLI-style WASM|Awkward|Better fit|
+|Browser UI|Natural fit|Not the target|
+
+The key distinction is:
+
+```text
+js/wasm
+
+Go
+ ↓
+JavaScript host
+ ↓
+Browser / Node APIs
+```
+
+versus:
+
+```text
+wasip1/wasm
+
+Go
+ ↓
+WASI
+ ↓
+WASM runtime
+```
+
+---
+
+# 5. Why `GOOS` Matters
+
+This is an important Go cross-compilation mental model.
+
+You might normally think:
+
+```bash
+GOOS=linux GOARCH=amd64
+```
+
+means:
+
+> Compile for x86-64 Linux.
+
+Similarly:
+
+```bash
+GOOS=windows GOARCH=amd64
+```
+
+means:
+
+> Compile for x86-64 Windows.
+
+For WebAssembly:
+
+```bash
+GOOS=js GOARCH=wasm
+```
+
+means:
+
+> Compile WebAssembly assuming a JavaScript-based host environment.
+
+While:
+
+```bash
+GOOS=wasip1 GOARCH=wasm
+```
+
+means:
+
+> Compile WebAssembly assuming a WASI Preview 1 host environment.
+
+So `GOOS` isn't literally saying that WebAssembly **is an operating system**.
+
+It selects the **host/OS abstraction expected by the Go runtime**.
+
+---
+
+# 6. APIs Available to Your Program
+
+This is where the difference becomes practical.
+
+Consider:
 
 ```go
 package main
@@ -176,561 +275,762 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello WASI")
-
-	data, err := os.ReadFile("/config.txt")
+	data, err := os.ReadFile("config.txt")
 	if err != nil {
-		fmt.Println(err)
-		return
+		panic(err)
 	}
 
 	fmt.Println(string(data))
 }
 ```
 
-Bu yerda Go filesystem API ishlatmoqda.
+Whether this works depends heavily on the target.
 
-Lekin muhim nuance:
-
-```text
-WASI filesystem
-        ≠
-"host filesystem automatically available"
-```
-
-Host runtime filesystemni **explicitly expose** qilishi kerak.
-
-Masalan Wasmtime'da:
+With:
 
 ```bash
-wasmtime run \
-  --env PWD=/ \
-  --dir .::/ \
-  main.wasm
+GOOS=wasip1 GOARCH=wasm
 ```
 
-Go documentation ham WASI runtime'da filesystem preopen/mapping konfiguratsiyasiga e'tibor berishni talab qiladi. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
+filesystem operations can be provided through WASI, assuming the runtime grants the necessary filesystem capabilities.
 
----
-
-# 4. Eng muhim farq
-
-||`js/wasm`|`wasip1/wasm`|
-|---|---|---|
-|`GOOS`|`js`|`wasip1`|
-|`GOARCH`|`wasm`|`wasm`|
-|Primary host|Browser / JS|WASI runtime|
-|JavaScript|**Native integration**|Optional/host-dependent|
-|DOM|✅|❌|
-|`syscall/js`|✅|❌|
-|Filesystem|Browser/JS model|WASI|
-|stdout/stderr|JS environment|WASI|
-|Server-side Wasm|Possible, less natural|**Natural**|
-|Browser frontend|**Excellent fit**|Poor fit|
-|Sandboxed compute|Good|**Excellent fit**|
-|Wasmtime|Not the primary model|✅|
-|Wazero|Not the primary model|✅|
-|Node.js|✅|✅|
-|Cloud/server Wasm|Possible|**Typical use case**|
-
-WASI hostlar qatoriga Wasmtime, Wazero, WasmEdge, Wasmer va Node.js kiradi. ([Go.dev](https://go.dev/blog/wasi?utm_source=chatgpt.com "WASI support in Go - The Go Programming Language"))
-
----
-
-# 5. Why `GOOS` matters
-
-Bu oddiy naming emas.
-
-Masalan:
-
-```go
-// file.go
-
-func Load() {
-	// ...
-}
-```
-
-platform-specific implementation:
+For example, a WASI runtime can conceptually run:
 
 ```text
-config_js.go
-config_wasip1.go
-config_linux.go
+main.wasm
+   │
+   └── open("config.txt")
+          │
+          ▼
+        WASI
+          │
+          ▼
+   sandboxed filesystem
 ```
 
-Build:
+This is one of the major advantages of WASI.
+
+---
+
+# 7. JavaScript Interoperability
+
+With:
 
 ```bash
 GOOS=js GOARCH=wasm
 ```
 
-natijasida:
-
-```text
-config_js.go       included
-config_wasip1.go   excluded
-config_linux.go    excluded
-```
-
-Aksincha:
-
-```bash
-GOOS=wasip1 GOARCH=wasm
-```
-
-da:
-
-```text
-config_wasip1.go   included
-```
-
-Go 1.21 `*_wasip1.go` build constraint semanticsini ham qo‘shgan. ([Go.dev](https://go.dev/doc/go1.21?utm_source=chatgpt.com "Go 1.21 Release Notes - The Go Programming Language"))
-
-Bu architecture design'da juda foydali.
-
----
-
-# 6. Same `.wasm`, different contract
-
-Bu juda muhim mental model.
-
-Ko‘pchilik:
-
-> "Ikkalasi ham WebAssembly, demak interchangeable."
-
-deb o‘ylaydi.
-
-**Bu noto‘g‘ri.**
-
-`.wasm` faqat binary format.
-
-Real execution contract:
-
-```text
-Wasm binary
-+
-imports
-+
-exports
-+
-host capabilities
-+
-runtime semantics
-```
-
-`js/wasm`:
-
-```text
-Go
- ↓
-Go runtime
- ↓
-JavaScript imports
- ↓
-Browser / Node
-```
-
-`wasip1/wasm`:
-
-```text
-Go
- ↓
-Go runtime
- ↓
-WASI imports
- ↓
-WASI runtime
-```
-
-Shuning uchun `js` uchun build qilingan module'ni oddiy `wasmtime` executable sifatida ishlatish mumkin deb o‘ylash xato.
-
----
-
-# 7. Build examples
-
-## Browser
-
-```bash
-GOOS=js GOARCH=wasm go build -o main.wasm
-```
-
-Keyin Go distribution'dagi `wasm_exec.js` kerak bo‘ladi:
-
-```bash
-cp "$(go env GOROOT)/lib/wasm/wasm_exec.js" .
-```
-
-va JavaScript:
-
-```javascript
-const go = new Go();
-
-WebAssembly.instantiateStreaming(
-    fetch("main.wasm"),
-    go.importObject
-).then(result => {
-    go.run(result.instance);
-});
-```
-
-Go documentation `wasm_exec.js` versioni compiler version bilan mos bo‘lishi kerakligini alohida ta'kidlaydi. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
-
----
-
-## WASI
-
-```bash
-GOOS=wasip1 GOARCH=wasm go build -o main.wasm
-```
-
-Keyin:
-
-```bash
-wasmtime main.wasm
-```
-
-Oddiy program uchun shu kifoya qilishi mumkin. ([Go.dev](https://go.dev/blog/wasi?utm_source=chatgpt.com "WASI support in Go - The Go Programming Language"))
-
----
-
-# 8. `GOOS=js` qachon tanlanadi?
-
-### Browser application
-
-Masalan:
-
-```text
-Go
- ↓
-Wasm
- ↓
-Browser
- ↓
-DOM
- ↓
-User
-```
-
-Use cases:
-
-- browser-based Go application
-    
-- computational frontend
-    
-- Go-based UI logic
-    
-- WebAssembly demos
-    
-- browser-side CPU-heavy operations
-    
-
-Agar requirement:
-
-> "Go code browser ichida ishlashi va JavaScript/DOM bilan bevosita ishlashi kerak"
-
-bo‘lsa:
-
-```bash
-GOOS=js GOARCH=wasm
-```
-
----
-
-# 9. `GOOS=wasip1` qachon?
-
-Agar:
-
-> "Men portable sandboxed executable xohlayman"
-
-bo‘lsa:
-
-```bash
-GOOS=wasip1 GOARCH=wasm
-```
-
-Masalan:
-
-```text
-API Server
-    │
-    ▼
-Wasm runtime
-    │
-    ▼
-User plugin
-    │
-    ├── CPU
-    ├── limited filesystem
-    └── controlled host capabilities
-```
-
-Bu plugin architecture uchun juda qiziq.
-
-Masalan:
-
-```text
-Application
-    │
-    ├── Plugin A → plugin.wasm
-    ├── Plugin B → plugin.wasm
-    └── Plugin C → plugin.wasm
-```
-
-Host runtime plugin'ga faqat kerakli capabilities beradi.
-
-Bu:
-
-- sandboxing
-    
-- plugins
-    
-- edge computing
-    
-- serverless workloads
-    
-- portable execution
-    
-- untrusted/less-trusted code
-    
-
-uchun kuchli model.
-
----
-
-# 10. Go 1.24+ important evolution
-
-WASI faqat "`main()` run qilib exit qilish" bilan cheklanib qolmayapti.
-
-Go 1.24:
-
-```go
-//go:wasmexport add
-func add(a, b int32) int32 {
-	return a + b
-}
-```
-
-orqali host application Go functionini Wasm export sifatida chaqirishi mumkin. ([Go.dev](https://go.dev/blog/wasmexport?utm_source=chatgpt.com "Extensible Wasm Applications with Go - The Go Programming Language"))
-
-Bundan tashqari:
-
-```bash
-GOOS=wasip1 GOARCH=wasm \
-go build -buildmode=c-shared -o reactor.wasm
-```
-
-orqali **WASI reactor/library** yaratish mumkin.
-
-Mental model:
-
-### Command
-
-```text
-host
-  ↓
-_start
-  ↓
-main()
-  ↓
-exit
-```
-
-### Reactor
-
-```text
-host
-  ↓
-_initialize
-  ↓
-exported function
-  ↓
-exported function
-  ↓
-exported function
-```
-
-Bu plugin/embedded Wasm architecture uchun ancha muhim. ([Go.dev](https://go.dev/blog/wasmexport?utm_source=chatgpt.com "Extensible Wasm Applications with Go - The Go Programming Language"))
-
----
-
-# 11. Production architecture perspective
-
-Men buni quyidagicha eslab qolishni tavsiya qilaman:
-
-```text
-                 WebAssembly
-                     │
-          ┌──────────┴──────────┐
-          │                     │
-        js/wasm              wasip1/wasm
-          │                     │
-          ▼                     ▼
-   "Web platform"          "System interface"
-          │                     │
-          ▼                     ▼
- JavaScript / Browser          WASI
-          │                     │
-          ▼                     ▼
-      DOM/Web APIs        Filesystem/Clock/etc.
-```
-
-### `js`
-
-**Host = JavaScript ecosystem**
-
-### `wasip1`
-
-**Host = WASI ecosystem**
-
-Bu distinction'ni yaxshi tushunish `Wasm`ni faqat "browser technology" deb ko‘rishdan chiqaradi.
-
----
-
-# 12. Common mistakes
-
-### ❌ Mistake 1
-
-```bash
-GOOS=wasip1 GOARCH=wasm
-```
-
-ni browser target deb o‘ylash.
-
-**Noto‘g‘ri.**
-
-WASI browser API emas.
-
----
-
-### ❌ Mistake 2
+you can use:
 
 ```go
 import "syscall/js"
 ```
 
-ni `wasip1`da ishlatish.
+Example:
 
-`syscall/js` JavaScript integration uchun mo‘ljallangan.
+```go
+package main
+
+import "syscall/js"
+
+func main() {
+	console := js.Global().Get("console")
+	console.Call("log", "Hello from Go")
+}
+```
+
+This assumes a JavaScript host.
+
+You can access JavaScript globals:
+
+```go
+js.Global()
+```
+
+and call JavaScript functions:
+
+```go
+value.Call("someFunction")
+```
+
+This makes `js/wasm` particularly useful when Go is part of a browser application.
 
 ---
 
-### ❌ Mistake 3
+# 8. Browser Architecture
 
-WASI filesystem:
+A typical Go browser application looks like:
 
 ```text
-os.ReadFile("/foo")
+                    Browser
+                       │
+            ┌──────────┴──────────┐
+            │                     │
+       JavaScript              Web APIs
+            │                     │
+            │              ┌──────┼──────┐
+            │              │      │      │
+            │             DOM   fetch  WebSocket
+            │
+            ▼
+       Go WASM
+       GOOS=js
+       GOARCH=wasm
 ```
 
-qilsa, host'dagi `/foo` avtomatik mavjud deb o‘ylash.
+Go provides computation/business logic while JavaScript often acts as the bridge to browser-specific capabilities.
 
-**Noto‘g‘ri.**
+This is useful for:
 
-Host capability/preopen konfiguratsiyasi kerak. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
+- computationally heavy logic
+    
+- existing Go libraries
+    
+- parsers
+    
+- cryptographic operations
+    
+- algorithms
+    
+- simulation
+    
+- image/data processing
+    
+
+But it doesn't magically turn Go into a native browser language.
 
 ---
 
-### ❌ Mistake 4
+# 9. WASI Architecture
 
-"WebAssembly = browser"
-
-Bu eski mental model.
-
-Bugungi architecture:
+A server-side WASI application looks more like:
 
 ```text
-WebAssembly
-├── Browser
-├── WASI runtimes
-├── Edge
-├── Server
-├── Plugins
-└── Sandboxed execution
+             Host Application
+                    │
+                    ▼
+              WASM Runtime
+                    │
+             ┌──────┴──────┐
+             │             │
+            WASI       sandbox
+             │
+       ┌─────┼─────┐
+       │     │     │
+      FS    env   clocks
+       │
+       ▼
+   Go WASM module
+   GOOS=wasip1
+   GOARCH=wasm
 ```
 
-WASI aynan WebAssembly'ni browserdan tashqarida portable system interface bilan ishlatish uchun paydo bo‘lgan. ([Go.dev](https://go.dev/blog/wasi?utm_source=chatgpt.com "WASI support in Go - The Go Programming Language"))
+This architecture is attractive for:
+
+- plugins
+    
+- sandboxed execution
+    
+- server-side WASM
+    
+- untrusted workloads
+    
+- portable modules
+    
+- embedded scripting/plugin systems
+    
+- edge computing
+    
 
 ---
 
-# 13. Principal Engineer mental model
+# 10. A Critical Security Mental Model
 
-Architecture tanlashda `GOOS`dan boshlamang.
+WASI does **not** mean:
 
-Avval:
+> "WASM automatically gets access to the filesystem."
 
-```text
-Who is the host?
-        │
-        ▼
-What capabilities are needed?
-        │
-        ▼
-What security boundary is required?
-        │
-        ▼
-What API does the host expose?
-        │
-        ▼
-Which Wasm target fits?
-```
+Instead:
 
-### Browser-centric
+> **The runtime decides what capabilities the module receives.**
+
+This is capability-oriented sandboxing.
+
+Conceptually:
 
 ```text
-Need DOM / JS / browser APIs
-            ↓
-        js/wasm
+WASM module
+     │
+     ├── no filesystem capability
+     │       → cannot access files
+     │
+     ├── read-only directory
+     │       → can read only that directory
+     │
+     └── broader capability
+             → more access
 ```
 
-### Host-centric / sandboxed
+For production systems, this is extremely important.
 
-```text
-Need portable module + system capabilities
-            ↓
-        wasip1/wasm
-```
+Never reason:
 
-### Plugin-centric
+> "It's WASM, therefore it is secure."
 
-```text
-Need host ↔ module function calls
-            ↓
-WASI + wasm exports/imports
-```
+Instead reason:
+
+> "What capabilities did the host expose to this module?"
 
 ---
 
-## Final cheat sheet
+# 11. `GOOS=js` Has a Different Security Boundary
+
+In browser WASM:
 
 ```text
+Browser security model
+        +
+JavaScript security model
+        +
+WASM sandbox
+```
+
+Your Go WASM code doesn't get arbitrary OS access.
+
+For example, it cannot simply do:
+
+```go
+os.ReadFile("/etc/passwd")
+```
+
+and expect access to the host operating system.
+
+The browser controls what capabilities are exposed.
+
+---
+
+# 12. Runtime Differences
+
+One subtle but important point:
+
+**Compilation target and runtime are different concepts.**
+
+You compile:
+
+```bash
+GOOS=wasip1 GOARCH=wasm go build
+```
+
+but execution happens in a runtime such as:
+
+```text
+Wasmtime
+Wasmer
+WasmEdge
+...
+```
+
+The runtime determines many operational details.
+
+Similarly:
+
+```bash
 GOOS=js GOARCH=wasm
-        ↓
-Browser / JavaScript
-        ↓
-DOM + Web APIs + syscall/js
-
-
-GOOS=wasip1 GOARCH=wasm
-        ↓
-WASI runtime
-        ↓
-Portable sandboxed application
-        ↓
-Filesystem / clock / random / stdio / host capabilities
 ```
 
-**Eng muhim takeaway:**
+doesn't mean the `.wasm` file independently contains an entire browser.
 
-> `GOARCH=wasm` — **"qaysi instruction format?"**  
-> `GOOS=js` — **"JavaScript host bilan qanday ishlayman?"**  
-> `GOOS=wasip1` — **"WASI system interface orqali host bilan qanday ishlayman?"**
+It expects a JavaScript environment and Go's WASM runtime support.
 
-Go'ning current source/toolchain'ida `js` va `wasip1` alohida `GOOS` sifatida mavjud, ikkalasi ham `GOARCH=wasm` bilan ishlaydi. ([Go.dev](https://go.dev/doc/install/source?utm_source=chatgpt.com "Installing Go from source - The Go Programming Language"))
+---
 
-[Go WebAssembly documentation](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com) — amaliy `js/wasm` va `wasip1/wasm` ishlatish uchun asosiy reference. ([Go.dev](https://go.dev/wiki/WebAssembly?utm_source=chatgpt.com "Go Wiki: WebAssembly - The Go Programming Language"))
+# 13. `wasm_exec.js`
 
-[Go WASI support blog](https://go.dev/blog/wasi?utm_source=chatgpt.com) — WASI architecture va Go integration'ini chuqurroq tushunish uchun. ([Go.dev](https://go.dev/blog/wasi?utm_source=chatgpt.com "WASI support in Go - The Go Programming Language"))
+For the JavaScript target, Go historically provides JavaScript-side runtime support through `wasm_exec.js`.
+
+Conceptually:
+
+```text
+index.html
+    │
+    ▼
+JavaScript
+    │
+    ├── loads wasm_exec.js
+    │
+    └── loads main.wasm
+             │
+             ▼
+          Go runtime
+             │
+             ▼
+          Go code
+```
+
+The exact location/version should be taken from the installed Go distribution rather than copied blindly from an old tutorial.
+
+---
+
+# 14. Why You Should Not Choose Based on "WASM"
+
+A common beginner mistake is:
+
+> "I need WebAssembly, therefore I use `GOOS=wasm`."
+
+That's incomplete.
+
+The actual decision should be:
+
+```text
+Where will this WASM module run?
+             │
+       ┌─────┴─────┐
+       │           │
+   JS host       WASI host
+       │           │
+     js/wasm    wasip1/wasm
+```
+
+### Browser application
+
+Use:
+
+```bash
+GOOS=js GOARCH=wasm
+```
+
+### JavaScript/Node integration
+
+Usually:
+
+```bash
+GOOS=js GOARCH=wasm
+```
+
+### WASI runtime
+
+Use:
+
+```bash
+GOOS=wasip1 GOARCH=wasm
+```
+
+---
+
+# 15. Common Mistake: Treating WASI as "Browser WASM"
+
+WASI and browser APIs solve different problems.
+
+Browser:
+
+```text
+DOM
+fetch
+Web APIs
+JavaScript
+```
+
+WASI:
+
+```text
+filesystem
+stdin/stdout
+environment
+clocks
+process-like host capabilities
+```
+
+WASI is closer to:
+
+> **A standardized system interface for WebAssembly runtimes**
+
+than:
+
+> "WebAssembly for browsers."
+
+---
+
+# 16. Common Mistake: Assuming All Go Packages Work
+
+WASM is a different target.
+
+A package may depend on:
+
+- OS-specific syscalls
+    
+- unsupported filesystem behavior
+    
+- networking assumptions
+    
+- cgo
+    
+- assembly
+    
+- platform-specific runtime functionality
+    
+
+and therefore fail to build or behave differently.
+
+Before adopting a dependency, ask:
+
+```text
+Does it support GOOS=js?
+Does it support GOOS=wasip1?
+Does it require cgo?
+Does it require OS syscalls?
+Does it depend on networking?
+Does it assume a filesystem?
+```
+
+This is especially important for large Go libraries.
+
+---
+
+# 17. `cgo` Considerations
+
+WebAssembly targets have significant restrictions around cgo.
+
+A package that works perfectly on:
+
+```bash
+GOOS=linux GOARCH=amd64
+```
+
+doesn't necessarily work for:
+
+```bash
+GOOS=wasip1 GOARCH=wasm
+```
+
+or:
+
+```bash
+GOOS=js GOARCH=wasm
+```
+
+This is one reason pure-Go dependencies are often easier to port to WASM.
+
+---
+
+# 18. Networking Is Another Major Difference
+
+Do not assume:
+
+```go
+http.Get(...)
+```
+
+means exactly the same thing across:
+
+```text
+linux/amd64
+js/wasm
+wasip1/wasm
+```
+
+The underlying host capabilities and implementation differ.
+
+For browser WASM, networking is constrained by browser security policies such as:
+
+```text
+CORS
+same-origin policy
+browser networking APIs
+```
+
+For WASI, networking support historically differs substantially depending on the WASI version and runtime.
+
+This is an important reason not to design your application around assumptions such as:
+
+> "WASM is basically Linux in a smaller binary."
+
+It isn't.
+
+---
+
+# 19. Performance Mental Model
+
+WASM can provide excellent performance, but:
+
+```text
+WASM ≠ automatically faster
+```
+
+The performance depends on:
+
+- workload
+    
+- host/runtime
+    
+- boundary crossings
+    
+- memory allocation
+    
+- GC
+    
+- JavaScript ↔ WASM calls
+    
+- WASM ↔ host calls
+    
+- serialization
+    
+- data copying
+    
+
+For example:
+
+```text
+Go WASM
+   │
+   │ large computation
+   ▼
+fast
+
+Go WASM
+   │
+   │ thousands of tiny JS calls
+   ▼
+potentially expensive
+```
+
+Crossing the host boundary repeatedly can become a bottleneck.
+
+A good design often batches operations:
+
+```text
+Bad:
+
+Go → JS
+Go → JS
+Go → JS
+Go → JS
+Go → JS
+
+Better:
+
+Go ───────────────→ JS
+       batch
+```
+
+---
+
+# 20. Testing Strategy
+
+Don't test only:
+
+```bash
+go test ./...
+```
+
+and assume WASM compatibility.
+
+You should have target-specific CI.
+
+For example:
+
+```bash
+GOOS=js GOARCH=wasm go test ./...
+```
+
+and/or:
+
+```bash
+GOOS=wasip1 GOARCH=wasm go test ./...
+```
+
+depending on your application.
+
+Then perform **actual runtime tests**, because successful compilation doesn't prove host integration works.
+
+Think:
+
+```text
+Compile test
+      ↓
+Runtime test
+      ↓
+Host integration test
+      ↓
+End-to-end test
+```
+
+---
+
+# 21. Production Decision Framework
+
+Use this decision tree:
+
+```text
+                 Need WebAssembly?
+                        │
+                        ▼
+              Where will it execute?
+                        │
+             ┌──────────┴──────────┐
+             │                     │
+        Browser / JS          WASI runtime
+             │                     │
+             ▼                     ▼
+        GOOS=js              GOOS=wasip1
+        GOARCH=wasm          GOARCH=wasm
+```
+
+Then ask:
+
+### Browser?
+
+Need:
+
+- DOM
+    
+- JavaScript
+    
+- browser APIs
+    
+- Web APIs
+    
+
+→ `js/wasm`
+
+### Server-side WASM?
+
+Need:
+
+- sandboxing
+    
+- filesystem capabilities
+    
+- stdin/stdout
+    
+- runtime-hosted execution
+    
+- portable WASM modules
+    
+
+→ `wasip1/wasm`
+
+---
+
+# 22. Practical Commands
+
+Check supported targets:
+
+```bash
+go tool dist list
+```
+
+You should see WASM-related targets such as:
+
+```text
+js/wasm
+wasip1/wasm
+```
+
+Build JavaScript-targeted WASM:
+
+```bash
+GOOS=js GOARCH=wasm go build -o main.wasm .
+```
+
+Build WASI-targeted WASM:
+
+```bash
+GOOS=wasip1 GOARCH=wasm go build -o main.wasm .
+```
+
+The important part is:
+
+```text
+          GOOS              GOARCH
+
+          js
+           │
+           └────────────── wasm
+
+       OR
+
+        wasip1
+           │
+           └────────────── wasm
+```
+
+---
+
+# 23. Architectural Comparison
+
+|Concern|`js/wasm`|`wasip1/wasm`|
+|---|---|---|
+|Primary host|JavaScript|WASI|
+|Browser|⭐⭐⭐|⭐|
+|Node.js|⭐⭐⭐|—|
+|Server-side WASM|⭐|⭐⭐⭐|
+|JS interop|⭐⭐⭐|—|
+|Sandbox plugins|⭐|⭐⭐⭐|
+|DOM|⭐⭐⭐|—|
+|WASI filesystem|—|⭐⭐⭐|
+|Portable CLI-like modules|⭐|⭐⭐⭐|
+|Browser UI logic|⭐⭐⭐|—|
+|Host-controlled capabilities|Browser APIs|WASI capabilities|
+
+---
+
+# 24. The Principal Engineer Mental Model
+
+Don't memorize:
+
+```text
+js = browser
+wasip1 = server
+```
+
+That's too simplistic.
+
+Memorize this instead:
+
+> **`GOARCH=wasm` chooses WebAssembly as the execution architecture; `GOOS` chooses the host contract that Go expects.**
+
+Then:
+
+```text
+GOOS=js
+    ↓
+JavaScript-hosted WASM
+    ↓
+JS APIs / Browser APIs
+
+GOOS=wasip1
+    ↓
+WASI-hosted WASM
+    ↓
+WASI capabilities
+```
+
+And the deeper architectural principle is:
+
+> **A WASM module is only useful in relation to its host. The host provides capabilities; the module consumes those capabilities.**
+
+That mental model becomes particularly important when designing **WASM plugins, sandboxed execution platforms, edge runtimes, browser applications, and polyglot systems**.
+
+### Key takeaways
+
+1. `GOARCH=wasm` → WebAssembly target.
+    
+2. `GOOS=js` → JavaScript host integration.
+    
+3. `GOOS=wasip1` → WASI Preview 1 host integration.
+    
+4. `syscall/js` is specific to the JavaScript execution model.
+    
+5. WASI is capability-oriented; access depends on what the runtime grants.
+    
+6. WASM compatibility is not guaranteed merely because the code is pure Go.
+    
+7. Host-boundary crossings can dominate performance.
+    
+8. Choose the target based on the **execution environment and capability model**, not simply because "I need WASM."
+    
+
+For current Go versions, the authoritative references are the Go documentation for **WebAssembly/WASI**, the `GOOS/GOARCH` target list, and the WASI specification.
 
 ## 🔗 References
 - ⬆️ Parent: [[Target OS & Architecture]]

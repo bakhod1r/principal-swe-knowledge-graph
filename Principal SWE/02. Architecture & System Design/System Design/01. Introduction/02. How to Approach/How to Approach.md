@@ -23,7 +23,7 @@ How to Approach
 ## 🗂️ Topics
 
 - [[How to Approach Core Principles and Architecture]] — Foundations, architecture patterns, and component topologies for How to Approach.
-- [[How to Approach Scalability Patterns and Gotchas]] — High-throughput scalability considerations, caching, and gotchas for How to Approach.
+- [[How to Approach Scalability Patterns and Common Pitfalls]] — High-throughput scalability considerations, caching, and gotchas for How to Approach.
 - [[How to Approach Trade Offs and Failure Modes]] — Staff-level trade-offs, resilience engineering, and failure mitigation for How to Approach.
 
 ---
