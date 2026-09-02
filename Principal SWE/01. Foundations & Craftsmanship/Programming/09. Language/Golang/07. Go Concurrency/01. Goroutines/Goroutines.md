@@ -31,6 +31,7 @@ Goroutines
 - [[Goroutines vs OS Threads]] — Comparing memory footprints (2KB vs 2MB-8MB), creation costs, and context switch overhead.
 - [[12 Goroutine Runtime States]] — Dissecting _Gidle, _Grunnable, _Grunning, _Gsyscall, _Gwaiting, _Gdead, _Gcopystack, _Gpreempted.
 - [[Goroutine Leaks Diagnostics]] — Identifying blocked goroutines using pprof, runtime.NumGoroutine, and trace dumps.
+- [[Deadlock]] — 
 - [[Thread Pinning (LockOSThread & UnlockOSThread)]] — Binding goroutines to dedicated OS threads for Cgo and graphics libraries.
 
 ---
