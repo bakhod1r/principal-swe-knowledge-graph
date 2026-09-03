@@ -3,12 +3,12 @@
   "dataview",
   "folder-notes",
   "graph-dblclick",
-  "md-to-anki",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-spaced-repetition",
   "obsidian-style-settings",
   "omnisearch",
   "table-editor-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-fullscreen-plugin"
 ]
