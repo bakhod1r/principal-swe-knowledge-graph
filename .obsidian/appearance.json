@@ -1,5 +1,9 @@
 {
   "cssTheme": "",
-  "baseFontSize": 20,
-  "baseFontSizeAction": false
+  "baseFontSize": 22,
+  "baseFontSizeAction": false,
+  "translucency": true,
+  "monospaceFontFamily": "Intel One Mono",
+  "textFontFamily": "Intel One Mono",
+  "interfaceFontFamily": "Intel One Mono"
 }

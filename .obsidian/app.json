@@ -1,5 +1,8 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "safeMode": false
+  "safeMode": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "rightToLeft": false
 }
