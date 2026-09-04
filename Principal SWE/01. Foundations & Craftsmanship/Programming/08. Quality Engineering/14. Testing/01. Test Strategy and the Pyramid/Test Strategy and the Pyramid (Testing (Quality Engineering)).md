@@ -22,7 +22,7 @@ Test Strategy and the Pyramid (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Test Strategy and the Pyramid`
+- [[Test Strategy and the Pyramid]]
 
 ---
 

@@ -22,7 +22,7 @@ Mutation Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Mutation Testing`
+- [[Mutation Testing]]
 
 ---
 

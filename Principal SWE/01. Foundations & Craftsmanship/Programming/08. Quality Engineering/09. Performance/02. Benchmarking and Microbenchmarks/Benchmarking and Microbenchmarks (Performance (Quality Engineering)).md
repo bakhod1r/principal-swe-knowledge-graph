@@ -22,7 +22,7 @@ Benchmarking and Microbenchmarks (Performance (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Benchmarking and Microbenchmarks`
+- [[Benchmarking and Microbenchmarks]]
 
 ---
 

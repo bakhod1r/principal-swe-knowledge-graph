@@ -20,6 +20,15 @@ parent: "[[Pointers]]"
 
 ---
 
+## 🗂️ Topics
+
+- [[Stack vs Heap Allocation Rules]]
+- [[Escape Analysis Compiler Passes]]
+- [[Heap Escape Triggers]]
+- [[Pointer Flow Graph & Weight Analysis]]
+
+---
+
 ## 🔗 References
 - ⬆️ Parent: [[Pointers]]
 - 📚 Module: `Language Basics`

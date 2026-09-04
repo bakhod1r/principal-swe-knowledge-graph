@@ -35,9 +35,9 @@ Behavioral & Concurrency Patterns
 - [[Chain of Responsibility Pattern]] — Passing requests along a dynamic chain of handlers.
 - [[Command Pattern]] — Encapsulating requests as objects with undo/redo execution capabilities.
 - [[State Pattern]] — Encapsulating object behavior transitions based on internal state machines.
-- `PubSub Pattern` — Decoupled publisher-subscriber messaging with topic routing.
-- `Futures and Promises Pattern` — Async value computation using channels and read-only signaling.
-- `Fail-Fast Pattern` — Early validation and fail-fast assertions in distributed systems.
+- [[PubSub Pattern]] — Decoupled publisher-subscriber messaging with topic routing.
+- [[Futures and Promises Pattern]] — Async value computation using channels and read-only signaling.
+- [[Fail-Fast Pattern]] — Early validation and fail-fast assertions in distributed systems.
 
 ---
 

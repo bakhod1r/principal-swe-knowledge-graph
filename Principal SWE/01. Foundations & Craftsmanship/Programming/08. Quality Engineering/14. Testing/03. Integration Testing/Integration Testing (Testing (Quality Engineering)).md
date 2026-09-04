@@ -22,7 +22,7 @@ Integration Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Integration Testing`
+- [[Integration Testing]]
 
 ---
 

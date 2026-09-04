@@ -22,7 +22,7 @@ Law of Demeter (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `Law of Demeter (Design Principles)`
+- [[Law of Demeter (Design Principles)]]
 
 ---
 

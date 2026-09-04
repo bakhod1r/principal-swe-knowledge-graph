@@ -22,7 +22,7 @@ Acceptance and BDD (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Acceptance and BDD`
+- [[Acceptance and BDD]]
 
 ---
 

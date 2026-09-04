@@ -22,7 +22,7 @@ Error Handling (Async)
 
 ## 🗂️ Topics
 
-- `Async Error Handling Anti-Patterns`
+- [[Async Error Handling Anti-Patterns]]
 
 ---
 

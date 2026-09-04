@@ -22,7 +22,7 @@ Performance and Load Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Performance and Load Testing`
+- [[Performance and Load Testing]]
 
 ---
 

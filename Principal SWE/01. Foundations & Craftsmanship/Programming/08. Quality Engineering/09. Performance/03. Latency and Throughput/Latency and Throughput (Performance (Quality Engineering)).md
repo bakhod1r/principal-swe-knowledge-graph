@@ -22,7 +22,7 @@ Latency and Throughput (Performance (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Latency and Throughput`
+- [[Latency and Throughput]]
 
 ---
 

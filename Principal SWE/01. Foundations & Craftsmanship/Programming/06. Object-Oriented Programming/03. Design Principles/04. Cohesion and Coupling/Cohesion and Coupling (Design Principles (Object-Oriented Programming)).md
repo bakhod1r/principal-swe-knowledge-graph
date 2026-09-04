@@ -22,7 +22,7 @@ Cohesion and Coupling (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `Cohesion and Coupling`
+- [[Cohesion and Coupling]]
 
 ---
 

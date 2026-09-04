@@ -22,7 +22,7 @@ Async Await (Concurrency (Concurrency Async Parallel))
 
 ## 🗂️ Topics
 
-- `Async Await`
+- [[Async Await]]
 
 ---
 

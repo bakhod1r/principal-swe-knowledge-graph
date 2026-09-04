@@ -22,7 +22,7 @@ Concurrency and Contention (Performance (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Concurrency and Contention`
+- [[Concurrency and Contention]]
 
 ---
 

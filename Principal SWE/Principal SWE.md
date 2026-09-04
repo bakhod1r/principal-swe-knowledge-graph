@@ -40,17 +40,17 @@ Principal SWE (5 Master Tiers)
 ## 🏛️ Master Knowledge Tiers
 
 ### 1. 💻 [[Foundations & Craftsmanship|01. Foundations & Craftsmanship]]
-- 📂 `Computer Science` — Mathematical theory, hardware architecture, kernel internals, memory models, distributed consensus, compilers, and cryptography.
-- 📂 `Programming` — Universal software engineering craftsmanship, runtime diagnostics, clean code, and 7 complete language ecosystems.
+- 📂 [[Computer Science]] — Mathematical theory, hardware architecture, kernel internals, memory models, distributed consensus, compilers, and cryptography.
+- 📂 [[Programming]] — Universal software engineering craftsmanship, runtime diagnostics, clean code, and 7 complete language ecosystems.
 
 ### 2. 🏛️ [[Architecture & System Design|02. Architecture & System Design]]
-- 📂 `Architecture` — 14 master pillars: Classical/modern styles, Clean/Hexagonal architecture, GoF & concurrency design patterns, DDD, Distributed data patterns (CQRS, Event Sourcing, Sagas), Microservices, API Gateways & GraphQL, Resilience, EIP, Multi-Tenant SaaS, Anti-Patterns, Governance, and Web3.
-- 📂 `System Design` — 43 planetary-scale system design pillars: caching, message brokers, NoSQL storage, load balancing, geo-replication, and classic problems.
-- 📂 `Best Practices` — Production-grade standards: API security, AWS multi-cloud, backend performance, SRE observability, and database migrations.
+- 📂 [[Architecture]] — 14 master pillars: Classical/modern styles, Clean/Hexagonal architecture, GoF & concurrency design patterns, DDD, Distributed data patterns (CQRS, Event Sourcing, Sagas), Microservices, API Gateways & GraphQL, Resilience, EIP, Multi-Tenant SaaS, Anti-Patterns, Governance, and Web3.
+- 📂 [[System Design]] — 43 planetary-scale system design pillars: caching, message brokers, NoSQL storage, load balancing, geo-replication, and classic problems.
+- 📂 [[Best Practices]] — Production-grade standards: API security, AWS multi-cloud, backend performance, SRE observability, and database migrations.
 
 ### 3. 🚀 [[Infrastructure & Security|03. Infrastructure & Security]]
-- 📂 `DevOps` — Cloud-native platform engineering: Docker runtimes, Kubernetes clusters, Terraform IaC, AWS cloud, Linux systems, MLOps, Enterprise Network Engineering, and Git & GitHub CI/CD automation.
-- 📂 `Cyber Security` — Enterprise defense: Server hardening, Database security (TDE/RLS), OWASP Top 10, API security, Cryptography, Red Teaming, and Zero Trust.
+- 📂 [[DevOps]] — Cloud-native platform engineering: Docker runtimes, Kubernetes clusters, Terraform IaC, AWS cloud, Linux systems, MLOps, Enterprise Network Engineering, and Git & GitHub CI/CD automation.
+- 📂 [[Cyber Security]] — Enterprise defense: Server hardening, Database security (TDE/RLS), OWASP Top 10, API security, Cryptography, Red Teaming, and Zero Trust.
 
 ### 4. 🤖 [[AI & Intelligent Systems|04. AI & Intelligent Systems]]
 - 📂 `AI & Machine Learning` — Modern AI engineering: Transformers, Prompt optimization, Vector databases, RAG, Autonomous AI Agents, Claude Code & MCP, and vLLM inference.

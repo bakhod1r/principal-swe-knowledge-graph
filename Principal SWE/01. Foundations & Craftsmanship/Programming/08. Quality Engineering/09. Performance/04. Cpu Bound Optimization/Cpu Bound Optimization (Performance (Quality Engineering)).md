@@ -22,7 +22,7 @@ Cpu Bound Optimization (Performance (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Cpu Bound Optimization`
+- [[Cpu Bound Optimization]]
 
 ---
 

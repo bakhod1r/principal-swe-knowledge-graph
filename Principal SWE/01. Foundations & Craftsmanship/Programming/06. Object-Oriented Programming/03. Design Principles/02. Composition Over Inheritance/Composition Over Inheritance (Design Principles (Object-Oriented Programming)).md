@@ -22,7 +22,7 @@ Composition Over Inheritance (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `Composition Over Inheritance (Design Principles)`
+- [[Composition Over Inheritance (Design Principles)]]
 
 ---
 

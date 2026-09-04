@@ -26,17 +26,17 @@ Architecture & System Design
 ## 🗂️ Knowledge Domains
 
 - 📂 [[Architecture]] — Software Architecture, Clean/Hexagonal, GoF Design Patterns, DDD, Distributed Data (CQRS/Sagas), Microservices, API Gateways, Resilience, EIP, Multi-Tenant SaaS.
-- 📂 `System Design` — 43 planetary-scale system design pillars: caching, message brokers, NoSQL storage, load balancing, geo-replication, and classic problems.
+- 📂 [[System Design]] — 43 planetary-scale system design pillars: caching, message brokers, NoSQL storage, load balancing, geo-replication, and classic problems.
 - 📂 [[Best Practices]] — Production-grade standards: API security, AWS multi-cloud, backend performance, SRE observability, and database migrations.
 
 ---
 
 ## 🔗 Navigation
 - ⬆️ Master Root: [[Principal SWE]]
-- 💻 `Foundations & Craftsmanship`
-- 🚀 `Infrastructure & Security`
-- 🤖 `AI & Intelligent Systems`
-- 🤝 `Leadership & Soft Skills`
+- 💻 [[Foundations & Craftsmanship]]
+- 🚀 [[Infrastructure & Security]]
+- 🤖 [[AI & Intelligent Systems]]
+- 🤝 [[Leadership & Soft Skills]]
 
 ---
 

@@ -22,7 +22,7 @@ Lock Free and Wait Free Algorithms (Concurrency (Concurrency Async Parallel))
 
 ## 🗂️ Topics
 
-- `Lock Free and Wait Free Algorithms`
+- [[Lock Free and Wait Free Algorithms]]
 
 ---
 

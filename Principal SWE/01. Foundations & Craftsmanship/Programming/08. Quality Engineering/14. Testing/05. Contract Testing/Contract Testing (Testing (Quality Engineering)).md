@@ -22,7 +22,7 @@ Contract Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Contract Testing`
+- [[Contract Testing]]
 
 ---
 

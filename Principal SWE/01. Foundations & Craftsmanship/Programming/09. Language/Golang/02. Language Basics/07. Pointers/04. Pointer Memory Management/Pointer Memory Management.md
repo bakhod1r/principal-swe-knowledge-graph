@@ -25,9 +25,9 @@ Memory Management & Escape Analysis
 
 ## 🗂️ Topics
 
-- `Stack vs Heap Allocation Rules` — Fast stack allocation (bump allocator) vs heap allocation (TCMalloc).
-- `Escape Analysis Compiler Passes` — Escape analysis algorithms (go build -gcflags="-m -m") and pointer flow graphs.
-- `Heap Escape Triggers` — Pointers returned from functions, interface boxing, dynamic slice sizes, large structs.
+- [[Stack vs Heap Allocation Rules]] — Fast stack allocation (bump allocator) vs heap allocation (TCMalloc).
+- [[Escape Analysis Compiler Passes]] — Escape analysis algorithms (go build -gcflags="-m -m") and pointer flow graphs.
+- [[Heap Escape Triggers]] — Pointers returned from functions, interface boxing, dynamic slice sizes, large structs.
 - [[TCMalloc Allocation Hierarchy (mcache, mcentral, mheap)]] — Thread-local span caches, size classes, and central memory arenas.
 - [[Garbage Collection Tricolor Mark-Sweep]] — Concurrent tricolor marking, hybrid write barrier, and STW pause elimination.
 - [[Function Inlining Budget (Max 80 AST Nodes)]]

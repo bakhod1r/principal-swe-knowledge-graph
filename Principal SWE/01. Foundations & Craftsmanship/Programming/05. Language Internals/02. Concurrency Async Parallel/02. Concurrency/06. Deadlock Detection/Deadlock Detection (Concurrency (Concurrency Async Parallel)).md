@@ -22,7 +22,7 @@ Deadlock Detection (Concurrency (Concurrency Async Parallel))
 
 ## 🗂️ Topics
 
-- `Deadlock Detection`
+- [[Deadlock Detection]]
 
 ---
 

@@ -22,7 +22,7 @@ Functions (Clean Code)
 
 ## 🗂️ Topics
 
-- `Clean Code Functions`
+- [[Clean Code Functions]]
 - [[Anonymous Functions & Closures]]
 - [[Calling Conventions & Stacks]]
 - [[Defer]]

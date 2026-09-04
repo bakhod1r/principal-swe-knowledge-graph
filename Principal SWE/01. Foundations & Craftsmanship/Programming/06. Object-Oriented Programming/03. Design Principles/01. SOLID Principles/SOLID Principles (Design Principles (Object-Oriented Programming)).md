@@ -22,7 +22,7 @@ SOLID Principles (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `SOLID Principles`
+- [[SOLID Principles]]
 
 ---
 

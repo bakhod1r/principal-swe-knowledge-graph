@@ -22,7 +22,7 @@ Memory and Allocation Profiling (Performance (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Memory and Allocation Profiling`
+- [[Memory and Allocation Profiling]]
 
 ---
 

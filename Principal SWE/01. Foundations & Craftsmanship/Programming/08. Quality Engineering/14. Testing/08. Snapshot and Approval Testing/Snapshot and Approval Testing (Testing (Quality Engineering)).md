@@ -22,7 +22,7 @@ Snapshot and Approval Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Snapshot and Approval Testing`
+- [[Snapshot and Approval Testing]]
 
 ---
 

@@ -62,13 +62,13 @@ Primitives & Concurrency Performance
 - [[Map Bucket Pre-Allocation & Evacuation Avoidance]] — Pre-sizing maps with make(map[K]V, hint) to avoid expensive 6.5 load factor incremental rehashing.
 - [[Map Bucket Memory Reclamation & Shrinking Workarounds]] — Why Go maps never shrink allocated bucket memory after deletions and how to reclaim memory by re-creating.
 - [[Swiss Table Map SIMD Optimization (Go 1.24+)]] — Benchmarking legacy bucket-based hmap against Go 1.24+ Swiss Tables with SSE2/NEON SIMD control byte probing.
-- `sync.Map vs Partitioned Sharded Map Benchmarks` — Comparing sync.Map read-heavy performance against custom partitioned sharded mutex maps under write-heavy loads.
-- `Buffered vs Unbuffered Channel Performance Profiles` — Measuring throughput and latency differences between synchronous stack-copy rendezvous vs ring-buffer lock queuing.
-- `Channel Batching vs Single Message Transfer Overhead` — Reducing context switching and hchan mutex contention by transferring slice batches across channels.
-- `Lock-Free SPSC Queues vs Channel Benchmarks` — Measuring sub-microsecond latency gains of lock-free ring buffers over channel mutexes in low-latency systems.
-- `Goroutine Spawning Overhead vs Bounded Pool Tuning` — Benchmarking 100k unbounded goroutine allocations against pre-warmed worker pools under peak load.
-- `Goroutine Stack Copying Penalty & Pre-Sizing` — Measuring copystack CPU pauses during sudden deep recursive calls and mitigating with stack pre-warming.
-- `GOMAXPROCS Over-Subscription & Context Switch Thrashing` — Diagnosing thread thrashing, CPU cache invalidation, and CFS quota starvation under high goroutine concurrency.
+- [[sync.Map vs Partitioned Sharded Map Benchmarks]] — Comparing sync.Map read-heavy performance against custom partitioned sharded mutex maps under write-heavy loads.
+- [[Buffered vs Unbuffered Channel Performance Profiles]] — Measuring throughput and latency differences between synchronous stack-copy rendezvous vs ring-buffer lock queuing.
+- [[Channel Batching vs Single Message Transfer Overhead]] — Reducing context switching and hchan mutex contention by transferring slice batches across channels.
+- [[Lock-Free SPSC Queues vs Channel Benchmarks]] — Measuring sub-microsecond latency gains of lock-free ring buffers over channel mutexes in low-latency systems.
+- [[Goroutine Spawning Overhead vs Bounded Pool Tuning]] — Benchmarking 100k unbounded goroutine allocations against pre-warmed worker pools under peak load.
+- [[Goroutine Stack Copying Penalty & Pre-Sizing]] — Measuring copystack CPU pauses during sudden deep recursive calls and mitigating with stack pre-warming.
+- [[GOMAXPROCS Over-Subscription & Context Switch Thrashing]] — Diagnosing thread thrashing, CPU cache invalidation, and CFS quota starvation under high goroutine concurrency.
 
 ---
 

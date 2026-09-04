@@ -22,7 +22,7 @@ DRY KISS YAGNI (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `DRY KISS YAGNI`
+- [[DRY KISS YAGNI]]
 
 ---
 

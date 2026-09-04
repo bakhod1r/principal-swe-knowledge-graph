@@ -22,7 +22,7 @@ Property Based Testing (Testing (Quality Engineering))
 
 ## 🗂️ Topics
 
-- `Property Based Testing`
+- [[Property Based Testing]]
 
 ---
 

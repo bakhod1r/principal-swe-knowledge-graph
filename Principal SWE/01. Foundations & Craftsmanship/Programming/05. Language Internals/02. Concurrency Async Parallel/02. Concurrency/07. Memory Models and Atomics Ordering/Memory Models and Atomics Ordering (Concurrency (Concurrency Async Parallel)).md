@@ -22,7 +22,7 @@ Memory Models and Atomics Ordering (Concurrency (Concurrency Async Parallel))
 
 ## 🗂️ Topics
 
-- `Memory Models and Atomics Ordering`
+- [[Memory Models and Atomics Ordering]]
 
 ---
 

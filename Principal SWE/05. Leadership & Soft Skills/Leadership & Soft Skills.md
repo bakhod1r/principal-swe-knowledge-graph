@@ -205,10 +205,10 @@ Leadership & Soft Skills
 
 ## 🔗 Navigation
 - ⬆️ Master Root: [[Principal SWE]]
-- 💻 `Foundations & Craftsmanship`
-- 🏛️ `Architecture & System Design`
-- 🚀 `Infrastructure & Security`
-- 🤖 `AI & Intelligent Systems`
+- 💻 [[Foundations & Craftsmanship]]
+- 🏛️ [[Architecture & System Design]]
+- 🚀 [[Infrastructure & Security]]
+- 🤖 [[AI & Intelligent Systems]]
 
 ---
 

@@ -23,7 +23,7 @@ Infrastructure & Security
 ## 🗂️ Knowledge Domains
 
 - 📂 [[DevOps]] — Docker, Kubernetes, Terraform IaC, AWS Infrastructure, Linux Admin, Cloudflare Edge, MLOps
-- 📂 `Cyber Security` — Server Security, Database Security, OWASP Top 10, API Security, Cryptography, Red Teaming, ZTA
+- 📂 [[Cyber Security]] — Server Security, Database Security, OWASP Top 10, API Security, Cryptography, Red Teaming, ZTA
 
 ---
 

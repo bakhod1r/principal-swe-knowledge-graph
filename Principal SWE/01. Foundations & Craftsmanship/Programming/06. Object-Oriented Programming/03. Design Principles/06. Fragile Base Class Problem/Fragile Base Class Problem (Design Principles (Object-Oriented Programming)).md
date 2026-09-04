@@ -22,7 +22,7 @@ Fragile Base Class Problem (Design Principles (Object-Oriented Programming))
 
 ## 🗂️ Topics
 
-- `Fragile Base Class Problem`
+- [[Fragile Base Class Problem]]
 
 ---
 

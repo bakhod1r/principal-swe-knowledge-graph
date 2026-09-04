@@ -22,8 +22,8 @@ Foundations & Craftsmanship
 
 ## 🗂️ Knowledge Domains
 
-- 📂 `Computer Science` — Computer Science Foundations, Algorithms, OS Kernels, Network Internals, Storage Engines.
-- 📂 `Programming` — Programming Paradigms, Runtime Internals, Quality Engineering & 7 Language Ecosystems.
+- 📂 [[Computer Science]] — Computer Science Foundations, Algorithms, OS Kernels, Network Internals, Storage Engines.
+- 📂 [[Programming]] — Programming Paradigms, Runtime Internals, Quality Engineering & 7 Language Ecosystems.
 
 ---
 
