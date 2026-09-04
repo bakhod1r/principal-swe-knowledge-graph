@@ -44,6 +44,7 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 
 	var (
 		cards   []Card
+		trail   []headingRef // the numbered heading and its numbered ancestors
 		heading string
 		section []string
 		inFence bool
@@ -51,7 +52,7 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 
 	// flush turns the section collected so far into a card.
 	flush := func() {
-		defer func() { heading, section = "", nil }()
+		defer func() { section = nil }()
 		if heading == "" {
 			return
 		}
@@ -64,6 +65,7 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 			Back:   back,
 			Tags:   tags,
 			Deck:   deck,
+			Title:  title,
 			Source: path,
 		})
 	}
@@ -73,15 +75,23 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 			inFence = !inFence
 		}
 		if !inFence {
-			if number, text, ok := numberedHeading(line); ok {
+			if level, number, text, ok := numberedHeading(line); ok {
 				flush()
-				heading = number + ". " + text
+				// A sub-heading is a card of its own, but its question only
+				// makes sense under the section it sits in: "… — 7. The Four
+				// Conditions for Deadlock — 1. Mutual exclusion".
+				for len(trail) > 0 && trail[len(trail)-1].level >= level {
+					trail = trail[:len(trail)-1]
+				}
+				trail = append(trail, headingRef{level: level, number: number, text: number + ". " + text})
+				heading = joinTrail(trail)
 				continue
 			}
 			// Navigation sections (References, See also, …) carry no content
 			// worth reviewing — end the card here.
 			if isSkippedHeading(line) {
 				flush()
+				heading, trail = "", nil
 				continue
 			}
 		}
@@ -90,21 +100,57 @@ func ParseNote(path, deck string, extraTags []string) ([]Card, error) {
 		}
 	}
 	flush()
+	cards = dropParentSections(cards)
 
 	return cards, nil
 }
 
-// numberedHeading matches "## 3. Channels" and returns ("3", "Channels", true).
-func numberedHeading(line string) (number, text string, ok bool) {
+// dropParentSections removes the card of a section whose sub-sections became
+// cards of their own: what is left of it is only the sentence introducing them
+// ("Deadlock requires all four:"), which is nothing to review.
+func dropParentSections(cards []Card) []Card {
+	kept := cards[:0]
+	for i, c := range cards {
+		hasChild := i+1 < len(cards) && strings.HasPrefix(cards[i+1].Front, c.Front+" — ")
+		if !hasChild {
+			kept = append(kept, c)
+		}
+	}
+	return kept
+}
+
+// headingRef is one numbered heading on the path down to the current card.
+type headingRef struct {
+	level  int    // 1 for "#", 2 for "##", …
+	number string // "3", or "2.1" for a sub-section
+	text   string // "3. Channels"
+}
+
+// joinTrail spells out the heading path a card sits under. An ancestor whose
+// number the child already repeats ("2. Select" above "2.1. Default case") is
+// left out — the child says where it belongs on its own.
+func joinTrail(trail []headingRef) string {
+	parts := make([]string, 0, len(trail))
+	for i, h := range trail {
+		if i+1 < len(trail) && strings.HasPrefix(trail[i+1].number, h.number+".") {
+			continue
+		}
+		parts = append(parts, h.text)
+	}
+	return strings.Join(parts, " — ")
+}
+
+// numberedHeading matches "## 3. Channels" and returns (2, "3", "Channels", true).
+func numberedHeading(line string) (level int, number, text string, ok bool) {
 	h := headingRe.FindStringSubmatch(line)
 	if h == nil {
-		return "", "", false
+		return 0, "", "", false
 	}
 	n := numberedRe.FindStringSubmatch(strings.TrimSpace(h[2]))
 	if n == nil {
-		return "", "", false
+		return 0, "", "", false
 	}
-	return n[1], strings.TrimSpace(n[2]), true
+	return len(h[1]), n[1], strings.TrimSpace(n[2]), true
 }
 
 // skippedHeadings are section titles that only link elsewhere in the vault.

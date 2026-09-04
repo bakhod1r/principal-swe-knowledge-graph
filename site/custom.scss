@@ -1,0 +1,692 @@
+@use "./base.scss";
+
+/**
+ * Principal SWE Knowledge Graph — editorial theme.
+ *
+ * Print-inspired: warm paper ground, serif throughout, hairline rules,
+ * no shadows and no rounded corners. Colours come from the palette in
+ * quartz.config.ts, so everything references the generated properties.
+ */
+
+:root {
+  --rule: 1px solid var(--lightgray);
+  --rule-strong: 1px solid var(--darkgray);
+
+  /* ~68 characters per line, the comfortable range for long-form reading. */
+  --measure: 68ch;
+  --label: 0.72rem;
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ---------------------------------------------------------------- base */
+
+html {
+  /* Slightly larger than Quartz's default: serif text needs the room. */
+  font-size: 17px;
+  scroll-behavior: smooth;
+  scroll-padding-top: 3rem;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  hanging-punctuation: first last;
+}
+
+@media all and (max-width: 800px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  letter-spacing: 0;
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* Reading progress. Pure CSS; simply absent where scroll timelines are not
+   supported, so it never costs a script. */
+@supports (animation-timeline: scroll()) {
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0 0 auto;
+    height: 2px;
+    background: var(--secondary);
+    transform-origin: 0 50%;
+    z-index: 10;
+    animation: reading-progress linear;
+    animation-timeline: scroll(root block);
+  }
+
+  @keyframes reading-progress {
+    from {
+      transform: scaleX(0);
+    }
+
+    to {
+      transform: scaleX(1);
+    }
+  }
+}
+
+/* Visible keyboard focus, everywhere. */
+:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+::selection {
+  background: var(--highlight);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--lightgray);
+
+  &:hover {
+    background: var(--gray);
+  }
+}
+
+/* A reusable typographic label: small, spaced, uppercase. */
+@mixin label {
+  font-family: var(--headerFont);
+  font-size: var(--label);
+  font-weight: 600;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+/* ---------------------------------------------------------- typography */
+
+.center {
+  & > article {
+    max-width: var(--measure);
+  }
+
+  & h1,
+  & h2,
+  & h3,
+  & h4,
+  & h5,
+  & h6 {
+    font-weight: 600;
+    letter-spacing: -0.012em;
+    line-height: 1.2;
+    scroll-margin-top: 3rem;
+
+    /* Keeps a heading from leaving one orphaned word on its last line. */
+    text-wrap: balance;
+  }
+
+  & h2 {
+    margin-top: 3rem;
+    padding-top: 1.2rem;
+    border-top: var(--rule);
+    font-size: 1.5rem;
+  }
+
+  & h3 {
+    margin-top: 2rem;
+    font-size: 1.2rem;
+  }
+
+  & h4,
+  & h5,
+  & h6 {
+    @include label;
+
+    margin-top: 1.8rem;
+    color: var(--dark);
+  }
+
+  & p,
+  & li {
+    line-height: 1.75;
+
+    /* Avoids single-word last lines in body copy. */
+    text-wrap: pretty;
+  }
+
+  & p {
+    margin: 1.15rem 0;
+  }
+
+  /* Opening paragraph carries a little extra weight, like a standfirst. */
+  & > article > p:first-of-type {
+    font-size: 1.08em;
+    color: var(--dark);
+  }
+
+  & ul,
+  & ol {
+    line-height: 1.68;
+  }
+
+  & hr {
+    border: none;
+    border-top: var(--rule);
+    margin: 2.5rem auto;
+    width: 100%;
+  }
+
+  & > article > :first-child {
+    margin-top: 0;
+  }
+}
+
+.article-title {
+  font-size: 2.7rem;
+  font-weight: 500;
+  line-height: 1.08;
+  letter-spacing: -0.02em;
+  max-width: var(--measure);
+  margin: 0.8rem 0 0.4rem;
+}
+
+/* Links: an underline, as in print. No pills, no fills. */
+a {
+  &.internal {
+    background-color: transparent;
+    border-radius: 0;
+    padding: 0;
+    text-decoration: underline;
+    text-decoration-color: var(--lightgray);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.18em;
+    transition: text-decoration-color 0.15s var(--ease);
+
+    &:hover {
+      text-decoration-color: var(--secondary);
+    }
+
+    &.tag-link {
+      @include label;
+
+      text-decoration: none;
+      color: var(--gray);
+
+      &::before {
+        content: "";
+      }
+
+      &:hover {
+        color: var(--secondary);
+      }
+    }
+  }
+
+  &.external .external-icon {
+    opacity: 0.5;
+  }
+}
+
+blockquote {
+  border-left: none;
+  padding: 0 0 0 1.6rem;
+  margin: 1.8rem 0 1.8rem 0.4rem;
+  position: relative;
+  font-style: italic;
+  color: var(--darkgray);
+
+  &::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.35em;
+    bottom: 0.35em;
+    width: 1px;
+    background: var(--secondary);
+  }
+}
+
+/* ---------------------------------------------------------------- code */
+
+code {
+  border-radius: 0;
+  border: none;
+  background: var(--highlight);
+  padding: 0.1em 0.3em;
+  font-size: 0.86em;
+}
+
+pre {
+  border: none;
+  border-top: var(--rule-strong);
+  border-bottom: var(--rule);
+  border-radius: 0;
+  background: transparent !important;
+  padding: 1rem 0 !important;
+  margin: 1.8rem 0;
+
+  & > code {
+    background: transparent;
+    padding: 0;
+    font-size: 0.82rem;
+    line-height: 1.65;
+  }
+}
+
+.clipboard-button {
+  border-radius: 0;
+  border: var(--rule);
+  background: var(--light);
+  opacity: 0;
+  transition: opacity 0.15s var(--ease);
+}
+
+pre:hover .clipboard-button {
+  opacity: 1;
+}
+
+/* -------------------------------------------------------------- tables */
+
+.table-container {
+  overflow-x: auto;
+  margin: 1.8rem 0;
+
+  & > table {
+    margin: 0;
+    border: none;
+    border-top: var(--rule-strong);
+    border-bottom: var(--rule-strong);
+    font-size: 0.94em;
+  }
+
+  & th {
+    @include label;
+
+    color: var(--dark);
+    border: none;
+    border-bottom: var(--rule);
+    padding: 0.6rem 0.8rem 0.6rem 0;
+    text-align: left;
+  }
+
+  & td {
+    border: none;
+    border-bottom: var(--rule);
+    padding: 0.6rem 0.8rem 0.6rem 0;
+  }
+
+  & tbody tr:last-child td {
+    border-bottom: none;
+  }
+}
+
+/* ------------------------------------------------------------ sidebars */
+
+.sidebar {
+  gap: 1.6rem;
+
+  &.left {
+    padding-right: 1rem;
+  }
+}
+
+.page-title {
+  font-size: 1.35rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  padding-bottom: 0.9rem;
+  border-bottom: var(--rule-strong);
+}
+
+/* Explorer reads as a table of contents for the whole vault. */
+.explorer-content {
+  font-size: 0.86rem;
+
+  & .folder-outer > ul {
+    border-left: none;
+    margin-left: 0.5rem;
+    padding-left: 0.8rem;
+  }
+
+  & li > a {
+    text-decoration: none;
+    color: var(--darkgray);
+    transition: color 0.12s var(--ease);
+
+    &:hover {
+      color: var(--secondary);
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+
+    &.active {
+      color: var(--dark);
+      font-weight: 600;
+    }
+  }
+}
+
+.folder-title {
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+/* Right rail: labelled sections, hairline separated. */
+.toc,
+.backlinks {
+  & > h3,
+  & > .backlinks-title,
+  & > button > h3 {
+    @include label;
+  }
+}
+
+#toc-content,
+.backlinks-ul {
+  border-left: none;
+  padding-left: 0;
+  font-size: 0.85rem;
+
+  & a {
+    text-decoration: none;
+    color: var(--gray);
+
+    &:hover {
+      color: var(--secondary);
+    }
+
+    &.in-view {
+      color: var(--dark);
+    }
+  }
+}
+
+/* -------------------------------------------------------------- search */
+
+.search-button {
+  border-radius: 0;
+  border: none;
+  border-bottom: var(--rule-strong);
+  background: transparent;
+  padding-left: 0;
+
+  & p {
+    @include label;
+  }
+
+  &:hover {
+    border-bottom-color: var(--secondary);
+  }
+}
+
+.search-container {
+  backdrop-filter: blur(3px);
+
+  & > #search-space {
+    border-radius: 0;
+    border: var(--rule-strong);
+    background: var(--light);
+    box-shadow: none;
+    overflow: hidden;
+
+    & > input {
+      border-radius: 0;
+      border: none;
+      border-bottom: var(--rule);
+      background: transparent;
+      font-family: var(--headerFont);
+      font-size: 1.25rem;
+      padding: 1.1rem 1.3rem;
+    }
+  }
+
+  & .result-card {
+    border-radius: 0;
+    border: none;
+    border-bottom: var(--rule);
+    padding: 0.7rem 0.4rem;
+
+    & > h3 {
+      font-size: 1rem;
+      font-weight: 600;
+    }
+
+    &:hover,
+    &:focus,
+    &.focus {
+      background: var(--highlight);
+    }
+  }
+}
+
+/* ------------------------------------------------- popovers & callouts */
+
+.popover > .popover-inner {
+  border-radius: 0;
+  border: var(--rule-strong);
+  box-shadow: none;
+  background: var(--light);
+}
+
+.callout {
+  border-radius: 0;
+  border: none;
+  border-top: var(--rule-strong);
+  border-bottom: var(--rule);
+  background: transparent;
+  padding-left: 0;
+
+  & .callout-title {
+    @include label;
+
+    color: var(--dark);
+  }
+}
+
+/* ------------------------------------------------- breadcrumbs, footer */
+
+.breadcrumb-container {
+  @include label;
+
+  margin-bottom: 1.4rem;
+
+  & a {
+    text-decoration: none;
+    color: var(--gray);
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  & .breadcrumb-element > p {
+    font-size: var(--label);
+  }
+}
+
+.content-meta {
+  @include label;
+
+  margin-top: 0.6rem;
+}
+
+.page-footer {
+  border-top: var(--rule-strong);
+  padding-top: 1.2rem;
+  margin-top: 4rem;
+
+  & p,
+  & a {
+    @include label;
+  }
+
+  & a {
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+/* --------------------------------------------------- folder/tag listing */
+
+.page-listing,
+.section-ul {
+  & > li {
+    border-bottom: var(--rule);
+    padding: 1rem 0;
+  }
+
+  & .section > .desc > h3 > a {
+    text-decoration: none;
+    font-size: 1.15rem;
+    font-weight: 500;
+
+    &:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+    }
+  }
+
+  & .meta {
+    @include label;
+
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+}
+
+/* ------------------------------------------------------ bionic reading */
+
+/* The emboldened prefix should guide the eye, not shout. A weight step and a
+   touch more ink is enough; anything heavier turns the page into noise. */
+b.bionic {
+  font-weight: 600;
+  color: var(--dark);
+}
+
+[saved-theme="dark"] b.bionic {
+  /* Bright weight reads heavier on a dark ground, so ease it back. */
+  font-weight: 550;
+}
+
+/* ---------------------------------------------------------- coming soon */
+
+.coming-soon {
+  border-top: var(--rule-strong);
+  border-bottom: var(--rule);
+  padding: 1.2rem 0 1.4rem;
+  margin: 0 0 2rem;
+  max-width: var(--measure);
+}
+
+.coming-soon-label {
+  @include label;
+
+  color: var(--secondary);
+  margin: 0 0 0.4rem;
+}
+
+.coming-soon-body {
+  margin: 0;
+  color: var(--gray);
+  font-style: italic;
+  line-height: 1.6;
+}
+
+/* Placeholder headings under the banner are scaffolding, not content. */
+.coming-soon ~ h2,
+.coming-soon ~ h3 {
+  color: var(--gray);
+}
+
+/* -------------------------------------------------------- media, notes */
+
+.center img,
+.center video {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+}
+
+.footnotes {
+  border-top: var(--rule);
+  margin-top: 3rem;
+  padding-top: 1rem;
+  font-size: 0.92em;
+  color: var(--darkgray);
+
+  & li {
+    margin: 0.4rem 0;
+  }
+}
+
+/* Comfortable hit targets once the sidebar collapses to a touch surface. */
+@media all and (max-width: 800px) {
+  .explorer-content li > a,
+  .explorer-content .folder-container {
+    padding: 0.35rem 0;
+  }
+
+  .article-title {
+    font-size: 2rem;
+  }
+
+  .center h2 {
+    font-size: 1.35rem;
+  }
+}
+
+/* --------------------------------------------------------------- print */
+
+@media print {
+  .sidebar,
+  .search-container,
+  .page-footer,
+  .breadcrumb-container,
+  .clipboard-button {
+    display: none !important;
+  }
+
+  .page > #quartz-body {
+    display: block;
+  }
+
+  .center > article {
+    max-width: none;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+  }
+
+  a.internal {
+    text-decoration: none;
+  }
+
+  pre,
+  blockquote,
+  .table-container {
+    break-inside: avoid;
+  }
+}
+
+/* ------------------------------------------------------------- a11y */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

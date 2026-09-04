@@ -14,6 +14,7 @@
 //	--dry-run print the cards instead of sending them
 //	--json    with --dry-run, dump the AnkiConnect request payload
 //	--update  refresh notes that already exist instead of skipping them
+//	--flat    one deck per folder (default: one subdeck per note)
 //	--html F  write a browser preview of the cards to F instead of importing
 package main
 
@@ -35,6 +36,7 @@ type options struct {
 	dryRun  bool
 	asJSON  bool
 	update  bool
+	flat    bool
 	htmlOut string
 	targets []string
 }
@@ -42,7 +44,7 @@ type options struct {
 // out is where the run report is written; tests redirect it.
 var out io.Writer = os.Stdout
 
-const usage = "usage: md-to-anki <file.md|dir> [--deck D] [--model M] [--tags a,b] [--dry-run] [--json] [--html F] [--update]"
+const usage = "usage: md-to-anki <file.md|dir> [--deck D] [--model M] [--tags a,b] [--dry-run] [--json] [--html F] [--update] [--flat]"
 
 func main() {
 	opts, err := parseFlags(os.Args[1:])
@@ -96,6 +98,7 @@ func parseFlags(argv []string) (options, error) {
 		dryRun = fs.Bool("dry-run", false, "print the cards instead of sending them")
 		asJSON = fs.Bool("json", false, "with --dry-run, dump the AnkiConnect request payload")
 		update = fs.Bool("update", false, "refresh notes that already exist instead of skipping them")
+		flat   = fs.Bool("flat", false, "put a folder's cards in one deck instead of a subdeck per note")
 		htmlP  = fs.String("html", "", "write a browser preview of the cards to this file instead of importing")
 	)
 	if err := fs.Parse(flagsFirst(argv)); err != nil {
@@ -120,6 +123,7 @@ func parseFlags(argv []string) (options, error) {
 		dryRun:  *dryRun,
 		asJSON:  *asJSON,
 		update:  *update,
+		flat:    *flat,
 		htmlOut: *htmlP,
 		targets: fs.Args(),
 	}, nil
@@ -181,6 +185,11 @@ func buildCards(opts options) (cards []Card, files []string, err error) {
 				continue
 			}
 			seen[c.Front] = file
+			// One note per deck keeps a folder of a dozen notes from piling
+			// its cards into a single 150-card deck.
+			if !opts.flat && opts.deck == "" {
+				c.Deck += "::" + strings.ReplaceAll(c.Title, "::", "-")
+			}
 			cards = append(cards, c)
 		}
 	}

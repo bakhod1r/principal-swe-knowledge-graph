@@ -55,6 +55,9 @@ jobs:
       - name: Build
         run: |
           cp vault/site/quartz.config.ts quartz/quartz.config.ts
+          cp vault/site/quartz.layout.ts quartz/quartz.layout.ts
+          cp vault/site/custom.scss quartz/quartz/styles/custom.scss
+          cp vault/site/plugins.ts quartz/quartz/plugins/transformers/site.ts
           cd quartz
           npx quartz build -d "$GITHUB_WORKSPACE/content" -o "$GITHUB_WORKSPACE/public"
 

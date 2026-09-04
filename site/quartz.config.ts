@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { Bionic, ComingSoon } from "./quartz/plugins/transformers/site"
 
 /**
  * Quartz 4 Configuration
@@ -21,32 +22,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Newsreader",
+        body: "Source Serif 4",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f7f4ee",
+          lightgray: "#ded7c9",
+          gray: "#8c8579",
+          darkgray: "#3a352d",
+          dark: "#191510",
+          secondary: "#8a3324",
+          tertiary: "#a8552f",
+          highlight: "rgba(138, 51, 36, 0.07)",
+          textHighlight: "#e8c99b88",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#15130f",
+          lightgray: "#2e2a23",
+          gray: "#7d7568",
+          darkgray: "#d5cec2",
+          dark: "#f3ece0",
+          secondary: "#d98e6a",
+          tertiary: "#e0a882",
+          highlight: "rgba(217, 142, 106, 0.10)",
+          textHighlight: "#8a663055",
         },
       },
     },
@@ -70,6 +71,9 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      // Order matters: ComingSoon counts words before Bionic splits them up.
+      ComingSoon(),
+      Bionic(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -85,7 +89,6 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
-      Plugin.NotFoundPage(),
       // CustomOgImages disabled: 9k+ notes would make builds very slow
       // Plugin.CustomOgImages(),
     ],
