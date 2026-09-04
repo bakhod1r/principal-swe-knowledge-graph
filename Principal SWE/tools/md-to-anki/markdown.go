@@ -15,6 +15,7 @@ type Card struct {
 	Back   string // section body, rendered to HTML
 	Tags   []string
 	Deck   string
+	Title  string // note the card was cut from
 	Source string
 }
 
