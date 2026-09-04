@@ -283,10 +283,21 @@
  * Base declares `display: flex` under `.page > #quartz-body`, and that ID
  * outweighs a plain class selector — hence the matching depth here.
  */
-html.focus-mode .page > #quartz-body .sidebar,
-html.rail-left-hidden .page > #quartz-body .sidebar.left,
-html.rail-right-hidden .page > #quartz-body .sidebar.right {
+html.focus-mode .page > #quartz-body .sidebar {
   display: none;
+}
+
+/**
+ * The rail state is deliberately not honoured on mobile: there the left rail
+ * carries the title and search, and the tabs that would bring it back are
+ * hidden, so a rail closed on a desktop would strand a phone with no
+ * navigation at all.
+ */
+@media all and (min-width: 801px) {
+  html.rail-left-hidden .page > #quartz-body .sidebar.left,
+  html.rail-right-hidden .page > #quartz-body .sidebar.right {
+    display: none;
+  }
 }
 
 html.focus-mode .page > #quartz-body {

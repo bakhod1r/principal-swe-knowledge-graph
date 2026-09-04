@@ -48,6 +48,11 @@ jobs:
           # Quartz needs an index.md at the content root for the landing page.
           cp "content/$VAULT_DIR.md" content/index.md
 
+      - name: Check for broken links
+        env:
+          VAULT_CONTENT: content
+        run: python3 vault/tools/check_links.py
+
       - name: Install Quartz
         working-directory: quartz
         run: npm ci

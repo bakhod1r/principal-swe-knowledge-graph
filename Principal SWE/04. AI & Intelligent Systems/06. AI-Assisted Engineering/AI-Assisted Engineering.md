@@ -19,7 +19,7 @@ AI Assisted Engineering, Cursor, Copilot & Vibe Coding
 ├── [[Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces|02. Cursor IDE Architecture, Composer, and Multi File Edits]]
 ├── [[Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context|03. Github Copilot, Inline Completions, and Workspace Indexing]]
 ├── [[Plan Before You Code: Specification Driven Development with AI|04. Plan Before You Code and Specification Driven Development]]
-├── [[Context Engineering: `.cursorrules`, Repository Maps, and Architectural Guides|05. Context Engineering .cursorrules and Repository Maps]]
+├── [[Context Engineering: .cursorrules, Repository Maps, and Architectural Guides|05. Context Engineering .cursorrules and Repository Maps]]
 ├── [[Automating Test Generation: Unit, Integration, and Property Based Tests with AI|06. AI Generated Unit, Integration, and Property Tests]]
 ├── [[Automated Pull Request Code Review with AI (coderabbit, PR Agent)|07. Automated Pull Request Reviewers and Agentic CI]]
 ├── `08. Rapid Prototyping and Greenfield Project Scaffolding`
@@ -37,7 +37,7 @@ AI Assisted Engineering, Cursor, Copilot & Vibe Coding
 - 📂 [[Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces|02. Cursor IDE Architecture, Composer, and Multi File Edits]] — Using Cursor Composer for cross-file feature scaffolding, `@Files`, `@Codebase`, and `@Docs` context indexing, and reviewing side-by-side diffs.
 - 📂 [[Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context|03. Github Copilot, Inline Completions, and Workspace Indexing]] — Optimizing inline completion acceptance rates, steering completions with descriptive comments and function signatures, and using Copilot in CLI.
 - 📂 [[Plan Before You Code: Specification Driven Development with AI|04. Plan Before You Code and Specification Driven Development]] — Writing exhaustive implementation plans (`implementation_plan.md`) before generating code, validating architecture upfront, and preventing AI drift.
-- 📂 [[Context Engineering: `.cursorrules`, Repository Maps, and Architectural Guides|05. Context Engineering .cursorrules and Repository Maps]] — Configuring project-specific rules (`.cursorrules`), defining style invariants, technology constraints, and generating repo maps for LLM context.
+- 📂 [[Context Engineering: .cursorrules, Repository Maps, and Architectural Guides|05. Context Engineering .cursorrules and Repository Maps]] — Configuring project-specific rules (`.cursorrules`), defining style invariants, technology constraints, and generating repo maps for LLM context.
 - 📂 [[Automating Test Generation: Unit, Integration, and Property Based Tests with AI|06. AI Generated Unit, Integration, and Property Tests]] — Using AI to generate edge-case test matrices, mocking external dependencies, generating property-based test fuzzers, and ensuring 100% test pass rates.
 - 📂 [[Automated Pull Request Code Review with AI (coderabbit, PR Agent)|07. Automated Pull Request Reviewers and Agentic CI]] — Embedding AI PR review bots in GitHub Actions, detecting security flaws, missing test cases, and performance regressions before human review.
 - 📂 `08. Rapid Prototyping and Greenfield Project Scaffolding` — Going from PRD to running prototype in hours, generating database schemas, API routes, UI components, and authentication scaffolding.
