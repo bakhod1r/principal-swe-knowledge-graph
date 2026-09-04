@@ -55,6 +55,35 @@ func TestCollectFilesSkipsToolingAndNonMarkdown(t *testing.T) {
 	}
 }
 
+func TestCollectFilesSkipsFolderIndexNotes(t *testing.T) {
+	root := t.TempDir()
+
+	files := []string{
+		"09. Language/Golang/Golang.md", // index note of its folder
+		"09. Language/Golang/Slices.md", // real material
+		"09. Language/09. Language.md",  // index note, ordering prefix ignored
+	}
+	for _, rel := range files {
+		full := filepath.Join(root, rel)
+		if err := os.MkdirAll(filepath.Dir(full), 0o755); err != nil {
+			t.Fatal(err)
+		}
+		if err := os.WriteFile(full, []byte("note"), 0o644); err != nil {
+			t.Fatal(err)
+		}
+	}
+
+	got, err := CollectFiles([]string{root})
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, f := range got {
+		if base := filepath.Base(f); base == "Golang.md" || base == "09. Language.md" {
+			t.Errorf("index note collected: %s", f)
+		}
+	}
+}
+
 func TestCollectFilesAcceptsASingleFile(t *testing.T) {
 	path := writeNote(t, "## 1. X\n\nbody\n")
 	got, err := CollectFiles([]string{path})

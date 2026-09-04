@@ -50,6 +50,21 @@ func DeckFromPath(path string) string {
 	return strings.Join(deck, "::")
 }
 
+// IsIndexNote reports whether a note is the index (map-of-content) note of its
+// folder — the note named after the folder it sits in, ordering prefix ignored:
+//
+//	.../09. Language/Golang/Golang.md
+//
+// Those notes only link out to the real material, so they make no cards.
+func IsIndexNote(path string) bool {
+	if !strings.HasSuffix(path, ".md") {
+		return false
+	}
+	name := numberPrefixRe.ReplaceAllString(strings.TrimSuffix(filepath.Base(path), ".md"), "")
+	dir := numberPrefixRe.ReplaceAllString(filepath.Base(filepath.Dir(path)), "")
+	return name == dir
+}
+
 // CollectFiles expands the command-line arguments into a list of .md files.
 func CollectFiles(args []string) ([]string, error) {
 	var files []string
@@ -69,6 +84,8 @@ func CollectFiles(args []string) ([]string, error) {
 				return err
 			case d.IsDir() && skipDirs[d.Name()]:
 				return fs.SkipDir
+			case !d.IsDir() && IsIndexNote(path):
+				return nil
 			case !d.IsDir() && strings.HasSuffix(path, ".md"):
 				files = append(files, path)
 			}

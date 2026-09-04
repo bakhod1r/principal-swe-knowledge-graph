@@ -1,0 +1,73 @@
+name: Deploy site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a running deploy finish; queue at most one more.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  QUARTZ_REF: v4.5.2
+  VAULT_DIR: Principal SWE
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Checkout Quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: ${{ env.QUARTZ_REF }}
+          path: quartz
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: quartz/package-lock.json
+
+      - name: Assemble content
+        run: |
+          # .obsidian, .trash and tools are dropped by ignorePatterns in quartz.config.ts.
+          cp -R "vault/$VAULT_DIR" content
+          # Quartz needs an index.md at the content root for the landing page.
+          cp "content/$VAULT_DIR.md" content/index.md
+
+      - name: Install Quartz
+        working-directory: quartz
+        run: npm ci
+
+      - name: Build
+        run: |
+          cp vault/site/quartz.config.ts quartz/quartz.config.ts
+          cd quartz
+          npx quartz build -d "$GITHUB_WORKSPACE/content" -o "$GITHUB_WORKSPACE/public"
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
