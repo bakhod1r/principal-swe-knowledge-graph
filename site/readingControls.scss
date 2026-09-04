@@ -341,6 +341,25 @@ html.focus-mode .page > #quartz-body {
   }
 }
 
+/**
+ * With the right rail closed, spend the freed track on the text.
+ *
+ * The measure bumps above are a floor, not a ceiling: on a wide window 92ch
+ * still falls short of the track, and because `.center > article` is capped
+ * but never centred, every leftover pixel piles up as dead space on the right
+ * while the text stays hard against the left. Letting the article fill the
+ * track puts the same 3rem gutter on both sides — the collapse rules below
+ * already keep that gutter, so nothing ends up against the window edge.
+ *
+ * Left-only collapse is deliberately untouched: there the right rail still
+ * holds the table of contents, so there is no dead space to reclaim.
+ */
+@media all and (min-width: 1201px) {
+  html.rail-right-hidden .page > #quartz-body > .center > article {
+    max-width: none;
+  }
+}
+
 /* Quartz pins `.center` and `footer` to `min-width: 100%`, which otherwise
    wins over any max-width here and leaves the text stretched full-bleed. */
 html.focus-mode .page > #quartz-body > .center,
