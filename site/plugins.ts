@@ -15,6 +15,11 @@ const OPAQUE = new Set(["code", "pre", "kbd", "samp", "var", "math", "script", "
 /** Headings keep their normal weight — bionic markup only touches body copy. */
 const NOT_BODY = new Set(["h1", "h2", "h3", "h4", "h5", "h6", ...OPAQUE])
 
+function asClassList(node: Element): string[] {
+  const cls = node.properties?.className
+  return Array.isArray(cls) ? cls.map(String) : []
+}
+
 /**
  * How much of a word to embolden. Short words get a single character, longer
  * ones roughly the leading 40%, which is the ratio bionic reading is built on.
@@ -44,6 +49,10 @@ export const Bionic: QuartzTransformerPlugin<Partial<BionicOptions>> = (userOpts
         () => (tree: Root) => {
           visit(tree, "element", (node: Element) => {
             if (NOT_BODY.has(node.tagName)) return "skip"
+
+            // Do not descend into markup this plugin just produced, or the
+            // prefix would be re-emboldened on every pass down the tree.
+            if (node.tagName === "b" && asClassList(node).includes("bionic")) return "skip"
 
             const next: (Element | Text)[] = []
             let changed = false
@@ -99,13 +108,14 @@ export const Bionic: QuartzTransformerPlugin<Partial<BionicOptions>> = (userOpts
 interface ComingSoonOptions {
   /**
    * Notes with fewer body words than this are treated as skeletons — the
-   * headings exist but nothing has been written under them yet.
+   * headings exist but nothing has been written under them yet. The vault
+   * splits cleanly here: real notes carry hundreds of words, outlines none.
    */
   minWords: number
 }
 
 const comingSoonDefaults: ComingSoonOptions = {
-  minWords: 40,
+  minWords: 15,
 }
 
 /** Text that every skeleton note carries, so it must not count as content. */

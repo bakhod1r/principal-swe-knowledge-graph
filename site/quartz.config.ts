@@ -89,6 +89,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
+      Plugin.NotFoundPage(),
       // CustomOgImages disabled: 9k+ notes would make builds very slow
       // Plugin.CustomOgImages(),
     ],
