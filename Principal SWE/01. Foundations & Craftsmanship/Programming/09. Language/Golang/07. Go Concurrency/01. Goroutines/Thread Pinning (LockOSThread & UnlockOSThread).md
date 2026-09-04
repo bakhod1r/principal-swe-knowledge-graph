@@ -985,5 +985,5 @@ That is a **real constraint**, not a performance optimization.
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

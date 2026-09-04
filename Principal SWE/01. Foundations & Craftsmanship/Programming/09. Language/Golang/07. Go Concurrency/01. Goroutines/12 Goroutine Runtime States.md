@@ -585,5 +585,5 @@ Once this mental model is clear, the next layer is **how `G`, `M`, and `P` inter
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

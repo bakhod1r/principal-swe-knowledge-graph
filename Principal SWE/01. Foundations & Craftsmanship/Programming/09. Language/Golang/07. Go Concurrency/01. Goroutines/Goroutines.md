@@ -9,7 +9,7 @@ parent: "[[Go Concurrency]]"
 
 # Goroutines
 
-Goroutine fundamentals, CSP model, spawning mechanics, runtime states, leak diagnostics, and thread pinning.
+Goroutine fundamentals, CSP model, spawning mechanics, runtime states, leak diagnostics, deadlock patterns, and thread pinning.
 
 ```text
 Goroutines
@@ -19,6 +19,7 @@ Goroutines
 ├── [[Goroutines vs OS Threads]]
 ├── [[12 Goroutine Runtime States]]
 ├── [[Goroutine Leaks Diagnostics]]
+├── [[Deadlock]]
 └── [[Thread Pinning (LockOSThread & UnlockOSThread)]]
 ```
 
@@ -37,6 +38,6 @@ Goroutines
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Concurrency & Synchronization`
-
-
+- ⬆️ Parent: [[Go Concurrency]]
+- 🔄 Related: [[Goroutine Memory Lifecycle]]
+- 📚 Module: `Concurrency & Synchronization`

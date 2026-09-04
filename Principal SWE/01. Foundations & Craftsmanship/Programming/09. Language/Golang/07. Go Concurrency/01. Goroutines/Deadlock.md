@@ -1,5 +1,5 @@
 ---
-title: "Thread Pinning (LockOSThread & UnlockOSThread)"
+title: "Deadlock"
 tags:
   - review
   - golang
@@ -849,5 +849,5 @@ If you cannot answer that, you probably have a concurrency design problem.
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

@@ -1502,5 +1502,5 @@ It is:
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

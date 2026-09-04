@@ -1247,5 +1247,5 @@ If termination is undefined:
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

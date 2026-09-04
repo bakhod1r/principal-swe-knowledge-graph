@@ -1355,5 +1355,5 @@ Those are architectural responsibilities that you must design around the gorouti
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`

@@ -613,5 +613,5 @@ Do not start with **"How many threads do I need?"** In Go, the better question i
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Goroutines & Memory Lifecycle`
+- ⬆️ Parent: [[Goroutines]]
 - 📚 Module: `Concurrency & Synchronization`
