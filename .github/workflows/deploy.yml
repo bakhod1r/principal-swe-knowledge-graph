@@ -66,8 +66,20 @@ jobs:
           cp vault/site/ReadingControls.tsx quartz/quartz/components/ReadingControls.tsx
           cp vault/site/readingControls.inline.ts quartz/quartz/components/scripts/readingControls.inline.ts
           cp vault/site/readingControls.scss quartz/quartz/components/styles/readingControls.scss
+          cp vault/site/PagefindSearch.tsx quartz/quartz/components/PagefindSearch.tsx
+          cp vault/site/pagefindSearch.inline.ts quartz/quartz/components/scripts/pagefindSearch.inline.ts
+          cp vault/site/pagefindSearch.scss quartz/quartz/components/styles/pagefindSearch.scss
+          cp vault/site/SiblingNav.tsx quartz/quartz/components/SiblingNav.tsx
+          cp vault/site/siblingNav.scss quartz/quartz/components/styles/siblingNav.scss
+          # Quartz leaves a backtick in the slug; it reaches the URL as %60 and
+          # GitHub Pages answers 404 for that path. tools/check_links.py already
+          # rejects such filenames — this is the second line of defence.
+          python3 vault/tools/patch_slug.py quartz/quartz/util/path.ts
           cd quartz
           npx quartz build -d "$GITHUB_WORKSPACE/content" -o "$GITHUB_WORKSPACE/public"
+
+      - name: Build search index (Pagefind)
+        run: npx -y pagefind@latest --site public
 
       - uses: actions/upload-pages-artifact@v3
         with:

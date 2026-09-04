@@ -32,11 +32,33 @@ def collect(root):
     return paths
 
 
+def bad_names(paths):
+    """Paths whose slug GitHub Pages refuses to serve.
+
+    Quartz's slugify leaves a backtick alone, so it reaches the URL as %60 and
+    Pages answers 404 for it. Every other punctuation mark in the vault today
+    (: [ ] * < > & parens) serves fine, so only the backtick is rejected.
+    """
+    return sorted(p for p in paths if "`" in p)
+
+
 def main():
     if not os.path.isdir(ROOT):
         sys.exit(f"content directory not found: {ROOT}")
 
     paths = collect(ROOT)
+
+    unservable = bad_names(paths)
+    if unservable:
+        print(
+            f"filename check FAILED: {len(unservable)} path(s) contain a backtick, "
+            "which GitHub Pages serves as 404 — rename them",
+            file=sys.stderr,
+        )
+        for p in unservable:
+            print(f"  {p}.md", file=sys.stderr)
+        return 1
+
     pathset = set(paths)
     basenames = {os.path.basename(p) for p in paths}
 
