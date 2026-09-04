@@ -1,13 +1,17 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import ReadingControls from "./quartz/components/ReadingControls"
+import PagefindSearch from "./quartz/components/PagefindSearch"
+import SiblingNav from "./quartz/components/SiblingNav"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  // Floating reading dock, on every page type.
-  afterBody: [ReadingControls()],
+  // SiblingNav renders nothing on index and folder pages, so it is safe here;
+  // afterBody is shared across page types in Quartz. Reading dock is floating
+  // and shows everywhere.
+  afterBody: [SiblingNav(), ReadingControls()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/bakhod1r/principal-swe-knowledge-graph",
@@ -32,7 +36,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          // Pagefind instead of Component.Search(): Quartz's index would ship
+          // all 9411 notes to the browser on first paint.
+          Component: PagefindSearch(),
           grow: true,
         },
         // Rendered but hidden: the reading panel drives reader mode, and
@@ -58,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component: Component.Search(),
+          Component: PagefindSearch(),
           grow: true,
         },
       ],

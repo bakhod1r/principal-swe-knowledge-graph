@@ -39,6 +39,18 @@ cp "$VAULT/site/plugins.ts" "$QUARTZ/quartz/plugins/transformers/site.ts"
 cp "$VAULT/site/ReadingControls.tsx" "$QUARTZ/quartz/components/ReadingControls.tsx"
 cp "$VAULT/site/readingControls.inline.ts" "$QUARTZ/quartz/components/scripts/readingControls.inline.ts"
 cp "$VAULT/site/readingControls.scss" "$QUARTZ/quartz/components/styles/readingControls.scss"
+cp "$VAULT/site/PagefindSearch.tsx" "$QUARTZ/quartz/components/PagefindSearch.tsx"
+cp "$VAULT/site/pagefindSearch.inline.ts" "$QUARTZ/quartz/components/scripts/pagefindSearch.inline.ts"
+cp "$VAULT/site/pagefindSearch.scss" "$QUARTZ/quartz/components/styles/pagefindSearch.scss"
+cp "$VAULT/site/SiblingNav.tsx" "$QUARTZ/quartz/components/SiblingNav.tsx"
+cp "$VAULT/site/siblingNav.scss" "$QUARTZ/quartz/components/styles/siblingNav.scss"
+cp "$VAULT/site/NotFound.tsx" "$QUARTZ/quartz/components/pages/404.tsx"
+python3 "$VAULT/tools/patch_slug.py" "$QUARTZ/quartz/util/path.ts"
+
+# Pagefind's index is generated in CI after the build, so search returns
+# "index unavailable" here unless you run:
+#   npx -y pagefind@latest --site "$WORK/public"
+# against a non-serve build.
 
 if [ ! -d "$QUARTZ/node_modules" ]; then
   echo "==> npm ci"
