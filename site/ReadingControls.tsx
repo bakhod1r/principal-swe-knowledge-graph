@@ -148,9 +148,25 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
         </div>
 
         <div class="reading-row">
+          <span class="reading-row-label">Bold</span>
+          <button
+            type="button"
+            class="reading-switch"
+            id="bold-toggle"
+            role="switch"
+            aria-checked="false"
+            aria-label="Bold text"
+          >
+            <span class="reading-switch-track" aria-hidden="true" />
+          </button>
+        </div>
+
+        <div class="reading-row">
           <span class="reading-row-label">Margin</span>
           <div class="reading-segment">
-            {/* Wider margin is a shorter line, so this button shrinks the measure. */}
+            {/* Wider margin is a shorter line, so this button shrinks the measure.
+                The widest stop is immersive reading: both rails hide and the
+                page goes full screen. */}
             <button type="button" class="reading-key" id="margin-wider" aria-label="Wider margin">
               <span class="margin-glyph margin-glyph--wide" aria-hidden="true" />
             </button>
@@ -169,21 +185,6 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
             role="switch"
             aria-checked="true"
             aria-label="Bionic reading"
-          >
-            <span class="reading-switch-track" aria-hidden="true" />
-          </button>
-        </div>
-
-        <div class="reading-row">
-          <span class="reading-row-label">Reader</span>
-          {/* `readermode` is the hook Quartz's own script binds to. */}
-          <button
-            type="button"
-            class="reading-switch readermode"
-            id="reader-toggle"
-            role="switch"
-            aria-checked="false"
-            aria-label="Reader mode"
           >
             <span class="reading-switch-track" aria-hidden="true" />
           </button>
@@ -258,6 +259,7 @@ ReadingControls.beforeDOMLoaded = `
     if (!palette || !modes[palette]) palette = "paper"
     root.setAttribute("data-palette", palette)
     root.setAttribute("saved-theme", modes[palette])
+    if (localStorage.getItem("bold") === "on") root.classList.add("bold-text")
     if (localStorage.getItem("focus") === "on") root.classList.add("focus-mode")
     if (localStorage.getItem("rail-left") === "closed") root.classList.add("rail-left-hidden")
     if (localStorage.getItem("rail-right") === "closed") root.classList.add("rail-right-hidden")
@@ -265,6 +267,11 @@ ReadingControls.beforeDOMLoaded = `
     if (step) root.style.setProperty("--type-step", String(step))
     var measure = parseInt(localStorage.getItem("measure-step") || "0", 10)
     if (measure) root.style.setProperty("--measure-step", String(measure))
+    // -5 is MIN_MEASURE_STEP in readingControls.inline.ts: the widest margin,
+    // which reads as immersive and hides both rails.
+    if (measure <= -5) {
+      root.classList.add("immersive", "rail-left-hidden", "rail-right-hidden")
+    }
   } catch (e) {}
 `
 

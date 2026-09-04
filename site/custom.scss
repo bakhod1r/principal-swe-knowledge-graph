@@ -665,6 +665,27 @@ a.internal.tag-link {
   color: var(--gray);
 }
 
+/* --------------------------------------------------------- bold body */
+
+/**
+ * One weight step for the whole article, for readers who want more ink —
+ * low-contrast screens, bright rooms, tired eyes.
+ *
+ * Only the prose moves. Headings, the sidebars and the panel itself carry
+ * their own weights, and lifting those too would flatten the hierarchy the
+ * page is built on. Every body face here loads a 600, so nothing falls back
+ * to a synthesised bold.
+ */
+html.bold-text article :is(p, li, blockquote, dd, dt, td, th, figcaption) {
+  font-weight: 600;
+}
+
+/* `strong` has to clear the new floor, or emphasis inside bold prose reads
+   as no emphasis at all. */
+html.bold-text article :is(strong, b:not(.bionic)) {
+  font-weight: 700;
+}
+
 /* ------------------------------------------------------ bionic reading */
 
 /* The emboldened prefix should guide the eye, not shout: one weight step and
@@ -677,6 +698,13 @@ b.bionic {
 [saved-theme="dark"] b.bionic {
   /* Bright weight reads heavier on a dark ground, so ease it back. */
   font-weight: 550;
+}
+
+/* Against bold body text a 600 prefix is invisible, so the guide steps up
+   with it and keeps the same one-step lead. */
+html.bold-text b.bionic,
+html.bold-text [saved-theme="dark"] b.bionic {
+  font-weight: 700;
 }
 
 /* ------------------------------------------------------------ sidebars */
@@ -741,15 +769,39 @@ b.bionic {
     margin-top: 1.1rem;
   }
 
-  /* The two containers that would otherwise clip or cap their own height.
-     `.folder-outer > ul` keeps its `overflow: hidden` — that is what makes the
-     collapse animation work. */
+  /* The two containers that would otherwise clip or cap their own height. */
   .page > #quartz-body .sidebar .explorer,
   .page > #quartz-body .sidebar .explorer-content {
     overflow: visible;
     max-height: none;
     min-height: 0;
   }
+}
+
+/**
+ * The tree must not contain a scroll container of its own.
+ *
+ * A wheel over the tree latches onto the innermost scroll container under the
+ * cursor, and Chrome will not chain out of one it considers scrollable — so
+ * `ul.explorer-ul`, which base gives `overflow-y: auto` and `max-height: 100%`,
+ * swallows every wheel event and the rail behind it never moves. `overflow:
+ * clip` on the folder lists is the same clipping without the scroll container,
+ * which is what keeps the collapse animation from leaking.
+ *
+ * Both stops matter, and neither is enough alone: the fix has to hold on the
+ * mobile drawer too, so it is deliberately outside the width queries.
+ */
+.page > #quartz-body .sidebar ul.explorer-ul {
+  overflow: visible;
+  max-height: none;
+}
+
+/* `min-height: 0` is what `overflow: hidden` was buying for free: the folder
+   collapse is a `grid-template-rows: 0fr` animation, and a grid item only
+   shrinks below its content when its automatic minimum size is zeroed. */
+.page > #quartz-body .sidebar .folder-outer > ul {
+  overflow: clip;
+  min-height: 0;
 }
 
 /**

@@ -322,6 +322,25 @@ html.focus-mode .page > #quartz-body {
   display: block;
 }
 
+/**
+ * Reclaim the width a hidden rail gives back.
+ *
+ * `--measure` caps the article, so without this a closed rail only widens the
+ * empty margin. Each closed rail is worth roughly a rail's width of text; the
+ * reading-controls' own `--measure-step` still adds on top.
+ */
+@media all and (min-width: 801px) {
+  html.rail-left-hidden,
+  html.rail-right-hidden {
+    --measure: calc(80ch + var(--measure-step) * 4ch);
+  }
+
+  html.rail-left-hidden.rail-right-hidden,
+  html.focus-mode {
+    --measure: calc(92ch + var(--measure-step) * 4ch);
+  }
+}
+
 /* Quartz pins `.center` and `footer` to `min-width: 100%`, which otherwise
    wins over any max-width here and leaves the text stretched full-bleed. */
 html.focus-mode .page > #quartz-body > .center,
@@ -333,25 +352,44 @@ html.focus-mode .page > #quartz-body > footer {
   box-sizing: border-box;
 }
 
-/* Collapsing a rail closes its grid column, so the article actually gains the
-   width instead of leaving a hole. */
+/**
+ * Pin the article column to its named grid area.
+ *
+ * Base never places `.center` explicitly (it puts `grid-area: grid-center` on
+ * `.center > article`, which is not a grid item), so the column only lands in
+ * the middle track by auto-placement luck: the left rail happens to fill
+ * column 1. Hide that rail and column 1 frees up, `.center` auto-places into
+ * it — and since the collapse rules below set that track to `0`, the article
+ * renders one character wide.
+ */
+.page > #quartz-body > .center {
+  grid-area: grid-center;
+}
+
+/**
+ * Collapsing a rail closes its grid column, so the article actually gains the
+ * width instead of leaving a hole.
+ *
+ * The closed track keeps a gutter rather than going to `0`: text hard against
+ * the window edge is no easier to read than text under a rail.
+ */
 @media all and (min-width: 1201px) {
   html.rail-left-hidden .page > #quartz-body {
-    grid-template-columns: 0 auto 320px;
+    grid-template-columns: 3rem auto 320px;
   }
 
   html.rail-right-hidden .page > #quartz-body {
-    grid-template-columns: 320px auto 0;
+    grid-template-columns: 320px auto 3rem;
   }
 
   html.rail-left-hidden.rail-right-hidden .page > #quartz-body {
-    grid-template-columns: 0 auto 0;
+    grid-template-columns: 3rem auto 3rem;
   }
 }
 
 @media all and (min-width: 801px) and (max-width: 1200px) {
   html.rail-left-hidden .page > #quartz-body {
-    grid-template-columns: 0 auto;
+    grid-template-columns: 3rem auto;
   }
 }
 
@@ -427,9 +465,9 @@ html.focus-mode .rail-toggle {
   display: none;
 }
 
-/* The sidebar's reader-mode button is kept in the DOM only so Quartz bundles
-   its script and styles; the panel switch is the control people see. */
-.sidebar .readermode {
+/* At the widest margin the rails are hidden on purpose, so their tabs would
+   only offer a way to contradict the setting. */
+html.immersive .rail-toggle {
   display: none;
 }
 

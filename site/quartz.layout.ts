@@ -34,14 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     // No search: the tree is the way through the vault, and Quartz's search
     // would ship an index of all 9411 notes to every visitor.
-    Component.Flex({
-      components: [
-        // Rendered but hidden: the reading panel drives reader mode, and
-        // keeping the component in the layout is what bundles its script
-        // and styles.
-        { Component: Component.ReaderMode() },
-      ],
-    }),
     // Quartz's default sort is already folders-first with numeric collation,
     // which is what the vault's `01. …`, `02. …` names need.
     Component.Explorer(),

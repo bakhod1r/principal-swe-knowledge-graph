@@ -215,6 +215,23 @@ function currentMeasureStep(): number {
   return Number.isNaN(parsed) ? 0 : parsed
 }
 
+/**
+ * The widest margin is immersive reading: at the last stop both rails hide and
+ * the page goes full screen, and stepping back off it restores whatever rail
+ * state the reader had chosen. Immersive never writes the rail preferences, so
+ * that state survives the round trip.
+ */
+function immersiveAt(step: number): boolean {
+  return step <= MIN_MEASURE_STEP
+}
+
+function syncImmersive(step: number) {
+  const on = immersiveAt(step)
+  document.documentElement.classList.toggle("immersive", on)
+  applyRail("left", on || read("rail-left", "open") === "closed")
+  applyRail("right", on || read("rail-right", "open") === "closed")
+}
+
 /* --------------------------------------------------------- fullscreen */
 
 function syncFullscreen() {
@@ -274,9 +291,9 @@ document.addEventListener("nav", () => {
   applyTypeface(read("typeface", "source-serif"))
   applyTypeStep(currentStep())
   applyMeasureStep(currentMeasureStep())
+  applyFlag("bold-text", read("bold", "off") === "on", "#bold-toggle")
   applyFlag("focus-mode", read("focus", "off") === "on", "#focus-toggle")
-  applyRail("left", read("rail-left", "open") === "closed")
-  applyRail("right", read("rail-right", "open") === "closed")
+  syncImmersive(currentMeasureStep())
   syncFullscreen()
   setPanel(false)
 
@@ -295,6 +312,12 @@ document.addEventListener("nav", () => {
     document.documentElement.classList.toggle("bionic-off", off)
     setChecked("#bionic-toggle", !off)
     write("bionic", off ? "off" : "on")
+  })
+
+  bind("#bold-toggle", () => {
+    const on = !document.documentElement.classList.contains("bold-text")
+    applyFlag("bold-text", on, "#bold-toggle")
+    write("bold", on ? "on" : "off")
   })
 
   bind("#focus-toggle", () => {
@@ -317,25 +340,23 @@ document.addEventListener("nav", () => {
 
   bind("#type-smaller", () => write("type-step", String(applyTypeStep(currentStep() - 1))))
   bind("#type-larger", () => write("type-step", String(applyTypeStep(currentStep() + 1))))
-  bind("#margin-wider", () =>
-    write("measure-step", String(applyMeasureStep(currentMeasureStep() - 1))),
-  )
-  bind("#margin-narrower", () =>
-    write("measure-step", String(applyMeasureStep(currentMeasureStep() + 1))),
-  )
+  // The click is the user gesture full screen needs, so the request belongs
+  // here rather than in the restore path that runs on every navigation.
+  const stepMargin = (delta: number) => {
+    const was = immersiveAt(currentMeasureStep())
+    const step = applyMeasureStep(currentMeasureStep() + delta)
+    write("measure-step", String(step))
+    syncImmersive(step)
+    const now = immersiveAt(step)
+    if (now !== was && now !== (document.fullscreenElement !== null)) toggleFullscreen()
+  }
+  bind("#margin-wider", () => stepMargin(-1))
+  bind("#margin-narrower", () => stepMargin(1))
   bind("#fullscreen-toggle", toggleFullscreen)
 
   const onFullscreenChange = () => syncFullscreen()
   document.addEventListener("fullscreenchange", onFullscreenChange)
   window.addCleanup(() => document.removeEventListener("fullscreenchange", onFullscreenChange))
-
-  // Quartz owns reader mode; mirror its state onto our switch.
-  const onReaderChange = (ev: Event) => {
-    const detail = (ev as CustomEvent<{ mode: "on" | "off" }>).detail
-    setChecked("#reader-toggle", detail.mode === "on")
-  }
-  document.addEventListener("readermodechange", onReaderChange)
-  window.addCleanup(() => document.removeEventListener("readermodechange", onReaderChange))
 
   // Dismiss the panel the way every popover should: outside click, or Escape.
   const onPointerDown = (ev: Event) => {
