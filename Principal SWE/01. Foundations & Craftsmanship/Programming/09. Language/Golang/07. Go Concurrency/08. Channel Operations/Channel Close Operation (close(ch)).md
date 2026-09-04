@@ -21,5 +21,5 @@ parent: "[[Channel Operations]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Channel Architecture & Operations`
+- ⬆️ Parent: [[Channel Operations]]
 - 📚 Module: `Concurrency & Synchronization`
