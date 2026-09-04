@@ -1,0 +1,43 @@
+name: Publish release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Tag to release (must already exist)
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Write release notes header
+        env:
+          VAULT_DIR: Principal SWE
+          TAG: ${{ inputs.tag || github.ref_name }}
+        run: |
+          notes=$(find "$VAULT_DIR" -name '*.md' | wc -l | tr -d ' ')
+          cat > notes.md <<EOF
+          Snapshot of the knowledge graph at \`$TAG\` — $notes notes.
+
+          Read it online: https://bakhod1r.github.io/principal-swe-knowledge-graph
+          EOF
+
+      - name: Create release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ inputs.tag || github.ref_name }}
+        run: |
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes-file notes.md \
+            --generate-notes

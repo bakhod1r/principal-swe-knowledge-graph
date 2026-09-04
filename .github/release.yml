@@ -1,0 +1,26 @@
+# Categories for GitHub's auto-generated release notes.
+# Vault backup commits land on main directly, so they never appear here —
+# only merged pull requests are listed, grouped by label.
+changelog:
+  exclude:
+    labels:
+      - skip-changelog
+  categories:
+    - title: Notes
+      labels:
+        - notes
+        - content
+    - title: Site
+      labels:
+        - site
+        - quartz
+    - title: Tooling & CI
+      labels:
+        - tooling
+        - ci
+    - title: Fixes
+      labels:
+        - fix
+    - title: Other
+      labels:
+        - "*"
