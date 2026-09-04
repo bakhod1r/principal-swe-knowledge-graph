@@ -51,8 +51,11 @@
   --rule: 1px solid var(--lightgray);
   --rule-strong: 1px solid var(--darkgray);
 
-  /* ~68 characters per line, the comfortable range for long-form reading. */
-  --measure: 68ch;
+  /* ~68 characters per line, the comfortable range for long-form reading.
+     The reading controls widen or narrow it in 4ch steps; a wider margin is
+     the same thing as a shorter line, so one control drives both. */
+  --measure-step: 0;
+  --measure: calc(68ch + var(--measure-step) * 4ch);
   --label: 0.7rem;
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
 
@@ -746,6 +749,32 @@ b.bionic {
     overflow: visible;
     max-height: none;
     min-height: 0;
+  }
+}
+
+/**
+ * Narrow windows get their own scroll region.
+ *
+ * Below 801px the rail stops being a column and becomes a sticky top bar, so
+ * the desktop rule above does not apply — and Quartz's mobile explorer is
+ * `overflow: hidden` at whatever height the tree happens to be, which with
+ * ~1300 folders runs off the bottom of the screen with nothing to scroll.
+ * Capping it against the viewport gives the drawer its own scrollbar.
+ */
+@media all and (max-width: 800px) {
+  .page > #quartz-body .sidebar.left:has(.explorer) {
+    max-height: 100dvh;
+  }
+
+  .page > #quartz-body .explorer {
+    max-height: 100dvh;
+    overflow: hidden;
+  }
+
+  .page > #quartz-body .explorer-content {
+    max-height: calc(100dvh - 6rem);
+    overflow-y: auto;
+    overscroll-behavior: contain;
   }
 }
 

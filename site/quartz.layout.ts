@@ -1,7 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import ReadingControls from "./quartz/components/ReadingControls"
-import PagefindSearch from "./quartz/components/PagefindSearch"
 import SiblingNav from "./quartz/components/SiblingNav"
 
 // components shared across all pages
@@ -33,14 +32,10 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
+    // No search: the tree is the way through the vault, and Quartz's search
+    // would ship an index of all 9411 notes to every visitor.
     Component.Flex({
       components: [
-        {
-          // Pagefind instead of Component.Search(): Quartz's index would ship
-          // all 9411 notes to the browser on first paint.
-          Component: PagefindSearch(),
-          grow: true,
-        },
         // Rendered but hidden: the reading panel drives reader mode, and
         // keeping the component in the layout is what bundles its script
         // and styles.
@@ -61,14 +56,6 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: PagefindSearch(),
-          grow: true,
-        },
-      ],
-    }),
     // Quartz's default sort is already folders-first with numeric collation,
     // which is what the vault's `01. …`, `02. …` names need.
     Component.Explorer(),

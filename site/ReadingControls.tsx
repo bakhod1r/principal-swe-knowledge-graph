@@ -148,6 +148,19 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
         </div>
 
         <div class="reading-row">
+          <span class="reading-row-label">Margin</span>
+          <div class="reading-segment">
+            {/* Wider margin is a shorter line, so this button shrinks the measure. */}
+            <button type="button" class="reading-key" id="margin-wider" aria-label="Wider margin">
+              <span class="margin-glyph margin-glyph--wide" aria-hidden="true" />
+            </button>
+            <button type="button" class="reading-key" id="margin-narrower" aria-label="Narrower margin">
+              <span class="margin-glyph margin-glyph--narrow" aria-hidden="true" />
+            </button>
+          </div>
+        </div>
+
+        <div class="reading-row">
           <span class="reading-row-label">Bionic</span>
           <button
             type="button"
@@ -250,6 +263,8 @@ ReadingControls.beforeDOMLoaded = `
     if (localStorage.getItem("rail-right") === "closed") root.classList.add("rail-right-hidden")
     var step = parseInt(localStorage.getItem("type-step") || "0", 10)
     if (step) root.style.setProperty("--type-step", String(step))
+    var measure = parseInt(localStorage.getItem("measure-step") || "0", 10)
+    if (measure) root.style.setProperty("--measure-step", String(measure))
   } catch (e) {}
 `
 

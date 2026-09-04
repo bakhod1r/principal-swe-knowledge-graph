@@ -1,6 +1,11 @@
 const MIN_STEP = -2
 const MAX_STEP = 4
 
+// 68ch ± 4ch per step: 48ch is still readable, 88ch is as wide as the layout
+// gives before the right rail starts fighting for the space.
+const MIN_MEASURE_STEP = -5
+const MAX_MEASURE_STEP = 5
+
 /**
  * Body typefaces. Each entry carries the CSS stack and, where the family is
  * not already on the page, the Google Fonts stylesheet to fetch for it.
@@ -182,6 +187,31 @@ function applyTypeStep(step: number) {
 function currentStep(): number {
   const raw = document.documentElement.style.getPropertyValue("--type-step").trim()
   const parsed = parseInt(raw === "" ? read("type-step", "0") : raw, 10)
+  return Number.isNaN(parsed) ? 0 : parsed
+}
+
+/* ------------------------------------------------------------- margin */
+
+/**
+ * Line length, in 4ch steps around the 68ch default. A shorter line is a wider
+ * margin, which is the way a reader thinks about it, so the "wider margin"
+ * button walks the step down.
+ */
+function applyMeasureStep(step: number) {
+  const clamped = Math.max(MIN_MEASURE_STEP, Math.min(MAX_MEASURE_STEP, step))
+  document.documentElement.style.setProperty("--measure-step", String(clamped))
+  for (const el of document.querySelectorAll("#margin-wider")) {
+    ;(el as HTMLButtonElement).disabled = clamped <= MIN_MEASURE_STEP
+  }
+  for (const el of document.querySelectorAll("#margin-narrower")) {
+    ;(el as HTMLButtonElement).disabled = clamped >= MAX_MEASURE_STEP
+  }
+  return clamped
+}
+
+function currentMeasureStep(): number {
+  const raw = document.documentElement.style.getPropertyValue("--measure-step").trim()
+  const parsed = parseInt(raw === "" ? read("measure-step", "0") : raw, 10)
   return Number.isNaN(parsed) ? 0 : parsed
 }
 
