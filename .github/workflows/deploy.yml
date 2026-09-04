@@ -58,6 +58,9 @@ jobs:
           cp vault/site/quartz.layout.ts quartz/quartz.layout.ts
           cp vault/site/custom.scss quartz/quartz/styles/custom.scss
           cp vault/site/plugins.ts quartz/quartz/plugins/transformers/site.ts
+          cp vault/site/ReadingControls.tsx quartz/quartz/components/ReadingControls.tsx
+          cp vault/site/readingControls.inline.ts quartz/quartz/components/scripts/readingControls.inline.ts
+          cp vault/site/readingControls.scss quartz/quartz/components/styles/readingControls.scss
           cd quartz
           npx quartz build -d "$GITHUB_WORKSPACE/content" -o "$GITHUB_WORKSPACE/public"
 

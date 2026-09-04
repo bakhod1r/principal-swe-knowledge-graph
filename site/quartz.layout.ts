@@ -1,11 +1,13 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import ReadingControls from "./quartz/components/ReadingControls"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  // Floating reading dock, on every page type.
+  afterBody: [ReadingControls()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/bakhod1r/principal-swe-knowledge-graph",

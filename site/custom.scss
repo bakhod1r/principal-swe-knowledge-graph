@@ -1,28 +1,69 @@
 @use "./base.scss";
 
 /**
- * Principal SWE Knowledge Graph — editorial theme.
+ * Intel One Mono is not on Google Fonts, so Quartz's font pipeline cannot
+ * fetch it. Declared here against the Fontsource CDN.
  *
- * Print-inspired: warm paper ground, serif throughout, hairline rules,
- * no shadows and no rounded corners. Colours come from the palette in
- * quartz.config.ts, so everything references the generated properties.
+ * `@font-face`, not `@import`: Quartz concatenates this file after its own
+ * stylesheets, and an `@import` anywhere but the top of a sheet is invalid.
+ */
+@font-face {
+  font-family: "Intel One Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/npm/@fontsource/intel-one-mono@5/files/intel-one-mono-latin-400-normal.woff2")
+    format("woff2");
+  unicode-range: u+0000-00ff, u+0131, u+0152-0153, u+02bb-02bc, u+2000-206f, u+2212, u+fb00-fb04;
+}
+
+@font-face {
+  font-family: "Intel One Mono";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/npm/@fontsource/intel-one-mono@5/files/intel-one-mono-latin-600-normal.woff2")
+    format("woff2");
+  unicode-range: u+0000-00ff, u+0131, u+0152-0153, u+02bb-02bc, u+2000-206f, u+2212, u+fb00-fb04;
+}
+
+/**
+ * Principal SWE Knowledge Graph.
+ *
+ * One idea runs through the whole sheet: the article is typeset, the chrome is
+ * interface. Body copy gets a serif, a measured column and generous leading;
+ * navigation, metadata and controls get a small system sans in neutral ink.
+ * Accent colour is reserved for interactive state — never for decoration.
+ *
+ * Colours come from the palette in quartz.config.ts, so everything here
+ * references the generated custom properties.
  */
 
 :root {
+  /* Chrome typeface: legible at small sizes, and costs no webfont request. */
+  --uiFont:
+    -apple-system, blinkmacsystemfont, "Segoe UI", system-ui, "Helvetica Neue", arial, sans-serif;
+
+  /* Intel One Mono: drawn for code, with a tall x-height and disambiguated
+     0/O and 1/l/I. IBM Plex Mono stays as the fallback the config loads. */
+  --codeFont: "Intel One Mono", "IBM Plex Mono", ui-monospace, "SF Mono", menlo, monospace;
+
   --rule: 1px solid var(--lightgray);
   --rule-strong: 1px solid var(--darkgray);
 
   /* ~68 characters per line, the comfortable range for long-form reading. */
   --measure: 68ch;
-  --label: 0.72rem;
+  --label: 0.7rem;
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Driven by the reading controls; each step is one pixel of root size. */
+  --type-step: 0;
 }
 
 /* ---------------------------------------------------------------- base */
 
 html {
-  /* Slightly larger than Quartz's default: serif text needs the room. */
-  font-size: 17px;
+  font-size: calc(17px + var(--type-step) * 1px);
   scroll-behavior: smooth;
   scroll-padding-top: 3rem;
   -webkit-font-smoothing: antialiased;
@@ -32,13 +73,111 @@ html {
 
 @media all and (max-width: 800px) {
   html {
-    font-size: 16px;
+    font-size: calc(16px + var(--type-step) * 1px);
   }
+}
+
+/**
+ * Palettes.
+ *
+ * `paper` and `ink` are the two declared in quartz.config.ts and need no
+ * repeating here. The rest override those defaults; each sits at the same
+ * specificity as Quartz's own `:root[saved-theme=…]` rules and comes later in
+ * the sheet, which is what lets it win.
+ *
+ * The reading-controls script also sets `saved-theme` to the matching mode, so
+ * syntax highlighting and icons follow the palette.
+ */
+:root[data-palette="sepia"] {
+  --light: #f4ecd8;
+  --lightgray: #ded0b0;
+  --gray: #8d7f66;
+  --darkgray: #4a3f2f;
+  --dark: #1f1a12;
+  --secondary: #96601c;
+  --tertiary: #b07d33;
+  --highlight: rgb(150 96 28 / 8%);
+  --textHighlight: #d9b77a88;
+}
+
+:root[data-palette="solarized"] {
+  --light: #fdf6e3;
+  --lightgray: #e6dcc3;
+  --gray: #93a1a1;
+  --darkgray: #4a555b;
+  --dark: #073642;
+  --secondary: #b58900;
+  --tertiary: #cb4b16;
+  --highlight: rgb(181 137 0 / 10%);
+  --textHighlight: #b5890055;
+}
+
+:root[data-palette="slate"] {
+  --light: #f7f8fa;
+  --lightgray: #e2e5ea;
+  --gray: #8b929e;
+  --darkgray: #3d434d;
+  --dark: #14171c;
+  --secondary: #2f6f5e;
+  --tertiary: #3d8d78;
+  --highlight: rgb(47 111 94 / 8%);
+  --textHighlight: #a7d8c988;
+}
+
+:root[data-palette="gruvbox"] {
+  --light: #1d2021;
+  --lightgray: #3c3836;
+  --gray: #7c6f64;
+  --darkgray: #d5c4a1;
+  --dark: #fbf1c7;
+  --secondary: #fabd2f;
+  --tertiary: #fe8019;
+  --highlight: rgb(250 189 47 / 10%);
+  --textHighlight: #fabd2f44;
+}
+
+:root[data-palette="nord"] {
+  --light: #2e3440;
+  --lightgray: #3b4252;
+  --gray: #7b869c;
+  --darkgray: #d8dee9;
+  --dark: #eceff4;
+  --secondary: #88c0d0;
+  --tertiary: #81a1c1;
+  --highlight: rgb(136 192 208 / 10%);
+  --textHighlight: #88c0d044;
 }
 
 body {
   letter-spacing: 0;
   font-variant-numeric: oldstyle-nums;
+}
+
+::selection {
+  background: var(--highlight);
+}
+
+:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--lightgray) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--lightgray);
+
+  &:hover {
+    background: var(--gray);
+  }
 }
 
 /* Reading progress. Pure CSS; simply absent where scroll timelines are not
@@ -67,45 +206,17 @@ body {
   }
 }
 
-/* Visible keyboard focus, everywhere. */
-:focus-visible {
-  outline: 2px solid var(--secondary);
-  outline-offset: 2px;
-}
-
-::selection {
-  background: var(--highlight);
-}
-
-* {
-  scrollbar-width: thin;
-  scrollbar-color: var(--lightgray) transparent;
-}
-
-*::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-
-*::-webkit-scrollbar-thumb {
-  background: var(--lightgray);
-
-  &:hover {
-    background: var(--gray);
-  }
-}
-
-/* A reusable typographic label: small, spaced, uppercase. */
+/* A reusable typographic label: small, spaced, uppercase, sans. */
 @mixin label {
-  font-family: var(--headerFont);
+  font-family: var(--uiFont);
   font-size: var(--label);
   font-weight: 600;
-  letter-spacing: 0.13em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--gray);
 }
 
-/* ---------------------------------------------------------- typography */
+/* ------------------------------------------------------------- article */
 
 .center {
   & > article {
@@ -122,8 +233,6 @@ body {
     letter-spacing: -0.012em;
     line-height: 1.2;
     scroll-margin-top: 3rem;
-
-    /* Keeps a heading from leaving one orphaned word on its last line. */
     text-wrap: balance;
   }
 
@@ -151,8 +260,6 @@ body {
   & p,
   & li {
     line-height: 1.75;
-
-    /* Avoids single-word last lines in body copy. */
     text-wrap: pretty;
   }
 
@@ -162,13 +269,8 @@ body {
 
   /* Opening paragraph carries a little extra weight, like a standfirst. */
   & > article > p:first-of-type {
-    font-size: 1.08em;
+    font-size: 1.06em;
     color: var(--dark);
-  }
-
-  & ul,
-  & ol {
-    line-height: 1.68;
   }
 
   & hr {
@@ -176,6 +278,13 @@ body {
     border-top: var(--rule);
     margin: 2.5rem auto;
     width: 100%;
+  }
+
+  & img,
+  & video {
+    display: block;
+    margin: 2rem auto;
+    max-width: 100%;
   }
 
   & > article > :first-child {
@@ -192,41 +301,24 @@ body {
   margin: 0.8rem 0 0.4rem;
 }
 
-/* Links: an underline, as in print. No pills, no fills. */
-a {
-  &.internal {
-    background-color: transparent;
-    border-radius: 0;
-    padding: 0;
-    text-decoration: underline;
-    text-decoration-color: var(--lightgray);
-    text-decoration-thickness: 1px;
-    text-underline-offset: 0.18em;
-    transition: text-decoration-color 0.15s var(--ease);
+/* Links: an underline, as in print. */
+a.internal {
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  text-decoration: underline;
+  text-decoration-color: var(--lightgray);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  transition: text-decoration-color 0.15s var(--ease);
 
-    &:hover {
-      text-decoration-color: var(--secondary);
-    }
-
-    &.tag-link {
-      @include label;
-
-      text-decoration: none;
-      color: var(--gray);
-
-      &::before {
-        content: "";
-      }
-
-      &:hover {
-        color: var(--secondary);
-      }
-    }
+  &:hover {
+    text-decoration-color: var(--secondary);
   }
+}
 
-  &.external .external-icon {
-    opacity: 0.5;
-  }
+a.external .external-icon {
+  opacity: 0.5;
 }
 
 blockquote {
@@ -245,6 +337,18 @@ blockquote {
     bottom: 0.35em;
     width: 1px;
     background: var(--secondary);
+  }
+}
+
+.footnotes {
+  border-top: var(--rule);
+  margin-top: 3rem;
+  padding-top: 1rem;
+  font-size: 0.92em;
+  color: var(--darkgray);
+
+  & li {
+    margin: 0.4rem 0;
   }
 }
 
@@ -322,73 +426,280 @@ pre:hover .clipboard-button {
   }
 }
 
+/* ------------------------------------------------------ page furniture */
+
+.breadcrumb-container {
+  @include label;
+
+  margin-bottom: 1.2rem;
+
+  & a {
+    text-decoration: none;
+    color: var(--gray);
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  & .breadcrumb-element > p {
+    font-size: var(--label);
+  }
+}
+
+.content-meta {
+  @include label;
+
+  margin-top: 0.5rem;
+}
+
+/**
+ * Tags.
+ *
+ * Quartz renders these as filled pills. At the density this vault produces —
+ * five or six per note — pills read as a row of buttons and pull rank over the
+ * title. They are metadata, so they are set as metadata: small, quiet, inline.
+ */
+ul.tags {
+  gap: 0 0.9rem;
+  margin: 0.5rem 0 0;
+  justify-content: flex-start !important;
+}
+
+a.internal.tag-link {
+  @include label;
+
+  /* Tags are slugs — `introduction-to-dsa` — and slugs read badly in caps. */
+  text-transform: none;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+  font-size: 0.74rem;
+  background-color: transparent;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+
+  &::before {
+    content: "#";
+    opacity: 0.45;
+  }
+
+  &:hover {
+    color: var(--secondary);
+  }
+}
+
+.page-footer {
+  border-top: var(--rule-strong);
+  padding-top: 1.2rem;
+  margin-top: 4rem;
+
+  & p,
+  & a {
+    @include label;
+  }
+
+  & a {
+    text-decoration: none;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}
+
+/* ---------------------------------------------------------- coming soon */
+
+.coming-soon {
+  border-top: var(--rule-strong);
+  border-bottom: var(--rule);
+  padding: 1.2rem 0 1.4rem;
+  margin: 0 0 2rem;
+  max-width: var(--measure);
+}
+
+.coming-soon-label {
+  @include label;
+
+  color: var(--secondary);
+  margin: 0 0 0.4rem;
+}
+
+.coming-soon-body {
+  margin: 0;
+  color: var(--gray);
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.coming-soon ~ h2,
+.coming-soon ~ h3 {
+  color: var(--gray);
+}
+
+/* ------------------------------------------------------ bionic reading */
+
+/* The emboldened prefix should guide the eye, not shout: one weight step and
+   a touch more ink. Anything heavier turns the page into noise. */
+b.bionic {
+  font-weight: 600;
+  color: var(--dark);
+}
+
+[saved-theme="dark"] b.bionic {
+  /* Bright weight reads heavier on a dark ground, so ease it back. */
+  font-weight: 550;
+}
+
 /* ------------------------------------------------------------ sidebars */
 
 .sidebar {
-  gap: 1.6rem;
+  gap: 1.1rem;
+
+  /* Quartz reserves 6rem above the rails; with a tree this deep that space is
+     better spent on the tree itself. */
+  padding-top: 2.5rem;
 
   &.left {
     padding-right: 1rem;
   }
 }
 
+@media all and (max-width: 800px) {
+  .sidebar {
+    padding-top: 0;
+  }
+}
+
 .page-title {
-  font-size: 1.35rem;
+  font-size: 1.3rem;
   font-weight: 500;
   letter-spacing: -0.01em;
   line-height: 1.2;
-  padding-bottom: 0.9rem;
+  padding-bottom: 0.8rem;
   border-bottom: var(--rule-strong);
 }
 
-/* Explorer reads as a table of contents for the whole vault. */
+/**
+ * Explorer.
+ *
+ * ~1300 folders deep, so it is navigation furniture, not reading matter:
+ * compact sans, neutral ink, weight for hierarchy. Quartz's default — serif at
+ * 0.95rem in the accent colour — is unreadable at this density.
+ */
+/**
+ * One scroll region, not two.
+ *
+ * Quartz nests a scroller (`.explorer-content`) inside a fixed-height rail,
+ * which depends on a flex chain that this tree's depth breaks — the list runs
+ * past the fold with nothing to scroll. The whole left rail scrolls instead,
+ * which is both simpler and what a reader expects.
+ *
+ * The ID in the selector matches base's own specificity; a plain class would
+ * lose to it.
+ */
+.page > #quartz-body .sidebar.left {
+  padding-top: 2.5rem;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.explorer {
+  flex: 0 0 auto;
+  min-height: 0;
+  overflow: visible;
+}
+
 .explorer-content {
-  font-size: 0.86rem;
+  font-family: var(--uiFont);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  overflow: visible;
+  max-height: none;
+
+  /* Quartz fades out the last 50px, hiding whatever you scrolled down to. */
+  mask-image: none !important;
+
+  & li {
+    margin: 0.05rem 0;
+  }
 
   & .folder-outer > ul {
-    border-left: none;
-    margin-left: 0.5rem;
-    padding-left: 0.8rem;
+    margin-left: 5px;
+    padding-left: 0.6rem;
+    border-left: var(--rule);
   }
 
   & li > a {
+    font-family: var(--uiFont);
+    font-size: 0.8rem;
+    line-height: 1.4;
     text-decoration: none;
     color: var(--darkgray);
+    opacity: 1;
     transition: color 0.12s var(--ease);
 
     &:hover {
       color: var(--secondary);
-      text-decoration: underline;
-      text-underline-offset: 0.18em;
     }
 
     &.active {
       color: var(--dark);
       font-weight: 600;
+      opacity: 1;
     }
   }
 }
 
-.folder-title {
-  font-weight: 500;
-  font-size: 0.9rem;
+.folder-container {
+  & div > a,
+  & div > button > span {
+    font-family: var(--uiFont);
+    font-size: 0.8rem;
+    font-weight: 550;
+    line-height: 1.4;
+    color: var(--darkgray);
+  }
+
+  & div > a:hover,
+  & div > button:hover > span {
+    color: var(--secondary);
+  }
 }
 
-/* Right rail: labelled sections, hairline separated. */
+.folder-icon {
+  color: var(--gray);
+  margin-right: 4px;
+  flex-shrink: 0;
+}
+
+.folder-title {
+  font-family: var(--uiFont);
+  font-weight: 550;
+  font-size: 0.85rem;
+}
+
+button.desktop-explorer h2,
+button.mobile-explorer h2 {
+  @include label;
+}
+
+/* Right rail. */
 .toc,
 .backlinks {
-  & > h3,
-  & > .backlinks-title,
-  & > button > h3 {
+  & h3 {
     @include label;
   }
 }
 
 #toc-content,
 .backlinks-ul {
+  font-family: var(--uiFont);
+  font-size: 0.78rem;
+  line-height: 1.45;
   border-left: none;
   padding-left: 0;
-  font-size: 0.85rem;
 
   & a {
     text-decoration: none;
@@ -454,6 +765,12 @@ pre:hover .clipboard-button {
       font-weight: 600;
     }
 
+    & .search-path {
+      font-family: var(--uiFont);
+      font-size: 0.7rem;
+      color: var(--gray);
+    }
+
     &:hover,
     &:focus,
     &.focus {
@@ -486,52 +803,6 @@ pre:hover .clipboard-button {
   }
 }
 
-/* ------------------------------------------------- breadcrumbs, footer */
-
-.breadcrumb-container {
-  @include label;
-
-  margin-bottom: 1.4rem;
-
-  & a {
-    text-decoration: none;
-    color: var(--gray);
-
-    &:hover {
-      color: var(--secondary);
-    }
-  }
-
-  & .breadcrumb-element > p {
-    font-size: var(--label);
-  }
-}
-
-.content-meta {
-  @include label;
-
-  margin-top: 0.6rem;
-}
-
-.page-footer {
-  border-top: var(--rule-strong);
-  padding-top: 1.2rem;
-  margin-top: 4rem;
-
-  & p,
-  & a {
-    @include label;
-  }
-
-  & a {
-    text-decoration: none;
-
-    &:hover {
-      color: var(--secondary);
-    }
-  }
-}
-
 /* --------------------------------------------------- folder/tag listing */
 
 .page-listing,
@@ -560,76 +831,12 @@ pre:hover .clipboard-button {
   }
 }
 
-/* ------------------------------------------------------ bionic reading */
+/* ------------------------------------------------------------- mobile */
 
-/* The emboldened prefix should guide the eye, not shout. A weight step and a
-   touch more ink is enough; anything heavier turns the page into noise. */
-b.bionic {
-  font-weight: 600;
-  color: var(--dark);
-}
-
-[saved-theme="dark"] b.bionic {
-  /* Bright weight reads heavier on a dark ground, so ease it back. */
-  font-weight: 550;
-}
-
-/* ---------------------------------------------------------- coming soon */
-
-.coming-soon {
-  border-top: var(--rule-strong);
-  border-bottom: var(--rule);
-  padding: 1.2rem 0 1.4rem;
-  margin: 0 0 2rem;
-  max-width: var(--measure);
-}
-
-.coming-soon-label {
-  @include label;
-
-  color: var(--secondary);
-  margin: 0 0 0.4rem;
-}
-
-.coming-soon-body {
-  margin: 0;
-  color: var(--gray);
-  font-style: italic;
-  line-height: 1.6;
-}
-
-/* Placeholder headings under the banner are scaffolding, not content. */
-.coming-soon ~ h2,
-.coming-soon ~ h3 {
-  color: var(--gray);
-}
-
-/* -------------------------------------------------------- media, notes */
-
-.center img,
-.center video {
-  display: block;
-  margin: 2rem auto;
-  max-width: 100%;
-}
-
-.footnotes {
-  border-top: var(--rule);
-  margin-top: 3rem;
-  padding-top: 1rem;
-  font-size: 0.92em;
-  color: var(--darkgray);
-
-  & li {
-    margin: 0.4rem 0;
-  }
-}
-
-/* Comfortable hit targets once the sidebar collapses to a touch surface. */
 @media all and (max-width: 800px) {
   .explorer-content li > a,
   .explorer-content .folder-container {
-    padding: 0.35rem 0;
+    padding: 0.3rem 0;
   }
 
   .article-title {
@@ -648,6 +855,7 @@ b.bionic {
   .search-container,
   .page-footer,
   .breadcrumb-container,
+  .reading-controls,
   .clipboard-button {
     display: none !important;
   }
@@ -676,7 +884,7 @@ b.bionic {
   }
 }
 
-/* ------------------------------------------------------------- a11y */
+/* --------------------------------------------------------------- a11y */
 
 @media (prefers-reduced-motion: reduce) {
   html {
