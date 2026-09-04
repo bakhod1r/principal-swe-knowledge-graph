@@ -36,7 +36,7 @@ Slices
 ├── [[Zero-Copy Slice Reslicing and Overlap Hazards]]
 ├── [[Slice Bounds Check Elimination (BCE) Deep Dive]]
 ├── [[Slices vs Arrays Escape Analysis & Stack Allocation]]
-├── [[sync.Pool of Byte Slices ([]byte Reuse & Buffer Pools)]]
+├── [[sync.Pool of Byte Slices (Byte Slice Reuse and Buffer Pools)]]
 └── [[slices Standard Package (Go 1.21+)]]
 ```
 
@@ -65,7 +65,7 @@ Slices
 - [[Zero-Copy Slice Reslicing and Overlap Hazards]] — Concurrency race conditions and silent overwrite bugs when reslicing shared backing arrays.
 - [[Slice Bounds Check Elimination (BCE) Deep Dive]] — SSA compiler analysis passes for proving slice boundaries and eliminating runtime panic branches.
 - [[Slices vs Arrays Escape Analysis & Stack Allocation]] — Compiler stack allocation vs heap escape analysis for slices.
-- [[sync.Pool of Byte Slices ([]byte Reuse & Buffer Pools)]] — High-throughput zero-GC buffer recycling architectures.
+- [[sync.Pool of Byte Slices (Byte Slice Reuse and Buffer Pools)]] — High-throughput zero-GC buffer recycling architectures.
 - [[slices Standard Package (Go 1.21+)]] — Type-safe generic slice algorithms: `slices.Sort`, `slices.BinarySearch`, `slices.Contains`, `slices.Clone`, `slices.Delete`.
 
 ---

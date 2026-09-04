@@ -86,19 +86,19 @@ Choosing a Language & Polyglot
 - [[Standard Library Quality and Production Readiness]] — Batteries-included standard libraries (Go/Python) vs fragmented third-party ecosystem reliance (Node.js/Rust).
 - [[Community Longevity and Open Source Governance]] — Evaluating foundation stewardship (Linux Foundation, CNCF, Rust Foundation) vs single-corporate proprietary control.
 - [[Static Analysis and Automated Linter Ecosystems]] — Tooling ecosystem maturity for SAST, code formatting, security auditing, and architectural linting.
-### 4. 📂 `04. Interop and Polyglot Architectures`
+### 4. 📂 [[Interop and Polyglot Architectures|04. Interop and Polyglot Architectures]]
 - [[Foreign Function Interface (FFI) and C-ABI Compatibility]] — Zero-copy memory sharing, cross-language pointer passing, and data structure memory layout across language boundaries.
 - [[Contract-First Polyglot Microservices (gRPC and Protobuf)]] — Decoupling language runtimes behind backward-compatible, strictly typed RPC interface definitions.
 - [[WebAssembly (WASM and WASI) as a Universal Polyglot Engine]] — Embedding untrusted polyglot plugins (Rust, Go, C++, Python) inside secure host application runtimes.
 - [[Shared Memory, Ring Buffers, and Low-Latency IPC]] — High-speed inter-process communication using mmap, Unix domain sockets, and shared memory ring buffers.
 - [[Managing Polyglot Data Serialization Overhead]] — Evaluating serialization and deserialization CPU taxes across JSON, Protobuf, FlatBuffers, Cap n Proto, and Avro.
-### 5. 📂 `05. When to Introduce a New Language`
+### 5. 📂 [[When to Introduce a New Language|05. When to Introduce a New Language]]
 - [[Engineering Organizational Complexity and Cognitive Load]] — The hidden operational cost of adding secondary languages: CI/CD pipelines, tooling, observability, and on-call rotations.
 - [[Domain-Specific Language Fit (High-Performance Compute, ML, Web)]] — Identifying hard domain boundaries where a secondary language is justified (e.g. Python for ML, Rust for HFT/WASM, Go for Cloud Services).
 - [[The Two-Language Problem and Unified Language Runtimes]] — Analyzing the friction of prototyping in dynamic languages and rewriting in systems languages.
 - [[Establishing a Language Governance and RFC Process]] — Creating architectural standards, golden paths, and technical review boards before adopting new programming languages.
 - [[Golden Path Tooling and Developer Enablement]] — Building standardized project templates, CI templates, and observability libraries for approved corporate languages.
-### 6. 📂 `06. Migrating Between Languages`
+### 6. 📂 [[Migrating Between Languages|06. Migrating Between Languages]]
 - [[Strangler Fig Pattern for Language Modernization]] — Incrementally replacing legacy language endpoints behind an API gateway with zero downtime.
 - [[Branch by Abstraction in Multi-Language Refactoring]] — Decoupling language components inside monoliths using interface seams and intermediate adapters.
 - [[Automated Code Translation and AST Transpilers]] — Feasibility and gotchas of automated source-to-source compilers vs manual architectural rewrites.

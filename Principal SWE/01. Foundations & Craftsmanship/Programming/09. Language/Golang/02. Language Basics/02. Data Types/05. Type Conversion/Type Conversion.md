@@ -23,7 +23,7 @@ Type Conversion
 ├── [[unsafe.Slice and unsafe.SliceData (Go 1.17+)]]
 ├── [[Type Assertions vs Type Conversions]]
 ├── [[Defined Types vs Type Aliases (type T1 T2 vs type T1 = T2)]]
-└── [[Compiler Optimization for m[string(bytes)] Key Lookups]]
+└── [[Compiler Optimization for Map Lookups with string(bytes) Keys]]
 ```
 
 ---
@@ -38,7 +38,7 @@ Type Conversion
 - [[unsafe.Slice and unsafe.SliceData (Go 1.17+)]] — Modern standard zero-copy conversion from raw memory pointers to `[]T` slice headers.
 - [[Type Assertions vs Type Conversions]] — Compile-time static type casting vs runtime interface type assertions and type switches.
 - [[Defined Types vs Type Aliases (type T1 T2 vs type T1 = T2)]] — Method sets, assignability rules, and underlying type identity.
-- [[Compiler Optimization for m[string(bytes)] Key Lookups]] — Compiler optimization that elides heap allocation when querying maps with byte slices.
+- [[Compiler Optimization for Map Lookups with string(bytes) Keys]] — Compiler optimization that elides heap allocation when querying maps with byte slices.
 
 ---
 

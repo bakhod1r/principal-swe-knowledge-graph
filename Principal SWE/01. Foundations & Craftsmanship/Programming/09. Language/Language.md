@@ -24,30 +24,30 @@ Language
 ## 💻 Language Deep Dives
 
 ### 1. 📂 [[Golang|Golang]]
-- 📂 `01. Go Environment & Commands`
-- 📂 `02. Language Basics`
-- 📂 `03. Methods`
-- 📂 `04. Generics`
-- 📂 `05. Error Handling`
-- 📂 `06. Code Organization`
-- 📂 `07. Go Concurrency`
-- 📂 `08. Standard Library Mastery`
-- 📂 `09. Testing & Benchmarking`
-- 📂 `10. Go Toolchain & Developer Experience`
-- 📂 `11. Advanced Topics & Low-Level Go`
-- 📂 `12. Go Performance Engineering`
-- 📂 `13. Design Patterns in Go`
-- 📂 `14. Runtime & Internals`
-- 📂 `15. Go Standard Library Source Reading`
-- 📂 `16. Observability & Runtime Introspection`
-- 📂 `17. Modern Language Features`
-- 📂 `18. Go Security`
-- 📂 `19. Profiling Tooling`
-- 📂 `20. Go Interfaces`
-- 📂 `21. Go Synchronization`
-- 📂 `22. Cryptography`
-- 📂 `23. Hardening`
-- 📂 `24. Application Architecture`
+- 📂 [[Go Environment & Commands|01. Go Environment & Commands]]
+- 📂 [[Language Basics|02. Language Basics]]
+- 📂 [[Methods|03. Methods]]
+- 📂 [[Generics|04. Generics]]
+- 📂 [[Error Handling|05. Error Handling]]
+- 📂 [[Code Organization|06. Code Organization]]
+- 📂 [[Go Concurrency|07. Go Concurrency]]
+- 📂 [[Standard Library Mastery|08. Standard Library Mastery]]
+- 📂 [[Testing & Benchmarking|09. Testing & Benchmarking]]
+- 📂 [[Go Toolchain & Developer Experience|10. Go Toolchain & Developer Experience]]
+- 📂 [[Advanced Topics & Low-Level Go|11. Advanced Topics & Low-Level Go]]
+- 📂 [[Go Performance Engineering|12. Go Performance Engineering]]
+- 📂 [[Design Patterns in Go|13. Design Patterns in Go]]
+- 📂 [[Runtime & Internals|14. Runtime & Internals]]
+- 📂 [[Go Standard Library Source Reading|15. Go Standard Library Source Reading]]
+- 📂 [[Observability & Runtime Introspection|16. Observability & Runtime Introspection]]
+- 📂 [[Modern Language Features|17. Modern Language Features]]
+- 📂 [[Go Security|18. Go Security]]
+- 📂 [[Profiling Tooling|19. Profiling Tooling]]
+- 📂 [[Go Interfaces|20. Go Interfaces]]
+- 📂 [[Go Synchronization|21. Go Synchronization]]
+- 📂 [[Cryptography|22. Cryptography]]
+- 📂 [[Hardening|23. Hardening]]
+- 📂 [[Application Architecture|24. Application Architecture]]
 
 ### 2. 📂 [[SQL|SQL]]
 - 📂 `01. Relational Database Concepts and Theory`

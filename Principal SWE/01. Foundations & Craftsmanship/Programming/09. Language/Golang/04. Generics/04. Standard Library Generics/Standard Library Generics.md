@@ -18,7 +18,7 @@ Standard Library Generics
 ├── [[maps Package Deep Dive]]
 ├── [[cmp Package Deep Dive]]
 ├── [[sync.Map Typesafe Generic Wrapper]]
-└── [[atomic.Pointer[T] Type Safety (Go 1.19+)]]
+└── [[atomic.Pointer Type Safety (Go 1.19+)]]
 ```
 
 ---
@@ -29,7 +29,7 @@ Standard Library Generics
 - [[maps Package Deep Dive]] — Generic map helpers: maps.Clone, maps.Copy, maps.Equal, maps.DeleteFunc.
 - [[cmp Package Deep Dive]] — Ordering functions: cmp.Compare, cmp.Less, and cmp.Or default fallback values.
 - [[sync.Map Typesafe Generic Wrapper]] — Building a type-safe generic wrapper over sync.Map without casting.
-- [[atomic.Pointer[T] Type Safety (Go 1.19+)]] — Lock-free atomic pointer storage with full generic compile-time type safety.
+- [[atomic.Pointer Type Safety (Go 1.19+)]] — Lock-free atomic pointer storage with full generic compile-time type safety.
 
 ---
 

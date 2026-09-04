@@ -44,7 +44,7 @@ Generics
 │   ├── `maps Package Deep Dive`
 │   ├── `cmp Package Deep Dive`
 │   ├── `sync.Map Typesafe Generic Wrapper`
-│   └── [[atomic.Pointer[T] Type Safety (Go 1.19+)]]
+│   └── [[atomic.Pointer Type Safety (Go 1.19+)]]
 ├── [[Compiler Mechanics & GcShape Stenciling|05. Compiler Mechanics & GcShape Stenciling]]
 │   ├── `GcShape Stenciling Algorithm`
 │   ├── `Dictionary Parameter Passing`
@@ -70,23 +70,18 @@ Generics
 
 ## 🗂️ Core Categories & Topics
 
-### 1. 📂 [[Type Parameters & Functions|01. Type Parameters & Functions]]
+### 📂 [[Type Parameters & Functions|01. Type Parameters & Functions]]
 - [[Parametric Polymorphism Problem Statement]] — Why Go avoided generics for a decade and the problems type parameters solve.
 - [[Generic Function Declarations & Invocation]] — Syntax for declaring and calling parameterized functions with [T any].
 - [[Generic Method Limitations]] — Why Go does not allow parameterized methods on non-generic structs and function alternatives.
 - [[Type Inference Algorithms]] — Function argument type inference and constraint type inference mechanics.
 - [[Instantiation Mechanics & Monomorphization]] — Compile-time type parameter validation, substitution, and instantiation.
 - [[Generic Zero Value Idioms]] — Returning zero values in generic functions using var zero T and new(T).
-### 2. 📂 `02. Type Constraints & Type Sets`
-- [[Predeclared Constraints (any vs comparable)]] — Contrasting any with comparable and interface equality constraints.
-- [[comparable Contract & Interface Equality Pitfalls]] — Why comparing non-comparable concrete types stored in interface fields panics at runtime.
-- [[Type Sets Mathematical Model]] — Interfaces as mathematical type sets rather than purely method sets.
-- [[Union Element (Pipe) & Intersection Sets]] — Defining type unions (int | int64 | float64) and intersection rules.
-- [[Underlying Types & Tilde Operator (~T)]] — Matching user-defined custom types with underlying primitives using ~T.
-- [[cmp.Ordered Constraint]] — Standard constraint for types supporting <, <=, >, and >= comparison operators.
-- [[Recursive Constraint Interfaces]] — Self-referential constraints (type Node[T Node[T]] interface).
-- [[Structural Constraint Interfaces]] — Combining method signatures and type elements within a single interface.
-### 3. 📂 [[Generic Data Structures & Collections|03. Generic Data Structures & Collections]]
+### 📂 [[Type Constraints|02. Type Constraints]]
+
+### 📂 [[Type Sets|08. Type Sets]]
+
+### 📂 [[Generic Data Structures & Collections|03. Generic Data Structures & Collections]]
 - [[Generic Slice Wrapper & High-Order Functions]] — Building type-safe Map, Filter, Reduce, FlatMap, and Chunk slice helpers.
 - [[Generic Lock-Free Stack (Treiber Stack)]] — Concurrent lock-free LIFO stack using atomic pointer CAS operations.
 - [[Generic Lock-Free Queue (Michael-Scott Queue)]] — High-throughput lock-free FIFO queue with atomic head and tail pointers.
@@ -95,26 +90,26 @@ Generics
 - [[Generic Priority Queue (Binary Heap)]] — Type-safe generic priority queue wrapping container/heap.
 - [[Generic Ring Buffer & Circular Queue]] — Fixed-capacity circular ring buffer for zero-allocation stream buffering.
 - [[Generic Result and Option Monads]] — Functional error and optionality handling patterns (Result[T, E] and Option[T]).
-### 4. 📂 [[Standard Library Generics|04. Standard Library Generics]]
+### 📂 [[Standard Library Generics|04. Standard Library Generics]]
 - [[slices Package Deep Dive]] — Generic slice algorithms: slices.Sort, slices.BinarySearch, slices.Contains, slices.Clone, slices.Delete.
 - [[maps Package Deep Dive]] — Generic map helpers: maps.Clone, maps.Copy, maps.Equal, maps.DeleteFunc.
 - [[cmp Package Deep Dive]] — Ordering functions: cmp.Compare, cmp.Less, and cmp.Or default fallback values.
 - [[sync.Map Typesafe Generic Wrapper]] — Building a type-safe generic wrapper over sync.Map without casting.
-- [[atomic.Pointer[T] Type Safety (Go 1.19+)]] — Lock-free atomic pointer storage with full generic compile-time type safety.
-### 5. 📂 [[Compiler Mechanics & GcShape Stenciling|05. Compiler Mechanics & GcShape Stenciling]]
+- [[atomic.Pointer Type Safety (Go 1.19+)]] — Lock-free atomic pointer storage with full generic compile-time type safety.
+### 📂 [[Compiler Mechanics & GcShape Stenciling|05. Compiler Mechanics & GcShape Stenciling]]
 - [[GcShape Stenciling Algorithm]] — How Go shares machine code across all pointer types with identical GC shapes.
 - [[Dictionary Parameter Passing]] — How the runtime passes type metadata dictionaries for scalar types at call sites.
 - [[Monomorphization vs Type Erasure vs GcShape]] — Comparing C++ monomorphization, Java type erasure, and Go hybrid GcShape stenciling.
 - [[Binary Size Bloat & Compilation Time Analysis]] — Analyzing the impact of generic instantiation on binary size and compilation speed.
 - [[Generics vs Interfaces Performance Benchmarks]] — Zero-allocation execution, devirtualization, and 3-5x CPU performance gains over reflection.
-### 6. 📂 [[Generic Architecture & Design Patterns|06. Generic Architecture & Design Patterns]]
+### 📂 [[Generic Architecture & Design Patterns|06. Generic Architecture & Design Patterns]]
 - [[Generic Repository Pattern in Clean Architecture]] — Universal CRUD database repository interfaces (Repository[T, ID]).
 - [[Generic Unit of Work Pattern]] — Managing multi-repository database transactions with generic contracts.
 - [[Generic Builder & Functional Options Pattern]] — Constructing complex typed domain objects with validation.
 - [[Generic Event Bus & PubSub Pipeline]] — Type-safe event dispatcher and topic subscriber routing in Go.
 - [[Generic Middleware & Handler Pipeline]] — Composable request/response middleware chains without interface boxing.
 - [[Generic Object Pool (sync.Pool Wrapper)]] — Zero-allocation typed object reuse wrapping sync.Pool.
-### 7. 📂 [[Limitations, Gotchas & Anti-Patterns|07. Limitations, Gotchas & Anti-Patterns]]
+### 📂 [[Limitations, Gotchas & Anti-Patterns|07. Limitations, Gotchas & Anti-Patterns]]
 - [[No Generic Methods on Non-Generic Types Trap]] — Why methods cannot introduce new type parameters and package-level function workarounds.
 - [[No Type Assertions on Type Parameters]] — Why T.(int) is illegal and how to perform type dispatching via interface boxing.
 - [[The Over-Parameterization Anti-Pattern]] — Avoiding unnecessary type parameter clutter that harms API readability.

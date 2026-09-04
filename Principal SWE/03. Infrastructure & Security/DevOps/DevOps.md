@@ -37,7 +37,7 @@ DevOps
 
 ## 🚀 Core Knowledge Pillars
 
-### 1. 📂 `01. Core DevOps Principles & Automation Tooling`
+### 📂 [[Core DevOps Principles|01. Core DevOps Principles]]
 - 📂 `01. Learn a Programming Language for Devops`
 - 📂 `02. Operating System and Linux Basics`
 - 📂 `03. Terminal Knowledge and Text Processing`
@@ -46,38 +46,44 @@ DevOps
 - 📂 `06. Linux Process and Service Management`
 - 📂 `07. Web Servers and Reverse Proxies`
 - 📂 `08. Building for Scale and Load Balancing`
-- 📂 `09. Continuous Integration and CI Tools`
-- 📂 `10. Continuous Delivery and Deployment CD`
-- 📂 `11. Infrastructure Provisioning Tools`
-- 📂 `12. Configuration Management and Ansible`
-- 📂 `13. Secret Management in Pipelines`
-- 📂 `14. Containerization and Container Basics`
-- 📂 `15. Container Orchestration Paradigms`
-- 📂 `16. Infrastructure Monitoring and Alerting`
-- 📂 `17. Centralized Logging and Log Aggregation`
-- 📂 `18. Distributed Tracing and Opentelemetry`
-- 📂 `19. Cloud Providers and Hybrid Deployments`
-- 📂 `20. Git and Version Control Best Practices`
-- 📂 `21. Disaster Recovery and Backup Automation`
-- 📂 `22. Sre Culture and Incident Response`
-### 2. 📂 `02. Docker & Container Runtime Internals`
+- 📂 `09. Containerization and Container Basics`
+- 📂 `10. Container Orchestration Paradigms`
+- 📂 `11. Cloud Providers and Hybrid Deployments`
+- 📂 `12. Git and Version Control Best Practices`
+- 📂 `13. Sre Culture and Incident Response`
+
+### 📂 [[DevOps Automation Tooling|15. DevOps Automation Tooling]]
+- 📂 `01. Continuous Integration and CI Tools`
+- 📂 `02. Continuous Delivery and Deployment CD`
+- 📂 `03. Infrastructure Provisioning Tools`
+- 📂 `04. Configuration Management and Ansible`
+- 📂 `05. Secret Management in Pipelines`
+- 📂 `06. Infrastructure Monitoring and Alerting`
+- 📂 `07. Centralized Logging and Log Aggregation`
+- 📂 `08. Distributed Tracing and Opentelemetry`
+- 📂 `09. Disaster Recovery and Backup Automation`
+
+### 📂 [[Docker|02. Docker]]
 - 📂 `01. Docker Engine Architecture and Oci Standards`
-- 📂 `02. Linux Namespaces and Process Isolation`
-- 📂 `03. Control Groups cgroups V1 and V2 Resource Limits`
-- 📂 `04. Union Filesystems and Overlayfs Storage Drivers`
-- 📂 `05. Dockerfile Optimization and Multi Stage Builds`
-- 📂 `06. Container Networking Models Bridge, Host, Overlay`
-- 📂 `07. Storage Volumes, Bind Mounts, and Tmpfs`
-- 📂 `08. Docker Compose for Multi Container Development`
-- 📂 `09. Rootless Docker and Container Security Hardening`
-- 📂 `10. Container Image Registries and Scanning`
-- 📂 `11. Container Image Signing with Cosign and Notary`
-- 📂 `12. Docker Cli Power Tools and Container Debugging`
-- 📂 `13. Alternative Container Runtimes Podman and Buildah`
-- 📂 `14. Microvms and Sandbox Runtimes Firecracker and Gvisor`
-- 📂 `15. Container Lifecycle Management and Clean Up`
-- 📂 `16. Production Container Troubleshooting Runbook`
-### 3. 📂 `03. Kubernetes & Cloud-Native Orchestration`
+- 📂 `02. Dockerfile Optimization and Multi Stage Builds`
+- 📂 `03. Container Networking Models Bridge, Host, Overlay`
+- 📂 `04. Storage Volumes, Bind Mounts, and Tmpfs`
+- 📂 `05. Docker Compose for Multi Container Development`
+- 📂 `06. Rootless Docker and Container Security Hardening`
+- 📂 `07. Container Image Registries and Scanning`
+- 📂 `08. Container Image Signing with Cosign and Notary`
+- 📂 `09. Docker Cli Power Tools and Container Debugging`
+- 📂 `10. Container Lifecycle Management and Clean Up`
+- 📂 `11. Production Container Troubleshooting Runbook`
+
+### 📂 [[Container Runtime Internals|18. Container Runtime Internals]]
+- 📂 `01. Linux Namespaces and Process Isolation`
+- 📂 `02. Control Groups cgroups V1 and V2 Resource Limits`
+- 📂 `03. Union Filesystems and Overlayfs Storage Drivers`
+- 📂 `04. Alternative Container Runtimes Podman and Buildah`
+- 📂 `05. Microvms and Sandbox Runtimes Firecracker and Gvisor`
+
+### 📂 [[Kubernetes|03. Kubernetes]]
 - 📂 `01. Kubernetes Control Plane and Worker Node Architecture`
 - 📂 `02. Pods, Replicasets, and Deployments`
 - 📂 `03. Statefulsets and Stateful Cluster Orchestration`
@@ -88,12 +94,15 @@ DevOps
 - 📂 `08. Configmaps, Secrets, and External Secrets Operator`
 - 📂 `09. Persistent Volumes, Pvcs, and CSI Storage Drivers`
 - 📂 `10. Autoscaling Hpa, Vpa, and Cluster Autoscaler`
-- 📂 `11. Custom Resource Definitions CRDs and Kubernetes Operators`
-- 📂 `12. Package Management with Helm and Kustomize`
-- 📂 `13. Service Mesh Architecture Istio and Linkerd`
-- 📂 `14. Kubernetes Security, Rbac, and Admission Controllers`
-- 📂 `15. Gitops Continuous Delivery with Argocd and Flux`
-### 4. 📂 `04. Terraform & Infrastructure as Code (IaC)`
+- 📂 `11. Kubernetes Security, Rbac, and Admission Controllers`
+
+### 📂 [[Cloud-Native Orchestration|12. Cloud-Native Orchestration]]
+- 📂 `01. Custom Resource Definitions CRDs and Kubernetes Operators`
+- 📂 `02. Package Management with Helm and Kustomize`
+- 📂 `03. Service Mesh Architecture Istio and Linkerd`
+- 📂 `04. Gitops Continuous Delivery with Argocd and Flux`
+
+### 📂 [[Terraform|04. Terraform]]
 - 📂 `01. Terraform Architecture and Core Workflow`
 - 📂 `02. Hashicorp Configuration Language HCL Syntax`
 - 📂 `03. State Management and Remote Backends`
@@ -107,68 +116,80 @@ DevOps
 - 📂 `11. Resource Lifecycles and Provisioners`
 - 📂 `12. Terragrunt for Dry Infrastructure Architectures`
 - 📂 `13. Terraform Cloud, Enterprise, and Spacelift`
-- 📂 `14. Opentofu Fork and Open Source Ecosystem`
-- 📂 `15. Policy As Code with Sentinel and OPA Rego`
-- 📂 `16. Static Security Analysis with Checkov and Tfsec`
-- 📂 `17. Automated Testing with Terratest`
-- 📂 `18. Drift Detection and Continuous Reconciliation`
-- 📂 `19. Multi Cloud and Multi Account Landing Zones`
-- 📂 `20. Infrastructure Cost Estimation with Infracost`
-- 📂 `21. Zero Downtime Infrastructure Refactoring`
-- 📂 `22. Production Terraform Troubleshooting and State Recovery`
-### 5. 📂 `05. AWS Cloud Platform & Enterprise Infrastructure`
+- 📂 `14. Automated Testing with Terratest`
+- 📂 `15. Production Terraform Troubleshooting and State Recovery`
+
+### 📂 [[Infrastructure as Code|14. Infrastructure as Code]]
+- 📂 `01. Opentofu Fork and Open Source Ecosystem`
+- 📂 `02. Policy As Code with Sentinel and OPA Rego`
+- 📂 `03. Static Security Analysis with Checkov and Tfsec`
+- 📂 `04. Drift Detection and Continuous Reconciliation`
+- 📂 `05. Multi Cloud and Multi Account Landing Zones`
+- 📂 `06. Infrastructure Cost Estimation with Infracost`
+- 📂 `07. Zero Downtime Infrastructure Refactoring`
+
+### 📂 [[AWS Cloud Platform|05. AWS Cloud Platform]]
+- 📂 `01. Elastic Compute Cloud EC2 and Auto Scaling Groups`
+- 📂 `02. Simple Storage Service S3 Architecture and Security`
+- 📂 `03. Elastic Block Store Ebs and Elastic File System Efs`
+- 📂 `04. Relational Database Service RDS and Aurora Architecture`
+- 📂 `05. Dynamodb Distributed Nosql Database`
+- 📂 `06. AWS Lambda and Serverless Compute Architectures`
+- 📂 `07. Elastic Container Service ECS and Fargate`
+- 📂 `08. Elastic Kubernetes Service EKS Production Clusters`
+- 📂 `09. Identity and Access Management IAM Deep Dive`
+- 📂 `10. Key Management Service Kms and Secrets Manager`
+- 📂 `11. Cloudwatch, Cloudtrail, and AWS Observability`
+- 📂 `12. AWS Security Services Guardduty, Waf, and Shield`
+- 📂 `13. AWS Well Architected Framework and Finops Cost Management`
+- 📂 `14. Cloudformation and AWS Cloud Development Kit Cdk`
+
+### 📂 [[AWS Enterprise Infrastructure|20. AWS Enterprise Infrastructure]]
 - 📂 `01. AWS Global Infrastructure and Multi Region Design`
-- 📂 `02. Elastic Compute Cloud EC2 and Auto Scaling Groups`
-- 📂 `03. Virtual Private Cloud VPC and Network Topologies`
-- 📂 `04. AWS Transit Gateway and Hybrid Cloud Connectivity`
-- 📂 `05. Elastic Load Balancing Elb and Application Load Balancer`
-- 📂 `06. Route 53 DNS and Global Traffic Management`
-- 📂 `07. Simple Storage Service S3 Architecture and Security`
-- 📂 `08. Elastic Block Store Ebs and Elastic File System Efs`
-- 📂 `09. Relational Database Service RDS and Aurora Architecture`
-- 📂 `10. Dynamodb Distributed Nosql Database`
-- 📂 `11. AWS Lambda and Serverless Compute Architectures`
-- 📂 `12. Elastic Container Service ECS and Fargate`
-- 📂 `13. Elastic Kubernetes Service EKS Production Clusters`
-- 📂 `14. Identity and Access Management IAM Deep Dive`
-- 📂 `15. Key Management Service Kms and Secrets Manager`
-- 📂 `16. Cloudwatch, Cloudtrail, and AWS Observability`
-- 📂 `17. AWS Security Services Guardduty, Waf, and Shield`
-- 📂 `18. AWS Well Architected Framework and Finops Cost Management`
-- 📂 `19. Cloudformation and AWS Cloud Development Kit Cdk`
-### 6. 📂 `06. Linux Systems Administration & Kernel Engineering`
+- 📂 `02. Virtual Private Cloud VPC and Network Topologies`
+- 📂 `03. AWS Transit Gateway and Hybrid Cloud Connectivity`
+- 📂 `04. Elastic Load Balancing Elb and Application Load Balancer`
+- 📂 `05. Route 53 DNS and Global Traffic Management`
+
+### 📂 [[Linux Systems Administration|06. Linux Systems Administration]]
 - 📂 `01. Linux Directory Hierarchy and Filesystem Standards`
 - 📂 `02. Linux Core Commands and Text Manipulation`
 - 📂 `03. Linux User, Group, and Permission Models`
 - 📂 `04. Posix Access Control Lists ACLs and File Attributes`
 - 📂 `05. Process Lifecycle, Signals, and Daemon Management`
 - 📂 `06. Systemd Architecture, Targets, and Journald`
-- 📂 `07. Linux Memory Architecture and Swap Management`
-- 📂 `08. Storage Management Lvm, Raid, and Partitioning`
-- 📂 `09. Linux Filesystem Internals Ext4 and Xfs`
-- 📂 `10. Linux Networking Tools and Socket Inspection`
-- 📂 `11. Linux Firewalling Netfilter, Iptables, and Nftables`
-- 📂 `12. SSH Daemon Hardening and Key Management`
-- 📂 `13. Linux Kernel Performance Tuning with Sysctl`
-- 📂 `14. Cron, Anacron, and Systemd Timers`
-- 📂 `15. Linux Logging Architecture Syslog and Rsyslog`
-- 📂 `16. Linux Backup and Archiving Utilities`
-- 📂 `17. Linux Security Modules Apparmor and Selinux`
-- 📂 `18. Linux Systems Performance Troubleshooting Runbook`
-### 7. 📂 `07. Cloudflare, Edge Computing & CDN Infrastructure`
+- 📂 `07. Storage Management Lvm, Raid, and Partitioning`
+- 📂 `08. Linux Networking Tools and Socket Inspection`
+- 📂 `09. SSH Daemon Hardening and Key Management`
+- 📂 `10. Cron, Anacron, and Systemd Timers`
+- 📂 `11. Linux Logging Architecture Syslog and Rsyslog`
+- 📂 `12. Linux Backup and Archiving Utilities`
+- 📂 `13. Linux Systems Performance Troubleshooting Runbook`
+
+### 📂 [[Kernel Engineering|19. Kernel Engineering]]
+- 📂 `01. Linux Memory Architecture and Swap Management`
+- 📂 `02. Linux Filesystem Internals Ext4 and Xfs`
+- 📂 `03. Linux Firewalling Netfilter, Iptables, and Nftables`
+- 📂 `04. Linux Kernel Performance Tuning with Sysctl`
+- 📂 `05. Linux Security Modules Apparmor and Selinux`
+
+### 📂 [[Cloudflare Edge Computing|07. Cloudflare Edge Computing]]
 - 📂 `01. Cloudflare Architecture and Anycast Global Network`
-- 📂 `02. Edge DNS and Managed DNS Records`
-- 📂 `03. CDN Caching Strategies and Edge Purging`
-- 📂 `04. Cloudflare Workers and V8 Isolate Architecture`
-- 📂 `05. Edge Storage Kv, D1, and R2 Object Storage`
-- 📂 `06. Cloudflare Web Application Firewall WAF and Rulesets`
-- 📂 `07. Ddos Mitigation and Rate Limiting at the Edge`
-- 📂 `08. Cloudflare Bot Management and Turnstile`
-- 📂 `09. Cloudflare Zero Trust and Access Gateway`
-- 📂 `10. Page Rules, Transform Rules, and Url Rewrites`
-- 📂 `11. SSL TLS Encryption Modes and Origin Certificates`
-- 📂 `12. Cloudflare Observability, Analytics, and Logpush`
-### 8. 📂 [[MLOps & Machine Learning Operations|08. MLOps & Machine Learning Operations]]
+- 📂 `02. Cloudflare Workers and V8 Isolate Architecture`
+- 📂 `03. Cloudflare Web Application Firewall WAF and Rulesets`
+- 📂 `04. Ddos Mitigation and Rate Limiting at the Edge`
+- 📂 `05. Cloudflare Bot Management and Turnstile`
+- 📂 `06. Cloudflare Zero Trust and Access Gateway`
+- 📂 `07. Cloudflare Observability, Analytics, and Logpush`
+
+### 📂 [[CDN Infrastructure|17. CDN Infrastructure]]
+- 📂 `01. Edge DNS and Managed DNS Records`
+- 📂 `02. CDN Caching Strategies and Edge Purging`
+- 📂 `03. Edge Storage Kv, D1, and R2 Object Storage`
+- 📂 `04. Page Rules, Transform Rules, and Url Rewrites`
+- 📂 `05. SSL TLS Encryption Modes and Origin Certificates`
+
+### 📂 [[MLOps & Machine Learning Operations|08. MLOps & Machine Learning Operations]]
 - 📂 `01. MLOps Architecture and ML Lifecycle Standards`
 - 📂 `02. Data Versioning and Lineage with DVC`
 - 📂 `03. Feature Stores Architecture Feast and Hopsworks`
@@ -180,41 +201,41 @@ DevOps
 - 📂 `09. Model Deployment Strategies Canary and Shadow Deployments`
 - 📂 `10. GPU Cluster Orchestration and Scheduling in Kubernetes`
 - 📂 `11. Production Llm Operations and Serving Llmops`
-### 9. 📂 `09. Network Engineering & Enterprise Protocols`
+### 📂 [[Network Engineering|09. Network Engineering]]
+- 📂 `01. Network Security Firewalls, Ids Ips, and VPN Tunnels`
+- 📂 `02. Layer 4 vs Layer 7 Load Balancing and Traffic Routing`
+- 📂 `03. Network Automation with Python, Netmiko, and Ansible`
+- 📂 `04. Network Observability, Packet Analysis, and Troubleshooting`
+- 📂 `05. Software Defined Networking Sdn and Sd WAN Architecture`
+- 📂 `06. Cloud Virtual Private Clouds VPC and Hybrid Interconnects`
+- 📂 `07. High Performance Kernel Bypass Networking Dpdk and Rdma`
+
+### 📂 [[Enterprise Protocols|16. Enterprise Protocols]]
 - 📂 `01. Osi Model and Tcp Ip Protocol Suite Architecture`
 - 📂 `02. Ip Addressing, Cidr Subnetting, and Ipv6 Migration`
 - 📂 `03. Enterprise Routing Protocols Bgp, Ospf, and Rip`
 - 📂 `04. Layer 2 Switching, Vlans, and Spanning Tree Protocol`
 - 📂 `05. Enterprise Network Services DNS Anycast, Dhcp, and Ntp`
-- 📂 `06. Network Security Firewalls, Ids Ips, and VPN Tunnels`
-- 📂 `07. Layer 4 vs Layer 7 Load Balancing and Traffic Routing`
-- 📂 `08. Network Automation with Python, Netmiko, and Ansible`
-- 📂 `09. Network Observability, Packet Analysis, and Troubleshooting`
-- 📂 `10. Software Defined Networking Sdn and Sd WAN Architecture`
-- 📂 `11. Cloud Virtual Private Clouds VPC and Hybrid Interconnects`
-- 📂 `12. High Performance Kernel Bypass Networking Dpdk and Rdma`
-### 10. 📂 `10. DevSecOps & Cloud-Native Security Automation`
+
+### 📂 [[DevSecOps|10. DevSecOps]]
 - 📂 `01. Shift Left Security Culture and Devsecops Frameworks`
 - 📂 `02. Automated SAST and DAST in CI CD Pipelines`
-- 📂 `03. Container Image Security and Vulnerability Scanning`
-- 📂 `04. Infrastructure As Code Security Linting and Guardrails`
-- 📂 `05. Dynamic Secrets Injection and Ephemeral Credentials`
-- 📂 `06. Cloud Native Runtime Security with Falco and Ebpf`
-- 📂 `07. Software Supply Chain Security Slsa, Cosign, and SBOM`
-- 📂 `08. Policy As Code with Open Policy Agent OPA and Kyverno`
-- 📂 `09. Cloud Security Posture Management Cspm Automation`
-- 📂 `10. Continuous Compliance, Audit Trails, and Devsecops Runbooks`
-### 11. 📂 `11. Git & GitHub Version Control & CI-CD Automation`
-- 📂 `01. 01. Git Plumbing, Internals & Core Mechanics`
-- 📂 `02. 02. Branching Strategies & Merge Topologies`
-- 📂 `03. 03. Advanced Rebasing, Cherry-Picking & History Rewriting`
-- 📂 `04. 04. Conflict Resolution & Interactive Debugging`
-- 📂 `05. 05. GitHub Enterprise Workflows & PR Engineering`
-- 📂 `06. 06. GitHub Actions CI-CD & Workflow Automation`
-- 📂 `07. 07. Repository Security, Secrets & Supply Chain Hardening`
-- 📂 `08. 08. GitOps, Enterprise CLI & Automation Tooling`
+- 📂 `03. Infrastructure As Code Security Linting and Guardrails`
+- 📂 `04. Software Supply Chain Security Slsa, Cosign, and SBOM`
+- 📂 `05. Continuous Compliance, Audit Trails, and Devsecops Runbooks`
 
----
+### 📂 [[Cloud-Native Security Automation|13. Cloud-Native Security Automation]]
+- 📂 `01. Container Image Security and Vulnerability Scanning`
+- 📂 `02. Dynamic Secrets Injection and Ephemeral Credentials`
+- 📂 `03. Cloud Native Runtime Security with Falco and Ebpf`
+- 📂 `04. Policy As Code with Open Policy Agent OPA and Kyverno`
+- 📂 `05. Cloud Security Posture Management Cspm Automation`
+
+### 📂 [[Git Version Control|11. Git Version Control]]
+- 📂 [[Git Plumbing, Internals & Core Mechanics|01. 01. Git Plumbing, Internals & Core Mechanics]]
+- 📂 [[Branching Strategies & Merge Topologies|02. 02. Branching Strategies & Merge Topologies]]
+- 📂 [[Advanced Rebasing, Cherry-Picking & History Rewriting|03. 03. Advanced Rebasing, Cherry-Picking & History Rewriting]]
+- 📂 [[Conflict Resolution & Interactive Debugging|04. 04. Conflict Resolution & Interactive Debugging]]
 
 ## 🔗 Navigation
 - ⬆️ Parent: [[Infrastructure & Security]]

@@ -30,7 +30,7 @@ Go Standard Library Source Reading
 
 ## 🗂️ Core Categories & Topics
 
-### 1. 📂 `01. Core & Concurrency Source`
+### 1. 📂 [[Core & Concurrency Source|01. Core & Concurrency Source]]
 - [[sync.Mutex Source Walkthrough]] — Dissecting sync.Mutex fast-path/slow-path starvation, normal vs starvation mode.
 - [[sync.WaitGroup and sync.Once Source Walkthrough]] — Atomic state bitpacking in WaitGroup, double-checked atomic Once.
 - [[sync.Pool & sync.Map Source Walkthrough]] — Dissecting lockless atomic loads and per-P pool caches.

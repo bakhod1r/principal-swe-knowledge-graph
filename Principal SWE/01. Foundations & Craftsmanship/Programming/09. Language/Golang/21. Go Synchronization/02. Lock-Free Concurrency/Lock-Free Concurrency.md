@@ -16,7 +16,7 @@ Lock-Free & Atomic Concurrency
 │
 ├── `sync-atomic Primitives (Load, Store, CAS, Swap, Add)`
 ├── `Atomic CAS Loop Pattern`
-├── [[atomic.Pointer[T] & atomic.Value Type Safety]]
+├── [[atomic.Pointer and atomic.Value Type Safety]]
 ├── [[Lock-Free Stack (Treiber Stack)]]
 ├── [[Lock-Free Queue (Michael-Scott Queue)]]
 ├── [[Lock-Free Ring Buffer]]
@@ -29,7 +29,7 @@ Lock-Free & Atomic Concurrency
 
 - [[sync-atomic Primitives (Load, Store, CAS, Swap, Add)]] — Hardware atomic primitives providing sequential consistency without mutex locks.
 - [[Atomic CAS Loop Pattern]] — Optimistic concurrency control with Compare-And-Swap spin loops.
-- [[atomic.Pointer[T] & atomic.Value Type Safety]] — Type-safe atomic pointers and atomic value containers in Go 1.19+.
+- [[atomic.Pointer and atomic.Value Type Safety]] — Type-safe atomic pointers and atomic value containers in Go 1.19+.
 - [[Lock-Free Stack (Treiber Stack)]] — Implementing a concurrent lock-free LIFO stack using atomic pointer CAS.
 - [[Lock-Free Queue (Michael-Scott Queue)]] — Implementing a concurrent lock-free FIFO queue with head and tail pointers.
 - [[Lock-Free Ring Buffer]] — High-throughput single-producer single-consumer (SPSC) and MPMC lock-free buffers.
