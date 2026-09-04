@@ -1,5 +1,5 @@
 ---
-title: Client Side GraphQL State Management: Normalized Caching in Apollo Client and Relay
+title: "Client Side GraphQL State Management: Normalized Caching in Apollo Client and Relay"
 tags:
   - review
   - architecture

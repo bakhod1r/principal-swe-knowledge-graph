@@ -1,5 +1,5 @@
 ---
-title: Reactor Pattern: Synchronous Event Demultiplexing and Service Handlers
+title: "Reactor Pattern: Synchronous Event Demultiplexing and Service Handlers"
 tags:
   - review
   - architecture

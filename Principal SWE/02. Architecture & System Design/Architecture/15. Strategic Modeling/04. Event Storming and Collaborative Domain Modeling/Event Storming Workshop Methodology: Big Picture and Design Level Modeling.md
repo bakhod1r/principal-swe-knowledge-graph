@@ -1,5 +1,5 @@
 ---
-title: Event Storming Workshop Methodology: Big Picture and Design Level Modeling
+title: "Event Storming Workshop Methodology: Big Picture and Design Level Modeling"
 tags:
   - review
   - architecture

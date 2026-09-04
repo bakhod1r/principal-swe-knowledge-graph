@@ -1,5 +1,5 @@
 ---
-title: Circuit Breaker Pattern: Closed, Open, Half Open State Transitions
+title: "Circuit Breaker Pattern: Closed, Open, Half Open State Transitions"
 tags:
   - review
   - architecture

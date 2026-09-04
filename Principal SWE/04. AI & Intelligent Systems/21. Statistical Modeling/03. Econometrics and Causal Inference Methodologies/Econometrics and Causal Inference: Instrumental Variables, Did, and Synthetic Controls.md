@@ -1,5 +1,5 @@
 ---
-title: Econometrics and Causal Inference: Instrumental Variables, Did, and Synthetic Controls
+title: "Econometrics and Causal Inference: Instrumental Variables, Did, and Synthetic Controls"
 tags:
   - review
   - ai-and-machine-learning

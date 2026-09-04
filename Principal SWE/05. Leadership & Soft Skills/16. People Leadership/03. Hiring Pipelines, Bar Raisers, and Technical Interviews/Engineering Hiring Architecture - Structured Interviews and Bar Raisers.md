@@ -1,5 +1,5 @@
 ---
-title: Engineering Hiring Architecture: Structured Interviews and Bar Raisers
+title: "Engineering Hiring Architecture: Structured Interviews and Bar Raisers"
 tags:
   - review
   - soft-skills

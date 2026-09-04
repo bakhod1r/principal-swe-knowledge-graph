@@ -1,5 +1,5 @@
 ---
-title: Message Transformation: Message Translator, Envelope Wrapper, and Normalizer
+title: "Message Transformation: Message Translator, Envelope Wrapper, and Normalizer"
 tags:
   - review
   - architecture

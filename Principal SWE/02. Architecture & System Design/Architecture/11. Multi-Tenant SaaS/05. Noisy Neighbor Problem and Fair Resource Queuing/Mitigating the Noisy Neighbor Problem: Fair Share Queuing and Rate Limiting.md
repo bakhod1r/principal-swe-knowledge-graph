@@ -1,5 +1,5 @@
 ---
-title: Mitigating the Noisy Neighbor Problem: Fair Share Queuing and Rate Limiting
+title: "Mitigating the Noisy Neighbor Problem: Fair Share Queuing and Rate Limiting"
 tags:
   - review
   - architecture

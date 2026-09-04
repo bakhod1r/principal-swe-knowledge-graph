@@ -1,5 +1,5 @@
 ---
-title: Linux Security Modules: Selinux Contexts and Apparmor Profiles
+title: "Linux Security Modules: Selinux Contexts and Apparmor Profiles"
 tags:
   - review
   - devops

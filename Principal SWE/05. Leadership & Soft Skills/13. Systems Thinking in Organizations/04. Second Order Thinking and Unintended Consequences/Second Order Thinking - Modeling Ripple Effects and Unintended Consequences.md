@@ -1,5 +1,5 @@
 ---
-title: Second Order Thinking: Modeling Ripple Effects and Unintended Consequences
+title: "Second Order Thinking: Modeling Ripple Effects and Unintended Consequences"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Behavioral Patterns: Double Dispatch Visitor, Iterator, and Centralized Mediator
+title: "Behavioral Patterns: Double Dispatch Visitor, Iterator, and Centralized Mediator"
 tags:
   - review
   - architecture

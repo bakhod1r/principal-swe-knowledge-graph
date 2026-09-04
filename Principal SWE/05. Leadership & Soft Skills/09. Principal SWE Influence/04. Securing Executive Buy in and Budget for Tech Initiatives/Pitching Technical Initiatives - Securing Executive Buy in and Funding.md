@@ -1,5 +1,5 @@
 ---
-title: Pitching Technical Initiatives: Securing Executive Buy in and Funding
+title: "Pitching Technical Initiatives: Securing Executive Buy in and Funding"
 tags:
   - review
   - soft-skills

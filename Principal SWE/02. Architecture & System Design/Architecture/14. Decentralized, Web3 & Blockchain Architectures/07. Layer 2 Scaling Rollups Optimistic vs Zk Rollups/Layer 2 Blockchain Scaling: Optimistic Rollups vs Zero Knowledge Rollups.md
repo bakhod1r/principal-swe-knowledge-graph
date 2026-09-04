@@ -1,5 +1,5 @@
 ---
-title: Layer 2 Blockchain Scaling: Optimistic Rollups vs Zero Knowledge Rollups
+title: "Layer 2 Blockchain Scaling: Optimistic Rollups vs Zero Knowledge Rollups"
 tags:
   - review
   - architecture

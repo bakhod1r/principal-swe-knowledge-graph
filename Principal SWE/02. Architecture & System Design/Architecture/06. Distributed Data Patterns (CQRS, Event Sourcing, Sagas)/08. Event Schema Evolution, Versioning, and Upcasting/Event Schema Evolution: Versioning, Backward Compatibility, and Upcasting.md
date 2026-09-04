@@ -1,5 +1,5 @@
 ---
-title: Event Schema Evolution: Versioning, Backward Compatibility, and Upcasting
+title: "Event Schema Evolution: Versioning, Backward Compatibility, and Upcasting"
 tags:
   - review
   - architecture

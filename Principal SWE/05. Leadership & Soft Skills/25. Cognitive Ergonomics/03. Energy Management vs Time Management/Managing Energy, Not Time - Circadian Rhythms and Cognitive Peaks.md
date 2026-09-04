@@ -1,5 +1,5 @@
 ---
-title: Managing Energy, Not Time: Circadian Rhythms and Cognitive Peaks
+title: "Managing Energy, Not Time: Circadian Rhythms and Cognitive Peaks"
 tags:
   - review
   - soft-skills

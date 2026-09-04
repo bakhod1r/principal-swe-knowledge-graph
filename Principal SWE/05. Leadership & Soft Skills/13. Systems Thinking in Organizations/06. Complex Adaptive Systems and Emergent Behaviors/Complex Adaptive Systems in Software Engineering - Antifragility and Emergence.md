@@ -1,5 +1,5 @@
 ---
-title: Complex Adaptive Systems in Software Engineering: Antifragility and Emergence
+title: "Complex Adaptive Systems in Software Engineering: Antifragility and Emergence"
 tags:
   - review
   - soft-skills

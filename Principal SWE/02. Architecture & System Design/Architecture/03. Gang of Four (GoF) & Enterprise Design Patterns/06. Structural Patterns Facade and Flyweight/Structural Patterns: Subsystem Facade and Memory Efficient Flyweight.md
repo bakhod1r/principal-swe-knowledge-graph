@@ -1,5 +1,5 @@
 ---
-title: Structural Patterns: Subsystem Facade and Memory Efficient Flyweight
+title: "Structural Patterns: Subsystem Facade and Memory Efficient Flyweight"
 tags:
   - review
   - architecture

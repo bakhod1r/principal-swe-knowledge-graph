@@ -1,5 +1,5 @@
 ---
-title: Anemic Domain Model: Separation of Data and Behavior in Procedural Code
+title: "Anemic Domain Model: Separation of Data and Behavior in Procedural Code"
 tags:
   - review
   - architecture

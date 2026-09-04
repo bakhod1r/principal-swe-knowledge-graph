@@ -1,5 +1,5 @@
 ---
-title: Managing Technical Debt vs Feature Delivery: the 20% Allocation Rule
+title: "Managing Technical Debt vs Feature Delivery: the 20% Allocation Rule"
 tags:
   - review
   - soft-skills

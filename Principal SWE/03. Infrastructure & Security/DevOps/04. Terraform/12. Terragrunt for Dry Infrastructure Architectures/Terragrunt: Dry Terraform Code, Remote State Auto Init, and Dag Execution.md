@@ -1,5 +1,5 @@
 ---
-title: Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution
+title: "Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution"
 tags:
   - review
   - devops

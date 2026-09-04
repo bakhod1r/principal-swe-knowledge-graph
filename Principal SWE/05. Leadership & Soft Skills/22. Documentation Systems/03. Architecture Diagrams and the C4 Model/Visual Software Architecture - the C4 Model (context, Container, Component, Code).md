@@ -1,5 +1,5 @@
 ---
-title: Visual Software Architecture: the C4 Model (context, Container, Component, Code)
+title: "Visual Software Architecture: the C4 Model (context, Container, Component, Code)"
 tags:
   - review
   - soft-skills

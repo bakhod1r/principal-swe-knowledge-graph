@@ -1,5 +1,5 @@
 ---
-title: Refactoring Legacy Codebases: De Spaghettification and Modernization with AI
+title: "Refactoring Legacy Codebases: De Spaghettification and Modernization with AI"
 tags:
   - review
   - ai-and-machine-learning

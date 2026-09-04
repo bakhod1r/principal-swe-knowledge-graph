@@ -1,5 +1,5 @@
 ---
-title: Managing Up: Building Strategic Alignment with Directors and Vps
+title: "Managing Up: Building Strategic Alignment with Directors and Vps"
 tags:
   - review
   - soft-skills

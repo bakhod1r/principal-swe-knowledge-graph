@@ -1,5 +1,5 @@
 ---
-title: Bulkhead Pattern: Thread Pool and Semaphore Resource Isolation
+title: "Bulkhead Pattern: Thread Pool and Semaphore Resource Isolation"
 tags:
   - review
   - architecture

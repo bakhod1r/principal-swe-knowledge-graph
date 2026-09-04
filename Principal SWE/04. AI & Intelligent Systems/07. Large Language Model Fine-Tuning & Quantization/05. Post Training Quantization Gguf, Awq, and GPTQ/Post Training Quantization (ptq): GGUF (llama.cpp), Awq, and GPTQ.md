@@ -1,5 +1,5 @@
 ---
-title: Post Training Quantization (ptq): GGUF (llama.cpp), Awq, and GPTQ
+title: "Post Training Quantization (ptq): GGUF (llama.cpp), Awq, and GPTQ"
 tags:
   - review
   - ai-and-machine-learning

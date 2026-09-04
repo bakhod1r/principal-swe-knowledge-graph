@@ -1,5 +1,5 @@
 ---
-title: Event Sourcing: Append Only Immutable Event Logs and State Projection
+title: "Event Sourcing: Append Only Immutable Event Logs and State Projection"
 tags:
   - review
   - architecture

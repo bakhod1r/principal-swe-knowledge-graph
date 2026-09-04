@@ -1,5 +1,5 @@
 ---
-title: Merge Topologies: Fast-Forward Merges vs True Three-Way Merges
+title: "Merge Topologies: Fast-Forward Merges vs True Three-Way Merges"
 tags:
   - review
   - devops

@@ -1,5 +1,5 @@
 ---
-title: LLM Fine Tuning Paradigms: Full Fine Tuning vs PEFT (lora, Qlora)
+title: "LLM Fine Tuning Paradigms: Full Fine Tuning vs PEFT (lora, Qlora)"
 tags:
   - review
   - ai-and-machine-learning

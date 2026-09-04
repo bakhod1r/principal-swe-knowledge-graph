@@ -1,5 +1,5 @@
 ---
-title: Behavioral Patterns: Observer Event Notification and Subject Decoupling
+title: "Behavioral Patterns: Observer Event Notification and Subject Decoupling"
 tags:
   - review
   - architecture

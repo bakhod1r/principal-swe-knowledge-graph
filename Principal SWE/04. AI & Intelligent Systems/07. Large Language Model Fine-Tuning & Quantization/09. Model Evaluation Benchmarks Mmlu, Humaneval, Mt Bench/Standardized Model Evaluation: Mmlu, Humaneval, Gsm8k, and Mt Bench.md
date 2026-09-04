@@ -1,5 +1,5 @@
 ---
-title: Standardized Model Evaluation: Mmlu, Humaneval, Gsm8k, and Mt Bench
+title: "Standardized Model Evaluation: Mmlu, Humaneval, Gsm8k, and Mt Bench"
 tags:
   - review
   - ai-and-machine-learning

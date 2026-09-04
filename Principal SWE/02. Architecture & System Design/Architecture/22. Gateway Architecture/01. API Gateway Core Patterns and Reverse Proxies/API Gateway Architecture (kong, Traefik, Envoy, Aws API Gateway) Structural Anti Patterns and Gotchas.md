@@ -12,75 +12,15 @@ parent: "[[API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway)]]"
 # API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway) Structural Anti Patterns and Gotchas
 
 ## 1. Definition
-**API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway) Structural Anti Patterns and Gotchas** represents a foundational architectural blueprint, structural invariant, and enterprise engineering standard within **API Design & Gateway Architecture**.
-Edge routing, authentication offloading, SSL termination, request header enrichment, CORS policy management, and backend protocol translation. Covering Critical architectural anti-patterns, failure modes, trade-offs, and refactoring strategies.
-It establishes rigorous system boundaries, decoupling mechanisms, high-availability guarantees, and structural integrity across large-scale software systems:
-- **Architectural Invariants:** Enforces single responsibility at scale, strict boundary isolation, clear contract definitions, and verifiable resilience.
-- **Enterprise Leverage:** Maximizes maintainability, eliminates brittle coupling, enables autonomous team delivery, and protects the system against catastrophic failure modes.
-
----
 
 ## 2. Mental Model
-```text
-Architectural Boundary & Invariant Flow for API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway) Structural Anti Patterns and Gotchas:
-[ Inbound Consumer / External Client ] ───> [ Strict Boundary Adapter / API Gateway ]
-                                                              │
-                    ┌─────────────────────────────────────────┴─────────────────────────────────────────┐
-                    ▼                                                                                   ▼
-     [ Core Domain Logic / Business Policy ]                                             [ Asynchronous Event / Integration Outbox ]
-                    │                                                                                   │
-                    └─────────────────────────────────────────┬─────────────────────────────────────────┘
-                                                              ▼
-                                  [ Isolated Persistent Storage / External Enterprise Service ]
-```
-- **Architectural Law:** The cost of changing a software boundary increases by an order of magnitude at each subsequent phase of development. Design boundaries deliberately.
-
----
 
 ## 3. Usage
-```go
-// Production Go architectural implementation and boundary pattern for API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway) Structural Anti Patterns and Gotchas
-package main
-
-import (
-    "context"
-    "fmt"
-    "time"
-)
-
-type APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasPort interface {
-    Execute(ctx context.Context, req APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasRequest) (*APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasResponse, error)
-}
-
-type APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasRequest struct {
-    ID        string
-    Timestamp time.Time
-    Payload   map[string]any
-}
-
-type APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasResponse struct {
-    Success bool
-    Message string
-}
-
-type APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasService struct {
-    adapter APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasPort
-}
-
-func NewAPIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasService(adapter APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasPort) *APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasService {
-    return &APIGatewayArchitecturekongTraefikEnvoyAwsAPIGatewayStructuralAntiPatternsandGotchasService{adapter: adapter}
-}
-```
-
----
 
 ## 4. Gotchas
-- **Leaky Domain Abstractions:** Exposing internal database entities directly across API boundaries allows database schema changes to break external clients, creating tight cross-system coupling.
-- **Unbounded Synchronous Cascading Calls:** Chaining multiple synchronous RPC calls across microservices causes latency accumulation, multiplies failure probabilities, and leads to system-wide distributed deadlocks.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway)]]
 - 📚 Module: `API Design & Gateway Architecture`
-

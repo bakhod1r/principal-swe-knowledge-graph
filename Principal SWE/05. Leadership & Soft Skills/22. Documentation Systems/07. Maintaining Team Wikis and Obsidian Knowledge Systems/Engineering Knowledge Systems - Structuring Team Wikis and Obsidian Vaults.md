@@ -1,5 +1,5 @@
 ---
-title: Engineering Knowledge Systems: Structuring Team Wikis and Obsidian Vaults
+title: "Engineering Knowledge Systems: Structuring Team Wikis and Obsidian Vaults"
 tags:
   - review
   - soft-skills

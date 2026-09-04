@@ -1,5 +1,5 @@
 ---
-title: Enterprise Dynamic Ontologies: Semantic Object Modeling (palantir Foundry Pattern)
+title: "Enterprise Dynamic Ontologies: Semantic Object Modeling (palantir Foundry Pattern)"
 tags:
   - review
   - soft-skills

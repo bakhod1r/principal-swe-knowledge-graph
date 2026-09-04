@@ -1,5 +1,5 @@
 ---
-title: AI Agent Foundations: ReAct Loop (reasoning + Acting) and Agent Workflows
+title: "AI Agent Foundations: ReAct Loop (reasoning + Acting) and Agent Workflows"
 tags:
   - review
   - ai-and-machine-learning

@@ -1,5 +1,5 @@
 ---
-title: Git Worktrees: Checking Out Multiple Branches Simultaneously
+title: "Git Worktrees: Checking Out Multiple Branches Simultaneously"
 tags:
   - review
   - devops

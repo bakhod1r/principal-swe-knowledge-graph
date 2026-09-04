@@ -1,5 +1,5 @@
 ---
-title: The Dual Write Problem: Consistency Hazards and Architectural Solutions
+title: "The Dual Write Problem: Consistency Hazards and Architectural Solutions"
 tags:
   - review
   - architecture

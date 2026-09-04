@@ -1,5 +1,5 @@
 ---
-title: High Performance Reverse Proxies: Nginx and Envoy Proxy Internals
+title: "High Performance Reverse Proxies: Nginx and Envoy Proxy Internals"
 tags:
   - review
   - architecture

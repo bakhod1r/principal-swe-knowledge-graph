@@ -1,5 +1,5 @@
 ---
-title: Developer Experience (devex) Frameworks: SPACE and Cognitive Friction
+title: "Developer Experience (devex) Frameworks: SPACE and Cognitive Friction"
 tags:
   - review
   - soft-skills

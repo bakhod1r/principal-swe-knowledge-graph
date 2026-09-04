@@ -1,5 +1,5 @@
 ---
-title: Token Standards and Digital Assets: Erc 20, Erc 721, and Erc 1155
+title: "Token Standards and Digital Assets: Erc 20, Erc 721, and Erc 1155"
 tags:
   - review
   - architecture

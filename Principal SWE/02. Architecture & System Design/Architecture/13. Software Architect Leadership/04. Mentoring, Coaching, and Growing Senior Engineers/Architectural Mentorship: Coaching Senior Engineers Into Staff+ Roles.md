@@ -1,5 +1,5 @@
 ---
-title: Architectural Mentorship: Coaching Senior Engineers Into Staff+ Roles
+title: "Architectural Mentorship: Coaching Senior Engineers Into Staff+ Roles"
 tags:
   - review
   - architecture

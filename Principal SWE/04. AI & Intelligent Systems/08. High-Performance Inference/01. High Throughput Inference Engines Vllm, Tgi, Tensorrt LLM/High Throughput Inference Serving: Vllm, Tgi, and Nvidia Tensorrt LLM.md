@@ -1,5 +1,5 @@
 ---
-title: High Throughput Inference Serving: Vllm, Tgi, and Nvidia Tensorrt LLM
+title: "High Throughput Inference Serving: Vllm, Tgi, and Nvidia Tensorrt LLM"
 tags:
   - review
   - ai-and-machine-learning

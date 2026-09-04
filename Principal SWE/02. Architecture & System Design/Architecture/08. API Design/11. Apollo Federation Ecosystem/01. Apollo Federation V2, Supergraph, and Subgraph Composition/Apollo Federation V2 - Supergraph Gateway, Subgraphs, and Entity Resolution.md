@@ -1,5 +1,5 @@
 ---
-title: Apollo Federation V2: Supergraph Gateway, Subgraphs, and Entity Resolution
+title: "Apollo Federation V2: Supergraph Gateway, Subgraphs, and Entity Resolution"
 tags:
   - review
   - architecture

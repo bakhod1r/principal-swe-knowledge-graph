@@ -1,5 +1,5 @@
 ---
-title: Blockchain Consensus Mechanisms: Proof of Work (pow) vs Proof of Stake (pos)
+title: "Blockchain Consensus Mechanisms: Proof of Work (pow) vs Proof of Stake (pos)"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Pipes and Filters Architecture: Composable Data Processing Pipelines
+title: "Pipes and Filters Architecture: Composable Data Processing Pipelines"
 tags:
   - review
   - architecture

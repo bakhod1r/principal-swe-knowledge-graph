@@ -1,5 +1,5 @@
 ---
-title: Negotiating Technical Debt with Product: Financial Roi and Risk Models
+title: "Negotiating Technical Debt with Product: Financial Roi and Risk Models"
 tags:
   - review
   - soft-skills

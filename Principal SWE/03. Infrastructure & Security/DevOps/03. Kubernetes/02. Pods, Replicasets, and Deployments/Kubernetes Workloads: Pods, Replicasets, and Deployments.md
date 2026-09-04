@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Workloads: Pods, Replicasets, and Deployments
+title: "Kubernetes Workloads: Pods, Replicasets, and Deployments"
 tags:
   - review
   - devops

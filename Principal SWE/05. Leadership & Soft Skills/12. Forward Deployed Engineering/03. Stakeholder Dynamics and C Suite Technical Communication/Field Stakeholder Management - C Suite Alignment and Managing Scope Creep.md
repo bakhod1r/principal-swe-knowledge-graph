@@ -1,5 +1,5 @@
 ---
-title: Field Stakeholder Management: C Suite Alignment and Managing Scope Creep
+title: "Field Stakeholder Management: C Suite Alignment and Managing Scope Creep"
 tags:
   - review
   - soft-skills

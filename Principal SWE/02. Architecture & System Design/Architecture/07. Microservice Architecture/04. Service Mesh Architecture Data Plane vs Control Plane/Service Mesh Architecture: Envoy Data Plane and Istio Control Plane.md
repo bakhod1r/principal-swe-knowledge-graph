@@ -1,5 +1,5 @@
 ---
-title: Service Mesh Architecture: Envoy Data Plane and Istio Control Plane
+title: "Service Mesh Architecture: Envoy Data Plane and Istio Control Plane"
 tags:
   - review
   - architecture

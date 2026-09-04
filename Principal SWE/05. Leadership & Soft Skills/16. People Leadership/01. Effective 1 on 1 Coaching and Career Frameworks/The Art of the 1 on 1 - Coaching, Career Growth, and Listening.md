@@ -1,5 +1,5 @@
 ---
-title: The Art of the 1 on 1: Coaching, Career Growth, and Listening
+title: "The Art of the 1 on 1: Coaching, Career Growth, and Listening"
 tags:
   - review
   - soft-skills

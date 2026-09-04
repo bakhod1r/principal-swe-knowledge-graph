@@ -1,5 +1,5 @@
 ---
-title: The Distributed Monolith: Tightly Coupled Microservices and Lock Step Deployments
+title: "The Distributed Monolith: Tightly Coupled Microservices and Lock Step Deployments"
 tags:
   - review
   - architecture

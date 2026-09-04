@@ -1,5 +1,5 @@
 ---
-title: Half Sync - Half Async Pattern: Bridging Asynchronous and Synchronous Services
+title: "Half Sync - Half Async Pattern: Bridging Asynchronous and Synchronous Services"
 tags:
   - review
   - architecture

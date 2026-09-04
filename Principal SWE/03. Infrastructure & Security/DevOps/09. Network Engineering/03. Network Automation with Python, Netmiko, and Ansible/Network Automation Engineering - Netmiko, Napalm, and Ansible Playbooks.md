@@ -1,5 +1,5 @@
 ---
-title: Network Automation Engineering: Netmiko, Napalm, and Ansible Playbooks
+title: "Network Automation Engineering: Netmiko, Napalm, and Ansible Playbooks"
 tags:
   - review
   - devops

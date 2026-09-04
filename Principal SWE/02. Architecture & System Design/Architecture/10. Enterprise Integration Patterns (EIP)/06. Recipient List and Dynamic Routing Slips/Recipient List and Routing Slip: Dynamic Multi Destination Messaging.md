@@ -1,5 +1,5 @@
 ---
-title: Recipient List and Routing Slip: Dynamic Multi Destination Messaging
+title: "Recipient List and Routing Slip: Dynamic Multi Destination Messaging"
 tags:
   - review
   - architecture

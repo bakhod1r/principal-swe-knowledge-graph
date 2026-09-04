@@ -1,5 +1,5 @@
 ---
-title: Developer Advocacy: Technical Content, Tutorials, and Thought Leadership
+title: "Developer Advocacy: Technical Content, Tutorials, and Thought Leadership"
 tags:
   - review
   - soft-skills

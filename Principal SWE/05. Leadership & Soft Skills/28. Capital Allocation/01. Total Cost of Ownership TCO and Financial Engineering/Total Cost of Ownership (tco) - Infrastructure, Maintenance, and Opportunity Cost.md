@@ -1,5 +1,5 @@
 ---
-title: Total Cost of Ownership (tco): Infrastructure, Maintenance, and Opportunity Cost
+title: "Total Cost of Ownership (tco): Infrastructure, Maintenance, and Opportunity Cost"
 tags:
   - review
   - soft-skills

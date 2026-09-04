@@ -1,5 +1,5 @@
 ---
-title: Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates
+title: "Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Big Ball of Mud Architecture: Uncontrolled Growth, Spaghetti Code, and Code Rot
+title: "Big Ball of Mud Architecture: Uncontrolled Growth, Spaghetti Code, and Code Rot"
 tags:
   - review
   - architecture

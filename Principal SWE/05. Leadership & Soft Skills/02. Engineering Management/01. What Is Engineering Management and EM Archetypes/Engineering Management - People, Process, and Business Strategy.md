@@ -1,5 +1,5 @@
 ---
-title: Engineering Management: People, Process, and Business Strategy
+title: "Engineering Management: People, Process, and Business Strategy"
 tags:
   - review
   - soft-skills

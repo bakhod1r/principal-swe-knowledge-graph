@@ -1,5 +1,5 @@
 ---
-title: Full Stack Vibe Coding: High Velocity Prototyping with Instant Feedback Loops
+title: "Full Stack Vibe Coding: High Velocity Prototyping with Instant Feedback Loops"
 tags:
   - review
   - ai-and-machine-learning

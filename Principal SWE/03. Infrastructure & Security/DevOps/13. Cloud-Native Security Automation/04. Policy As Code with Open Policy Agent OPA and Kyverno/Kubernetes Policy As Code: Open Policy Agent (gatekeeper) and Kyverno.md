@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno
+title: "Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno"
 tags:
   - review
   - devops

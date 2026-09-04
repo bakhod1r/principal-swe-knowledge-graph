@@ -1,5 +1,5 @@
 ---
-title: Secure Client Deployments: Customer Vpcs, Soc2 Compliance, and Fedramp
+title: "Secure Client Deployments: Customer Vpcs, Soc2 Compliance, and Fedramp"
 tags:
   - review
   - soft-skills

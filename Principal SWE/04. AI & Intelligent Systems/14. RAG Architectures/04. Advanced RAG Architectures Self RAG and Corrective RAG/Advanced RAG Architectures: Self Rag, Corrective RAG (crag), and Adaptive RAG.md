@@ -1,5 +1,5 @@
 ---
-title: Advanced RAG Architectures: Self Rag, Corrective RAG (crag), and Adaptive RAG
+title: "Advanced RAG Architectures: Self Rag, Corrective RAG (crag), and Adaptive RAG"
 tags:
   - review
   - ai-and-machine-learning

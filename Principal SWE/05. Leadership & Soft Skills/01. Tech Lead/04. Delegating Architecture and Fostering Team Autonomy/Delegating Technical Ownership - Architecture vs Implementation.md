@@ -1,5 +1,5 @@
 ---
-title: Delegating Technical Ownership: Architecture vs Implementation
+title: "Delegating Technical Ownership: Architecture vs Implementation"
 tags:
   - review
   - soft-skills

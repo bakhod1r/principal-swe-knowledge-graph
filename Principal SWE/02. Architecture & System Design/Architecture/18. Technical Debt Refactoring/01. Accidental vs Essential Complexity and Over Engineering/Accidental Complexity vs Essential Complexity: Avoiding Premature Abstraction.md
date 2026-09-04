@@ -1,5 +1,5 @@
 ---
-title: Accidental Complexity vs Essential Complexity: Avoiding Premature Abstraction
+title: "Accidental Complexity vs Essential Complexity: Avoiding Premature Abstraction"
 tags:
   - review
   - architecture

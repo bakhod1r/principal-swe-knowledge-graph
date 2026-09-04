@@ -1,5 +1,5 @@
 ---
-title: The AI Assisted Engineering Mindset: From Typist to Systems Architect
+title: "The AI Assisted Engineering Mindset: From Typist to Systems Architect"
 tags:
   - review
   - ai-and-machine-learning

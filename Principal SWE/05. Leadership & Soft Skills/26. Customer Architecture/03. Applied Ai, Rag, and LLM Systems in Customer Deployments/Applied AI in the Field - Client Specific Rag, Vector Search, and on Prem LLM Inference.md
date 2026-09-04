@@ -1,5 +1,5 @@
 ---
-title: Applied AI in the Field: Client Specific Rag, Vector Search, and on Prem LLM Inference
+title: "Applied AI in the Field: Client Specific Rag, Vector Search, and on Prem LLM Inference"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Internal Community Building: Engineering Guilds, Brown Bags, and Hackathons
+title: "Internal Community Building: Engineering Guilds, Brown Bags, and Hackathons"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Decentralized Storage: IPFS Content Addressing and Arweave Permanent Storage
+title: "Decentralized Storage: IPFS Content Addressing and Arweave Permanent Storage"
 tags:
   - review
   - architecture

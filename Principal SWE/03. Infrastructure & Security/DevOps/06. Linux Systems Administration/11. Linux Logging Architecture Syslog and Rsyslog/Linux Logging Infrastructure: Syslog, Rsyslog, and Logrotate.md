@@ -1,5 +1,5 @@
 ---
-title: Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate
+title: "Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate"
 tags:
   - review
   - devops

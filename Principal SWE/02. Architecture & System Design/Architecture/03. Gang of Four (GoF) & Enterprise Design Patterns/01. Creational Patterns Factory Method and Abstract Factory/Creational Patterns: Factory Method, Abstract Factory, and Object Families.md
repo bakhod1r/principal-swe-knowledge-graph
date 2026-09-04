@@ -1,5 +1,5 @@
 ---
-title: Creational Patterns: Factory Method, Abstract Factory, and Object Families
+title: "Creational Patterns: Factory Method, Abstract Factory, and Object Families"
 tags:
   - review
   - architecture

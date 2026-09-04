@@ -1,5 +1,5 @@
 ---
-title: Testing Strategies in Clean Architecture: Unit, Interactor, and Sociable Tests
+title: "Testing Strategies in Clean Architecture: Unit, Interactor, and Sociable Tests"
 tags:
   - review
   - architecture

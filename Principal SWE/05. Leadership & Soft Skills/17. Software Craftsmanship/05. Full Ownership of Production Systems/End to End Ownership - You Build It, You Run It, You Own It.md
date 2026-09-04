@@ -1,5 +1,5 @@
 ---
-title: End to End Ownership: You Build It, You Run It, You Own It
+title: "End to End Ownership: You Build It, You Run It, You Own It"
 tags:
   - review
   - soft-skills

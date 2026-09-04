@@ -1,5 +1,5 @@
 ---
-title: SDK Engineering: Ergonomic Multi Language Client Library Architecture
+title: "SDK Engineering: Ergonomic Multi Language Client Library Architecture"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Automated E2e Testing: Playwright Framework, Page Objects, and Parallelism
+title: "Automated E2e Testing: Playwright Framework, Page Objects, and Parallelism"
 tags:
   - review
   - soft-skills

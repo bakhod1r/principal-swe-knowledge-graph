@@ -1,5 +1,5 @@
 ---
-title: Structural Patterns: Virtual Proxy, Remote Proxy, and Protection Gateways
+title: "Structural Patterns: Virtual Proxy, Remote Proxy, and Protection Gateways"
 tags:
   - review
   - architecture

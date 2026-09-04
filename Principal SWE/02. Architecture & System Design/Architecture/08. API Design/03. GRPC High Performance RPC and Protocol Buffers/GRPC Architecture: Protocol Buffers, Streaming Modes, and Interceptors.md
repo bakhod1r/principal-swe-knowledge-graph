@@ -1,5 +1,5 @@
 ---
-title: GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors
+title: "GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors"
 tags:
   - review
   - architecture

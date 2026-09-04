@@ -1,5 +1,5 @@
 ---
-title: Evaluating Architectural Trade Offs: the First Law of Software Architecture
+title: "Evaluating Architectural Trade Offs: the First Law of Software Architecture"
 tags:
   - review
   - architecture

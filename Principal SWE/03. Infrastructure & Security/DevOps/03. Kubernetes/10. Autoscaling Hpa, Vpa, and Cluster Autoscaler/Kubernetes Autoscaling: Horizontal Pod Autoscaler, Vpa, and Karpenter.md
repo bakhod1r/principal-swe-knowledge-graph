@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Autoscaling: Horizontal Pod Autoscaler, Vpa, and Karpenter
+title: "Kubernetes Autoscaling: Horizontal Pod Autoscaler, Vpa, and Karpenter"
 tags:
   - review
   - devops

@@ -1,5 +1,5 @@
 ---
-title: Evaluating Coding Agents: Swe Bench, Humaneval, and Real World Bug Resolution
+title: "Evaluating Coding Agents: Swe Bench, Humaneval, and Real World Bug Resolution"
 tags:
   - review
   - ai-and-machine-learning

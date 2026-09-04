@@ -1,5 +1,5 @@
 ---
-title: Technical Discovery: De Risking and Scoping Ambiguous Enterprise Requirements
+title: "Technical Discovery: De Risking and Scoping Ambiguous Enterprise Requirements"
 tags:
   - review
   - soft-skills

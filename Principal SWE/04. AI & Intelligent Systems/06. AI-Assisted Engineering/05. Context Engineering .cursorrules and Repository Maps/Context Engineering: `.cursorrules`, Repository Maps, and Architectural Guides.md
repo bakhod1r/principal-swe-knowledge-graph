@@ -1,5 +1,5 @@
 ---
-title: Context Engineering: `.cursorrules`, Repository Maps, and Architectural Guides
+title: "Context Engineering: `.cursorrules`, Repository Maps, and Architectural Guides"
 tags:
   - review
   - ai-and-machine-learning

@@ -1,5 +1,5 @@
 ---
-title: Sociotechnical Friction Logs: Quantifying Cross Team Impedance
+title: "Sociotechnical Friction Logs: Quantifying Cross Team Impedance"
 tags:
   - review
   - soft-skills

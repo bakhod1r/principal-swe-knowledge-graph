@@ -1,5 +1,5 @@
 ---
-title: Real Time API Protocols: Websockets vs Server Sent Events (sse)
+title: "Real Time API Protocols: Websockets vs Server Sent Events (sse)"
 tags:
   - review
   - architecture

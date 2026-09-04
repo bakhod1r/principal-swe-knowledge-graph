@@ -1,5 +1,5 @@
 ---
-title: Llmops Observability: Opentelemetry Tracing, Langfuse, and Arize Phoenix
+title: "Llmops Observability: Opentelemetry Tracing, Langfuse, and Arize Phoenix"
 tags:
   - review
   - ai-and-machine-learning

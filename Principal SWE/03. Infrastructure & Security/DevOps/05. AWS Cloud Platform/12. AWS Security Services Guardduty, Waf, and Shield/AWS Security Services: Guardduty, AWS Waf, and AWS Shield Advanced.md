@@ -1,5 +1,5 @@
 ---
-title: AWS Security Services: Guardduty, AWS Waf, and AWS Shield Advanced
+title: "AWS Security Services: Guardduty, AWS Waf, and AWS Shield Advanced"
 tags:
   - review
   - devops

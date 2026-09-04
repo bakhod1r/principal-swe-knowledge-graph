@@ -1,5 +1,5 @@
 ---
-title: Product Analytics: Event Taxonomy, Funnel Conversion, and Retention
+title: "Product Analytics: Event Taxonomy, Funnel Conversion, and Retention"
 tags:
   - review
   - soft-skills

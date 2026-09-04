@@ -1,5 +1,5 @@
 ---
-title: Automating Code Review: Linters, Formatters, and Sast Gates
+title: "Automating Code Review: Linters, Formatters, and Sast Gates"
 tags:
   - review
   - soft-skills

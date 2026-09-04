@@ -1,5 +1,5 @@
 ---
-title: Behavioral Patterns: Command Encapsulation, Undo Redo, and Memento Snapshots
+title: "Behavioral Patterns: Command Encapsulation, Undo Redo, and Memento Snapshots"
 tags:
   - review
   - architecture

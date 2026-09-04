@@ -1,5 +1,5 @@
 ---
-title: Structural Patterns: Object Adapter, Class Adapter, and Bridge Decoupling
+title: "Structural Patterns: Object Adapter, Class Adapter, and Bridge Decoupling"
 tags:
   - review
   - architecture

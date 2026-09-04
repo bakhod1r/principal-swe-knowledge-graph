@@ -1,5 +1,5 @@
 ---
-title: Behavioral Patterns: State Pattern and Object Oriented State Machines
+title: "Behavioral Patterns: State Pattern and Object Oriented State Machines"
 tags:
   - review
   - architecture

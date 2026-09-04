@@ -1,5 +1,5 @@
 ---
-title: Principled Negotiation: Harvard Negotiation Project and BATNA
+title: "Principled Negotiation: Harvard Negotiation Project and BATNA"
 tags:
   - review
   - soft-skills

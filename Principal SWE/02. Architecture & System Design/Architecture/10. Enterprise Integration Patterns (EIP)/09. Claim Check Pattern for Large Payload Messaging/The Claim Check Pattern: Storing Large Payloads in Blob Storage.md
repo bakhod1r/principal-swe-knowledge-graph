@@ -1,5 +1,5 @@
 ---
-title: The Claim Check Pattern: Storing Large Payloads in Blob Storage
+title: "The Claim Check Pattern: Storing Large Payloads in Blob Storage"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: The Forward Deployed Engineer (fde) Role: Palantir and AI Operating Models
+title: "The Forward Deployed Engineer (fde) Role: Palantir and AI Operating Models"
 tags:
   - review
   - soft-skills

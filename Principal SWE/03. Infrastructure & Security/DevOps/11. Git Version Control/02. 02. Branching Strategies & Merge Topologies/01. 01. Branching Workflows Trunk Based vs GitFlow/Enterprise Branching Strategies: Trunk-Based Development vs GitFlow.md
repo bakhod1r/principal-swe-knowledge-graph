@@ -1,5 +1,5 @@
 ---
-title: Enterprise Branching Strategies: Trunk-Based Development vs GitFlow
+title: "Enterprise Branching Strategies: Trunk-Based Development vs GitFlow"
 tags:
   - review
   - devops

@@ -1,5 +1,5 @@
 ---
-title: RESTful API Design: Resource Modeling, Http Verbs, Idempotency, and Hateoas
+title: "RESTful API Design: Resource Modeling, Http Verbs, Idempotency, and Hateoas"
 tags:
   - review
   - architecture

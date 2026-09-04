@@ -1,5 +1,5 @@
 ---
-title: Domain Services vs Application Services: Pure Domain Logic vs Orchestration
+title: "Domain Services vs Application Services: Pure Domain Logic vs Orchestration"
 tags:
   - review
   - architecture

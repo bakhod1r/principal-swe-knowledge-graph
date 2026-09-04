@@ -1,5 +1,5 @@
 ---
-title: Technical Public Speaking: Preparing and Delivering World Class Tech Talks
+title: "Technical Public Speaking: Preparing and Delivering World Class Tech Talks"
 tags:
   - review
   - soft-skills

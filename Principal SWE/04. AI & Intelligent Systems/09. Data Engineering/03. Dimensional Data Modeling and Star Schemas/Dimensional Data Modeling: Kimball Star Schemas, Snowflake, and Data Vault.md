@@ -1,5 +1,5 @@
 ---
-title: Dimensional Data Modeling: Kimball Star Schemas, Snowflake, and Data Vault
+title: "Dimensional Data Modeling: Kimball Star Schemas, Snowflake, and Data Vault"
 tags:
   - review
   - ai-and-machine-learning

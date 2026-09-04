@@ -1,5 +1,5 @@
 ---
-title: Microservice Chassis Pattern: Standardized Base Templates and Scaffolding
+title: "Microservice Chassis Pattern: Standardized Base Templates and Scaffolding"
 tags:
   - review
   - architecture

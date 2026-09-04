@@ -1,5 +1,5 @@
 ---
-title: Wardley Mapping: Situational Awareness, Value Chains, and Evolution (genesis to Commodity)
+title: "Wardley Mapping: Situational Awareness, Value Chains, and Evolution (genesis to Commodity)"
 tags:
   - review
   - soft-skills

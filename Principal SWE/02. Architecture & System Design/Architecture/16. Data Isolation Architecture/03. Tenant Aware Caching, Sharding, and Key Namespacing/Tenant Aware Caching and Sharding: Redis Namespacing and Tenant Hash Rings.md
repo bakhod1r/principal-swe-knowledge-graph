@@ -1,5 +1,5 @@
 ---
-title: Tenant Aware Caching and Sharding: Redis Namespacing and Tenant Hash Rings
+title: "Tenant Aware Caching and Sharding: Redis Namespacing and Tenant Hash Rings"
 tags:
   - review
   - architecture

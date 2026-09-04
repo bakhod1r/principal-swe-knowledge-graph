@@ -1,5 +1,5 @@
 ---
-title: Component Cohesion Principles: Reuse Release (rep), Common Closure (ccp), Common Reuse (crp)
+title: "Component Cohesion Principles: Reuse Release (rep), Common Closure (ccp), Common Reuse (crp)"
 tags:
   - review
   - architecture

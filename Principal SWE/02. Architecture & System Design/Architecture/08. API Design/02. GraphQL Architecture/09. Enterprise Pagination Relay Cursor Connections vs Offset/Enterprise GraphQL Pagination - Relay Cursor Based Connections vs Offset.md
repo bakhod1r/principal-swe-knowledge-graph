@@ -1,5 +1,5 @@
 ---
-title: Enterprise GraphQL Pagination: Relay Cursor Based Connections vs Offset
+title: "Enterprise GraphQL Pagination: Relay Cursor Based Connections vs Offset"
 tags:
   - review
   - architecture

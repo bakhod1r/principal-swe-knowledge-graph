@@ -1,5 +1,5 @@
 ---
-title: Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces
+title: "Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces"
 tags:
   - review
   - ai-and-machine-learning

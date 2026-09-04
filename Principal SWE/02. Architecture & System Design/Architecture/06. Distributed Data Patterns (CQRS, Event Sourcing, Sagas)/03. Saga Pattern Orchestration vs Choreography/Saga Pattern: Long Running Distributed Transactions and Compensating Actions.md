@@ -1,5 +1,5 @@
 ---
-title: Saga Pattern: Long Running Distributed Transactions and Compensating Actions
+title: "Saga Pattern: Long Running Distributed Transactions and Compensating Actions"
 tags:
   - review
   - architecture

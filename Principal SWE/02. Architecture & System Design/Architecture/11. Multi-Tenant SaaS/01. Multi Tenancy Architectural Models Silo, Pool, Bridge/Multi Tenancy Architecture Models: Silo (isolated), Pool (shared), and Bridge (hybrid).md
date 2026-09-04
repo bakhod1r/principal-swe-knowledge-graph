@@ -1,5 +1,5 @@
 ---
-title: Multi Tenancy Architecture Models: Silo (isolated), Pool (shared), and Bridge (hybrid)
+title: "Multi Tenancy Architecture Models: Silo (isolated), Pool (shared), and Bridge (hybrid)"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Crucial Conversations in Engineering: Navigating High Stakes Dialogue
+title: "Crucial Conversations in Engineering: Navigating High Stakes Dialogue"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Linux Filesystems Internals: Inodes, Superblocks, Ext4, and Xfs
+title: "Linux Filesystems Internals: Inodes, Superblocks, Ext4, and Xfs"
 tags:
   - review
   - devops

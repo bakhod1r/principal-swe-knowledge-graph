@@ -1,5 +1,5 @@
 ---
-title: Event Driven Architecture (eda): Publish Subscribe vs Event Streaming
+title: "Event Driven Architecture (eda): Publish Subscribe vs Event Streaming"
 tags:
   - review
   - architecture

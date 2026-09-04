@@ -1,5 +1,5 @@
 ---
-title: Structural Patterns: Composite Tree Hierarchies and Dynamic Decorators
+title: "Structural Patterns: Composite Tree Hierarchies and Dynamic Decorators"
 tags:
   - review
   - architecture

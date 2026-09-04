@@ -1,5 +1,5 @@
 ---
-title: Documenting Architectural Decisions: Lightweight ADRs and RFCs
+title: "Documenting Architectural Decisions: Lightweight ADRs and RFCs"
 tags:
   - review
   - soft-skills

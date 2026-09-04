@@ -1,5 +1,5 @@
 ---
-title: Multi Tenant Storage Partitioning: Database Per Tenant vs Schema Per Tenant vs Shared Table
+title: "Multi Tenant Storage Partitioning: Database Per Tenant vs Schema Per Tenant vs Shared Table"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: GraphQL Real Time Subscriptions: Websockets vs Server Sent Events (sse)
+title: "GraphQL Real Time Subscriptions: Websockets vs Server Sent Events (sse)"
 tags:
   - review
   - architecture

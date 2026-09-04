@@ -1,5 +1,5 @@
 ---
-title: Graphql Security: Query Depth Limiting, Complexity Cost, and Introspection
+title: "Graphql Security: Query Depth Limiting, Complexity Cost, and Introspection"
 tags:
   - review
   - cyber-security

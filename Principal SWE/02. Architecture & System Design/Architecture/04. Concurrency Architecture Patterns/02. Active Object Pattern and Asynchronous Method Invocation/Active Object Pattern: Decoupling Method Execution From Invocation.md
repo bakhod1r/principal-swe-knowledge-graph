@@ -1,5 +1,5 @@
 ---
-title: Active Object Pattern: Decoupling Method Execution From Invocation
+title: "Active Object Pattern: Decoupling Method Execution From Invocation"
 tags:
   - review
   - architecture

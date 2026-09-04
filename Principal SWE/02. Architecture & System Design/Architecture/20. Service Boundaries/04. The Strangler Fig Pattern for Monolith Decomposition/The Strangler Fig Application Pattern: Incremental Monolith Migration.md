@@ -1,5 +1,5 @@
 ---
-title: The Strangler Fig Application Pattern: Incremental Monolith Migration
+title: "The Strangler Fig Application Pattern: Incremental Monolith Migration"
 tags:
   - review
   - architecture

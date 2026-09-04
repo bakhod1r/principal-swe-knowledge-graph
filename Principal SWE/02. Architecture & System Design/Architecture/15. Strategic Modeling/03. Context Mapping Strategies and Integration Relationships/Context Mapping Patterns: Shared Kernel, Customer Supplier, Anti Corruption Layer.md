@@ -1,5 +1,5 @@
 ---
-title: Context Mapping Patterns: Shared Kernel, Customer Supplier, Anti Corruption Layer
+title: "Context Mapping Patterns: Shared Kernel, Customer Supplier, Anti Corruption Layer"
 tags:
   - review
   - architecture

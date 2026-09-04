@@ -1,5 +1,5 @@
 ---
-title: Code Review Slas: Minimizing Review Latency and Blocking Queues
+title: "Code Review Slas: Minimizing Review Latency and Blocking Queues"
 tags:
   - review
   - soft-skills

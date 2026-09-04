@@ -1,5 +1,5 @@
 ---
-title: Multi Year Technology Vision: Mckinsey Three Horizons of Growth Framework
+title: "Multi Year Technology Vision: Mckinsey Three Horizons of Growth Framework"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten
+title: "Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten"
 tags:
   - review
   - ai-and-machine-learning

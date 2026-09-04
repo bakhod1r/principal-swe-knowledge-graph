@@ -1,5 +1,5 @@
 ---
-title: Framework Independence: Avoiding Framework Poisoning in Business Logic
+title: "Framework Independence: Avoiding Framework Poisoning in Business Logic"
 tags:
   - review
   - architecture

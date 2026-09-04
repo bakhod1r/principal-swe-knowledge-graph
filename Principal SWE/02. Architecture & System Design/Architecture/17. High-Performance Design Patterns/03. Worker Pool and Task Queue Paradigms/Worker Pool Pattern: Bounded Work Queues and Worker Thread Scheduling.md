@@ -1,5 +1,5 @@
 ---
-title: Worker Pool Pattern: Bounded Work Queues and Worker Thread Scheduling
+title: "Worker Pool Pattern: Bounded Work Queues and Worker Thread Scheduling"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Team Topologies: Stream Aligned, Enabling, Complicated Subsystem, and Platform Teams
+title: "Team Topologies: Stream Aligned, Enabling, Complicated Subsystem, and Platform Teams"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Network Security Architecture: Next Gen Firewalls, Ids Ips, and VPNs
+title: "Network Security Architecture: Next Gen Firewalls, Ids Ips, and VPNs"
 tags:
   - review
   - devops

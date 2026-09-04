@@ -1,5 +1,5 @@
 ---
-title: Team Performance Metrics: DORA Metrics, Cycle Time, and Throughput
+title: "Team Performance Metrics: DORA Metrics, Cycle Time, and Throughput"
 tags:
   - review
   - soft-skills

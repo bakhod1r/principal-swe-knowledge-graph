@@ -1,5 +1,5 @@
 ---
-title: GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases
+title: "GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases"
 tags:
   - review
   - devops

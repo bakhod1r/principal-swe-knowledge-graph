@@ -1,5 +1,5 @@
 ---
-title: Cal Newport's Deep Work: Cultivating Intense Focus in Engineering
+title: "Cal Newport's Deep Work: Cultivating Intense Focus in Engineering"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: The God Service (megaservice) Pitfall: Giant Services with Too Many Responsibilities
+title: "The God Service (megaservice) Pitfall: Giant Services with Too Many Responsibilities"
 tags:
   - review
   - architecture

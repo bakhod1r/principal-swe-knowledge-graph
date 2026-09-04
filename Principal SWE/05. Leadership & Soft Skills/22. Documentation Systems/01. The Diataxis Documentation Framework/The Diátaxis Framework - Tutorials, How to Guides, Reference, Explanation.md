@@ -1,5 +1,5 @@
 ---
-title: The Diátaxis Framework: Tutorials, How to Guides, Reference, Explanation
+title: "The Diátaxis Framework: Tutorials, How to Guides, Reference, Explanation"
 tags:
   - review
   - soft-skills

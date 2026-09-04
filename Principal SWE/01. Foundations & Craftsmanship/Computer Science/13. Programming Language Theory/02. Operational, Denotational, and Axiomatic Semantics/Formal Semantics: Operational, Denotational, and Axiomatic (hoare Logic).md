@@ -1,5 +1,5 @@
 ---
-title: Formal Semantics: Operational, Denotational, and Axiomatic (hoare Logic)
+title: "Formal Semantics: Operational, Denotational, and Axiomatic (hoare Logic)"
 tags:
   - review
   - computer-science

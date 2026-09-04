@@ -1,5 +1,5 @@
 ---
-title: Product Feedback Architecture: Channeling Field Insights to Core Engineering
+title: "Product Feedback Architecture: Channeling Field Insights to Core Engineering"
 tags:
   - review
   - soft-skills

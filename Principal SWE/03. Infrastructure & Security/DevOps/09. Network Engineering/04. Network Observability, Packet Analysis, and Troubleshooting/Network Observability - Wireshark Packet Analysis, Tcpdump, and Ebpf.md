@@ -1,5 +1,5 @@
 ---
-title: Network Observability: Wireshark Packet Analysis, Tcpdump, and Ebpf
+title: "Network Observability: Wireshark Packet Analysis, Tcpdump, and Ebpf"
 tags:
   - review
   - devops

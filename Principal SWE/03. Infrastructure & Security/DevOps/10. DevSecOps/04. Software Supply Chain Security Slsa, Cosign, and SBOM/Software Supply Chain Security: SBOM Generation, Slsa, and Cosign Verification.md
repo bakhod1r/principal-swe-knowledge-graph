@@ -1,5 +1,5 @@
 ---
-title: Software Supply Chain Security: SBOM Generation, Slsa, and Cosign Verification
+title: "Software Supply Chain Security: SBOM Generation, Slsa, and Cosign Verification"
 tags:
   - review
   - devops

@@ -1,5 +1,5 @@
 ---
-title: GraphQL Type System: Interfaces, Union Types, and Custom Scalars
+title: "GraphQL Type System: Interfaces, Union Types, and Custom Scalars"
 tags:
   - review
   - architecture

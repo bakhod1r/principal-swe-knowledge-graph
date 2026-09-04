@@ -1,5 +1,5 @@
 ---
-title: Operational Runbooks: 3 Am Ready Standard Operating Procedures (sops)
+title: "Operational Runbooks: 3 Am Ready Standard Operating Procedures (sops)"
 tags:
   - review
   - soft-skills

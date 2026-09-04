@@ -1,5 +1,5 @@
 ---
-title: Message Sequencing: Resequencer, Aggregator, and Correlation Identifiers
+title: "Message Sequencing: Resequencer, Aggregator, and Correlation Identifiers"
 tags:
   - review
   - architecture

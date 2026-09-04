@@ -1,5 +1,5 @@
 ---
-title: Proactor Pattern: Asynchronous Event Dispatching and Completion Handlers
+title: "Proactor Pattern: Asynchronous Event Dispatching and Completion Handlers"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Capital Allocation in Engineering: CapEx (r&d Capitalization) vs OpEx Efficiency
+title: "Capital Allocation in Engineering: CapEx (r&d Capitalization) vs OpEx Efficiency"
 tags:
   - review
   - soft-skills

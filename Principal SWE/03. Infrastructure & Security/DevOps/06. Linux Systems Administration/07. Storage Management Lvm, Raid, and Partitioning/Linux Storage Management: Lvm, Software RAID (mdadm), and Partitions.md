@@ -1,5 +1,5 @@
 ---
-title: Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions
+title: "Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions"
 tags:
   - review
   - devops

@@ -1,5 +1,5 @@
 ---
-title: Modern Developer Portals: Interactive Documentation (scalar, Stoplight)
+title: "Modern Developer Portals: Interactive Documentation (scalar, Stoplight)"
 tags:
   - review
   - soft-skills

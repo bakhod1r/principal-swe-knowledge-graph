@@ -1,5 +1,5 @@
 ---
-title: Repositories and Factories: Encapsulating Aggregate Lifecycle and Persistence
+title: "Repositories and Factories: Encapsulating Aggregate Lifecycle and Persistence"
 tags:
   - review
   - architecture

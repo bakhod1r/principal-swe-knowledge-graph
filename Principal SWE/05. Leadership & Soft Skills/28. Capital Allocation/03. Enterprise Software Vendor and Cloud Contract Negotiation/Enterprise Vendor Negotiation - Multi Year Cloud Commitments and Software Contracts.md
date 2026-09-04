@@ -1,5 +1,5 @@
 ---
-title: Enterprise Vendor Negotiation: Multi Year Cloud Commitments and Software Contracts
+title: "Enterprise Vendor Negotiation: Multi Year Cloud Commitments and Software Contracts"
 tags:
   - review
   - soft-skills

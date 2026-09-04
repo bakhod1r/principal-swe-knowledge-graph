@@ -1,5 +1,5 @@
 ---
-title: Creational Patterns: Thread Safe Singleton, Double Checked Locking, and Object Pools
+title: "Creational Patterns: Thread Safe Singleton, Double Checked Locking, and Object Pools"
 tags:
   - review
   - architecture

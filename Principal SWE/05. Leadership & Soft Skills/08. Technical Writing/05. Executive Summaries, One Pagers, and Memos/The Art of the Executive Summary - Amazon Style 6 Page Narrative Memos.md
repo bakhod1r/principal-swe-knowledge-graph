@@ -1,5 +1,5 @@
 ---
-title: The Art of the Executive Summary: Amazon Style 6 Page Narrative Memos
+title: "The Art of the Executive Summary: Amazon Style 6 Page Narrative Memos"
 tags:
   - review
   - soft-skills

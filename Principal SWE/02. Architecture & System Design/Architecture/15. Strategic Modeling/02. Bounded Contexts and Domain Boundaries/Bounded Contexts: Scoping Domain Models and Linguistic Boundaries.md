@@ -1,5 +1,5 @@
 ---
-title: Bounded Contexts: Scoping Domain Models and Linguistic Boundaries
+title: "Bounded Contexts: Scoping Domain Models and Linguistic Boundaries"
 tags:
   - review
   - architecture

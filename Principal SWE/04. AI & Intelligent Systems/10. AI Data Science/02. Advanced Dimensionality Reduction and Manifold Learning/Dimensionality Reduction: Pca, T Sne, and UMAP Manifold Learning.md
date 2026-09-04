@@ -1,5 +1,5 @@
 ---
-title: Dimensionality Reduction: Pca, T Sne, and UMAP Manifold Learning
+title: "Dimensionality Reduction: Pca, T Sne, and UMAP Manifold Learning"
 tags:
   - review
   - ai-and-machine-learning

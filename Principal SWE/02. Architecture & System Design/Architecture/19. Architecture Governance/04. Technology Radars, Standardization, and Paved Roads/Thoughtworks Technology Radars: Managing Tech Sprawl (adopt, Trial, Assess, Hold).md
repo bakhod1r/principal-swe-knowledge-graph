@@ -1,5 +1,5 @@
 ---
-title: Thoughtworks Technology Radars: Managing Tech Sprawl (adopt, Trial, Assess, Hold)
+title: "Thoughtworks Technology Radars: Managing Tech Sprawl (adopt, Trial, Assess, Hold)"
 tags:
   - review
   - architecture

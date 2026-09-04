@@ -1,5 +1,5 @@
 ---
-title: Cloudflare Edge Storage: Workers Kv, D1 Sql Database, and R2 Storage
+title: "Cloudflare Edge Storage: Workers Kv, D1 Sql Database, and R2 Storage"
 tags:
   - review
   - devops

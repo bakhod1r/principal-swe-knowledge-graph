@@ -1,5 +1,5 @@
 ---
-title: Component Coupling Principles: Acyclic Dependencies (adp), Stable Dependencies (sdp), Stable Abstractions (sap)
+title: "Component Coupling Principles: Acyclic Dependencies (adp), Stable Dependencies (sdp), Stable Abstractions (sap)"
 tags:
   - review
   - architecture

@@ -1,5 +1,5 @@
 ---
-title: Advanced Reasoning: Tree of Thoughts (tot) and Graph of Thoughts (got)
+title: "Advanced Reasoning: Tree of Thoughts (tot) and Graph of Thoughts (got)"
 tags:
   - review
   - ai-and-machine-learning

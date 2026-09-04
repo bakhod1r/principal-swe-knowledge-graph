@@ -1,5 +1,5 @@
 ---
-title: Graphrag: Knowledge Graphs, Entity Extraction, and Graph Retrieval
+title: "Graphrag: Knowledge Graphs, Entity Extraction, and Graph Retrieval"
 tags:
   - review
   - ai-and-machine-learning

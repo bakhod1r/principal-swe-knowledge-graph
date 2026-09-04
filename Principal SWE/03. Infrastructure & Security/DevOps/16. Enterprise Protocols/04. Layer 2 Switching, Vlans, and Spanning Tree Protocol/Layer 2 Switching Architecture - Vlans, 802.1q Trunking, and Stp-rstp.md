@@ -1,5 +1,5 @@
 ---
-title: Layer 2 Switching Architecture: Vlans, 802.1q Trunking, and Stp/rstp
+title: "Layer 2 Switching Architecture: Vlans, 802.1q Trunking, and Stp/rstp"
 tags:
   - review
   - devops

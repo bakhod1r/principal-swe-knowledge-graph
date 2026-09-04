@@ -1,5 +1,5 @@
 ---
-title: Message Channels: Point to Point vs Publish Subscribe Channels
+title: "Message Channels: Point to Point vs Publish Subscribe Channels"
 tags:
   - review
   - architecture

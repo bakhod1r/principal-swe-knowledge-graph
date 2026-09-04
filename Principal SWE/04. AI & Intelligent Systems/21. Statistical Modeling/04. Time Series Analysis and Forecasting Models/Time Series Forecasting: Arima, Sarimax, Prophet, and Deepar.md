@@ -1,5 +1,5 @@
 ---
-title: Time Series Forecasting: Arima, Sarimax, Prophet, and Deepar
+title: "Time Series Forecasting: Arima, Sarimax, Prophet, and Deepar"
 tags:
   - review
   - ai-and-machine-learning

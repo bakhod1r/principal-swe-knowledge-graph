@@ -1,5 +1,5 @@
 ---
-title: Domain Events: Capturing Business State Changes and Event Publication
+title: "Domain Events: Capturing Business State Changes and Event Publication"
 tags:
   - review
   - architecture

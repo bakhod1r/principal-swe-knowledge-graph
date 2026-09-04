@@ -1,5 +1,5 @@
 ---
-title: Open Lakehouse Table Formats: Apache Iceberg, Delta Lake, and Apache Hudi
+title: "Open Lakehouse Table Formats: Apache Iceberg, Delta Lake, and Apache Hudi"
 tags:
   - review
   - ai-and-machine-learning

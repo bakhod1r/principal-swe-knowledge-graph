@@ -1,5 +1,5 @@
 ---
-title: Smart Contract Security Auditing: Reentrancy, Front Running, and Flash Loans
+title: "Smart Contract Security Auditing: Reentrancy, Front Running, and Flash Loans"
 tags:
   - review
   - architecture

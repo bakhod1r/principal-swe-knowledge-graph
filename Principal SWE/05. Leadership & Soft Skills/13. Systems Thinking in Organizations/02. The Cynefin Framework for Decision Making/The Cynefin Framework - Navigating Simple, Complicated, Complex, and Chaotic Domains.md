@@ -1,5 +1,5 @@
 ---
-title: The Cynefin Framework: Navigating Simple, Complicated, Complex, and Chaotic Domains
+title: "The Cynefin Framework: Navigating Simple, Complicated, Complex, and Chaotic Domains"
 tags:
   - review
   - soft-skills

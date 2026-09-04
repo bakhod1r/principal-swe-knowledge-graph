@@ -1,5 +1,5 @@
 ---
-title: Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context
+title: "Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context"
 tags:
   - review
   - ai-and-machine-learning

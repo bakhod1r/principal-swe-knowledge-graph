@@ -1,5 +1,5 @@
 ---
-title: Entities: Unique Identity, Lifecycles, and Mutable State Invariants
+title: "Entities: Unique Identity, Lifecycles, and Mutable State Invariants"
 tags:
   - review
   - architecture

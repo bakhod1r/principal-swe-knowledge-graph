@@ -1,5 +1,5 @@
 ---
-title: Remote and Hybrid Team Leadership: Asynchronous Culture and Tooling
+title: "Remote and Hybrid Team Leadership: Asynchronous Culture and Tooling"
 tags:
   - review
   - soft-skills

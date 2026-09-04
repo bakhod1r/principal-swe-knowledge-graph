@@ -1,5 +1,5 @@
 ---
-title: Behavioral Patterns: Strategy Algorithm Swapping and Template Method Invariants
+title: "Behavioral Patterns: Strategy Algorithm Swapping and Template Method Invariants"
 tags:
   - review
   - architecture

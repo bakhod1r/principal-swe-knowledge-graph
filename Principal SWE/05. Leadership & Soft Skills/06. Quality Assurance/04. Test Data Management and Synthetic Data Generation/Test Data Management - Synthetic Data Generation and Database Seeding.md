@@ -1,5 +1,5 @@
 ---
-title: Test Data Management: Synthetic Data Generation and Database Seeding
+title: "Test Data Management: Synthetic Data Generation and Database Seeding"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Leader-Followers Pattern: Eliminating Context Switching in Thread Pools
+title: "Leader-Followers Pattern: Eliminating Context Switching in Thread Pools"
 tags:
   - review
   - architecture

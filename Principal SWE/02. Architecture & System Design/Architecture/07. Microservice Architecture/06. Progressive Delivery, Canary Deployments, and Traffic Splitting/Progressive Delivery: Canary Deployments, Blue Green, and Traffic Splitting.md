@@ -1,5 +1,5 @@
 ---
-title: Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting
+title: "Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting"
 tags:
   - review
   - architecture

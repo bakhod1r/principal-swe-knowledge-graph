@@ -1,5 +1,5 @@
 ---
-title: Eliminating Hero Culture: Sustainable Pace and 40 Hour Focus
+title: "Eliminating Hero Culture: Sustainable Pace and 40 Hour Focus"
 tags:
   - review
   - soft-skills

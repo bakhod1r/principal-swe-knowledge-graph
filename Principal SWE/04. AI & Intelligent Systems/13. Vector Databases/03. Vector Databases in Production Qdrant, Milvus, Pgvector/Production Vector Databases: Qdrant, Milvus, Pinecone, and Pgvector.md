@@ -1,5 +1,5 @@
 ---
-title: Production Vector Databases: Qdrant, Milvus, Pinecone, and Pgvector
+title: "Production Vector Databases: Qdrant, Milvus, Pinecone, and Pgvector"
 tags:
   - review
   - ai-and-machine-learning

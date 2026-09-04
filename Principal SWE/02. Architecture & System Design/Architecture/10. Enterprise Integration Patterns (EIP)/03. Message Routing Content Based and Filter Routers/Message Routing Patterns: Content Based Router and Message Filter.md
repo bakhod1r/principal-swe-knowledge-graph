@@ -1,5 +1,5 @@
 ---
-title: Message Routing Patterns: Content Based Router and Message Filter
+title: "Message Routing Patterns: Content Based Router and Message Filter"
 tags:
   - review
   - architecture

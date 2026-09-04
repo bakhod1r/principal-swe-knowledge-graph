@@ -1,5 +1,5 @@
 ---
-title: Handling Disagreements in Architectural Review Boards: Disagree and Commit
+title: "Handling Disagreements in Architectural Review Boards: Disagree and Commit"
 tags:
   - review
   - soft-skills

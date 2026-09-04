@@ -1,5 +1,5 @@
 ---
-title: Scatter Gather Pattern: Parallel Broadcast and Aggregated Response
+title: "Scatter Gather Pattern: Parallel Broadcast and Aggregated Response"
 tags:
   - review
   - architecture

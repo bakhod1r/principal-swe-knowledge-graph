@@ -1,5 +1,5 @@
 ---
-title: API Integration Testing: Automated Contract and Schema Verification
+title: "API Integration Testing: Automated Contract and Schema Verification"
 tags:
   - review
   - soft-skills

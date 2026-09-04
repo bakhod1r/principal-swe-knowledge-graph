@@ -1,5 +1,5 @@
 ---
-title: Performance and Load Testing Architecture: K6 and Gatling
+title: "Performance and Load Testing Architecture: K6 and Gatling"
 tags:
   - review
   - soft-skills

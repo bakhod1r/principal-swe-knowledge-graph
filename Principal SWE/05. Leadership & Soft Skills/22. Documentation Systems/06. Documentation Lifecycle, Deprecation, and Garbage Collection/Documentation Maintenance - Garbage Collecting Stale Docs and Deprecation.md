@@ -1,5 +1,5 @@
 ---
-title: Documentation Maintenance: Garbage Collecting Stale Docs and Deprecation
+title: "Documentation Maintenance: Garbage Collecting Stale Docs and Deprecation"
 tags:
   - review
   - soft-skills

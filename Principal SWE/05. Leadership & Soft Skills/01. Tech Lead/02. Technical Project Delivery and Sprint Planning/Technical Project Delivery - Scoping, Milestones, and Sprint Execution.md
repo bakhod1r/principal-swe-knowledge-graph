@@ -1,5 +1,5 @@
 ---
-title: Technical Project Delivery: Scoping, Milestones, and Sprint Execution
+title: "Technical Project Delivery: Scoping, Milestones, and Sprint Execution"
 tags:
   - review
   - soft-skills

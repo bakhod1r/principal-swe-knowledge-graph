@@ -1,5 +1,5 @@
 ---
-title: Building Quality Engineering Culture: Whole Team Quality Ownership
+title: "Building Quality Engineering Culture: Whole Team Quality Ownership"
 tags:
   - review
   - soft-skills

@@ -1,5 +1,5 @@
 ---
-title: Transactional Outbox Pattern: Atomic Database Writes and Reliable Publishing
+title: "Transactional Outbox Pattern: Atomic Database Writes and Reliable Publishing"
 tags:
   - review
   - architecture

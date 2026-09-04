@@ -16,7 +16,11 @@ type Client struct {
 }
 
 func NewClient(url string) *Client {
-	return &Client{URL: url, http: &http.Client{Timeout: 30 * time.Second}}
+	// AnkiConnect closes the connection after each response, so a reused
+	// keep-alive socket fails mid-run ("connection reset by peer").
+	tr := http.DefaultTransport.(*http.Transport).Clone()
+	tr.DisableKeepAlives = true
+	return &Client{URL: url, http: &http.Client{Timeout: 60 * time.Second, Transport: tr}}
 }
 
 // Note is one AnkiConnect note payload.
@@ -48,7 +52,7 @@ func (c *Client) call(action string, params, out any) error {
 
 	resp, err := c.http.Post(c.URL, "application/json", bytes.NewReader(body))
 	if err != nil {
-		return fmt.Errorf("AnkiConnect unreachable at %s (is Anki running with the AnkiConnect add-on?): %w", c.URL, err)
+		return fmt.Errorf("AnkiConnect unreachable at %s on %s (is Anki running with the AnkiConnect add-on?): %w", c.URL, action, err)
 	}
 	defer resp.Body.Close()
 
@@ -77,8 +81,30 @@ func (c *Client) CreateDeck(name string) error {
 // the whole batch when it contains a duplicate, so callers filter first.
 func (c *Client) CanAdd(notes []Note) ([]bool, error) {
 	var ok []bool
-	err := c.call("canAddNotes", map[string]any{"notes": notes}, &ok)
-	return ok, err
+	for _, batch := range chunk(notes) {
+		var part []bool
+		if err := c.call("canAddNotes", map[string]any{"notes": batch}, &part); err != nil {
+			return nil, err
+		}
+		ok = append(ok, part...)
+	}
+	return ok, nil
+}
+
+// batchSize caps how many notes go into one AnkiConnect request — Anki closes
+// the connection on very large payloads.
+const batchSize = 100
+
+func chunk(notes []Note) [][]Note {
+	var out [][]Note
+	for i := 0; i < len(notes); i += batchSize {
+		end := i + batchSize
+		if end > len(notes) {
+			end = len(notes)
+		}
+		out = append(out, notes[i:end])
+	}
+	return out
 }
 
 // AddNotes creates the given notes and returns how many were actually added.
@@ -86,14 +112,16 @@ func (c *Client) AddNotes(notes []Note) (int, error) {
 	if len(notes) == 0 {
 		return 0, nil
 	}
-	var ids []*int64
-	if err := c.call("addNotes", map[string]any{"notes": notes}, &ids); err != nil {
-		return 0, err
-	}
 	added := 0
-	for _, id := range ids {
-		if id != nil {
-			added++
+	for _, batch := range chunk(notes) {
+		var ids []*int64
+		if err := c.call("addNotes", map[string]any{"notes": batch}, &ids); err != nil {
+			return added, err
+		}
+		for _, id := range ids {
+			if id != nil {
+				added++
+			}
 		}
 	}
 	return added, nil

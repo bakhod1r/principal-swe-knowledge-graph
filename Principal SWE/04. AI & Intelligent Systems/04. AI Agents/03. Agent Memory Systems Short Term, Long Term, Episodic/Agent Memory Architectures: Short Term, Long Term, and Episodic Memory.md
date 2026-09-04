@@ -1,5 +1,5 @@
 ---
-title: Agent Memory Architectures: Short Term, Long Term, and Episodic Memory
+title: "Agent Memory Architectures: Short Term, Long Term, and Episodic Memory"
 tags:
   - review
   - ai-and-machine-learning

@@ -1,5 +1,5 @@
 ---
-title: Systems Thinking: Mental Models, System Archetypes, and Feedback Loops
+title: "Systems Thinking: Mental Models, System Archetypes, and Feedback Loops"
 tags:
   - review
   - soft-skills

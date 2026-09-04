@@ -1,5 +1,5 @@
 ---
-title: Continuous Testing Architecture: Test Parallelization, Caching, and Test Sharding
+title: "Continuous Testing Architecture: Test Parallelization, Caching, and Test Sharding"
 tags:
   - review
   - soft-skills

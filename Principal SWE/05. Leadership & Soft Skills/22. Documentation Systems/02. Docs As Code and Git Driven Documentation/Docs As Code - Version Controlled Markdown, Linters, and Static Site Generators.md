@@ -1,5 +1,5 @@
 ---
-title: Docs As Code: Version Controlled Markdown, Linters, and Static Site Generators
+title: "Docs As Code: Version Controlled Markdown, Linters, and Static Site Generators"
 tags:
   - review
   - soft-skills

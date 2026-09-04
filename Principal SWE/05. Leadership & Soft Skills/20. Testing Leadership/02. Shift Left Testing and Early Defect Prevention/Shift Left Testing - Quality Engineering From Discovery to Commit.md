@@ -1,5 +1,5 @@
 ---
-title: Shift Left Testing: Quality Engineering From Discovery to Commit
+title: "Shift Left Testing: Quality Engineering From Discovery to Commit"
 tags:
   - review
   - soft-skills

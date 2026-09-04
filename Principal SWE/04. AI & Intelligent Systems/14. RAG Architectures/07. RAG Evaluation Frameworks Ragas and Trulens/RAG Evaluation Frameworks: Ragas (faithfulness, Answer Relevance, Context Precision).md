@@ -1,5 +1,5 @@
 ---
-title: RAG Evaluation Frameworks: Ragas (faithfulness, Answer Relevance, Context Precision)
+title: "RAG Evaluation Frameworks: Ragas (faithfulness, Answer Relevance, Context Precision)"
 tags:
   - review
   - ai-and-machine-learning

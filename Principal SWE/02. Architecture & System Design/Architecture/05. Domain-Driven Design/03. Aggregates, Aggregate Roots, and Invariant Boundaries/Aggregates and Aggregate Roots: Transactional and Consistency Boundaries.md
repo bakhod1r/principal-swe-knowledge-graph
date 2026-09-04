@@ -1,5 +1,5 @@
 ---
-title: Aggregates and Aggregate Roots: Transactional and Consistency Boundaries
+title: "Aggregates and Aggregate Roots: Transactional and Consistency Boundaries"
 tags:
   - review
   - architecture

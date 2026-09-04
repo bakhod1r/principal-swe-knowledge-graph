@@ -1,5 +1,5 @@
 ---
-title: Guarded Suspension and Balking: Conditional Execution and Early Exit
+title: "Guarded Suspension and Balking: Conditional Execution and Early Exit"
 tags:
   - review
   - architecture
