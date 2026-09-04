@@ -223,6 +223,24 @@
   & .type-larger {
     font-size: 0.95rem;
   }
+
+  /* Two bars standing for the page edges: far apart is a narrow margin,
+     close together is a wide one. Drawn rather than lettered, because the
+     pair has to read as a width at a glance. */
+  & .margin-glyph {
+    display: block;
+    height: 0.85rem;
+    border-left: 2px solid currentColor;
+    border-right: 2px solid currentColor;
+  }
+
+  & .margin-glyph--wide {
+    width: 0.45rem;
+  }
+
+  & .margin-glyph--narrow {
+    width: 0.85rem;
+  }
 }
 
 /* ------------------------------------------------------------ switches */

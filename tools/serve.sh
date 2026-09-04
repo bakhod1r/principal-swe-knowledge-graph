@@ -50,6 +50,14 @@ if [ ! -d "$QUARTZ/node_modules" ]; then
   (cd "$QUARTZ" && npm ci)
 fi
 
-echo "==> serving on http://localhost:$PORT"
+# Quartz's own dev server 404s on every folder page (it redirects
+# `.../Folder/index.html` to `.../Folder`, which it then cannot resolve), so
+# build once and serve the output with tools/preview_server.py, which resolves
+# both folder `index.html` and the extensionless note URLs the way GitHub Pages
+# does.
+echo "==> building"
 cd "$QUARTZ"
-exec npx quartz build -d "$CONTENT" -o "$WORK/public" --serve --port "$PORT"
+npx quartz build -d "$CONTENT" -o "$WORK/public"
+
+echo "==> serving on http://localhost:$PORT"
+exec python3 "$VAULT/tools/preview_server.py" "$WORK/public" --port "$PORT"

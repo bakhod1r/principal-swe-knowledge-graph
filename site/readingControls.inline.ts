@@ -273,6 +273,7 @@ document.addEventListener("nav", () => {
   applyPalette(read("palette", "paper"))
   applyTypeface(read("typeface", "source-serif"))
   applyTypeStep(currentStep())
+  applyMeasureStep(currentMeasureStep())
   applyFlag("focus-mode", read("focus", "off") === "on", "#focus-toggle")
   applyRail("left", read("rail-left", "open") === "closed")
   applyRail("right", read("rail-right", "open") === "closed")
@@ -316,6 +317,12 @@ document.addEventListener("nav", () => {
 
   bind("#type-smaller", () => write("type-step", String(applyTypeStep(currentStep() - 1))))
   bind("#type-larger", () => write("type-step", String(applyTypeStep(currentStep() + 1))))
+  bind("#margin-wider", () =>
+    write("measure-step", String(applyMeasureStep(currentMeasureStep() - 1))),
+  )
+  bind("#margin-narrower", () =>
+    write("measure-step", String(applyMeasureStep(currentMeasureStep() + 1))),
+  )
   bind("#fullscreen-toggle", toggleFullscreen)
 
   const onFullscreenChange = () => syncFullscreen()
