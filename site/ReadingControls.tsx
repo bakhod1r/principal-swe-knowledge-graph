@@ -28,16 +28,35 @@ export const TYPEFACES: { id: string; label: string; group: string }[] = [
   { id: "jetbrains-mono", label: "JetBrains Mono", group: "Mono" },
 ]
 
-/** Palettes. `light` and `dark` say which of Quartz's two modes each one is. */
-export const PALETTES: { id: string; label: string }[] = [
-  { id: "paper", label: "Paper" },
-  { id: "sepia", label: "Sepia" },
-  { id: "solarized", label: "Solarized" },
-  { id: "slate", label: "Slate" },
-  { id: "ink", label: "Ink" },
-  { id: "gruvbox", label: "Gruvbox" },
-  { id: "nord", label: "Nord" },
+/**
+ * Palettes. `mode` says which of Quartz's two modes each one is.
+ *
+ * This list is the only place a palette is declared. The pre-paint script
+ * below serialises it, and the panel's `<option>`s carry the mode as a
+ * `data-mode` attribute, which is where readingControls.inline.ts reads it
+ * from — a second hand-kept copy would drift the first time one is added.
+ */
+export const PALETTES: { id: string; label: string; mode: "light" | "dark" }[] = [
+  { id: "paper", label: "Paper", mode: "light" },
+  { id: "sepia", label: "Sepia", mode: "light" },
+  { id: "solarized", label: "Solarized", mode: "light" },
+  { id: "slate", label: "Slate", mode: "light" },
+  { id: "cream", label: "Cream", mode: "light" },
+  { id: "linen", label: "Linen", mode: "light" },
+  { id: "sage", label: "Sage", mode: "light" },
+  { id: "dawn", label: "Dawn", mode: "light" },
+  { id: "newsprint", label: "Newsprint", mode: "light" },
+  { id: "ink", label: "Ink", mode: "dark" },
+  { id: "gruvbox", label: "Gruvbox", mode: "dark" },
+  { id: "nord", label: "Nord", mode: "dark" },
+  { id: "dracula", label: "Dracula", mode: "dark" },
+  { id: "solarized-dark", label: "Solarized Dark", mode: "dark" },
+  { id: "one-dark", label: "One Dark", mode: "dark" },
+  { id: "midnight", label: "Midnight", mode: "dark" },
+  { id: "mocha", label: "Mocha", mode: "dark" },
 ]
+
+const PALETTE_MODES = Object.fromEntries(PALETTES.map((p) => [p.id, p.mode]))
 
 const GROUPS = ["Serif", "Sans", "Mono"]
 
@@ -54,15 +73,49 @@ const GROUPS = ["Serif", "Sans", "Mono"]
  */
 const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
-    <div class={classNames(displayClass, "reading-dock")}>
+    <>
+      {/* Each rail gets its own tab, pinned to the rail's inner edge. */}
+      <button
+        type="button"
+        class="rail-toggle rail-toggle--left"
+        id="rail-left-toggle"
+        aria-label="Toggle navigation sidebar"
+        aria-expanded="true"
+        title="Navigation"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M15 18l-6-6 6-6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+
+      <button
+        type="button"
+        class="rail-toggle rail-toggle--right"
+        id="rail-right-toggle"
+        aria-label="Toggle contents sidebar"
+        aria-expanded="true"
+        title="Contents"
+      >
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M9 18l6-6-6-6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+      </button>
+
+      <div class={classNames(displayClass, "reading-dock")}>
       <div class="reading-panel" id="reading-panel" hidden>
         <div class="reading-row">
           <label class="reading-row-label" for="palette-select">
             Theme
           </label>
           <select class="reading-select" id="palette-select">
-            {PALETTES.map((p) => (
-              <option value={p.id}>{p.label}</option>
+            {(["light", "dark"] as const).map((mode) => (
+              <optgroup label={mode === "light" ? "Light" : "Dark"}>
+                {PALETTES.filter((p) => p.mode === mode).map((p) => (
+                  <option value={p.id} data-mode={p.mode}>
+                    {p.label}
+                  </option>
+                ))}
+              </optgroup>
             ))}
           </select>
         </div>
@@ -155,28 +208,6 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
       <button
         type="button"
         class="reading-fab"
-        id="sidebar-toggle"
-        aria-label="Toggle sidebar"
-        aria-expanded="true"
-        title="Toggle sidebar"
-      >
-        <svg
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.6"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          aria-hidden="true"
-        >
-          <rect x="3" y="4" width="18" height="16" rx="1" />
-          <path d="M9 4v16" />
-        </svg>
-      </button>
-
-      <button
-        type="button"
-        class="reading-fab"
         id="reading-fab"
         aria-label="Reading settings"
         aria-expanded="false"
@@ -195,8 +226,9 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
           <circle cx="12" cy="12" r="3" />
           <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
         </svg>
-      </button>
-    </div>
+        </button>
+      </div>
+    </>
   )
 }
 
@@ -206,9 +238,16 @@ ReadingControls.beforeDOMLoaded = `
     if (localStorage.getItem("bionic") === "off") root.classList.add("bionic-off")
     var face = localStorage.getItem("typeface")
     if (face && face !== "source-serif") root.setAttribute("data-typeface", face)
+    var modes = ${JSON.stringify(PALETTE_MODES)}
     var palette = localStorage.getItem("palette")
-    if (palette) root.setAttribute("data-palette", palette)
+    // An unknown id (a palette that was renamed or dropped) matches no CSS at
+    // all, so fall back rather than paint an unstyled page.
+    if (!palette || !modes[palette]) palette = "paper"
+    root.setAttribute("data-palette", palette)
+    root.setAttribute("saved-theme", modes[palette])
     if (localStorage.getItem("focus") === "on") root.classList.add("focus-mode")
+    if (localStorage.getItem("rail-left") === "closed") root.classList.add("rail-left-hidden")
+    if (localStorage.getItem("rail-right") === "closed") root.classList.add("rail-right-hidden")
     var step = parseInt(localStorage.getItem("type-step") || "0", 10)
     if (step) root.style.setProperty("--type-step", String(step))
   } catch (e) {}

@@ -148,6 +148,130 @@ html {
   --textHighlight: #88c0d044;
 }
 
+/* --- light palettes, warm-to-cool, all held near 12:1 body contrast --- */
+
+:root[data-palette="cream"] {
+  --light: #fbf7ef;
+  --lightgray: #e8e0d2;
+  --gray: #8c8272;
+  --darkgray: #443d33;
+  --dark: #1b1811;
+  --secondary: #8a5a2b;
+  --tertiary: #a8763f;
+  --highlight: rgb(138 90 43 / 8%);
+  --textHighlight: #e0c08c88;
+}
+
+:root[data-palette="linen"] {
+  --light: #f6f4f0;
+  --lightgray: #e3e0d9;
+  --gray: #8a8781;
+  --darkgray: #423f3a;
+  --dark: #171613;
+  --secondary: #5a5f52;
+  --tertiary: #7b8271;
+  --highlight: rgb(90 95 82 / 8%);
+  --textHighlight: #c9cdb988;
+}
+
+:root[data-palette="sage"] {
+  --light: #f0f4ee;
+  --lightgray: #dae2d6;
+  --gray: #7e8a7a;
+  --darkgray: #384235;
+  --dark: #131a12;
+  --secondary: #3f6b4f;
+  --tertiary: #5a8a68;
+  --highlight: rgb(63 107 79 / 8%);
+  --textHighlight: #a8ceb188;
+}
+
+:root[data-palette="dawn"] {
+  --light: #fbf3f0;
+  --lightgray: #ecdcd6;
+  --gray: #93807a;
+  --darkgray: #453a37;
+  --dark: #1d1614;
+  --secondary: #9c4a52;
+  --tertiary: #bb6a70;
+  --highlight: rgb(156 74 82 / 8%);
+  --textHighlight: #e8b7ba88;
+}
+
+:root[data-palette="newsprint"] {
+  --light: #f2f2f0;
+  --lightgray: #dedede;
+  --gray: #86868a;
+  --darkgray: #3c3c40;
+  --dark: #131315;
+  --secondary: #2f4f7a;
+  --tertiary: #4d719c;
+  --highlight: rgb(47 79 122 / 8%);
+  --textHighlight: #b5c8e088;
+}
+
+/* --- dark palettes; backgrounds stay off-black to cut halation --- */
+
+:root[data-palette="dracula"] {
+  --light: #282a36;
+  --lightgray: #3b3d4d;
+  --gray: #7b7f97;
+  --darkgray: #cfd2e0;
+  --dark: #f4f5fa;
+  --secondary: #bd93f9;
+  --tertiary: #ff79c6;
+  --highlight: rgb(189 147 249 / 10%);
+  --textHighlight: #bd93f944;
+}
+
+:root[data-palette="solarized-dark"] {
+  --light: #002b36;
+  --lightgray: #0d3d49;
+  --gray: #6d8a92;
+  --darkgray: #c3ccc6;
+  --dark: #eee8d5;
+  --secondary: #b58900;
+  --tertiary: #2aa198;
+  --highlight: rgb(181 137 0 / 12%);
+  --textHighlight: #b5890055;
+}
+
+:root[data-palette="one-dark"] {
+  --light: #282c34;
+  --lightgray: #3b414d;
+  --gray: #7c8494;
+  --darkgray: #ccd2de;
+  --dark: #f0f2f6;
+  --secondary: #61afef;
+  --tertiary: #98c379;
+  --highlight: rgb(97 175 239 / 10%);
+  --textHighlight: #61afef44;
+}
+
+:root[data-palette="midnight"] {
+  --light: #10151f;
+  --lightgray: #232b3a;
+  --gray: #6f7b90;
+  --darkgray: #c6cddb;
+  --dark: #eef1f7;
+  --secondary: #7aa2f7;
+  --tertiary: #9ece6a;
+  --highlight: rgb(122 162 247 / 10%);
+  --textHighlight: #7aa2f744;
+}
+
+:root[data-palette="mocha"] {
+  --light: #1e1a17;
+  --lightgray: #332c27;
+  --gray: #8a7b6d;
+  --darkgray: #ddd2c6;
+  --dark: #f5ede4;
+  --secondary: #d8a25e;
+  --tertiary: #c98a6b;
+  --highlight: rgb(216 162 94 / 10%);
+  --textHighlight: #d8a25e44;
+}
+
 body {
   letter-spacing: 0;
   font-variant-numeric: oldstyle-nums;
@@ -599,24 +723,36 @@ b.bionic {
  * The ID in the selector matches base's own specificity; a plain class would
  * lose to it.
  */
-.page > #quartz-body .sidebar.left {
-  padding-top: 2.5rem;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-}
+@media all and (min-width: 801px) {
+  .page > #quartz-body .sidebar {
+    display: block;
+    height: 100vh;
+    max-height: 100vh;
+    padding-top: 2.5rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
 
-.explorer {
-  flex: 0 0 auto;
-  min-height: 0;
-  overflow: visible;
+  /* `display: block` replaces the flex column, so space the children by hand. */
+  .page > #quartz-body .sidebar > * + * {
+    margin-top: 1.1rem;
+  }
+
+  /* The two containers that would otherwise clip or cap their own height.
+     `.folder-outer > ul` keeps its `overflow: hidden` — that is what makes the
+     collapse animation work. */
+  .page > #quartz-body .sidebar .explorer,
+  .page > #quartz-body .sidebar .explorer-content {
+    overflow: visible;
+    max-height: none;
+    min-height: 0;
+  }
 }
 
 .explorer-content {
   font-family: var(--uiFont);
   font-size: 0.8rem;
   line-height: 1.4;
-  overflow: visible;
-  max-height: none;
 
   /* Quartz fades out the last 50px, hiding whatever you scrolled down to. */
   mask-image: none !important;

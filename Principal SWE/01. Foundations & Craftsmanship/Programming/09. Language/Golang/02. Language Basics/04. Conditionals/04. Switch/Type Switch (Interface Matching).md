@@ -5,7 +5,7 @@ tags:
   - language-basics
   - switch
   - principal-swe
-parent: "[[Switch]]"
+parent: "[[Switch Statement]]"
 ---
 
 # Type Switch (Interface Matching)
@@ -21,5 +21,5 @@ parent: "[[Switch]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Switch]]
+- ⬆️ Parent: [[Switch Statement]]
 - 📚 Module: `Language Basics`

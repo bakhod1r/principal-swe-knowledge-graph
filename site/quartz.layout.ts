@@ -35,10 +35,14 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
+        // Rendered but hidden: the reading panel drives reader mode, and
+        // keeping the component in the layout is what bundles its script
+        // and styles.
         { Component: Component.ReaderMode() },
       ],
     }),
+    // Quartz's default sort is already folders-first with numeric collation,
+    // which is what the vault's `01. …`, `02. …` names need.
     Component.Explorer(),
   ],
   // Graph view intentionally omitted.
@@ -57,9 +61,10 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
       ],
     }),
+    // Quartz's default sort is already folders-first with numeric collation,
+    // which is what the vault's `01. …`, `02. …` names need.
     Component.Explorer(),
   ],
   right: [],

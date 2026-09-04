@@ -1,5 +1,5 @@
 ---
-title: "Go 1.19+ Typed Atomics and Pointer[T]"
+title: "Go 1.19+ Typed Atomics and atomic.Pointer"
 tags:
   - golang
   - sync-atomic
@@ -9,7 +9,7 @@ tags:
 parent: "[[Memory Alignment & Atomic Safety]]"
 ---
 
-# Go 1.19+ Typed Atomics and Pointer[T]
+# Go 1.19+ Typed Atomics and atomic.Pointer
 
 ## 🔗 References
 - ⬆️ Parent: [[Memory Alignment & Atomic Safety]]

@@ -284,26 +284,124 @@
  * outweighs a plain class selector — hence the matching depth here.
  */
 html.focus-mode .page > #quartz-body .sidebar,
-html.sidebar-hidden .page > #quartz-body .sidebar.left {
+html.rail-left-hidden .page > #quartz-body .sidebar.left,
+html.rail-right-hidden .page > #quartz-body .sidebar.right {
   display: none;
 }
 
-html.focus-mode .page > #quartz-body,
-html.sidebar-hidden .page > #quartz-body {
+html.focus-mode .page > #quartz-body {
   display: block;
 }
 
 /* Quartz pins `.center` and `footer` to `min-width: 100%`, which otherwise
    wins over any max-width here and leaves the text stretched full-bleed. */
 html.focus-mode .page > #quartz-body > .center,
-html.focus-mode .page > #quartz-body > footer,
-html.sidebar-hidden .page > #quartz-body > .center,
-html.sidebar-hidden .page > #quartz-body > footer {
+html.focus-mode .page > #quartz-body > footer {
   min-width: 0;
   max-width: calc(var(--measure) + 3rem);
   margin: 0 auto;
   padding: 0 1.5rem;
   box-sizing: border-box;
+}
+
+/* Collapsing a rail closes its grid column, so the article actually gains the
+   width instead of leaving a hole. */
+@media all and (min-width: 1201px) {
+  html.rail-left-hidden .page > #quartz-body {
+    grid-template-columns: 0 auto 320px;
+  }
+
+  html.rail-right-hidden .page > #quartz-body {
+    grid-template-columns: 320px auto 0;
+  }
+
+  html.rail-left-hidden.rail-right-hidden .page > #quartz-body {
+    grid-template-columns: 0 auto 0;
+  }
+}
+
+@media all and (min-width: 801px) and (max-width: 1200px) {
+  html.rail-left-hidden .page > #quartz-body {
+    grid-template-columns: 0 auto;
+  }
+}
+
+/* ------------------------------------------------------- rail toggles */
+
+/**
+ * One tab per rail, pinned to the viewport edge beside it. Anchoring to the
+ * rail's inner edge would mean tracking the centred page's offset in CSS;
+ * the outer edge is unambiguous and never drifts.
+ */
+.rail-toggle {
+  position: fixed;
+  top: 50%;
+  z-index: 19;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 1.15rem;
+  height: 3.5rem;
+  padding: 0;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  color: var(--gray);
+  cursor: pointer;
+  transform: translateY(-50%);
+  transition:
+    color 0.15s var(--dock-ease, ease),
+    border-color 0.15s var(--dock-ease, ease),
+    background 0.15s var(--dock-ease, ease);
+
+  &:hover {
+    color: var(--secondary);
+    border-color: var(--secondary);
+    background: var(--highlight);
+  }
+
+  & svg {
+    width: 0.8rem;
+    height: 0.8rem;
+    transition: transform 0.2s var(--dock-ease, ease);
+  }
+}
+
+@media all and (min-width: 801px) {
+  .rail-toggle {
+    display: flex;
+  }
+}
+
+/* The right rail only exists on wide screens. */
+@media all and (max-width: 1200px) {
+  .rail-toggle--right {
+    display: none;
+  }
+}
+
+.rail-toggle--left {
+  left: 0;
+  border-left: none;
+}
+
+.rail-toggle--right {
+  right: 0;
+  border-right: none;
+}
+
+html.rail-left-hidden .rail-toggle--left svg,
+html.rail-right-hidden .rail-toggle--right svg {
+  transform: scaleX(-1);
+}
+
+html.focus-mode .rail-toggle {
+  display: none;
+}
+
+/* The sidebar's reader-mode button is kept in the DOM only so Quartz bundles
+   its script and styles; the panel switch is the control people see. */
+.sidebar .readermode {
+  display: none;
 }
 
 /* Bionic markup ships in every page; this is the off switch. */

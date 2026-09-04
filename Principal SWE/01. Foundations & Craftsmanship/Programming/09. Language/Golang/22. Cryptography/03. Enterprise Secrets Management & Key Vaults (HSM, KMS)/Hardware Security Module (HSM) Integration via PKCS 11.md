@@ -1,5 +1,5 @@
 ---
-title: "Hardware Security Module (HSM) Integration via PKCS#11"
+title: "Hardware Security Module (HSM) Integration via PKCS 11"
 tags:
   - review
   - golang
@@ -8,7 +8,7 @@ tags:
 parent: "[[Enterprise Secrets Management & Key Vaults (HSM, KMS)]]"
 ---
 
-# Hardware Security Module (HSM) Integration via PKCS#11
+# Hardware Security Module (HSM) Integration via PKCS 11
 
 ## 1. Definition
 

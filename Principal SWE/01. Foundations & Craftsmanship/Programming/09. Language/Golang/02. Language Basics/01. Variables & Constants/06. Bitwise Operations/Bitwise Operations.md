@@ -34,9 +34,9 @@ graph TD
 Bitwise Operations
 │
 ├── [[Bitwise AND (&)]]
-├── [[Bitwise OR (|)]]
-├── [[Bitwise XOR and NOT (^)]]
-├── [[Bit Clear Operator (&^)]]
+├── [[Bitwise OR (Pipe)]]
+├── [[Bitwise XOR and NOT (Caret)]]
+├── [[Bit Clear Operator (AND NOT)]]
 ├── [[Left Shift Operator (<<)]]
 ├── [[Right Shift Operator (>>)]]
 ├── [[math-bits Standard Package]]
@@ -53,9 +53,9 @@ Bitwise Operations
 ## 🗂️ Topics
 
 - [[Bitwise AND (&)]] — Bitwise AND operator for masking, filtering, and intersection testing.
-- [[Bitwise OR (|)]] — Bitwise OR operator for combining flags, setting bits, and union operations.
-- [[Bitwise XOR and NOT (^)]] — Bitwise XOR for toggling and unary `^` for bitwise inversion (complement).
-- [[Bit Clear Operator (&^)]] — Go-specific AND NOT operator for clearing specific bits in a mask.
+- [[Bitwise OR (Pipe)]] — Bitwise OR operator for combining flags, setting bits, and union operations.
+- [[Bitwise XOR and NOT (Caret)]] — Bitwise XOR for toggling and unary `^` for bitwise inversion (complement).
+- [[Bit Clear Operator (AND NOT)]] — Go-specific AND NOT operator for clearing specific bits in a mask.
 - [[Left Shift Operator (<<)]] — Logical left shift for multiplication by powers of two and bit packing.
 - [[Right Shift Operator (>>)]] — Logical (unsigned) vs Arithmetic (signed) right shifts for division and sign extension.
 - [[math-bits Standard Package]] — Hardware compiler intrinsics for leading zeros, trailing zeros, popcount, and multi-word arithmetic.

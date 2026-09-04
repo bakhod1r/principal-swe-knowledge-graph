@@ -1,5 +1,5 @@
 ---
-title: "Bitwise XOR and NOT (^)"
+title: "Bitwise XOR and NOT (Caret)"
 tags:
   - golang
   - bitwise

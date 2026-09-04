@@ -1,25 +1,15 @@
 ---
-title: "Bit Clear Operator (&^)"
+title: "Bitwise OR (Pipe)"
 tags:
   - golang
   - bitwise
+  - bitwise-or
   - variables
-  - bit-clear
   - principal-swe
 parent: "[[Bitwise Operations]]"
 ---
 
-# Bit Clear Operator (`&^`)
-
-## 1. Definition
-
-## 2. Mental Model
-
-## 3. Usage
-
-## 4. Gotchas
-
----
+# Bitwise OR (`|`)
 
 ## 🔗 References
 - ⬆️ Parent: [[Bitwise Operations]]

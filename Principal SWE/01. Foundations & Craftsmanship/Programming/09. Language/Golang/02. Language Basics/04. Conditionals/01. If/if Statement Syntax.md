@@ -5,7 +5,7 @@ tags:
   - language-basics
   - if
   - principal-swe
-parent: "[[If]]"
+parent: "[[If Statement]]"
 ---
 
 # if Statement Syntax
@@ -21,5 +21,5 @@ parent: "[[If]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[If]]
+- ⬆️ Parent: [[If Statement]]
 - 📚 Module: `Language Basics`

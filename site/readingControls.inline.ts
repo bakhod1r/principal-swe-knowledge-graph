@@ -76,17 +76,17 @@ const FONTS: Record<string, { stack: string; href?: string }> = {
   },
 }
 
-const PALETTES = ["paper", "sepia", "solarized", "slate", "ink", "gruvbox", "nord"]
-
-/** Which of Quartz's two modes each palette is, for syntax colours and icons. */
-const PALETTE_MODE: Record<string, "light" | "dark"> = {
-  paper: "light",
-  sepia: "light",
-  solarized: "light",
-  slate: "light",
-  ink: "dark",
-  gruvbox: "dark",
-  nord: "dark",
+/**
+ * Which of Quartz's two modes each palette is, read off the `data-mode` the
+ * panel's `<option>`s carry. ReadingControls.tsx declares the palettes; a
+ * copy of the list here would drift the first time one is added.
+ */
+function paletteModes(): Record<string, string> {
+  const modes: Record<string, string> = {}
+  for (const el of document.querySelectorAll<HTMLOptionElement>("#palette-select option")) {
+    modes[el.value] = el.dataset.mode ?? "light"
+  }
+  return modes
 }
 
 function read(key: string, fallback: string): string {
@@ -151,10 +151,14 @@ function applyTypeface(id: string) {
 /* ------------------------------------------------------------ palette */
 
 function applyPalette(id: string) {
-  const chosen = PALETTES.includes(id) ? id : "paper"
+  const modes = paletteModes()
+  const chosen = modes[id] ? id : "paper"
   document.documentElement.setAttribute("data-palette", chosen)
-  // Quartz keys syntax highlighting and its icons off `saved-theme`.
-  document.documentElement.setAttribute("saved-theme", PALETTE_MODE[chosen])
+  // Quartz keys syntax highlighting and its icons off `saved-theme`. On a page
+  // without the panel there is nothing to read the mode from, so leave the
+  // attribute the pre-paint script already set.
+  const mode = modes[chosen]
+  if (mode) document.documentElement.setAttribute("saved-theme", mode)
   for (const el of document.querySelectorAll<HTMLSelectElement>("#palette-select")) {
     el.value = chosen
   }
@@ -215,9 +219,9 @@ function panelOpen(): boolean {
   return panel !== null && !panel.hidden
 }
 
-function applySidebar(hidden: boolean) {
-  document.documentElement.classList.toggle("sidebar-hidden", hidden)
-  for (const el of document.querySelectorAll("#sidebar-toggle")) {
+function applyRail(side: "left" | "right", hidden: boolean) {
+  document.documentElement.classList.toggle(`rail-${side}-hidden`, hidden)
+  for (const el of document.querySelectorAll(`#rail-${side}-toggle`)) {
     el.setAttribute("aria-expanded", String(!hidden))
   }
 }
@@ -240,17 +244,20 @@ document.addEventListener("nav", () => {
   applyTypeface(read("typeface", "source-serif"))
   applyTypeStep(currentStep())
   applyFlag("focus-mode", read("focus", "off") === "on", "#focus-toggle")
-  applySidebar(read("sidebar", "open") === "closed")
+  applyRail("left", read("rail-left", "open") === "closed")
+  applyRail("right", read("rail-right", "open") === "closed")
   syncFullscreen()
   setPanel(false)
 
   bind("#reading-fab", () => setPanel(!panelOpen()))
 
-  bind("#sidebar-toggle", () => {
-    const hidden = !document.documentElement.classList.contains("sidebar-hidden")
-    applySidebar(hidden)
-    write("sidebar", hidden ? "closed" : "open")
-  })
+  for (const side of ["left", "right"] as const) {
+    bind(`#rail-${side}-toggle`, () => {
+      const hidden = !document.documentElement.classList.contains(`rail-${side}-hidden`)
+      applyRail(side, hidden)
+      write(`rail-${side}`, hidden ? "closed" : "open")
+    })
+  }
 
   bind("#bionic-toggle", () => {
     const off = !document.documentElement.classList.contains("bionic-off")
