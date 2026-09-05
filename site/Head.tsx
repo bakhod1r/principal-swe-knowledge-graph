@@ -76,6 +76,11 @@ export default (() => {
     const modified = fileData.dates?.modified
     const published = fileData.dates?.published ?? fileData.dates?.created
 
+    // Folder and tag pages are listings, not writing: schema.org has a type for
+    // exactly that, and calling them Articles would misdescribe the whole tree.
+    const isListing =
+      !isHome && (fileData.slug!.endsWith("/index") || fileData.slug!.startsWith("tags/"))
+
     const jsonLd = isHome
       ? {
           "@context": "https://schema.org",
@@ -87,7 +92,7 @@ export default (() => {
         }
       : {
           "@context": "https://schema.org",
-          "@type": "Article",
+          "@type": isListing ? "CollectionPage" : "Article",
           headline: title,
           description,
           url: socialUrl,

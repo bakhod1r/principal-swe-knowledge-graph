@@ -49,7 +49,7 @@ Push to `main` builds and deploys to GitHub Pages. The build:
 
 - **`rel=canonical`** on every page, built from the simplified slug so a folder page has one address, not two. `canonicalSlug` in frontmatter overrides it — the root note uses it, because the build serves the same text at `/` and at `/Principal-SWE`.
 - **`noindex, follow` on skeleton notes.** The `ComingSoon` transformer already marks any note with no prose under its headings; ~7,100 of ~12,700 pages are outlines, and indexing them as thin content would drag the rest down. `follow` still lets crawlers walk through them.
-- **JSON-LD** — `WebSite` on the landing page, `Article` elsewhere (headline, description, keywords, published/modified dates).
+- **JSON-LD** — `WebSite` on the landing page, `CollectionPage` on folder and tag listings, `Article` on notes (headline, description, keywords, published/modified dates).
 - **`og:locale`, `article:modified_time`, `keywords`,** and `og:image:type` without upstream's stray dot (`image/.png`).
 
 [`tools/patch_content_index.py`](tools/patch_content_index.py) keeps the same skeleton notes out of `sitemap.xml` and the RSS feed — a sitemap that advertises noindexed URLs is a contradiction the crawler has to resolve. The sitemap ends up at ~2,300 real pages instead of 9,400.
