@@ -8,16 +8,6 @@ tags:
 parent: "[[Channel Architecture]]"
 ---
 
-# Direct Stack-to-Stack Copy Optimization
-
-## 1. Definition
-
-## 2. Mental Model
-
-## 3. Usage
-
-## 4. Gotchas
-
 ---
 
 ## 🔗 References
