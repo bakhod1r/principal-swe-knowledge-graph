@@ -69,7 +69,12 @@ jobs:
           cp vault/site/SiblingNav.tsx quartz/quartz/components/SiblingNav.tsx
           cp vault/site/siblingNav.scss quartz/quartz/components/styles/siblingNav.scss
           cp vault/site/PageList.tsx quartz/quartz/components/PageList.tsx
+          cp vault/site/Head.tsx quartz/quartz/components/Head.tsx
+          # Shared link-preview card; per-page OG images are far too slow at 9k+ notes.
+          cp vault/site/static/og-image.png quartz/quartz/static/og-image.png
           python3 vault/tools/patch_folder_title.py quartz/quartz/plugins/emitters/folderPage.tsx
+          # Skeleton notes are served noindex; keep them out of the sitemap too.
+          python3 vault/tools/patch_content_index.py quartz/quartz/plugins/emitters/contentIndex.tsx
           # Quartz leaves a backtick in the slug; it reaches the URL as %60 and
           # GitHub Pages answers 404 for that path. tools/check_links.py already
           # rejects such filenames — this is the second line of defence.

@@ -6,6 +6,8 @@ tags:
   - systems-architecture
   - engineering-excellence
 parent: "root"
+description: "An Obsidian knowledge graph of 9,000+ notes on systems, architecture, infrastructure, AI and engineering leadership for Staff+ and Principal engineers."
+canonicalSlug: ""
 ---
 
 # 🎓 Principal Software Engineer (Principal SWE & Staff+ Master Universe)

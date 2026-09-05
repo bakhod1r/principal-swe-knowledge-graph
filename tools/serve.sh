@@ -42,7 +42,11 @@ cp "$VAULT/site/readingControls.scss" "$QUARTZ/quartz/components/styles/readingC
 cp "$VAULT/site/SiblingNav.tsx" "$QUARTZ/quartz/components/SiblingNav.tsx"
 cp "$VAULT/site/siblingNav.scss" "$QUARTZ/quartz/components/styles/siblingNav.scss"
 cp "$VAULT/site/PageList.tsx" "$QUARTZ/quartz/components/PageList.tsx"
+cp "$VAULT/site/Head.tsx" "$QUARTZ/quartz/components/Head.tsx"
+# Shared link-preview card; per-page OG images are far too slow at 9k+ notes.
+cp "$VAULT/site/static/og-image.png" "$QUARTZ/quartz/static/og-image.png"
 python3 "$VAULT/tools/patch_slug.py" "$QUARTZ/quartz/util/path.ts"
+python3 "$VAULT/tools/patch_content_index.py" "$QUARTZ/quartz/plugins/emitters/contentIndex.tsx"
 python3 "$VAULT/tools/patch_folder_title.py" "$QUARTZ/quartz/plugins/emitters/folderPage.tsx"
 
 if [ ! -d "$QUARTZ/node_modules" ]; then

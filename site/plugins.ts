@@ -1,6 +1,14 @@
 import { QuartzTransformerPlugin } from "../types"
 import { visit } from "unist-util-visit"
 import { Root, Element, Text, Parent } from "hast"
+import { VFile } from "vfile"
+
+declare module "vfile" {
+  interface DataMap {
+    /** Set by ComingSoon on skeleton notes; Head turns it into `noindex`. */
+    comingSoon: boolean
+  }
+}
 
 /**
  * Site-specific transformers for the Principal SWE knowledge graph.
@@ -128,7 +136,7 @@ export const ComingSoon: QuartzTransformerPlugin<Partial<ComingSoonOptions>> = (
     name: "ComingSoon",
     htmlPlugins() {
       return [
-        () => (tree: Root) => {
+        () => (tree: Root, file: VFile) => {
           let words = 0
 
           visit(tree, "element", (node: Element) => {
@@ -149,6 +157,10 @@ export const ComingSoon: QuartzTransformerPlugin<Partial<ComingSoonOptions>> = (
           })
 
           if (words >= opts.minWords || hasCode) return
+
+          // An outline is thin content: worth reading in the tree, not worth
+          // indexing. Head reads this back and emits `noindex, follow`.
+          file.data.comingSoon = true
 
           const banner: Element = {
             type: "element",
