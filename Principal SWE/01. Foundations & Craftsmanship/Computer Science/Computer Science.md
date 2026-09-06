@@ -47,6 +47,7 @@ Comprehensive, production-grade master architecture covering the complete academ
 - 📂 [[Parallel Algorithms|13. Parallel Algorithms]]
 - 📂 [[External Memory and Cache Aware|14. External Memory and Cache Aware]]
 - 📂 [[Online Algorithms|15. Online Algorithms]]
+- 📂 [[Algorithmic Patterns & Techniques|16. Algorithmic Patterns & Techniques]]
 
 ### 📂 [[Computer Architecture & Hardware Systems|03. Computer Architecture & Hardware Systems]]
 - 📂 `01. Instruction Pipelining and Out of Order Execution`
