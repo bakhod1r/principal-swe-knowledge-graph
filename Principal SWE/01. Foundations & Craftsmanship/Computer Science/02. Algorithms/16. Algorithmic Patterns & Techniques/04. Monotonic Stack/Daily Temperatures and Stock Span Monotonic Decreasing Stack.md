@@ -1,0 +1,27 @@
+---
+title: "Daily Temperatures and Stock Span Monotonic Decreasing Stack"
+tags:
+  - review
+  - computer-science
+  - algorithms
+  - algorithmic-patterns
+  - monotonic-stack
+  - principal-swe
+parent: "[[Monotonic Stack]]"
+---
+
+# Daily Temperatures and Stock Span Monotonic Decreasing Stack
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Monotonic Stack]]
+- 📚 Module: `Algorithmic Patterns & Techniques`

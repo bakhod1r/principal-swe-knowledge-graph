@@ -2,32 +2,35 @@
 title: Pseudo Code
 tags:
   - algorithms
+  - computer-science
+  - dsa
+  - programming-fundamentals
   - principal-swe
 parent: "[[Programming Fundamentals]]"
 ---
 
-# Pseudo Code
+# 📐 Pseudo Code & Algorithmic Specifications
 
-Algorithmic design, computational complexity, and production engineering for Pseudo Code.
+Formal mathematical notation, loop invariants, state transitions, and axiomatic proofs used to specify and reason about algorithm correctness independent of programming languages.
 
 ```text
 Pseudo Code
 │
-├── [[Pseudo Code Foundations and Invariants]]
-├── [[Pseudo Code Production Implementation and Complexity]]
-└── [[Pseudo Code Edge Cases and Optimization]]
+├── [[Formal Algorithmic Specifications and CLRS Conventions]]
+├── [[Loop Invariants, Preconditions, Postconditions, and Hoare Logic]]
+└── [[State Transition Systems and Operational Semantics]]
 ```
 
 ---
 
 ## 🗂️ Topics
 
-- [[Pseudo Code Foundations and Invariants]] — Mathematical definition, invariant properties, and structural topology for Pseudo Code.
-- [[Pseudo Code Production Implementation and Complexity]] — Time and space complexity bounds, algorithmic implementation, and hardware cache considerations for Pseudo Code.
-- [[Pseudo Code Edge Cases and Optimization]] — Gotchas, degenerate worst-case inputs, and optimization techniques for Pseudo Code.
+- [[Formal Algorithmic Specifications and CLRS Conventions]] — Standardized algorithmic notation, pseudo-grammar rules, and mathematical conventions from CLRS.
+- [[Loop Invariants, Preconditions, Postconditions, and Hoare Logic]] — Proving correctness through induction: initialization, maintenance, termination, and Hoare triples $\{P\} C \{Q\}$.
+- [[State Transition Systems and Operational Semantics]] — Modeling algorithms as discrete transition systems with formal state spaces and execution traces.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Programming Fundamentals]]
-
+- 📚 Module: `Programming Fundamentals`
