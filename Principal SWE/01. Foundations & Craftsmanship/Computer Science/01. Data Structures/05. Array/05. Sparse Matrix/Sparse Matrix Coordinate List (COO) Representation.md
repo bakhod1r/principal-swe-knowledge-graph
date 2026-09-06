@@ -7,7 +7,7 @@ tags:
   - matrix
   - sparse-matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Sparse Matrix Coordinate List (COO) Representation
@@ -49,5 +49,5 @@ val: [ 10, 5, 20 ]
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

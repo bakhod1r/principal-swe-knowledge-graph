@@ -7,7 +7,7 @@ tags:
   - matrix
   - tensors
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # 3D Array Layout, Voxel Tensors, and Coordinate Flattening
@@ -47,5 +47,5 @@ Given a linear flat index $idx$, the 3D coordinates can be recovered without bra
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

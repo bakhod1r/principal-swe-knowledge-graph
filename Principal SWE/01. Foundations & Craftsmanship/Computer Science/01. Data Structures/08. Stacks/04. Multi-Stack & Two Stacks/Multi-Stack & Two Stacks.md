@@ -22,7 +22,6 @@ parent: "[[Stacks]]"
 
 ## 📑 Notes in this Topic
 - [[K-Stacks in a Single Dynamic Array (Free-List Index Tracking)]]
-- [[Multi-Stack]]
 - [[Queue Reconstruction via Double Inverted Stacks]]
 - [[Two Stacks in a Single Array (Converging Tops)]]
 

@@ -6,7 +6,7 @@ tags:
   - data-structures
   - matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Cache Locality, Row-Wise vs Column-Wise Traversal Prefetching
@@ -43,5 +43,5 @@ for (int j = 0; j < COLS; j++) {
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

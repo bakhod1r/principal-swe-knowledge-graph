@@ -6,7 +6,7 @@ tags:
   - data-structures
   - matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Matrix 90-Degree In-Place Rotation (Transpose and Reverse)
@@ -61,5 +61,5 @@ void rotate_90_clockwise(int* A, int N) {
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

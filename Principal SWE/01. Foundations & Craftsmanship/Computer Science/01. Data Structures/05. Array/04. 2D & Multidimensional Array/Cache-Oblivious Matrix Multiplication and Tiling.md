@@ -6,7 +6,7 @@ tags:
   - data-structures
   - matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Cache-Oblivious Matrix Multiplication and Tiling
@@ -46,5 +46,5 @@ for (int i0 = 0; i0 < N; i0 += B)
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

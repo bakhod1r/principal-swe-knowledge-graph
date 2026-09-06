@@ -6,7 +6,7 @@ tags:
   - data-structures
   - matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Spiral Matrix Traversal and Boundary Layer Peel
@@ -40,5 +40,5 @@ bottom <-- <-- <-- <-- <-- <-- v
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

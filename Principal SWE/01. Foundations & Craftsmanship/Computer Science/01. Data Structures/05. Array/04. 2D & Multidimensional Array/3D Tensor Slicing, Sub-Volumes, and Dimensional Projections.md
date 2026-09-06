@@ -7,7 +7,7 @@ tags:
   - matrix
   - tensors
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # 3D Tensor Slicing, Sub-Volumes, and Dimensional Projections
@@ -41,5 +41,5 @@ Slicing tensor $A[d_0:d_1, r_0:r_1, c_0:c_1]$ with step sizes $(s_d, s_r, s_c)$:
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

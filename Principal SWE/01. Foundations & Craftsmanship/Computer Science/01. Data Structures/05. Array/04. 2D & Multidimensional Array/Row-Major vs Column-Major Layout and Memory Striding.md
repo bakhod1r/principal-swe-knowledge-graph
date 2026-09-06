@@ -6,7 +6,7 @@ tags:
   - data-structures
   - matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Row-Major vs Column-Major Layout and Memory Striding
@@ -50,5 +50,5 @@ Strides specify the number of bytes (or element steps) needed to advance one uni
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`

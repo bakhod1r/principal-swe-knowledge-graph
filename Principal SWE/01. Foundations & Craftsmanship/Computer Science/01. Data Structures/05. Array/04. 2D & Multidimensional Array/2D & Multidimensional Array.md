@@ -29,7 +29,6 @@ parent: "[[Array]]"
 - [[Contiguous Flat Buffers vs Jagged Arrays (Array of Pointers)]]
 - [[Diagonal and Anti-Diagonal Matrix Traversals]]
 - [[In-Place Matrix Transposition (Square vs Rectangular)]]
-- [[Matrix & Multidimensional Arrays]]
 - [[Matrix 90-Degree In-Place Rotation (Transpose and Reverse)]]
 - [[Matrix Sub-Grid Slicing and Window Striding Operations]]
 - [[Row-Major vs Column-Major Layout and Memory Striding]]

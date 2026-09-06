@@ -7,7 +7,7 @@ tags:
   - matrix
   - sparse-matrix
   - principal-swe
-parent: "[[Matrix & Multidimensional Arrays]]"
+parent: "[[2D & Multidimensional Array]]"
 ---
 
 # Compressed Sparse Row (CSR) and Compressed Sparse Column (CSC)
@@ -59,5 +59,5 @@ for (int i = 0; i < M; i++) {
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Matrix & Multidimensional Arrays]]
+- ⬆️ Parent: [[2D & Multidimensional Array]]
 - 📚 Module: `Data Structures`
