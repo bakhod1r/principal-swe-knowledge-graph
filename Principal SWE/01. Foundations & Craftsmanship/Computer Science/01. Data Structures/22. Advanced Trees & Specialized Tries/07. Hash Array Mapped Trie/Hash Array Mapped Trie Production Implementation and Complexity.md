@@ -1,0 +1,27 @@
+---
+title: "Hash Array Mapped Trie Production Implementation and Complexity"
+tags:
+  - review
+  - computer-science
+  - data-structures
+  - dsa
+  - advanced-structures
+  - principal-swe
+parent: "[[Hash Array Mapped Trie]]"
+---
+
+# Hash Array Mapped Trie Production Implementation and Complexity
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Hash Array Mapped Trie]]
+- 📚 Module: `Data Structures`
