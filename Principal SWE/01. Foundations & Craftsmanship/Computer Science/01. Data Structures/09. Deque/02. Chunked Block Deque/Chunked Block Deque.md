@@ -3,31 +3,32 @@ title: Chunked Block Deque
 tags:
   - computer-science
   - data-structures
-  - deque
   - principal-swe
 parent: "[[Deque]]"
 ---
 
 # 📦 Chunked Block Deque
 
-Central spine map of fixed-size 512-byte contiguous memory chunks (std::deque pattern), eliminating reallocation copies.
+std::deque architecture: array of fixed-size chunks.
 
 ```text
 Chunked Block Deque
 │
-├── [[Deque Array-of-Chunks Implementation (std::deque Map of Blocks)]]
-└── [[Deque Dynamic Resizing and Block Allocation]]
+├── [[Chunked Block Array Deque Architecture (std::deque)]]
+├── [[std::deque Fixed-Size Buffer Map and Iterator Invalidation]]
+└── [[Chunked Block Deque Random Access Offset Math (Map Index + Buffer Offset)]]
 ```
 
 ---
 
 ## 🗂️ Topics & Implementations
 
-- [[Deque Array-of-Chunks Implementation (std::deque Map of Blocks)]]
-- [[Deque Dynamic Resizing and Block Allocation]]
+- [[Chunked Block Array Deque Architecture (std::deque)]] — Central map of pointers to fixed-size (e.g. 512B) memory blocks.
+- [[std::deque Fixed-Size Buffer Map and Iterator Invalidation]] — Why std::deque insertions do not invalidate pointers to existing elements.
+- [[Chunked Block Deque Random Access Offset Math (Map Index + Buffer Offset)]] — Two-tier pointer indirection arithmetic achieving O(1) random access: index / block_size.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Deque]]
-- 📚 Module: `Deque`
+- 📚 Module: `Data Structures`

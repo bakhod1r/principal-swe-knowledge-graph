@@ -1,36 +1,40 @@
 ---
 title: Trade-offs & Bounds
 tags:
-  - algorithms
   - computer-science
-  - dsa
-  - introduction-to-dsa
+  - data-structures
   - principal-swe
 parent: "[[Introduction to DSA]]"
 ---
 
-# ⚖️ Trade-offs & Bounds
+# 📦 Trade-offs & Bounds
 
-Balancing multi-dimensional computational constraints: CPU time, heap footprint, IOPS, adversarial worst-case bounds, and real-world distributed tail latencies (P99/P99.9).
+Theoretical bounds, asymptotic complexity classes, amortized analysis, and latency profiles.
 
 ```text
 Trade-offs & Bounds
 │
-├── [[Time vs Space vs Engineering Simplicity Trade-offs]]
 ├── [[Algorithmic Efficiency Bounds (Time, Space, and IO Complexity)]]
-└── [[Worst-Case, Average-Case, and Tail Latency (P99) Intuition]]
+├── [[Time vs Space vs Engineering Simplicity Trade-offs]]
+├── [[Worst-Case, Average-Case, and Tail Latency (P99) Intuition]]
+├── [[Amortized Analysis Frameworks (Aggregate, Banker's, and Potential Method)]]
+├── [[External Memory Model and I-O Complexity (Disk & Network Transfers)]]
+└── [[Space Amplification, Write Amplification, and Read Amplification (RUM Conjecture)]]
 ```
 
 ---
 
-## 🗂️ Topics
+## 🗂️ Topics & Implementations
 
-- [[Time vs Space vs Engineering Simplicity Trade-offs]] — Balancing algorithmic runtime, heap footprint, maintenance overhead, and operational complexity.
-- [[Algorithmic Efficiency Bounds (Time, Space, and IO Complexity)]] — Multi-resource analysis spanning CPU cycles, memory allocations, disk IOPS, and network round-trips.
-- [[Worst-Case, Average-Case, and Tail Latency (P99) Intuition]] — Guarantees under adversarial inputs vs empirical distributions and tail latency SLAs in distributed systems.
+- [[Algorithmic Efficiency Bounds (Time, Space, and IO Complexity)]] — Big-O, Big-Omega, Big-Theta bounds, and external memory transfer lower bounds.
+- [[Time vs Space vs Engineering Simplicity Trade-offs]] — Multi-dimensional tradeoffs: memory amplification vs CPU efficiency vs maintainability.
+- [[Worst-Case, Average-Case, and Tail Latency (P99) Intuition]] — Protecting production SLAs against adversarial worst-case inputs and long-tail latency spikes.
+- [[Amortized Analysis Frameworks (Aggregate, Banker's, and Potential Method)]] — Formal mathematical proofs for occasional expensive operations across operation sequences.
+- [[External Memory Model and I-O Complexity (Disk & Network Transfers)]] — Aggarwal-Vitter model measuring block transfers between fast CPU memory and slow I/O.
+- [[Space Amplification, Write Amplification, and Read Amplification (RUM Conjecture)]] — The fundamental RUM conjecture: optimizing any two amplifications penalizes the third.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction to DSA]]
-- 📚 Module: `Introduction to DSA`
+- 📚 Module: `Data Structures`

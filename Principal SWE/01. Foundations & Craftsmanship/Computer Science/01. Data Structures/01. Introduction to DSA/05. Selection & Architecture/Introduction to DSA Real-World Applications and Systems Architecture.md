@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Selection & Architecture]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Introduction to DSA Real-World Applications and Systems Architecture
@@ -23,5 +21,5 @@ parent: "[[Selection & Architecture]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Selection & Architecture]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

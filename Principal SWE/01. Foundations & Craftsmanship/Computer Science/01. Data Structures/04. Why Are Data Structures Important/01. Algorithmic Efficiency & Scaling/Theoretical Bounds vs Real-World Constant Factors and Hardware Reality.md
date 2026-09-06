@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - why-are-data-structures-important
   - principal-swe
-parent: "[[Algorithmic Efficiency & Scaling]]"
+parent: "[[Why Are Data Structures Important]]"
 ---
 
 # Theoretical Bounds vs Real-World Constant Factors and Hardware Reality
@@ -23,5 +21,5 @@ parent: "[[Algorithmic Efficiency & Scaling]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Algorithmic Efficiency & Scaling]]
-- 📚 Module: `Why Are Data Structures Important`
+- ⬆️ Parent: [[Why Are Data Structures Important]]
+- 📚 Module: `Data Structures`

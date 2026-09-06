@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Hardware & Memory Topology]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Memory Hierarchy, Cache Lines, and Data Locality
@@ -23,5 +21,5 @@ parent: "[[Hardware & Memory Topology]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Hardware & Memory Topology]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

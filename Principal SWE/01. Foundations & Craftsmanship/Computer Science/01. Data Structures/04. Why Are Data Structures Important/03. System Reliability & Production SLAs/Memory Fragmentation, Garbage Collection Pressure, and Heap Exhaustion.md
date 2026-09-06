@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - why-are-data-structures-important
   - principal-swe
-parent: "[[System Reliability & Production SLAs]]"
+parent: "[[Why Are Data Structures Important]]"
 ---
 
 # Memory Fragmentation, Garbage Collection Pressure, and Heap Exhaustion
@@ -23,5 +21,5 @@ parent: "[[System Reliability & Production SLAs]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[System Reliability & Production SLAs]]
-- 📚 Module: `Why Are Data Structures Important`
+- ⬆️ Parent: [[Why Are Data Structures Important]]
+- 📚 Module: `Data Structures`

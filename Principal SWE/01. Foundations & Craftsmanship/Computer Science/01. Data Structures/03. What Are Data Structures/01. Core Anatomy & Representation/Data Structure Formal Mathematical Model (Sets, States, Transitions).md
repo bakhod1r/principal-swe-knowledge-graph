@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - what-are-data-structures
   - principal-swe
-parent: "[[Core Anatomy & Representation]]"
+parent: "[[What Are Data Structures]]"
 ---
 
 # Data Structure Formal Mathematical Model (Sets, States, Transitions)
@@ -23,5 +21,5 @@ parent: "[[Core Anatomy & Representation]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Core Anatomy & Representation]]
-- 📚 Module: `What Are Data Structures`
+- ⬆️ Parent: [[What Are Data Structures]]
+- 📚 Module: `Data Structures`

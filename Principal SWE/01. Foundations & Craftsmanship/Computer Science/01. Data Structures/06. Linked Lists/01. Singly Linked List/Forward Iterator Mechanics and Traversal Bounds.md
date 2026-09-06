@@ -1,0 +1,25 @@
+---
+title: "Forward Iterator Mechanics and Traversal Bounds"
+tags:
+  - review
+  - computer-science
+  - data-structures
+  - principal-swe
+parent: "[[Linked Lists]]"
+---
+
+# Forward Iterator Mechanics and Traversal Bounds
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Linked Lists]]
+- 📚 Module: `Data Structures`

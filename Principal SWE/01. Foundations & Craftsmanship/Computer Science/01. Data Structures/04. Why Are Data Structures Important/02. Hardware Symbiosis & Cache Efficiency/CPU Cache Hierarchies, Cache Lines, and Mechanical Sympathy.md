@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - why-are-data-structures-important
   - principal-swe
-parent: "[[Hardware Symbiosis & Cache Efficiency]]"
+parent: "[[Why Are Data Structures Important]]"
 ---
 
 # CPU Cache Hierarchies, Cache Lines, and Mechanical Sympathy
@@ -23,5 +21,5 @@ parent: "[[Hardware Symbiosis & Cache Efficiency]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Hardware Symbiosis & Cache Efficiency]]
-- 📚 Module: `Why Are Data Structures Important`
+- ⬆️ Parent: [[Why Are Data Structures Important]]
+- 📚 Module: `Data Structures`

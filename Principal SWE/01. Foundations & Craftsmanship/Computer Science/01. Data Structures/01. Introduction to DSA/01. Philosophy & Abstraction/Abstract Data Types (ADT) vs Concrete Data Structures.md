@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Philosophy & Abstraction]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Abstract Data Types (ADT) vs Concrete Data Structures
@@ -23,5 +21,5 @@ parent: "[[Philosophy & Abstraction]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Philosophy & Abstraction]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

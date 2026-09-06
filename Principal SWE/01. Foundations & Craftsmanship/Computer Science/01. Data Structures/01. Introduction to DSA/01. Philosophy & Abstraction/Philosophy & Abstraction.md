@@ -1,34 +1,38 @@
 ---
 title: Philosophy & Abstraction
 tags:
-  - algorithms
   - computer-science
-  - dsa
-  - introduction-to-dsa
+  - data-structures
   - principal-swe
 parent: "[[Introduction to DSA]]"
 ---
 
-# 🧠 Philosophy & Abstraction
+# 📦 Philosophy & Abstraction
 
-Foundational principles of computational problem solving, the separation of state and algorithm logic, and the mathematical boundaries of Abstract Data Types (ADTs).
+Computational thinking, abstraction boundaries, ADT separation, and invariant proofs.
 
 ```text
 Philosophy & Abstraction
 │
 ├── [[DSA Core Philosophy (Algorithms + Data Structures = Programs)]]
-└── [[Abstract Data Types (ADT) vs Concrete Data Structures]]
+├── [[Abstract Data Types (ADT) vs Concrete Data Structures]]
+├── [[Information Hiding, Encapsulation, and Interface Boundaries]]
+├── [[Mathematical Induction and Invariant Proofs in DSA]]
+└── [[Declarative Data Modeling vs Imperative Control Flow]]
 ```
 
 ---
 
-## 🗂️ Topics
+## 🗂️ Topics & Implementations
 
-- [[DSA Core Philosophy (Algorithms + Data Structures = Programs)]] — Niklaus Wirth formulation, computational state transformations, and the separation of algorithm logic from storage topology.
-- [[Abstract Data Types (ADT) vs Concrete Data Structures]] — Formal contracts, operation axioms, interfaces, and separation of abstraction from physical memory layouts.
+- [[DSA Core Philosophy (Algorithms + Data Structures = Programs)]] — Wirth's foundational equation: data representation shapes control flow and program correctness.
+- [[Abstract Data Types (ADT) vs Concrete Data Structures]] — Mathematical interface contracts vs physical memory realization tradeoffs.
+- [[Information Hiding, Encapsulation, and Interface Boundaries]] — Enforcing invariants through structural encapsulation and API boundaries.
+- [[Mathematical Induction and Invariant Proofs in DSA]] — Proving termination, state transitions, and correctness across discrete structural mutations.
+- [[Declarative Data Modeling vs Imperative Control Flow]] — How data structure topologies eliminate complex branching logic and state management bugs.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Introduction to DSA]]
-- 📚 Module: `Introduction to DSA`
+- 📚 Module: `Data Structures`

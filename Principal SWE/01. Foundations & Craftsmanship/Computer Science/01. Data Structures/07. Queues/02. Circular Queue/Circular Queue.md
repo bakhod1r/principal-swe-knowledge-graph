@@ -3,33 +3,36 @@ title: Circular Queue
 tags:
   - computer-science
   - data-structures
-  - queues
   - principal-swe
 parent: "[[Queues]]"
 ---
 
 # 📦 Circular Queue
 
-Fixed-size ring buffer array indexing, power-of-two bitwise modulo masking, and dynamic circular resizing.
+Master topology of bounded circular ring buffers.
 
 ```text
 Circular Queue
 │
-├── [[Queue Capacity Growth and Dynamic Resizing]]
 ├── [[Queue Circular Array Buffer Implementation]]
-└── [[Queue Power-of-Two Bitwise Masking Indexing]]
+├── [[Queue Power-of-Two Bitwise Masking Indexing]]
+├── [[Queue Capacity Growth and Dynamic Resizing]]
+├── [[Circular Queue Monotonic Sequence Number Indexing]]
+└── [[Bounded Queue Backpressure and Drop Policies (Drop-Head vs Drop-Tail)]]
 ```
 
 ---
 
 ## 🗂️ Topics & Implementations
 
-- [[Queue Capacity Growth and Dynamic Resizing]]
-- [[Queue Circular Array Buffer Implementation]]
-- [[Queue Power-of-Two Bitwise Masking Indexing]]
+- [[Queue Circular Array Buffer Implementation]] — Reusing fixed array memory via circular head/tail wraparound.
+- [[Queue Power-of-Two Bitwise Masking Indexing]] — Replacing modulo division (% N) with ultra-fast bitwise AND masking (& (N - 1)).
+- [[Queue Capacity Growth and Dynamic Resizing]] — Unwrapping circular buffers into linear arrays during geometric doubling.
+- [[Circular Queue Monotonic Sequence Number Indexing]] — 64-bit monotonic sequences preventing counter overflow and index wrapping errors.
+- [[Bounded Queue Backpressure and Drop Policies (Drop-Head vs Drop-Tail)]] — Shedding load in real-time pipelines: evicting oldest data vs rejecting newest.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Queues]]
-- 📚 Module: `Queues`
+- 📚 Module: `Data Structures`

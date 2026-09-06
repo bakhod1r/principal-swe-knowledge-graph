@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Trade-offs & Bounds]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Time vs Space vs Engineering Simplicity Trade-offs
@@ -23,5 +21,5 @@ parent: "[[Trade-offs & Bounds]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Trade-offs & Bounds]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

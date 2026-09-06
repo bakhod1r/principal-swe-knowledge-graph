@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Trade-offs & Bounds]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Worst-Case, Average-Case, and Tail Latency (P99) Intuition
@@ -23,5 +21,5 @@ parent: "[[Trade-offs & Bounds]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Trade-offs & Bounds]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

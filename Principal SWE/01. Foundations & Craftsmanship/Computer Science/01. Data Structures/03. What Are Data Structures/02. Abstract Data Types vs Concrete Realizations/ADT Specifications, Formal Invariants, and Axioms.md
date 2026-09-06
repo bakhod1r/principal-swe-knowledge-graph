@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - what-are-data-structures
   - principal-swe
-parent: "[[Abstract Data Types vs Concrete Realizations]]"
+parent: "[[What Are Data Structures]]"
 ---
 
 # ADT Specifications, Formal Invariants, and Axioms
@@ -23,5 +21,5 @@ parent: "[[Abstract Data Types vs Concrete Realizations]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Abstract Data Types vs Concrete Realizations]]
-- 📚 Module: `What Are Data Structures`
+- ⬆️ Parent: [[What Are Data Structures]]
+- 📚 Module: `Data Structures`

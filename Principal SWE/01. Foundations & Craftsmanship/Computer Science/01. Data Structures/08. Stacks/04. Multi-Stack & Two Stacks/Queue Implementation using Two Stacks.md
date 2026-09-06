@@ -1,5 +1,5 @@
 ---
-title: "Queue Implementation using Two Stacks"
+title: "Queue Implementation Using Two Stacks"
 tags:
   - review
   - computer-science
@@ -8,7 +8,7 @@ tags:
 parent: "[[Stacks]]"
 ---
 
-# Queue Implementation using Two Stacks
+# Queue Implementation Using Two Stacks
 
 ## 1. Definition
 

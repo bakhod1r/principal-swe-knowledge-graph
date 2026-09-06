@@ -1,0 +1,25 @@
+---
+title: "Fail-Fast Invariant Checks and Crash-Only Software Principles"
+tags:
+  - review
+  - computer-science
+  - data-structures
+  - principal-swe
+parent: "[[Why Are Data Structures Important]]"
+---
+
+# Fail-Fast Invariant Checks and Crash-Only Software Principles
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Why Are Data Structures Important]]
+- 📚 Module: `Data Structures`

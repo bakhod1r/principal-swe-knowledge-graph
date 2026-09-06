@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - introduction-to-dsa
   - principal-swe
-parent: "[[Data Structure Taxonomy]]"
+parent: "[[Introduction to DSA]]"
 ---
 
 # Mutable vs Immutable and Persistent Data Structures
@@ -23,5 +21,5 @@ parent: "[[Data Structure Taxonomy]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Data Structure Taxonomy]]
-- 📚 Module: `Introduction to DSA`
+- ⬆️ Parent: [[Introduction to DSA]]
+- 📚 Module: `Data Structures`

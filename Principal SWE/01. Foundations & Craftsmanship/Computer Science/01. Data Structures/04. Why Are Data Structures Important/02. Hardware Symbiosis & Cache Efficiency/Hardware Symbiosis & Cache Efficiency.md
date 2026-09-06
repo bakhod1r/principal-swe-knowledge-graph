@@ -1,36 +1,40 @@
 ---
 title: Hardware Symbiosis & Cache Efficiency
 tags:
-  - algorithms
   - computer-science
-  - dsa
-  - why-are-data-structures-important
+  - data-structures
   - principal-swe
 parent: "[[Why Are Data Structures Important]]"
 ---
 
-# ⚡ Hardware Symbiosis & Cache Efficiency
+# 📦 Hardware Symbiosis & Cache Efficiency
 
-CPU cache hierarchies, cache line mechanics, spatial and temporal data locality, false sharing, and mechanical sympathy in modern processor architectures.
+Mechanical sympathy: optimizing for CPU L1/L2 caches, prefetchers, and memory bus bandwidth.
 
 ```text
 Hardware Symbiosis & Cache Efficiency
 │
 ├── [[CPU Cache Hierarchies, Cache Lines, and Mechanical Sympathy]]
+├── [[Data Structure Alignment, False Sharing, and Cache Contention]]
 ├── [[Spatial and Temporal Locality in Data Layouts (Contiguous vs Pointer-Chasing)]]
-└── [[Data Structure Alignment, False Sharing, and Cache Contention]]
+├── [[Data-Oriented Design (DOD) vs Object-Oriented Polymorphism]]
+├── [[Hardware Prefetcher Optimization and Stride Access Patterns]]
+└── [[Memory Bandwidth Saturation vs Compute Bound Bottlenecks]]
 ```
 
 ---
 
-## 🗂️ Topics
+## 🗂️ Topics & Implementations
 
-- [[CPU Cache Hierarchies, Cache Lines, and Mechanical Sympathy]] — L1/L2/L3 caches, 64-byte cache line loads, cache miss cycle penalties (100–300 CPU cycles), and hardware prefetchers.
-- [[Spatial and Temporal Locality in Data Layouts (Contiguous vs Pointer-Chasing)]] — Cache-friendly contiguous flat buffers vs high-latency pointer chasing in fragmented node networks.
-- [[Data Structure Alignment, False Sharing, and Cache Contention]] — Cache line bouncing between CPU cores, false sharing on concurrent structures, and cache padding strategies.
+- [[CPU Cache Hierarchies, Cache Lines, and Mechanical Sympathy]] — The CPU-DRAM performance chasm: designing data structures that fit inside L1/L2 caches.
+- [[Data Structure Alignment, False Sharing, and Cache Contention]] — Cache line bouncing between concurrent CPU cores and 64-byte alignment padding.
+- [[Spatial and Temporal Locality in Data Layouts (Contiguous vs Pointer-Chasing)]] — Sequential streaming throughput vs random memory pointer dereferencing stalls.
+- [[Data-Oriented Design (DOD) vs Object-Oriented Polymorphism]] — Transforming Array-of-Structures to Structure-of-Arrays for massive vectorized speedups.
+- [[Hardware Prefetcher Optimization and Stride Access Patterns]] — Triggering hardware stream prefetchers via linear, stride-1 contiguous memory layouts.
+- [[Memory Bandwidth Saturation vs Compute Bound Bottlenecks]] — Identifying memory-bound bottlenecks and packing data structures to conserve bus bandwidth.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Why Are Data Structures Important]]
-- 📚 Module: `Why Are Data Structures Important`
+- 📚 Module: `Data Structures`

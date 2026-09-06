@@ -1,36 +1,38 @@
 ---
 title: Abstract Data Types vs Concrete Realizations
 tags:
-  - algorithms
   - computer-science
-  - dsa
-  - what-are-data-structures
+  - data-structures
   - principal-swe
 parent: "[[What Are Data Structures]]"
 ---
 
-# 📐 Abstract Data Types vs Concrete Realizations
+# 📦 Abstract Data Types vs Concrete Realizations
 
-The theoretical and architectural divide between abstract functional behavior (ADT contracts, axioms, and invariants) and concrete memory implementations.
+Formal algebraic specifications, invariant contracts, and multiple concrete physical implementations.
 
 ```text
 Abstract Data Types vs Concrete Realizations
 │
 ├── [[ADT Specifications, Formal Invariants, and Axioms]]
-├── [[Encapsulation, Information Hiding, and Interface Segregation]]
-└── [[Concrete Structural Realizations of Common ADTs]]
+├── [[Separation of Interface from Physical Realization]]
+├── [[Multiple Concrete Implementations of Single ADTs (e.g. List, Map, Queue)]]
+├── [[Contract-Driven Design and Interface Signatures in Systems Languages]]
+└── [[Liskov Substitution and Subtyping in Data Structure Realizations]]
 ```
 
 ---
 
-## 🗂️ Topics
+## 🗂️ Topics & Implementations
 
-- [[ADT Specifications, Formal Invariants, and Axioms]] — Formal contracts, operation signatures, representation invariants, and axiomatic behavioral specifications.
-- [[Encapsulation, Information Hiding, and Interface Segregation]] — Separation of interface from implementation, information hiding, and structural decoupling.
-- [[Concrete Structural Realizations of Common ADTs]] — Mapping abstract types (List, Stack, Queue, Map, Priority Queue) to concrete physical data structures (Arrays, Linked Lists, Trees, Hash Tables).
+- [[ADT Specifications, Formal Invariants, and Axioms]] — Algebraic axioms and equational specifications defining ADT behavioral boundaries.
+- [[Separation of Interface from Physical Realization]] — Encapsulation shielding consumer code from underlying algorithmic mutations.
+- [[Multiple Concrete Implementations of Single ADTs (e.g. List, Map, Queue)]] — Comparative analysis: array vs linked list for stacks, hash table vs tree for maps.
+- [[Contract-Driven Design and Interface Signatures in Systems Languages]] — C++ concepts, Go interfaces, and Rust traits enforcing compile-time data contracts.
+- [[Liskov Substitution and Subtyping in Data Structure Realizations]] — Behavioral subtyping invariants ensuring concrete implementations preserve ADT contracts.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[What Are Data Structures]]
-- 📚 Module: `What Are Data Structures`
+- 📚 Module: `Data Structures`

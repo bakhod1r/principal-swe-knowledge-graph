@@ -4,10 +4,8 @@ tags:
   - review
   - computer-science
   - data-structures
-  - dsa
-  - why-are-data-structures-important
   - principal-swe
-parent: "[[Production Architectural Case Studies]]"
+parent: "[[Why Are Data Structures Important]]"
 ---
 
 # Kernel Scheduling and Event Loops (Linux CFS Red-Black Trees & Ring Buffers)
@@ -23,5 +21,5 @@ parent: "[[Production Architectural Case Studies]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Production Architectural Case Studies]]
-- 📚 Module: `Why Are Data Structures Important`
+- ⬆️ Parent: [[Why Are Data Structures Important]]
+- 📚 Module: `Data Structures`

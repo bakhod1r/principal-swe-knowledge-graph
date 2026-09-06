@@ -1,36 +1,40 @@
 ---
 title: Core Anatomy & Representation
 tags:
-  - algorithms
   - computer-science
-  - dsa
-  - what-are-data-structures
+  - data-structures
   - principal-swe
 parent: "[[What Are Data Structures]]"
 ---
 
-# 🧬 Core Anatomy & Representation
+# 📦 Core Anatomy & Representation
 
-Formal mathematical definitions, state transitions, machine word layouts, byte alignments, and composite type structures that define data structures at the foundational layer.
+Physical bits, bytes, word alignment, struct padding, and algebraic type compositions.
 
 ```text
 Core Anatomy & Representation
 │
 ├── [[Data Structure Formal Mathematical Model (Sets, States, Transitions)]]
 ├── [[Physical Memory Representation (Bits, Bytes, Alignment, Padding)]]
-└── [[Primitive Types vs Composite Data Structures (Product & Sum Types)]]
+├── [[Primitive Types vs Composite Data Structures (Product & Sum Types)]]
+├── [[Struct Field Alignment, Packing, and Padding Economics]]
+├── [[Tagged Unions, Algebraic Data Types, and Polymorphic Memory Layouts]]
+└── [[Endianness, Byte Ordering, and Cross-Platform Data Representation]]
 ```
 
 ---
 
-## 🗂️ Topics
+## 🗂️ Topics & Implementations
 
-- [[Data Structure Formal Mathematical Model (Sets, States, Transitions)]] — Formal mathematical formulation: domain sets, state spaces, transition axioms, and algebraic structural definitions.
-- [[Physical Memory Representation (Bits, Bytes, Alignment, Padding)]] — Hardware-level representation: memory words, byte padding, struct alignment, and memory layout architectures.
-- [[Primitive Types vs Composite Data Structures (Product & Sum Types)]] — Primitive scalar types, algebraic type theory, product types (tuples, structs), and sum types (tagged unions, enums).
+- [[Data Structure Formal Mathematical Model (Sets, States, Transitions)]] — Formal tuple definition: carrier sets, initial states, valid state transitions, and invariants.
+- [[Physical Memory Representation (Bits, Bytes, Alignment, Padding)]] — Hardware alignment requirements, natural word boundaries, and padding byte overheads.
+- [[Primitive Types vs Composite Data Structures (Product & Sum Types)]] — Primitive scalar machine words vs compound structs (products) and enums (sums).
+- [[Struct Field Alignment, Packing, and Padding Economics]] — Reordering struct fields to minimize padding bytes and maximize cache density.
+- [[Tagged Unions, Algebraic Data Types, and Polymorphic Memory Layouts]] — Discriminant tag storage, union alignment, and Rust/C++ variant memory overheads.
+- [[Endianness, Byte Ordering, and Cross-Platform Data Representation]] — Little-endian vs big-endian bit layouts, network byte order, and serialization pitfalls.
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[What Are Data Structures]]
-- 📚 Module: `What Are Data Structures`
+- 📚 Module: `Data Structures`

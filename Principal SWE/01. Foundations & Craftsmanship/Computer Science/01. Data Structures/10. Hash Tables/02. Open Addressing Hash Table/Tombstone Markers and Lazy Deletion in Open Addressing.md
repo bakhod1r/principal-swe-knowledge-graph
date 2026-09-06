@@ -1,0 +1,25 @@
+---
+title: "Tombstone Markers and Lazy Deletion in Open Addressing"
+tags:
+  - review
+  - computer-science
+  - data-structures
+  - principal-swe
+parent: "[[Hash Tables]]"
+---
+
+# Tombstone Markers and Lazy Deletion in Open Addressing
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Hash Tables]]
+- 📚 Module: `Data Structures`
