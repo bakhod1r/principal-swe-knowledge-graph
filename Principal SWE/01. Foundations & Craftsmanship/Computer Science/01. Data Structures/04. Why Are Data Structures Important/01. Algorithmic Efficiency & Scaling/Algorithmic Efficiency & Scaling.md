@@ -17,7 +17,7 @@ Algorithmic Efficiency & Scaling
 ├── [[Asymptotic Scaling and Non-Linear Dominance at Web Scale]]
 ├── [[Space Amplification and Memory Saturation Economics]]
 ├── [[Theoretical Bounds vs Real-World Constant Factors and Hardware Reality]]
-├── [[Order of Growth Cliffs (O(1) to O(N^2)) in Production Outages]]
+├── [[Order of Growth Cliffs (O(1) to O(N²)) in Production Outages]]
 └── [[Algorithmic Complexity Attacks and Worst-Case Denial of Service]]
 ```
 
@@ -28,7 +28,7 @@ Algorithmic Efficiency & Scaling
 - [[Asymptotic Scaling and Non-Linear Dominance at Web Scale]] — How O(N^2) or O(N log N) algorithms cripple systems as traffic scales from 10^3 to 10^8.
 - [[Space Amplification and Memory Saturation Economics]] — Memory overhead multipliers and capacity planning limits across enterprise data structures.
 - [[Theoretical Bounds vs Real-World Constant Factors and Hardware Reality]] — Why an O(N) linear array scan often beats an O(log N) balanced binary search tree in practice.
-- [[Order of Growth Cliffs (O(1) to O(N^2)) in Production Outages]] — Real-world incident analyses where unforeseen scaling caused catastrophic CPU saturation.
+- [[Order of Growth Cliffs (O(1) to O(N²)) in Production Outages]] — Real-world incident analyses where unforeseen scaling caused catastrophic CPU saturation.
 - [[Algorithmic Complexity Attacks and Worst-Case Denial of Service]] — Hash collision DoS attacks and adversarial payloads designed to trigger worst-case paths.
 
 ---

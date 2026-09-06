@@ -1,5 +1,5 @@
 ---
-title: "Order of Growth Cliffs (O(1) to O(N^2)) in Production Outages"
+title: "Order of Growth Cliffs (O(1) to O(N²)) in Production Outages"
 tags:
   - review
   - computer-science
@@ -8,7 +8,7 @@ tags:
 parent: "[[Why Are Data Structures Important]]"
 ---
 
-# Order of Growth Cliffs (O(1) to O(N^2)) in Production Outages
+# Order of Growth Cliffs (O(1) to O(N²)) in Production Outages
 
 ## 1. Definition
 
