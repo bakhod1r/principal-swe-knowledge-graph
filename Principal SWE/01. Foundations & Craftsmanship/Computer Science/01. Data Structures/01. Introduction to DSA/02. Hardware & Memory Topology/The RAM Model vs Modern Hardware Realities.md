@@ -1,16 +1,16 @@
 ---
-title: "Introduction to DSA Real World Applications"
+title: "The RAM Model vs Modern Hardware Realities"
 tags:
   - review
   - computer-science
-  - algorithms
+  - data-structures
   - dsa
   - introduction-to-dsa
   - principal-swe
-parent: "[[Introduction to DSA Overview]]"
+parent: "[[Hardware & Memory Topology]]"
 ---
 
-# Introduction to DSA Real World Applications
+# The RAM Model vs Modern Hardware Realities
 
 ## 1. Definition
 
@@ -23,5 +23,5 @@ parent: "[[Introduction to DSA Overview]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Introduction to DSA Overview]]
+- ⬆️ Parent: [[Hardware & Memory Topology]]
 - 📚 Module: `Introduction to DSA`

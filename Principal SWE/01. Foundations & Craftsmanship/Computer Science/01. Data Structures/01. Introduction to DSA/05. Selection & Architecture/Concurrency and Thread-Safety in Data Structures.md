@@ -1,16 +1,16 @@
 ---
-title: "Introduction to DSA Core Concepts"
+title: "Concurrency and Thread-Safety in Data Structures"
 tags:
   - review
   - computer-science
-  - algorithms
+  - data-structures
   - dsa
   - introduction-to-dsa
   - principal-swe
-parent: "[[Introduction to DSA Overview]]"
+parent: "[[Selection & Architecture]]"
 ---
 
-# Introduction to DSA Core Concepts
+# Concurrency and Thread-Safety in Data Structures
 
 ## 1. Definition
 
@@ -23,5 +23,5 @@ parent: "[[Introduction to DSA Overview]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Introduction to DSA Overview]]
+- ⬆️ Parent: [[Selection & Architecture]]
 - 📚 Module: `Introduction to DSA`
