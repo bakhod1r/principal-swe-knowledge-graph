@@ -1,43 +1,38 @@
 ---
-title: Hash-Based Multiset
+title: "Hash-Based Multiset"
 tags:
+  - review
   - computer-science
   - data-structures
-  - multiset
   - principal-swe
 parent: "[[Multiset Bag]]"
 ---
 
-# 📦 Hash-Based Multiset
+# Hash-Based Multiset
 
-Unordered associative frequency counter bag, O(1) expected multiplicity tracking, sliding window frequency balancing, and zero-count key reclamation.
+## 1. Definition
 
-```text
-Hash-Based Multiset
-│
-├── [[Hash-Based Multiset vs Balanced Tree Multiset]]
-├── [[Multiset Add and Frequency Increment]]
-├── [[Multiset Bag Invariants and Multiplicity Models]]
-├── [[Multiset Distinct Keys Traversal]]
-├── [[Multiset Query Key Frequency and Total Multiplicity]]
-├── [[Multiset Remove and Frequency Decrement]]
-└── [[Multiset Sliding Window Frequency Balancing]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
+## 📑 Notes in this Topic
 - [[Hash-Based Multiset vs Balanced Tree Multiset]]
+- [[Multi-Key Intersection and Jaccard Similarity on Bags]]
 - [[Multiset Add and Frequency Increment]]
 - [[Multiset Bag Invariants and Multiplicity Models]]
 - [[Multiset Distinct Keys Traversal]]
 - [[Multiset Query Key Frequency and Total Multiplicity]]
 - [[Multiset Remove and Frequency Decrement]]
 - [[Multiset Sliding Window Frequency Balancing]]
+- [[Sliding Window Character and Anagram Matching via Hash Multiset]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Multiset Bag]]
-- 📚 Module: `Multiset Bag`
+- 📚 Module: `Data Structures`

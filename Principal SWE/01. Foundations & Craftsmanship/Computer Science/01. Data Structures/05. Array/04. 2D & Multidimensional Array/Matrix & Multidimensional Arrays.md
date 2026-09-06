@@ -25,7 +25,8 @@ Matrix & Multidimensional Arrays
 ├── [[Diagonal and Anti-Diagonal Matrix Traversals]]
 ├── [[Cache-Oblivious Matrix Multiplication and Tiling]]
 ├── [[3D Tensor Slicing, Sub-Volumes, and Dimensional Projections]]
-└── [[Blocked Z-Morton Order (Morton Space-Filling Curve) Matrix Layout]]
+├── [[Blocked Z-Morton Order (Morton Space-Filling Curve) Matrix Layout]]
+└── [[Matrix Sub-Grid Slicing and Window Striding Operations]]
 ```
 
 ---
@@ -43,6 +44,7 @@ Matrix & Multidimensional Arrays
 - [[Cache-Oblivious Matrix Multiplication and Tiling]] — Recursive block partitioning matching hardware cache hierarchy boundaries.
 - [[3D Tensor Slicing, Sub-Volumes, and Dimensional Projections]] — Zero-copy strided views and axial/sagittal/coronal hyperplane slicing.
 - [[Blocked Z-Morton Order (Morton Space-Filling Curve) Matrix Layout]] — Bit-interleaved Morton coding improving 2D spatial locality for arbitrary access patterns.
+- [[Matrix Sub-Grid Slicing and Window Striding Operations]] — 2D convolution window extraction using 2D stride offsets without memory reallocation.
 
 ---
 

@@ -1,33 +1,32 @@
 ---
-title: Skip List
+title: "Skip List"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Linked Lists]]"
 ---
 
-# 📦 Skip List
+# Skip List
 
-Multi-layer probabilistic forward pointers providing O(log N) search, insertion, and deletion without tree rebalancing.
+## 1. Definition
 
-```text
-Skip List
-│
-├── [[Skip List Probabilistic Express Towers and O(log N) Search]]
-├── [[Skip List Probabilistic Geometric Level Distribution]]
-├── [[Skip List Search, Insertion, and Predecessor Array Traversal]]
-└── [[Lock-Free Concurrent Skip List (Java ConcurrentSkipListMap Mechanics)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Skip List Probabilistic Express Towers and O(log N) Search]] — Multi-level express lanes with coin-toss geometric distribution.
-- [[Skip List Probabilistic Geometric Level Distribution]] — Mathematical proofs of height p = 1/2 distribution and O(log N) expected bounds.
-- [[Skip List Search, Insertion, and Predecessor Array Traversal]] — Tracking update arrays across tower levels during insertions and deletions.
-- [[Lock-Free Concurrent Skip List (Java ConcurrentSkipListMap Mechanics)]] — Atomic CAS-based node linking enabling scalable concurrent sorted sets.
+## 📑 Notes in this Topic
+- [[Lock-Free Concurrent Skip List (Java ConcurrentSkipListMap Mechanics)]]
+- [[Skip List (Probabilistic Multi-Level Express Lanes)]]
+- [[Skip List Delete and Level Adjustment Operations]]
+- [[Skip List Probabilistic Express Towers and O(log N) Search]]
+- [[Skip List Probabilistic Geometric Level Distribution]]
+- [[Skip List Search, Insertion, and Predecessor Array Traversal]]
 
 ---
 

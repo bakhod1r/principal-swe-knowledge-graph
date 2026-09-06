@@ -1,31 +1,34 @@
 ---
-title: Tree Set
+title: "Tree Set"
 tags:
+  - review
   - computer-science
   - data-structures
-  - sets
   - principal-swe
 parent: "[[Sets]]"
 ---
 
-# 📦 Tree Set
+# Tree Set
 
-Ordered unique element collection backed by self-balancing Red-Black trees, logarithmic O(log N) operations, and range slicing.
+## 1. Definition
 
-```text
-Tree Set
-│
-└── (Core Specification)
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Tree Set]] — Core foundational topology and invariant specifications.
+## 📑 Notes in this Topic
+- [[In-Order Iterator Traversal and Symmetric Differences in Tree Sets]]
+- [[Order-Statistic Tree Set (Finding K-th Smallest Element in O(log N))]]
+- [[Tree Set Add, Remove, and Contains Operations]]
+- [[Tree Set Architecture and Red-Black Tree Backing]]
+- [[Tree Set Range Sub-Set Queries (Floor, Ceiling, Higher, Lower)]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Sets]]
-- 📚 Module: `Sets`
+- 📚 Module: `Data Structures`

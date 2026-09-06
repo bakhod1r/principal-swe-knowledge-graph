@@ -1,31 +1,29 @@
 ---
-title: Work-Stealing Deque
+title: "Work-Stealing Deque"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Deque]]"
 ---
 
-# 📦 Work-Stealing Deque
+# Work-Stealing Deque
 
-Multi-threaded task scheduling deque (Chase-Lev).
+## 1. Definition
 
-```text
-Work-Stealing Deque
-│
-├── [[Work-Stealing Deque Architecture (Chase-Lev Algorithm)]]
-├── [[Chase-Lev Work-Stealing Deque Lock-Free Algorithm]]
-└── [[Fork-Join Frameworks and Work Balancing via Bottom-Push and Top-Steal]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Work-Stealing Deque Architecture (Chase-Lev Algorithm)]] — Worker thread pushes/pops LIFO from bottom; victim threads steal FIFO from top.
-- [[Chase-Lev Work-Stealing Deque Lock-Free Algorithm]] — Memory fences and atomic CAS preventing race conditions during concurrent steals.
-- [[Fork-Join Frameworks and Work Balancing via Bottom-Push and Top-Steal]] — Load balancing across multicore CPUs in modern runtimes (Go, Java ForkJoinPool).
+## 📑 Notes in this Topic
+- [[Chase-Lev Work-Stealing Deque Lock-Free Algorithm]]
+- [[Fork-Join Frameworks and Work Balancing via Bottom-Push and Top-Steal]]
+- [[Work-Stealing Deque Architecture (Chase-Lev Algorithm)]]
 
 ---
 

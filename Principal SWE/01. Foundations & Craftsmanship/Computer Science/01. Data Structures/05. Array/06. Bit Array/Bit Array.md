@@ -1,37 +1,34 @@
 ---
-title: Bit Array (Packed Bitset)
+title: "Bit Array"
 tags:
+  - review
   - computer-science
   - data-structures
-  - arrays
   - principal-swe
 parent: "[[Array]]"
 ---
 
-# 📦 Bit Array (Packed Bitset)
+# Bit Array
 
-Dense 64-to-1 memory compression using 64-bit word arrays, word-level SIMD boolean algebra, hardware population count (POPCNT), and bitmap indexing.
+## 1. Definition
 
-```text
-Bit Array (Packed Bitset)
-│
-├── [[Bit Array (Packed Bitset Operations)]]
-├── [[Bitwise Word-Level Parallelism and Population Count (POPCNT)]]
-├── [[Bitset Set Algebra (SIMD 64-Bit Word Operations)]]
-└── [[Roaring Bitmaps and Run-Length Encoded (RLE) Hybrid Bitsets]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Bit Array (Packed Bitset Operations)]] — Bitwise address translation: word offset (i >> 6) and bit shift (1ULL << (i & 63)).
-- [[Bitwise Word-Level Parallelism and Population Count (POPCNT)]] — Processing 64 elements per CPU cycle and hardware Hamming weight calculation.
-- [[Bitset Set Algebra (SIMD 64-Bit Word Operations)]] — Vectorized set union (OR), intersection (AND), and difference (AND NOT) across bit arrays.
-- [[Roaring Bitmaps and Run-Length Encoded (RLE) Hybrid Bitsets]] — Adaptive compressed bitmaps switching between bitset, array, and RLE containers.
+## 📑 Notes in this Topic
+- [[Bit Array (Packed Bitset Operations)]]
+- [[Bit Array Bit-Range Slicing, Shift, and Clear Operations]]
+- [[Bitset Set Algebra (SIMD 64-Bit Word Operations)]]
+- [[Bitwise Word-Level Parallelism and Population Count (POPCNT)]]
+- [[Roaring Bitmaps and Run-Length Encoded (RLE) Hybrid Bitsets]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Array]]
-- 📚 Module: `Array`
+- 📚 Module: `Data Structures`

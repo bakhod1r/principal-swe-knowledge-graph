@@ -1,37 +1,37 @@
 ---
-title: Circular Buffer Array (Ring Buffer)
+title: "Circular Buffer Array"
 tags:
+  - review
   - computer-science
   - data-structures
-  - arrays
   - principal-swe
 parent: "[[Array]]"
 ---
 
-# 📦 Circular Buffer Array (Ring Buffer)
+# Circular Buffer Array
 
-Fixed-size contiguous ring array, modular wraparound arithmetic, power-of-two bitwise masking, and lock-free concurrency topologies.
+## 1. Definition
 
-```text
-Circular Buffer Array (Ring Buffer)
-│
-├── [[Circular Ring Buffer Array Indexing (Bitwise AND Masking)]]
-├── [[Circular Buffer Overwrite and Head-Tail Pointer Invariants]]
-├── [[Single-Producer Single-Consumer (SPSC) Lock-Free Array Ring Buffer]]
-└── [[Disruptor Ring Buffer Pattern (Cache Line Padded Sequence Tracking)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Circular Ring Buffer Array Indexing (Bitwise AND Masking)]] — Replacing hardware integer modulo (% N) with single-cycle bitwise AND masking (& (N - 1)).
-- [[Circular Buffer Overwrite and Head-Tail Pointer Invariants]] — Disambiguating full vs empty buffer states via sequence counters and pointer offsets.
-- [[Single-Producer Single-Consumer (SPSC) Lock-Free Array Ring Buffer]] — Wait-free thread synchronization utilizing atomic memory barriers and head/tail sequence tracking.
-- [[Disruptor Ring Buffer Pattern (Cache Line Padded Sequence Tracking)]] — High-throughput inter-thread messaging architecture with cache line padding to eliminate false sharing.
+## 📑 Notes in this Topic
+- [[Circular Buffer Dequeue and Head Advancement Operations]]
+- [[Circular Buffer Dynamic Geometric Resizing and Linear Unwrapping]]
+- [[Circular Buffer Enqueue and Tail Wraparound Operations]]
+- [[Circular Buffer Overwrite and Head-Tail Pointer Invariants]]
+- [[Circular Buffer Peek and Contiguous Two-Slice Memory Views]]
+- [[Circular Ring Buffer Array Indexing (Bitwise AND Masking)]]
+- [[Disruptor Ring Buffer Pattern (Cache Line Padded Sequence Tracking)]]
+- [[Single-Producer Single-Consumer (SPSC) Lock-Free Array Ring Buffer]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Array]]
-- 📚 Module: `Array`
+- 📚 Module: `Data Structures`

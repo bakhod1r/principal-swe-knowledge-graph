@@ -1,31 +1,34 @@
 ---
-title: Bit Set
+title: "Bit Set"
 tags:
+  - review
   - computer-science
   - data-structures
-  - sets
   - principal-swe
 parent: "[[Sets]]"
 ---
 
-# 📦 Bit Set
+# Bit Set
 
-Dense 64-to-1 bit-packed boolean arrays, SIMD-accelerated 64-bit word operations, and zero-allocation set algebra.
+## 1. Definition
 
-```text
-Bit Set
-│
-└── [[Bitset Set Algebra (SIMD-Accelerated 64-Bit Words)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
+## 📑 Notes in this Topic
+- [[Bit Set Architecture and Memory Density]]
+- [[Bit Set Set, Clear, Test, and Toggle Operations]]
+- [[Bit Set for Graph Adjacency Bitmaps and Reachability Queries]]
 - [[Bitset Set Algebra (SIMD-Accelerated 64-Bit Words)]]
+- [[Compressed Bitsets (Roaring Bitmap 3-Tier Container Architecture)]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Sets]]
-- 📚 Module: `Sets`
+- 📚 Module: `Data Structures`

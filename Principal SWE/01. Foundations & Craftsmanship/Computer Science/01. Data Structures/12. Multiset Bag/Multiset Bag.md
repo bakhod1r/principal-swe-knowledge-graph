@@ -1,56 +1,63 @@
 ---
-title: Multiset Bag
+title: "Multiset Bag"
 tags:
+  - review
   - computer-science
   - data-structures
-  - multiset
   - principal-swe
 parent: "[[Data Structures]]"
 ---
 
-# 📦 Multiset Bag (Frequency Bags & Multiplicity Topologies)
+# Multiset Bag
 
-Comprehensive engineering catalog of collections permitting duplicate values with frequency counters, sliding window balancing, $O(1)$ hash-based bags, and $O(\log N)$ balanced tree multisets across 2 specialized domains.
+## 1. Definition
 
-```text
-Multiset Bag
-│
-├── 01. Hash-Based Multiset
-│   ├── [[Hash-Based Multiset]]
-│   ├── [[Multiset Bag Invariants and Multiplicity Models]]
-│   ├── [[Hash-Based Multiset vs Balanced Tree Multiset]]
-│   ├── [[Multiset Add and Frequency Increment]]
-│   ├── [[Multiset Remove and Frequency Decrement]]
-│   ├── [[Multiset Query Key Frequency and Total Multiplicity]]
-│   ├── [[Multiset Distinct Keys Traversal]]
-│   └── [[Multiset Sliding Window Frequency Balancing]]
-│
-└── 02. Tree-Based Multiset
-    └── [[Tree-Based Multiset]]
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🗺️ Module Architecture & Sub-Domains
+
+```
+Multiset Bag/
+├── Hash-Based Multiset/
+├── Tree-Based Multiset/
+└── Common Multiset Algorithms & Operations/
 ```
 
 ---
 
-## 🗂️ Concrete Types & Knowledge Domains
+## 📑 Comprehensive Sub-Domain Index
 
-### 1. 📂 [[Hash-Based Multiset|01. Hash-Based Multiset]]
-- [[Hash-Based Multiset]] — Master topology of unordered hash-based frequency bags.
-- [[Multiset Bag Invariants and Multiplicity Models]] — Formal bag axioms permitting duplicate elements with associated multiplicity counts.
-- [[Hash-Based Multiset vs Balanced Tree Multiset]] — Hash map frequency bag O(1) vs C++ std::multiset Red-Black tree O(log N).
-- [[Multiset Add and Frequency Increment]] — Inserting an element and incrementing its occurrence frequency in O(1).
-- [[Multiset Remove and Frequency Decrement]] — Decrementing occurrence count and deleting key upon reaching zero.
-- [[Multiset Query Key Frequency and Total Multiplicity]] — O(1) querying total duplicate count for a given key and total elements in bag.
-- [[Multiset Distinct Keys Traversal]] — Iterating unique key domain without visiting duplicate entries.
-- [[Multiset Sliding Window Frequency Balancing]] — Maintaining dynamic frequency maps across sliding windows in O(1) amortized time.
+### [[Hash-Based Multiset]]
+  - [[Hash-Based Multiset vs Balanced Tree Multiset]]
+  - [[Multi-Key Intersection and Jaccard Similarity on Bags]]
+  - [[Multiset Add and Frequency Increment]]
+  - [[Multiset Bag Invariants and Multiplicity Models]]
+  - [[Multiset Distinct Keys Traversal]]
+  - [[Multiset Query Key Frequency and Total Multiplicity]]
+  - [[Multiset Remove and Frequency Decrement]]
+  - [[Multiset Sliding Window Frequency Balancing]]
+  - [[Sliding Window Character and Anagram Matching via Hash Multiset]]
 
-### 2. 📂 [[Tree-Based Multiset|02. Tree-Based Multiset]]
-- [[Tree-Based Multiset]] — Master topology of sorted balanced tree multisets (C++ std::multiset) with duplicate preservation.
+### [[Tree-Based Multiset]]
+  - [[Equal-Range Query Mechanics (lower_bound and upper_bound on Multiset)]]
+  - [[Rank and Quantile Tracking on Dynamic Multiset Buffers]]
+  - [[Tree Multiset Insert, Erase, and Count Operations]]
+  - [[Tree-Based Multiset Architecture (std::multiset)]]
+  - [[std::multiset Red-Black Tree Duplicate Key Placement Policies]]
+
+### [[Common Multiset Algorithms & Operations]]
+  - [[Minimum Window Substring containing All Characters of Pattern]]
+  - [[Sliding Window Median Tracking via Dual Multisets]]
+  - [[Top K Frequent Elements using Frequency Bucket Map]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures]]
-- 📚 Module: `Data Structures`
-
-
-
+- 📚 Curriculum: `Computer Science`

@@ -1,31 +1,35 @@
 ---
-title: Ordered Tree Map
+title: "Ordered Tree Map"
 tags:
+  - review
   - computer-science
   - data-structures
-  - maps
   - principal-swe
 parent: "[[Map Dictionary]]"
 ---
 
-# 📦 Ordered Tree Map
+# Ordered Tree Map
 
-Key-ordered balanced Red-Black tree associative map (C++ std::map, Java TreeMap), logarithmic O(log N) operations, and range traversals.
+## 1. Definition
 
-```text
-Ordered Tree Map
-│
-└── [[Ordered Map (RB-Tree) vs Unordered Hash Map]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Ordered Map (RB-Tree) vs Unordered Hash Map]]
+## 📑 Notes in this Topic
+- [[Bi-Directional Range Queries on Balanced Tree Maps]]
+- [[NavigableMap Operations (SubMap, HeadMap, TailMap Splices)]]
+- [[Ordered Tree Map Architecture (std::map, Java TreeMap)]]
+- [[Ordered Tree Map Put, Get, and Remove Operations]]
+- [[Prefix-Search and Lexicographical Sorting via Tree Maps]]
+- [[Tree Map Range Queries (Range Scans, Min Key, Max Key)]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Map Dictionary]]
-- 📚 Module: `Map Dictionary`
+- 📚 Module: `Data Structures`

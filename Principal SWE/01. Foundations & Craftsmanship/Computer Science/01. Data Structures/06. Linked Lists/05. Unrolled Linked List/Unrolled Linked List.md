@@ -1,33 +1,32 @@
 ---
-title: Unrolled Linked List
+title: "Unrolled Linked List"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Linked Lists]]"
 ---
 
-# 📦 Unrolled Linked List
+# Unrolled Linked List
 
-Hybrid cache-conscious structure packing short contiguous arrays inside each linked list node.
+## 1. Definition
 
-```text
-Unrolled Linked List
-│
-├── [[Unrolled Linked List Hybrid Cache Topology]]
-├── [[Unrolled Node Capacity and Cache Line Alignment (64-Byte Matching)]]
-├── [[Unrolled List Element Insertion and Node Splitting Mechanics]]
-└── [[Defragmentation and Node Merging in Unrolled Lists]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Unrolled Linked List Hybrid Cache Topology]] — Packing flat array chunks into nodes to match 64-byte CPU cache lines.
-- [[Unrolled Node Capacity and Cache Line Alignment (64-Byte Matching)]] — Sizing node array buffers to perfectly fit L1 cache lines and SIMD lanes.
-- [[Unrolled List Element Insertion and Node Splitting Mechanics]] — Maintaining balance through node splitting when chunk capacity exceeds threshold.
-- [[Defragmentation and Node Merging in Unrolled Lists]] — Underflow handling: coalescing under-filled adjacent nodes to save memory.
+## 📑 Notes in this Topic
+- [[Defragmentation and Node Merging in Unrolled Lists]]
+- [[Unrolled Linked List (Cache Line Chunking)]]
+- [[Unrolled Linked List Hybrid Cache Topology]]
+- [[Unrolled Linked List Search and Node Traversal Operations]]
+- [[Unrolled List Element Insertion and Node Splitting Mechanics]]
+- [[Unrolled Node Capacity and Cache Line Alignment (64-Byte Matching)]]
 
 ---
 

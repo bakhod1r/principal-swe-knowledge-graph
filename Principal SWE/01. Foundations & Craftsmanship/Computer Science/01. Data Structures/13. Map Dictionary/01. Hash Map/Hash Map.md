@@ -1,45 +1,42 @@
 ---
-title: Hash Map
+title: "Hash Map"
 tags:
+  - review
   - computer-science
   - data-structures
-  - maps
   - principal-swe
 parent: "[[Map Dictionary]]"
 ---
 
-# 📦 Hash Map
+# Hash Map
 
-Unordered 1-to-1 key-value associative hash table, O(1) expected lookups/mutations, comma-ok presence idiom, and bucket memory management.
+## 1. Definition
 
-```text
-Hash Map
-│
-├── [[Associative Map Invariants and Key Uniqueness]]
-├── [[Map Comma-Ok Pattern (Presence vs Zero Value)]]
-├── [[Map Delete and Slot Clearance]]
-├── [[Map Get and Zero-Value Fallback]]
-├── [[Map Iteration Randomization and Hash Seed Security]]
-├── [[Map Key Hashability and Equality Constraints]]
-├── [[Map Memory Footprint and Bucket Re-Allocation]]
-└── [[Map Put and Value Updating]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
+## 📑 Notes in this Topic
 - [[Associative Map Invariants and Key Uniqueness]]
+- [[Fast Insertion and Lookup Patterns (Compute-If-Absent, Upsert)]]
+- [[Key Immutability Invariant and Hash Code Mutation Gotchas]]
 - [[Map Comma-Ok Pattern (Presence vs Zero Value)]]
-- [[Map Delete and Slot Clearance]]
-- [[Map Get and Zero-Value Fallback]]
+- [[Map Contains Key (Membership Testing)]]
+- [[Map Get and Lookup by Key]]
 - [[Map Iteration Randomization and Hash Seed Security]]
 - [[Map Key Hashability and Equality Constraints]]
+- [[Map Key Set and Entry Set Iteration]]
+- [[Map Load Factor and Dynamic Rehash Resizing]]
 - [[Map Memory Footprint and Bucket Re-Allocation]]
-- [[Map Put and Value Updating]]
+- [[Map Put and Insert Key-Value Pairs]]
+- [[Map Remove and Delete by Key]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Map Dictionary]]
-- 📚 Module: `Map Dictionary`
+- 📚 Module: `Data Structures`

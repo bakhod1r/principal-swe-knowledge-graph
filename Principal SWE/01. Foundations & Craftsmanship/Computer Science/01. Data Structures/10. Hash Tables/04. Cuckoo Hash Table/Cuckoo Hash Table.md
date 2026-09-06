@@ -1,31 +1,30 @@
 ---
-title: Cuckoo Hash Table
+title: "Cuckoo Hash Table"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Hash Tables]]"
 ---
 
-# 📦 Cuckoo Hash Table
+# Cuckoo Hash Table
 
-Multiple hash locations guaranteeing strict O(1) worst-case lookups.
+## 1. Definition
 
-```text
-Cuckoo Hash Table
-│
-├── [[Cuckoo Hashing and Dual-Hash O(1) Worst-Case Lookups]]
-├── [[Cuckoo Hashing Two-Way Choice and Power of Two Choices]]
-└── [[Cuckoo Graph Cycles, Stash Mechanics, and Rehash Triggers]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Cuckoo Hashing and Dual-Hash O(1) Worst-Case Lookups]] — Two independent hash functions; lookup inspects at most two deterministic slots.
-- [[Cuckoo Hashing Two-Way Choice and Power of Two Choices]] — Inserting into alternate location, kicking existing occupant if occupied.
-- [[Cuckoo Graph Cycles, Stash Mechanics, and Rehash Triggers]] — Detecting eviction cycles using cuckoo graphs and handling overflows with small stashes.
+## 📑 Notes in this Topic
+- [[Cuckoo Graph Cycles, Stash Mechanics, and Rehash Triggers]]
+- [[Cuckoo Hash Table Lookup, Insert, and Eviction Kicking Operations]]
+- [[Cuckoo Hashing Two-Way Choice and Power of Two Choices]]
+- [[Cuckoo Hashing and Dual-Hash O(1) Worst-Case Lookups]]
 
 ---
 

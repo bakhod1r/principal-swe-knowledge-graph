@@ -1,20 +1,21 @@
 ---
-title: Swiss Table
+title: Swiss Table (SIMD Probing)
 tags:
   - computer-science
   - data-structures
-  - hash-tables
   - principal-swe
 parent: "[[Hash Tables]]"
 ---
 
-# 📦 Swiss Table
-
-Abseil / Rust hashbrown 1-byte control metadata, 16-slot SIMD group probing (SSE2/NEON), and 87.5% load factors.
+# 📦 Swiss Table (SIMD Probing)
 
 ```text
-Swiss Table
+Swiss Table (SIMD Probing)
 │
+├── [[Control Byte Array and SSE-AVX-512 Mask Matching (_mm_cmpeq_epi8)]]
+├── [[H1-H2 Hash Splitting and 16-Way Parallel Probe Groups]]
+├── [[Swiss Table 16-Way Parallel Group Search and Insert Operations]]
+├── [[Swiss Table Architecture (SIMD Metadata Probing)]]
 └── [[Swiss Tables SIMD Control Byte Group Probing (Abseil)]]
 ```
 
@@ -22,10 +23,14 @@ Swiss Table
 
 ## 🗂️ Topics & Implementations
 
+- [[Control Byte Array and SSE-AVX-512 Mask Matching (_mm_cmpeq_epi8)]]
+- [[H1-H2 Hash Splitting and 16-Way Parallel Probe Groups]]
+- [[Swiss Table 16-Way Parallel Group Search and Insert Operations]]
+- [[Swiss Table Architecture (SIMD Metadata Probing)]]
 - [[Swiss Tables SIMD Control Byte Group Probing (Abseil)]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Hash Tables]]
-- 📚 Module: `Hash Tables`
+- 📚 Module: `Data Structures`

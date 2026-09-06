@@ -1,31 +1,31 @@
 ---
-title: Linked List Stack
+title: "Linked List Stack"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Stacks]]"
 ---
 
-# 📦 Linked List Stack
+# Linked List Stack
 
-Node-based stack with head pointer as top.
+## 1. Definition
 
-```text
-Linked List Stack
-│
-├── [[Stack Linked List Implementation]]
-├── [[Linked List Stack Memory Fragmentation and Free-List Recycling]]
-└── [[Lock-Free Concurrent Stack (Treiber Stack with Atomic CAS)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Stack Linked List Implementation]] — O(1) push and pop at list head avoiding array reallocation pauses.
-- [[Linked List Stack Memory Fragmentation and Free-List Recycling]] — Mitigating heap allocation overhead via thread-local node freelists.
-- [[Lock-Free Concurrent Stack (Treiber Stack with Atomic CAS)]] — Atomic CAS pointer swing on top pointer enabling wait-free concurrent pushes.
+## 📑 Notes in this Topic
+- [[Linked List Stack Memory Fragmentation and Free-List Recycling]]
+- [[Linked List Stack Pop and Head Node Reclamation]]
+- [[Linked List Stack Push and Head Node Allocation]]
+- [[Lock-Free Concurrent Stack (Treiber Stack with Atomic CAS)]]
+- [[Stack Linked List Implementation]]
 
 ---
 

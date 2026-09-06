@@ -1,33 +1,32 @@
 ---
-title: Intrusive Linked List
+title: "Intrusive Linked List"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Linked Lists]]"
 ---
 
-# 📦 Intrusive Linked List
+# Intrusive Linked List
 
-Nodes embedding pointer heads directly within data payloads, eliminating dynamic wrapper allocations.
+## 1. Definition
 
-```text
-Intrusive Linked List
-│
-├── [[Intrusive Linked List Architecture (Linux Kernel list_head)]]
-├── [[Linux Kernel list_head Topology and container_of Macro]]
-├── [[Intrusive vs Non-Intrusive Zero-Allocation Performance Profiles]]
-└── [[Embedding Multiple Intrusive Lists in a Single Struct]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Intrusive Linked List Architecture (Linux Kernel list_head)]] — Embedding pointer hooks inside payloads and zero wrapper allocations.
-- [[Linux Kernel list_head Topology and container_of Macro]] — Pointer arithmetic recovering enclosing struct pointers via offsetof calculations.
-- [[Intrusive vs Non-Intrusive Zero-Allocation Performance Profiles]] — Eliminating cache misses and allocator pressure in systems engines.
-- [[Embedding Multiple Intrusive Lists in a Single Struct]] — Simultaneously tracking an object in priority, hash, and FIFO queues without multiple wrappers.
+## 📑 Notes in this Topic
+- [[Embedding Multiple Intrusive Lists in a Single Struct]]
+- [[Intrusive Linked List (Linux Kernel list_head container_of)]]
+- [[Intrusive Linked List Add, Remove, and Splice Operations]]
+- [[Intrusive Linked List Architecture (Linux Kernel list_head)]]
+- [[Intrusive vs Non-Intrusive Zero-Allocation Performance Profiles]]
+- [[Linux Kernel list_head Topology and container_of Macro]]
 
 ---
 

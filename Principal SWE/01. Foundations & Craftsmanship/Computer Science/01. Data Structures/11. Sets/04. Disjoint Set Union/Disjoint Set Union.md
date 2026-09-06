@@ -1,31 +1,35 @@
 ---
-title: Disjoint Set Union
+title: "Disjoint Set Union"
 tags:
+  - review
   - computer-science
   - data-structures
-  - sets
   - principal-swe
 parent: "[[Sets]]"
 ---
 
-# 📦 Disjoint Set Union
+# Disjoint Set Union
 
-Partitioning elements into non-overlapping subsets, near-constant O(alpha(N)) operations via path compression and union by rank.
+## 1. Definition
 
-```text
-Disjoint Set Union
-│
-└── [[Disjoint Set Union (DSU) Set Partitioning]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Disjoint Set Union (DSU) Set Partitioning]]
+## 📑 Notes in this Topic
+- [[DSU Find and Union Operations (State Transitions)]]
+- [[DSU Path Compression Optimization]]
+- [[DSU Union by Rank and Union by Size]]
+- [[DSU with Rollback and Persistent Undo Operations]]
+- [[Kruskal's Minimum Spanning Tree via Disjoint Set Union]]
+- [[Tarjan's Inverse Ackermann Function Bound for DSU]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Sets]]
-- 📚 Module: `Sets`
+- 📚 Module: `Data Structures`

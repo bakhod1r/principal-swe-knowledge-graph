@@ -1,33 +1,33 @@
 ---
-title: Distributed Hash Ring
+title: "Distributed Hash Ring"
 tags:
+  - review
   - computer-science
   - data-structures
-  - hash-tables
   - principal-swe
 parent: "[[Hash Tables]]"
 ---
 
-# 📦 Distributed Hash Ring
+# Distributed Hash Ring
 
-Consistent hashing on a 2^32-1 ring, virtual nodes, bounded key migration, and cryptographic Merkle tree indexing.
+## 1. Definition
 
-```text
-Distributed Hash Ring
-│
-├── [[Consistent Hashing and Virtual Nodes on Hash Ring]]
-└── [[Cryptographic Hash Indexing and Merkle Trees]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Consistent Hashing and Virtual Nodes on Hash Ring]]
+## 📑 Notes in this Topic
+- [[Consistent Hashing Topology and Key Distribution Ring]]
+- [[Consistent Hashing Virtual Nodes and Replication Strategies]]
 - [[Cryptographic Hash Indexing and Merkle Trees]]
+- [[Rendezvous (Highest Random Weight - HRW) Hashing vs Consistent Rings]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Hash Tables]]
-- 📚 Module: `Hash Tables`
+- 📚 Module: `Data Structures`

@@ -1,31 +1,34 @@
 ---
-title: Concurrent Map
+title: "Concurrent Map"
 tags:
+  - review
   - computer-science
   - data-structures
-  - maps
   - principal-swe
 parent: "[[Map Dictionary]]"
 ---
 
-# 📦 Concurrent Map
+# Concurrent Map
 
-Multi-threaded thread-safe map architectures, read-only fast paths (Go sync.Map), sharded stripe locking, and race-free concurrent mutations.
+## 1. Definition
 
-```text
-Concurrent Map
-│
-└── [[Concurrent Map Reads and Writes (sync.Map, Sharded Locks)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Concurrent Map Reads and Writes (sync.Map, Sharded Locks)]]
+## 📑 Notes in this Topic
+- [[Concurrent Map Architecture and Lock Striping]]
+- [[Concurrent Map Lock-Free Reads (Go sync.Map, Java ConcurrentHashMap)]]
+- [[Concurrent Map Thread-Safe Put, Get, and CAS Update Operations]]
+- [[Lock Striping and Fine-Grained Segment Locks (Java 7 ConcurrentHashMap)]]
+- [[Read-Copy-Update (RCU) and Left-Right Concurrency in Maps]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Map Dictionary]]
-- 📚 Module: `Map Dictionary`
+- 📚 Module: `Data Structures`

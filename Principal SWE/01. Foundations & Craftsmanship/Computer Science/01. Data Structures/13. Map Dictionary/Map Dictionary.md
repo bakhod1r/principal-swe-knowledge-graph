@@ -1,68 +1,83 @@
 ---
-title: Map Dictionary
+title: "Map Dictionary"
 tags:
+  - review
   - computer-science
   - data-structures
-  - maps
   - principal-swe
 parent: "[[Data Structures]]"
 ---
 
-# 📦 Map Dictionary (Associative Mappings & Concurrency Topologies)
+# Map Dictionary
 
-Comprehensive engineering catalog of associative key-to-value dictionaries, uniform hash mappings, bucket reallocation lifecycles, key-ordered Red-Black tree maps, and concurrent lock-sharded dictionary architectures across 3 specialized domains.
+## 1. Definition
 
-```text
-Map Dictionary
-│
-├── 01. Hash Map
-│   ├── [[Hash Map]]
-│   ├── [[Associative Map Invariants and Key Uniqueness]]
-│   ├── [[Map Key Hashability and Equality Constraints]]
-│   ├── [[Map Put and Value Updating]]
-│   ├── [[Map Get and Zero-Value Fallback]]
-│   ├── [[Map Delete and Slot Clearance]]
-│   ├── [[Map Comma-Ok Pattern (Presence vs Zero Value)]]
-│   ├── [[Map Memory Footprint and Bucket Re-Allocation]]
-│   └── [[Map Iteration Randomization and Hash Seed Security]]
-│
-├── 02. Ordered Tree Map
-│   ├── [[Ordered Tree Map]]
-│   └── [[Ordered Map (RB-Tree) vs Unordered Hash Map]]
-│
-└── 03. Concurrent Map
-    ├── [[Concurrent Map]]
-    └── [[Concurrent Map Reads and Writes (sync.Map, Sharded Locks)]]
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🗺️ Module Architecture & Sub-Domains
+
+```
+Map Dictionary/
+├── Hash Map/
+├── Ordered Tree Map/
+├── Concurrent Map/
+├── Specialized Memory Maps/
+└── Common Map Algorithms & Operations/
 ```
 
 ---
 
-## 🗂️ Concrete Types & Knowledge Domains
+## 📑 Comprehensive Sub-Domain Index
 
-### 1. 📂 [[Hash Map|01. Hash Map]]
-- [[Hash Map]] — Master topology of unordered hash-based dictionaries.
-- [[Associative Map Invariants and Key Uniqueness]] — 1-to-1 key-value mapping axioms and memory layout.
-- [[Map Key Hashability and Equality Constraints]] — Requirements for comparable key types and avoiding floating-point map keys.
-- [[Map Put and Value Updating]] — Inserting new key-value pairs or updating existing values in O(1).
-- [[Map Get and Zero-Value Fallback]] — Retrieving value with zero-value fallback on missing keys.
-- [[Map Delete and Slot Clearance]] — Removing key-value association and releasing bucket slots.
-- [[Map Comma-Ok Pattern (Presence vs Zero Value)]] — Distinguishing between stored zero values and missing keys (val, ok := m[k]).
-- [[Map Memory Footprint and Bucket Re-Allocation]] — Understanding why hash maps never shrink allocated bucket memory after key deletions.
-- [[Map Iteration Randomization and Hash Seed Security]] — Randomizing map iteration starting point to prevent deterministic order bugs and HashDoS attacks.
+### [[Hash Map]]
+  - [[Associative Map Invariants and Key Uniqueness]]
+  - [[Fast Insertion and Lookup Patterns (Compute-If-Absent, Upsert)]]
+  - [[Key Immutability Invariant and Hash Code Mutation Gotchas]]
+  - [[Map Comma-Ok Pattern (Presence vs Zero Value)]]
+  - [[Map Contains Key (Membership Testing)]]
+  - [[Map Get and Lookup by Key]]
+  - [[Map Iteration Randomization and Hash Seed Security]]
+  - [[Map Key Hashability and Equality Constraints]]
+  - [[Map Key Set and Entry Set Iteration]]
+  - [[Map Load Factor and Dynamic Rehash Resizing]]
+  - [[Map Memory Footprint and Bucket Re-Allocation]]
+  - [[Map Put and Insert Key-Value Pairs]]
+  - [[Map Remove and Delete by Key]]
 
-### 2. 📂 [[Ordered Tree Map|02. Ordered Tree Map]]
-- [[Ordered Tree Map]] — Master topology of sorted balanced Red-Black tree associative maps.
-- [[Ordered Map (RB-Tree) vs Unordered Hash Map]] — O(log N) sorted key traversal vs O(1) expected hash lookups.
+### [[Ordered Tree Map]]
+  - [[Bi-Directional Range Queries on Balanced Tree Maps]]
+  - [[NavigableMap Operations (SubMap, HeadMap, TailMap Splices)]]
+  - [[Ordered Tree Map Architecture (std::map, Java TreeMap)]]
+  - [[Ordered Tree Map Put, Get, and Remove Operations]]
+  - [[Prefix-Search and Lexicographical Sorting via Tree Maps]]
+  - [[Tree Map Range Queries (Range Scans, Min Key, Max Key)]]
 
-### 3. 📂 [[Concurrent Map|03. Concurrent Map]]
-- [[Concurrent Map]] — Master architecture of thread-safe concurrent maps.
-- [[Concurrent Map Reads and Writes (sync.Map, Sharded Locks)]] — Mitigating fatal concurrent map write crashes via read-only fast paths and lock sharding.
+### [[Concurrent Map]]
+  - [[Concurrent Map Architecture and Lock Striping]]
+  - [[Concurrent Map Lock-Free Reads (Go sync.Map, Java ConcurrentHashMap)]]
+  - [[Concurrent Map Thread-Safe Put, Get, and CAS Update Operations]]
+  - [[Lock Striping and Fine-Grained Segment Locks (Java 7 ConcurrentHashMap)]]
+  - [[Read-Copy-Update (RCU) and Left-Right Concurrency in Maps]]
+
+### [[Specialized Memory Maps]]
+  - [[EnumMap and Flat Array Direct-Index Maps for Compact Enums]]
+  - [[Memory-Mapped Key-Value Store (LMDB B-Tree Memory Architecture)]]
+  - [[Trie and Radix Tree Prefix Maps (Compact Key Compression)]]
+
+### [[Common Map Algorithms & Operations]]
+  - [[LFU Cache Implementation (Frequency Map + Doubly Linked Lists)]]
+  - [[LRU Cache Implementation (Hash Map + Doubly Linked List)]]
+  - [[Trie-Based Prefix Autocomplete and Dictionary Lookups]]
+  - [[Word Pattern and Isomorphic String Mapping]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures]]
-- 📚 Module: `Data Structures`
-
-
-
+- 📚 Curriculum: `Computer Science`

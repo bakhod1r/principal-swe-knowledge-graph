@@ -1,5 +1,5 @@
 ---
-title: Monotonic Stack
+title: Monotonic Stack Algorithms
 tags:
   - computer-science
   - data-structures
@@ -7,15 +7,13 @@ tags:
 parent: "[[Stacks]]"
 ---
 
-# 📦 Monotonic Stack
-
-Strictly increasing or decreasing stacks solving nearest element queries in O(N) time.
+# 📦 Monotonic Stack Algorithms
 
 ```text
-Monotonic Stack
+Monotonic Stack Algorithms
 │
-├── [[Next Greater Element and Previous Greater Element Patterns]]
 ├── [[Largest Rectangle in Histogram (Monotonic Increasing Stack)]]
+├── [[Next Greater Element and Previous Greater Element Patterns]]
 └── [[Trapping Rain Water via Monotonic Decreasing Stack]]
 ```
 
@@ -23,9 +21,9 @@ Monotonic Stack
 
 ## 🗂️ Topics & Implementations
 
-- [[Next Greater Element and Previous Greater Element Patterns]] — Finding first larger elements on left and right in a single linear pass.
-- [[Largest Rectangle in Histogram (Monotonic Increasing Stack)]] — Calculating maximum rectangular areas in linear time via boundary tracking.
-- [[Trapping Rain Water via Monotonic Decreasing Stack]] — Calculating elevation water capacity by maintaining decreasing height bounds.
+- [[Largest Rectangle in Histogram (Monotonic Increasing Stack)]]
+- [[Next Greater Element and Previous Greater Element Patterns]]
+- [[Trapping Rain Water via Monotonic Decreasing Stack]]
 
 ---
 

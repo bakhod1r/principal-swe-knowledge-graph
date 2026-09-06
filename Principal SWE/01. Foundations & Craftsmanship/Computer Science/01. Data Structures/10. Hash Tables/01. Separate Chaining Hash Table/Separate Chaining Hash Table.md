@@ -1,37 +1,35 @@
 ---
-title: Separate Chaining Hash Table
+title: "Separate Chaining Hash Table"
 tags:
+  - review
   - computer-science
   - data-structures
   - principal-swe
 parent: "[[Hash Tables]]"
 ---
 
-# 📦 Separate Chaining Hash Table
+# Separate Chaining Hash Table
 
-Bucket arrays linked to separate chains of collisions.
+## 1. Definition
 
-```text
-Separate Chaining Hash Table
-│
-├── [[Separate Chaining Architecture and Bucket Array Topology]]
-├── [[Hash Table Insertion and Collision Resolution (Chaining)]]
-├── [[Hash Table Deletion and Key Unlinking (Chaining)]]
-├── [[Separate Chaining Treeification Threshold (Java 8 Red-Black Tree)]]
-├── [[Load Factor Thresholds and Rehashing Economics in Chaining]]
-└── [[Cache-Conscious Chaining (Unrolled Bucket Arrays)]]
-```
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
 
 ---
 
-## 🗂️ Topics & Implementations
-
-- [[Separate Chaining Architecture and Bucket Array Topology]] — Array of bucket heads pointing to collision lists with load factor tracking.
-- [[Hash Table Insertion and Collision Resolution (Chaining)]] — Hashing keys to bucket indices and prepending nodes to collision lists in O(1) time.
-- [[Hash Table Deletion and Key Unlinking (Chaining)]] — Bypassing node in bucket list and freeing heap memory.
-- [[Separate Chaining Treeification Threshold (Java 8 Red-Black Tree)]] — Converting degenerate O(N) linked lists into O(log N) RB-trees when bucket depth exceeds 8.
-- [[Load Factor Thresholds and Rehashing Economics in Chaining]] — Balancing memory overhead and search latency by resizing at alpha = 0.75.
-- [[Cache-Conscious Chaining (Unrolled Bucket Arrays)]] — Inlining small arrays in buckets to minimize pointer dereference cache misses.
+## 📑 Notes in this Topic
+- [[Cache-Conscious Chaining (Unrolled Bucket Arrays)]]
+- [[Hash Function Uniformity (MurmurHash3, xxHash, CityHash)]]
+- [[Hash Table Memory Layout and Bucket Array]]
+- [[Load Factor Thresholds and Rehashing Economics in Chaining]]
+- [[Separate Chaining Architecture and Bucket Array Topology]]
+- [[Separate Chaining Deletion and Key Unlinking Operations]]
+- [[Separate Chaining Insertion and Collision Resolution]]
+- [[Separate Chaining Search and Get Operations]]
+- [[Separate Chaining Treeification Threshold (Java 8 Red-Black Tree)]]
 
 ---
 

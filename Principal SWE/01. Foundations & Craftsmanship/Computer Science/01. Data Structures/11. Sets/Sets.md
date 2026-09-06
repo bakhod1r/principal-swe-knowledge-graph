@@ -1,75 +1,82 @@
 ---
-title: Sets
+title: "Sets"
 tags:
   - review
   - computer-science
   - data-structures
-  - sets
   - principal-swe
 parent: "[[Data Structures]]"
 ---
 
-# 📦 Sets (Mathematical Topologies & Membership Algebra)
+# Sets
 
-Comprehensive engineering catalog of unique element deduplication, mathematical set algebra (Union, Intersection, Difference), $O(1)$ hash sets, $O(\log N)$ balanced tree sets, 64-to-1 bitset SIMD vectorization, and Disjoint Set Union (DSU) partitions across 4 specialized domains.
+## 1. Definition
 
-```text
-Sets
-│
-├── 01. Hash Set
-│   ├── [[Hash Set]]
-│   ├── [[Set Invariants and Mathematical Deduplication]]
-│   ├── [[Hash Set vs Tree Set (O(1) Unordered vs O(log N) Sorted)]]
-│   ├── [[Set Add and Insert Elements]]
-│   ├── [[Set Remove and Delete Elements]]
-│   ├── [[Set Contains and Fast Membership Testing]]
-│   ├── [[Set Union Operation (A OR B)]]
-│   ├── [[Set Intersection Operation (A AND B)]]
-│   └── [[Set Difference and Symmetric Difference (A XOR B)]]
-│
-├── 02. Tree Set
-│   └── [[Tree Set]]
-│
-├── 03. Bit Set
-│   ├── [[Bit Set]]
-│   └── [[Bitset Set Algebra (SIMD-Accelerated 64-Bit Words)]]
-│
-└── 04. Disjoint Set Union
-    ├── [[Disjoint Set Union]]
-    └── [[Disjoint Set Union (DSU) Set Partitioning]]
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🗺️ Module Architecture & Sub-Domains
+
+```
+Sets/
+├── Hash Set/
+├── Tree Set/
+├── Bit Set/
+├── Disjoint Set Union/
+└── Common Set Algorithms & Operations/
 ```
 
 ---
 
-## 🗂️ Concrete Types & Knowledge Domains
+## 📑 Comprehensive Sub-Domain Index
 
-### 1. 📂 [[Hash Set|01. Hash Set]]
-- [[Hash Set]] — Master topology of unordered hash-backed sets.
-- [[Set Invariants and Mathematical Deduplication]] — Set uniqueness axioms and underlying associative table hash key mapping.
-- [[Hash Set vs Tree Set (O(1) Unordered vs O(log N) Sorted)]] — Hash table O(1) unordered set vs Red-Black tree O(log N) sorted set with range queries.
-- [[Set Add and Insert Elements]] — O(1) expected insertion enforcing unique element constraints.
-- [[Set Remove and Delete Elements]] — O(1) expected element deletion from set storage.
-- [[Set Contains and Fast Membership Testing]] — O(1) strict membership verification with zero false positives.
-- [[Set Union Operation (A OR B)]] — Combining distinct elements from two sets in O(N+M) time.
-- [[Set Intersection Operation (A AND B)]] — Extracting common elements across sets in O(min(N, M)) time.
-- [[Set Difference and Symmetric Difference (A XOR B)]] — Extracting unique elements belonging to exactly one set.
+### [[Hash Set]]
+  - [[Hash Set Memory Overhead per Element vs Raw Buffers]]
+  - [[Hash Set vs Tree Set (O(1) Unordered vs O(log N) Sorted)]]
+  - [[Set Add and Insert Elements]]
+  - [[Set Contains and Fast Membership Testing]]
+  - [[Set Difference and Symmetric Difference (A XOR B)]]
+  - [[Set Intersection Operation (A AND B)]]
+  - [[Set Invariants and Mathematical Deduplication]]
+  - [[Set Remove and Delete Elements]]
+  - [[Set Union Operation (A OR B)]]
+  - [[Sub-Array Subset and Superset Validation Algorithms]]
 
-### 2. 📂 [[Tree Set|02. Tree Set]]
-- [[Tree Set]] — Master topology of ordered Red-Black tree sets with range queries.
+### [[Tree Set]]
+  - [[In-Order Iterator Traversal and Symmetric Differences in Tree Sets]]
+  - [[Order-Statistic Tree Set (Finding K-th Smallest Element in O(log N))]]
+  - [[Tree Set Add, Remove, and Contains Operations]]
+  - [[Tree Set Architecture and Red-Black Tree Backing]]
+  - [[Tree Set Range Sub-Set Queries (Floor, Ceiling, Higher, Lower)]]
 
-### 3. 📂 [[Bit Set|03. Bit Set]]
-- [[Bit Set]] — Master architecture of bit-dense packed boolean sets.
-- [[Bitset Set Algebra (SIMD-Accelerated 64-Bit Words)]] — Packing 64 boolean flags into uint64 words for ultra-fast bitwise AND/OR/XOR algebra.
+### [[Bit Set]]
+  - [[Bit Set Architecture and Memory Density]]
+  - [[Bit Set Set, Clear, Test, and Toggle Operations]]
+  - [[Bit Set for Graph Adjacency Bitmaps and Reachability Queries]]
+  - [[Bitset Set Algebra (SIMD-Accelerated 64-Bit Words)]]
+  - [[Compressed Bitsets (Roaring Bitmap 3-Tier Container Architecture)]]
 
-### 4. 📂 [[Disjoint Set Union|04. Disjoint Set Union]]
-- [[Disjoint Set Union]] — Master topology of dynamic equivalence partitioning.
-- [[Disjoint Set Union (DSU) Set Partitioning]] — Maintaining dynamic equivalence classes in near-constant O(alpha(N)) time.
+### [[Disjoint Set Union]]
+  - [[DSU Find and Union Operations (State Transitions)]]
+  - [[DSU Path Compression Optimization]]
+  - [[DSU Union by Rank and Union by Size]]
+  - [[DSU with Rollback and Persistent Undo Operations]]
+  - [[Kruskal's Minimum Spanning Tree via Disjoint Set Union]]
+  - [[Tarjan's Inverse Ackermann Function Bound for DSU]]
+
+### [[Common Set Algorithms & Operations]]
+  - [[Connected Components Count in Grid using Sets]]
+  - [[Cycle Detection in Undirected Graph using Disjoint Sets]]
+  - [[Finding Missing and Duplicate Numbers using Sets]]
+  - [[Intersection and Union of Multiple Sorted Sequences via Sets]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: [[Data Structures]]
-- 📚 Module: `Data Structures`
-
-
-
+- 📚 Curriculum: `Computer Science`
