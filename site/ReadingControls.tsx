@@ -358,6 +358,11 @@ const ReadingControls: QuartzComponent = ({ displayClass }: QuartzComponentProps
         </svg>
         </button>
       </div>
+
+      {/* Wires the panel where the module bundle above never runs. See
+          LEGACY_SCRIPT: it is inline and unminified so it reaches that engine
+          byte for byte, and it exits immediately on every other browser. */}
+      <script dangerouslySetInnerHTML={{ __html: LEGACY_SCRIPT }} />
     </>
   )
 }
@@ -389,27 +394,33 @@ ReadingControls.beforeDOMLoaded = `
       root.classList.add("immersive", "rail-left-hidden", "rail-right-hidden")
     }
   } catch (e) {}
+`
 
-  /**
-   * Legacy fallback: the same panel, wired without ES modules.
-   *
-   * Quartz serves its whole interactive bundle as a single
-   * <script type="module">, which a browser without module support silently
-   * never runs — no error, no console, just a page where every control is
-   * inert. The Kindle's WebKit is exactly that browser, and a Kindle is the
-   * device this reading panel was built for.
-   *
-   * This runs from the classic prescript instead, so it parses and executes
-   * there. It stands down the moment the module bundle sets its flag, so a
-   * modern browser never reaches any of it.
-   *
-   * Everything below is ES5 on purpose: no arrow functions, no let/const, no
-   * template literals, no optional chaining, no for-of, no Element.closest,
-   * and no second argument to classList.toggle — that engine has none of them,
-   * and a single unsupported token would fail to parse the whole prescript,
-   * taking the pre-paint above down with it.
-   */
-  ;(function () {
+/**
+ * Legacy fallback: the same panel, wired without ES modules.
+ *
+ * Quartz serves its whole interactive bundle as a single
+ * `<script type="module">`, which a browser without module support silently
+ * never runs — no error, no console, just a page where every control is inert.
+ * The Kindle's WebKit is exactly that browser, and a Kindle is the device this
+ * reading panel was built for.
+ *
+ * It ships as a plain inline script beside the markup it wires, deliberately
+ * NOT through `beforeDOMLoaded`: Quartz runs those through esbuild's minifier,
+ * which has no `target` set and happily rewrites hand-written ES5 into `??`
+ * and optional catch binding. On the engine this exists for, one such token is
+ * a parse error that takes the whole file down — including the pre-paint above.
+ * Verbatim is the only way to keep the guarantee.
+ *
+ * Everything below is ES5 on purpose: no arrow functions, no let/const, no
+ * template literals, no optional chaining, no for-of, no Element.closest, and
+ * no second argument to `classList.toggle` — that engine has none of them.
+ *
+ * It stands down the moment the module bundle sets its flag, so a modern
+ * browser parses it and then returns immediately.
+ */
+const LEGACY_SCRIPT = `
+  (function () {
     var doc = document
     var root = doc.documentElement
     var MIN_TYPE = -2
@@ -685,45 +696,36 @@ ReadingControls.beforeDOMLoaded = `
         var row = fs.parentNode
         if (row && row.style) row.style.display = "none"
       } else if (fs) {
-        fs.addEventListener(
-          "click",
-          function () {
-            try {
-              if (doc.fullscreenElement || doc.webkitFullscreenElement) {
-                if (doc.exitFullscreen) doc.exitFullscreen()
-                else if (doc.webkitExitFullscreen) doc.webkitExitFullscreen()
-              } else if (root.requestFullscreen) {
-                root.requestFullscreen()
-              } else if (root.webkitRequestFullscreen) {
-                root.webkitRequestFullscreen()
-              }
-            } catch (e) {}
-          },
-          false,
-        )
+        var onFullscreen = function () {
+          try {
+            if (doc.fullscreenElement || doc.webkitFullscreenElement) {
+              if (doc.exitFullscreen) doc.exitFullscreen()
+              else if (doc.webkitExitFullscreen) doc.webkitExitFullscreen()
+            } else if (root.requestFullscreen) {
+              root.requestFullscreen()
+            } else if (root.webkitRequestFullscreen) {
+              root.webkitRequestFullscreen()
+            }
+          } catch (e) {}
+        }
+        fs.addEventListener("click", onFullscreen, false)
       }
 
       /* Dismiss on an outside tap. Element.closest does not exist here, so
          walk the parents by hand. */
-      doc.addEventListener(
-        "click",
-        function (ev) {
-          if (!panelOpen()) return
-          var node = ev.target
-          while (node && node !== doc) {
-            if (
-              node.className &&
-              typeof node.className === "string" &&
-              (" " + node.className + " ").indexOf(" reading-dock ") > -1
-            ) {
-              return
-            }
-            node = node.parentNode
+      var onOutside = function (ev) {
+        if (!panelOpen()) return
+        var node = ev.target
+        while (node && node !== doc) {
+          var cls = node.className
+          if (typeof cls === "string" && (" " + cls + " ").indexOf(" reading-dock ") > -1) {
+            return
           }
-          setPanel(false)
-        },
-        false,
-      )
+          node = node.parentNode
+        }
+        setPanel(false)
+      }
+      doc.addEventListener("click", onOutside, false)
     }
 
     /* Module scripts are deferred, so the flag is already set by the time
@@ -735,12 +737,13 @@ ReadingControls.beforeDOMLoaded = `
       start()
     }
 
-    if (doc.readyState === "complete" || doc.readyState === "interactive") {
+    var onReady = function () {
       setTimeout(boot, 0)
+    }
+    if (doc.readyState === "complete" || doc.readyState === "interactive") {
+      onReady()
     } else {
-      doc.addEventListener("DOMContentLoaded", function () {
-        setTimeout(boot, 0)
-      }, false)
+      doc.addEventListener("DOMContentLoaded", onReady, false)
     }
   })()
 `
