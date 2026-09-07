@@ -1,3 +1,14 @@
+/**
+ * Tell the legacy fallback in ReadingControls.beforeDOMLoaded to stand down.
+ *
+ * Quartz serves this bundle as `<script type="module">`, which a browser
+ * without ES module support never executes — the Kindle's WebKit among them.
+ * The fallback wires the same controls in ES5 from the classic prescript, and
+ * this flag is how it knows it is not needed. Module scripts are deferred, so
+ * it is set before DOMContentLoaded fires and long before the fallback looks.
+ */
+;(window as unknown as { __readingControlsModern?: boolean }).__readingControlsModern = true
+
 const MIN_STEP = -2
 const MAX_STEP = 4
 
@@ -7,78 +18,17 @@ const MIN_MEASURE_STEP = -5
 const MAX_MEASURE_STEP = 5
 
 /**
- * Body typefaces. Each entry carries the CSS stack and, where the family is
- * not already on the page, the Google Fonts stylesheet to fetch for it.
- *
- * Fonts load on demand: pulling twenty families up front would cost more than
- * the whole rest of the page, and a reader uses exactly one.
+ * The CSS stack and on-demand stylesheet for each typeface, read off the
+ * `data-stack` and `data-href` the panel's `<option>`s carry. ReadingControls.tsx
+ * declares the faces; a copy of the table here would drift the first time one
+ * is added.
  */
-const FONTS: Record<string, { stack: string; href?: string }> = {
-  "source-serif": { stack: '"Source Serif 4", Georgia, serif' },
-  newsreader: { stack: '"Newsreader", Georgia, serif' },
-  literata: {
-    stack: '"Literata", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Literata:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  lora: {
-    stack: '"Lora", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  merriweather: {
-    stack: '"Merriweather", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap",
-  },
-  "libre-baskerville": {
-    stack: '"Libre Baskerville", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap",
-  },
-  "eb-garamond": {
-    stack: '"EB Garamond", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "crimson-pro": {
-    stack: '"Crimson Pro", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  spectral: {
-    stack: '"Spectral", Georgia, serif',
-    href: "https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "system-sans": { stack: "var(--uiFont)" },
-  inter: {
-    stack: '"Inter", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap",
-  },
-  "work-sans": {
-    stack: '"Work Sans", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "public-sans": {
-    stack: '"Public Sans", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "ibm-plex-sans": {
-    stack: '"IBM Plex Sans", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "source-sans": {
-    stack: '"Source Sans 3", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  "nunito-sans": {
-    stack: '"Nunito Sans", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,600;1,400&display=swap",
-  },
-  manrope: {
-    stack: '"Manrope", system-ui, sans-serif',
-    href: "https://fonts.googleapis.com/css2?family=Manrope:wght@400;600&display=swap",
-  },
-  "intel-mono": { stack: 'var(--codeFont)' },
-  "ibm-plex-mono": { stack: '"IBM Plex Mono", ui-monospace, monospace' },
-  "jetbrains-mono": {
-    stack: '"JetBrains Mono", ui-monospace, monospace',
-    href: "https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,600;1,400&display=swap",
-  },
+function fonts(): Record<string, { stack: string; href?: string }> {
+  const table: Record<string, { stack: string; href?: string }> = {}
+  for (const el of document.querySelectorAll<HTMLOptionElement>("#typeface-select option")) {
+    table[el.value] = { stack: el.dataset.stack ?? "", href: el.dataset.href }
+  }
+  return table
 }
 
 /**
@@ -124,9 +74,8 @@ function applyFlag(cls: string, on: boolean, selector: string) {
 
 /* ----------------------------------------------------------- typeface */
 
-function ensureFontLoaded(id: string) {
-  const href = FONTS[id]?.href
-  if (href === undefined) return
+function ensureFontLoaded(id: string, href: string | undefined) {
+  if (href === undefined || href === "") return
   if (document.querySelector(`link[data-font="${id}"]`) !== null) return
 
   const link = document.createElement("link")
@@ -137,15 +86,16 @@ function ensureFontLoaded(id: string) {
 }
 
 function applyTypeface(id: string) {
-  const chosen = id in FONTS ? id : "source-serif"
-  ensureFontLoaded(chosen)
+  const table = fonts()
+  const chosen = id in table ? id : "source-serif"
+  ensureFontLoaded(chosen, table[chosen]?.href)
   const root = document.documentElement
-  if (chosen === "source-serif") {
+  if (chosen === "source-serif" || table[chosen] === undefined) {
     root.removeAttribute("data-typeface")
     root.style.removeProperty("--bodyFont")
   } else {
     root.setAttribute("data-typeface", chosen)
-    root.style.setProperty("--bodyFont", FONTS[chosen].stack)
+    root.style.setProperty("--bodyFont", table[chosen].stack)
   }
   for (const el of document.querySelectorAll<HTMLSelectElement>("#typeface-select")) {
     el.value = chosen
