@@ -1,7 +1,7 @@
 ---
 title: "State Transition"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

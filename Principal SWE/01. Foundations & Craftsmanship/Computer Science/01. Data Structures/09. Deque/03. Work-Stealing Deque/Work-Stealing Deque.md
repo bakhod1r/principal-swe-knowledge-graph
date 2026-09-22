@@ -1,7 +1,7 @@
 ---
 title: "Work-Stealing Deque"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

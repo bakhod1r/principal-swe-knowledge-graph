@@ -1,7 +1,7 @@
 ---
 title: "Homogeneous vs Heterogeneous Memory Containers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Bounds vs Real-World Constant Factors and Hardware Reality"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

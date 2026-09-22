@@ -1,7 +1,7 @@
 ---
 title: "Circular Linked List and Cyclic Looping Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

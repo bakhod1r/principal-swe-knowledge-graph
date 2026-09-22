@@ -1,7 +1,7 @@
 ---
 title: "Context Engineering: .cursorrules, Repository Maps, and Architectural Guides"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Context Engineering: .cursorrules, Repository Maps, and Architectural Guides
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

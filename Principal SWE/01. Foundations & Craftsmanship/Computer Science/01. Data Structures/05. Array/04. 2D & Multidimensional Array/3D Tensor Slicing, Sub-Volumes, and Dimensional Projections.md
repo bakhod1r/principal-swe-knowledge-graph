@@ -1,7 +1,7 @@
 ---
 title: "3D Tensor Slicing, Sub-Volumes, and Dimensional Projections"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

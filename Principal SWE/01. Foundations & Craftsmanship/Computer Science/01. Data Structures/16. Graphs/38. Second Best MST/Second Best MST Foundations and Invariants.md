@@ -1,7 +1,7 @@
 ---
 title: "Second Best MST Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

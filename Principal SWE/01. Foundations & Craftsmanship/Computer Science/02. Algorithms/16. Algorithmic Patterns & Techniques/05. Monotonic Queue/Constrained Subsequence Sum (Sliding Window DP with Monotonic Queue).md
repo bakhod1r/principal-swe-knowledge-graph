@@ -1,7 +1,7 @@
 ---
 title: "Constrained Subsequence Sum (Sliding Window DP with Monotonic Queue)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

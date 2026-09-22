@@ -1,7 +1,7 @@
 ---
 title: "Array Push and Pop (LIFO Dynamic Stack Operations)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

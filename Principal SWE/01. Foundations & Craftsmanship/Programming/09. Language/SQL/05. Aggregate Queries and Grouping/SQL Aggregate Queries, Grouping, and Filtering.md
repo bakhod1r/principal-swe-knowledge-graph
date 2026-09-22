@@ -1,7 +1,7 @@
 ---
 title: SQL Aggregate Queries, Grouping, and Filtering
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Aggregate Queries, Grouping, and Filtering
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

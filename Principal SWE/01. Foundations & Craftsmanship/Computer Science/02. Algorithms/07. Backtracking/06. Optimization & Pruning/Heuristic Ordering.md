@@ -1,7 +1,7 @@
 ---
 title: "Heuristic Ordering"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

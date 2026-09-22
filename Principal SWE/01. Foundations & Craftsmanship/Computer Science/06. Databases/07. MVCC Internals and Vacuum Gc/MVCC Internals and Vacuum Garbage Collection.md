@@ -1,7 +1,7 @@
 ---
 title: MVCC Internals and Vacuum Garbage Collection
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ MVCC Internals and Vacuum Garbage Collection
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

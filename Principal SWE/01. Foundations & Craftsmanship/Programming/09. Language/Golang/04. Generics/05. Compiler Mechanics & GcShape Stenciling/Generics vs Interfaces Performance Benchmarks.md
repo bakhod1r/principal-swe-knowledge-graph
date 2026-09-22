@@ -1,7 +1,7 @@
 ---
 title: "Generics vs Interfaces Performance Benchmarks"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

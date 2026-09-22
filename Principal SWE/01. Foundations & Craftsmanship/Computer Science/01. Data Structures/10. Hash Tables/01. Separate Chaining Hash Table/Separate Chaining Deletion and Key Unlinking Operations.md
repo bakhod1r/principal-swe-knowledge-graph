@@ -1,7 +1,7 @@
 ---
 title: "Hash Table Deletion and Key Unlinking (Chaining)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Vectorized Operations and Broadcasting Semantics (NumPy, APL, Julia)"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

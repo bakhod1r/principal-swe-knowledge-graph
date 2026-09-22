@@ -1,7 +1,7 @@
 ---
 title: "Priority Queue Dequeue (Heap Pop and Sift-Down Operation)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Distributed Database Replication and Topologies
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Distributed Database Replication and Topologies
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

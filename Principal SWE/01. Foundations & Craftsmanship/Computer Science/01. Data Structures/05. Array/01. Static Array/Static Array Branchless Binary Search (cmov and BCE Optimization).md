@@ -1,7 +1,7 @@
 ---
 title: "Static Array Branchless Binary Search (cmov and BCE Optimization)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

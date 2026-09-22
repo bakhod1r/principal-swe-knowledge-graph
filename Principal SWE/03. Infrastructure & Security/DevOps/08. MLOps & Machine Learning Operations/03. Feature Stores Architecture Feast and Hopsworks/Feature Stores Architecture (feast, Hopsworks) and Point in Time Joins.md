@@ -1,7 +1,7 @@
 ---
 title: Feature Stores Architecture (feast, Hopsworks) and Point in Time Joins
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Feature Stores Architecture (feast, Hopsworks) and Point in Time Joins
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

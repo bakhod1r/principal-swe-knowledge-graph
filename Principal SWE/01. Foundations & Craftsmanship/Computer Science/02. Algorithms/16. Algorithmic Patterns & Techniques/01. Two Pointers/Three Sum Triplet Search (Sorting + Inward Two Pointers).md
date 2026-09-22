@@ -1,7 +1,7 @@
 ---
 title: "Three Sum Triplet Search (Sorting + Inward Two Pointers)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

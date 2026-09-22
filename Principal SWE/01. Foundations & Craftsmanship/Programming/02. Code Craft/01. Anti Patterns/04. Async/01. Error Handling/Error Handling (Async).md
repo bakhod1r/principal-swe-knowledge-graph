@@ -1,7 +1,7 @@
 ---
 title: Error Handling (Async)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Error Handling (Async)
 
 ## 🔗 References
 - ⬆️ Parent: [[Async]]
-

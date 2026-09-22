@@ -1,7 +1,7 @@
 ---
 title: Numerical Linear Algebra, Gaussian Elimination, and Matrix Decompositions (lu, Qr, Svd)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing
@@ -34,4 +34,3 @@ Numerical Linear Algebra, Gaussian Elimination, and Matrix Decompositions (lu, Q
 ## 🔗 References
 - ⬆️ Parent: [[Numerical Methods & Scientific Computing]]
 - 📚 Module: `Computer Science`
-

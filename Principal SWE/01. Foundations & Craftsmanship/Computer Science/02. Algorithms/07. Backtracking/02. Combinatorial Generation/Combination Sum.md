@@ -1,7 +1,7 @@
 ---
 title: "Combination Sum"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

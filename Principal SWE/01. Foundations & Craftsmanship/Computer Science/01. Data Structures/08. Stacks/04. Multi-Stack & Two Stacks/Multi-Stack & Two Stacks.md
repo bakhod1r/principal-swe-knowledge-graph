@@ -1,7 +1,7 @@
 ---
 title: "Multi-Stack & Two Stacks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

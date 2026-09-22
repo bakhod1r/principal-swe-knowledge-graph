@@ -1,7 +1,7 @@
 ---
 title: Distributed Transactions (2pc, 3pc, and Sagas)
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Distributed Transactions (2pc, 3pc, and Sagas)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

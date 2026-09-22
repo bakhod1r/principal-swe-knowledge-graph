@@ -1,7 +1,7 @@
 ---
 title: "Second Order Thinking: Modeling Ripple Effects and Unintended Consequences"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Second Order Thinking: Modeling Ripple Effects and Unintended Consequences
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

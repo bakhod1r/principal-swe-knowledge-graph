@@ -1,7 +1,7 @@
 ---
 title: Sliding Window
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -42,4 +42,3 @@ Sliding Window
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

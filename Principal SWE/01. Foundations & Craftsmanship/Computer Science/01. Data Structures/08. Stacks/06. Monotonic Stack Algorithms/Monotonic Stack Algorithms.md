@@ -1,7 +1,7 @@
 ---
 title: "Monotonic Stack Algorithms"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

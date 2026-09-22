@@ -1,7 +1,7 @@
 ---
 title: "Backtracking and Non-Deterministic Execution Trees"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

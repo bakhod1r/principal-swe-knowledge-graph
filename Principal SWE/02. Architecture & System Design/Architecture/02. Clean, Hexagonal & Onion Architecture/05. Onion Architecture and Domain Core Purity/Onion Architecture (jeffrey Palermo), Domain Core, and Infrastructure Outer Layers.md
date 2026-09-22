@@ -1,7 +1,7 @@
 ---
 title: Onion Architecture (jeffrey Palermo), Domain Core, and Infrastructure Outer Layers
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Onion Architecture (jeffrey Palermo), Domain Core, and Infrastructure Outer Laye
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

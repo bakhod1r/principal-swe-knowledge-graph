@@ -1,7 +1,7 @@
 ---
 title: "The AI Assisted Engineering Mindset: From Typist to Systems Architect"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ The AI Assisted Engineering Mindset: From Typist to Systems Architect
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

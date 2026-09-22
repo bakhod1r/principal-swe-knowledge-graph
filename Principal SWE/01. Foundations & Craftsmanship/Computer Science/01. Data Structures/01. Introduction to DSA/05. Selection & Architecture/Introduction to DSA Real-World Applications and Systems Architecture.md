@@ -1,7 +1,7 @@
 ---
 title: "Introduction to DSA Real-World Applications and Systems Architecture"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

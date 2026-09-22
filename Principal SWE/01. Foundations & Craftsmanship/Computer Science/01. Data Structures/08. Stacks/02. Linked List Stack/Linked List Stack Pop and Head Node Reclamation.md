@@ -1,7 +1,7 @@
 ---
 title: "Linked List Stack Pop and Head Node Reclamation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

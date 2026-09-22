@@ -1,7 +1,7 @@
 ---
 title: "Generic Builder & Functional Options Pattern"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

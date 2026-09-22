@@ -1,7 +1,7 @@
 ---
 title: Site Reliability Engineering (sre) Principles and Incident Command
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Site Reliability Engineering (sre) Principles and Incident Command
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: SQL Transactions and ACID Concurrency Control
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Transactions and ACID Concurrency Control
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

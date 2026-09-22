@@ -1,7 +1,7 @@
 ---
 title: "Segment Tree Beats Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

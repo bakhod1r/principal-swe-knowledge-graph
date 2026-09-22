@@ -1,7 +1,7 @@
 ---
 title: Cloudflare SSL TLS Modes (off, Flexible, Full, Full Strict)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare SSL TLS Modes (off, Flexible, Full, Full Strict)
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

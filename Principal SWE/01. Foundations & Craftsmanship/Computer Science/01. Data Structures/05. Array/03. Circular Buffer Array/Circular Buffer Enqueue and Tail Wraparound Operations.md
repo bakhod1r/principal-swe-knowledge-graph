@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Enqueue and Tail Wraparound Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

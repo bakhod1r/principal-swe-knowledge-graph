@@ -1,7 +1,7 @@
 ---
 title: "Space Amplification, Write Amplification, and Read Amplification (RUM Conjecture)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

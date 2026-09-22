@@ -1,7 +1,7 @@
 ---
 title: "Minimum Window Substring Algorithm (Character Match Counters)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

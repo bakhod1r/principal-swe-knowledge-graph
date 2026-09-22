@@ -1,7 +1,7 @@
 ---
 title: Single Sign on (sso), SAML 2.0, and Openid Connect (oidc) Federation
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance
@@ -34,4 +34,3 @@ Single Sign on (sso), SAML 2.0, and Openid Connect (oidc) Federation
 ## 🔗 References
 - ⬆️ Parent: [[Identity, Access Management & Zero Trust Governance]]
 - 📚 Module: `Cyber Security`
-

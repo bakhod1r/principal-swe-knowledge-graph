@@ -1,7 +1,7 @@
 ---
 title: Zero Trust Architecture (zta) Principles and Perimeterless Security
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models
@@ -34,4 +34,3 @@ Zero Trust Architecture (zta) Principles and Perimeterless Security
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations & Security Models]]
 - 📚 Module: `Cyber Security`
-

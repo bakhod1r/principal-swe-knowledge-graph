@@ -1,7 +1,7 @@
 ---
 title: SQL Indexing Strategies and B Tree Query Acceleration
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Indexing Strategies and B Tree Query Acceleration
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

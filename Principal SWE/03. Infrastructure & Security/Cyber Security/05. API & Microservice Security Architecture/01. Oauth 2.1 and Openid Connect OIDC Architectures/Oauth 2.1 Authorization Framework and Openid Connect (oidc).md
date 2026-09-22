@@ -1,7 +1,7 @@
 ---
 title: Oauth 2.1 Authorization Framework and Openid Connect (oidc)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Oauth 2.1 Authorization Framework and Openid Connect (oidc)
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

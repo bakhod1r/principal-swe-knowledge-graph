@@ -1,7 +1,7 @@
 ---
 title: "Largest Rectangle in Histogram (Single-Pass O(N) Stack)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: "Patricia Trie Radix Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

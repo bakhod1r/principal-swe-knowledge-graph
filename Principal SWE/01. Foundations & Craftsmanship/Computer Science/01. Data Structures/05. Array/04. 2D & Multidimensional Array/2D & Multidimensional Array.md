@@ -1,7 +1,7 @@
 ---
 title: "2D & Multidimensional Array"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

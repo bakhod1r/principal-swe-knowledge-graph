@@ -1,7 +1,7 @@
 ---
 title: "Relational Model and Database Foundations Storage Architecture and Implementation"
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems

@@ -1,7 +1,7 @@
 ---
 title: "Workload-Driven Data Structure Selection Framework"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

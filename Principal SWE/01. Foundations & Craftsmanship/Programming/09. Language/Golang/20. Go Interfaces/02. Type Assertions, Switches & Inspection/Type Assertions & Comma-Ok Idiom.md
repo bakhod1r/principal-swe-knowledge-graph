@@ -1,7 +1,7 @@
 ---
 title: "Type Assertions & Comma-Ok Idiom"
 tags:
-  - review
+
   - golang
   - methods-and-interfaces
   - principal-swe

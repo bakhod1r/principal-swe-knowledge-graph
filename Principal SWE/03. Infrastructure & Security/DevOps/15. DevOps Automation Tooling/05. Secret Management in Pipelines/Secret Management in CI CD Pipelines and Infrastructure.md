@@ -1,7 +1,7 @@
 ---
 title: Secret Management in CI CD Pipelines and Infrastructure
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Secret Management in CI CD Pipelines and Infrastructure
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

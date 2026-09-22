@@ -1,7 +1,7 @@
 ---
 title: "Open Lakehouse Table Formats: Apache Iceberg, Delta Lake, and Apache Hudi"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
@@ -34,4 +34,3 @@ Open Lakehouse Table Formats: Apache Iceberg, Delta Lake, and Apache Hudi
 ## 🔗 References
 - ⬆️ Parent: `Data Engineering, ETL Pipelines & Lakehouse Architecture`
 - 📚 Module: `AI & Machine Learning`
-

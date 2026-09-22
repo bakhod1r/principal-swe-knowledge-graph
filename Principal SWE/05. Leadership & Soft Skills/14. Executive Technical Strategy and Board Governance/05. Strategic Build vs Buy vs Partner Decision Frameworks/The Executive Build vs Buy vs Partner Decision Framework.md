@@ -1,7 +1,7 @@
 ---
 title: The Executive Build vs Buy vs Partner Decision Framework
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ The Executive Build vs Buy vs Partner Decision Framework
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

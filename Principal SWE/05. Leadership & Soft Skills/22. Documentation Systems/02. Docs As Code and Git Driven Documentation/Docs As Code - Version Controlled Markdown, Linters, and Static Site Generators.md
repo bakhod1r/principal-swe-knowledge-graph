@@ -1,7 +1,7 @@
 ---
 title: "Docs As Code: Version Controlled Markdown, Linters, and Static Site Generators"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Docs As Code: Version Controlled Markdown, Linters, and Static Site Generators
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

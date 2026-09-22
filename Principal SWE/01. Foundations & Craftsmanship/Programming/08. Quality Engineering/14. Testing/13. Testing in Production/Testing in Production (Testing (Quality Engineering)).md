@@ -1,7 +1,7 @@
 ---
 title: Testing in Production (Testing (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Testing in Production (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-

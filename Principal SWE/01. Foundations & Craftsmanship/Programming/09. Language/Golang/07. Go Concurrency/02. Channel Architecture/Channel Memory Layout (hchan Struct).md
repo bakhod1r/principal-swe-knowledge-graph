@@ -1,7 +1,7 @@
 ---
 title: "Channel Memory Layout (hchan Struct)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -523,17 +523,17 @@ it knows the element type is `MyStruct`.
 This information is important for operations involving:
 
 - element size
-    
+
 - copying
-    
+
 - garbage collection
-    
+
 - pointer scanning
-    
+
 - zeroing
-    
+
 - memory management
-    
+
 
 ---
 
@@ -955,19 +955,19 @@ Possible costs include:
 A channel operation may involve:
 
 - element copying
-    
+
 - synchronization
-    
+
 - cache-line contention
-    
+
 - goroutine parking
-    
+
 - goroutine wakeup
-    
+
 - scheduler activity
-    
+
 - garbage collector interaction
-    
+
 
 Therefore:
 
@@ -1078,23 +1078,23 @@ channel operation
 That model explains a large number of real-world problems:
 
 - goroutine leaks
-    
+
 - deadlocks
-    
+
 - blocked producers
-    
+
 - blocked consumers
-    
+
 - backpressure
-    
+
 - scheduler activity
-    
+
 - unexpected latency
-    
+
 - channel contention
-    
+
 - memory retention
-    
+
 
 ---
 

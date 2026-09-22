@@ -1,7 +1,7 @@
 ---
 title: Langgraph State Machine Architecture, Nodes, Edges, and Checkpointing
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Langgraph State Machine Architecture, Nodes, Edges, and Checkpointing
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

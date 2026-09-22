@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Allocator Arena Integration (jemalloc, TCMalloc)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

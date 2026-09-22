@@ -1,7 +1,7 @@
 ---
 title: "Statistical Analysis with benchstat"
 tags:
-  - review
+
   - golang
   - testing
   - principal-swe

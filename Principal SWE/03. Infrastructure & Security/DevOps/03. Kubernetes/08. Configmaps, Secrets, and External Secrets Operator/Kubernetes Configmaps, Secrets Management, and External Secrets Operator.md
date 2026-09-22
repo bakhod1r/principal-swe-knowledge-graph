@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Configmaps, Secrets Management, and External Secrets Operator
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Configmaps, Secrets Management, and External Secrets Operator
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

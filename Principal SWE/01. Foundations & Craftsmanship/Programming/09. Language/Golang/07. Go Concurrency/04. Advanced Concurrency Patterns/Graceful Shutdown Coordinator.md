@@ -1,7 +1,7 @@
 ---
 title: "Graceful Shutdown Coordinator"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

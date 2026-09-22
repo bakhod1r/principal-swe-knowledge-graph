@@ -1,7 +1,7 @@
 ---
 title: SQL Subqueries and Common Table Expressions (ctes)
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Subqueries and Common Table Expressions (ctes)
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

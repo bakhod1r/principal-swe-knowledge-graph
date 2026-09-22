@@ -1,7 +1,7 @@
 ---
 title: Host Based Packet Filtering, Nftables, and Network Micro Segmentation
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening
@@ -34,4 +34,3 @@ Host Based Packet Filtering, Nftables, and Network Micro Segmentation
 ## 🔗 References
 - ⬆️ Parent: [[Server Security & Infrastructure Hardening]]
 - 📚 Module: `Cyber Security`
-

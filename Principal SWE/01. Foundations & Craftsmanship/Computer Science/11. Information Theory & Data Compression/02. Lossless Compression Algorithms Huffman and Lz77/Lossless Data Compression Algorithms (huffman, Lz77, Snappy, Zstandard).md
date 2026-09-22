@@ -1,7 +1,7 @@
 ---
 title: Lossless Data Compression Algorithms (huffman, Lz77, Snappy, Zstandard)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression
@@ -34,4 +34,3 @@ Lossless Data Compression Algorithms (huffman, Lz77, Snappy, Zstandard)
 ## 🔗 References
 - ⬆️ Parent: [[Information Theory & Data Compression]]
 - 📚 Module: `Computer Science`
-

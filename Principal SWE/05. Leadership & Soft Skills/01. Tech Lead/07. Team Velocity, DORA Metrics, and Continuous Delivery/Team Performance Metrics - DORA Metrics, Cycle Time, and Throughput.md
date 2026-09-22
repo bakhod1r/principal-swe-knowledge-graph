@@ -1,7 +1,7 @@
 ---
 title: "Team Performance Metrics: DORA Metrics, Cycle Time, and Throughput"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Team Performance Metrics: DORA Metrics, Cycle Time, and Throughput
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

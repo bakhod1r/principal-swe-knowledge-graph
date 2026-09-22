@@ -1,7 +1,7 @@
 ---
 title: "Minimum Excluded Value (Mex) Definition and Axioms"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

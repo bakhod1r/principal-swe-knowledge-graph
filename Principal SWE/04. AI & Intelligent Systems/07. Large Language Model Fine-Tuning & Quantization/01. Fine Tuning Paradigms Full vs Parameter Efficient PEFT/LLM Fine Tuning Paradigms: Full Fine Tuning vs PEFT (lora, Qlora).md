@@ -1,7 +1,7 @@
 ---
 title: "LLM Fine Tuning Paradigms: Full Fine Tuning vs PEFT (lora, Qlora)"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ LLM Fine Tuning Paradigms: Full Fine Tuning vs PEFT (lora, Qlora)
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

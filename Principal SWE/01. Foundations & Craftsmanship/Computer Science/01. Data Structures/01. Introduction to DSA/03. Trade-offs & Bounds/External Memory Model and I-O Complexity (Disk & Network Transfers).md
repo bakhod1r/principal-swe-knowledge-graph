@@ -1,7 +1,7 @@
 ---
 title: "External Memory Model and I-O Complexity (Disk & Network Transfers)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

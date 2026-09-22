@@ -1,7 +1,7 @@
 ---
 title: "Non-Temporal Store Arrays (Direct-to-DRAM Streaming Stores)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

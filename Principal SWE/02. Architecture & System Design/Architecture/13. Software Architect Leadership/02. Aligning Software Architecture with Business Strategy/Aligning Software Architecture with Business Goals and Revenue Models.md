@@ -1,7 +1,7 @@
 ---
 title: Aligning Software Architecture with Business Goals and Revenue Models
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Aligning Software Architecture with Business Goals and Revenue Models
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Multiset Bag Invariants and Multiplicity Models"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "The Art of the 1 on 1: Coaching, Career Growth, and Listening"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Art of the 1 on 1: Coaching, Career Growth, and Listening
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

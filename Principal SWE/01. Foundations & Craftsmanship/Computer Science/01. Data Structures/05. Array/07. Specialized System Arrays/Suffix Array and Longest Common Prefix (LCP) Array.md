@@ -1,7 +1,7 @@
 ---
 title: "Suffix Array and Longest Common Prefix (LCP) Array"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

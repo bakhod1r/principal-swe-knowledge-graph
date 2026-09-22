@@ -1,7 +1,7 @@
 ---
 title: "Catch-All Generic Internal Error Anti-Pattern"
 tags:
-  - review
+
   - golang
   - error-handling
   - principal-swe

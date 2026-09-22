@@ -1,7 +1,7 @@
 ---
 title: "Crisis Leadership: Incident Command, on Call Health, and Stress Mitigation"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Crisis Leadership: Incident Command, on Call Health, and Stress Mitigation
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

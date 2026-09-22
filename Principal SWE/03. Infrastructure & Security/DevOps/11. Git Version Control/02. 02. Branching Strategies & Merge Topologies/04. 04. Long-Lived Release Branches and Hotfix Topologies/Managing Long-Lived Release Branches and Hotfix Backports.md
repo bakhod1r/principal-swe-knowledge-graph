@@ -1,7 +1,7 @@
 ---
 title: Managing Long-Lived Release Branches and Hotfix Backports
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Managing Long-Lived Release Branches and Hotfix Backports
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

@@ -1,7 +1,7 @@
 ---
 title: "Common Hash Table Algorithms & Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

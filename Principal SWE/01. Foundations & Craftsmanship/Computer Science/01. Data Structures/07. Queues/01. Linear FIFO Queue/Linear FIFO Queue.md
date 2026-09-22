@@ -1,7 +1,7 @@
 ---
 title: "Linear FIFO Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

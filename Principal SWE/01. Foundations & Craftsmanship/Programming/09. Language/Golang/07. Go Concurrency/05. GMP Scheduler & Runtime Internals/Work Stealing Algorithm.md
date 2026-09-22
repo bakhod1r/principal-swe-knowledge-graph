@@ -1,7 +1,7 @@
 ---
 title: "Work Stealing Algorithm"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

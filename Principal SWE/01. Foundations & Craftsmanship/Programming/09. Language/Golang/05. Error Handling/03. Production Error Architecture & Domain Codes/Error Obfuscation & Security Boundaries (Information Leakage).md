@@ -1,7 +1,7 @@
 ---
 title: "Error Obfuscation & Security Boundaries (Information Leakage)"
 tags:
-  - review
+
   - golang
   - error-handling
   - principal-swe

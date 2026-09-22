@@ -1,7 +1,7 @@
 ---
 title: "RESTful API Design: Resource Modeling, Http Verbs, Idempotency, and Hateoas"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ RESTful API Design: Resource Modeling, Http Verbs, Idempotency, and Hateoas
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

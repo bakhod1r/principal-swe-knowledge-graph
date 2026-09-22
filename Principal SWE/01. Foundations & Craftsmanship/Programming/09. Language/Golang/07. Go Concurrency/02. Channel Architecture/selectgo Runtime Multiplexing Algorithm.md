@@ -1,7 +1,7 @@
 ---
 title: "selectgo Runtime Multiplexing Algorithm"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -40,30 +40,30 @@ default:
 At least three things can happen:
 
 1. `ch1` is immediately receive-ready.
-    
+
 2. `ch2` is immediately send-ready.
-    
+
 3. Neither is ready.
-    
+
 
 The runtime must guarantee that:
 
 - only one case wins;
-    
+
 - channel operations remain synchronized;
-    
+
 - multiple goroutines cannot corrupt channel state;
-    
+
 - blocked goroutines eventually wake;
-    
+
 - `default` does not block;
-    
+
 - selection does not systematically favor earlier cases;
-    
+
 - closed channels behave correctly;
-    
+
 - send/receive semantics remain atomic.
-    
+
 
 This is substantially more complicated than a simple loop:
 
@@ -158,17 +158,17 @@ func selectgo(
 The exact implementation and surrounding details are version-dependent, but the important inputs are:
 
 - `cas0` — select cases
-    
+
 - `order0` — generated ordering storage
-    
+
 - `pc0` — program-counter information used by instrumentation
-    
+
 - `nsends` — number of send cases
-    
+
 - `nrecvs` — number of receive cases
-    
+
 - `block` — whether blocking is permitted
-    
+
 
 The runtime receives a representation of the select cases rather than repeatedly interpreting Go source syntax.
 
@@ -1114,25 +1114,25 @@ This is a **conceptual model**, not a copy of the runtime source.
 The actual runtime implementation contains substantially more machinery around:
 
 - race detection
-    
+
 - memory ordering
-    
+
 - tracing
-    
+
 - timers
-    
+
 - select case representation
-    
+
 - goroutine state
-    
+
 - waitq manipulation
-    
+
 - stack management
-    
+
 - instrumentation
-    
+
 - special-case optimizations.
-    
+
 
 ---
 

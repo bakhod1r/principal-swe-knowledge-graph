@@ -1,7 +1,7 @@
 ---
 title: Amazon EC2 Architecture, Instance Types, and Auto Scaling Groups (asg)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon EC2 Architecture, Instance Types, and Auto Scaling Groups (asg)
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

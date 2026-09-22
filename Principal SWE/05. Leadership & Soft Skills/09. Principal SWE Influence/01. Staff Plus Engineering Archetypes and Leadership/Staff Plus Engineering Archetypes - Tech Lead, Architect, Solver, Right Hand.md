@@ -1,7 +1,7 @@
 ---
 title: "Staff Plus Engineering Archetypes: Tech Lead, Architect, Solver, Right Hand"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Staff Plus Engineering Archetypes: Tech Lead, Architect, Solver, Right Hand
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Buffer Pool and Database Page Cache Management
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Buffer Pool and Database Page Cache Management
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

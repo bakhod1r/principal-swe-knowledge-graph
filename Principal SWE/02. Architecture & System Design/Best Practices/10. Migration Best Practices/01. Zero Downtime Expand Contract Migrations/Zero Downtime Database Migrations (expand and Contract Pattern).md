@@ -1,7 +1,7 @@
 ---
 title: Zero Downtime Database Migrations (expand and Contract Pattern)
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices
@@ -34,4 +34,3 @@ Zero Downtime Database Migrations (expand and Contract Pattern)
 ## 🔗 References
 - ⬆️ Parent: `Database Schema Design & Migration Best Practices`
 - 📚 Module: `Best Practices`
-

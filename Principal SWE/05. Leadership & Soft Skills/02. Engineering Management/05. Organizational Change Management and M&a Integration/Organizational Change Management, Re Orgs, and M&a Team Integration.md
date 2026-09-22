@@ -1,7 +1,7 @@
 ---
 title: Organizational Change Management, Re Orgs, and M&a Team Integration
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Organizational Change Management, Re Orgs, and M&a Team Integration
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

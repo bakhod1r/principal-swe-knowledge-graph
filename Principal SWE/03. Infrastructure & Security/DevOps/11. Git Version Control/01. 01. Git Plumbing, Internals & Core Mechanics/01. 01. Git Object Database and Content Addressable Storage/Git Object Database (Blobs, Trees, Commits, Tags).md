@@ -1,7 +1,7 @@
 ---
 title: Git Object Database (Blobs, Trees, Commits, Tags)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Object Database (Blobs, Trees, Commits, Tags)
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

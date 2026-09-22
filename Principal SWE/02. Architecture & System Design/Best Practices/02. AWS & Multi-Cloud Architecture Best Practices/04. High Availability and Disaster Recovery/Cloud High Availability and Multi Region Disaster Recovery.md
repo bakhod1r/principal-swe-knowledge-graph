@@ -1,7 +1,7 @@
 ---
 title: Cloud High Availability and Multi Region Disaster Recovery
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices
@@ -34,4 +34,3 @@ Cloud High Availability and Multi Region Disaster Recovery
 ## 🔗 References
 - ⬆️ Parent: [[AWS & Multi Cloud Architecture Best Practices]]
 - 📚 Module: `Best Practices`
-

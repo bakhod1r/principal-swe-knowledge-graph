@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Patterns: Command Encapsulation, Undo Redo, and Memento Snapshots"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Behavioral Patterns: Command Encapsulation, Undo Redo, and Memento Snapshots
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

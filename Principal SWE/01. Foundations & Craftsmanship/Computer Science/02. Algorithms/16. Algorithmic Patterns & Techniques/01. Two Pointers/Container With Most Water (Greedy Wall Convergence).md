@@ -1,7 +1,7 @@
 ---
 title: "Container With Most Water (Greedy Wall Convergence)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

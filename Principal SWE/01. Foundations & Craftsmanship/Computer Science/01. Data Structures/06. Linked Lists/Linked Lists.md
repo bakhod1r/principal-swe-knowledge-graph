@@ -1,7 +1,7 @@
 ---
 title: "Linked Lists"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

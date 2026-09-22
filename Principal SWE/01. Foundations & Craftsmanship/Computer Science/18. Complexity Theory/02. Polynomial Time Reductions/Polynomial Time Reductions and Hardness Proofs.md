@@ -1,7 +1,7 @@
 ---
 title: Polynomial Time Reductions and Hardness Proofs
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Polynomial Time Reductions and Hardness Proofs
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

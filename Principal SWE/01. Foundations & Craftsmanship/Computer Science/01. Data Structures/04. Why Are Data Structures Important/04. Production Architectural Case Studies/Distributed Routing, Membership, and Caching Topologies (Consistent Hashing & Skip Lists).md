@@ -1,7 +1,7 @@
 ---
 title: "Distributed Routing, Membership, and Caching Topologies (Consistent Hashing & Skip Lists)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

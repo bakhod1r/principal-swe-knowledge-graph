@@ -1,7 +1,7 @@
 ---
 title: "NUMA Nodes, Memory Busses, and Multi-Socket Latency"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Thoughtworks Technology Radars: Managing Tech Sprawl (adopt, Trial, Assess, Hold)"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Thoughtworks Technology Radars: Managing Tech Sprawl (adopt, Trial, Assess, Hold
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

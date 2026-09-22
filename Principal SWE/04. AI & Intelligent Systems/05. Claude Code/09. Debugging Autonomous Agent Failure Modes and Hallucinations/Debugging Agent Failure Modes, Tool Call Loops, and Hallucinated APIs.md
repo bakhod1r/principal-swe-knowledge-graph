@@ -1,7 +1,7 @@
 ---
 title: Debugging Agent Failure Modes, Tool Call Loops, and Hallucinated APIs
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling
@@ -34,4 +34,3 @@ Debugging Agent Failure Modes, Tool Call Loops, and Hallucinated APIs
 ## 🔗 References
 - ⬆️ Parent: `Claude Code, Subagents, Model Context Protocol MCP & Tooling`
 - 📚 Module: `AI & Machine Learning`
-

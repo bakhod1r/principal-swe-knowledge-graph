@@ -1,7 +1,7 @@
 ---
 title: "Next Smaller Element (NSE) and Previous Smaller Element"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

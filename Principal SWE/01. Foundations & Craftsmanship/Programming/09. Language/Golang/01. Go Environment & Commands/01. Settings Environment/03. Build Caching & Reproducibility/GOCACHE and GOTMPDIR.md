@@ -1,7 +1,7 @@
 ---
 title: "GOCACHE and GOTMPDIR"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe

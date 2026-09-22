@@ -1,7 +1,7 @@
 ---
 title: Honest Estimation, Precision vs Accuracy, and Firm Commitments
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Honest Estimation, Precision vs Accuracy, and Firm Commitments
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

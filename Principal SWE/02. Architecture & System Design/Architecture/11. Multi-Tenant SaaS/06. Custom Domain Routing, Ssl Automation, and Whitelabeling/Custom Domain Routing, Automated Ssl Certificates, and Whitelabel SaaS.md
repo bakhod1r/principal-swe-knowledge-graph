@@ -1,7 +1,7 @@
 ---
 title: Custom Domain Routing, Automated Ssl Certificates, and Whitelabel SaaS
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Custom Domain Routing, Automated Ssl Certificates, and Whitelabel SaaS
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

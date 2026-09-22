@@ -1,7 +1,7 @@
 ---
 title: Peer to Peer (p2p) Topologies, Distributed Hash Tables (dht), and Gossip
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Peer to Peer (p2p) Topologies, Distributed Hash Tables (dht), and Gossip
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

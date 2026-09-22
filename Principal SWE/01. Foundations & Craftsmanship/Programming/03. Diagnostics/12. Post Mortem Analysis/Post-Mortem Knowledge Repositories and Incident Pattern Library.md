@@ -1,7 +1,7 @@
 ---
 title: "Post-Mortem Knowledge Repositories and Incident Pattern Library"
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe

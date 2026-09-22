@@ -1,7 +1,7 @@
 ---
 title: "Hazard Pointers Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

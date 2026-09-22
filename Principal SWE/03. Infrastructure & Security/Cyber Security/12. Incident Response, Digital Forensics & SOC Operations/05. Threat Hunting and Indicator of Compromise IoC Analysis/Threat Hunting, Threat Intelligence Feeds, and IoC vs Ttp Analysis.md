@@ -1,7 +1,7 @@
 ---
 title: Threat Hunting, Threat Intelligence Feeds, and IoC vs Ttp Analysis
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations
@@ -34,4 +34,3 @@ Threat Hunting, Threat Intelligence Feeds, and IoC vs Ttp Analysis
 ## 🔗 References
 - ⬆️ Parent: [[Incident Response, Digital Forensics & Soc Operations]]
 - 📚 Module: `Cyber Security`
-

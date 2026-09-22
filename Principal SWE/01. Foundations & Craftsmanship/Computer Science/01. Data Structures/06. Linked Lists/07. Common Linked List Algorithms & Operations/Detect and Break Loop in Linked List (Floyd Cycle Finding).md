@@ -1,7 +1,7 @@
 ---
 title: "Detect and Break Loop in Linked List (Floyd Cycle Finding)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

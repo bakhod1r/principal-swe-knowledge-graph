@@ -1,7 +1,7 @@
 ---
 title: Data Versioning, Pipeline Lineage, and Data Version Control (dvc)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Data Versioning, Pipeline Lineage, and Data Version Control (dvc)
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

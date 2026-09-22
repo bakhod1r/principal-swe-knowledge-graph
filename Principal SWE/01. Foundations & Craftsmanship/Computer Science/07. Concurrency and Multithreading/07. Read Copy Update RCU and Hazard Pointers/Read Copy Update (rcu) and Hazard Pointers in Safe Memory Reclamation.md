@@ -1,7 +1,7 @@
 ---
 title: Read Copy Update (rcu) and Hazard Pointers in Safe Memory Reclamation
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Read Copy Update (rcu) and Hazard Pointers in Safe Memory Reclamation
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

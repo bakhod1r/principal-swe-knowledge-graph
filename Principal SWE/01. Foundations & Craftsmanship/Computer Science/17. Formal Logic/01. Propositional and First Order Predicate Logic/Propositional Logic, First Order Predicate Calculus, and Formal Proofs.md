@@ -1,7 +1,7 @@
 ---
 title: Propositional Logic, First Order Predicate Calculus, and Formal Proofs
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Propositional Logic, First Order Predicate Calculus, and Formal Proofs
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

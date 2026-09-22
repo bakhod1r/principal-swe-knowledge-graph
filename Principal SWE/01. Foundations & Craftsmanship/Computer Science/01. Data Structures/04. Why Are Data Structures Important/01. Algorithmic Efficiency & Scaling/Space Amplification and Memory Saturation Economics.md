@@ -1,7 +1,7 @@
 ---
 title: "Space Amplification and Memory Saturation Economics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

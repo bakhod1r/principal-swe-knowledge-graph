@@ -1,7 +1,7 @@
 ---
 title: "GOVCS Version Control Policy"
 tags:
-  - review
+
   - golang
   - dependencies
   - principal-swe

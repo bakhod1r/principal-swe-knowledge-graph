@@ -1,7 +1,7 @@
 ---
 title: "Memory Hierarchy, Cache Lines, and Data Locality"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

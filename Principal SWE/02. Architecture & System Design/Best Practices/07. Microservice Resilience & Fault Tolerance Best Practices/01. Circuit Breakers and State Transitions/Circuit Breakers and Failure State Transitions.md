@@ -1,7 +1,7 @@
 ---
 title: Circuit Breakers and Failure State Transitions
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices
@@ -34,4 +34,3 @@ Circuit Breakers and Failure State Transitions
 ## 🔗 References
 - ⬆️ Parent: [[Microservice Resilience & Fault Tolerance Best Practices]]
 - 📚 Module: `Best Practices`
-

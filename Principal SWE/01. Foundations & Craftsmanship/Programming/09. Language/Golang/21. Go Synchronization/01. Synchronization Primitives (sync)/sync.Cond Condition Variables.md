@@ -1,7 +1,7 @@
 ---
 title: "sync.Cond Condition Variables"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

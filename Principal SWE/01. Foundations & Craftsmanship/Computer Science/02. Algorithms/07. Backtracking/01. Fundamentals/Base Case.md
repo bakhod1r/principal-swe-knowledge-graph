@@ -1,7 +1,7 @@
 ---
 title: "Base Case"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

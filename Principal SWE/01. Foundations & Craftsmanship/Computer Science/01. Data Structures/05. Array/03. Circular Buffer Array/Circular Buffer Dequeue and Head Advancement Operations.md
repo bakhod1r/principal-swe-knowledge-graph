@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Dequeue and Head Advancement Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

@@ -1,7 +1,7 @@
 ---
 title: "sudog Wait Queue Architecture"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -45,17 +45,17 @@ because there is no value available yet.
 The runtime needs to:
 
 1. identify the waiting goroutine;
-    
+
 2. put it somewhere;
-    
+
 3. remove it from runnable execution;
-    
+
 4. remember what operation it was waiting for;
-    
+
 5. later find it;
-    
+
 6. wake it when a sender provides a value.
-    
+
 
 A goroutine alone is not enough to efficiently represent all this queue state.
 
@@ -482,19 +482,19 @@ Because synchronization requires more information than merely:
 The runtime may need to associate the waiting goroutine with:
 
 - the synchronization object;
-    
+
 - the memory location involved;
-    
+
 - queue linkage;
-    
+
 - wait timing;
-    
+
 - wake-up state;
-    
+
 - select-related state;
-    
+
 - other synchronization bookkeeping.
-    
+
 
 So:
 
@@ -621,13 +621,13 @@ object becomes garbage
 you would introduce unnecessary:
 
 - allocations;
-    
+
 - GC pressure;
-    
+
 - memory traffic;
-    
+
 - synchronization overhead.
-    
+
 
 Runtime-managed reuse helps avoid this cost.
 

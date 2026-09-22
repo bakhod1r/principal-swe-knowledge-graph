@@ -1,7 +1,7 @@
 ---
 title: Transactions (Mongodb & Document Stores)
 tags:
-  - review
+
   - backend
   - architecture
   - mongodb-and-document-stores
@@ -34,4 +34,3 @@ Transactions (Mongodb & Document Stores)
 ## 🔗 References
 - ⬆️ Parent: [[Mongodb & Document Stores]]
 - 📚 Module: `Databases`
-

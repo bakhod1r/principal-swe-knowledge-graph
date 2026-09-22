@@ -1,7 +1,7 @@
 ---
 title: Graphics Rendering Pipeline, Shaders, and Compute Shaders (vulkan Directx)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing
@@ -34,4 +34,3 @@ Graphics Rendering Pipeline, Shaders, and Compute Shaders (vulkan Directx)
 ## 🔗 References
 - ⬆️ Parent: [[GPU Architecture & High Performance Parallel Computing]]
 - 📚 Module: `Computer Science`
-

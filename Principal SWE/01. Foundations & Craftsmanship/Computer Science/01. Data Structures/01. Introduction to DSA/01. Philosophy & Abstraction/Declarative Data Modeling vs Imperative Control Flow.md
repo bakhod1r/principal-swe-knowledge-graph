@@ -1,7 +1,7 @@
 ---
 title: "Declarative Data Modeling vs Imperative Control Flow"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe
@@ -13,7 +13,7 @@ This distinction is fundamental to understanding **SQL, configuration systems, A
 
 The shortest mental model is:
 
-> **Declarative:** describe **what the desired result/state is**.  
+> **Declarative:** describe **what the desired result/state is**.
 > **Imperative:** describe **how to produce that result/state step by step**.
 
 ---
@@ -39,15 +39,15 @@ for i := 1; i <= 10; i++ {
 You explicitly control:
 
 1. initialization
-    
+
 2. iteration
-    
+
 3. condition checking
-    
+
 4. mutation
-    
+
 5. insertion
-    
+
 
 The program describes **control flow**.
 

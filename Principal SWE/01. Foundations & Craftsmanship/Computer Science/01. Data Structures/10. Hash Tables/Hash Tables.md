@@ -1,7 +1,7 @@
 ---
 title: "Hash Tables"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

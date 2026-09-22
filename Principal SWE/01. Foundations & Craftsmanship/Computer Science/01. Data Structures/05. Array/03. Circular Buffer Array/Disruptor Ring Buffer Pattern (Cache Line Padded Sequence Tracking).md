@@ -1,7 +1,7 @@
 ---
 title: "Disruptor Ring Buffer Pattern (Cache Line Padded Sequence Tracking)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

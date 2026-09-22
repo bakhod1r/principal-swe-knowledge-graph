@@ -1,7 +1,7 @@
 ---
 title: SQL Standards, Ddl, Dml, and Advanced Dialects
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ SQL Standards, Ddl, Dml, and Advanced Dialects
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

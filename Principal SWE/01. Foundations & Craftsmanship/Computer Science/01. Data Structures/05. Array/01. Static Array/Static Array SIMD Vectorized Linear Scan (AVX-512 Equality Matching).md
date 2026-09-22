@@ -1,7 +1,7 @@
 ---
 title: "Static Array SIMD Vectorized Linear Scan (AVX-512 Equality Matching)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

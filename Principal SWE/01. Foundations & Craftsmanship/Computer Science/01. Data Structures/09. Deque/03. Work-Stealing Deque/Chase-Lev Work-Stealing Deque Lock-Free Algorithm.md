@@ -1,7 +1,7 @@
 ---
 title: "Chase-Lev Work-Stealing Deque Lock-Free Algorithm"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

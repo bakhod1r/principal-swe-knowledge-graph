@@ -1,7 +1,7 @@
 ---
 title: "Map Remove and Delete by Key"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "SIMD Vector Lanes and Data-Parallel Hardware Alignment"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

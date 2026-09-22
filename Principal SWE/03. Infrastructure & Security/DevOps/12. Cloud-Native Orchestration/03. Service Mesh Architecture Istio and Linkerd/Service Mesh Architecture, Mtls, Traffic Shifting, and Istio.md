@@ -1,7 +1,7 @@
 ---
 title: Service Mesh Architecture, Mtls, Traffic Shifting, and Istio
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Service Mesh Architecture, Mtls, Traffic Shifting, and Istio
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

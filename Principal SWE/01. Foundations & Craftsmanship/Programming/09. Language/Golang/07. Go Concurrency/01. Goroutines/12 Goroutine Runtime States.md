@@ -1,7 +1,7 @@
 ---
 title: "12 Goroutine Runtime States"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -12,9 +12,9 @@ parent: "[[Goroutines]]"
 To understand goroutines at a **runtime level**, first separate two concepts:
 
 - **Goroutine (`G`)** — Go runtime's logical execution unit.
-    
+
 - **OS thread (`M`)** — actual operating-system thread that executes Go code.
-    
+
 - **Processor (`P`)** — runtime resource required for a goroutine to execute Go code.
 
 A goroutine can move between several runtime states as the scheduler manages it.
@@ -367,9 +367,9 @@ Conceptually:
 It exists because the runtime needs to represent both:
 
 1. the goroutine's scheduler state, and
-    
+
 2. GC coordination state.
-    
+
 
 This is an important distinction when reading Go runtime source code.
 

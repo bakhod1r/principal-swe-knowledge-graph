@@ -1,7 +1,7 @@
 ---
 title: "Object Pool Pattern (sync.Pool)"
 tags:
-  - review
+
   - golang
   - design-patterns
   - principal-swe

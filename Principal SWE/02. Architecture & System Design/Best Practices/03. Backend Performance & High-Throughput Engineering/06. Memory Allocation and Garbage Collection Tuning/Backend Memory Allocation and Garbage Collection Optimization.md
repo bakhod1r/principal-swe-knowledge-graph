@@ -1,7 +1,7 @@
 ---
 title: Backend Memory Allocation and Garbage Collection Optimization
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering
@@ -34,4 +34,3 @@ Backend Memory Allocation and Garbage Collection Optimization
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance & High Throughput Engineering]]
 - 📚 Module: `Best Practices`
-

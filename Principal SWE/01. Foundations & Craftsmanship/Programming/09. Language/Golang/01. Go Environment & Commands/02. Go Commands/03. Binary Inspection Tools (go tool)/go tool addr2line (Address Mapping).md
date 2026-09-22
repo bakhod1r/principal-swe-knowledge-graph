@@ -1,7 +1,7 @@
 ---
 title: "go tool addr2line (Address Mapping)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

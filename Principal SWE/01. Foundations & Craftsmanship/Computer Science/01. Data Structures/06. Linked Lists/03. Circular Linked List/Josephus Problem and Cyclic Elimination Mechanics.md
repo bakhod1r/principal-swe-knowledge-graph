@@ -1,7 +1,7 @@
 ---
 title: "Josephus Problem and Cyclic Elimination Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

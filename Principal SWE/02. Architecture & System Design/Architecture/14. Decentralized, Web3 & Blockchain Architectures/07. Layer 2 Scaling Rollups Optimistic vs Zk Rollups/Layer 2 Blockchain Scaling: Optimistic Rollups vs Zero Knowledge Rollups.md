@@ -1,7 +1,7 @@
 ---
 title: "Layer 2 Blockchain Scaling: Optimistic Rollups vs Zero Knowledge Rollups"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures
@@ -34,4 +34,3 @@ Layer 2 Blockchain Scaling: Optimistic Rollups vs Zero Knowledge Rollups
 ## 🔗 References
 - ⬆️ Parent: [[Decentralized, Web3 & Blockchain Architectures]]
 - 📚 Module: `Architecture`
-

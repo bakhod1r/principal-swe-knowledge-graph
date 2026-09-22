@@ -1,7 +1,7 @@
 ---
 title: Probability Distributions, Bayesian Inference, and Markov Chain Monte Carlo
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics
@@ -34,4 +34,3 @@ Probability Distributions, Bayesian Inference, and Markov Chain Monte Carlo
 ## 🔗 References
 - ⬆️ Parent: `AI Data Science, Statistical Modeling & Econometrics`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Probe Sequence Length (PSL) Variance Reduction Proof"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

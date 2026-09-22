@@ -1,7 +1,7 @@
 ---
 title: "Mitigating the Noisy Neighbor Problem: Fair Share Queuing and Rate Limiting"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Mitigating the Noisy Neighbor Problem: Fair Share Queuing and Rate Limiting
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Cloud KMS Envelope Encryption (AWS KMS, GCP KMS)"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

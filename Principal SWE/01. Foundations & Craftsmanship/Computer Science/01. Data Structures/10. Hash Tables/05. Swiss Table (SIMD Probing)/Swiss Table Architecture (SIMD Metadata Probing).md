@@ -1,7 +1,7 @@
 ---
 title: "Swiss Table Architecture (SIMD Metadata Probing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

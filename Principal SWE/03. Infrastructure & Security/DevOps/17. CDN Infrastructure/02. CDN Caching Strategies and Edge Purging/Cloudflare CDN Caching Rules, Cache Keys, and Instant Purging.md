@@ -1,7 +1,7 @@
 ---
 title: Cloudflare CDN Caching Rules, Cache Keys, and Instant Purging
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare CDN Caching Rules, Cache Keys, and Instant Purging
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

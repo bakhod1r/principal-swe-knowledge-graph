@@ -1,7 +1,7 @@
 ---
 title: "Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Workspaces"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Cursor IDE Mastery: Composer Workflows, Multi File Generation, and Shadow Worksp
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

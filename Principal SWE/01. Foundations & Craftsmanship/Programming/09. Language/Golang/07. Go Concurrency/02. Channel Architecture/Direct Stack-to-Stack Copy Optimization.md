@@ -1,7 +1,7 @@
 ---
 title: "Direct Stack-to-Stack Copy Optimization"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -768,15 +768,15 @@ receiver destination
 Remember these five points:
 
 1. **Direct stack-to-stack transfer is a runtime optimization.**
-    
+
 2. It is most relevant to **synchronous/unbuffered channel rendezvous**.
-    
+
 3. It can bypass an **intermediate channel buffer**.
-    
+
 4. It is **not zero-copy**; the value still has to be copied.
-    
+
 5. "Lockless" should not be interpreted as **"channel synchronization has no locks."**
-    
+
 
 The most important mental model is:
 

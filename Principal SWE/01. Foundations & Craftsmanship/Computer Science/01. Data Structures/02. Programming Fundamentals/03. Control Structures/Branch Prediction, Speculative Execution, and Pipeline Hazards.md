@@ -1,7 +1,7 @@
 ---
 title: "Branch Prediction, Speculative Execution, and Pipeline Hazards"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

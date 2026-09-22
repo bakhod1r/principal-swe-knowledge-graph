@@ -1,7 +1,7 @@
 ---
 title: "Branch and Bound"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

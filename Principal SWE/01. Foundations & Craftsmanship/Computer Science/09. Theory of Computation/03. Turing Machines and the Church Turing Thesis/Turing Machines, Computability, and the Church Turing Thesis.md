@@ -1,7 +1,7 @@
 ---
 title: Turing Machines, Computability, and the Church Turing Thesis
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Turing Machines, Computability, and the Church Turing Thesis
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

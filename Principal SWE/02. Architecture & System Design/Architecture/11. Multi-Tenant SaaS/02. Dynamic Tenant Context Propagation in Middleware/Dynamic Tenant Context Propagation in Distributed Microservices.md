@@ -1,7 +1,7 @@
 ---
 title: Dynamic Tenant Context Propagation in Distributed Microservices
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Dynamic Tenant Context Propagation in Distributed Microservices
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

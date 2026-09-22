@@ -1,7 +1,7 @@
 ---
 title: "DSU Find and Union Operations (State Transitions)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

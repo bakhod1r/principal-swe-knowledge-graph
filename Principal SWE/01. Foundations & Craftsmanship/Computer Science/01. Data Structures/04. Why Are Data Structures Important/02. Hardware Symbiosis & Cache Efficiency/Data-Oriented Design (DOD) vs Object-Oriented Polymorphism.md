@@ -1,7 +1,7 @@
 ---
 title: "Data-Oriented Design (DOD) vs Object-Oriented Polymorphism"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

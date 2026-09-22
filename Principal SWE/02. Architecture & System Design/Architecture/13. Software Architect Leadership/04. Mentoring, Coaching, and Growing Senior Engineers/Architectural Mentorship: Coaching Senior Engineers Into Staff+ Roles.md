@@ -1,7 +1,7 @@
 ---
 title: "Architectural Mentorship: Coaching Senior Engineers Into Staff+ Roles"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Architectural Mentorship: Coaching Senior Engineers Into Staff+ Roles
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

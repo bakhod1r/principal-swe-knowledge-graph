@@ -1,7 +1,7 @@
 ---
 title: "Bit Set for Graph Adjacency Bitmaps and Reachability Queries"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

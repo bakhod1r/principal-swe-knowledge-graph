@@ -1,7 +1,7 @@
 ---
 title: "Level-Order Binary Tree Traversal using Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

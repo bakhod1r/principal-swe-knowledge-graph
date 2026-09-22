@@ -1,7 +1,7 @@
 ---
 title: The Happens Before Relationship and Memory Visibility
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ The Happens Before Relationship and Memory Visibility
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

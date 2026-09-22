@@ -1,7 +1,7 @@
 ---
 title: Cognitive Load (Sociotechnical Org Design)
 tags:
-  - review
+
   - distributed-systems
   - principal-swe
 parent: "[[Sociotechnical Org Design]]"
@@ -31,4 +31,3 @@ Cognitive Load (Sociotechnical Org Design)
 
 ## 🔗 References
 - ⬆️ Parent: [[Sociotechnical Org Design]]
-

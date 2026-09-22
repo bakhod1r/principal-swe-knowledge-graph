@@ -1,7 +1,7 @@
 ---
 title: "RAG Evaluation Frameworks: Ragas (faithfulness, Answer Relevance, Context Precision)"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ RAG Evaluation Frameworks: Ragas (faithfulness, Answer Relevance, Context Precis
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

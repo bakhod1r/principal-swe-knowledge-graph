@@ -1,7 +1,7 @@
 ---
 title: Security Architecture Review and Threat Invariant Verification
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees
@@ -34,4 +34,3 @@ Security Architecture Review and Threat Invariant Verification
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling, Risk Assessment & Attack Trees]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Engineering Knowledge Systems: Structuring Team Wikis and Obsidian Vaults"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Engineering Knowledge Systems: Structuring Team Wikis and Obsidian Vaults
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

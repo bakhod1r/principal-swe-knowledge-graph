@@ -1,7 +1,7 @@
 ---
 title: Microvms and Sandboxed Container Runtimes (firecracker, Gvisor, Kata)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Microvms and Sandboxed Container Runtimes (firecracker, Gvisor, Kata)
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

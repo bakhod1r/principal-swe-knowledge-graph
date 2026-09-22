@@ -1,7 +1,7 @@
 ---
 title: Agent Code Execution Sandboxes (docker, E2b, Firecracker, Wasm)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Agent Code Execution Sandboxes (docker, E2b, Firecracker, Wasm)
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Syntax Abstract Syntax Tree (AST) Generation via Operator Stacks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Public Key Infrastructure (pki), X.509, and Certificate Lifecycles
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management
@@ -34,4 +34,3 @@ Public Key Infrastructure (pki), X.509, and Certificate Lifecycles
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography, PKI & Key Management]]
 - 📚 Module: `Cyber Security`
-

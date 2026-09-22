@@ -1,7 +1,7 @@
 ---
 title: "Class Invariants and Structural Integrity Validation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

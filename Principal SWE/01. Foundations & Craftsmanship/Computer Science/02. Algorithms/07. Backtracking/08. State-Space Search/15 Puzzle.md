@@ -1,7 +1,7 @@
 ---
 title: "15 Puzzle"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

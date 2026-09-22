@@ -1,7 +1,7 @@
 ---
 title: "Static Array Append and Fixed-Capacity Overflow Invariant"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

@@ -1,7 +1,7 @@
 ---
 title: "Building Psychological Safety in Engineering Teams: Amy Edmondson Model"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Building Psychological Safety in Engineering Teams: Amy Edmondson Model
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

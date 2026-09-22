@@ -1,7 +1,7 @@
 ---
 title: "Contract-Driven Design and Interface Signatures in Systems Languages"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

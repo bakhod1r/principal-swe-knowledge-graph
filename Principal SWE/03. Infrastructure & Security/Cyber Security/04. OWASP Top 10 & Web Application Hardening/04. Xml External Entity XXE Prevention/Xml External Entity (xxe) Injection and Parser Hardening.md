@@ -1,7 +1,7 @@
 ---
 title: Xml External Entity (xxe) Injection and Parser Hardening
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Xml External Entity (xxe) Injection and Parser Hardening
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

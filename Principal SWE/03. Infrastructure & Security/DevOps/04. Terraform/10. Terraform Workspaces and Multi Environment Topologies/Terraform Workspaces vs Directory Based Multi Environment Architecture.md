@@ -1,7 +1,7 @@
 ---
 title: Terraform Workspaces vs Directory Based Multi Environment Architecture
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Workspaces vs Directory Based Multi Environment Architecture
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

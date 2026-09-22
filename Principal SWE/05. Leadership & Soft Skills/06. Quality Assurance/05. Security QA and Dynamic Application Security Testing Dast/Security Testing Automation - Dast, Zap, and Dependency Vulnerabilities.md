@@ -1,7 +1,7 @@
 ---
 title: "Security Testing Automation: Dast, Zap, and Dependency Vulnerabilities"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Security Testing Automation: Dast, Zap, and Dependency Vulnerabilities
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

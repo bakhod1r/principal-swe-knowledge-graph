@@ -1,7 +1,7 @@
 ---
 title: Idempotent Message Receiver and Enterprise Process Manager
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Idempotent Message Receiver and Enterprise Process Manager
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

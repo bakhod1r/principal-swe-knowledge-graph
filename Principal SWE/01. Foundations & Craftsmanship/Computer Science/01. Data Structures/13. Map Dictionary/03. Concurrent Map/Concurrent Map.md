@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Map"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

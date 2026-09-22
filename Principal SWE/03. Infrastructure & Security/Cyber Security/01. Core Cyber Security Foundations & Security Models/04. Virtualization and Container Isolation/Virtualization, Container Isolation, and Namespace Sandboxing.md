@@ -1,7 +1,7 @@
 ---
 title: Virtualization, Container Isolation, and Namespace Sandboxing
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models
@@ -34,4 +34,3 @@ Virtualization, Container Isolation, and Namespace Sandboxing
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations & Security Models]]
 - 📚 Module: `Cyber Security`
-

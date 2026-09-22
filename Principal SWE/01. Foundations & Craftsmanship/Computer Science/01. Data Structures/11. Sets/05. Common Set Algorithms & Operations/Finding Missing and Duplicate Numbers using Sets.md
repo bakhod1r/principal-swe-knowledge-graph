@@ -1,7 +1,7 @@
 ---
 title: "Finding Missing and Duplicate Numbers using Sets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

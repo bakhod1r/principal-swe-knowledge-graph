@@ -1,7 +1,7 @@
 ---
 title: "Deterministic Time-Travel Debugging (Record and Replay)"
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe

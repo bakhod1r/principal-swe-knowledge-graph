@@ -1,7 +1,7 @@
 ---
 title: "Proactor Pattern: Asynchronous Event Dispatching and Completion Handlers"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Proactor Pattern: Asynchronous Event Dispatching and Completion Handlers
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

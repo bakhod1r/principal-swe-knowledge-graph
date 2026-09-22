@@ -1,7 +1,7 @@
 ---
 title: GitHub Actions Workflow Syntax, Event Triggers, and Contexts
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Actions Workflow Syntax, Event Triggers, and Contexts
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions CI-CD & Workflow Automation]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

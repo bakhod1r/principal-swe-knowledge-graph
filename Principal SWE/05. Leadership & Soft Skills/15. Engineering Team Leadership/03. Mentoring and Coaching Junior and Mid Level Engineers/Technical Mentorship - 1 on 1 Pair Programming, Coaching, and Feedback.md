@@ -1,7 +1,7 @@
 ---
 title: "Technical Mentorship: 1 on 1 Pair Programming, Coaching, and Feedback"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Technical Mentorship: 1 on 1 Pair Programming, Coaching, and Feedback
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Time vs Space vs Engineering Simplicity Trade-offs"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

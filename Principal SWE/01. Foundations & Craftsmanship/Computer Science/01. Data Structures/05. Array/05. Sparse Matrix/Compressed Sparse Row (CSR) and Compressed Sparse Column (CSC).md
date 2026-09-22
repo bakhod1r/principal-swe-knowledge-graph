@@ -1,7 +1,7 @@
 ---
 title: "Compressed Sparse Row (CSR) and Compressed Sparse Column (CSC)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

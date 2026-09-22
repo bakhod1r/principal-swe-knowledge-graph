@@ -1,7 +1,7 @@
 ---
 title: Production Container Troubleshooting and Failure Mode Analysis
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Production Container Troubleshooting and Failure Mode Analysis
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

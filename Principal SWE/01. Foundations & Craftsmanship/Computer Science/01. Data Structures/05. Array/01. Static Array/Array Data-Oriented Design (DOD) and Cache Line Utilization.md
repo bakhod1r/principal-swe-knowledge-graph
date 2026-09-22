@@ -1,7 +1,7 @@
 ---
 title: "Array Data-Oriented Design (DOD) and Cache Line Utilization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

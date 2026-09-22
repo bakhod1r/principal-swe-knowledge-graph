@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Delete Node with O(1) Pointer Handle"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

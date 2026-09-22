@@ -1,7 +1,7 @@
 ---
 title: "Cycle Detection in Undirected Graph using Disjoint Sets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "go version Build Metadata"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

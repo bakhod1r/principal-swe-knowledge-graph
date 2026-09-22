@@ -1,7 +1,7 @@
 ---
 title: "Bit Parallel Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

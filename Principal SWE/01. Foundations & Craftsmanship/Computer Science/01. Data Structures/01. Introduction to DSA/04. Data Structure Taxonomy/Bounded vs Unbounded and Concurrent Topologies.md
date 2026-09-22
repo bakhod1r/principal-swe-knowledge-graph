@@ -1,7 +1,7 @@
 ---
 title: "Bounded vs Unbounded and Concurrent Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

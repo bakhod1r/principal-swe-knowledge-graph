@@ -1,7 +1,7 @@
 ---
 title: Git Configuration Scopes (System, Global, Local, Worktree)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Configuration Scopes (System, Global, Local, Worktree)
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

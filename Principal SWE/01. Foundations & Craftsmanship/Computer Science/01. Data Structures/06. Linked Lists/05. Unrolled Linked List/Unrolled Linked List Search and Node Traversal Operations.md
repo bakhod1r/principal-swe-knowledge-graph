@@ -1,7 +1,7 @@
 ---
 title: "Unrolled Linked List Search and Node Traversal Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

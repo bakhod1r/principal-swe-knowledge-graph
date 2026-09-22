@@ -1,7 +1,7 @@
 ---
 title: CRDTs and Multi Master Causality Tracking
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ CRDTs and Multi Master Causality Tracking
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: Cloud Cost Optimization and Finops Engineering Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices
@@ -34,4 +34,3 @@ Cloud Cost Optimization and Finops Engineering Standards
 ## 🔗 References
 - ⬆️ Parent: [[AWS & Multi Cloud Architecture Best Practices]]
 - 📚 Module: `Best Practices`
-

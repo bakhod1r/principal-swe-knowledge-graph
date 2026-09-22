@@ -1,7 +1,7 @@
 ---
 title: "Linux Backup Utilities: Tar, Gzip, Rsync, and Rclone"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Backup Utilities: Tar, Gzip, Rsync, and Rclone
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

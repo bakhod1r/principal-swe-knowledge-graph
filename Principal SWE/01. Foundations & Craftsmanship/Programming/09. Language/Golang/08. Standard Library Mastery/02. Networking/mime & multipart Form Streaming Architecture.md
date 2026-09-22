@@ -1,7 +1,7 @@
 ---
 title: "mime & multipart Form Streaming Architecture"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

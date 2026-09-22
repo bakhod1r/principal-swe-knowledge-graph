@@ -1,7 +1,7 @@
 ---
 title: Idempotent Consumer Pattern and Message Deduplication Strategies
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)
@@ -34,4 +34,3 @@ Idempotent Consumer Pattern and Message Deduplication Strategies
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Patterns (cqrs, Event Sourcing, Sagas)]]
 - 📚 Module: `Architecture`
-

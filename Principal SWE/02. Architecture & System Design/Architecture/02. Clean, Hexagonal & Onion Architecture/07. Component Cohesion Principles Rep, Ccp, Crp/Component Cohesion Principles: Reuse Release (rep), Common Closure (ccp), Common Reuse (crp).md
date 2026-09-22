@@ -1,7 +1,7 @@
 ---
 title: "Component Cohesion Principles: Reuse Release (rep), Common Closure (ccp), Common Reuse (crp)"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Component Cohesion Principles: Reuse Release (rep), Common Closure (ccp), Common
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: Dense vs Sparse Hybrid Search (bm25 + Dense Embeddings) and Reciprocal Rank Fusion
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Dense vs Sparse Hybrid Search (bm25 + Dense Embeddings) and Reciprocal Rank Fusi
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

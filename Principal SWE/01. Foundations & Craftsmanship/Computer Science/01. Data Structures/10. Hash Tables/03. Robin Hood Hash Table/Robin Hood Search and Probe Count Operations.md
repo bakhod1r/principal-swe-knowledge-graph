@@ -1,7 +1,7 @@
 ---
 title: "Robin Hood Search and Probe Count Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

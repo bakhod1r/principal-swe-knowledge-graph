@@ -1,7 +1,7 @@
 ---
 title: TCP Protocol Internals, Connection State Machine, and Hol Blocking
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals
@@ -34,4 +34,3 @@ TCP Protocol Internals, Connection State Machine, and Hol Blocking
 ## 🔗 References
 - ⬆️ Parent: `Networking & Internet Transport Internals`
 - 📚 Module: `Computer Science`
-

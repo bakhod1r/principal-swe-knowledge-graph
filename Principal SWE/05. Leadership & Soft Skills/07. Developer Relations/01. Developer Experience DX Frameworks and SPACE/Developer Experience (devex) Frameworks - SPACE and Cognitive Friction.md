@@ -1,7 +1,7 @@
 ---
 title: "Developer Experience (devex) Frameworks: SPACE and Cognitive Friction"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Developer Experience (devex) Frameworks: SPACE and Cognitive Friction
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

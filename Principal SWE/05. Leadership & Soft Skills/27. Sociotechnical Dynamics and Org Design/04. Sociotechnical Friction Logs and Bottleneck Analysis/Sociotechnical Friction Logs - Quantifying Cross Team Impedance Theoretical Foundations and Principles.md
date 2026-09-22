@@ -1,7 +1,7 @@
 ---
 title: "Sociotechnical Friction Logs - Quantifying Cross Team Impedance Theoretical Foundations and Principles"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy

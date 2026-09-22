@@ -1,7 +1,7 @@
 ---
 title: Supply Chain Security, SLSA Framework, and Cosign Container Signing
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening
@@ -34,4 +34,3 @@ Supply Chain Security, SLSA Framework, and Cosign Container Signing
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops, Secure SDLC & Supply Chain Hardening]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo Hashing and Dual-Hash O(1) Worst-Case Lookups"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

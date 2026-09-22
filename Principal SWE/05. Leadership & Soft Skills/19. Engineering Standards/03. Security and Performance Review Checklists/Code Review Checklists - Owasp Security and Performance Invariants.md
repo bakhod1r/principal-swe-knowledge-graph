@@ -1,7 +1,7 @@
 ---
 title: "Code Review Checklists: Owasp Security and Performance Invariants"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Code Review Checklists: Owasp Security and Performance Invariants
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

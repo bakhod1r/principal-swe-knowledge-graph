@@ -1,7 +1,7 @@
 ---
 title: "CGO_ENABLED (Static vs Dynamic Linking)"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -19,7 +19,7 @@ CGO_ENABLED=0
 
 The important point is:
 
-> **`CGO_ENABLED` does not directly mean "static linking" vs "dynamic linking".**  
+> **`CGO_ENABLED` does not directly mean "static linking" vs "dynamic linking".**
 > It controls whether cgo is available. Static/dynamic linking is a consequence of the code, linker, and libraries involved.
 
 ---
@@ -29,17 +29,17 @@ The important point is:
 Go was designed to produce self-contained binaries, but sometimes applications need to interact with native C libraries:
 
 - SQLite implementations
-    
+
 - OpenSSL/libcrypto
-    
+
 - system libraries
-    
+
 - OS-specific APIs
-    
+
 - existing C/C++ libraries
-    
+
 - drivers that depend on native code
-    
+
 
 cgo provides that bridge:
 
@@ -128,13 +128,13 @@ The resulting image can be extremely small.
 There is less dependency on:
 
 - glibc
-    
+
 - musl
-    
+
 - system `.so` libraries
-    
+
 - runtime C library versions
-    
+
 
 This is one reason Go is popular for containerized services.
 
@@ -601,25 +601,25 @@ If the answer is **no**, disabling cgo usually gives you a much simpler operatio
 If the answer is **yes**, deliberately design around:
 
 - C compiler/toolchain
-    
+
 - libc compatibility
-    
+
 - cross-compilation
-    
+
 - dynamic vs static linking
-    
+
 - container base image
-    
+
 - native library versions
-    
+
 - security updates
-    
+
 - runtime dependencies
-    
+
 - reproducible builds
-    
+
 - deployment portability
-    
+
 
 **Rule of thumb:** for a Go backend, start with `CGO_ENABLED=0` **if your dependency graph permits it**. Enable cgo because you have a concrete requirement—not because it is the default or because "static linking" sounds desirable.
 

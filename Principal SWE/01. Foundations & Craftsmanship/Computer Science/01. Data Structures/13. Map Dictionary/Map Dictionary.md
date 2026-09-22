@@ -1,7 +1,7 @@
 ---
 title: "Map Dictionary"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

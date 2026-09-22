@@ -1,7 +1,7 @@
 ---
 title: "Michael-Scott Lock-Free FIFO Queue (CAS on Head and Tail)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

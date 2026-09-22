@@ -1,7 +1,7 @@
 ---
 title: "Two-Stack FIFO Queue Implementation and Amortized O(1) Proof"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

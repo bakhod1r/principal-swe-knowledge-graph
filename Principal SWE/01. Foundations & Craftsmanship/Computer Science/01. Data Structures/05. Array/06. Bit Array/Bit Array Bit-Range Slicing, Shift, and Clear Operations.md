@@ -1,7 +1,7 @@
 ---
 title: "Bit Array Bit-Range Slicing, Shift, and Clear Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

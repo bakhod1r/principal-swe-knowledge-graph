@@ -1,7 +1,7 @@
 ---
 title: "Deque Circular Array Buffer Implementation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Preconditions, Postconditions, and Hoare Logic in Data Structures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

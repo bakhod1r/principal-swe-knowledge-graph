@@ -1,7 +1,7 @@
 ---
 title: "Tarjan's Inverse Ackermann Function Bound for DSU"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

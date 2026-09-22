@@ -1,7 +1,7 @@
 ---
 title: "The Art of the Executive Summary: Amazon Style 6 Page Narrative Memos"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Art of the Executive Summary: Amazon Style 6 Page Narrative Memos
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

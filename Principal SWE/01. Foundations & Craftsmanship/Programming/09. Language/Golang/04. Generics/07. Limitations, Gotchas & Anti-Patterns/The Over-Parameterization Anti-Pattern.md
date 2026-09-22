@@ -1,7 +1,7 @@
 ---
 title: "The Over-Parameterization Anti-Pattern"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

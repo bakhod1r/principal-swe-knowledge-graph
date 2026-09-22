@@ -1,7 +1,7 @@
 ---
 title: "Intrusive Linked List Add, Remove, and Splice Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

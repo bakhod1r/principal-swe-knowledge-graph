@@ -1,7 +1,7 @@
 ---
 title: "Cloud Networking Architecture - Aws Vpc, Peering, Transit Gateway, and Direct Connect Production Implementation Patterns"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols

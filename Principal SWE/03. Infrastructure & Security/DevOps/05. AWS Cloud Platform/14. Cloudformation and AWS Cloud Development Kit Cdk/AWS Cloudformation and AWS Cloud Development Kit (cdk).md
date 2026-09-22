@@ -1,7 +1,7 @@
 ---
 title: AWS Cloudformation and AWS Cloud Development Kit (cdk)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS Cloudformation and AWS Cloud Development Kit (cdk)
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

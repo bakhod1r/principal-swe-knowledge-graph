@@ -1,7 +1,7 @@
 ---
 title: "Array Append and Dynamic Capacity Allocation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

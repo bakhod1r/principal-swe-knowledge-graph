@@ -1,7 +1,7 @@
 ---
 title: Adaptive Load Shedding and Concurrency Limiters (netflix Concurrency Limits)
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Adaptive Load Shedding and Concurrency Limiters (netflix Concurrency Limits)
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

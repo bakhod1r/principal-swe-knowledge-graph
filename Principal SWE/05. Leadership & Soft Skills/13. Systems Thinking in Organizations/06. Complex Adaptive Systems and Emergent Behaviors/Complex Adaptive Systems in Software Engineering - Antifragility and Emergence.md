@@ -1,7 +1,7 @@
 ---
 title: "Complex Adaptive Systems in Software Engineering: Antifragility and Emergence"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Complex Adaptive Systems in Software Engineering: Antifragility and Emergence
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

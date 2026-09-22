@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Delete by Value (First Occurrence)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

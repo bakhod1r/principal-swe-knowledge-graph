@@ -1,7 +1,7 @@
 ---
 title: "go test Command"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

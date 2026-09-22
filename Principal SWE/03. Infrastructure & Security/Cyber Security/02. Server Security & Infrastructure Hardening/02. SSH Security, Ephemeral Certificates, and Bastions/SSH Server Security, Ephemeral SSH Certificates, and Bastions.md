@@ -1,7 +1,7 @@
 ---
 title: SSH Server Security, Ephemeral SSH Certificates, and Bastions
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening
@@ -34,4 +34,3 @@ SSH Server Security, Ephemeral SSH Certificates, and Bastions
 ## 🔗 References
 - ⬆️ Parent: [[Server Security & Infrastructure Hardening]]
 - 📚 Module: `Cyber Security`
-

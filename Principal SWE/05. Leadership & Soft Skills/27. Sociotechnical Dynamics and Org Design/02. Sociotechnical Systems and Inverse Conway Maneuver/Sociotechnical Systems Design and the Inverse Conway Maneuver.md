@@ -1,7 +1,7 @@
 ---
 title: Sociotechnical Systems Design and the Inverse Conway Maneuver
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Sociotechnical Systems Design and the Inverse Conway Maneuver
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

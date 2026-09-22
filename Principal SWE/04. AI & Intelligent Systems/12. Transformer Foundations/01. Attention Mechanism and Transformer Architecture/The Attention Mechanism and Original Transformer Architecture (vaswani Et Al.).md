@@ -1,7 +1,7 @@
 ---
 title: The Attention Mechanism and Original Transformer Architecture (vaswani Et Al.)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ The Attention Mechanism and Original Transformer Architecture (vaswani Et Al.)
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

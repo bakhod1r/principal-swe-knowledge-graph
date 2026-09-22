@@ -1,7 +1,7 @@
 ---
 title: "Chaos Testing: Automating Failure Injection with Chaos Mesh"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Chaos Testing: Automating Failure Injection with Chaos Mesh
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

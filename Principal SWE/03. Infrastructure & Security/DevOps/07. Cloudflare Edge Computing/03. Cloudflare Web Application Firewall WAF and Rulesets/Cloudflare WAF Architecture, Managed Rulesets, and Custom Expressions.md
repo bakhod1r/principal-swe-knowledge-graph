@@ -1,7 +1,7 @@
 ---
 title: Cloudflare WAF Architecture, Managed Rulesets, and Custom Expressions
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare WAF Architecture, Managed Rulesets, and Custom Expressions
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

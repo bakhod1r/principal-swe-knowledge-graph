@@ -1,7 +1,7 @@
 ---
 title: "Linear Probing Collision Resolution and Cluster Formation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

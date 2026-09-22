@@ -1,7 +1,7 @@
 ---
 title: Layered N Tier Architecture (presentation, Business, Data) vs Vertical Slicing
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Layered N Tier Architecture (presentation, Business, Data) vs Vertical Slicing
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

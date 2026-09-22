@@ -1,7 +1,7 @@
 ---
 title: Git Packfiles, Pack Indexes, and Garbage Collection (git gc)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Packfiles, Pack Indexes, and Garbage Collection (git gc)
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

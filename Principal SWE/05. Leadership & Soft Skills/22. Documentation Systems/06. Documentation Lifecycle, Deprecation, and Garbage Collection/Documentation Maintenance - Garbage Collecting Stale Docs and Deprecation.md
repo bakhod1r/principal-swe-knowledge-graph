@@ -1,7 +1,7 @@
 ---
 title: "Documentation Maintenance: Garbage Collecting Stale Docs and Deprecation"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Documentation Maintenance: Garbage Collecting Stale Docs and Deprecation
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

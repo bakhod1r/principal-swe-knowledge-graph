@@ -1,7 +1,7 @@
 ---
 title: "fmt Package Formatter Internals & Reflection Cost"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

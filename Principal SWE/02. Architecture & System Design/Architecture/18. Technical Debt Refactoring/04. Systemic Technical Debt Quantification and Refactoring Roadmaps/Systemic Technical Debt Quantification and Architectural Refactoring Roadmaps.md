@@ -1,7 +1,7 @@
 ---
 title: Systemic Technical Debt Quantification and Architectural Refactoring Roadmaps
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ Systemic Technical Debt Quantification and Architectural Refactoring Roadmaps
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

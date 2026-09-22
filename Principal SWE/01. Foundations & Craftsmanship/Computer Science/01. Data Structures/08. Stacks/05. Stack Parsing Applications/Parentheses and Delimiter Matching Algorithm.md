@@ -1,7 +1,7 @@
 ---
 title: "Parentheses and Delimiter Matching Algorithm"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

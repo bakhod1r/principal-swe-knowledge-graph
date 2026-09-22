@@ -1,7 +1,7 @@
 ---
 title: Intermediate Representations (ir) and Static Single Assignment (ssa) Form
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Intermediate Representations (ir) and Static Single Assignment (ssa) Form
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

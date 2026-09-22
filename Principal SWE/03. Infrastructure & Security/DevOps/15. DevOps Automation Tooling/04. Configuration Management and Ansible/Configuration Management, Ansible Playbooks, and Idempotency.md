@@ -1,7 +1,7 @@
 ---
 title: Configuration Management, Ansible Playbooks, and Idempotency
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Configuration Management, Ansible Playbooks, and Idempotency
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering Foundations, Anatomy of a Prompt, and Directives
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ Prompt Engineering Foundations, Anatomy of a Prompt, and Directives
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

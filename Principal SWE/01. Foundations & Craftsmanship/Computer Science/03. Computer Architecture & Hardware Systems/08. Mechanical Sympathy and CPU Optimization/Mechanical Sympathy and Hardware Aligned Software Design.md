@@ -1,7 +1,7 @@
 ---
 title: Mechanical Sympathy and Hardware Aligned Software Design
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ Mechanical Sympathy and Hardware Aligned Software Design
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: "Cryptographic Hashes vs Hash Flooding Denial-of-Service Attacks (SipHash)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

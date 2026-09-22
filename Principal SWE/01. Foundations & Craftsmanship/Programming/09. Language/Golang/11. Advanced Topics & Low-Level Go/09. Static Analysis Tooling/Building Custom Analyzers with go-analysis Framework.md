@@ -1,7 +1,7 @@
 ---
 title: "Building Custom Analyzers with go-analysis Framework"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

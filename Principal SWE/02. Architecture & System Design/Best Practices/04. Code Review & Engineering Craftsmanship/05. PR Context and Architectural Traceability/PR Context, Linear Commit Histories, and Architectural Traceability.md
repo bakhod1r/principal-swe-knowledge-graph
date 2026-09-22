@@ -1,7 +1,7 @@
 ---
 title: PR Context, Linear Commit Histories, and Architectural Traceability
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ PR Context, Linear Commit Histories, and Architectural Traceability
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

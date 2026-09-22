@@ -1,7 +1,7 @@
 ---
 title: Llamaindex Agent Workflows, Query Pipelines, and Router Engines
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Llamaindex Agent Workflows, Query Pipelines, and Router Engines
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

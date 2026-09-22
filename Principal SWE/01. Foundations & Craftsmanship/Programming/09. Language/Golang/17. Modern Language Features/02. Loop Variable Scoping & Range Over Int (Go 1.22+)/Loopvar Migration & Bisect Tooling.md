@@ -1,7 +1,7 @@
 ---
 title: "Loopvar Migration & Bisect Tooling"
 tags:
-  - review
+
   - golang
   - modern-go
   - principal-swe

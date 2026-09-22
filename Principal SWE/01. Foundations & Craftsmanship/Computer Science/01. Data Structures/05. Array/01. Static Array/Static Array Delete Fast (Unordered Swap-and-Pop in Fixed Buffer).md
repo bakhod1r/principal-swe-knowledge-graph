@@ -1,7 +1,7 @@
 ---
 title: "Static Array Delete Fast (Unordered Swap-and-Pop in Fixed Buffer)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

@@ -1,7 +1,7 @@
 ---
 title: "Skip List Probabilistic Express Towers and O(log N) Search"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

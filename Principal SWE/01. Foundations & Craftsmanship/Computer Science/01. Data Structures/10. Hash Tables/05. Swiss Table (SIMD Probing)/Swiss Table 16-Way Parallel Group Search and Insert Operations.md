@@ -1,7 +1,7 @@
 ---
 title: "Swiss Table 16-Way Parallel Group Search and Insert Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "In-Memory Layouts vs Serialization and Wire Formats"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

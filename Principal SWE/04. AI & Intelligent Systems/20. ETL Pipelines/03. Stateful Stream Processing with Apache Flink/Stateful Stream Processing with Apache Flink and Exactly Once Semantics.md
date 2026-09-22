@@ -1,7 +1,7 @@
 ---
 title: Stateful Stream Processing with Apache Flink and Exactly Once Semantics
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
@@ -34,4 +34,3 @@ Stateful Stream Processing with Apache Flink and Exactly Once Semantics
 ## 🔗 References
 - ⬆️ Parent: `Data Engineering, ETL Pipelines & Lakehouse Architecture`
 - 📚 Module: `AI & Machine Learning`
-

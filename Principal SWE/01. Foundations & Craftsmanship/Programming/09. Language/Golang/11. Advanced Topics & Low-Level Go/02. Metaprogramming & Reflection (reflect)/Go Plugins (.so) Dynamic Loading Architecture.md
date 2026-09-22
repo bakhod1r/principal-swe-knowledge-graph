@@ -1,7 +1,7 @@
 ---
 title: "Go Plugins (.so) Dynamic Loading Architecture"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

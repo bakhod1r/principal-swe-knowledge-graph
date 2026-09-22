@@ -1,7 +1,7 @@
 ---
 title: Row Level Security (rls) and Tenant Isolation in Postgresql and Mysql
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Row Level Security (rls) and Tenant Isolation in Postgresql and Mysql
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

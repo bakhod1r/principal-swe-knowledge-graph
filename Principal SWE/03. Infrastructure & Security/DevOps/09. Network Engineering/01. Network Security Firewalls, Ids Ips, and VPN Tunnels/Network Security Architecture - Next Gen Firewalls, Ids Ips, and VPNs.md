@@ -1,7 +1,7 @@
 ---
 title: "Network Security Architecture: Next Gen Firewalls, Ids Ips, and VPNs"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Network Security Architecture: Next Gen Firewalls, Ids Ips, and VPNs
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

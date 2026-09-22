@@ -1,7 +1,7 @@
 ---
 title: "Database & HTTP Middleware Instrumentation"
 tags:
-  - review
+
   - golang
   - observability
   - principal-swe

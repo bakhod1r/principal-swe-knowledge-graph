@@ -1,7 +1,7 @@
 ---
 title: "Variable-Length Arrays (VLA) vs Fixed Stack Allocation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

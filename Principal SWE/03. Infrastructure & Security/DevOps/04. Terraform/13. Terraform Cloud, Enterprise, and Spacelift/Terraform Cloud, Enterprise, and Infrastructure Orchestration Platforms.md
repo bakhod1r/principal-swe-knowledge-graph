@@ -1,7 +1,7 @@
 ---
 title: Terraform Cloud, Enterprise, and Infrastructure Orchestration Platforms
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Cloud, Enterprise, and Infrastructure Orchestration Platforms
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

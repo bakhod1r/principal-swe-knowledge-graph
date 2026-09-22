@@ -1,7 +1,7 @@
 ---
 title: Discrete Probability, Conditional Expectation, and Markov Chains
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Discrete Probability, Conditional Expectation, and Markov Chains
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

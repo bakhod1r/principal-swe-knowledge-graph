@@ -1,7 +1,7 @@
 ---
 title: "Boardroom Technical Leadership: Presenting Systemic Risk and Cyber Posture"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Boardroom Technical Leadership: Presenting Systemic Risk and Cyber Posture
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

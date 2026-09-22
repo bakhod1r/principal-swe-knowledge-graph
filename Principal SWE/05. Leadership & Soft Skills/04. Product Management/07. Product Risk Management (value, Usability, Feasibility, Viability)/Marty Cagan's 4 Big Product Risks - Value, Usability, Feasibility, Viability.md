@@ -1,7 +1,7 @@
 ---
 title: "Marty Cagan's 4 Big Product Risks: Value, Usability, Feasibility, Viability"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Marty Cagan's 4 Big Product Risks: Value, Usability, Feasibility, Viability
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

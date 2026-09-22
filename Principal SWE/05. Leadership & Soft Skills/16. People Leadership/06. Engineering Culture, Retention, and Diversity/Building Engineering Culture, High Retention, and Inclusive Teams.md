@@ -1,7 +1,7 @@
 ---
 title: Building Engineering Culture, High Retention, and Inclusive Teams
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Building Engineering Culture, High Retention, and Inclusive Teams
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

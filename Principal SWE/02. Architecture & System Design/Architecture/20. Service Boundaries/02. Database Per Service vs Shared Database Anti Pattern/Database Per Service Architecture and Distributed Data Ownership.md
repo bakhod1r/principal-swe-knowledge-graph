@@ -1,7 +1,7 @@
 ---
 title: Database Per Service Architecture and Distributed Data Ownership
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Database Per Service Architecture and Distributed Data Ownership
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

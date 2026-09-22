@@ -1,7 +1,7 @@
 ---
 title: "Daily Temperatures and Stock Span Monotonic Decreasing Stack"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

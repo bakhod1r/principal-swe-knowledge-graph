@@ -1,7 +1,7 @@
 ---
 title: "Proactor Pattern: Asynchronous Event Dispatching and Completion Handlers Structural Anti Patterns and Gotchas"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns

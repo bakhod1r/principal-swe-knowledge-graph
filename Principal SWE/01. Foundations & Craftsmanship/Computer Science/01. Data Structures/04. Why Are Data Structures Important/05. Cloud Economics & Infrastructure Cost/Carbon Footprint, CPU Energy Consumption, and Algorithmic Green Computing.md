@@ -1,7 +1,7 @@
 ---
 title: "Carbon Footprint, CPU Energy Consumption, and Algorithmic Green Computing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

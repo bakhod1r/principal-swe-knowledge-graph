@@ -1,7 +1,7 @@
 ---
 title: "Webhook Architecture: Reliable Outbound Delivery and Hmac Signatures"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ Webhook Architecture: Reliable Outbound Delivery and Hmac Signatures
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

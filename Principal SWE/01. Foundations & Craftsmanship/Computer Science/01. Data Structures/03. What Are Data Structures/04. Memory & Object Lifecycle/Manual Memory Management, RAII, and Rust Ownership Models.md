@@ -1,7 +1,7 @@
 ---
 title: "Manual Memory Management, RAII, and Rust Ownership Models"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

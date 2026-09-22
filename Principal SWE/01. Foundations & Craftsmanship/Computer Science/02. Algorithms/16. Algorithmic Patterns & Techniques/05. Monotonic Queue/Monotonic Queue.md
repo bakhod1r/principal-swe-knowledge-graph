@@ -1,7 +1,7 @@
 ---
 title: Monotonic Queue
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -38,4 +38,3 @@ Monotonic Queue
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

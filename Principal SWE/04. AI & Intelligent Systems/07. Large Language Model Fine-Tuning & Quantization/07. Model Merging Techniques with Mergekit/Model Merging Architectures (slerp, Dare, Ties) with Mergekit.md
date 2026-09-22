@@ -1,7 +1,7 @@
 ---
 title: Model Merging Architectures (slerp, Dare, Ties) with Mergekit
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Model Merging Architectures (slerp, Dare, Ties) with Mergekit
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

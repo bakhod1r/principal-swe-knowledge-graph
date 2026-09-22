@@ -1,7 +1,7 @@
 ---
 title: Privilege Access Management (pam), Session Recording, and Bastions
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance
@@ -34,4 +34,3 @@ Privilege Access Management (pam), Session Recording, and Bastions
 ## 🔗 References
 - ⬆️ Parent: [[Identity, Access Management & Zero Trust Governance]]
 - 📚 Module: `Cyber Security`
-

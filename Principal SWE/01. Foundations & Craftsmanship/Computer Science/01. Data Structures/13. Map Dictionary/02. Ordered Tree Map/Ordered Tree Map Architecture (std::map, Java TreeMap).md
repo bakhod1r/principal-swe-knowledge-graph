@@ -1,7 +1,7 @@
 ---
 title: "Ordered Tree Map Architecture (std::map, Java TreeMap)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

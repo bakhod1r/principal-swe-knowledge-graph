@@ -1,7 +1,7 @@
 ---
 title: "Diagonal and Anti-Diagonal Matrix Traversals"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

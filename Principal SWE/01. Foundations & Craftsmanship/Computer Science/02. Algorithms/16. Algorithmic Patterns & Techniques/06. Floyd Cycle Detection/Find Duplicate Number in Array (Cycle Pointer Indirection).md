@@ -1,7 +1,7 @@
 ---
 title: "Find Duplicate Number in Array (Cycle Pointer Indirection)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

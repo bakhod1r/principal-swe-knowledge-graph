@@ -1,7 +1,7 @@
 ---
 title: The Framework for High Stakes Build vs Buy Decisions
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Framework for High Stakes Build vs Buy Decisions
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

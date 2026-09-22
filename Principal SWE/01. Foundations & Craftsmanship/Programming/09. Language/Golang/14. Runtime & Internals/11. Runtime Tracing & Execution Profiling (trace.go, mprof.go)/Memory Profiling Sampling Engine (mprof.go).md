@@ -1,7 +1,7 @@
 ---
 title: "Memory Profiling Sampling Engine (mprof.go)"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

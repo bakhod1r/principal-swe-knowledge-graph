@@ -1,7 +1,7 @@
 ---
 title: "Subarray Product Less Than K (Counting Valid Windows)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

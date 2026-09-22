@@ -1,7 +1,7 @@
 ---
 title: AWS IAM Policies, Roles, Sts Assumerole, and Permission Boundaries
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS IAM Policies, Roles, Sts Assumerole, and Permission Boundaries
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

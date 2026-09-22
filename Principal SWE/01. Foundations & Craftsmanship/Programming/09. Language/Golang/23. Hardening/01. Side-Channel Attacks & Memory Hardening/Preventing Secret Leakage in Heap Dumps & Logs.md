@@ -1,7 +1,7 @@
 ---
 title: "Preventing Secret Leakage in Heap Dumps & Logs"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

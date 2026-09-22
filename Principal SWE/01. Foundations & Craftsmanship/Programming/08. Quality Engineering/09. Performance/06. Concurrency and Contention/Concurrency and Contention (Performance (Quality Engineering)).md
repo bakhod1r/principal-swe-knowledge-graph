@@ -1,7 +1,7 @@
 ---
 title: Concurrency and Contention (Performance (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Concurrency and Contention (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-

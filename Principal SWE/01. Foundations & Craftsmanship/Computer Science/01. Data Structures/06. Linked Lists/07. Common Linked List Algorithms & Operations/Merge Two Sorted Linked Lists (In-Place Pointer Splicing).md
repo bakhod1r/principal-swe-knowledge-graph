@@ -1,7 +1,7 @@
 ---
 title: "Merge Two Sorted Linked Lists (In-Place Pointer Splicing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

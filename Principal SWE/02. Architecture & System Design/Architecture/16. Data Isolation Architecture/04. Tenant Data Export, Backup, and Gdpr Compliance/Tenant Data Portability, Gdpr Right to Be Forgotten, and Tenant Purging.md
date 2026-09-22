@@ -1,7 +1,7 @@
 ---
 title: Tenant Data Portability, Gdpr Right to Be Forgotten, and Tenant Purging
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Tenant Data Portability, Gdpr Right to Be Forgotten, and Tenant Purging
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

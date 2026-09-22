@@ -1,7 +1,7 @@
 ---
 title: Operating System Concepts and Linux Foundations for Devops
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Operating System Concepts and Linux Foundations for Devops
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

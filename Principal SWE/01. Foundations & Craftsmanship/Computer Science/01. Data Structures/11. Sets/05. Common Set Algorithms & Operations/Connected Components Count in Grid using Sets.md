@@ -1,7 +1,7 @@
 ---
 title: "Connected Components Count in Grid using Sets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

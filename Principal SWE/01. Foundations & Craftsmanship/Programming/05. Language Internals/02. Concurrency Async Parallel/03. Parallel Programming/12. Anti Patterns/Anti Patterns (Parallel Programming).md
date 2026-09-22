@@ -1,7 +1,7 @@
 ---
 title: Anti Patterns (Parallel Programming)
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Anti Patterns (Parallel Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Parallel Programming]]
-

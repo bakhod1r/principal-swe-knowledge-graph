@@ -1,7 +1,7 @@
 ---
 title: "Multi-Module Workspaces (go.work)"
 tags:
-  - review
+
   - golang
   - dependencies
   - principal-swe

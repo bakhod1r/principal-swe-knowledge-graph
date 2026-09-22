@@ -1,7 +1,7 @@
 ---
 title: Property Based Testing (Testing (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Property Based Testing (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-

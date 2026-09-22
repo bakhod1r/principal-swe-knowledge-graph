@@ -1,7 +1,7 @@
 ---
 title: "PostgreSQL Custom Types & JSONB Encoding with pgx"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

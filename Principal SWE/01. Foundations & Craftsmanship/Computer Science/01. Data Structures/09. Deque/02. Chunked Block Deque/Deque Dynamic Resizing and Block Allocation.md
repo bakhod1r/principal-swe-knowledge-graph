@@ -1,7 +1,7 @@
 ---
 title: "Deque Dynamic Resizing and Block Allocation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

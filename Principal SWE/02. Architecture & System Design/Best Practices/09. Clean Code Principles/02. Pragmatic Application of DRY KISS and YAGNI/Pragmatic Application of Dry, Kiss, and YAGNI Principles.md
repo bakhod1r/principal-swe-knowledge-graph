@@ -1,7 +1,7 @@
 ---
 title: Pragmatic Application of Dry, Kiss, and YAGNI Principles
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns
@@ -34,4 +34,3 @@ Pragmatic Application of Dry, Kiss, and YAGNI Principles
 ## 🔗 References
 - ⬆️ Parent: `Clean Code & Refactoring Patterns`
 - 📚 Module: `Best Practices`
-

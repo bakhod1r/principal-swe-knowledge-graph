@@ -1,7 +1,7 @@
 ---
 title: "Scale Up Governance: IPO Readiness, Sox 404, Soc2 Type Ii, and Iso 27001"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Scale Up Governance: IPO Readiness, Sox 404, Soc2 Type Ii, and Iso 27001
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

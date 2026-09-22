@@ -1,7 +1,7 @@
 ---
 title: "Technical Discovery: De Risking and Scoping Ambiguous Enterprise Requirements"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Technical Discovery: De Risking and Scoping Ambiguous Enterprise Requirements
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

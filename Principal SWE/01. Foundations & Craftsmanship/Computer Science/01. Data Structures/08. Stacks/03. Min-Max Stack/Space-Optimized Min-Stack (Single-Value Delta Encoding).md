@@ -1,7 +1,7 @@
 ---
 title: "Space-Optimized Min-Stack (Single-Value Delta Encoding)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

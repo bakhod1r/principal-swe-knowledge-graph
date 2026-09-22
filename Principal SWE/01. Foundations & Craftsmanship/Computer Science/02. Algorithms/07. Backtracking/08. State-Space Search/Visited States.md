@@ -1,7 +1,7 @@
 ---
 title: "Visited States"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

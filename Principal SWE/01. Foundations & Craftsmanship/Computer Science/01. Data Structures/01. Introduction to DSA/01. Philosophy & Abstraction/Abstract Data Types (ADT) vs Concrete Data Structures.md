@@ -1,7 +1,7 @@
 ---
 title: "Abstract Data Types (ADT) vs Concrete Data Structures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe
@@ -32,13 +32,13 @@ Think in two layers:
 An **ADT** defines:
 
 - what data represents
-    
+
 - what operations are available
-    
+
 - what those operations mean
-    
+
 - what behavioral guarantees exist
-    
+
 
 It intentionally hides the implementation.
 
@@ -47,17 +47,17 @@ It intentionally hides the implementation.
 A **data structure** defines:
 
 - how data is physically organized
-    
+
 - how memory is represented
-    
+
 - how operations are implemented
-    
+
 - the performance characteristics
-    
+
 
 ### One-line distinction
 
-> **ADT = behavior/interface/semantics.**  
+> **ADT = behavior/interface/semantics.**
 > **Data structure = representation/implementation.**
 
 ---
@@ -347,13 +347,13 @@ contiguous storage
 Advantages:
 
 - cache-friendly
-    
+
 - low memory overhead
-    
+
 - simple
-    
+
 - good locality
-    
+
 
 ---
 
@@ -376,20 +376,20 @@ TOP
 Advantages:
 
 - no resizing
-    
+
 - easy structural growth
-    
+
 
 Costs:
 
 - pointer overhead
-    
+
 - allocations
-    
+
 - worse cache locality
-    
+
 - more GC pressure in managed runtimes
-    
+
 
 Therefore, even when both satisfy the same ADT contract, their **operational properties differ**.
 

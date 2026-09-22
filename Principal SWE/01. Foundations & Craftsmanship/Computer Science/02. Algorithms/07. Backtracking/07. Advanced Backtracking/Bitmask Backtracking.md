@@ -1,7 +1,7 @@
 ---
 title: "Bitmask Backtracking"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

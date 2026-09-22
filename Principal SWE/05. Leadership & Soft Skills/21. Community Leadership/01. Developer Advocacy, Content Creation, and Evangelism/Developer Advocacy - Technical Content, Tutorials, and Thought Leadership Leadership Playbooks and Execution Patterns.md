@@ -1,7 +1,7 @@
 ---
 title: "Developer Advocacy - Technical Content, Tutorials, and Thought Leadership Leadership Playbooks and Execution Patterns"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management

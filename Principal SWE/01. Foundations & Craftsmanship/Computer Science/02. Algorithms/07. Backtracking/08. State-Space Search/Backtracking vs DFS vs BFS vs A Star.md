@@ -1,7 +1,7 @@
 ---
 title: "Backtracking vs DFS vs BFS vs A Star"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

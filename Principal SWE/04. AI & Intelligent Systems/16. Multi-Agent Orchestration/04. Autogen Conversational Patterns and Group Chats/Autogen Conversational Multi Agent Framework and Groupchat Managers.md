@@ -1,7 +1,7 @@
 ---
 title: Autogen Conversational Multi Agent Framework and Groupchat Managers
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Autogen Conversational Multi Agent Framework and Groupchat Managers
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

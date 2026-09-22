@@ -1,7 +1,7 @@
 ---
 title: "Circle Line Intersection Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

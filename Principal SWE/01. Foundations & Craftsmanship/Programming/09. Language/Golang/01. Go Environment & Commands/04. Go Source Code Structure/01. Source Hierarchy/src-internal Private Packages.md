@@ -1,7 +1,7 @@
 ---
 title: "src-internal Private Packages"
 tags:
-  - review
+
   - golang
   - source-structure
   - principal-swe

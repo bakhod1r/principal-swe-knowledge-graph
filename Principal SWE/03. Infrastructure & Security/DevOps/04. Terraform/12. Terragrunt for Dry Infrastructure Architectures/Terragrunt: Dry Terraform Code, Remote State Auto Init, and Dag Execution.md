@@ -1,7 +1,7 @@
 ---
 title: "Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

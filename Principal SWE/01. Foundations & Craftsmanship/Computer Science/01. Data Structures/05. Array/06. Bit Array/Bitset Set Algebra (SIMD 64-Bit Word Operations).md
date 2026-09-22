@@ -1,7 +1,7 @@
 ---
 title: "Bitset Set Algebra (SIMD 64-Bit Word Operations)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

@@ -1,7 +1,7 @@
 ---
 title: "Same Direction Fast and Slow Two Pointers"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

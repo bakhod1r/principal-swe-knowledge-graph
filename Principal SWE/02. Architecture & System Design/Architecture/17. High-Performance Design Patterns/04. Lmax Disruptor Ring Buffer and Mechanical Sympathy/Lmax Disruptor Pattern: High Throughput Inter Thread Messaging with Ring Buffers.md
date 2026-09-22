@@ -1,7 +1,7 @@
 ---
 title: "Lmax Disruptor Pattern: High Throughput Inter Thread Messaging with Ring Buffers"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Lmax Disruptor Pattern: High Throughput Inter Thread Messaging with Ring Buffers
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

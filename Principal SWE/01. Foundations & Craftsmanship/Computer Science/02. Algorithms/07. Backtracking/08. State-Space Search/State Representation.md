@@ -1,7 +1,7 @@
 ---
 title: "State Representation"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

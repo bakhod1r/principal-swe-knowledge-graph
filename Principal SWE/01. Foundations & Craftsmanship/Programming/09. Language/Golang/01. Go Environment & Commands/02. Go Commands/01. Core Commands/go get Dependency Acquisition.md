@@ -1,7 +1,7 @@
 ---
 title: "go get Dependency Acquisition"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

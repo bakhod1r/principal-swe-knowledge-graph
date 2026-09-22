@@ -1,7 +1,7 @@
 ---
 title: "Cache-Conscious Chaining (Unrolled Bucket Arrays)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

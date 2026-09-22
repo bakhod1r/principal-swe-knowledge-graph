@@ -1,7 +1,7 @@
 ---
 title: "Generic Slice Wrapper & High-Order Functions"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

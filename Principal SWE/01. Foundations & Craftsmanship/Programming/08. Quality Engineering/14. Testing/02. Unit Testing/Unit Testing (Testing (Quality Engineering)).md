@@ -1,7 +1,7 @@
 ---
 title: Unit Testing (Testing (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Unit Testing (Testing (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Testing (Quality Engineering)]]
-

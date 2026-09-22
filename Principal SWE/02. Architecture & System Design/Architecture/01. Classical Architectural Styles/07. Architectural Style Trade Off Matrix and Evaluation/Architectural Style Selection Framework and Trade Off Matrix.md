@@ -1,7 +1,7 @@
 ---
 title: Architectural Style Selection Framework and Trade Off Matrix
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Architectural Style Selection Framework and Trade Off Matrix
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: Bloom Filter (Building Blocks)
 tags:
-  - review
+
   - distributed-systems
   - principal-swe
 parent: "[[Building Blocks]]"
@@ -31,4 +31,3 @@ Bloom Filter (Building Blocks)
 
 ## 🔗 References
 - ⬆️ Parent: [[Building Blocks]]
-

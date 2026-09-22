@@ -1,7 +1,7 @@
 ---
 title: Linux Kernel Scheduler Internals and Completely Fair Scheduler (cfs)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ Linux Kernel Scheduler Internals and Completely Fair Scheduler (cfs)
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

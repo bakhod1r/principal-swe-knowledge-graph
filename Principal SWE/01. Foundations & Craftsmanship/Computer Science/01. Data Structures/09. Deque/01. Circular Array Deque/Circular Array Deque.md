@@ -1,7 +1,7 @@
 ---
 title: "Circular Array Deque"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

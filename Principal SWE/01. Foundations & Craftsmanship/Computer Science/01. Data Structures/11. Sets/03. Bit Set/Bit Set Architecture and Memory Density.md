@@ -1,7 +1,7 @@
 ---
 title: "Bit Set Architecture and Memory Density"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Side Channel Attack Vectors and Constant Time Implementation Techniques
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security
@@ -34,4 +34,3 @@ Side Channel Attack Vectors and Constant Time Implementation Techniques
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

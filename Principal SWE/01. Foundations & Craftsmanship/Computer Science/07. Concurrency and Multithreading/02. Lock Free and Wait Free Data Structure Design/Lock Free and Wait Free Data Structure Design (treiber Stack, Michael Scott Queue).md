@@ -1,7 +1,7 @@
 ---
 title: Lock Free and Wait Free Data Structure Design (treiber Stack, Michael Scott Queue)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Lock Free and Wait Free Data Structure Design (treiber Stack, Michael Scott Queu
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

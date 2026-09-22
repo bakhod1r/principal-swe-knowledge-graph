@@ -1,7 +1,7 @@
 ---
 title: Use Cases (interactors), Application Boundaries, and Request Response Models
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Use Cases (interactors), Application Boundaries, and Request Response Models
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

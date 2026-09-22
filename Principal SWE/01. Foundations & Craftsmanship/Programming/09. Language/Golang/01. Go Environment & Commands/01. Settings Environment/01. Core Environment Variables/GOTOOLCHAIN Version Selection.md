@@ -1,7 +1,7 @@
 ---
 title: "GOTOOLCHAIN Version Selection"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -499,17 +499,17 @@ Network / proxy / cache
 That means your build environment now has potential dependencies on:
 
 - network availability
-    
+
 - Go toolchain distribution
-    
+
 - proxy configuration
-    
+
 - filesystem permissions
-    
+
 - toolchain cache
-    
+
 - corporate egress policies
-    
+
 
 This matters significantly in production CI.
 

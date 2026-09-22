@@ -1,7 +1,7 @@
 ---
 title: "TestMain Function Lifecycle (Global Setup & Teardown)"
 tags:
-  - review
+
   - golang
   - testing
   - principal-swe

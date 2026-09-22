@@ -1,7 +1,7 @@
 ---
 title: "Patricia Trie Radix Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

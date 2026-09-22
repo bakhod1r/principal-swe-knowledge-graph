@@ -1,7 +1,7 @@
 ---
 title: "The Technical Debt Balance Sheet: Quantifying Architectural Drag in Dollars"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ The Technical Debt Balance Sheet: Quantifying Architectural Drag in Dollars
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

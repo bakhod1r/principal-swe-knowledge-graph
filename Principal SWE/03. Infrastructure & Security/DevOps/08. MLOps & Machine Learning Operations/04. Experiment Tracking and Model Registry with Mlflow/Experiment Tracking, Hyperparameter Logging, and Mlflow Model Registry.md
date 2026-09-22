@@ -1,7 +1,7 @@
 ---
 title: Experiment Tracking, Hyperparameter Logging, and Mlflow Model Registry
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Experiment Tracking, Hyperparameter Logging, and Mlflow Model Registry
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

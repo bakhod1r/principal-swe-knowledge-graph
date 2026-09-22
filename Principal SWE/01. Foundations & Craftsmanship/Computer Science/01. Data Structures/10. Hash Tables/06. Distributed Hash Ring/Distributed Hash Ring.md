@@ -1,7 +1,7 @@
 ---
 title: "Distributed Hash Ring"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

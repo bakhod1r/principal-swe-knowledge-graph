@@ -1,7 +1,7 @@
 ---
 title: "ADT Specifications, Formal Invariants, and Axioms"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

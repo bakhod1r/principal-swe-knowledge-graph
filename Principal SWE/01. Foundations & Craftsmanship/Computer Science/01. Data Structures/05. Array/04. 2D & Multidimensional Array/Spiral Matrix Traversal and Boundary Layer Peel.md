@@ -1,7 +1,7 @@
 ---
 title: "Spiral Matrix Traversal and Boundary Layer Peel"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

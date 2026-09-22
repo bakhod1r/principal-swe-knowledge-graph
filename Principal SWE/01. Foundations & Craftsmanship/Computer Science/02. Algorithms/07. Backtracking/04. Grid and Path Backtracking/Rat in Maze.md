@@ -1,7 +1,7 @@
 ---
 title: "Rat in Maze"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

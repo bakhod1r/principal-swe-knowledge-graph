@@ -1,7 +1,7 @@
 ---
 title: "Interface Dispatch Mechanics (itable vs vtable Lookup)"
 tags:
-  - review
+
   - programming
   - oop
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Advanced Cherry-Picking (git cherry-pick) and Range Extraction
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Advanced Cherry-Picking (git cherry-pick) and Range Extraction
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

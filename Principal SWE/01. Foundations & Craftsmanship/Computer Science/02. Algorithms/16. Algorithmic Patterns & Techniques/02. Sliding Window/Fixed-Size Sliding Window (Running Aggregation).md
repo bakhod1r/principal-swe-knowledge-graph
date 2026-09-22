@@ -1,7 +1,7 @@
 ---
 title: "Fixed-Size Sliding Window (Running Aggregation)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: "Goroutine Stack Dump Profiling"
 tags:
-  - review
+
   - golang
   - performance
   - principal-swe

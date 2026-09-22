@@ -1,7 +1,7 @@
 ---
 title: Cryptographic Commit Signing with GPG and SSH Keys
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Cryptographic Commit Signing with GPG and SSH Keys
 ## 🔗 References
 - ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

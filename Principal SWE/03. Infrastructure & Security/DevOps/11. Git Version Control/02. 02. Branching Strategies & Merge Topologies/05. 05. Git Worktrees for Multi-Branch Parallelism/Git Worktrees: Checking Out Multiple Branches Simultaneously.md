@@ -1,7 +1,7 @@
 ---
 title: "Git Worktrees: Checking Out Multiple Branches Simultaneously"
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Worktrees: Checking Out Multiple Branches Simultaneously
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

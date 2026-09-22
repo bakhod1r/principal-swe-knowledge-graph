@@ -1,7 +1,7 @@
 ---
 title: SQL Data Integrity, Constraints, and Invariants
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Data Integrity, Constraints, and Invariants
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

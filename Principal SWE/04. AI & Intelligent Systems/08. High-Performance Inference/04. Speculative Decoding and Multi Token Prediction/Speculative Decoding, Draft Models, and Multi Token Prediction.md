@@ -1,7 +1,7 @@
 ---
 title: Speculative Decoding, Draft Models, and Multi Token Prediction
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
@@ -34,4 +34,3 @@ Speculative Decoding, Draft Models, and Multi Token Prediction
 ## 🔗 References
 - ⬆️ Parent: `High Performance Inference & Llmops Infrastructure`
 - 📚 Module: `AI & Machine Learning`
-

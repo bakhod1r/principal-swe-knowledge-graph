@@ -1,7 +1,7 @@
 ---
 title: Enterprise RFC (request for Comments) Engineering Process and Template
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Enterprise RFC (request for Comments) Engineering Process and Template
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

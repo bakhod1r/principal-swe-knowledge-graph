@@ -1,7 +1,7 @@
 ---
 title: "Stack vs Heap vs Static Memory Lifetime Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

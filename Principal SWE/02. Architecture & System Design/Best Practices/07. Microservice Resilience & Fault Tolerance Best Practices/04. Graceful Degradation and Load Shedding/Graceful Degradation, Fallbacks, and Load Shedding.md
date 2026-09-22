@@ -1,7 +1,7 @@
 ---
 title: Graceful Degradation, Fallbacks, and Load Shedding
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices
@@ -34,4 +34,3 @@ Graceful Degradation, Fallbacks, and Load Shedding
 ## 🔗 References
 - ⬆️ Parent: [[Microservice Resilience & Fault Tolerance Best Practices]]
 - 📚 Module: `Best Practices`
-

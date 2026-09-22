@@ -1,7 +1,7 @@
 ---
 title: Go to Market (gtm) Strategy, Sales Enablement, and Launch Readiness
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Go to Market (gtm) Strategy, Sales Enablement, and Launch Readiness
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Production GraphQL Server Runtimes: Apollo Server, Yoga, Gqlgen, and Async GraphQL"
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ Production GraphQL Server Runtimes: Apollo Server, Yoga, Gqlgen, and Async Graph
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

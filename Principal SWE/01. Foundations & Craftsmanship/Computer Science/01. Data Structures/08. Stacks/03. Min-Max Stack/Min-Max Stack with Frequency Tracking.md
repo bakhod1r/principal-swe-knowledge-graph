@@ -1,7 +1,7 @@
 ---
 title: "Min-Max Stack with Frequency Tracking"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

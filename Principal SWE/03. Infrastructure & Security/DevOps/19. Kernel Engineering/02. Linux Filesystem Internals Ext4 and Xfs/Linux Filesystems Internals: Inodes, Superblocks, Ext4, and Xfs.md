@@ -1,7 +1,7 @@
 ---
 title: "Linux Filesystems Internals: Inodes, Superblocks, Ext4, and Xfs"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Filesystems Internals: Inodes, Superblocks, Ext4, and Xfs
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

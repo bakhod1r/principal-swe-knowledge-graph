@@ -1,7 +1,7 @@
 ---
 title: "Automated E2e Testing: Playwright Framework, Page Objects, and Parallelism"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Automated E2e Testing: Playwright Framework, Page Objects, and Parallelism
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

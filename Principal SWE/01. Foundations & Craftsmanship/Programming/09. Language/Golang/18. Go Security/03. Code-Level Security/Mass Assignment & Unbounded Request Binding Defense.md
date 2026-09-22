@@ -1,7 +1,7 @@
 ---
 title: "Mass Assignment & Unbounded Request Binding Defense"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

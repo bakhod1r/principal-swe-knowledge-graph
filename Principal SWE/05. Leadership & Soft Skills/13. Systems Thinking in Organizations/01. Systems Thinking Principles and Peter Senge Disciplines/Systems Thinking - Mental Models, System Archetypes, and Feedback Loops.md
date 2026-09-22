@@ -1,7 +1,7 @@
 ---
 title: "Systems Thinking: Mental Models, System Archetypes, and Feedback Loops"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Systems Thinking: Mental Models, System Archetypes, and Feedback Loops
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

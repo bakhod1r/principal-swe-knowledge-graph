@@ -1,7 +1,7 @@
 ---
 title: Introduction (Elasticsearch & Distributed Search)
 tags:
-  - review
+
   - backend
   - architecture
   - elasticsearch-and-distributed-search
@@ -34,4 +34,3 @@ Introduction (Elasticsearch & Distributed Search)
 ## 🔗 References
 - ⬆️ Parent: [[Elasticsearch & Distributed Search]]
 - 📚 Module: `Databases`
-

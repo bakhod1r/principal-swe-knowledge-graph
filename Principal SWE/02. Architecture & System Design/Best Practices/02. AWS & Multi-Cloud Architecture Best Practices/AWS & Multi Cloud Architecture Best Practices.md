@@ -1,7 +1,7 @@
 ---
 title: AWS & Multi Cloud Architecture Best Practices
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - principal-swe
@@ -29,4 +29,3 @@ Comprehensive engineering guide, patterns, and principles for AWS & Multi Cloud 
 
 ## 🔗 References
 - ⬆️ Parent: [[Best Practices]]
-

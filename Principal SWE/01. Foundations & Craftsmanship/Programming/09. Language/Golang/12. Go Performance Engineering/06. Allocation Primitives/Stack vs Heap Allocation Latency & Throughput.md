@@ -1,7 +1,7 @@
 ---
 title: "Stack vs Heap Allocation Latency & Throughput"
 tags:
-  - review
+
   - golang
   - performance
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous First Communication: Writing Thoughtful Messages"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Asynchronous First Communication: Writing Thoughtful Messages
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

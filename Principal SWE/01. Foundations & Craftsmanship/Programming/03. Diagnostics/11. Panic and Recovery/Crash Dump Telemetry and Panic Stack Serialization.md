@@ -1,7 +1,7 @@
 ---
 title: "Crash Dump Telemetry and Panic Stack Serialization"
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe

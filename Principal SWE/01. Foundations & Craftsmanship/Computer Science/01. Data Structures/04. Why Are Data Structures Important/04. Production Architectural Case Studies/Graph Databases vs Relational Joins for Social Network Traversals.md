@@ -1,7 +1,7 @@
 ---
 title: "Graph Databases vs Relational Joins for Social Network Traversals"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

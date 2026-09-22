@@ -1,7 +1,7 @@
 ---
 title: "Intrusive vs Non-Intrusive Zero-Allocation Performance Profiles"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "DSA Core Philosophy (Algorithms + Data Structures = Programs)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe
@@ -12,9 +12,9 @@ parent: "[[Introduction to DSA]]"
 DSA is often taught as two separate subjects:
 
 - **Data Structures** → arrays, linked lists, trees, hash tables, graphs, heaps, etc.
-    
+
 - **Algorithms** → sorting, searching, traversal, dynamic programming, greedy algorithms, etc.
-    
+
 
 But the deeper idea is:
 
@@ -114,19 +114,19 @@ An algorithm answers:
 Typical algorithmic concerns:
 
 - correctness
-    
+
 - termination
-    
+
 - time complexity
-    
+
 - space complexity
-    
+
 - determinism
-    
+
 - scalability
-    
+
 - resource usage
-    
+
 
 ---
 
@@ -439,25 +439,25 @@ But Big-O is not the entire performance story.
 Real systems also depend on:
 
 - constants
-    
+
 - cache locality
-    
+
 - allocations
-    
+
 - memory bandwidth
-    
+
 - CPU architecture
-    
+
 - I/O
-    
+
 - contention
-    
+
 - branch prediction
-    
+
 - garbage collection
-    
+
 - network latency
-    
+
 
 Therefore:
 
@@ -871,15 +871,15 @@ O(n)
 Use:
 
 - invariant
-    
+
 - induction
-    
+
 - contradiction
-    
+
 - exchange argument
-    
+
 - structural reasoning
-    
+
 
 ### Step 10 — Analyze complexity
 

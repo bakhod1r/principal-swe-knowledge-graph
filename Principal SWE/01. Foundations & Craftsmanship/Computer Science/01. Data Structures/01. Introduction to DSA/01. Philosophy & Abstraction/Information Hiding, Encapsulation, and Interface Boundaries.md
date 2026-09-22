@@ -1,7 +1,7 @@
 ---
 title: "Information Hiding, Encapsulation, and Interface Boundaries"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe
@@ -39,9 +39,9 @@ The fundamental idea is:
 This creates a boundary between:
 
 - **what the component promises**
-    
+
 - **how the component fulfills that promise**
-    
+
 
 That boundary is one of the most important ideas in software architecture.
 
@@ -68,15 +68,15 @@ type UserRepository struct {
 A caller doesn't need to know:
 
 - which SQL database is used
-    
+
 - which SQL query is executed
-    
+
 - which indexes exist
-    
+
 - whether caching exists
-    
+
 - how connections are managed
-    
+
 
 The caller only needs:
 
@@ -882,32 +882,32 @@ The more volatile something is, the more carefully you should prevent it from le
 Typical volatile details:
 
 - HTTP framework
-    
+
 - SQL driver
-    
+
 - Redis client
-    
+
 - Kafka client
-    
+
 - cloud SDK
-    
+
 - filesystem
-    
+
 - external API
-    
+
 - serialization format
-    
+
 
 Stable concepts:
 
 - business rules
-    
+
 - domain invariants
-    
+
 - core workflows
-    
+
 - business decisions
-    
+
 
 This is one reason hexagonal/ports-and-adapters architecture can work well.
 

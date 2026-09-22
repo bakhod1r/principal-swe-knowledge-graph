@@ -1,7 +1,7 @@
 ---
 title: "Code Review Slas: Minimizing Review Latency and Blocking Queues"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Code Review Slas: Minimizing Review Latency and Blocking Queues
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

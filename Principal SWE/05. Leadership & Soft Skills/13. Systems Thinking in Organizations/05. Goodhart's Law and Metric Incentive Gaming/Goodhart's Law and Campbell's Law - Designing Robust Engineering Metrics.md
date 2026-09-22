@@ -1,7 +1,7 @@
 ---
 title: "Goodhart's Law and Campbell's Law: Designing Robust Engineering Metrics"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Goodhart's Law and Campbell's Law: Designing Robust Engineering Metrics
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Infrastructure Cost Estimation with Infracost in Pull Requests
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Infrastructure Cost Estimation with Infracost in Pull Requests
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Security: Rbac, Pod Security Standards, and OPA Kyverno"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Security: Rbac, Pod Security Standards, and OPA Kyverno
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

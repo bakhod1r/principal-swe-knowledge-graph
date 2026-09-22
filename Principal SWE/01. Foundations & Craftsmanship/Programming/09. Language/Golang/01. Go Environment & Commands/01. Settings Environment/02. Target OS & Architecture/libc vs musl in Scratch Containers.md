@@ -1,7 +1,7 @@
 ---
 title: "libc vs musl in Scratch Containers"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -36,23 +36,23 @@ The answer depends primarily on **how the binary was linked**.
 It provides common userspace functionality such as:
 
 - memory allocation
-    
+
 - string operations
-    
+
 - file operations
-    
+
 - networking-related APIs
-    
+
 - threads
-    
+
 - process management
-    
+
 - DNS resolver interfaces
-    
+
 - system-call wrappers
-    
+
 - POSIX functionality
-    
+
 
 On Linux, two important implementations are:
 
@@ -942,17 +942,17 @@ When choosing between `scratch`, Alpine, and a glibc-based image, think about **
 Use it when:
 
 - your binary can be statically linked
-    
+
 - runtime dependencies are understood
-    
+
 - you don't need a shell
-    
+
 - you don't need package management
-    
+
 - you can explicitly provide required files
-    
+
 - you value minimal attack surface
-    
+
 
 Typical example:
 
@@ -973,21 +973,21 @@ This is an excellent `scratch` candidate.
 Avoid it when your application requires:
 
 - complex CGO dependencies
-    
+
 - dynamic shared libraries
-    
+
 - glibc-specific behavior
-    
+
 - native libraries
-    
+
 - shell-based operational tooling
-    
+
 - system packages
-    
+
 - complex NSS configuration
-    
+
 - runtime debugging utilities
-    
+
 
 For example:
 
@@ -1040,23 +1040,23 @@ secure application
 You still need:
 
 - non-root execution
-    
+
 - dependency scanning
-    
+
 - secret management
-    
+
 - TLS
-    
+
 - input validation
-    
+
 - least privilege
-    
+
 - read-only filesystem where appropriate
-    
+
 - seccomp/AppArmor/container runtime controls
-    
+
 - vulnerability management
-    
+
 
 Minimality is **one security layer**, not the whole security model.
 

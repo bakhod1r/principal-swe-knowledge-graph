@@ -1,7 +1,7 @@
 ---
 title: "Load Factor Thresholds and Rehashing Economics in Chaining"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

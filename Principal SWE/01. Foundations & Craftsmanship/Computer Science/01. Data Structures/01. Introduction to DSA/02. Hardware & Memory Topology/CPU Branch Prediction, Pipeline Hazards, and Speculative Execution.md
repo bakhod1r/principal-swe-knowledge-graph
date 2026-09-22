@@ -1,7 +1,7 @@
 ---
 title: "CPU Branch Prediction, Pipeline Hazards, and Speculative Execution"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Prompt Injection Attacks (direct System Overrides and Indirect Data Ingress)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering
@@ -34,4 +34,3 @@ Prompt Injection Attacks (direct System Overrides and Indirect Data Ingress)
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Safety Engineering]]
 - 📚 Module: `Cyber Security`
-

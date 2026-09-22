@@ -1,7 +1,7 @@
 ---
 title: "Unbuffered Channel Synchronous Rendezvous"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -542,17 +542,17 @@ Not necessarily.
 A rendezvous may involve:
 
 - channel locking
-    
+
 - queue manipulation
-    
+
 - goroutine state transitions
-    
+
 - scheduler interaction
-    
+
 - wake-up of another goroutine
-    
+
 - synchronization costs
-    
+
 
 Therefore:
 
@@ -777,28 +777,28 @@ When choosing an unbuffered channel, ask:
 ### Use it when:
 
 - you need direct handoff
-    
+
 - sender and receiver should synchronize
-    
+
 - natural backpressure is desirable
-    
+
 - you want a strong coordination boundary
-    
+
 - the producer should not get ahead of the consumer
-    
+
 
 ### Be careful when:
 
 - the receiver may disappear
-    
+
 - the receiver can become permanently blocked
-    
+
 - the producer can wait indefinitely
-    
+
 - there is no cancellation path
-    
+
 - throughput requires decoupling producers and consumers
-    
+
 
 In production systems, this:
 

@@ -1,7 +1,7 @@
 ---
 title: Amazon Ebs Volume Types (gp3, Io2) and Amazon Efs Shared Storage
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon Ebs Volume Types (gp3, Io2) and Amazon Efs Shared Storage
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Skip List (Probabilistic Multi-Level Express Lanes)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

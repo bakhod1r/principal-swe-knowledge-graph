@@ -1,7 +1,7 @@
 ---
 title: SQL Syntax Fundamentals and Universal Data Types
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Syntax Fundamentals and Universal Data Types
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

@@ -1,7 +1,7 @@
 ---
 title: "Skip List Probabilistic Geometric Level Distribution"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

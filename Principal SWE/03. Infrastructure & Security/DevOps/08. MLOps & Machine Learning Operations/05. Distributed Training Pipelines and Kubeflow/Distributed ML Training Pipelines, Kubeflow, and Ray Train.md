@@ -1,7 +1,7 @@
 ---
 title: Distributed ML Training Pipelines, Kubeflow, and Ray Train
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Distributed ML Training Pipelines, Kubeflow, and Ray Train
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

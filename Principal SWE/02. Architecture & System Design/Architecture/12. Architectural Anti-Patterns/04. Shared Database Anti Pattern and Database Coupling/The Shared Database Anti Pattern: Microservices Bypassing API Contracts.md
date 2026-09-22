@@ -1,7 +1,7 @@
 ---
 title: "The Shared Database Anti Pattern: Microservices Bypassing API Contracts"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ The Shared Database Anti Pattern: Microservices Bypassing API Contracts
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

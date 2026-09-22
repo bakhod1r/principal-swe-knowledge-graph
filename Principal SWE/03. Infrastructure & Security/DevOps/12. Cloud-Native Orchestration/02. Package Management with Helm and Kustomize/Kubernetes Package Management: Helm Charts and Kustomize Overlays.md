@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Package Management: Helm Charts and Kustomize Overlays"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Package Management: Helm Charts and Kustomize Overlays
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

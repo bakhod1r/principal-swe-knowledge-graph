@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo Graph Cycles, Stash Mechanics, and Rehash Triggers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

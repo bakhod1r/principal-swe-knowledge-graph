@@ -1,7 +1,7 @@
 ---
 title: "Fine Grained Tuning Core Principles and Architecture"
 tags:
-  - review
+
   - backend
   - architecture
   - postgresql-mastery-and-dba

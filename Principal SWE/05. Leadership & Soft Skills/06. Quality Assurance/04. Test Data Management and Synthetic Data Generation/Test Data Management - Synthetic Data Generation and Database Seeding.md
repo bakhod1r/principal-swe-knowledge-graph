@@ -1,7 +1,7 @@
 ---
 title: "Test Data Management: Synthetic Data Generation and Database Seeding"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Test Data Management: Synthetic Data Generation and Database Seeding
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

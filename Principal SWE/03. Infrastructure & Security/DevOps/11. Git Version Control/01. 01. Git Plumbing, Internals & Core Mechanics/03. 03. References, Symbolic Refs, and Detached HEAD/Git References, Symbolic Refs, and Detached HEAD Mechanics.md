@@ -1,7 +1,7 @@
 ---
 title: Git References, Symbolic Refs, and Detached HEAD Mechanics
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git References, Symbolic Refs, and Detached HEAD Mechanics
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

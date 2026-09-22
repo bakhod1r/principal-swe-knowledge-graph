@@ -1,7 +1,7 @@
 ---
 title: Web Servers, Reverse Proxies, and Edge Ingress (nginx, Caddy)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Web Servers, Reverse Proxies, and Edge Ingress (nginx, Caddy)
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

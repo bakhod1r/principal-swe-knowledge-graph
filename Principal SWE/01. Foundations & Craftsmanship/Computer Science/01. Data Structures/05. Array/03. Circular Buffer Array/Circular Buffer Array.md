@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Array"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

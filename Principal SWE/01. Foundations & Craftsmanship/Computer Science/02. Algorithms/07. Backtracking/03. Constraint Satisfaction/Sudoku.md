@@ -1,7 +1,7 @@
 ---
 title: "Sudoku"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

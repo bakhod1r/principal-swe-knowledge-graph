@@ -1,7 +1,7 @@
 ---
 title: "Network Observability: Wireshark Packet Analysis, Tcpdump, and Ebpf"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Network Observability: Wireshark Packet Analysis, Tcpdump, and Ebpf
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

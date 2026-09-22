@@ -1,7 +1,7 @@
 ---
 title: "Internal Developer Platforms (idp): Spotify Backstage and Self Service"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Internal Developer Platforms (idp): Spotify Backstage and Self Service
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

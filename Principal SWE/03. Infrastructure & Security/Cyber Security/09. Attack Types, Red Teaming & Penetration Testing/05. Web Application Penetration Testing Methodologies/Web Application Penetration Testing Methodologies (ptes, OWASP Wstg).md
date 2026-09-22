@@ -1,7 +1,7 @@
 ---
 title: Web Application Penetration Testing Methodologies (ptes, OWASP Wstg)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing
@@ -34,4 +34,3 @@ Web Application Penetration Testing Methodologies (ptes, OWASP Wstg)
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types, Red Teaming & Penetration Testing]]
 - 📚 Module: `Cyber Security`
-

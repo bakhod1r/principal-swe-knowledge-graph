@@ -1,7 +1,7 @@
 ---
 title: "MVS Graph Algorithm Mechanics"
 tags:
-  - review
+
   - golang
   - dependencies
   - principal-swe

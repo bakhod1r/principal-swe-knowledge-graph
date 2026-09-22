@@ -1,7 +1,7 @@
 ---
 title: Microservice Mutual TLS (mtls), Workload Identity, and SPIFFE SPIRE
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Microservice Mutual TLS (mtls), Workload Identity, and SPIFFE SPIRE
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

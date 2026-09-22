@@ -1,7 +1,7 @@
 ---
 title: "Graphrag: Knowledge Graphs, Entity Extraction, and Graph Retrieval"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Graphrag: Knowledge Graphs, Entity Extraction, and Graph Retrieval
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

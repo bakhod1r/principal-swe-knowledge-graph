@@ -1,7 +1,7 @@
 ---
 title: "Context-Aware Trace and Correlation ID Propagation"
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe

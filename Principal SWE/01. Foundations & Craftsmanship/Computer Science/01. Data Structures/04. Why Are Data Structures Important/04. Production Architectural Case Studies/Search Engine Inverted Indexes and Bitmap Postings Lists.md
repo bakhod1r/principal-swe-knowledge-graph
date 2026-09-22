@@ -1,7 +1,7 @@
 ---
 title: "Search Engine Inverted Indexes and Bitmap Postings Lists"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Apollo Federation V2: Supergraph Gateway, Subgraphs, and Entity Resolution"
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ Apollo Federation V2: Supergraph Gateway, Subgraphs, and Entity Resolution
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

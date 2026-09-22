@@ -1,7 +1,7 @@
 ---
 title: "Merge K Sorted Linked Lists (Min-Heap vs Divide-and-Conquer)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

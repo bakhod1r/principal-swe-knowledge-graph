@@ -1,7 +1,7 @@
 ---
 title: "Specialized System Arrays"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

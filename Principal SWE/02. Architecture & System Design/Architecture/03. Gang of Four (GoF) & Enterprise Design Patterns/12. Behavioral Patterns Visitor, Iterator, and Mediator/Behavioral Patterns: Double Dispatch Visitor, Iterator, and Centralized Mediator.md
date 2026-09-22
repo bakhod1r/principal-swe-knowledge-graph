@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Patterns: Double Dispatch Visitor, Iterator, and Centralized Mediator"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Behavioral Patterns: Double Dispatch Visitor, Iterator, and Centralized Mediator
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

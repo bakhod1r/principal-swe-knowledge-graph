@@ -1,7 +1,7 @@
 ---
 title: Broken Access Control, Bola, and Insecure Direct Object References (idor)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Broken Access Control, Bola, and Insecure Direct Object References (idor)
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

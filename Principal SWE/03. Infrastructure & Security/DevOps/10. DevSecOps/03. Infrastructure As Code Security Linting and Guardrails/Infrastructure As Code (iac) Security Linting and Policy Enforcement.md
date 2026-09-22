@@ -1,7 +1,7 @@
 ---
 title: Infrastructure As Code (iac) Security Linting and Policy Enforcement
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Infrastructure As Code (iac) Security Linting and Policy Enforcement
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

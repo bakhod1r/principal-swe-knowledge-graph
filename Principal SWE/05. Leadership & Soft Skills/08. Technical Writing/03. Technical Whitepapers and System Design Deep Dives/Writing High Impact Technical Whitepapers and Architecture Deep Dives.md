@@ -1,7 +1,7 @@
 ---
 title: Writing High Impact Technical Whitepapers and Architecture Deep Dives
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Writing High Impact Technical Whitepapers and Architecture Deep Dives
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

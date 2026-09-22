@@ -1,7 +1,7 @@
 ---
 title: Cloud Security Posture Management and Compliance Guardrails
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices
@@ -34,4 +34,3 @@ Cloud Security Posture Management and Compliance Guardrails
 ## 🔗 References
 - ⬆️ Parent: [[AWS & Multi Cloud Architecture Best Practices]]
 - 📚 Module: `Best Practices`
-

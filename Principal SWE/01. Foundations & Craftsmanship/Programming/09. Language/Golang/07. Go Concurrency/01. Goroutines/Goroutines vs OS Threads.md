@@ -1,7 +1,7 @@
 ---
 title: "Goroutines vs OS Threads"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -24,17 +24,17 @@ A goroutine is **not an OS thread**. The Go runtime schedules goroutines onto a 
 Key characteristics:
 
 - Managed by Go runtime.
-    
+
 - Starts with a small stack that can grow/shrink.
-    
+
 - Very cheap to create compared with OS threads.
-    
+
 - Communication commonly uses channels.
-    
+
 - Scheduling is performed by Go's scheduler.
-    
+
 - You can have **thousands or millions** of goroutines, depending on workload and resource usage.
-    
+
 
 ### OS Thread
 
@@ -43,26 +43,26 @@ An **OS thread** is a kernel-managed execution context provided by the operating
 Examples:
 
 - Linux `pthread`
-    
+
 - Windows threads
-    
+
 - macOS threads
-    
+
 
 The OS scheduler decides which runnable thread executes on which CPU core.
 
 OS threads generally have:
 
 - Larger per-thread stack reservation.
-    
+
 - Higher creation/destruction overhead.
-    
+
 - Kernel scheduling involvement.
-    
+
 - More expensive context switching.
-    
+
 - A relatively limited practical number compared with goroutines.
-    
+
 
 ---
 
@@ -93,11 +93,11 @@ Go uses an **M:N scheduling model**:
 More precisely, Go's scheduler uses the **G-M-P model**:
 
 - **G** = Goroutine
-    
+
 - **M** = Machine / OS thread
-    
+
 - **P** = Processor, a runtime scheduling resource
-    
+
 
 A simplified execution relationship is:
 
@@ -534,15 +534,15 @@ versus:
 The latter introduces additional:
 
 - scheduling
-    
+
 - memory
-    
+
 - synchronization
-    
+
 - cache pressure
-    
+
 - queueing
-    
+
 
 without creating additional CPU capacity.
 

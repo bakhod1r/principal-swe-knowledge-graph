@@ -1,7 +1,7 @@
 ---
 title: "N Queens"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: Backend Network and Protocol Optimization Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering
@@ -34,4 +34,3 @@ Backend Network and Protocol Optimization Standards
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance & High Throughput Engineering]]
 - 📚 Module: `Best Practices`
-

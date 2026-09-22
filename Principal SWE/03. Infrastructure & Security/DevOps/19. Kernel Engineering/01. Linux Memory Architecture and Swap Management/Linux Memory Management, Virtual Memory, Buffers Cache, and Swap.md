@@ -1,7 +1,7 @@
 ---
 title: Linux Memory Management, Virtual Memory, Buffers Cache, and Swap
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Memory Management, Virtual Memory, Buffers Cache, and Swap
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

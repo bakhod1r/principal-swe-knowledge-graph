@@ -1,7 +1,7 @@
 ---
 title: "Managing Technical Debt vs Feature Delivery: the 20% Allocation Rule"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Managing Technical Debt vs Feature Delivery: the 20% Allocation Rule
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Palindrome Partitioning"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

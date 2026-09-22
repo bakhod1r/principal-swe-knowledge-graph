@@ -1,7 +1,7 @@
 ---
 title: "Intersection of Two Linked Lists (Difference-in-Length vs Cycle)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

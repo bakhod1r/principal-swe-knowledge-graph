@@ -1,7 +1,7 @@
 ---
 title: "Pure Functions, Side Effects, Reentrancy, and Thread Safety"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

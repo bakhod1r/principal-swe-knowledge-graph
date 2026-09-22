@@ -1,7 +1,7 @@
 ---
 title: "The Tech Lead Role: Balancing Code, Architecture, and Team Guidance"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Tech Lead Role: Balancing Code, Architecture, and Team Guidance
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

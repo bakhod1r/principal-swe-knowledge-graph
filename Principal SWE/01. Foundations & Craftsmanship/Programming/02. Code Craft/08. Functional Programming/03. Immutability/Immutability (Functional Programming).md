@@ -1,7 +1,7 @@
 ---
 title: Immutability (Functional Programming)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Immutability (Functional Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Functional Programming]]
-

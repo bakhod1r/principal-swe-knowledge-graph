@@ -1,7 +1,7 @@
 ---
 title: Mex
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -49,4 +49,3 @@ Mex
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

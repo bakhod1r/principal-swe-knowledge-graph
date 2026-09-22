@@ -1,7 +1,7 @@
 ---
 title: "go tool trace (Execution Tracer)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

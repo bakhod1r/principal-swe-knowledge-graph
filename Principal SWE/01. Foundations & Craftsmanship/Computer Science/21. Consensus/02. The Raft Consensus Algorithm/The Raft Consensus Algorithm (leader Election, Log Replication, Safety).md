@@ -1,7 +1,7 @@
 ---
 title: The Raft Consensus Algorithm (leader Election, Log Replication, Safety)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus
@@ -34,4 +34,3 @@ The Raft Consensus Algorithm (leader Election, Log Replication, Safety)
 ## 🔗 References
 - ⬆️ Parent: `Distributed Systems Theory & Consensus`
 - 📚 Module: `Computer Science`
-

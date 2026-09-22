@@ -1,7 +1,7 @@
 ---
 title: Idempotent Consumers and Message Deduplication Stores
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices
@@ -34,4 +34,3 @@ Idempotent Consumers and Message Deduplication Stores
 ## 🔗 References
 - ⬆️ Parent: [[Microservice Resilience & Fault Tolerance Best Practices]]
 - 📚 Module: `Best Practices`
-

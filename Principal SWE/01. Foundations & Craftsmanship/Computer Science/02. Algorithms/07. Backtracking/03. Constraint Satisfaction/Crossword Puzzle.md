@@ -1,7 +1,7 @@
 ---
 title: "Crossword Puzzle"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

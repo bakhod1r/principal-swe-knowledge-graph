@@ -1,7 +1,7 @@
 ---
 title: Authenticated Encryption with Associated Data (aead) Architecture
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security
@@ -34,4 +34,3 @@ Authenticated Encryption with Associated Data (aead) Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

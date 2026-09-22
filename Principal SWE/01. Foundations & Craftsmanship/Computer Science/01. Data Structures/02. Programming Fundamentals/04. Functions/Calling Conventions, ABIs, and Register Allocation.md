@@ -1,7 +1,7 @@
 ---
 title: "Calling Conventions, ABIs, and Register Allocation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

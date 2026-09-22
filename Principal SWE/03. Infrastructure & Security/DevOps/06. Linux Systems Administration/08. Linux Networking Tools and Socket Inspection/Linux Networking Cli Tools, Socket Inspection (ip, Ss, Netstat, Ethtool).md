@@ -1,7 +1,7 @@
 ---
 title: Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

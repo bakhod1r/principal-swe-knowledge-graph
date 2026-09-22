@@ -1,7 +1,7 @@
 ---
 title: "K-Stacks in a Single Dynamic Array (Free-List Index Tracking)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

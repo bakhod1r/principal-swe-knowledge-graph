@@ -1,7 +1,7 @@
 ---
 title: Terraform Providers Architecture, Aliases, and Resource Schemas
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Providers Architecture, Aliases, and Resource Schemas
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

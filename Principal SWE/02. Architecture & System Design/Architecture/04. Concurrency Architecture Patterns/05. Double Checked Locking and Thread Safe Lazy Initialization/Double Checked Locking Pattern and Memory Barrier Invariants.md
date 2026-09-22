@@ -1,7 +1,7 @@
 ---
 title: Double Checked Locking Pattern and Memory Barrier Invariants
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Double Checked Locking Pattern and Memory Barrier Invariants
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

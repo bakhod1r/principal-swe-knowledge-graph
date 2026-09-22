@@ -1,7 +1,7 @@
 ---
 title: "Infrastructure Utilization vs Engineering Salary ROI"
 tags:
-  - review
+
   - programming
   - polyglot
   - principal-swe

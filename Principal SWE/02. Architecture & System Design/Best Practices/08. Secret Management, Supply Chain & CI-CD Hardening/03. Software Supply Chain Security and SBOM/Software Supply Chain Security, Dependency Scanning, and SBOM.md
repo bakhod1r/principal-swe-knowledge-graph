@@ -1,7 +1,7 @@
 ---
 title: Software Supply Chain Security, Dependency Scanning, and SBOM
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening
@@ -34,4 +34,3 @@ Software Supply Chain Security, Dependency Scanning, and SBOM
 ## 🔗 References
 - ⬆️ Parent: [[Secret Management, Supply Chain & CI CD Hardening]]
 - 📚 Module: `Best Practices`
-

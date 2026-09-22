@@ -1,7 +1,7 @@
 ---
 title: "P Struct (Processor Context Internals)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

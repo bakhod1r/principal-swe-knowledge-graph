@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Control Plane (api Server, Etcd, Scheduler, Controllers) and Kubelet
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Control Plane (api Server, Etcd, Scheduler, Controllers) and Kubelet
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

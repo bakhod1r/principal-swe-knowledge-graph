@@ -1,7 +1,7 @@
 ---
 title: "0-1 BFS Shortest Path Algorithm using Deque"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

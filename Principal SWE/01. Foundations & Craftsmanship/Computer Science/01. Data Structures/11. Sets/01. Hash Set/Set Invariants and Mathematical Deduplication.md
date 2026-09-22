@@ -1,7 +1,7 @@
 ---
 title: "Set Invariants and Mathematical Deduplication"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

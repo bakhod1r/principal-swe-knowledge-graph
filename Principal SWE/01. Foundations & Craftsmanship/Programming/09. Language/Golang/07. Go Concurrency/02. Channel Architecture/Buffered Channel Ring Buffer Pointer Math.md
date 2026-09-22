@@ -1,7 +1,7 @@
 ---
 title: "Buffered Channel Ring Buffer Pointer Math"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -12,13 +12,13 @@ parent: "[[Channel Architecture]]"
 A **buffered channel** in Go uses a circular (ring) buffer internally to store elements temporarily. The key to understanding it is the relationship between:
 
 - `qcount` — number of elements currently buffered
-    
+
 - `dataqsiz` — buffer capacity
-    
+
 - `sendx` — next position where a sender writes
-    
+
 - `recvx` — next position where a receiver reads
-    
+
 
 The important insight is:
 
@@ -907,21 +907,21 @@ It's **separating logical state from physical storage**.
 The same idea appears in:
 
 - network packet rings
-    
+
 - lock-free queues
-    
+
 - NIC descriptor rings
-    
+
 - kernel buffers
-    
+
 - storage queues
-    
+
 - Kafka-like log structures
-    
+
 - bounded worker queues
-    
+
 - audio/video streaming buffers
-    
+
 
 You should always ask:
 

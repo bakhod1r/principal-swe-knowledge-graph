@@ -1,7 +1,7 @@
 ---
 title: Non Uniform Memory Access (numa) Systems and Memory Locality
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ Non Uniform Memory Access (numa) Systems and Memory Locality
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

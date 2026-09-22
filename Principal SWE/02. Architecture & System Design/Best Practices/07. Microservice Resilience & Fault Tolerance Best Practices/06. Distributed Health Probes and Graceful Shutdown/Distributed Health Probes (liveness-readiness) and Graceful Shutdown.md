@@ -1,7 +1,7 @@
 ---
 title: Distributed Health Probes (liveness-readiness) and Graceful Shutdown
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices
@@ -34,4 +34,3 @@ Distributed Health Probes (liveness-readiness) and Graceful Shutdown
 ## 🔗 References
 - ⬆️ Parent: [[Microservice Resilience & Fault Tolerance Best Practices]]
 - 📚 Module: `Best Practices`
-

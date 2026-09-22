@@ -1,7 +1,7 @@
 ---
 title: Semantic Caching (gptcache) and Multi Tiered Model Routing
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
@@ -34,4 +34,3 @@ Semantic Caching (gptcache) and Multi Tiered Model Routing
 ## 🔗 References
 - ⬆️ Parent: `High Performance Inference & Llmops Infrastructure`
 - 📚 Module: `AI & Machine Learning`
-

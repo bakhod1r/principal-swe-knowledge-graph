@@ -1,7 +1,7 @@
 ---
 title: "Github Codeowners: Enforcing Domain Specific Review Routing"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Github Codeowners: Enforcing Domain Specific Review Routing
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

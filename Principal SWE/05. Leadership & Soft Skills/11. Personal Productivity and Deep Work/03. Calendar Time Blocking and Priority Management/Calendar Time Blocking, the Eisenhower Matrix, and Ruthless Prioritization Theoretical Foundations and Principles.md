@@ -1,7 +1,7 @@
 ---
 title: "Calendar Time Blocking, the Eisenhower Matrix, and Ruthless Prioritization Theoretical Foundations and Principles"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management

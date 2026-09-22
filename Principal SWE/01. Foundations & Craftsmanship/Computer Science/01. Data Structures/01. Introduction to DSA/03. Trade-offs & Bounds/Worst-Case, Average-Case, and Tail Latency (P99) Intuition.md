@@ -1,7 +1,7 @@
 ---
 title: "Worst-Case, Average-Case, and Tail Latency (P99) Intuition"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

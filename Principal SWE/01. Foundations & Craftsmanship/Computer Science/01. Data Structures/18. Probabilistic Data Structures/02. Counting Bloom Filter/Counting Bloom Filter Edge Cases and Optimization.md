@@ -1,7 +1,7 @@
 ---
 title: "Counting Bloom Filter Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

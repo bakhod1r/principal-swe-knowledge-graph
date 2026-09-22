@@ -1,7 +1,7 @@
 ---
 title: "Letter Combinations of a Phone Number"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

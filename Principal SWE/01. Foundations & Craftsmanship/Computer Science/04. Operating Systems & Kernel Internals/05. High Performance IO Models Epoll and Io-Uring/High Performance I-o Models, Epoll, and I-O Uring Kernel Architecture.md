@@ -1,7 +1,7 @@
 ---
 title: High Performance I-o Models, Epoll, and I-O Uring Kernel Architecture
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ High Performance I-o Models, Epoll, and I-O Uring Kernel Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

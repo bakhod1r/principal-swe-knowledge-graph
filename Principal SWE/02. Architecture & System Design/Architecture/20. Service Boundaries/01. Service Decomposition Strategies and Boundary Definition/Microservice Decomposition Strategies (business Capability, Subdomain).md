@@ -1,7 +1,7 @@
 ---
 title: Microservice Decomposition Strategies (business Capability, Subdomain)
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Microservice Decomposition Strategies (business Capability, Subdomain)
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

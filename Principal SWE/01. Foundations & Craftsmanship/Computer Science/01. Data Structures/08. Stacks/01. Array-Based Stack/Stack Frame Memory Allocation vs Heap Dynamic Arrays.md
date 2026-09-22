@@ -1,7 +1,7 @@
 ---
 title: "Stack Frame Memory Allocation vs Heap Dynamic Arrays"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

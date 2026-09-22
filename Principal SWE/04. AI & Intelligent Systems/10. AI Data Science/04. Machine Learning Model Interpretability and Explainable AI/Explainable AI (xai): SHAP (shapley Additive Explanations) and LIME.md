@@ -1,7 +1,7 @@
 ---
 title: "Explainable AI (xai): SHAP (shapley Additive Explanations) and LIME"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics
@@ -34,4 +34,3 @@ Explainable AI (xai): SHAP (shapley Additive Explanations) and LIME
 ## 🔗 References
 - ⬆️ Parent: `AI Data Science, Statistical Modeling & Econometrics`
 - 📚 Module: `AI & Machine Learning`
-

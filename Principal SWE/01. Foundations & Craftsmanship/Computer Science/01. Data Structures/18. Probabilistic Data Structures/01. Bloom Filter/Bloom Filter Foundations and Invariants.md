@@ -1,7 +1,7 @@
 ---
 title: "Bloom Filter Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

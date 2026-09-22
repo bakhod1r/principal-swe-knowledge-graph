@@ -1,7 +1,7 @@
 ---
 title: Relational Model and Database Foundations
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Relational Model and Database Foundations
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

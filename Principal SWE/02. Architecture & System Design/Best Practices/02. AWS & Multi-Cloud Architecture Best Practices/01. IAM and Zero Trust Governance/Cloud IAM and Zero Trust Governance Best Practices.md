@@ -1,7 +1,7 @@
 ---
 title: Cloud IAM and Zero Trust Governance Best Practices
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - aws-and-multi-cloud-architecture-best-practices
@@ -34,4 +34,3 @@ Cloud IAM and Zero Trust Governance Best Practices
 ## 🔗 References
 - ⬆️ Parent: [[AWS & Multi Cloud Architecture Best Practices]]
 - 📚 Module: `Best Practices`
-

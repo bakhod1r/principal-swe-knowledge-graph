@@ -1,7 +1,7 @@
 ---
 title: GraphQL Core Fundamentals and Schema Definition Language (sdl)
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Core Fundamentals and Schema Definition Language (sdl)
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

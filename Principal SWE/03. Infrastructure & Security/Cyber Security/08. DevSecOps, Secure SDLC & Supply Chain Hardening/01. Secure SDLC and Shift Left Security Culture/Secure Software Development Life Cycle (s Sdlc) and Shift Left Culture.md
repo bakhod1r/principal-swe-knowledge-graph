@@ -1,7 +1,7 @@
 ---
 title: Secure Software Development Life Cycle (s Sdlc) and Shift Left Culture
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening
@@ -34,4 +34,3 @@ Secure Software Development Life Cycle (s Sdlc) and Shift Left Culture
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops, Secure SDLC & Supply Chain Hardening]]
 - 📚 Module: `Cyber Security`
-

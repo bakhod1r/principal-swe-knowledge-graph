@@ -1,7 +1,7 @@
 ---
 title: "go env Environment Inspection"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

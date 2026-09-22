@@ -1,7 +1,7 @@
 ---
 title: Loop Transformations, Vectorization, and Polyhedral Compilation Optimization
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Loop Transformations, Vectorization, and Polyhedral Compilation Optimization
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

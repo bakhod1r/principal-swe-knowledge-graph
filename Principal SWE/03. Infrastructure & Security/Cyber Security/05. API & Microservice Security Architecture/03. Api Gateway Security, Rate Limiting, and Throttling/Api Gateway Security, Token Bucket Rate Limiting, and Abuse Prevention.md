@@ -1,7 +1,7 @@
 ---
 title: Api Gateway Security, Token Bucket Rate Limiting, and Abuse Prevention
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Api Gateway Security, Token Bucket Rate Limiting, and Abuse Prevention
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

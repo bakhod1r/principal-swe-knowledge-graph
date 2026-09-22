@@ -1,7 +1,7 @@
 ---
 title: "Hash Functions & Resizing Architectures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

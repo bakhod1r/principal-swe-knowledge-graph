@@ -1,7 +1,7 @@
 ---
 title: "Backends for Frontend Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

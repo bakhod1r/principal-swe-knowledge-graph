@@ -1,7 +1,7 @@
 ---
 title: "LFU Cache Implementation (Frequency Map + Doubly Linked Lists)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

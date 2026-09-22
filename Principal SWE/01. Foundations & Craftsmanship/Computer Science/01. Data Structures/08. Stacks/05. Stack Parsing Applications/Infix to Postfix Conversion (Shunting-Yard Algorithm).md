@@ -1,7 +1,7 @@
 ---
 title: "Infix to Postfix Conversion (Shunting-Yard Algorithm)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

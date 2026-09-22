@@ -1,7 +1,7 @@
 ---
 title: "What Is System Design Core Principles and Architecture"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems
@@ -18,7 +18,7 @@ At a high level:
 
 > **System Design = Requirements + Constraints + Components + Data + Communication + Failure Handling + Operational Guarantees**
 
-A Principal Engineer does not start with _“Should we use Kafka or Redis?”_  
+A Principal Engineer does not start with _“Should we use Kafka or Redis?”_
 They start with:
 
 > **“What problem are we solving, what guarantees do we need, and what constraints determine the design?”**
@@ -60,25 +60,25 @@ But this diagram alone is not system design.
 Real system design is about answering:
 
 - Who owns the data?
-    
+
 - What happens when the database is unavailable?
-    
+
 - What happens when a request is duplicated?
-    
+
 - What happens when a service is slow?
-    
+
 - What happens when traffic increases 100×?
-    
+
 - What happens when one component fails?
-    
+
 - What consistency do we need?
-    
+
 - What latency do users expect?
-    
+
 - How do we detect failure?
-    
+
 - How do we recover?
-    
+
 
 ---
 
@@ -106,11 +106,11 @@ GET /abc123
 Functional requirements:
 
 - Create short URL
-    
+
 - Redirect short URL
-    
+
 - Optionally track clicks
-    
+
 
 ### Non-Functional Requirements
 
@@ -119,19 +119,19 @@ Functional requirements:
 Examples:
 
 - 100K requests/sec
-    
+
 - P99 latency < 100 ms
-    
+
 - 99.99% availability
-    
+
 - Data must not be lost
-    
+
 - Global users
-    
+
 - 10 TB data
-    
+
 - Eventual consistency acceptable
-    
+
 
 This distinction is fundamental.
 
@@ -208,17 +208,17 @@ may make the system **worse**, not better.
 More components mean:
 
 - more failure modes
-    
+
 - more deployments
-    
+
 - more monitoring
-    
+
 - more network calls
-    
+
 - more operational complexity
-    
+
 - more debugging complexity
-    
+
 
 ### Principal-level principle
 
@@ -319,17 +319,17 @@ For example:
 You get:
 
 - clear ownership
-    
+
 - modularity
-    
+
 - simpler deployment
-    
+
 - local function calls
-    
+
 - simpler transactions
-    
+
 - easier debugging
-    
+
 
 Then, if one module genuinely needs independent scaling/deployment/ownership, it can potentially become a service later.
 
@@ -360,25 +360,25 @@ Service B
 Now you introduce:
 
 - latency
-    
+
 - packet loss
-    
+
 - timeout
-    
+
 - connection failure
-    
+
 - DNS failure
-    
+
 - TLS failure
-    
+
 - retry
-    
+
 - duplication
-    
+
 - ordering problems
-    
+
 - partial failure
-    
+
 
 Therefore:
 
@@ -455,11 +455,11 @@ Immediately sees new value
 Useful for:
 
 - account balances
-    
+
 - inventory reservations
-    
+
 - financial transactions
-    
+
 
 ### Eventual consistency
 
@@ -476,15 +476,15 @@ Other systems eventually see update
 Useful for:
 
 - analytics
-    
+
 - counters
-    
+
 - search indexes
-    
+
 - recommendation systems
-    
+
 - notifications
-    
+
 
 The key question is:
 
@@ -526,19 +526,19 @@ Now traffic can be distributed.
 But horizontal scaling requires thinking about:
 
 - statelessness
-    
+
 - shared state
-    
+
 - session management
-    
+
 - database bottlenecks
-    
+
 - coordination
-    
+
 - distributed locking
-    
+
 - consistency
-    
+
 
 Simply adding servers does not automatically scale the system.
 
@@ -578,29 +578,29 @@ You need to identify the constrained resource.
 Possible bottlenecks:
 
 - CPU
-    
+
 - memory
-    
+
 - disk I/O
-    
+
 - network
-    
+
 - database connections
-    
+
 - locks
-    
+
 - cache
-    
+
 - queue
-    
+
 - external API
-    
+
 - GC
-    
+
 - goroutines
-    
+
 - file descriptors
-    
+
 
 ### Principal-level rule
 
@@ -637,19 +637,19 @@ Redis
 But cache introduces new problems:
 
 - stale data
-    
+
 - invalidation
-    
+
 - cache stampede
-    
+
 - cache penetration
-    
+
 - memory limits
-    
+
 - eviction
-    
+
 - consistency
-    
+
 
 The classic problem:
 
@@ -701,30 +701,30 @@ Queue ───────────────┐
 Benefits:
 
 - lower request latency
-    
+
 - independent scaling
-    
+
 - better resilience
-    
+
 - workload smoothing
-    
+
 
 But now you must handle:
 
 - duplicate messages
-    
+
 - retries
-    
+
 - ordering
-    
+
 - dead-letter queues
-    
+
 - idempotency
-    
+
 - backpressure
-    
+
 - poison messages
-    
+
 
 Distributed systems exchange one type of complexity for another.
 
@@ -845,17 +845,17 @@ This is a **retry storm**.
 Production retry design usually considers:
 
 - bounded retries
-    
+
 - exponential backoff
-    
+
 - jitter
-    
+
 - timeout budget
-    
+
 - idempotency
-    
+
 - retryable vs non-retryable errors
-    
+
 
 ---
 
@@ -909,13 +909,13 @@ return previous result
 This is critical for:
 
 - payments
-    
+
 - order creation
-    
+
 - resource provisioning
-    
+
 - job submission
-    
+
 
 ---
 
@@ -953,17 +953,17 @@ Backpressure means the system has a mechanism to prevent unlimited work accumula
 Possible strategies:
 
 - bounded queues
-    
+
 - rate limiting
-    
+
 - load shedding
-    
+
 - admission control
-    
+
 - producer throttling
-    
+
 - consumer scaling
-    
+
 
 ### Important mental model
 
@@ -1116,21 +1116,21 @@ Rollback
 Production architecture should support:
 
 - rolling deployments
-    
+
 - health checks
-    
+
 - graceful shutdown
-    
+
 - readiness/liveness
-    
+
 - rollback
-    
+
 - configuration management
-    
+
 - secret management
-    
+
 - capacity management
-    
+
 
 A theoretically perfect system that cannot be safely deployed is not a good production system.
 
@@ -1173,17 +1173,17 @@ Assume dependencies fail.
 Bound:
 
 - queues
-    
+
 - retries
-    
+
 - concurrency
-    
+
 - memory
-    
+
 - connections
-    
+
 - request duration
-    
+
 
 ### 9. Prefer Explicit Contracts
 
@@ -1404,4 +1404,3 @@ For a Go backend engineer, this becomes especially powerful when you connect the
 ## 🔗 References
 - ⬆️ Parent: [[What Is System Design]]
 - 📚 Module: `Introduction`
-

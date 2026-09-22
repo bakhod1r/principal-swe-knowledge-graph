@@ -1,7 +1,7 @@
 ---
 title: "Hash Set Memory Overhead per Element vs Raw Buffers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

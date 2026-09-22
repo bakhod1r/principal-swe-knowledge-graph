@@ -1,7 +1,7 @@
 ---
 title: "Incremental and Progressive Rehashing Mechanics (Redis Dict Resizing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

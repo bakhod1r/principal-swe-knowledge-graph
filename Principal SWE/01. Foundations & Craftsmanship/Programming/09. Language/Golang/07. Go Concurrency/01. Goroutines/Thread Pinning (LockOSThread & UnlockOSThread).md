@@ -1,7 +1,7 @@
 ---
 title: "Thread Pinning (LockOSThread & UnlockOSThread)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -63,17 +63,17 @@ OS Thread #42
 Examples include certain:
 
 - GUI frameworks
-    
+
 - OpenGL contexts
-    
+
 - OS-specific APIs
-    
+
 - thread-local storage
-    
+
 - C libraries with thread-local state
-    
+
 - foreign-function interfaces
-    
+
 
 For these cases, Go provides thread pinning.
 
@@ -577,15 +577,15 @@ This is another common misconception.
 It does **not** provide:
 
 - mutual exclusion
-    
+
 - memory synchronization
-    
+
 - ordering between goroutines
-    
+
 - protection of shared data
-    
+
 - race prevention
-    
+
 
 This:
 
@@ -856,61 +856,61 @@ Before using `LockOSThread`, ask:
 ### Requirement
 
 - Does the external API genuinely require OS-thread affinity?
-    
+
 - Is this documented by the API/library?
-    
+
 
 ### Scope
 
 - Can I isolate the thread-sensitive section?
-    
+
 - Can I use a dedicated worker instead?
-    
+
 
 ### Blocking
 
 - Can the pinned goroutine block?
-    
+
 - Can it perform network or disk I/O?
-    
+
 - What happens under load?
-    
+
 
 ### Lifecycle
 
 - Where is initialization performed?
-    
+
 - Where is cleanup performed?
-    
+
 - Must cleanup happen on the same thread?
-    
+
 
 ### Concurrency
 
 - How many pinned goroutines can exist?
-    
+
 - Is the number bounded?
-    
+
 
 ### Failure
 
 - What happens if the worker crashes/panics?
-    
+
 - Can requests queue indefinitely?
-    
+
 - Is there backpressure?
-    
+
 
 ### Observability
 
 - Can I measure queue length?
-    
+
 - Processing latency?
-    
+
 - Worker utilization?
-    
+
 - Errors/timeouts?
-    
+
 
 These questions are much more important than simply knowing the API.
 
@@ -963,23 +963,23 @@ That is a **real constraint**, not a performance optimization.
 ## Key Takeaways
 
 1. **`LockOSThread()` pins the calling goroutine to its current OS thread.**
-    
+
 2. **`UnlockOSThread()` releases that affinity.**
-    
+
 3. It exists primarily for **OS-thread-affine external APIs**.
-    
+
 4. It does **not** provide mutual exclusion or synchronization.
-    
+
 5. `go func()` does not inherit the parent's thread affinity.
-    
+
 6. Do not pin merely because you're using cgo.
-    
+
 7. Avoid holding a pinned goroutine during unnecessary blocking work.
-    
+
 8. For persistent thread-affine state, a **dedicated locked worker goroutine** is often the cleanest architecture.
-    
+
 9. Always make lock/unlock lifecycle explicit, usually with `defer`.
-    
+
 10. Treat thread pinning as an **exception to Go's normal concurrency model**, not as a general-purpose concurrency technique.
 
 ---

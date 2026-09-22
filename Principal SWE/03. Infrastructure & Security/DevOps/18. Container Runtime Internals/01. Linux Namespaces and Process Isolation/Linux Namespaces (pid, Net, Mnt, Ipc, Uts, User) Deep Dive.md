@@ -1,7 +1,7 @@
 ---
 title: Linux Namespaces (pid, Net, Mnt, Ipc, Uts, User) Deep Dive
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Linux Namespaces (pid, Net, Mnt, Ipc, Uts, User) Deep Dive
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

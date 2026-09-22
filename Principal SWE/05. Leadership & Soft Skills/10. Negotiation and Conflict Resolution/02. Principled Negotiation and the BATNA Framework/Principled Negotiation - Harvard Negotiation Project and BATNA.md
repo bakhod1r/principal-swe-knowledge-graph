@@ -1,7 +1,7 @@
 ---
 title: "Principled Negotiation: Harvard Negotiation Project and BATNA"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Principled Negotiation: Harvard Negotiation Project and BATNA
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

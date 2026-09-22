@@ -1,7 +1,7 @@
 ---
 title: Conversation History Compaction, Semantic Summarization, and Transcripts
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling
@@ -34,4 +34,3 @@ Conversation History Compaction, Semantic Summarization, and Transcripts
 ## 🔗 References
 - ⬆️ Parent: `Claude Code, Subagents, Model Context Protocol MCP & Tooling`
 - 📚 Module: `AI & Machine Learning`
-

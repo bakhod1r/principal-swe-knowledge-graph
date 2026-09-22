@@ -1,7 +1,7 @@
 ---
 title: "Arc 2q Cache Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

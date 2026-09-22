@@ -1,7 +1,7 @@
 ---
 title: Ransomware Defense, Blast Radius Containment, and Immutable Backups
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing
@@ -34,4 +34,3 @@ Ransomware Defense, Blast Radius Containment, and Immutable Backups
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types, Red Teaming & Penetration Testing]]
 - 📚 Module: `Cyber Security`
-

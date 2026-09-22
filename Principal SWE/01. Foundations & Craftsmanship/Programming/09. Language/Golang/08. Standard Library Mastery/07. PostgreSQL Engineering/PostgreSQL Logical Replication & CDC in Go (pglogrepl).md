@@ -1,7 +1,7 @@
 ---
 title: "PostgreSQL Logical Replication & CDC in Go (pglogrepl)"
 tags:
-  - review
+
   - golang
   - database
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Error Handling (Clean Code)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -34,4 +34,3 @@ Error Handling (Clean Code)
 
 ## 🔗 References
 - ⬆️ Parent: [[Clean Code]]
-

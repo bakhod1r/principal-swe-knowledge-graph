@@ -1,7 +1,7 @@
 ---
 title: Untyped Lambda Calculus, Alpha Beta Eta Reductions, and Church Encodings
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems
@@ -34,4 +34,3 @@ Untyped Lambda Calculus, Alpha Beta Eta Reductions, and Church Encodings
 ## 🔗 References
 - ⬆️ Parent: `Programming Language Theory & Type Systems`
 - 📚 Module: `Computer Science`
-

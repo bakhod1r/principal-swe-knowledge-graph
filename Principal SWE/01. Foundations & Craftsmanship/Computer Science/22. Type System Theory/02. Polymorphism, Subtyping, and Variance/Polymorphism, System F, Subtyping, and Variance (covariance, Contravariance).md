@@ -1,7 +1,7 @@
 ---
 title: Polymorphism, System F, Subtyping, and Variance (covariance, Contravariance)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems
@@ -34,4 +34,3 @@ Polymorphism, System F, Subtyping, and Variance (covariance, Contravariance)
 ## 🔗 References
 - ⬆️ Parent: `Programming Language Theory & Type Systems`
 - 📚 Module: `Computer Science`
-

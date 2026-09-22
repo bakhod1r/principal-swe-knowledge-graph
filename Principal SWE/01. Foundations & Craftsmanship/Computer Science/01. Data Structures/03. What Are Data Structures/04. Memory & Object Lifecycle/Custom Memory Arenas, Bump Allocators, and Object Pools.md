@@ -1,7 +1,7 @@
 ---
 title: "Custom Memory Arenas, Bump Allocators, and Object Pools"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

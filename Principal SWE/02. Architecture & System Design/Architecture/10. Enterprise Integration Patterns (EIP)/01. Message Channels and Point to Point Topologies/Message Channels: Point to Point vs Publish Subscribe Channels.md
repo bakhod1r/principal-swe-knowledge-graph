@@ -1,7 +1,7 @@
 ---
 title: "Message Channels: Point to Point vs Publish Subscribe Channels"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Message Channels: Point to Point vs Publish Subscribe Channels
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

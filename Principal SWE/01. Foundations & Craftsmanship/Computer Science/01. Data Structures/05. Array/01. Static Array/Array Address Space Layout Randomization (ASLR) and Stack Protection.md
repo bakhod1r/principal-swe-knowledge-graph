@@ -1,7 +1,7 @@
 ---
 title: "Array Address Space Layout Randomization (ASLR) and Stack Protection"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

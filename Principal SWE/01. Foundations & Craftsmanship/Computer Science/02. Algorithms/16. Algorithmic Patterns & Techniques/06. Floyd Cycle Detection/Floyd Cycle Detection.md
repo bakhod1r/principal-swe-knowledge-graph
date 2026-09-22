@@ -1,7 +1,7 @@
 ---
 title: Floyd Cycle Detection
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -42,4 +42,3 @@ Floyd Cycle Detection
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

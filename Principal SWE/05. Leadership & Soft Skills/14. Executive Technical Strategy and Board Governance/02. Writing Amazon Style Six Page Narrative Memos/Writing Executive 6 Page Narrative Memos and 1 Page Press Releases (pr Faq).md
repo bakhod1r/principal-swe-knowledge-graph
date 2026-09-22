@@ -1,7 +1,7 @@
 ---
 title: Writing Executive 6 Page Narrative Memos and 1 Page Press Releases (pr Faq)
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Writing Executive 6 Page Narrative Memos and 1 Page Press Releases (pr Faq)
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

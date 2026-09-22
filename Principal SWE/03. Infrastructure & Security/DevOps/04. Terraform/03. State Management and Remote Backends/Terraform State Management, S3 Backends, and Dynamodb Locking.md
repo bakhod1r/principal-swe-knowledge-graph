@@ -1,7 +1,7 @@
 ---
 title: Terraform State Management, S3 Backends, and Dynamodb Locking
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform State Management, S3 Backends, and Dynamodb Locking
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

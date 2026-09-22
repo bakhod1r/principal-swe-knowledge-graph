@@ -1,7 +1,7 @@
 ---
 title: "The Test Pyramid vs Testing Trophy: Designing Optimal Test Suites"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Test Pyramid vs Testing Trophy: Designing Optimal Test Suites
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

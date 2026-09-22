@@ -1,7 +1,7 @@
 ---
 title: Static (sast), Dynamic (dast), and Secret Analysis Automation
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening
@@ -34,4 +34,3 @@ Static (sast), Dynamic (dast), and Secret Analysis Automation
 ## 🔗 References
 - ⬆️ Parent: [[Secret Management, Supply Chain & CI CD Hardening]]
 - 📚 Module: `Best Practices`
-

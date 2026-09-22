@@ -1,7 +1,7 @@
 ---
 title: "Interface Segregation Principle (ISP) in Go"
 tags:
-  - review
+
   - golang
   - methods-and-interfaces
   - principal-swe

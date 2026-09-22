@@ -1,7 +1,7 @@
 ---
 title: "Formal Algorithmic Specifications and CLRS Conventions"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

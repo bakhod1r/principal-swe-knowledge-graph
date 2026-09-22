@@ -1,17 +1,17 @@
 ---
-title: "Performance Management - Review Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns"
+title: "Performance Management  Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
   - team-lead
   - engineering-management-and-people-leadership
   - principal-swe
-parent: "[[Performance Management - Review Cycles, Talent Calibrations, and PIPs]]"
+parent: "[[Performance Management  Cycles, Talent Calibrations, and PIPs]]"
 ---
 
-# Performance Management - Review Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns
+# Performance Management  Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns
 
 ## 1. Definition
 
@@ -24,5 +24,5 @@ parent: "[[Performance Management - Review Cycles, Talent Calibrations, and PIPs
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Performance Management - Review Cycles, Talent Calibrations, and PIPs]]
+- ⬆️ Parent: [[Performance Management  Cycles, Talent Calibrations, and PIPs]]
 - 📚 Module: `Engineering Management & People Leadership`

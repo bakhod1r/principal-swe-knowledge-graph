@@ -1,7 +1,7 @@
 ---
 title: AWS Lambda Internals, Event Source Mappings, and Step Functions
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS Lambda Internals, Event Source Mappings, and Step Functions
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

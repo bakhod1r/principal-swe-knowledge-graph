@@ -1,7 +1,7 @@
 ---
 title: Hermetic Builds, Supply Chain Levels (slsa), and Signed Artifacts
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening
@@ -34,4 +34,3 @@ Hermetic Builds, Supply Chain Levels (slsa), and Signed Artifacts
 ## 🔗 References
 - ⬆️ Parent: [[Secret Management, Supply Chain & CI CD Hardening]]
 - 📚 Module: `Best Practices`
-

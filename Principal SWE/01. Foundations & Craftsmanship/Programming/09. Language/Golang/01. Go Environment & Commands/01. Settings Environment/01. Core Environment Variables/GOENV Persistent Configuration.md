@@ -1,7 +1,7 @@
 ---
 title: "GOENV Persistent Configuration"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -660,15 +660,15 @@ GOPROXY=https://user:password@example.com
 Prefer:
 
 - credential helpers
-    
+
 - `.netrc` where appropriate
-    
+
 - CI secret stores
-    
+
 - cloud secret managers
-    
+
 - authenticated internal proxies with proper credential handling
-    
+
 
 The general principle is:
 

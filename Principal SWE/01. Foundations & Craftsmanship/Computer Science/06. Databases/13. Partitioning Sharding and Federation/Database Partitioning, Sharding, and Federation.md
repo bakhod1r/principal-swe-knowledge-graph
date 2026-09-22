@@ -1,7 +1,7 @@
 ---
 title: Database Partitioning, Sharding, and Federation
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Database Partitioning, Sharding, and Federation
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

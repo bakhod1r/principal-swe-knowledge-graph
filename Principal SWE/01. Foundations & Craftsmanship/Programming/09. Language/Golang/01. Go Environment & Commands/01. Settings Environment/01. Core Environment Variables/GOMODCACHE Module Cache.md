@@ -1,7 +1,7 @@
 ---
 title: "GOMODCACHE Module Cache"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -147,17 +147,17 @@ $GOMODCACHE/
 The module cache can contain:
 
 - downloaded module source
-    
+
 - different versions of the same module
-    
+
 - module metadata
-    
+
 - downloaded `.zip` files
-    
+
 - extracted module contents
-    
+
 - checksum-related information
-    
+
 
 For example:
 

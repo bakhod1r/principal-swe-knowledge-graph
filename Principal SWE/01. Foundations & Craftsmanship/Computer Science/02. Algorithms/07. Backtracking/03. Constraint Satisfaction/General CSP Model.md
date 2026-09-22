@@ -1,7 +1,7 @@
 ---
 title: "General CSP Model"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

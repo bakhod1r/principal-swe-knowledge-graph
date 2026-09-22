@@ -1,7 +1,7 @@
 ---
 title: Cross Organization Technical Governance and Architectural Review
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Cross Organization Technical Governance and Architectural Review
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

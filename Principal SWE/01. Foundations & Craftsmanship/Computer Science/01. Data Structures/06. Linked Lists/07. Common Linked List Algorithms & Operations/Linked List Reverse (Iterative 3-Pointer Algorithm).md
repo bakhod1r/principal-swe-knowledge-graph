@@ -1,7 +1,7 @@
 ---
 title: "Linked List Reverse (Iterative 3-Pointer Algorithm)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

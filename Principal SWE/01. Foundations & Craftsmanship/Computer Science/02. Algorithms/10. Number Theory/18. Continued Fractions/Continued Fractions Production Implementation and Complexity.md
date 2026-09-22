@@ -1,7 +1,7 @@
 ---
 title: "Continued Fractions Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

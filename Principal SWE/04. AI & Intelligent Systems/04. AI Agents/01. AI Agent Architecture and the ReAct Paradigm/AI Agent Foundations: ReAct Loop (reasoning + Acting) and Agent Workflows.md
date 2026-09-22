@@ -1,7 +1,7 @@
 ---
 title: "AI Agent Foundations: ReAct Loop (reasoning + Acting) and Agent Workflows"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ AI Agent Foundations: ReAct Loop (reasoning + Acting) and Agent Workflows
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

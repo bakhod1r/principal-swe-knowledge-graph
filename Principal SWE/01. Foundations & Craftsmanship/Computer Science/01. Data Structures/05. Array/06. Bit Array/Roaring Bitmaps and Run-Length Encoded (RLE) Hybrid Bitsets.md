@@ -1,7 +1,7 @@
 ---
 title: "Roaring Bitmaps and Run-Length Encoded (RLE) Hybrid Bitsets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

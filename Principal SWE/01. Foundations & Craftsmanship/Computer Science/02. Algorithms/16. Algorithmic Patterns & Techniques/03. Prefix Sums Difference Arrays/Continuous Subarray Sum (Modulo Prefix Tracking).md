@@ -1,7 +1,7 @@
 ---
 title: "Continuous Subarray Sum (Modulo Prefix Tracking)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

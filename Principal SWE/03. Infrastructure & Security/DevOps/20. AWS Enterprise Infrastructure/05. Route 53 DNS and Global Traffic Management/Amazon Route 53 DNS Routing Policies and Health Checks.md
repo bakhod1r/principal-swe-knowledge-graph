@@ -1,7 +1,7 @@
 ---
 title: Amazon Route 53 DNS Routing Policies and Health Checks
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon Route 53 DNS Routing Policies and Health Checks
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Aggregates and Aggregate Roots: Transactional and Consistency Boundaries"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Aggregates and Aggregate Roots: Transactional and Consistency Boundaries
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

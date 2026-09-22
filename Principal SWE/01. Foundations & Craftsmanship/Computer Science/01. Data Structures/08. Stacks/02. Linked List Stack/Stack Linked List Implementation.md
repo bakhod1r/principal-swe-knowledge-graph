@@ -1,7 +1,7 @@
 ---
 title: "Stack Linked List Implementation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

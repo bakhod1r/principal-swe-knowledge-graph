@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo Hashing Two-Way Choice and Power of Two Choices"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

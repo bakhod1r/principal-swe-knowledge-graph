@@ -1,7 +1,7 @@
 ---
 title: "Skip List Search, Insertion, and Predecessor Array Traversal"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

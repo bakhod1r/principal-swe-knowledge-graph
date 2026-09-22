@@ -1,7 +1,7 @@
 ---
 title: "Engineering Organizational Complexity and Cognitive Load"
 tags:
-  - review
+
   - programming
   - polyglot
   - principal-swe

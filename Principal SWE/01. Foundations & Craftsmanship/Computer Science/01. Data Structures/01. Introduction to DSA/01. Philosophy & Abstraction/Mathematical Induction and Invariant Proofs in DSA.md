@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Induction and Invariant Proofs in DSA"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe
@@ -14,9 +14,9 @@ Mathematical induction and invariants are two of the most important proof techni
 A useful distinction:
 
 - **Induction** → proves a statement for an entire sequence of input sizes or recursive structure.
-    
+
 - **Invariant** → proves that a property remains true while an algorithm evolves its state.
-    
+
 
 ---
 
@@ -50,21 +50,21 @@ Proof techniques give us:
 This is especially important for:
 
 - sorting
-    
+
 - binary search
-    
+
 - graph algorithms
-    
+
 - dynamic programming
-    
+
 - greedy algorithms
-    
+
 - recursion
-    
+
 - loop correctness
-    
+
 - data-structure operations
-    
+
 
 ---
 
@@ -582,11 +582,11 @@ This is precise and mathematically useful.
 A good invariant should be:
 
 1. **True initially**
-    
+
 2. **Preserved by every iteration**
-    
+
 3. **Strong enough to imply correctness at termination**
-    
+
 
 ---
 
@@ -599,15 +599,15 @@ Suppose we write:
 Problems:
 
 - What does "small" mean?
-    
+
 - How many elements?
-    
+
 - Relative to what?
-    
+
 - Does it guarantee sortedness?
-    
+
 - Can we use it to prove termination correctness?
-    
+
 
 It is too vague.
 
@@ -732,7 +732,7 @@ This is another mathematical proof technique.
 Consider a sorted array and two pointers:
 
 ```text
-left  → 
+left  →
 right ←
 ```
 
@@ -761,17 +761,17 @@ The search space has become empty.
 This pattern appears in:
 
 - two-sum
-    
+
 - sliding window
-    
+
 - partitioning
-    
+
 - merge algorithms
-    
+
 - interval algorithms
-    
+
 - palindrome checking
-    
+
 
 ---
 
@@ -914,13 +914,13 @@ dp[i]=correct optimal solution for problem idp[i] = \text{correct optimal s
 You prove this through:
 
 1. Base cases
-    
+
 2. Inductive assumption for smaller states
-    
+
 3. Recurrence
-    
+
 4. Proof that recurrence considers all necessary possibilities
-    
+
 
 For example:
 
@@ -947,13 +947,13 @@ Then induction can extend that argument to the remaining problem.
 Classic examples:
 
 - interval scheduling
-    
+
 - Kruskal
-    
+
 - Prim
-    
+
 - Huffman coding
-    
+
 
 So:
 
@@ -972,48 +972,48 @@ You should become comfortable recognizing these.
 Used for:
 
 - recursive algorithms
-    
+
 - formulas
-    
+
 - complexity
-    
+
 - structural properties
-    
+
 
 ### 2. Loop invariant
 
 Used for:
 
 - iterative algorithms
-    
+
 - sorting
-    
+
 - searching
-    
+
 - pointer algorithms
-    
+
 
 ### 3. Strong induction
 
 Used when:
 
 - multiple smaller cases are required
-    
+
 - recursive decomposition is irregular
-    
+
 - DP states depend on many previous states
-    
+
 
 ### 4. Exchange / contradiction / cut arguments
 
 Used heavily for:
 
 - greedy algorithms
-    
+
 - graph algorithms
-    
+
 - optimality proofs
-    
+
 
 ---
 
@@ -1097,19 +1097,19 @@ That mental model becomes extremely useful beyond DSA.
 It is the same reasoning used in:
 
 - concurrent algorithms
-    
+
 - distributed systems
-    
+
 - database transactions
-    
+
 - protocol design
-    
+
 - state machines
-    
+
 - replicated systems
-    
+
 - formal verification
-    
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "2D Difference Array (Grid Boundary Updates)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

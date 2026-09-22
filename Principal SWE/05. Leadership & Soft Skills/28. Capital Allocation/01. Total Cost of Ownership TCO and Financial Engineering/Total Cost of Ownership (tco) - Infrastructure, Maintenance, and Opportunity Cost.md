@@ -1,7 +1,7 @@
 ---
 title: "Total Cost of Ownership (tco): Infrastructure, Maintenance, and Opportunity Cost"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Total Cost of Ownership (tco): Infrastructure, Maintenance, and Opportunity Cost
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

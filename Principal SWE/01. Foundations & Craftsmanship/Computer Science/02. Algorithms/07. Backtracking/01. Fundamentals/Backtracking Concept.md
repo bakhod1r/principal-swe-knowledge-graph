@@ -1,7 +1,7 @@
 ---
 title: "Backtracking Concept"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

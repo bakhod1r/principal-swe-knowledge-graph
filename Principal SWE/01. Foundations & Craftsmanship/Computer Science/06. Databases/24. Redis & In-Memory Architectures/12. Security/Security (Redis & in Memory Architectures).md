@@ -1,7 +1,7 @@
 ---
 title: Security (Redis & in Memory Architectures)
 tags:
-  - review
+
   - backend
   - architecture
   - redis-and-in-memory-architectures
@@ -34,4 +34,3 @@ Security (Redis & in Memory Architectures)
 ## 🔗 References
 - ⬆️ Parent: [[Redis & in Memory Architectures]]
 - 📚 Module: `Databases`
-

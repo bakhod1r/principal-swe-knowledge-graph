@@ -1,7 +1,7 @@
 ---
 title: "2D Matrix Prefix Sums (Inclusion-Exclusion Rectangular Queries)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

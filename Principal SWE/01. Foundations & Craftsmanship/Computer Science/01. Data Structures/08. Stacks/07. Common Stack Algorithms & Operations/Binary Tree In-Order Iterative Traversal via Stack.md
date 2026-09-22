@@ -1,7 +1,7 @@
 ---
 title: "Binary Tree In-Order Iterative Traversal via Stack"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Generic Lock-Free Queue (Michael-Scott Queue)"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Fast Insertion and Lookup Patterns (Compute-If-Absent, Upsert)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

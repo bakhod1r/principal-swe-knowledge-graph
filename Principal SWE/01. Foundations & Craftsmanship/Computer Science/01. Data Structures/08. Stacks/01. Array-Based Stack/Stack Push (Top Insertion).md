@@ -1,7 +1,7 @@
 ---
 title: "Stack Push (Top Insertion)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

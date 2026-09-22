@@ -1,7 +1,7 @@
 ---
 title: GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks
 ## 🔗 References
 - ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

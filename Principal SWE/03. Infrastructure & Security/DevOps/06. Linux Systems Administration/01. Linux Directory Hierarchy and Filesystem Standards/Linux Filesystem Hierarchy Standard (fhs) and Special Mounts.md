@@ -1,7 +1,7 @@
 ---
 title: Linux Filesystem Hierarchy Standard (fhs) and Special Mounts
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Filesystem Hierarchy Standard (fhs) and Special Mounts
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: Artifact Provenance, GitHub Artifact Attestations, and SLSA
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Artifact Provenance, GitHub Artifact Attestations, and SLSA
 ## 🔗 References
 - ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

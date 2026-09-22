@@ -1,7 +1,7 @@
 ---
 title: "Scheduler & Goroutine Contention Metrics"
 tags:
-  - review
+
   - golang
   - observability
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Supervised Fine Tuning (sft) Dataset Preparation, Cleaning, and Curation
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Supervised Fine Tuning (sft) Dataset Preparation, Cleaning, and Curation
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

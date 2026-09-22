@@ -1,7 +1,7 @@
 ---
 title: API Authorization and Access Control Enforcement
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices
@@ -34,4 +34,3 @@ API Authorization and Access Control Enforcement
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: `Best Practices`
-

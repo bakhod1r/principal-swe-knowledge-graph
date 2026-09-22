@@ -1,7 +1,7 @@
 ---
 title: "Model Monitoring in Production: Data Drift, Concept Drift, and Evidently Ai"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Model Monitoring in Production: Data Drift, Concept Drift, and Evidently Ai
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

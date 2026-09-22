@@ -1,7 +1,7 @@
 ---
 title: OLTP vs OLAP and Data Warehousing Architectures
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ OLTP vs OLAP and Data Warehousing Architectures
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

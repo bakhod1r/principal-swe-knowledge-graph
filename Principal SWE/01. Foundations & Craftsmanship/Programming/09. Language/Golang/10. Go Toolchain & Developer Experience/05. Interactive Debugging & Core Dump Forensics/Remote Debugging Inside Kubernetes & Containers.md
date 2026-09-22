@@ -1,7 +1,7 @@
 ---
 title: "Remote Debugging Inside Kubernetes & Containers"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

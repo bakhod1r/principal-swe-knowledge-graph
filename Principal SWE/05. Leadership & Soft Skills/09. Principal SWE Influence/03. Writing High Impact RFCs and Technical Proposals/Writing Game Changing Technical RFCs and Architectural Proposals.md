@@ -1,7 +1,7 @@
 ---
 title: Writing Game Changing Technical RFCs and Architectural Proposals
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Writing Game Changing Technical RFCs and Architectural Proposals
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

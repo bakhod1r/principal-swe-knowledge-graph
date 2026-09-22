@@ -1,7 +1,7 @@
 ---
 title: GitHub Projects (V2), Custom Fields, and Automated Board Workflows
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Projects (V2), Custom Fields, and Automated Board Workflows
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

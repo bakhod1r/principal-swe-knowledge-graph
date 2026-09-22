@@ -1,7 +1,7 @@
 ---
 title: "GONOPROXY & GONOSUMDB Bypass Rules"
 tags:
-  - review
+
   - golang
   - dependencies
   - principal-swe

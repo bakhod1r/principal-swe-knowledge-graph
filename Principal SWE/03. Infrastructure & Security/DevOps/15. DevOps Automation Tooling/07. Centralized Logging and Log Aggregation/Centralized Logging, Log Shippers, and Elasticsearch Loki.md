@@ -1,7 +1,7 @@
 ---
 title: Centralized Logging, Log Shippers, and Elasticsearch Loki
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Centralized Logging, Log Shippers, and Elasticsearch Loki
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

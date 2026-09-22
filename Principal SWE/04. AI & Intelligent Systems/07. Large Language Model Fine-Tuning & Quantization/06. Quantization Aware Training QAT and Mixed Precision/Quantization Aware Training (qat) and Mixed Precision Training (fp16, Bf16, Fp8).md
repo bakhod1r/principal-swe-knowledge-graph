@@ -1,7 +1,7 @@
 ---
 title: Quantization Aware Training (qat) and Mixed Precision Training (fp16, Bf16, Fp8)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Quantization Aware Training (qat) and Mixed Precision Training (fp16, Bf16, Fp8)
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Jump Game VI DP Optimization via Monotonic Queue"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: "Blameless Incident Postmortems: Comprehensive Timelines and Action Items"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Blameless Incident Postmortems: Comprehensive Timelines and Action Items
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

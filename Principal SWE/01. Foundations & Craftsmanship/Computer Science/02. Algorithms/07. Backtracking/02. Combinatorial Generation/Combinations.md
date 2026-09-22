@@ -1,7 +1,7 @@
 ---
 title: "Combinations"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

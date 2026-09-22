@@ -1,7 +1,7 @@
 ---
 title: "Shift Left Testing: Quality Engineering From Discovery to Commit"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Shift Left Testing: Quality Engineering From Discovery to Commit
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

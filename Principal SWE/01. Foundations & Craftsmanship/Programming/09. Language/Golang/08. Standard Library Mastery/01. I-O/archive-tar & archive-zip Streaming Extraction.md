@@ -1,7 +1,7 @@
 ---
 title: "archive-tar & archive-zip Streaming Extraction"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

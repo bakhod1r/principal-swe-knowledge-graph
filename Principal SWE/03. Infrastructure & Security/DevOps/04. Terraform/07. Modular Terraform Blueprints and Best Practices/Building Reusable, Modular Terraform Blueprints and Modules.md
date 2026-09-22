@@ -1,7 +1,7 @@
 ---
 title: Building Reusable, Modular Terraform Blueprints and Modules
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Building Reusable, Modular Terraform Blueprints and Modules
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

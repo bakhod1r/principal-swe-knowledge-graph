@@ -1,7 +1,7 @@
 ---
 title: "The Strangler Fig Application Pattern: Incremental Monolith Migration"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ The Strangler Fig Application Pattern: Incremental Monolith Migration
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

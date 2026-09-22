@@ -1,7 +1,7 @@
 ---
 title: Combinatorics, Permutations, Combinations, and Generating Functions
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Combinatorics, Permutations, Combinations, and Generating Functions
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: Openssh Server Hardening, Key Authentication, and Bastions
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Openssh Server Hardening, Key Authentication, and Bastions
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

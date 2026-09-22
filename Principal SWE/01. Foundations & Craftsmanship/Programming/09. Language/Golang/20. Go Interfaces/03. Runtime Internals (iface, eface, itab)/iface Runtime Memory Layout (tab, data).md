@@ -1,7 +1,7 @@
 ---
 title: "iface Runtime Memory Layout (tab, data)"
 tags:
-  - review
+
   - golang
   - methods-and-interfaces
   - principal-swe

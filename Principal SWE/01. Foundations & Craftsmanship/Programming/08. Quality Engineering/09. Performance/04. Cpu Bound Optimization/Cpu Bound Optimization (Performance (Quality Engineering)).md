@@ -1,7 +1,7 @@
 ---
 title: Cpu Bound Optimization (Performance (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Cpu Bound Optimization (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-

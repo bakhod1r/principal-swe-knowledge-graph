@@ -1,7 +1,7 @@
 ---
 title: "Formal Semantics: Operational, Denotational, and Axiomatic (hoare Logic)"
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems
@@ -34,4 +34,3 @@ Formal Semantics: Operational, Denotational, and Axiomatic (hoare Logic)
 ## 🔗 References
 - ⬆️ Parent: `Programming Language Theory & Type Systems`
 - 📚 Module: `Computer Science`
-

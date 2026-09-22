@@ -1,7 +1,7 @@
 ---
 title: "Linearizability, Sequential Consistency, and Concurrency Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

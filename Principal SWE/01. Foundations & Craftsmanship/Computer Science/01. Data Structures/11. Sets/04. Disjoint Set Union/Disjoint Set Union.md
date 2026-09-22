@@ -1,7 +1,7 @@
 ---
 title: "Disjoint Set Union"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

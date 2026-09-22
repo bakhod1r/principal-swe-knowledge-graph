@@ -1,7 +1,7 @@
 ---
 title: Row Level Security (rls), Tenant Isolation, and Virtual Private Databases
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Row Level Security (rls), Tenant Isolation, and Virtual Private Databases
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

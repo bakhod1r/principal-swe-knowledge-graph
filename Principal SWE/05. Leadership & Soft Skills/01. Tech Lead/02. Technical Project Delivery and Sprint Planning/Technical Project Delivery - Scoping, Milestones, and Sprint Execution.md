@@ -1,7 +1,7 @@
 ---
 title: "Technical Project Delivery: Scoping, Milestones, and Sprint Execution"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Technical Project Delivery: Scoping, Milestones, and Sprint Execution
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

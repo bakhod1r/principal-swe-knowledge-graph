@@ -1,7 +1,7 @@
 ---
 title: "Garbage Collection Topologies (Tracing, Generational, Reference Counting)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

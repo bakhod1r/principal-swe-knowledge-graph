@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Transform Rules, Url Rewrites, and Header Modification
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare Transform Rules, Url Rewrites, and Header Modification
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Endianness, Byte Ordering, and Cross-Platform Data Representation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: AWS Transit Gateway, Direct Connect, and Site to Site VPN
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS Transit Gateway, Direct Connect, and Site to Site VPN
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Graphql Security: Query Depth Limiting, Complexity Cost, and Introspection"
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Graphql Security: Query Depth Limiting, Complexity Cost, and Introspection
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

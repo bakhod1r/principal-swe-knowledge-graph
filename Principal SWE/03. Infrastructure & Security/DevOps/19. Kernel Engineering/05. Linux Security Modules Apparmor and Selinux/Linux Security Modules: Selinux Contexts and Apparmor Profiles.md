@@ -1,7 +1,7 @@
 ---
 title: "Linux Security Modules: Selinux Contexts and Apparmor Profiles"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Security Modules: Selinux Contexts and Apparmor Profiles
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

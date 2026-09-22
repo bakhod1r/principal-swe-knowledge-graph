@@ -1,7 +1,7 @@
 ---
 title: "Tree Map Range Queries (Range Scans, Min Key, Max Key)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

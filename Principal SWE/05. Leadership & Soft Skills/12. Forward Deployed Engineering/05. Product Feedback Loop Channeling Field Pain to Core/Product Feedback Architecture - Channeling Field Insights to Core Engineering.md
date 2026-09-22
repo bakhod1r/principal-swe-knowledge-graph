@@ -1,7 +1,7 @@
 ---
 title: "Product Feedback Architecture: Channeling Field Insights to Core Engineering"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Product Feedback Architecture: Channeling Field Insights to Core Engineering
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Workloads: Pods, Replicasets, and Deployments"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Workloads: Pods, Replicasets, and Deployments
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

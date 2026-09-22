@@ -1,7 +1,7 @@
 ---
 title: Behavioral (Refactoring to Patterns)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Behavioral (Refactoring to Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Refactoring to Patterns]]
-

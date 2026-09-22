@@ -1,7 +1,7 @@
 ---
 title: "Kernel Bypass Networking: Data Plane Development Kit (dpdk) and Rdma"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Kernel Bypass Networking: Data Plane Development Kit (dpdk) and Rdma
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

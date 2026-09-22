@@ -1,7 +1,7 @@
 ---
 title: "Production Vector Databases: Qdrant, Milvus, Pinecone, and Pgvector"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Production Vector Databases: Qdrant, Milvus, Pinecone, and Pgvector
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

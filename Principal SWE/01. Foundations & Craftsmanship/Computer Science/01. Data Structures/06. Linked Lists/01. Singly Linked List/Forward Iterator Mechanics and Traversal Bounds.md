@@ -1,7 +1,7 @@
 ---
 title: "Forward Iterator Mechanics and Traversal Bounds"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

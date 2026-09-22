@@ -1,7 +1,7 @@
 ---
 title: Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg)
 ## 🔗 References
 - ⬆️ Parent: [[GitOps, Enterprise CLI & Automation Tooling]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

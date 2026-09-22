@@ -1,7 +1,7 @@
 ---
 title: "go tool asm (Plan 9 Assembler)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

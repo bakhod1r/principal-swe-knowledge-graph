@@ -1,7 +1,7 @@
 ---
 title: Distributed Configuration Management, Centralized Config Servers, and Feature Flags
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Distributed Configuration Management, Centralized Config Servers, and Feature Fl
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

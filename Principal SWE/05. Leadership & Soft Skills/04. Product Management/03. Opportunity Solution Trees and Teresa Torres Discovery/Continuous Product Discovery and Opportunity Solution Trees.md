@@ -1,7 +1,7 @@
 ---
 title: Continuous Product Discovery and Opportunity Solution Trees
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Continuous Product Discovery and Opportunity Solution Trees
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

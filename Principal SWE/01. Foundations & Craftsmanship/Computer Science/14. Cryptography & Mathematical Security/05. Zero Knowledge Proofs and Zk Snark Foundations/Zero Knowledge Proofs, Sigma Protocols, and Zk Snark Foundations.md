@@ -1,7 +1,7 @@
 ---
 title: Zero Knowledge Proofs, Sigma Protocols, and Zk Snark Foundations
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security
@@ -34,4 +34,3 @@ Zero Knowledge Proofs, Sigma Protocols, and Zk Snark Foundations
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

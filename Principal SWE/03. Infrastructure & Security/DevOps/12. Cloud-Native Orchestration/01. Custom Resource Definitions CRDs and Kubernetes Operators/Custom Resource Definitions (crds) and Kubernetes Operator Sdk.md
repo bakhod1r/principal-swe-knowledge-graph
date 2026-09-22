@@ -1,7 +1,7 @@
 ---
 title: Custom Resource Definitions (crds) and Kubernetes Operator Sdk
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Custom Resource Definitions (crds) and Kubernetes Operator Sdk
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

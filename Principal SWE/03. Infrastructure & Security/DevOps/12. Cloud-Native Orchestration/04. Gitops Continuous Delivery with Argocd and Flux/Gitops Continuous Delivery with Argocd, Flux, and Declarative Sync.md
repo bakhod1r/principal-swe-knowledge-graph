@@ -1,7 +1,7 @@
 ---
 title: Gitops Continuous Delivery with Argocd, Flux, and Declarative Sync
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Gitops Continuous Delivery with Argocd, Flux, and Declarative Sync
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

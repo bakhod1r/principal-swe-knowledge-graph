@@ -1,7 +1,7 @@
 ---
 title: "Row-Major vs Column-Major Layout and Memory Striding"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

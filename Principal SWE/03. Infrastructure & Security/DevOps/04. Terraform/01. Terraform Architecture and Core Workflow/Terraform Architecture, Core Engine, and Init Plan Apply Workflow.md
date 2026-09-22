@@ -1,7 +1,7 @@
 ---
 title: Terraform Architecture, Core Engine, and Init Plan Apply Workflow
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Architecture, Core Engine, and Init Plan Apply Workflow
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

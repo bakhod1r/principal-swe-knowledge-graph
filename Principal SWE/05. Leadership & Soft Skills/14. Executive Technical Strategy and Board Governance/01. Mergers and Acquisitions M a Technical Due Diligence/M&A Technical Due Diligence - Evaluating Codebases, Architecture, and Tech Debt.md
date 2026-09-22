@@ -1,7 +1,7 @@
 ---
 title: "M&A Technical Due Diligence: Evaluating Codebases, Architecture, and Tech Debt"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ M&A Technical Due Diligence: Evaluating Codebases, Architecture, and Tech Debt
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Network Security Fundamentals, Firewall Topologies, and Deep Packet Inspection
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - core-cyber-security-foundations-and-security-models
@@ -34,4 +34,3 @@ Network Security Fundamentals, Firewall Topologies, and Deep Packet Inspection
 ## 🔗 References
 - ⬆️ Parent: [[Core Cyber Security Foundations & Security Models]]
 - 📚 Module: `Cyber Security`
-

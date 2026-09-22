@@ -1,7 +1,7 @@
 ---
 title: "Ip Addressing Architecture: Ipv4 Subnetting, Cidr, Vlsm, and Ipv6"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Ip Addressing Architecture: Ipv4 Subnetting, Cidr, Vlsm, and Ipv6
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

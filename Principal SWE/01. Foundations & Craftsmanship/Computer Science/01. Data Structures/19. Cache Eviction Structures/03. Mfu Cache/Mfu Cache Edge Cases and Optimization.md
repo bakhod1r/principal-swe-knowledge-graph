@@ -1,7 +1,7 @@
 ---
 title: "Mfu Cache Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

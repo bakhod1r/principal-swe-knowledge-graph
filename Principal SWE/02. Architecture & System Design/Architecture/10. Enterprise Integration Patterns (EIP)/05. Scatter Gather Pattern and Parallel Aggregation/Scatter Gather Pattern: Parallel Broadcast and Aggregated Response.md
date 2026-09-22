@@ -1,7 +1,7 @@
 ---
 title: "Scatter Gather Pattern: Parallel Broadcast and Aggregated Response"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Scatter Gather Pattern: Parallel Broadcast and Aggregated Response
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

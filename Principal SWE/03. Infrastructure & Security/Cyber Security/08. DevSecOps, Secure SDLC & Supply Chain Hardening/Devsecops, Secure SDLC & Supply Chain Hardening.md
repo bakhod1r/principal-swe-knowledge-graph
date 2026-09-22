@@ -1,7 +1,7 @@
 ---
 title: Devsecops, Secure SDLC & Supply Chain Hardening
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening
@@ -39,4 +39,3 @@ Devsecops, Secure SDLC & Supply Chain Hardening
 
 ## 🔗 References
 - ⬆️ Parent: [[Cyber Security]]
-

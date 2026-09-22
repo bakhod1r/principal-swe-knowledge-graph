@@ -1,7 +1,7 @@
 ---
 title: "Associative Key-Value and Content-Addressable Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: CAP Theorem, Pacelc, and Distributed Consistency Models
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ CAP Theorem, Pacelc, and Distributed Consistency Models
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

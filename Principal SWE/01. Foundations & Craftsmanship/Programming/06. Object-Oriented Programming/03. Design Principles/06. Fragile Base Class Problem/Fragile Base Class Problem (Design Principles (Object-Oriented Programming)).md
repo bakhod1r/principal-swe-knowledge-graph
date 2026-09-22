@@ -1,7 +1,7 @@
 ---
 title: Fragile Base Class Problem (Design Principles (Object-Oriented Programming))
 tags:
-  - review
+
   - programming
   - oop
   - principal-swe
@@ -28,4 +28,3 @@ Fragile Base Class Problem (Design Principles (Object-Oriented Programming))
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Principles (Object-Oriented Programming)]]
-

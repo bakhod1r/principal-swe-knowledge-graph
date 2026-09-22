@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Insert at Tail (O(1) with Tail Pointer)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

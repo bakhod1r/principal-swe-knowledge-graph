@@ -1,7 +1,7 @@
 ---
 title: "CPU Cache Hierarchies, Cache Lines, and Mechanical Sympathy"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

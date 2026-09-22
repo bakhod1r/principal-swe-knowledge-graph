@@ -1,7 +1,7 @@
 ---
 title: Fast Fourier Transform (fft) Algorithms and Spectral Methods
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing
@@ -34,4 +34,3 @@ Fast Fourier Transform (fft) Algorithms and Spectral Methods
 ## 🔗 References
 - ⬆️ Parent: [[Numerical Methods & Scientific Computing]]
 - 📚 Module: `Computer Science`
-

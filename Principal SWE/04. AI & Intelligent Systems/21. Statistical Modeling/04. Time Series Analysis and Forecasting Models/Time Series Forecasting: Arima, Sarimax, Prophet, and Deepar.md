@@ -1,7 +1,7 @@
 ---
 title: "Time Series Forecasting: Arima, Sarimax, Prophet, and Deepar"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics
@@ -34,4 +34,3 @@ Time Series Forecasting: Arima, Sarimax, Prophet, and Deepar
 ## 🔗 References
 - ⬆️ Parent: `AI Data Science, Statistical Modeling & Econometrics`
 - 📚 Module: `AI & Machine Learning`
-

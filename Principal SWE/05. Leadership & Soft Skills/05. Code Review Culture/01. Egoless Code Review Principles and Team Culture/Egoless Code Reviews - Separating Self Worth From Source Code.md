@@ -1,7 +1,7 @@
 ---
 title: "Egoless Code Reviews: Separating Self Worth From Source Code"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Egoless Code Reviews: Separating Self Worth From Source Code
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Async Await (Concurrency (Concurrency Async Parallel))
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Async Await (Concurrency (Concurrency Async Parallel))
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-

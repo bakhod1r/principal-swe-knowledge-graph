@@ -1,7 +1,7 @@
 ---
 title: LLM Pre Training Objectives, Chinchilla Scaling Laws, and Emergence
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ LLM Pre Training Objectives, Chinchilla Scaling Laws, and Emergence
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

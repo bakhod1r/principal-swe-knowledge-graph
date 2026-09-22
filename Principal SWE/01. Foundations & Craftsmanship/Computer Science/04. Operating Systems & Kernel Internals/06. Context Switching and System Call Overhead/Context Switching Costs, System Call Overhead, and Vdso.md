@@ -1,7 +1,7 @@
 ---
 title: Context Switching Costs, System Call Overhead, and Vdso
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ Context Switching Costs, System Call Overhead, and Vdso
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

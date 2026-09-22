@@ -1,7 +1,7 @@
 ---
 title: Translating Technical Complexity for Business Executives
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Translating Technical Complexity for Business Executives
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

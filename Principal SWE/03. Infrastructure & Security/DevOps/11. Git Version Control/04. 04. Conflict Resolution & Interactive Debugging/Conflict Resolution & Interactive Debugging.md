@@ -1,7 +1,7 @@
 ---
 title: Conflict Resolution & Interactive Debugging
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -41,4 +41,3 @@ Conflict Resolution & Interactive Debugging
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

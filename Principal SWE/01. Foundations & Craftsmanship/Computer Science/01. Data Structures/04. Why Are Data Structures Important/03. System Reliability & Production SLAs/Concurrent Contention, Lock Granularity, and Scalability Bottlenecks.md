@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Contention, Lock Granularity, and Scalability Bottlenecks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

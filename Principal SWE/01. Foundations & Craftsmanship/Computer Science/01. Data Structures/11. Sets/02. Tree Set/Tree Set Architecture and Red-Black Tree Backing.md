@@ -1,7 +1,7 @@
 ---
 title: "Tree Set Architecture and Red-Black Tree Backing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

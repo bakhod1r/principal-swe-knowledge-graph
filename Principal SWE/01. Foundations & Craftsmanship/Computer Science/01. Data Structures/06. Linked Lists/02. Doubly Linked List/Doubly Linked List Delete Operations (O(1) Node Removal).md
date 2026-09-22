@@ -1,7 +1,7 @@
 ---
 title: "Doubly Linked List Delete Operations (O(1) Node Removal)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

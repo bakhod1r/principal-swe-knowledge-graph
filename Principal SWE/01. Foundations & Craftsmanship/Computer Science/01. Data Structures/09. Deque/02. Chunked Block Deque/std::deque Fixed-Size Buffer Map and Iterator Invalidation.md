@@ -1,7 +1,7 @@
 ---
 title: "std::deque Fixed-Size Buffer Map and Iterator Invalidation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

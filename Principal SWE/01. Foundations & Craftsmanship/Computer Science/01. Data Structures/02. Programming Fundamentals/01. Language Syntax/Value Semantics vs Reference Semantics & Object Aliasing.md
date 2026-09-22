@@ -1,7 +1,7 @@
 ---
 title: "Value Semantics vs Reference Semantics & Object Aliasing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

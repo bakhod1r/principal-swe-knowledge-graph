@@ -1,7 +1,7 @@
 ---
 title: "Type Inference Algorithms"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

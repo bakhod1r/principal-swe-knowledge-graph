@@ -1,7 +1,7 @@
 ---
 title: "Palindrome Linked List Verification (In-Place Half Reverse)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

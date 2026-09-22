@@ -1,7 +1,7 @@
 ---
 title: "Van Emde Boas Tree Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

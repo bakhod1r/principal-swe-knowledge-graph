@@ -1,7 +1,7 @@
 ---
 title: "Circular Queue Dequeue and Head Advancement Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

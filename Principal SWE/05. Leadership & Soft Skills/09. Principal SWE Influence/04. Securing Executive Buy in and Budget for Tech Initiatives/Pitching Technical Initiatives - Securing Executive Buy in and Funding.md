@@ -1,7 +1,7 @@
 ---
 title: "Pitching Technical Initiatives: Securing Executive Buy in and Funding"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Pitching Technical Initiatives: Securing Executive Buy in and Funding
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

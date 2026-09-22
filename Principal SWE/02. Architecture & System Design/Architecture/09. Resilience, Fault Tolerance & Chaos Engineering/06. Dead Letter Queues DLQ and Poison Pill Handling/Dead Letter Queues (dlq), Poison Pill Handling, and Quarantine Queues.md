@@ -1,7 +1,7 @@
 ---
 title: Dead Letter Queues (dlq), Poison Pill Handling, and Quarantine Queues
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Dead Letter Queues (dlq), Poison Pill Handling, and Quarantine Queues
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: Scalable Backend Architectural Topologies and Critical Paths
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering
@@ -34,4 +34,3 @@ Scalable Backend Architectural Topologies and Critical Paths
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance & High Throughput Engineering]]
 - 📚 Module: `Best Practices`
-

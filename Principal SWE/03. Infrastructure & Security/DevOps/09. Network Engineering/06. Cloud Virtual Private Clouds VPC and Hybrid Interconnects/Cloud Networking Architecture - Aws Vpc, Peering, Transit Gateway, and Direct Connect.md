@@ -1,7 +1,7 @@
 ---
 title: "Cloud Networking Architecture: Aws Vpc, Peering, Transit Gateway, and Direct Connect"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Cloud Networking Architecture: Aws Vpc, Peering, Transit Gateway, and Direct Con
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

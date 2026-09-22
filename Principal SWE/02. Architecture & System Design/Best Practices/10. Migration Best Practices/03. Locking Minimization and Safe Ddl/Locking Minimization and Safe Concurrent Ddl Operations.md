@@ -1,7 +1,7 @@
 ---
 title: Locking Minimization and Safe Concurrent Ddl Operations
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices
@@ -34,4 +34,3 @@ Locking Minimization and Safe Concurrent Ddl Operations
 ## 🔗 References
 - ⬆️ Parent: `Database Schema Design & Migration Best Practices`
 - 📚 Module: `Best Practices`
-

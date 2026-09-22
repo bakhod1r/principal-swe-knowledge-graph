@@ -1,7 +1,7 @@
 ---
 title: "Detect Cycle in Singly Linked List (Fast-Slow Pointers)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

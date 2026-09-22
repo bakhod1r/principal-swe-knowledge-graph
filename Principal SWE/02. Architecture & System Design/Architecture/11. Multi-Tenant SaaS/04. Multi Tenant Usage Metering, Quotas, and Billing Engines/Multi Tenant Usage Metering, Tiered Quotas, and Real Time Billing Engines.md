@@ -1,7 +1,7 @@
 ---
 title: Multi Tenant Usage Metering, Tiered Quotas, and Real Time Billing Engines
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Multi Tenant Usage Metering, Tiered Quotas, and Real Time Billing Engines
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

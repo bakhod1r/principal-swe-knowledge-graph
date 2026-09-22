@@ -1,7 +1,7 @@
 ---
 title: "Recursion Mechanics, Tail Call Optimization (TCO), and Trampolines"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: "Automated Task Scheduling: Cron, Anacron, and Systemd Timers"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Automated Task Scheduling: Cron, Anacron, and Systemd Timers
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

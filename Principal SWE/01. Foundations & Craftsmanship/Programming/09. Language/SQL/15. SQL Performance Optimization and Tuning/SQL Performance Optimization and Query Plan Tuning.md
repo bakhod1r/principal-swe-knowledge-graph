@@ -1,7 +1,7 @@
 ---
 title: SQL Performance Optimization and Query Plan Tuning
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Performance Optimization and Query Plan Tuning
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

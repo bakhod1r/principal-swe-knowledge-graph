@@ -1,7 +1,7 @@
 ---
 title: "Blocked Z-Morton Order (Morton Space-Filling Curve) Matrix Layout"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

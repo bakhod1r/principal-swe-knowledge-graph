@@ -1,7 +1,7 @@
 ---
 title: "Tree Set"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

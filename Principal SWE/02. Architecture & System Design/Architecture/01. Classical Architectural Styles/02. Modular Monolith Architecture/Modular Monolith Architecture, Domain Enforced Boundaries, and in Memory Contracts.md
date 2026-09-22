@@ -1,7 +1,7 @@
 ---
 title: Modular Monolith Architecture, Domain Enforced Boundaries, and in Memory Contracts
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Modular Monolith Architecture, Domain Enforced Boundaries, and in Memory Contrac
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

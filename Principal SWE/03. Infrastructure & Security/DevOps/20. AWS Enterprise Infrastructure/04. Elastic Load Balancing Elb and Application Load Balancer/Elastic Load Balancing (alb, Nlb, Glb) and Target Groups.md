@@ -1,7 +1,7 @@
 ---
 title: Elastic Load Balancing (alb, Nlb, Glb) and Target Groups
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Elastic Load Balancing (alb, Nlb, Glb) and Target Groups
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

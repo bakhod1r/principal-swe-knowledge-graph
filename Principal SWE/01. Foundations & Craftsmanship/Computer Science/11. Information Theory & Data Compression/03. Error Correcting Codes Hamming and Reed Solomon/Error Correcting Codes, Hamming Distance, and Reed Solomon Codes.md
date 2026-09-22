@@ -1,7 +1,7 @@
 ---
 title: Error Correcting Codes, Hamming Distance, and Reed Solomon Codes
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression
@@ -34,4 +34,3 @@ Error Correcting Codes, Hamming Distance, and Reed Solomon Codes
 ## 🔗 References
 - ⬆️ Parent: [[Information Theory & Data Compression]]
 - 📚 Module: `Computer Science`
-

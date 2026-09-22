@@ -1,7 +1,7 @@
 ---
 title: "Subsets II"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

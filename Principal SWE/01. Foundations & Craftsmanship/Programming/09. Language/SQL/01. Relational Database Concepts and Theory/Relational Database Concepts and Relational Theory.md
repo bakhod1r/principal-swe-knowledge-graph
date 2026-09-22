@@ -1,7 +1,7 @@
 ---
 title: Relational Database Concepts and Relational Theory
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ Relational Database Concepts and Relational Theory
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

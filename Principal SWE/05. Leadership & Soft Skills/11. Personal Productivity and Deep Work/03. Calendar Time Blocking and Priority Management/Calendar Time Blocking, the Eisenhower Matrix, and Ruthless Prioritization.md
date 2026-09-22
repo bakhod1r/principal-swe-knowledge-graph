@@ -1,7 +1,7 @@
 ---
 title: Calendar Time Blocking, the Eisenhower Matrix, and Ruthless Prioritization
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Calendar Time Blocking, the Eisenhower Matrix, and Ruthless Prioritization
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

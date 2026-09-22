@@ -1,7 +1,7 @@
 ---
 title: The Four Golden Signals and SRE Health Metrics (latency, Traffic, Errors, Saturation)
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness
@@ -34,4 +34,3 @@ The Four Golden Signals and SRE Health Metrics (latency, Traffic, Errors, Satura
 ## 🔗 References
 - ⬆️ Parent: `Production Observability, SRE & Incident Readiness`
 - 📚 Module: `Best Practices`
-

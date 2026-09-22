@@ -1,7 +1,7 @@
 ---
 title: Open Source Software (oss) Governance, Maintainership, and Community
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Open Source Software (oss) Governance, Maintainership, and Community
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

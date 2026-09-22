@@ -1,7 +1,7 @@
 ---
 title: Linux Package Managers, Repositories, and Artifact Storage
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Linux Package Managers, Repositories, and Artifact Storage
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

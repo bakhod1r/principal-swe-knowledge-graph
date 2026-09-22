@@ -1,7 +1,7 @@
 ---
 title: "Deque Push Front and Pop Front Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

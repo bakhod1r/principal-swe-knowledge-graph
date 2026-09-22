@@ -1,7 +1,7 @@
 ---
 title: Terraform Built in Functions, String Manipulation, and Templates
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Built in Functions, String Manipulation, and Templates
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

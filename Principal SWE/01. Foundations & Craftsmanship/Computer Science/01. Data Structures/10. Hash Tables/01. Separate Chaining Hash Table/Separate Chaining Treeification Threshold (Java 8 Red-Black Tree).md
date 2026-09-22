@@ -1,7 +1,7 @@
 ---
 title: "Separate Chaining Treeification Threshold (Java 8 Red-Black Tree)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

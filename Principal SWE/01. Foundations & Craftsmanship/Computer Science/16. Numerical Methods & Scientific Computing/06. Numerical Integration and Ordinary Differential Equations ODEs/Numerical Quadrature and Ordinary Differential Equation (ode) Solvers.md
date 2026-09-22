@@ -1,7 +1,7 @@
 ---
 title: Numerical Quadrature and Ordinary Differential Equation (ode) Solvers
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing
@@ -34,4 +34,3 @@ Numerical Quadrature and Ordinary Differential Equation (ode) Solvers
 ## 🔗 References
 - ⬆️ Parent: [[Numerical Methods & Scientific Computing]]
 - 📚 Module: `Computer Science`
-

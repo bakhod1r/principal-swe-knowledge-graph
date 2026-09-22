@@ -1,7 +1,7 @@
 ---
 title: "Deque Push Back and Pop Back Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

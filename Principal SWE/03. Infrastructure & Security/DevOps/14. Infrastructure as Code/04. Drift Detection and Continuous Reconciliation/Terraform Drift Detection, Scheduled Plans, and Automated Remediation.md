@@ -1,7 +1,7 @@
 ---
 title: Terraform Drift Detection, Scheduled Plans, and Automated Remediation
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Drift Detection, Scheduled Plans, and Automated Remediation
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

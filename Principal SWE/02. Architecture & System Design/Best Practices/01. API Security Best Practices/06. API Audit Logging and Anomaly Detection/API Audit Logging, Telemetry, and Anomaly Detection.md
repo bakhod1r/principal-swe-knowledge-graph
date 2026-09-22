@@ -1,7 +1,7 @@
 ---
 title: API Audit Logging, Telemetry, and Anomaly Detection
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices
@@ -34,4 +34,3 @@ API Audit Logging, Telemetry, and Anomaly Detection
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: `Best Practices`
-

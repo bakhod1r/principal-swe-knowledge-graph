@@ -1,7 +1,7 @@
 ---
 title: "Message Routing Patterns: Content Based Router and Message Filter"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Message Routing Patterns: Content Based Router and Message Filter
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

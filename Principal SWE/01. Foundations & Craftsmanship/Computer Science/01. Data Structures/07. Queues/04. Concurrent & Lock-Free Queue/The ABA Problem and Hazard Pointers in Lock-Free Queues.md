@@ -1,7 +1,7 @@
 ---
 title: "The ABA Problem and Hazard Pointers in Lock-Free Queues"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "go mod Module Maintenance"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

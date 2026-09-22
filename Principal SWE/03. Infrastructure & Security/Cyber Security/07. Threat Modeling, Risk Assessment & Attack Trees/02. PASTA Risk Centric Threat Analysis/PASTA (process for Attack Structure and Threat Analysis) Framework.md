@@ -1,7 +1,7 @@
 ---
 title: PASTA (process for Attack Structure and Threat Analysis) Framework
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees
@@ -34,4 +34,3 @@ PASTA (process for Attack Structure and Threat Analysis) Framework
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling, Risk Assessment & Attack Trees]]
 - 📚 Module: `Cyber Security`
-

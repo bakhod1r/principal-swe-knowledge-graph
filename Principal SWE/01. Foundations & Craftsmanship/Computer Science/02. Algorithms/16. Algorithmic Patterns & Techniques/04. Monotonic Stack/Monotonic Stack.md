@@ -1,7 +1,7 @@
 ---
 title: Monotonic Stack
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -44,4 +44,3 @@ Monotonic Stack
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

@@ -1,7 +1,7 @@
 ---
 title: Docker Storage Options (volumes, Bind Mounts, and Tmpfs Mounts)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Docker Storage Options (volumes, Bind Mounts, and Tmpfs Mounts)
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

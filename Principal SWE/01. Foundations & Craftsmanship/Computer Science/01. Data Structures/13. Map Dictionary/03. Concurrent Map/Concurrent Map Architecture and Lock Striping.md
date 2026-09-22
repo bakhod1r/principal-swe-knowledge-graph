@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Map Architecture and Lock Striping"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Array Shrink-to-Fit and Memory Compaction"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

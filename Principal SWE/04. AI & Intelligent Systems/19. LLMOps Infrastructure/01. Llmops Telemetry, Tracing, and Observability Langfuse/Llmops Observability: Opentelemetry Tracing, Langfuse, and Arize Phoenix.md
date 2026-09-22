@@ -1,7 +1,7 @@
 ---
 title: "Llmops Observability: Opentelemetry Tracing, Langfuse, and Arize Phoenix"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
@@ -34,4 +34,3 @@ Llmops Observability: Opentelemetry Tracing, Langfuse, and Arize Phoenix
 ## 🔗 References
 - ⬆️ Parent: `High Performance Inference & Llmops Infrastructure`
 - 📚 Module: `AI & Machine Learning`
-

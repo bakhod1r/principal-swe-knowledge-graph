@@ -1,7 +1,7 @@
 ---
 title: "Set Contains and Fast Membership Testing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

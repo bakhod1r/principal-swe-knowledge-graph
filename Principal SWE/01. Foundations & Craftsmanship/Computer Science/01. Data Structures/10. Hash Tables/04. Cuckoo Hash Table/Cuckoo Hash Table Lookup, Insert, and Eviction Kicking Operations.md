@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo Hash Table Lookup, Insert, and Eviction Kicking Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

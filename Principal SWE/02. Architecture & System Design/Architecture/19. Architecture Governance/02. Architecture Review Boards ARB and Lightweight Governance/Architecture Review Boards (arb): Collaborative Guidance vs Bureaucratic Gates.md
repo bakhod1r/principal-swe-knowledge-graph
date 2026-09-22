@@ -1,7 +1,7 @@
 ---
 title: "Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Architecture Review Boards (arb): Collaborative Guidance vs Bureaucratic Gates
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

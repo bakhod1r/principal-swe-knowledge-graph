@@ -1,7 +1,7 @@
 ---
 title: "Hash Function Uniformity (MurmurHash3, xxHash, CityHash)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

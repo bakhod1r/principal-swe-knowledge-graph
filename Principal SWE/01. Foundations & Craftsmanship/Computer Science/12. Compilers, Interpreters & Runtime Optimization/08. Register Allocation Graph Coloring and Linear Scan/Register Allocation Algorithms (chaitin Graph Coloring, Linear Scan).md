@@ -1,7 +1,7 @@
 ---
 title: Register Allocation Algorithms (chaitin Graph Coloring, Linear Scan)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Register Allocation Algorithms (chaitin Graph Coloring, Linear Scan)
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

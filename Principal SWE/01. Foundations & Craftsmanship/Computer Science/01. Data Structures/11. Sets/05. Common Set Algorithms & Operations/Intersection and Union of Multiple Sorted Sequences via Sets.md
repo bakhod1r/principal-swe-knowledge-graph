@@ -1,7 +1,7 @@
 ---
 title: "Intersection and Union of Multiple Sorted Sequences via Sets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

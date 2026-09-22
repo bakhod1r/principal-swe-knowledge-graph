@@ -1,7 +1,7 @@
 ---
 title: "Hardware Prefetcher Optimization and Stride Access Patterns"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

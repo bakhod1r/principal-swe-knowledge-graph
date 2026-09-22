@@ -1,7 +1,7 @@
 ---
 title: "Monotonic Queue Invariants and Candidate Extrema Maintenance"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: SIEM Architecture, Log Aggregation, and Correlation Rules
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations
@@ -34,4 +34,3 @@ SIEM Architecture, Log Aggregation, and Correlation Rules
 ## 🔗 References
 - ⬆️ Parent: [[Incident Response, Digital Forensics & Soc Operations]]
 - 📚 Module: `Cyber Security`
-

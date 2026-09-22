@@ -1,7 +1,7 @@
 ---
 title: "Cal Newport's Deep Work: Cultivating Intense Focus in Engineering"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Cal Newport's Deep Work: Cultivating Intense Focus in Engineering
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

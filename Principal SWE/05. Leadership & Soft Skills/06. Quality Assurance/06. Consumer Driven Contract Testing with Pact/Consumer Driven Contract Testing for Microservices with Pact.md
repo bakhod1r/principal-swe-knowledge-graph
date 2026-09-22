@@ -1,7 +1,7 @@
 ---
 title: Consumer Driven Contract Testing for Microservices with Pact
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Consumer Driven Contract Testing for Microservices with Pact
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

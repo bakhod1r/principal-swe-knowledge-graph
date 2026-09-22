@@ -1,7 +1,7 @@
 ---
 title: "net-http-httptrace Client Connection Diagnostics"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

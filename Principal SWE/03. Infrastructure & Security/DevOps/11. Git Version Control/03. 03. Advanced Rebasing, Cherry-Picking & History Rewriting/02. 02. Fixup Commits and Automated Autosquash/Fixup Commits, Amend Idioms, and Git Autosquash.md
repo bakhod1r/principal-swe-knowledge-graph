@@ -1,7 +1,7 @@
 ---
 title: Fixup Commits, Amend Idioms, and Git Autosquash
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Fixup Commits, Amend Idioms, and Git Autosquash
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

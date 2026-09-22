@@ -1,7 +1,7 @@
 ---
 title: Persistent Volumes (pv), Pvcs, Storageclasses, and CSI Drivers
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Persistent Volumes (pv), Pvcs, Storageclasses, and CSI Drivers
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

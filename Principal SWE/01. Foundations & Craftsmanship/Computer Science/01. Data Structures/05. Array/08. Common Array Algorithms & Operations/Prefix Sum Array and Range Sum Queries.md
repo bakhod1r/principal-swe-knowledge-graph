@@ -1,7 +1,7 @@
 ---
 title: "Prefix Sum Array and Range Sum Queries"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

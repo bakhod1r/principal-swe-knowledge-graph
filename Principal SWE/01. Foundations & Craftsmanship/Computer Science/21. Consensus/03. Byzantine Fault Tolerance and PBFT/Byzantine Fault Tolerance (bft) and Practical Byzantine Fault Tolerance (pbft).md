@@ -1,7 +1,7 @@
 ---
 title: Byzantine Fault Tolerance (bft) and Practical Byzantine Fault Tolerance (pbft)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - distributed-systems-theory-and-consensus
@@ -34,4 +34,3 @@ Byzantine Fault Tolerance (bft) and Practical Byzantine Fault Tolerance (pbft)
 ## 🔗 References
 - ⬆️ Parent: `Distributed Systems Theory & Consensus`
 - 📚 Module: `Computer Science`
-

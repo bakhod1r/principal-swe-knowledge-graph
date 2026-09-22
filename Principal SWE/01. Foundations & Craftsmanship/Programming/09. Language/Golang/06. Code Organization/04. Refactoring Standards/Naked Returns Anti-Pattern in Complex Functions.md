@@ -1,7 +1,7 @@
 ---
 title: "Naked Returns Anti-Pattern in Complex Functions"
 tags:
-  - review
+
   - golang
   - clean-code
   - principal-swe

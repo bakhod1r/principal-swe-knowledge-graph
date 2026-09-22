@@ -1,7 +1,7 @@
 ---
 title: "Set Remove and Delete Elements"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

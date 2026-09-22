@@ -1,7 +1,7 @@
 ---
 title: "Chunked Block Deque Random Access Offset Math (Map Index + Buffer Offset)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

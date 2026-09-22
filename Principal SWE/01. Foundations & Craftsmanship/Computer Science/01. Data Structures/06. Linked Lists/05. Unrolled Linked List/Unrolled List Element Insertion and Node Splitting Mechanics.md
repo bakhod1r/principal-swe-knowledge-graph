@@ -1,7 +1,7 @@
 ---
 title: "Unrolled List Element Insertion and Node Splitting Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

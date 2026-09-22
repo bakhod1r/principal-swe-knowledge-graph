@@ -1,7 +1,7 @@
 ---
 title: Service Oriented Architecture (soa), Enterprise Service Bus (esb), vs Microservices
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Service Oriented Architecture (soa), Enterprise Service Bus (esb), vs Microservi
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

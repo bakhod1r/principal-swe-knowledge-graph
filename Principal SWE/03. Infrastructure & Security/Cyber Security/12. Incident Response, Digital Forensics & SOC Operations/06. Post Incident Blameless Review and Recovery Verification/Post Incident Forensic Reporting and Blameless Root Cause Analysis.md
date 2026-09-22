@@ -1,7 +1,7 @@
 ---
 title: Post Incident Forensic Reporting and Blameless Root Cause Analysis
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - incident-response,-digital-forensics-and-soc-operations
@@ -34,4 +34,3 @@ Post Incident Forensic Reporting and Blameless Root Cause Analysis
 ## 🔗 References
 - ⬆️ Parent: [[Incident Response, Digital Forensics & Soc Operations]]
 - 📚 Module: `Cyber Security`
-

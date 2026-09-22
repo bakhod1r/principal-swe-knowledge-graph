@@ -1,7 +1,7 @@
 ---
 title: "Settability & Addressability in Reflection"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

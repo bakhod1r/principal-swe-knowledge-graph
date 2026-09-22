@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Map Lock-Free Reads (Go sync.Map, Java ConcurrentHashMap)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

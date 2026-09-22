@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Memory Overhead and Cache Miss Economics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

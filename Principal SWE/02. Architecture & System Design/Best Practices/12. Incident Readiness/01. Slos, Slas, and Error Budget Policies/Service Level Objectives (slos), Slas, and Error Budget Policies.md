@@ -1,7 +1,7 @@
 ---
 title: Service Level Objectives (slos), Slas, and Error Budget Policies
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness
@@ -34,4 +34,3 @@ Service Level Objectives (slos), Slas, and Error Budget Policies
 ## 🔗 References
 - ⬆️ Parent: `Production Observability, SRE & Incident Readiness`
 - 📚 Module: `Best Practices`
-

@@ -1,7 +1,7 @@
 ---
 title: "Paging and Caching Theory Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: Competitive Landscape Analysis and Building Technical Moats
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Competitive Landscape Analysis and Building Technical Moats
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

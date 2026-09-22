@@ -1,7 +1,7 @@
 ---
 title: Programming Languages for Devops (python, Go, Rust, Bash)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Programming Languages for Devops (python, Go, Rust, Bash)
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

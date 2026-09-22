@@ -1,7 +1,7 @@
 ---
 title: "Mex Query on Dynamic Array via Segment Tree"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

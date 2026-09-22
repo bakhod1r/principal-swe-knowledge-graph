@@ -1,7 +1,7 @@
 ---
 title: AWS Key Management Service (kms) and AWS Secrets Manager
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS Key Management Service (kms) and AWS Secrets Manager
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

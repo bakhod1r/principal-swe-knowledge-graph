@@ -1,7 +1,7 @@
 ---
 title: "Keyset Pagination vs OFFSET Performance in Go"
 tags:
-  - review
+
   - golang
   - database
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Worst-Case Latency, Jitter, and P99-P999 SLA Protection"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

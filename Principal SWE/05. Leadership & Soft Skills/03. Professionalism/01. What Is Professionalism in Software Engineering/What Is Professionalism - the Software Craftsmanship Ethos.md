@@ -1,7 +1,7 @@
 ---
 title: "What Is Professionalism: the Software Craftsmanship Ethos"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ What Is Professionalism: the Software Craftsmanship Ethos
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

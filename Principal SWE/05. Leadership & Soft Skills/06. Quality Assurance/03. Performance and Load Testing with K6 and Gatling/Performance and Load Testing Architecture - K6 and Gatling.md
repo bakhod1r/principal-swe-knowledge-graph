@@ -1,7 +1,7 @@
 ---
 title: "Performance and Load Testing Architecture: K6 and Gatling"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Performance and Load Testing Architecture: K6 and Gatling
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

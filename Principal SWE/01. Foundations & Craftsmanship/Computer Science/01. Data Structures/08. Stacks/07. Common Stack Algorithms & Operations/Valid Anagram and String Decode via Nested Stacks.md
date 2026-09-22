@@ -1,7 +1,7 @@
 ---
 title: "Valid Anagram and String Decode via Nested Stacks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

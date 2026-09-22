@@ -1,7 +1,7 @@
 ---
 title: "Lock-Free Concurrent Stack (Treiber Stack with Atomic CAS)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Queue Reconstruction via Double Inverted Stacks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

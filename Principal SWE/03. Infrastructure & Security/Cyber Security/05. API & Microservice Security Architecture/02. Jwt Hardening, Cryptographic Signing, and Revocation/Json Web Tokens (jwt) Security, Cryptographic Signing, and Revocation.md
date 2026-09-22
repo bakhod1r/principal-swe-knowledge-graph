@@ -1,7 +1,7 @@
 ---
 title: Json Web Tokens (jwt) Security, Cryptographic Signing, and Revocation
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Json Web Tokens (jwt) Security, Cryptographic Signing, and Revocation
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

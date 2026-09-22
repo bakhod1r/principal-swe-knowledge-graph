@@ -1,7 +1,7 @@
 ---
 title: Web Application Firewall (waf) Rulesets and Traffic Filtering
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection
@@ -34,4 +34,3 @@ Web Application Firewall (waf) Rulesets and Traffic Filtering
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Security, IAM & Workload Protection]]
 - 📚 Module: `Cyber Security`
-

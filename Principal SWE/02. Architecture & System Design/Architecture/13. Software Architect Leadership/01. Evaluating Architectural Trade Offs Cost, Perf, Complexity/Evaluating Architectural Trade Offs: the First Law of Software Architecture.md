@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Architectural Trade Offs: the First Law of Software Architecture"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Evaluating Architectural Trade Offs: the First Law of Software Architecture
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

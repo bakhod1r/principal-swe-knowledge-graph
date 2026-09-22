@@ -1,7 +1,7 @@
 ---
 title: "Hash Set"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

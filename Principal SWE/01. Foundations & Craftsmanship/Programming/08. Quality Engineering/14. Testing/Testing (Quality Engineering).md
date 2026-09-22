@@ -1,7 +1,7 @@
 ---
 title: Testing (Quality Engineering)
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -68,4 +68,3 @@ Testing (Quality Engineering)
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-

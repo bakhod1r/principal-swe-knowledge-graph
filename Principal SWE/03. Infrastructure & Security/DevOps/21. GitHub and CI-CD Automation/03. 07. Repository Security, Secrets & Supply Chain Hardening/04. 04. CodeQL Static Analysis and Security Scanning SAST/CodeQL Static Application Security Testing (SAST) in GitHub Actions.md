@@ -1,7 +1,7 @@
 ---
 title: CodeQL Static Application Security Testing (SAST) in GitHub Actions
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ CodeQL Static Application Security Testing (SAST) in GitHub Actions
 ## 🔗 References
 - ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

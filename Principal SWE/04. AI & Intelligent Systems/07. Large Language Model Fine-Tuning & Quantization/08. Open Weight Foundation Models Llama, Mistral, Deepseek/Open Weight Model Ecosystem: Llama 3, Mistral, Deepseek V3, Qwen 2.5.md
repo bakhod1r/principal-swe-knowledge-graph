@@ -1,7 +1,7 @@
 ---
 title: "Open Weight Model Ecosystem: Llama 3, Mistral, Deepseek V3, Qwen 2.5"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Open Weight Model Ecosystem: Llama 3, Mistral, Deepseek V3, Qwen 2.5
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

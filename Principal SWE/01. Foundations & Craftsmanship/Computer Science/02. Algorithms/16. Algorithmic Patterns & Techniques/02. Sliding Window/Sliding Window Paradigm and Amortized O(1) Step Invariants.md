@@ -1,7 +1,7 @@
 ---
 title: "Sliding Window Paradigm and Amortized O(1) Step Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

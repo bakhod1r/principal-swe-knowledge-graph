@@ -1,7 +1,7 @@
 ---
 title: "Network Automation Engineering: Netmiko, Napalm, and Ansible Playbooks"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Network Automation Engineering: Netmiko, Napalm, and Ansible Playbooks
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

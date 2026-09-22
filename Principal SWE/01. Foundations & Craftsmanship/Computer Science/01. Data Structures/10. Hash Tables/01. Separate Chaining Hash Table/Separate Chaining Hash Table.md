@@ -1,7 +1,7 @@
 ---
 title: "Separate Chaining Hash Table"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

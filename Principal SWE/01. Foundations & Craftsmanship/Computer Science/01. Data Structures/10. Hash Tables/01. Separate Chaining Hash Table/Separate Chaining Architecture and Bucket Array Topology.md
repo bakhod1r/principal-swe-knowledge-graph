@@ -1,7 +1,7 @@
 ---
 title: "Separate Chaining Architecture and Bucket Array Topology"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

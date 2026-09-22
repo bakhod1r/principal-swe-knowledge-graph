@@ -1,7 +1,7 @@
 ---
 title: "Calculate Linked List Cycle Length"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

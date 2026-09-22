@@ -1,7 +1,7 @@
 ---
 title: "Feasibility Pruning"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

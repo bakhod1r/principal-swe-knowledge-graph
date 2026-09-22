@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Slicing, Windows, and 3-Index Capacity Boundaries"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

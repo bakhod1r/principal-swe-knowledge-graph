@@ -1,7 +1,7 @@
 ---
 title: "Token Standards and Digital Assets: Erc 20, Erc 721, and Erc 1155"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures
@@ -34,4 +34,3 @@ Token Standards and Digital Assets: Erc 20, Erc 721, and Erc 1155
 ## 🔗 References
 - ⬆️ Parent: [[Decentralized, Web3 & Blockchain Architectures]]
 - 📚 Module: `Architecture`
-

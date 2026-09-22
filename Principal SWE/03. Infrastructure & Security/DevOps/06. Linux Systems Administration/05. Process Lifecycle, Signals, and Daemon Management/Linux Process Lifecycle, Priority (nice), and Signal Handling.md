@@ -1,7 +1,7 @@
 ---
 title: Linux Process Lifecycle, Priority (nice), and Signal Handling
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Process Lifecycle, Priority (nice), and Signal Handling
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

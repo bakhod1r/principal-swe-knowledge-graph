@@ -1,7 +1,7 @@
 ---
 title: Data Manipulation Language (dml) and Data Modification
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ Data Manipulation Language (dml) and Data Modification
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

@@ -1,7 +1,7 @@
 ---
 title: Design Principles (Object-Oriented Programming)
 tags:
-  - review
+
   - programming
   - oop
   - principal-swe
@@ -44,4 +44,3 @@ Design Principles (Object-Oriented Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Object-Oriented Programming]]
-

@@ -1,7 +1,7 @@
 ---
 title: "Min-Max Stack Architecture (O(1) Extrema Queries)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

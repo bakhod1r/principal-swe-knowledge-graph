@@ -1,7 +1,7 @@
 ---
 title: Solidity Smart Contract Design Patterns and Proxy Upgradability (uups, Diamond)
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures
@@ -34,4 +34,3 @@ Solidity Smart Contract Design Patterns and Proxy Upgradability (uups, Diamond)
 ## 🔗 References
 - ⬆️ Parent: [[Decentralized, Web3 & Blockchain Architectures]]
 - 📚 Module: `Architecture`
-

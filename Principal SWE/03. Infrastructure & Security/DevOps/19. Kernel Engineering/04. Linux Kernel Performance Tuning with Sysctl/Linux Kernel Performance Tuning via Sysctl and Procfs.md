@@ -1,7 +1,7 @@
 ---
 title: Linux Kernel Performance Tuning via Sysctl and Procfs
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-and-administration
@@ -34,4 +34,3 @@ Linux Kernel Performance Tuning via Sysctl and Procfs
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

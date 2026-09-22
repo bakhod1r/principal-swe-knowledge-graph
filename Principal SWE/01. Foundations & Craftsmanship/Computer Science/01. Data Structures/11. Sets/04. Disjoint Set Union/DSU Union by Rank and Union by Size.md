@@ -1,7 +1,7 @@
 ---
 title: "DSU Union by Rank and Union by Size"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

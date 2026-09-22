@@ -1,7 +1,7 @@
 ---
 title: "Dimensional Data Modeling: Kimball Star Schemas, Snowflake, and Data Vault"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
@@ -34,4 +34,3 @@ Dimensional Data Modeling: Kimball Star Schemas, Snowflake, and Data Vault
 ## 🔗 References
 - ⬆️ Parent: `Data Engineering, ETL Pipelines & Lakehouse Architecture`
 - 📚 Module: `AI & Machine Learning`
-

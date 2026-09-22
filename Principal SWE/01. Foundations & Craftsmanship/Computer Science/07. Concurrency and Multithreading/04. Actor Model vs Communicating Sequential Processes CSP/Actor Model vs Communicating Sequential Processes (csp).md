@@ -1,7 +1,7 @@
 ---
 title: Actor Model vs Communicating Sequential Processes (csp)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Actor Model vs Communicating Sequential Processes (csp)
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

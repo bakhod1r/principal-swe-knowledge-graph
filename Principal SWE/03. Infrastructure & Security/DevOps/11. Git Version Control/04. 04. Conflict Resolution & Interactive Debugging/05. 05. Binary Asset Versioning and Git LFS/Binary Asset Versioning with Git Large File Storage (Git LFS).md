@@ -1,7 +1,7 @@
 ---
 title: Binary Asset Versioning with Git Large File Storage (Git LFS)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Binary Asset Versioning with Git Large File Storage (Git LFS)
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution & Interactive Debugging]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

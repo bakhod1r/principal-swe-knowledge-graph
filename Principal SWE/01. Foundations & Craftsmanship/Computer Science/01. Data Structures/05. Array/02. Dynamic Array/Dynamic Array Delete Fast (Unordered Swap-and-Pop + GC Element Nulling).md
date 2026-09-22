@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Delete Fast (Unordered Swap-and-Pop + GC Element Nulling)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

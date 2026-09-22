@@ -1,7 +1,7 @@
 ---
 title: "Safe Temporary File Creation & Permission Hardening"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

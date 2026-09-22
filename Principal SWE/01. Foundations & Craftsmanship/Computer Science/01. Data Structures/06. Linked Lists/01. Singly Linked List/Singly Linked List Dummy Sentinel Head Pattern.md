@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Dummy Sentinel Head Pattern"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

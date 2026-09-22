@@ -1,7 +1,7 @@
 ---
 title: "Lock Free Stack Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

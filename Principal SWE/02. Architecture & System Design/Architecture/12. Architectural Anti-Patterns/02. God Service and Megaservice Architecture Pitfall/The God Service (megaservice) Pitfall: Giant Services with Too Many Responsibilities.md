@@ -1,7 +1,7 @@
 ---
 title: "The God Service (megaservice) Pitfall: Giant Services with Too Many Responsibilities"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ The God Service (megaservice) Pitfall: Giant Services with Too Many Responsibili
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

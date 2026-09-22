@@ -1,7 +1,7 @@
 ---
 title: Graceful Degradation, Fallback Handlers, and Shedding Load
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Graceful Degradation, Fallback Handlers, and Shedding Load
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

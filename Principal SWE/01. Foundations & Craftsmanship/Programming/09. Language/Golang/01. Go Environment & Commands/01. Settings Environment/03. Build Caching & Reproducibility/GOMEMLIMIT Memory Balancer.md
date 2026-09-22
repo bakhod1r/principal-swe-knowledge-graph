@@ -1,7 +1,7 @@
 ---
 title: "GOMEMLIMIT Memory Balancer"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe

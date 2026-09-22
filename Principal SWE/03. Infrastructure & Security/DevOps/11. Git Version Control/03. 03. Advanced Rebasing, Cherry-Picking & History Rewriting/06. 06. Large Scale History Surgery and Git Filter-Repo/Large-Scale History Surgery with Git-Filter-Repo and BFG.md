@@ -1,7 +1,7 @@
 ---
 title: Large-Scale History Surgery with Git-Filter-Repo and BFG
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Large-Scale History Surgery with Git-Filter-Repo and BFG
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

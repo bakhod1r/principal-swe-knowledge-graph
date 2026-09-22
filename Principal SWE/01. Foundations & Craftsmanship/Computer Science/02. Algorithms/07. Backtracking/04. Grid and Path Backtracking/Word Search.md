@@ -1,7 +1,7 @@
 ---
 title: "Word Search"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

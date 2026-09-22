@@ -1,7 +1,7 @@
 ---
 title: Agent Guardrails, Safety Policies, and Action Whitelisting (nemo Guardrails)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Agent Guardrails, Safety Policies, and Action Whitelisting (nemo Guardrails)
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

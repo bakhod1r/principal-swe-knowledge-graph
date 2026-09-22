@@ -1,7 +1,7 @@
 ---
 title: Cohesion and Coupling (Design Principles (Object-Oriented Programming))
 tags:
-  - review
+
   - programming
   - oop
   - principal-swe
@@ -28,4 +28,3 @@ Cohesion and Coupling (Design Principles (Object-Oriented Programming))
 
 ## 🔗 References
 - ⬆️ Parent: [[Design Principles (Object-Oriented Programming)]]
-

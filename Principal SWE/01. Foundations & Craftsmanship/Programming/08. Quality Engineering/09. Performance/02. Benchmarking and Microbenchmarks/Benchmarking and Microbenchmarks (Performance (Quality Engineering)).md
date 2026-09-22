@@ -1,7 +1,7 @@
 ---
 title: Benchmarking and Microbenchmarks (Performance (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Benchmarking and Microbenchmarks (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-

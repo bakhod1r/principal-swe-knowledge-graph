@@ -1,7 +1,7 @@
 ---
 title: Anti Patterns (Async Programming)
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Anti Patterns (Async Programming)
 
 ## 🔗 References
 - ⬆️ Parent: [[Async Programming]]
-

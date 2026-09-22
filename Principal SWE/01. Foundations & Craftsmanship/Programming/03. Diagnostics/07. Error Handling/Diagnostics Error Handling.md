@@ -1,7 +1,7 @@
 ---
 title: Diagnostics Error Handling
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe
@@ -34,4 +34,3 @@ Diagnostics Error Handling
 
 ## 🔗 References
 - ⬆️ Parent: [[Diagnostics]]
-

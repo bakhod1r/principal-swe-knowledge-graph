@@ -1,7 +1,7 @@
 ---
 title: "How to Approach Core Principles and Architecture"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems
@@ -26,13 +26,13 @@ Architecture is the **result of reasoning**, not the starting point.
 Before drawing boxes, answer:
 
 - What problem are we solving?
-    
+
 - Who has the problem?
-    
+
 - What does the system need to accomplish?
-    
+
 - What is explicitly **out of scope**?
-    
+
 
 For example:
 
@@ -135,13 +135,13 @@ Do not sacrifice correctness because something _might_ become slow.
 Every abstraction creates:
 
 - cognitive cost
-    
+
 - maintenance cost
-    
+
 - debugging cost
-    
+
 - operational cost
-    
+
 
 ### 3. Explicit ownership
 
@@ -267,19 +267,19 @@ API
 At this point you can ask:
 
 - synchronous or asynchronous?
-    
+
 - HTTP or gRPC?
-    
+
 - request/response or events?
-    
+
 - transactional boundary?
-    
+
 - timeout?
-    
+
 - retry?
-    
+
 - idempotency?
-    
+
 
 ---
 
@@ -582,15 +582,15 @@ Consumers
 Now ask:
 
 - Where can requests duplicate?
-    
+
 - Where can data become stale?
-    
+
 - Where can messages be lost?
-    
+
 - Where can ordering break?
-    
+
 - Where can backpressure occur?
-    
+
 
 ---
 
@@ -936,25 +936,25 @@ Use this repeatedly:
 When looking at any architecture, ask these **10 questions**:
 
 1. **What is the real problem?**
-    
+
 2. **What are the hard constraints?**
-    
+
 3. **Who owns each responsibility and piece of data?**
-    
+
 4. **Where are the boundaries?**
-    
+
 5. **What are the transaction/consistency requirements?**
-    
+
 6. **What happens when each dependency fails?**
-    
+
 7. **Where is the bottleneck at 10× load?**
-    
+
 8. **How do we observe and debug it?**
-    
+
 9. **How do we migrate and roll it back?**
-    
+
 10. **What complexity are we introducing, and is it justified?**
-    
+
 
 That is the transition from **"I know architecture patterns"** to **"I can reason about architecture."**
 
@@ -980,4 +980,3 @@ Not box-drawing.
 ## 🔗 References
 - ⬆️ Parent: [[How to Approach]]
 - 📚 Module: `Introduction`
-

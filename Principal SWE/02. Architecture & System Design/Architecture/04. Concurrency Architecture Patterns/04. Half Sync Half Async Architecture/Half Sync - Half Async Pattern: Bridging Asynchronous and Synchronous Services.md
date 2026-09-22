@@ -1,7 +1,7 @@
 ---
 title: "Half Sync - Half Async Pattern: Bridging Asynchronous and Synchronous Services"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Half Sync - Half Async Pattern: Bridging Asynchronous and Synchronous Services
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

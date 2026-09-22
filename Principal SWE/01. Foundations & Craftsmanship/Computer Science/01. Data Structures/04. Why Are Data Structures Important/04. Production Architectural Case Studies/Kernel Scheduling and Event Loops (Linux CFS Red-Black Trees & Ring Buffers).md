@@ -1,7 +1,7 @@
 ---
 title: "Kernel Scheduling and Event Loops (Linux CFS Red-Black Trees & Ring Buffers)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Minimum Window Substring containing All Characters of Pattern"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

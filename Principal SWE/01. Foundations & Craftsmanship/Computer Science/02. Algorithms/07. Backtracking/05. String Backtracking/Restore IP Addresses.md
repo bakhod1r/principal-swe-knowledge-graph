@@ -1,7 +1,7 @@
 ---
 title: "Restore IP Addresses"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

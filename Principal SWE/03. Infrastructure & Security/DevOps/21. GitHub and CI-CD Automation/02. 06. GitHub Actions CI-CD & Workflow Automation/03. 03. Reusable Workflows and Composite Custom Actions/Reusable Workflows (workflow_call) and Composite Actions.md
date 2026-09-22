@@ -1,7 +1,7 @@
 ---
 title: Reusable Workflows (workflow_call) and Composite Actions
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Reusable Workflows (workflow_call) and Composite Actions
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions CI-CD & Workflow Automation]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

@@ -1,7 +1,7 @@
 ---
 title: "Mutable vs Immutable and Persistent Data Structures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

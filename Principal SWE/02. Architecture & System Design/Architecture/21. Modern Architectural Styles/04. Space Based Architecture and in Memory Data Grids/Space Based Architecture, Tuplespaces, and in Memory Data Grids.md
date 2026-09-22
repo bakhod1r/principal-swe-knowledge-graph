@@ -1,7 +1,7 @@
 ---
 title: Space Based Architecture, Tuplespaces, and in Memory Data Grids
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Space Based Architecture, Tuplespaces, and in Memory Data Grids
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

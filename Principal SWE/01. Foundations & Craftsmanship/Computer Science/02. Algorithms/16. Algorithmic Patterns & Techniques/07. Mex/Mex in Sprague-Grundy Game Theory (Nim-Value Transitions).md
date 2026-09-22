@@ -1,7 +1,7 @@
 ---
 title: "Mex in Sprague-Grundy Game Theory (Nim-Value Transitions)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

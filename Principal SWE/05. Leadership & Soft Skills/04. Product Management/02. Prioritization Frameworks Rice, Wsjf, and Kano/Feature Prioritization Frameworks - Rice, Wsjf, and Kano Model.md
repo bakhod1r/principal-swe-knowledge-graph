@@ -1,7 +1,7 @@
 ---
 title: "Feature Prioritization Frameworks: Rice, Wsjf, and Kano Model"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Feature Prioritization Frameworks: Rice, Wsjf, and Kano Model
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

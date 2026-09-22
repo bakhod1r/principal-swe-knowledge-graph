@@ -1,7 +1,7 @@
 ---
 title: Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

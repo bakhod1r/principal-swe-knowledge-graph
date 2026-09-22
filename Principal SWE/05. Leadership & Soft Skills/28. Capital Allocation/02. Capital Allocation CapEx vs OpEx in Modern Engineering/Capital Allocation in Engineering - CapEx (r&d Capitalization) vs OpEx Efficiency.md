@@ -1,7 +1,7 @@
 ---
 title: "Capital Allocation in Engineering: CapEx (r&d Capitalization) vs OpEx Efficiency"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Capital Allocation in Engineering: CapEx (r&d Capitalization) vs OpEx Efficiency
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

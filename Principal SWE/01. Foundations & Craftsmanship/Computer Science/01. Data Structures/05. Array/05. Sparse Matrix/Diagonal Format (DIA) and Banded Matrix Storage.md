@@ -1,7 +1,7 @@
 ---
 title: "Diagonal Format (DIA) and Banded Matrix Storage"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

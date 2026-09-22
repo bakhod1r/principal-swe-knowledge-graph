@@ -1,7 +1,7 @@
 ---
 title: "net-http Server Lifecycle & Context Propagation"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

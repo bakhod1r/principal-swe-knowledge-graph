@@ -1,7 +1,7 @@
 ---
 title: "Karatsuba Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

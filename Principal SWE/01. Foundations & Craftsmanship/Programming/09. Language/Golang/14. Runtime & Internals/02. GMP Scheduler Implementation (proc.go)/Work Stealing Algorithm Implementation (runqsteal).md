@@ -1,7 +1,7 @@
 ---
 title: "Work Stealing Algorithm Implementation (runqsteal)"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: SQL Join Queries and Relational Set Operations
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Join Queries and Relational Set Operations
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

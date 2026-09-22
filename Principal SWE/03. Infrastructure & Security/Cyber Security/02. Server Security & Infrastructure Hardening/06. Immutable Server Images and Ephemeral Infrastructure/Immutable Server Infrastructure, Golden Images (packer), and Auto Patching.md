@@ -1,7 +1,7 @@
 ---
 title: Immutable Server Infrastructure, Golden Images (packer), and Auto Patching
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening
@@ -34,4 +34,3 @@ Immutable Server Infrastructure, Golden Images (packer), and Auto Patching
 ## 🔗 References
 - ⬆️ Parent: [[Server Security & Infrastructure Hardening]]
 - 📚 Module: `Cyber Security`
-

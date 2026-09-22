@@ -1,7 +1,7 @@
 ---
 title: "Domain Services vs Application Services: Pure Domain Logic vs Orchestration"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Domain Services vs Application Services: Pure Domain Logic vs Orchestration
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

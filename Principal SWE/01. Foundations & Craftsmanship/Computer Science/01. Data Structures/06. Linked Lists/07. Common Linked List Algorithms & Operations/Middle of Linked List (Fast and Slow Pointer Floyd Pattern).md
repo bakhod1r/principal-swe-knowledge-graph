@@ -1,7 +1,7 @@
 ---
 title: "Middle of Linked List (Fast and Slow Pointer Floyd Pattern)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

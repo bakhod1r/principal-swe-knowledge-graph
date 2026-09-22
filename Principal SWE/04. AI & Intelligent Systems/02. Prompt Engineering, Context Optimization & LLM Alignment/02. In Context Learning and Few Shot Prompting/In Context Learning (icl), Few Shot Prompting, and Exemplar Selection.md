@@ -1,7 +1,7 @@
 ---
 title: In Context Learning (icl), Few Shot Prompting, and Exemplar Selection
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ In Context Learning (icl), Few Shot Prompting, and Exemplar Selection
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

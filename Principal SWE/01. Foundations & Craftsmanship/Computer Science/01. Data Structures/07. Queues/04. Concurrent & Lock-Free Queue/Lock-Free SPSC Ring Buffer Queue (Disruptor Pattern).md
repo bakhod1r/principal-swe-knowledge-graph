@@ -1,7 +1,7 @@
 ---
 title: "Lock-Free SPSC Ring Buffer Queue (Disruptor Pattern)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

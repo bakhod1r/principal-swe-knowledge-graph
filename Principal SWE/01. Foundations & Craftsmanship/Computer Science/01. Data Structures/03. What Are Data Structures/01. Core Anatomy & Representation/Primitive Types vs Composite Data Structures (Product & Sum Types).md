@@ -1,7 +1,7 @@
 ---
 title: "Primitive Types vs Composite Data Structures (Product & Sum Types)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

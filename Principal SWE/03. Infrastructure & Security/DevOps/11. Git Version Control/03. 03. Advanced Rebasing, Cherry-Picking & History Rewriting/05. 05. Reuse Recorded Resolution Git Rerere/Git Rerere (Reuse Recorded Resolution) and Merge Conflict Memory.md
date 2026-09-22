@@ -1,7 +1,7 @@
 ---
 title: Git Rerere (Reuse Recorded Resolution) and Merge Conflict Memory
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Rerere (Reuse Recorded Resolution) and Merge Conflict Memory
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

@@ -1,7 +1,7 @@
 ---
 title: "Symmetry Breaking"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

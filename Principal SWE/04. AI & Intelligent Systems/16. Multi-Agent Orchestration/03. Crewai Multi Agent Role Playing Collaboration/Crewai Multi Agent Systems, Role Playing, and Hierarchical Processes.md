@@ -1,7 +1,7 @@
 ---
 title: Crewai Multi Agent Systems, Role Playing, and Hierarchical Processes
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Crewai Multi Agent Systems, Role Playing, and Hierarchical Processes
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

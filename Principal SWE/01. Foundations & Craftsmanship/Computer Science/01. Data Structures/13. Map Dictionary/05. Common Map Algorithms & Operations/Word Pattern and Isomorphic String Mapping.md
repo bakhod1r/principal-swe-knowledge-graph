@@ -1,7 +1,7 @@
 ---
 title: "Word Pattern and Isomorphic String Mapping"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

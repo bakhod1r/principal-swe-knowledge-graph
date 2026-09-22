@@ -1,7 +1,7 @@
 ---
 title: Continuous Adaptive Risk and Trust Assessment (carta) Architecture
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance
@@ -34,4 +34,3 @@ Continuous Adaptive Risk and Trust Assessment (carta) Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Identity, Access Management & Zero Trust Governance]]
 - 📚 Module: `Cyber Security`
-

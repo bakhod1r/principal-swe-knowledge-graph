@@ -1,7 +1,7 @@
 ---
 title: "Serving GraphQL Over Http: Automated Persisted Queries (apq) and Cdn Caching"
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ Serving GraphQL Over Http: Automated Persisted Queries (apq) and Cdn Caching
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

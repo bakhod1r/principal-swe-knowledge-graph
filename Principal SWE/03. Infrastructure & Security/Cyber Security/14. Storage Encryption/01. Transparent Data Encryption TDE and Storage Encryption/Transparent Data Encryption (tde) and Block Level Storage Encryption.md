@@ -1,7 +1,7 @@
 ---
 title: Transparent Data Encryption (tde) and Block Level Storage Encryption
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Transparent Data Encryption (tde) and Block Level Storage Encryption
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

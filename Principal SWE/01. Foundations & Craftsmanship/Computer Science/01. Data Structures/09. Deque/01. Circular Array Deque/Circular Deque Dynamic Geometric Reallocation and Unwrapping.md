@@ -1,7 +1,7 @@
 ---
 title: "Circular Deque Dynamic Geometric Reallocation and Unwrapping"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

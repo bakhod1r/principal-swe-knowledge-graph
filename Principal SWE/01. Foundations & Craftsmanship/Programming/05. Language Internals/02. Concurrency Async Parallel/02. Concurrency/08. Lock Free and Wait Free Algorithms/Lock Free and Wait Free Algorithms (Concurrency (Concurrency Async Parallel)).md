@@ -1,7 +1,7 @@
 ---
 title: Lock Free and Wait Free Algorithms (Concurrency (Concurrency Async Parallel))
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Lock Free and Wait Free Algorithms (Concurrency (Concurrency Async Parallel))
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-

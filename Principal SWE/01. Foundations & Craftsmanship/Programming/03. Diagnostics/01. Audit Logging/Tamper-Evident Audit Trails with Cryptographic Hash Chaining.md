@@ -1,7 +1,7 @@
 ---
 title: "Tamper-Evident Audit Trails with Cryptographic Hash Chaining"
 tags:
-  - review
+
   - programming
   - diagnostics
   - principal-swe

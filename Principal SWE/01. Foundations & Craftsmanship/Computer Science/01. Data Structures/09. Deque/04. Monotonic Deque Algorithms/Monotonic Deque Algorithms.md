@@ -1,7 +1,7 @@
 ---
 title: "Monotonic Deque Algorithms"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

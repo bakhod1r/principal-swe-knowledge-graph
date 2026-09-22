@@ -1,7 +1,7 @@
 ---
 title: "Continuous Testing Architecture: Test Parallelization, Caching, and Test Sharding"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Continuous Testing Architecture: Test Parallelization, Caching, and Test Shardin
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

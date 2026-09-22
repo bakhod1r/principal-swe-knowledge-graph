@@ -1,7 +1,7 @@
 ---
 title: "Field Stakeholder Management: C Suite Alignment and Managing Scope Creep"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Field Stakeholder Management: C Suite Alignment and Managing Scope Creep
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

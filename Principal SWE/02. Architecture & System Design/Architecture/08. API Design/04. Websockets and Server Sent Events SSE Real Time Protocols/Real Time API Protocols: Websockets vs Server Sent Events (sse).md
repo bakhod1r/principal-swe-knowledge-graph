@@ -1,7 +1,7 @@
 ---
 title: "Real Time API Protocols: Websockets vs Server Sent Events (sse)"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ Real Time API Protocols: Websockets vs Server Sent Events (sse)
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

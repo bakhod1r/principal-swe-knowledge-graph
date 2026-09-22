@@ -1,7 +1,7 @@
 ---
 title: "Aliens Trick Lagrangian Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

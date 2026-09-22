@@ -1,7 +1,7 @@
 ---
 title: "What Is System Design Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems
@@ -38,27 +38,27 @@ At some point, a single process or database becomes the bottleneck.
 Typical bottlenecks:
 
 - CPU
-    
+
 - memory
-    
+
 - database connections
-    
+
 - database I/O
-    
+
 - network bandwidth
-    
+
 - disk I/O
-    
+
 - locks
-    
+
 - connection limits
-    
+
 - external APIs
-    
+
 - single-instance failure
-    
+
 - hot data / hot partitions
-    
+
 
 A scalable architecture provides a way to increase capacity without completely redesigning the system.
 
@@ -111,24 +111,24 @@ Also called:
 ### Advantages
 
 - Very simple
-    
+
 - Minimal architectural changes
-    
+
 - Easy deployment
-    
+
 - Low operational complexity
-    
+
 
 ### Disadvantages
 
 - Hardware limits
-    
+
 - Usually expensive at the high end
-    
+
 - Still a single failure domain
-    
+
 - Eventually hits a ceiling
-    
+
 
 ### When to use
 
@@ -315,17 +315,17 @@ The exact improvement depends on workload and cacheability.
 ### Common cache locations
 
 - Browser
-    
+
 - CDN
-    
+
 - Reverse proxy
-    
+
 - Application memory
-    
+
 - Redis
-    
+
 - Database buffer/cache
-    
+
 
 ### Important trade-off
 
@@ -340,19 +340,19 @@ The famous problem is:
 You need to reason about:
 
 - TTL
-    
+
 - invalidation
-    
+
 - cache stampede
-    
+
 - stale reads
-    
+
 - eviction
-    
+
 - cache consistency
-    
+
 - hot keys
-    
+
 
 ---
 
@@ -373,19 +373,19 @@ A CDN moves static or cacheable content closer to users.
 Good candidates:
 
 - images
-    
+
 - JavaScript
-    
+
 - CSS
-    
+
 - videos
-    
+
 - downloads
-    
+
 - static HTML
-    
+
 - cacheable API responses
-    
+
 
 Instead of:
 
@@ -406,13 +406,13 @@ Tokyo CDN edge
 This reduces:
 
 - latency
-    
+
 - origin traffic
-    
+
 - bandwidth
-    
+
 - server load
-    
+
 
 ---
 
@@ -501,13 +501,13 @@ Architecture:
 ### Benefits
 
 - More storage capacity
-    
+
 - More write capacity
-    
+
 - More read capacity
-    
+
 - Reduced contention
-    
+
 
 ### Costs
 
@@ -516,17 +516,17 @@ Sharding is expensive operationally.
 You introduce:
 
 - shard routing
-    
+
 - rebalancing
-    
+
 - cross-shard queries
-    
+
 - cross-shard transactions
-    
+
 - hotspot management
-    
+
 - migration complexity
-    
+
 
 **Do not shard merely because it sounds scalable.**
 
@@ -552,13 +552,13 @@ This is particularly useful for time-series or large datasets.
 Advantages:
 
 - smaller indexes
-    
+
 - partition pruning
-    
+
 - easier archival
-    
+
 - easier data lifecycle management
-    
+
 
 Important distinction:
 
@@ -707,17 +707,17 @@ producer rate > consumer rate
 the system must eventually do something:
 
 - block producers
-    
+
 - reject requests
-    
+
 - drop work
-    
+
 - slow down producers
-    
+
 - increase consumers
-    
+
 - apply rate limits
-    
+
 
 Without backpressure:
 
@@ -750,13 +750,13 @@ Example:
 Algorithms include:
 
 - Fixed Window
-    
+
 - Sliding Window
-    
+
 - Token Bucket
-    
+
 - Leaky Bucket
-    
+
 
 Token Bucket is particularly useful because it allows controlled bursts.
 
@@ -771,15 +771,15 @@ No token → reject / wait
 Rate limiting protects:
 
 - CPU
-    
+
 - databases
-    
+
 - downstream services
-    
+
 - APIs
-    
+
 - expensive operations
-    
+
 
 ---
 
@@ -889,15 +889,15 @@ Useful when read and write requirements differ dramatically.
 But CQRS introduces substantial complexity:
 
 - multiple models
-    
+
 - synchronization
-    
+
 - eventual consistency
-    
+
 - event processing
-    
+
 - rebuilding projections
-    
+
 
 It should not be used simply because the system is large.
 
@@ -937,19 +937,19 @@ Services don't necessarily need to be available at exactly the same moment.
 But you now need to reason about:
 
 - duplicate events
-    
+
 - ordering
-    
+
 - retries
-    
+
 - idempotency
-    
+
 - dead-letter queues
-    
+
 - eventual consistency
-    
+
 - schema evolution
-    
+
 
 ---
 
@@ -1026,13 +1026,13 @@ R1     R2
 Goals:
 
 - availability
-    
+
 - read scaling
-    
+
 - disaster recovery
-    
+
 - geographic redundancy
-    
+
 
 But replication creates difficult questions:
 
@@ -1070,24 +1070,24 @@ For global systems:
 Benefits:
 
 - lower latency
-    
+
 - regional fault isolation
-    
+
 - disaster resilience
-    
+
 
 Costs:
 
 - distributed data
-    
+
 - cross-region replication
-    
+
 - consistency problems
-    
+
 - higher operational complexity
-    
+
 - data residency requirements
-    
+
 
 ---
 
@@ -1112,17 +1112,17 @@ CPU 20%
 Autoscaling signals can include:
 
 - CPU
-    
+
 - memory
-    
+
 - request rate
-    
+
 - queue depth
-    
+
 - latency
-    
+
 - custom business metrics
-    
+
 
 A strong production design prefers signals that represent **actual saturation**.
 
@@ -1337,13 +1337,13 @@ You created distributed-system problems before having a scaling problem.
 Caching can create:
 
 - stale data
-    
+
 - invalidation bugs
-    
+
 - cache stampedes
-    
+
 - memory pressure
-    
+
 
 ### Add replicas without measuring
 
@@ -1366,13 +1366,13 @@ Sharding can turn ordinary queries into distributed queries.
 Asynchronous architecture increases:
 
 - latency uncertainty
-    
+
 - debugging complexity
-    
+
 - operational burden
-    
+
 - consistency challenges
-    
+
 
 ### Ignore backpressure
 
@@ -1597,4 +1597,3 @@ They start with:
 ## 🔗 References
 - ⬆️ Parent: [[What Is System Design]]
 - 📚 Module: `Introduction`
-

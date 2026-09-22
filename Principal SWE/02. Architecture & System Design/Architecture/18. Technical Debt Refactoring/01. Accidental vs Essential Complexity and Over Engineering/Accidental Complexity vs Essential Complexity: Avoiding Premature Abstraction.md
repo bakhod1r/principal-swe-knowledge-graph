@@ -1,7 +1,7 @@
 ---
 title: "Accidental Complexity vs Essential Complexity: Avoiding Premature Abstraction"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ Accidental Complexity vs Essential Complexity: Avoiding Premature Abstraction
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

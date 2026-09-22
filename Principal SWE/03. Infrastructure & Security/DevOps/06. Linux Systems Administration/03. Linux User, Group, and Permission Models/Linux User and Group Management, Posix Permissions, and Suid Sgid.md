@@ -1,7 +1,7 @@
 ---
 title: Linux User and Group Management, Posix Permissions, and Suid Sgid
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux User and Group Management, Posix Permissions, and Suid Sgid
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

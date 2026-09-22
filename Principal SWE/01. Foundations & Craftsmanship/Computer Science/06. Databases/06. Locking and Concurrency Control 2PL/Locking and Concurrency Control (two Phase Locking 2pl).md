@@ -1,7 +1,7 @@
 ---
 title: Locking and Concurrency Control (two Phase Locking 2pl)
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Locking and Concurrency Control (two Phase Locking 2pl)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: "GOROOT bin and pkg Layout"
 tags:
-  - review
+
   - golang
   - source-structure
   - principal-swe

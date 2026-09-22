@@ -1,7 +1,7 @@
 ---
 title: "G Struct (Goroutine Internals)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

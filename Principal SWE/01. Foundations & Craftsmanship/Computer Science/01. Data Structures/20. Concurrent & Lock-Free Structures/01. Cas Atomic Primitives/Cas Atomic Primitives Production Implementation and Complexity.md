@@ -1,7 +1,7 @@
 ---
 title: "Cas Atomic Primitives Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

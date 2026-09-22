@@ -1,7 +1,7 @@
 ---
 title: Public Cloud Providers (aws, Gcp, Azure) and Hybrid Cloud
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Public Cloud Providers (aws, Gcp, Azure) and Hybrid Cloud
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
@@ -34,4 +34,3 @@ Apache Spark Internals: Rdds, Dataframes, Catalyst Optimizer, and Tungsten
 ## 🔗 References
 - ⬆️ Parent: `Data Engineering, ETL Pipelines & Lakehouse Architecture`
 - 📚 Module: `AI & Machine Learning`
-

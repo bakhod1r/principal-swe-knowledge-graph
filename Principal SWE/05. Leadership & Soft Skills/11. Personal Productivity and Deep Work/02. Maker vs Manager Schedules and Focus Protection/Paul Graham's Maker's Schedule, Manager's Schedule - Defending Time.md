@@ -1,7 +1,7 @@
 ---
 title: "Paul Graham's Maker's Schedule, Manager's Schedule: Defending Time"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Paul Graham's Maker's Schedule, Manager's Schedule: Defending Time
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

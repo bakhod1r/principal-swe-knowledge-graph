@@ -1,7 +1,7 @@
 ---
 title: Backend Performance & High Throughput Engineering
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - principal-swe
@@ -29,4 +29,3 @@ Comprehensive engineering guide, patterns, and principles for Backend Performanc
 
 ## 🔗 References
 - ⬆️ Parent: [[Best Practices]]
-

@@ -1,7 +1,7 @@
 ---
 title: "Merge Topologies: Fast-Forward Merges vs True Three-Way Merges"
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Merge Topologies: Fast-Forward Merges vs True Three-Way Merges
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

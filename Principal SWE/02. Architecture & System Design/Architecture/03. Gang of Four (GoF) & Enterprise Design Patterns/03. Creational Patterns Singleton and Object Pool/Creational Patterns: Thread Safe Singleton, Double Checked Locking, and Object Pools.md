@@ -1,7 +1,7 @@
 ---
 title: "Creational Patterns: Thread Safe Singleton, Double Checked Locking, and Object Pools"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Creational Patterns: Thread Safe Singleton, Double Checked Locking, and Object P
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

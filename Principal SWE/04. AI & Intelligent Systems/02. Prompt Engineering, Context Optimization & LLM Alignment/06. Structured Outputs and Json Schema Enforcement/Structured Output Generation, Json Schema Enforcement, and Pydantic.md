@@ -1,7 +1,7 @@
 ---
 title: Structured Output Generation, Json Schema Enforcement, and Pydantic
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ Structured Output Generation, Json Schema Enforcement, and Pydantic
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

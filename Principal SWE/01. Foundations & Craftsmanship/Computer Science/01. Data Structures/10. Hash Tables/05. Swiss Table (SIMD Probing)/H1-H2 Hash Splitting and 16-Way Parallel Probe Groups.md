@@ -1,7 +1,7 @@
 ---
 title: "H1-H2 Hash Splitting and 16-Way Parallel Probe Groups"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

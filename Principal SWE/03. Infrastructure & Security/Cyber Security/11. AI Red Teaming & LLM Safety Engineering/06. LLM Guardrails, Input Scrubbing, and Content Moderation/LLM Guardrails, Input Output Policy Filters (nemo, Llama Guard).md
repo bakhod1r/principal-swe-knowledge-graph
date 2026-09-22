@@ -1,7 +1,7 @@
 ---
 title: LLM Guardrails, Input Output Policy Filters (nemo, Llama Guard)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering
@@ -34,4 +34,3 @@ LLM Guardrails, Input Output Policy Filters (nemo, Llama Guard)
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Safety Engineering]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Patterns: State Pattern and Object Oriented State Machines"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Behavioral Patterns: State Pattern and Object Oriented State Machines
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

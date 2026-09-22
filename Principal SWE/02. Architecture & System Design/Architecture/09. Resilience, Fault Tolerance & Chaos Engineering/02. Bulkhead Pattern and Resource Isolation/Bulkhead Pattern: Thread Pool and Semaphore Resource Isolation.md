@@ -1,7 +1,7 @@
 ---
 title: "Bulkhead Pattern: Thread Pool and Semaphore Resource Isolation"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Bulkhead Pattern: Thread Pool and Semaphore Resource Isolation
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

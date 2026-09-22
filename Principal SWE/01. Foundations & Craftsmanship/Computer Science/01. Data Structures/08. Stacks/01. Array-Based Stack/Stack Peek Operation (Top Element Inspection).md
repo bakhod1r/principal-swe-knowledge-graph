@@ -1,7 +1,7 @@
 ---
 title: "Stack Peek Operation (Top Element Inspection)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

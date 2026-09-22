@@ -1,7 +1,7 @@
 ---
 title: "Team Topologies: Stream Aligned, Enabling, Complicated Subsystem, and Platform Teams"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Team Topologies: Stream Aligned, Enabling, Complicated Subsystem, and Platform T
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

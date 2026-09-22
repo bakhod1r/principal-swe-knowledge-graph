@@ -1,7 +1,7 @@
 ---
 title: Dynamic Blocks, for Expressions, and Splat Syntax in Terraform
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Dynamic Blocks, for Expressions, and Splat Syntax in Terraform
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

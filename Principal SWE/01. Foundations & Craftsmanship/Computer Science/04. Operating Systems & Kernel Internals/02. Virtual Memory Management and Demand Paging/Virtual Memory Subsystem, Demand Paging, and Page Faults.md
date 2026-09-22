@@ -1,7 +1,7 @@
 ---
 title: Virtual Memory Subsystem, Demand Paging, and Page Faults
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ Virtual Memory Subsystem, Demand Paging, and Page Faults
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

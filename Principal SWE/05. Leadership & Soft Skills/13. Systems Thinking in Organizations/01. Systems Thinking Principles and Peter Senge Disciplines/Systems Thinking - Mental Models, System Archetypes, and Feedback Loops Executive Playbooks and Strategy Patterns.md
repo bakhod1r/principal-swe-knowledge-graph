@@ -1,7 +1,7 @@
 ---
 title: "Systems Thinking - Mental Models, System Archetypes, and Feedback Loops Executive Playbooks and Strategy Patterns"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy

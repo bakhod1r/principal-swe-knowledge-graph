@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Dynamic Geometric Resizing and Linear Unwrapping"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

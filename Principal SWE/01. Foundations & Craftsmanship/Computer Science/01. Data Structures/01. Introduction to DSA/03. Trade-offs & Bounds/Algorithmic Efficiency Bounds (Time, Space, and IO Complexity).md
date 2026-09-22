@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Efficiency Bounds (Time, Space, and IO Complexity)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

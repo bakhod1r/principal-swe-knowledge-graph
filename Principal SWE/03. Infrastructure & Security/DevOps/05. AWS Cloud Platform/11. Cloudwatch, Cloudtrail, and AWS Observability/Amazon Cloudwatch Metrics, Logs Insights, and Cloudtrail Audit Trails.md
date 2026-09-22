@@ -1,7 +1,7 @@
 ---
 title: Amazon Cloudwatch Metrics, Logs Insights, and Cloudtrail Audit Trails
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon Cloudwatch Metrics, Logs Insights, and Cloudtrail Audit Trails
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

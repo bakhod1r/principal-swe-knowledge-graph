@@ -1,7 +1,7 @@
 ---
 title: "Queue Power-of-Two Bitwise Masking Indexing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

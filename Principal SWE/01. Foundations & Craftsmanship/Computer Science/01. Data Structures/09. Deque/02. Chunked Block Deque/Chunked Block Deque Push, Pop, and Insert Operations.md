@@ -1,7 +1,7 @@
 ---
 title: "Chunked Block Deque Push, Pop, and Insert Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

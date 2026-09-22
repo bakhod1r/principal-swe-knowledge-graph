@@ -1,7 +1,7 @@
 ---
 title: Amazon Dynamodb Architecture, Single Table Design, and Partitioning
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon Dynamodb Architecture, Single Table Design, and Partitioning
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

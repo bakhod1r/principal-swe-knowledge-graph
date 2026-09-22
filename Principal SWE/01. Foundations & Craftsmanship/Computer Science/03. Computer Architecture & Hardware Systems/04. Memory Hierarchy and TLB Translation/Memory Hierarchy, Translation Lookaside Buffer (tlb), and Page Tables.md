@@ -1,7 +1,7 @@
 ---
 title: Memory Hierarchy, Translation Lookaside Buffer (tlb), and Page Tables
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ Memory Hierarchy, Translation Lookaside Buffer (tlb), and Page Tables
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: Developer Ergonomics, Preserving Cognitive Flow, and Avoiding AI Fatigue
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Developer Ergonomics, Preserving Cognitive Flow, and Avoiding AI Fatigue
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Key Immutability Invariant and Hash Code Mutation Gotchas"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

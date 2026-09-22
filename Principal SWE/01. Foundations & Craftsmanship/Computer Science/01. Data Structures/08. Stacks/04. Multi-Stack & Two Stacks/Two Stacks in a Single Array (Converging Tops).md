@@ -1,7 +1,7 @@
 ---
 title: "Two Stacks in a Single Array (Converging Tops)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

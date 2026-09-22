@@ -1,7 +1,7 @@
 ---
 title: "Doubly Linked List Sentinel Nodes (Circular Dummy Invariant)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

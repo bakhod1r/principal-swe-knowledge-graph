@@ -1,7 +1,7 @@
 ---
 title: "go tool buildid (Build Identity)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

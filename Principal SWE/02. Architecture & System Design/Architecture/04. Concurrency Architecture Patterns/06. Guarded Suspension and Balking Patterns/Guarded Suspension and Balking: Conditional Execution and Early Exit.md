@@ -1,7 +1,7 @@
 ---
 title: "Guarded Suspension and Balking: Conditional Execution and Early Exit"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Guarded Suspension and Balking: Conditional Execution and Early Exit
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

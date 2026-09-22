@@ -1,7 +1,7 @@
 ---
 title: Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution & Interactive Debugging]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

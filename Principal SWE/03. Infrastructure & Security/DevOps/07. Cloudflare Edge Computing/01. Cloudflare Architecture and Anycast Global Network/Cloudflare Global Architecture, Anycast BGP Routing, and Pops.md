@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Global Architecture, Anycast BGP Routing, and Pops
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare Global Architecture, Anycast BGP Routing, and Pops
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

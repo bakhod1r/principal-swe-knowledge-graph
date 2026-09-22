@@ -1,7 +1,7 @@
 ---
 title: "uintptr Pointer Arithmetic Rules & GC Safety Constraints"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

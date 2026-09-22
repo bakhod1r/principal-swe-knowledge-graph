@@ -1,7 +1,7 @@
 ---
 title: "Backends for Frontend Trade Offs and Failure Modes"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

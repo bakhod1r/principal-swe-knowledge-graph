@@ -1,7 +1,7 @@
 ---
 title: Native Machine Code Generation, Instruction Selection, and Instruction Scheduling
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Native Machine Code Generation, Instruction Selection, and Instruction Schedulin
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

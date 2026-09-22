@@ -1,7 +1,7 @@
 ---
 title: "Network Load Balancing: Layer 4 Direct Server Return (dsr) vs Layer 7 Proxies"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Network Load Balancing: Layer 4 Direct Server Return (dsr) vs Layer 7 Proxies
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

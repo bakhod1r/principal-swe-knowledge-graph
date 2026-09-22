@@ -1,7 +1,7 @@
 ---
 title: "GOBIN Binary Destination"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -508,13 +508,13 @@ means the shell may execute programs from:
 Be careful about:
 
 - who can write to the directory
-    
+
 - ownership and permissions
-    
+
 - installing untrusted Go tools
-    
+
 - dependency/supply-chain security
-    
+
 
 For developer machines, a user-owned directory is preferable to an arbitrary world-writable directory.
 

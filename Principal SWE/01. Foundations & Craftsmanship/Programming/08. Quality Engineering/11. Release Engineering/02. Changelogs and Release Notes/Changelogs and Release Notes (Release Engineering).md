@@ -1,7 +1,7 @@
 ---
 title: Changelogs and Release Notes (Release Engineering)
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Changelogs and Release Notes (Release Engineering)
 
 ## 🔗 References
 - ⬆️ Parent: [[Release Engineering]]
-

@@ -1,7 +1,7 @@
 ---
 title: Refactoring Legacy Spaghetti Code to Clean Hexagonal Architecture
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Refactoring Legacy Spaghetti Code to Clean Hexagonal Architecture
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

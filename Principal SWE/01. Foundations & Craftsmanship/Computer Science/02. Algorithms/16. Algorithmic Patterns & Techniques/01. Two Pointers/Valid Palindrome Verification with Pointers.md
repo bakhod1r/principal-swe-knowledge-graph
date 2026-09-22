@@ -1,7 +1,7 @@
 ---
 title: "Valid Palindrome Verification with Pointers"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

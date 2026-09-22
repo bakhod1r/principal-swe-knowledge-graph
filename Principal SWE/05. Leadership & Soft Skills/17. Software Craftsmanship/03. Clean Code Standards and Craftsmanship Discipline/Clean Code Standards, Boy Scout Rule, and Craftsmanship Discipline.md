@@ -1,7 +1,7 @@
 ---
 title: Clean Code Standards, Boy Scout Rule, and Craftsmanship Discipline
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Clean Code Standards, Boy Scout Rule, and Craftsmanship Discipline
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

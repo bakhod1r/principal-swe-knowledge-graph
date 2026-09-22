@@ -1,7 +1,7 @@
 ---
 title: "Array Search (Linear Scan vs Branchless Binary Search)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

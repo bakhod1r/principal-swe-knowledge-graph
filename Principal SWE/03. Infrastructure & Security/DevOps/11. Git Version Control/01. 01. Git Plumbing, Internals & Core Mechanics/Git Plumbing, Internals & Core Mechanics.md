@@ -1,7 +1,7 @@
 ---
 title: Git Plumbing, Internals & Core Mechanics
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -41,4 +41,3 @@ Git Plumbing, Internals & Core Mechanics
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

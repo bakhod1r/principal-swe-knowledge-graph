@@ -1,7 +1,7 @@
 ---
 title: "Graph Coloring"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

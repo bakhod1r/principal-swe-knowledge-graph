@@ -1,7 +1,7 @@
 ---
 title: "Unrolled Linked List Hybrid Cache Topology"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

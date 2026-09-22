@@ -1,7 +1,7 @@
 ---
 title: "Cuckoo Filter Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: Garbage Collection Theory and Runtime Algorithms (mark Sweep, Generational, G1, Zgc)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Garbage Collection Theory and Runtime Algorithms (mark Sweep, Generational, G1, 
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

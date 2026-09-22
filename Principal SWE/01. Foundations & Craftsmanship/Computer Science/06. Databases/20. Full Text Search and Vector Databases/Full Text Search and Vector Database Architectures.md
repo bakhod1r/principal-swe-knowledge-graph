@@ -1,7 +1,7 @@
 ---
 title: Full Text Search and Vector Database Architectures
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Full Text Search and Vector Database Architectures
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

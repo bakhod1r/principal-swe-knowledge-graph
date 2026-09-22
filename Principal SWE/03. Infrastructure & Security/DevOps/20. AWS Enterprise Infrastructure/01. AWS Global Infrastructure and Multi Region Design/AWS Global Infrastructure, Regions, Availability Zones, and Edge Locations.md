@@ -1,7 +1,7 @@
 ---
 title: AWS Global Infrastructure, Regions, Availability Zones, and Edge Locations
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ AWS Global Infrastructure, Regions, Availability Zones, and Edge Locations
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

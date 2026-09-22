@@ -1,7 +1,7 @@
 ---
 title: "go fmt and gofumpt"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

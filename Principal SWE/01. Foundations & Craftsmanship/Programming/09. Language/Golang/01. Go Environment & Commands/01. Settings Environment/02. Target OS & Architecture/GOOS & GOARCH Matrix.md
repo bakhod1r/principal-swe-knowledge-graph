@@ -1,7 +1,7 @@
 ---
 title: "GOOS & GOARCH Matrix"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -308,13 +308,13 @@ GOOS=linux GOARCH=arm64 go build -o app
 Common for:
 
 - AWS Graviton
-    
+
 - ARM Kubernetes nodes
-    
+
 - Raspberry Pi 64-bit
-    
+
 - ARM cloud infrastructure
-    
+
 
 ---
 
@@ -864,21 +864,21 @@ Build matrix
 This matters particularly when dealing with:
 
 - CGO
-    
+
 - architecture-specific assembly
-    
+
 - CPU instructions
-    
+
 - syscall behavior
-    
+
 - filesystem semantics
-    
+
 - endian assumptions
-    
+
 - unsafe code
-    
+
 - platform-specific dependencies
-    
+
 
 ---
 
@@ -1079,25 +1079,25 @@ That distinction is critical in production.
 ## Key takeaways
 
 1. **`GOOS` = target operating system.**
-    
+
 2. **`GOARCH` = target CPU architecture.**
-    
+
 3. Go supports extensive cross-compilation.
-    
+
 4. `go tool dist list` shows the supported target matrix.
-    
+
 5. Build constraints allow platform-specific implementations.
-    
+
 6. `runtime.GOOS`/`runtime.GOARCH` are runtime information; build tags are compile-time selection.
-    
+
 7. `CGO_ENABLED=1` significantly changes cross-compilation complexity.
-    
+
 8. `GOAMD64`, `GOARM`, etc. provide architecture-specific tuning.
-    
+
 9. Container platforms commonly target `linux/amd64` and `linux/arm64`.
-    
+
 10. **A successful cross-build does not automatically prove runtime compatibility.**
-    
+
 
 The deeper engineering lesson is:
 

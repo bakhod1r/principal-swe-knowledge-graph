@@ -1,7 +1,7 @@
 ---
 title: Automated Pull Request Code Review with AI (coderabbit, PR Agent)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Automated Pull Request Code Review with AI (coderabbit, PR Agent)
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

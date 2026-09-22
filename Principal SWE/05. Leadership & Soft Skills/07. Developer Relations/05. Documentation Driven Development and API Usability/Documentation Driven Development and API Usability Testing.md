@@ -1,7 +1,7 @@
 ---
 title: Documentation Driven Development and API Usability Testing
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Documentation Driven Development and API Usability Testing
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

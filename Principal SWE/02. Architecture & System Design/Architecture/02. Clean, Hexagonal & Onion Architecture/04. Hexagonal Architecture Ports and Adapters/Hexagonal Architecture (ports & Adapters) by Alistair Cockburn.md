@@ -1,7 +1,7 @@
 ---
 title: Hexagonal Architecture (ports & Adapters) by Alistair Cockburn
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Hexagonal Architecture (ports & Adapters) by Alistair Cockburn
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

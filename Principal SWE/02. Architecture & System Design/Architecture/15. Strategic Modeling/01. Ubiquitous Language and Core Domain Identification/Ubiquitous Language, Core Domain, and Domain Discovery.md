@@ -1,7 +1,7 @@
 ---
 title: Ubiquitous Language, Core Domain, and Domain Discovery
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Ubiquitous Language, Core Domain, and Domain Discovery
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

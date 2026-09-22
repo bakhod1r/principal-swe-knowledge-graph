@@ -1,7 +1,7 @@
 ---
 title: "Engineering Onboarding Framework: 30 60 90 Day Success Blueprints"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Engineering Onboarding Framework: 30 60 90 Day Success Blueprints
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

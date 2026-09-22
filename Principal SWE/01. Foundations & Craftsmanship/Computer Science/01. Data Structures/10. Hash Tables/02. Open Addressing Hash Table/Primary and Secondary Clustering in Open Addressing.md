@@ -1,7 +1,7 @@
 ---
 title: "Primary and Secondary Clustering in Open Addressing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

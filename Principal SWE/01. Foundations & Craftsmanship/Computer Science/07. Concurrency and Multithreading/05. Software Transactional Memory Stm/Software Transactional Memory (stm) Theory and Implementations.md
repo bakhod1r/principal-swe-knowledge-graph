@@ -1,7 +1,7 @@
 ---
 title: Software Transactional Memory (stm) Theory and Implementations
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Software Transactional Memory (stm) Theory and Implementations
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

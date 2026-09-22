@@ -1,7 +1,7 @@
 ---
 title: "Happens-Before Relationship Rules"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

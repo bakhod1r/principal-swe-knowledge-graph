@@ -1,7 +1,7 @@
 ---
 title: "Data Structure Formal Mathematical Model (Sets, States, Transitions)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Type Systems, Soundness, and Memory Safety (Static vs Dynamic)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

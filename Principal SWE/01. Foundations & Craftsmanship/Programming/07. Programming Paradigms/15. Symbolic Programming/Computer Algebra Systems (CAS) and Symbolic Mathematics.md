@@ -1,7 +1,7 @@
 ---
 title: "Computer Algebra Systems (CAS) and Symbolic Mathematics"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

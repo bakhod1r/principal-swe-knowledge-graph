@@ -1,7 +1,7 @@
 ---
 title: CODEOWNERS Configuration and Automated PR Review Routing
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ CODEOWNERS Configuration and Automated PR Review Routing
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

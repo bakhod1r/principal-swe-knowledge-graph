@@ -1,7 +1,7 @@
 ---
 title: Foreign Keys, Check Constraints, and Data Integrity Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices
@@ -34,4 +34,3 @@ Foreign Keys, Check Constraints, and Data Integrity Standards
 ## 🔗 References
 - ⬆️ Parent: `Database Schema Design & Migration Best Practices`
 - 📚 Module: `Best Practices`
-

@@ -1,7 +1,7 @@
 ---
 title: LSM Tree
 tags:
-  - review
+
   - data-structures
   - principal-swe
 parent: "[[Advanced Trees & Specialized Tries]]"
@@ -31,4 +31,3 @@ LSM Tree
 
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Trees & Specialized Tries]]
-

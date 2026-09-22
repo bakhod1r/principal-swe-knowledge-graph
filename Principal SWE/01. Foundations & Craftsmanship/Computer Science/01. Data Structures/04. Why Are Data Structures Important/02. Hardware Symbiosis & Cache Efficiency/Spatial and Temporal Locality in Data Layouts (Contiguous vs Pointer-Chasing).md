@@ -1,7 +1,7 @@
 ---
 title: "Spatial and Temporal Locality in Data Layouts (Contiguous vs Pointer-Chasing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Synthetic Monitoring and Rum Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

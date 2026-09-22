@@ -1,7 +1,7 @@
 ---
 title: Terraform Input Variables, Outputs, and Custom Validation Rules
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Input Variables, Outputs, and Custom Validation Rules
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

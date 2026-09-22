@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Vendor Negotiation: Multi Year Cloud Commitments and Software Contracts"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Enterprise Vendor Negotiation: Multi Year Cloud Commitments and Software Contrac
 ## 🔗 References
 - ⬆️ Parent: `Executive Technical Strategy, Board Governance & Capital Allocation`
 - 📚 Module: `Leadership & Soft Skills`
-

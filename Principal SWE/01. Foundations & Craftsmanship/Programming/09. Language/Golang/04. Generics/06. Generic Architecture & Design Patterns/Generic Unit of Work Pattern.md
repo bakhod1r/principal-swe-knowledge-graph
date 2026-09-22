@@ -1,7 +1,7 @@
 ---
 title: "Generic Unit of Work Pattern"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

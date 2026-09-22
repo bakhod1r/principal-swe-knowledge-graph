@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Zero Trust Architecture, Access, and Tunnel (cloudflared)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Cloudflare Zero Trust Architecture, Access, and Tunnel (cloudflared)
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

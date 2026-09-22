@@ -1,7 +1,7 @@
 ---
 title: "Standard Library Dependency Graph"
 tags:
-  - review
+
   - golang
   - source-structure
   - principal-swe

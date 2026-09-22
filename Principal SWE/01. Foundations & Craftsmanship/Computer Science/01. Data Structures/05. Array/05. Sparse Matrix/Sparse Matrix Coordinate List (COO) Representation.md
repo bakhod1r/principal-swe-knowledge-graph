@@ -1,7 +1,7 @@
 ---
 title: "Sparse Matrix Coordinate List (COO) Representation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

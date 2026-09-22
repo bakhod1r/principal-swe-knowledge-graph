@@ -1,7 +1,7 @@
 ---
 title: Hardware Virtualization, Type 1-type 2 Hypervisors, and Kvm
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ Hardware Virtualization, Type 1-type 2 Hypervisors, and Kvm
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

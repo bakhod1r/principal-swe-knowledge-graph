@@ -1,7 +1,7 @@
 ---
 title: "Contiguous vs Node-Based Linked Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Circular Deque Power-of-Two Bitwise Indexing for Head and Tail"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

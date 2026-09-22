@@ -1,7 +1,7 @@
 ---
 title: Evolutionary Architecture and Automated Architectural Fitness Functions
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Evolutionary Architecture and Automated Architectural Fitness Functions
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

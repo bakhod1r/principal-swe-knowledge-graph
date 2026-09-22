@@ -1,7 +1,7 @@
 ---
 title: "Thread Parking (notesleep & notewakeup)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

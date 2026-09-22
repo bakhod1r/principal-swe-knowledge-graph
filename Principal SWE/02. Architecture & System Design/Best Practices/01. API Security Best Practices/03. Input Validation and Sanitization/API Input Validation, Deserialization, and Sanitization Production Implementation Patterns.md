@@ -1,7 +1,7 @@
 ---
 title: "API Input Validation, Deserialization, and Sanitization Production Implementation Patterns"
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices

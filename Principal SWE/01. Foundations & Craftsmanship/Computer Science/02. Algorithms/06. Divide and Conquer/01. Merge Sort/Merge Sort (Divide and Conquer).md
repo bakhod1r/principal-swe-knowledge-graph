@@ -1,7 +1,7 @@
 ---
 title: Merge Sort (Divide and Conquer)
 tags:
-  - review
+
   - algorithms
   - principal-swe
 parent: "[[Divide and Conquer]]"
@@ -31,4 +31,3 @@ Merge Sort (Divide and Conquer)
 
 ## 🔗 References
 - ⬆️ Parent: [[Divide and Conquer]]
-

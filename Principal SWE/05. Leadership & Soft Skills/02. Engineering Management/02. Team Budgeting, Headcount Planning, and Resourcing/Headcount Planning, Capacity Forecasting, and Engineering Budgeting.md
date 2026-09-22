@@ -1,7 +1,7 @@
 ---
 title: Headcount Planning, Capacity Forecasting, and Engineering Budgeting
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Headcount Planning, Capacity Forecasting, and Engineering Budgeting
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

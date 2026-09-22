@@ -1,7 +1,7 @@
 ---
 title: Insecure Deserialization and Object Injection Vulnerabilities
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Insecure Deserialization and Object Injection Vulnerabilities
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

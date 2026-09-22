@@ -1,7 +1,7 @@
 ---
 title: Conway's Law, Team Topologies, and the Inverse Conway Maneuver
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Conway's Law, Team Topologies, and the Inverse Conway Maneuver
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

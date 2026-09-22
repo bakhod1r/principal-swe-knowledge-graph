@@ -1,7 +1,7 @@
 ---
 title: High Throughput Model Inference Serving (triton Inference Server, Vllm)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ High Throughput Model Inference Serving (triton Inference Server, Vllm)
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

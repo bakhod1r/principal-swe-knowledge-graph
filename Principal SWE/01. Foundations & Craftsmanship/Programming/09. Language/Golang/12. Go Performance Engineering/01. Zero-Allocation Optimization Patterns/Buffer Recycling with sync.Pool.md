@@ -1,7 +1,7 @@
 ---
 title: "Buffer Recycling with sync.Pool"
 tags:
-  - review
+
   - golang
   - performance
   - principal-swe

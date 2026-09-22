@@ -1,7 +1,7 @@
 ---
 title: "Code Ownership Models: Collective Ownership vs Strong Service Ownership"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Code Ownership Models: Collective Ownership vs Strong Service Ownership
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

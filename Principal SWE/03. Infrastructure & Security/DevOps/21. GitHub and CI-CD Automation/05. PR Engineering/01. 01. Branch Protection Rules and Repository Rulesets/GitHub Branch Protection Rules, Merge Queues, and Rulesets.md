@@ -1,7 +1,7 @@
 ---
 title: GitHub Branch Protection Rules, Merge Queues, and Rulesets
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Branch Protection Rules, Merge Queues, and Rulesets
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

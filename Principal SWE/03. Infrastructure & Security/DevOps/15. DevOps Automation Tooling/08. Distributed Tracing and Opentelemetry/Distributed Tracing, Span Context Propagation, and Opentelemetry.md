@@ -1,7 +1,7 @@
 ---
 title: Distributed Tracing, Span Context Propagation, and Opentelemetry
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Distributed Tracing, Span Context Propagation, and Opentelemetry
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

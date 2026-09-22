@@ -1,7 +1,7 @@
 ---
 title: "Boyer-Moore Majority Vote In-Place Array Scan"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

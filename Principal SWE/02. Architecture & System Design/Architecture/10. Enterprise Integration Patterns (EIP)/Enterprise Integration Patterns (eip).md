@@ -1,7 +1,7 @@
 ---
 title: Enterprise Integration Patterns (eip)
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -47,4 +47,3 @@ Enterprise Integration Patterns (eip)
 
 ## 🔗 References
 - ⬆️ Parent: [[Architecture]]
-

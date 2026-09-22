@@ -1,7 +1,7 @@
 ---
 title: Kubernetes GPU Scheduling, Nvidia GPU Operator, and Keda Autoscaling
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
@@ -34,4 +34,3 @@ Kubernetes GPU Scheduling, Nvidia GPU Operator, and Keda Autoscaling
 ## 🔗 References
 - ⬆️ Parent: `High Performance Inference & Llmops Infrastructure`
 - 📚 Module: `AI & Machine Learning`
-

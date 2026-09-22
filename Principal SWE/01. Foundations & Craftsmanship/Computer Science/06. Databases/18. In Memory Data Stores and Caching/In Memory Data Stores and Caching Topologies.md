@@ -1,7 +1,7 @@
 ---
 title: In Memory Data Stores and Caching Topologies
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ In Memory Data Stores and Caching Topologies
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

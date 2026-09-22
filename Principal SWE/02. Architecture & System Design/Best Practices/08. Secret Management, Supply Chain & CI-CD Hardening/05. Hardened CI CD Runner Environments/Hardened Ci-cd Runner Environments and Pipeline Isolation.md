@@ -1,7 +1,7 @@
 ---
 title: Hardened Ci-cd Runner Environments and Pipeline Isolation
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - secret-management,-supply-chain-and-ci-cd-hardening
@@ -34,4 +34,3 @@ Hardened Ci-cd Runner Environments and Pipeline Isolation
 ## 🔗 References
 - ⬆️ Parent: [[Secret Management, Supply Chain & CI CD Hardening]]
 - 📚 Module: `Best Practices`
-

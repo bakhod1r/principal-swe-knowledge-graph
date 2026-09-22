@@ -1,7 +1,7 @@
 ---
 title: Task Breakdown, Accurate Estimation, and Buffer Modeling
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Task Breakdown, Accurate Estimation, and Buffer Modeling
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

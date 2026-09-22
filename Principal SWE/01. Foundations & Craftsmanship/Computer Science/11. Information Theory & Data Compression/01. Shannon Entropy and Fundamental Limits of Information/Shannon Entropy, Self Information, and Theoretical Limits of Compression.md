@@ -1,7 +1,7 @@
 ---
 title: Shannon Entropy, Self Information, and Theoretical Limits of Compression
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression
@@ -34,4 +34,3 @@ Shannon Entropy, Self Information, and Theoretical Limits of Compression
 ## 🔗 References
 - ⬆️ Parent: [[Information Theory & Data Compression]]
 - 📚 Module: `Computer Science`
-

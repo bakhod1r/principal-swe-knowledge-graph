@@ -1,7 +1,7 @@
 ---
 title: "Storage Engine Trade-offs (B-Trees vs LSM-Trees in Databases)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

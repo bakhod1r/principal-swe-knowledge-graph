@@ -1,7 +1,7 @@
 ---
 title: "Operational Runbooks: 3 Am Ready Standard Operating Procedures (sops)"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Operational Runbooks: 3 Am Ready Standard Operating Procedures (sops)
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

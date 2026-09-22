@@ -1,7 +1,7 @@
 ---
 title: "Anemic Domain Model: Separation of Data and Behavior in Procedural Code"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ Anemic Domain Model: Separation of Data and Behavior in Procedural Code
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

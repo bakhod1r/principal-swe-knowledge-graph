@@ -1,7 +1,7 @@
 ---
 title: "Doubly Linked List O(1) Node Splice and Transfer"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Complexity Classes P, Np, NP Complete, and NP Hard
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Complexity Classes P, Np, NP Complete, and NP Hard
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

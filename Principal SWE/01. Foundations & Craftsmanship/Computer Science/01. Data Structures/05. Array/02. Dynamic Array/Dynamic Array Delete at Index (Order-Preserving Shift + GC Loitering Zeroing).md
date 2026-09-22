@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Delete at Index (Order-Preserving Shift + GC Loitering Zeroing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

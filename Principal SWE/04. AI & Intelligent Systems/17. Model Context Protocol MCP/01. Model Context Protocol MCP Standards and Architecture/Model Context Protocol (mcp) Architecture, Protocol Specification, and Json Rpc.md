@@ -1,7 +1,7 @@
 ---
 title: Model Context Protocol (mcp) Architecture, Protocol Specification, and Json Rpc
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling
@@ -34,4 +34,3 @@ Model Context Protocol (mcp) Architecture, Protocol Specification, and Json Rpc
 ## 🔗 References
 - ⬆️ Parent: `Claude Code, Subagents, Model Context Protocol MCP & Tooling`
 - 📚 Module: `AI & Machine Learning`
-

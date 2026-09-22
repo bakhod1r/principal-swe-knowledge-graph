@@ -1,7 +1,7 @@
 ---
 title: "Adapter Pattern with Interfaces"
 tags:
-  - review
+
   - golang
   - methods-and-interfaces
   - principal-swe

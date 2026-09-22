@@ -1,7 +1,7 @@
 ---
 title: Amazon VPC Architecture, Subnets, Route Tables, and Internet Gateways
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon VPC Architecture, Subnets, Route Tables, and Internet Gateways
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

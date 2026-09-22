@@ -1,7 +1,7 @@
 ---
 title: "Open Addressing and Flat Array Storage Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

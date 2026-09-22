@@ -1,7 +1,7 @@
 ---
 title: Distributed Timeout Budgets and gRPC Deadline Propagation
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Distributed Timeout Budgets and gRPC Deadline Propagation
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

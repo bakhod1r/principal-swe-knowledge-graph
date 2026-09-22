@@ -1,7 +1,7 @@
 ---
 title: "Splitting and Concatenating Circular Linked Lists"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

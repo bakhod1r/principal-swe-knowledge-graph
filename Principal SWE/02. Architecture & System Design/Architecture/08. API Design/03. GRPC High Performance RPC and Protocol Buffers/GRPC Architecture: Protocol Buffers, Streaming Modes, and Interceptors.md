@@ -1,7 +1,7 @@
 ---
 title: "GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ GRPC Architecture: Protocol Buffers, Streaming Modes, and Interceptors
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

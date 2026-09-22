@@ -1,7 +1,7 @@
 ---
 title: Vendor Lock In, Cloud Sprawl, and Leaky Cloud Abstractions
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ Vendor Lock In, Cloud Sprawl, and Leaky Cloud Abstractions
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

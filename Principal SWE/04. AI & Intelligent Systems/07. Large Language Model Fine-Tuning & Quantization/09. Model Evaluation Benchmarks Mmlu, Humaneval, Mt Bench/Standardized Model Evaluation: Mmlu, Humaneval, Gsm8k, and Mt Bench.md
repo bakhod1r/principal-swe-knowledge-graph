@@ -1,7 +1,7 @@
 ---
 title: "Standardized Model Evaluation: Mmlu, Humaneval, Gsm8k, and Mt Bench"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Standardized Model Evaluation: Mmlu, Humaneval, Gsm8k, and Mt Bench
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Type Constraints, Concepts, and Trait Bounds"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Linux Packet Filtering with Netfilter, Iptables, and Nftables
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Packet Filtering with Netfilter, Iptables, and Nftables
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

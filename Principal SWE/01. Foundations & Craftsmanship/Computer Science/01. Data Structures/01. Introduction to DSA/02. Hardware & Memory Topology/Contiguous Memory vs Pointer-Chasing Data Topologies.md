@@ -1,7 +1,7 @@
 ---
 title: "Contiguous Memory vs Pointer-Chasing Data Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

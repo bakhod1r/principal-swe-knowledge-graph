@@ -1,7 +1,7 @@
 ---
 title: "Product Analytics: Event Taxonomy, Funnel Conversion, and Retention"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Product Analytics: Event Taxonomy, Funnel Conversion, and Retention
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

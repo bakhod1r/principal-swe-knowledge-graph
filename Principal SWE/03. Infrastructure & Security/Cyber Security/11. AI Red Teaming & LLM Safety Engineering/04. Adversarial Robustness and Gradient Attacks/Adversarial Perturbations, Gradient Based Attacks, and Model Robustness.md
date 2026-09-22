@@ -1,7 +1,7 @@
 ---
 title: Adversarial Perturbations, Gradient Based Attacks, and Model Robustness
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering
@@ -34,4 +34,3 @@ Adversarial Perturbations, Gradient Based Attacks, and Model Robustness
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Safety Engineering]]
 - 📚 Module: `Cyber Security`
-

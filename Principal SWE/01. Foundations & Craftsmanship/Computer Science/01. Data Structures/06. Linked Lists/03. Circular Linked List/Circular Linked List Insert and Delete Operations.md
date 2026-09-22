@@ -1,7 +1,7 @@
 ---
 title: "Circular Linked List Insert and Delete Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

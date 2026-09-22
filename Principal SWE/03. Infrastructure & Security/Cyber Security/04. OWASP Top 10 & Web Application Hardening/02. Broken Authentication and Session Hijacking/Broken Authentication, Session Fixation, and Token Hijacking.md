@@ -1,7 +1,7 @@
 ---
 title: Broken Authentication, Session Fixation, and Token Hijacking
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Broken Authentication, Session Fixation, and Token Hijacking
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

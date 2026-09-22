@@ -1,7 +1,7 @@
 ---
 title: Soft Deletes vs Append Only Temporal Audit Tables
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - database-schema-design-and-migration-best-practices
@@ -34,4 +34,3 @@ Soft Deletes vs Append Only Temporal Audit Tables
 ## 🔗 References
 - ⬆️ Parent: `Database Schema Design & Migration Best Practices`
 - 📚 Module: `Best Practices`
-

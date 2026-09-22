@@ -1,7 +1,7 @@
 ---
 title: "Skip List Delete and Level Adjustment Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

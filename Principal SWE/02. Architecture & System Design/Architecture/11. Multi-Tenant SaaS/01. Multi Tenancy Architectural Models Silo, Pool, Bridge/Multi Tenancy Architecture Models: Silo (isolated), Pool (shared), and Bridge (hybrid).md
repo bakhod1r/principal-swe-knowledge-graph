@@ -1,7 +1,7 @@
 ---
 title: "Multi Tenancy Architecture Models: Silo (isolated), Pool (shared), and Bridge (hybrid)"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - multi-tenant-saas-and-data-isolation-architecture
@@ -34,4 +34,3 @@ Multi Tenancy Architecture Models: Silo (isolated), Pool (shared), and Bridge (h
 ## 🔗 References
 - ⬆️ Parent: `Multi Tenant SaaS & Data Isolation Architecture`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Two-Pointer Sliding Window on Contiguous Buffers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

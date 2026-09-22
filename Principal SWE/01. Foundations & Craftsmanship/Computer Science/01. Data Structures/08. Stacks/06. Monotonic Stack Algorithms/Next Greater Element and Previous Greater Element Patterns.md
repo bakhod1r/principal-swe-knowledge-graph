@@ -1,7 +1,7 @@
 ---
 title: "Next Greater Element and Previous Greater Element Patterns"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

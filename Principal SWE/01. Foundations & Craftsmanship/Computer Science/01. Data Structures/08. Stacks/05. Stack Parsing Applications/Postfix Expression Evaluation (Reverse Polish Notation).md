@@ -1,7 +1,7 @@
 ---
 title: "Postfix Expression Evaluation (Reverse Polish Notation)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

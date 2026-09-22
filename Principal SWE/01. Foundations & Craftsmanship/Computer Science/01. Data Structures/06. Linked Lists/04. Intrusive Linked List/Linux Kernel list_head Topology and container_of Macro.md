@@ -1,7 +1,7 @@
 ---
 title: "Linux Kernel list_head Topology and container_of Macro"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

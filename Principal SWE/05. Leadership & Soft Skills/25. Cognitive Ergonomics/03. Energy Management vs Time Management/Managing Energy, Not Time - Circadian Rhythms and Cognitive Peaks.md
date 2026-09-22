@@ -1,7 +1,7 @@
 ---
 title: "Managing Energy, Not Time: Circadian Rhythms and Cognitive Peaks"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Managing Energy, Not Time: Circadian Rhythms and Cognitive Peaks
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

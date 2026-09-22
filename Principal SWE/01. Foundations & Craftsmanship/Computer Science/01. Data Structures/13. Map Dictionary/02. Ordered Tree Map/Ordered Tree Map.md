@@ -1,7 +1,7 @@
 ---
 title: "Ordered Tree Map"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

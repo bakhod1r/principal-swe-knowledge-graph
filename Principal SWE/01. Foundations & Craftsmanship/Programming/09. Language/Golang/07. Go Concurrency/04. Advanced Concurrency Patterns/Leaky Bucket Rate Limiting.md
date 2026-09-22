@@ -1,7 +1,7 @@
 ---
 title: "Leaky Bucket Rate Limiting"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

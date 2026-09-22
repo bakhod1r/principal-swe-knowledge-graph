@@ -1,7 +1,7 @@
 ---
 title: "Cross-ABI Cgo Transition Mechanics (cgocall & cgocallback)"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

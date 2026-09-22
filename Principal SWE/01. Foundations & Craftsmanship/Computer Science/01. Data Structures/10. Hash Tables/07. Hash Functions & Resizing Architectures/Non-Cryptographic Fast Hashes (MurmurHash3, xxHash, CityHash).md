@@ -1,7 +1,7 @@
 ---
 title: "Non-Cryptographic Fast Hashes (MurmurHash3, xxHash, CityHash)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

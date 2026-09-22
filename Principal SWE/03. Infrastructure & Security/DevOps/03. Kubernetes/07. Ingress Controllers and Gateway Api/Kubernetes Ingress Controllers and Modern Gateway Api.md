@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Ingress Controllers and Modern Gateway Api
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Ingress Controllers and Modern Gateway Api
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

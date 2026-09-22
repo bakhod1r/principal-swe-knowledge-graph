@@ -1,7 +1,7 @@
 ---
 title: "Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

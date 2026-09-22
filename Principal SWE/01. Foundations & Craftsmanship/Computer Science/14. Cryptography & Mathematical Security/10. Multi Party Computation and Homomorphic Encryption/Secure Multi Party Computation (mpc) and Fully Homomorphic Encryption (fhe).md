@@ -1,7 +1,7 @@
 ---
 title: Secure Multi Party Computation (mpc) and Fully Homomorphic Encryption (fhe)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security
@@ -34,4 +34,3 @@ Secure Multi Party Computation (mpc) and Fully Homomorphic Encryption (fhe)
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

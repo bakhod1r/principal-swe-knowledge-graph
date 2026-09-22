@@ -1,7 +1,7 @@
 ---
 title: "In-Place Matrix Transposition (Square vs Rectangular)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

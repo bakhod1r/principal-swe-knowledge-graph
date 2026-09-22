@@ -1,7 +1,7 @@
 ---
 title: Pull Request (pr) Sizing, Trunk Based Development, and Velocity
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ Pull Request (pr) Sizing, Trunk Based Development, and Velocity
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

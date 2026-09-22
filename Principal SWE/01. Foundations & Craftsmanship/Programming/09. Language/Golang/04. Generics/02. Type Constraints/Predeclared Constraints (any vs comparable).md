@@ -1,7 +1,7 @@
 ---
 title: "Predeclared Constraints (any vs comparable)"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Deep Health Checking Probes (liveness, Readiness, Startup) and Synthetic Canaries
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - resilience,-fault-tolerance-and-chaos-engineering
@@ -34,4 +34,3 @@ Deep Health Checking Probes (liveness, Readiness, Startup) and Synthetic Canarie
 ## 🔗 References
 - ⬆️ Parent: [[Resilience, Fault Tolerance & Chaos Engineering]]
 - 📚 Module: `Architecture`
-

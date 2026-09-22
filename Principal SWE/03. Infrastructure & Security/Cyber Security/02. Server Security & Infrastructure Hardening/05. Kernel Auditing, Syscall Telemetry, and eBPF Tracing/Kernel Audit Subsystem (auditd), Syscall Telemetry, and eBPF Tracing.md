@@ -1,7 +1,7 @@
 ---
 title: Kernel Audit Subsystem (auditd), Syscall Telemetry, and eBPF Tracing
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - server-security-and-infrastructure-hardening
@@ -34,4 +34,3 @@ Kernel Audit Subsystem (auditd), Syscall Telemetry, and eBPF Tracing
 ## 🔗 References
 - ⬆️ Parent: [[Server Security & Infrastructure Hardening]]
 - 📚 Module: `Cyber Security`
-

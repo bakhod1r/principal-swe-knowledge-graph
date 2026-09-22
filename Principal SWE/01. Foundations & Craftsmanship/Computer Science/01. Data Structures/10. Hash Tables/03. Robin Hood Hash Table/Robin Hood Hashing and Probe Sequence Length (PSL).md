@@ -1,7 +1,7 @@
 ---
 title: "Robin Hood Hashing and Probe Sequence Length (PSL)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

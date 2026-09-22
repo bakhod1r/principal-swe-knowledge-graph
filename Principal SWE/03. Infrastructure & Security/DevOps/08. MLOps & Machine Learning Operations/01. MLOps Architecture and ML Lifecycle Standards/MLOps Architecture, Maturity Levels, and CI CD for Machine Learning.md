@@ -1,7 +1,7 @@
 ---
 title: MLOps Architecture, Maturity Levels, and CI CD for Machine Learning
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ MLOps Architecture, Maturity Levels, and CI CD for Machine Learning
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

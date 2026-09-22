@@ -1,7 +1,7 @@
 ---
 title: Hardware Atomics, Compare and Swap (cas), and Load Linked Store Conditional
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Hardware Atomics, Compare and Swap (cas), and Load Linked Store Conditional
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

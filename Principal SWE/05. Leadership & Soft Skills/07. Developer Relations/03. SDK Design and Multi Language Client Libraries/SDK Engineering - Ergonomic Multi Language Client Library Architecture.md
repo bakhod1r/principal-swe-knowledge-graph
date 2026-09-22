@@ -1,7 +1,7 @@
 ---
 title: "SDK Engineering: Ergonomic Multi Language Client Library Architecture"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ SDK Engineering: Ergonomic Multi Language Client Library Architecture
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: SQL Built in Functions and Transformations
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ SQL Built in Functions and Transformations
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

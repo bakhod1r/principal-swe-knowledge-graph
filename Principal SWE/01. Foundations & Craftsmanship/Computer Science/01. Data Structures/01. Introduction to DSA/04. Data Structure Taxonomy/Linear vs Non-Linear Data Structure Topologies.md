@@ -1,7 +1,7 @@
 ---
 title: "Linear vs Non-Linear Data Structure Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

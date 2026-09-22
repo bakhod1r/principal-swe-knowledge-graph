@@ -1,7 +1,7 @@
 ---
 title: "Data Race vs Race Condition Deep Dive"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

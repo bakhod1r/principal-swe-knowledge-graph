@@ -1,7 +1,7 @@
 ---
 title: "Recipient List and Routing Slip: Dynamic Multi Destination Messaging"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Recipient List and Routing Slip: Dynamic Multi Destination Messaging
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

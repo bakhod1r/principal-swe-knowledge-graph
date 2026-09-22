@@ -1,7 +1,7 @@
 ---
 title: "Skip List Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

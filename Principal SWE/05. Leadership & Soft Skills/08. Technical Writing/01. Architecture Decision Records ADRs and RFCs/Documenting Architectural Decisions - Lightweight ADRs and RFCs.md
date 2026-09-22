@@ -1,7 +1,7 @@
 ---
 title: "Documenting Architectural Decisions: Lightweight ADRs and RFCs"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Documenting Architectural Decisions: Lightweight ADRs and RFCs
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "How to Approach Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems
@@ -165,13 +165,13 @@ After:
 ### Advantages
 
 - Simple
-    
+
 - Low operational complexity
-    
+
 - No distributed coordination
-    
+
 - Often surprisingly effective
-    
+
 
 ### Limitations
 
@@ -289,15 +289,15 @@ Load balancing distributes traffic.
 Common strategies:
 
 - Round robin
-    
+
 - Least connections
-    
+
 - Weighted routing
-    
+
 - Consistent hashing
-    
+
 - Latency-aware routing
-    
+
 
 But load balancing doesn't create capacity.
 
@@ -353,19 +353,19 @@ That is a huge reduction.
 ### But caching introduces new problems
 
 - Stale data
-    
+
 - Cache invalidation
-    
+
 - Memory pressure
-    
+
 - Hot keys
-    
+
 - Cache stampede
-    
+
 - Cold-start load
-    
+
 - Inconsistent views
-    
+
 
 The famous difficulty isn't merely:
 
@@ -402,17 +402,17 @@ This is a cache stampede.
 Typical mitigations:
 
 - Request coalescing
-    
+
 - Single-flight
-    
+
 - Jittered TTL
-    
+
 - Background refresh
-    
+
 - Stale-while-revalidate
-    
+
 - Distributed locking where justified
-    
+
 
 In Go, `singleflight` is particularly useful for collapsing concurrent duplicate work within a process.
 
@@ -489,30 +489,30 @@ hash(user_id) % N
 ### Benefits
 
 - More storage capacity
-    
+
 - More write capacity
-    
+
 - Smaller indexes
-    
+
 - Parallelism
-    
+
 
 ### Costs
 
 Now you have distributed-data problems:
 
 - Cross-shard queries
-    
+
 - Cross-shard transactions
-    
+
 - Rebalancing
-    
+
 - Hot shards
-    
+
 - Operational complexity
-    
+
 - Backup/recovery complexity
-    
+
 
 Sharding should therefore usually be considered **after simpler database scaling techniques**.
 
@@ -537,15 +537,15 @@ Orders
 For time-series data, this can improve:
 
 - Query pruning
-    
+
 - Maintenance
-    
+
 - Retention
-    
+
 - Index size
-    
+
 - Data lifecycle management
-    
+
 
 Sharding usually means distributing data across independent database nodes.
 
@@ -608,21 +608,21 @@ background processing
 But now you must reason about:
 
 - Delivery semantics
-    
+
 - Retries
-    
+
 - Idempotency
-    
+
 - Ordering
-    
+
 - Dead-letter queues
-    
+
 - Backpressure
-    
+
 - Poison messages
-    
+
 - Consumer lag
-    
+
 
 ---
 
@@ -686,13 +686,13 @@ Application
 Common algorithms:
 
 - Token bucket
-    
+
 - Leaky bucket
-    
+
 - Fixed window
-    
+
 - Sliding window
-    
+
 
 Example:
 
@@ -720,26 +720,26 @@ For static or cacheable geographically distributed content:
 Benefits:
 
 - Lower latency
-    
+
 - Reduced origin traffic
-    
+
 - Reduced bandwidth cost
-    
+
 - Better global scalability
-    
+
 
 Especially useful for:
 
 - Images
-    
+
 - JS/CSS
-    
+
 - Videos
-    
+
 - Downloads
-    
+
 - Cacheable API responses
-    
+
 
 ---
 
@@ -938,15 +938,15 @@ The cluster has spare capacity, but one partition is overloaded.
 Solutions may include:
 
 - Key salting
-    
+
 - Replication
-    
+
 - Local caching
-    
+
 - Request coalescing
-    
+
 - Better partitioning strategy
-    
+
 
 ---
 
@@ -1143,17 +1143,17 @@ Because operating at:
 leaves no room for:
 
 - traffic spikes
-    
+
 - instance failures
-    
+
 - deployments
-    
+
 - GC pauses
-    
+
 - noisy neighbors
-    
+
 - dependency degradation
-    
+
 
 Capacity planning is fundamentally about **operating points**, not maximum theoretical throughput.
 
@@ -1328,21 +1328,21 @@ Independent resources
 This is why these concepts repeatedly appear:
 
 - Statelessness
-    
+
 - Partitioning
-    
+
 - Sharding
-    
+
 - Asynchronous processing
-    
+
 - Queueing
-    
+
 - Caching
-    
+
 - Replication
-    
+
 - Bounded concurrency
-    
+
 
 They reduce contention or isolate failure.
 
@@ -1450,4 +1450,3 @@ If you remember only one sentence:
 ## 🔗 References
 - ⬆️ Parent: [[How to Approach]]
 - 📚 Module: `Introduction`
-

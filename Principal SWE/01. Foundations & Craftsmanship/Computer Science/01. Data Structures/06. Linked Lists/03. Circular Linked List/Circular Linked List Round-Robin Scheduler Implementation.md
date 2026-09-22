@@ -1,7 +1,7 @@
 ---
 title: "Circular Linked List Round-Robin Scheduler Implementation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

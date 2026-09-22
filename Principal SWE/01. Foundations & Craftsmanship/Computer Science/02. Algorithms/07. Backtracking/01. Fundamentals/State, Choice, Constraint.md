@@ -1,7 +1,7 @@
 ---
 title: "State, Choice, Constraint"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

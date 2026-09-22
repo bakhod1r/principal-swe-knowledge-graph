@@ -1,7 +1,7 @@
 ---
 title: Number Theory Fundamentals, Modular Arithmetic, and Prime Fields
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Number Theory Fundamentals, Modular Arithmetic, and Prime Fields
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

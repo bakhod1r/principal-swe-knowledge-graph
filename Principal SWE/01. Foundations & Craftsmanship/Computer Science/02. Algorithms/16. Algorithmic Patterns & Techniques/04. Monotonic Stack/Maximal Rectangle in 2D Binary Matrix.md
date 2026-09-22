@@ -1,7 +1,7 @@
 ---
 title: "Maximal Rectangle in 2D Binary Matrix"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: Advanced SQL Window Functions and JSONB Operations
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ Advanced SQL Window Functions and JSONB Operations
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

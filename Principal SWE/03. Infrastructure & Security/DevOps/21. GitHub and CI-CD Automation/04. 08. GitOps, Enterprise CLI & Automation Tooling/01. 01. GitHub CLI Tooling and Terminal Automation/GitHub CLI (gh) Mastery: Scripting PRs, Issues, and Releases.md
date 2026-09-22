@@ -1,7 +1,7 @@
 ---
 title: "GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases"
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases
 ## 🔗 References
 - ⬆️ Parent: [[GitOps, Enterprise CLI & Automation Tooling]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

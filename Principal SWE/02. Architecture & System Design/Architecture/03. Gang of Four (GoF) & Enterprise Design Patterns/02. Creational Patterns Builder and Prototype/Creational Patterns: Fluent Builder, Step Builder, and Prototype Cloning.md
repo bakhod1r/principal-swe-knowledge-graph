@@ -1,7 +1,7 @@
 ---
 title: "Creational Patterns: Fluent Builder, Step Builder, and Prototype Cloning"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Creational Patterns: Fluent Builder, Step Builder, and Prototype Cloning
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

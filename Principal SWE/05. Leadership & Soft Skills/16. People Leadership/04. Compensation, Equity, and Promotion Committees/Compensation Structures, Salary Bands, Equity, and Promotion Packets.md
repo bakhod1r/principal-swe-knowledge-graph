@@ -1,7 +1,7 @@
 ---
 title: Compensation Structures, Salary Bands, Equity, and Promotion Packets
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Compensation Structures, Salary Bands, Equity, and Promotion Packets
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

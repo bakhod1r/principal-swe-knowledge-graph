@@ -1,7 +1,7 @@
 ---
 title: "Weak Pointers Architecture (weak.Pointer)"
 tags:
-  - review
+
   - golang
   - modern-go
   - principal-swe

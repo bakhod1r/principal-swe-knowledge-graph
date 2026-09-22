@@ -1,7 +1,7 @@
 ---
 title: LLM Tool Calling, Function Schemas, and Dynamic Parameter Extraction
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ LLM Tool Calling, Function Schemas, and Dynamic Parameter Extraction
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

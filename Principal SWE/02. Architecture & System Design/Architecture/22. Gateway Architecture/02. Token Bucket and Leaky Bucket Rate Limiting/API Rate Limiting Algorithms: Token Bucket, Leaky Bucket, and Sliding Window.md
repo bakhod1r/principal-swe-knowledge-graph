@@ -1,7 +1,7 @@
 ---
 title: "API Rate Limiting Algorithms: Token Bucket, Leaky Bucket, and Sliding Window"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ API Rate Limiting Algorithms: Token Bucket, Leaky Bucket, and Sliding Window
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

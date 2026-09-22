@@ -1,7 +1,7 @@
 ---
 title: "Loop Invariants, Preconditions, Postconditions, and Hoare Logic"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

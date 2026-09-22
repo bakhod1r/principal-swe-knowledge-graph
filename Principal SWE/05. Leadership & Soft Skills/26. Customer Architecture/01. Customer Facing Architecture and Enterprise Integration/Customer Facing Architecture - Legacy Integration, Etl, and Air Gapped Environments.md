@@ -1,7 +1,7 @@
 ---
 title: "Customer Facing Architecture: Legacy Integration, Etl, and Air Gapped Environments"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Customer Facing Architecture: Legacy Integration, Etl, and Air Gapped Environmen
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

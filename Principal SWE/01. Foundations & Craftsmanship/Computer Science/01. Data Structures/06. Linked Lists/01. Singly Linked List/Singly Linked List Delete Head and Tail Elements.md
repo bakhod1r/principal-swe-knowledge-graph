@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Delete Head and Tail Elements"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Decorator Pattern"
 tags:
-  - review
+
   - golang
   - design-patterns
   - principal-swe

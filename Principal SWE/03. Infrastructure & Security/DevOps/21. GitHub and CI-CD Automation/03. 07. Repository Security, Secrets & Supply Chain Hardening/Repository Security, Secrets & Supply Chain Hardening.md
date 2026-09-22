@@ -1,7 +1,7 @@
 ---
 title: Repository Security, Secrets & Supply Chain Hardening
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -39,4 +39,3 @@ Repository Security, Secrets & Supply Chain Hardening
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

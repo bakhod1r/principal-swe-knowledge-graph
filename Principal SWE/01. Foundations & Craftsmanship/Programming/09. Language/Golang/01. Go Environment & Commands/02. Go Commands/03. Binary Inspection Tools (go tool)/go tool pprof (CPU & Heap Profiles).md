@@ -1,7 +1,7 @@
 ---
 title: "go tool pprof (CPU & Heap Profiles)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

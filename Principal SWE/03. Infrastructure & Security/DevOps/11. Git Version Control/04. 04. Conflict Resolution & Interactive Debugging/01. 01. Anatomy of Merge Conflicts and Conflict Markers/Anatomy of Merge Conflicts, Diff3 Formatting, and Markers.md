@@ -1,7 +1,7 @@
 ---
 title: Anatomy of Merge Conflicts, Diff3 Formatting, and Markers
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Anatomy of Merge Conflicts, Diff3 Formatting, and Markers
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution & Interactive Debugging]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

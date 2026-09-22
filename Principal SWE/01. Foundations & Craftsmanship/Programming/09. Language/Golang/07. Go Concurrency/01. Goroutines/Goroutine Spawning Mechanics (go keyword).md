@@ -1,7 +1,7 @@
 ---
 title: "Goroutine Spawning Mechanics (go keyword)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -193,17 +193,17 @@ Conceptually:
 Represents a goroutine:
 
 - stack
-    
+
 - instruction state
-    
+
 - scheduling state
-    
+
 - metadata
-    
+
 - panic/defer state
-    
+
 - references to execution context
-    
+
 
 ### M
 
@@ -247,11 +247,11 @@ Execute Go code
 This allows the runtime to separate:
 
 - OS threads
-    
+
 - scheduler resources
-    
+
 - goroutines
-    
+
 
 and efficiently multiplex many goroutines over fewer OS threads.
 
@@ -349,15 +349,15 @@ The goroutine continues to exist and execute after the `go` statement returns.
 But your program must still manage:
 
 - its lifetime
-    
+
 - cancellation
-    
+
 - errors
-    
+
 - synchronization
-    
+
 - resource ownership
-    
+
 
 For example:
 
@@ -524,21 +524,21 @@ Each goroutine consumes runtime resources.
 Costs can include:
 
 - initial stack memory
-    
+
 - `G` metadata
-    
+
 - scheduling overhead
-    
+
 - stack growth
-    
+
 - synchronization
-    
+
 - GC scanning overhead
-    
+
 - blocked goroutines retaining references
-    
+
 - external resources owned by the goroutine
-    
+
 
 Therefore:
 
@@ -573,9 +573,9 @@ Runnable goroutines need to be scheduled.
 The runtime maintains runnable queues, including:
 
 - per-P local run queues
-    
+
 - a global run queue
-    
+
 
 Conceptually:
 
@@ -677,17 +677,17 @@ A goroutine can conceptually transition through states such as:
 Examples of waiting:
 
 - channel receive
-    
+
 - channel send
-    
+
 - mutex
-    
+
 - network I/O
-    
+
 - timer
-    
+
 - synchronization primitive
-    
+
 
 The runtime tracks these states and schedules other runnable goroutines when one cannot proceed.
 
@@ -1052,11 +1052,11 @@ This is the idea behind **structured concurrency**.
 In Go, you can implement this using combinations of:
 
 - `context.Context`
-    
+
 - `sync.WaitGroup`
-    
+
 - `errgroup`
-    
+
 
 The goal is to make goroutine ownership and lifecycle explicit.
 
@@ -1099,13 +1099,13 @@ The important architecture is:
 Now the goroutines have:
 
 - an owner
-    
+
 - cancellation
-    
+
 - error propagation
-    
+
 - a synchronization point
-    
+
 
 This is generally safer than uncontrolled `go` statements.
 

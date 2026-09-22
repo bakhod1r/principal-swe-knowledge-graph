@@ -1,7 +1,7 @@
 ---
 title: GPU Memory Hierarchy, Shared Memory, and Global Memory Coalescing
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing
@@ -34,4 +34,3 @@ GPU Memory Hierarchy, Shared Memory, and Global Memory Coalescing
 ## 🔗 References
 - ⬆️ Parent: [[GPU Architecture & High Performance Parallel Computing]]
 - 📚 Module: `Computer Science`
-

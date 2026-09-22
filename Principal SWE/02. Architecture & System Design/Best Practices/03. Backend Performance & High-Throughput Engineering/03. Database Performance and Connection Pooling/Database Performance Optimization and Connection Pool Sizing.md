@@ -1,7 +1,7 @@
 ---
 title: Database Performance Optimization and Connection Pool Sizing
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - backend-performance-and-high-throughput-engineering
@@ -34,4 +34,3 @@ Database Performance Optimization and Connection Pool Sizing
 ## 🔗 References
 - ⬆️ Parent: [[Backend Performance & High Throughput Engineering]]
 - 📚 Module: `Best Practices`
-

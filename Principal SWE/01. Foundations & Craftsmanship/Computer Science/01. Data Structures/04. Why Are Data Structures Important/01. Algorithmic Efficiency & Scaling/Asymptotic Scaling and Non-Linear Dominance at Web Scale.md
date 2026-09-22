@@ -1,7 +1,7 @@
 ---
 title: "Asymptotic Scaling and Non-Linear Dominance at Web Scale"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

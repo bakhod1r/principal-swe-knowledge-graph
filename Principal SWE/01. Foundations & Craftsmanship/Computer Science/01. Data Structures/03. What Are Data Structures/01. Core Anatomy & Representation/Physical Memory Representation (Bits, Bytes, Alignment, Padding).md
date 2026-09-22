@@ -1,7 +1,7 @@
 ---
 title: "Physical Memory Representation (Bits, Bytes, Alignment, Padding)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

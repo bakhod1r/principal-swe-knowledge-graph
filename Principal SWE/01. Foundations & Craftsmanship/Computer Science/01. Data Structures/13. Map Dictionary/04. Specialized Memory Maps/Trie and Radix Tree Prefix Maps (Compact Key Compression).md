@@ -1,7 +1,7 @@
 ---
 title: "Trie and Radix Tree Prefix Maps (Compact Key Compression)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

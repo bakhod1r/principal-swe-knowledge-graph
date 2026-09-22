@@ -1,7 +1,7 @@
 ---
 title: "M Struct (Machine OS Thread Internals)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

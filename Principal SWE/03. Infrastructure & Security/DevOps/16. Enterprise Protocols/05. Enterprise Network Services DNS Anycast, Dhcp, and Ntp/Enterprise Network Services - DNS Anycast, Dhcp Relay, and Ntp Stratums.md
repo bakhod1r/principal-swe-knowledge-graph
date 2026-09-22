@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Network Services: DNS Anycast, Dhcp Relay, and Ntp Stratums"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Enterprise Network Services: DNS Anycast, Dhcp Relay, and Ntp Stratums
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

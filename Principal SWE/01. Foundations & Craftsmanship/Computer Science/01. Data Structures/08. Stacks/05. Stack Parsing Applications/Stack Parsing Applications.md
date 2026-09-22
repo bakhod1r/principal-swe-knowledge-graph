@@ -1,7 +1,7 @@
 ---
 title: "Stack Parsing Applications"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

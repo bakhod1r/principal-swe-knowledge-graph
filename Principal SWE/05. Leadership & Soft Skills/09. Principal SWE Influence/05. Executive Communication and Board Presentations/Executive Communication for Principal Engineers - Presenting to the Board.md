@@ -1,7 +1,7 @@
 ---
 title: "Executive Communication for Principal Engineers: Presenting to the Board"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Executive Communication for Principal Engineers: Presenting to the Board
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Containerization Foundations and Docker Container Lifecycles
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Containerization Foundations and Docker Container Lifecycles
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

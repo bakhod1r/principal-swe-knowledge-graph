@@ -1,7 +1,7 @@
 ---
 title: "Consistent Hashing Virtual Nodes and Replication Strategies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

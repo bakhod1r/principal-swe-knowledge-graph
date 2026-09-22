@@ -1,7 +1,7 @@
 ---
 title: "First-Class Functions, Closures, and Lexical Environments"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

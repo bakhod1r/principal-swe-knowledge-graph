@@ -1,7 +1,7 @@
 ---
 title: Writing High Impact Product Requirements Documents (prds)
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Writing High Impact Product Requirements Documents (prds)
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

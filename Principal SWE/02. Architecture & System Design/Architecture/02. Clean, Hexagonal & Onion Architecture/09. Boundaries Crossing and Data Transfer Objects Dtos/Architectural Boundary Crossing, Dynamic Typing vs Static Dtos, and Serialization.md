@@ -1,7 +1,7 @@
 ---
 title: Architectural Boundary Crossing, Dynamic Typing vs Static Dtos, and Serialization
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Architectural Boundary Crossing, Dynamic Typing vs Static Dtos, and Serializatio
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

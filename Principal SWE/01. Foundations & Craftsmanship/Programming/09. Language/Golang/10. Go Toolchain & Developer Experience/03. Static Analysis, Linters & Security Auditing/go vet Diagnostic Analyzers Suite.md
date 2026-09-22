@@ -1,7 +1,7 @@
 ---
 title: "go vet Diagnostic Analyzers Suite"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

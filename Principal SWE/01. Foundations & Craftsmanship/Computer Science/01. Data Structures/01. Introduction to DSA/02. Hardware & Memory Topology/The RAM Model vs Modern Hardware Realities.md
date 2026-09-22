@@ -1,7 +1,7 @@
 ---
 title: "The RAM Model vs Modern Hardware Realities"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Memory Allocation (malloc, brk, mmap) and Free Lists"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Prompt Security, Adversarial Jailbreak Defenses, and System Prompt Protection
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ Prompt Security, Adversarial Jailbreak Defenses, and System Prompt Protection
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

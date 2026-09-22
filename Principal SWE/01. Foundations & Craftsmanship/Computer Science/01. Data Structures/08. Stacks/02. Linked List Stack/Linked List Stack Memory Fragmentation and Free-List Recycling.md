@@ -1,7 +1,7 @@
 ---
 title: "Linked List Stack Memory Fragmentation and Free-List Recycling"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

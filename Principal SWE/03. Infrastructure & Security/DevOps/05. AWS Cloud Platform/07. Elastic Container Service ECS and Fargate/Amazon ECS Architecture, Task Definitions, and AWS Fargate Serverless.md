@@ -1,7 +1,7 @@
 ---
 title: Amazon ECS Architecture, Task Definitions, and AWS Fargate Serverless
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon ECS Architecture, Task Definitions, and AWS Fargate Serverless
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

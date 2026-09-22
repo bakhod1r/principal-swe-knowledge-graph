@@ -1,7 +1,7 @@
 ---
 title: Social Engineering, Spear Phishing, and MFA Fatigue Attacks
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing
@@ -34,4 +34,3 @@ Social Engineering, Spear Phishing, and MFA Fatigue Attacks
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types, Red Teaming & Penetration Testing]]
 - 📚 Module: `Cyber Security`
-

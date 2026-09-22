@@ -1,7 +1,7 @@
 ---
 title: "Zero-Allocation Push-Pull Iterator Runtime Bridges"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Hazard Pointers Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: Human in the Loop (hitl) Workflows, Interrupts, and Approval Gates
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Human in the Loop (hitl) Workflows, Interrupts, and Approval Gates
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Memoized Backtracking"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

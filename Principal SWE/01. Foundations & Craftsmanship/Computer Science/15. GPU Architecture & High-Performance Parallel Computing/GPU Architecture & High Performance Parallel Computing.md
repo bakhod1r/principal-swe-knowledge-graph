@@ -1,7 +1,7 @@
 ---
 title: "GPU Architecture & High Performance Parallel Computing"
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - principal-swe

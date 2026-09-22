@@ -1,7 +1,7 @@
 ---
 title: "Call Stack Frame Unwinding and Exception Handling Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

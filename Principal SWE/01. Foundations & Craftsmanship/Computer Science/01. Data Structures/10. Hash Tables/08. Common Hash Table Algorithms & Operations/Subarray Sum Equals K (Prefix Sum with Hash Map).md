@@ -1,7 +1,7 @@
 ---
 title: "Subarray Sum Equals K (Prefix Sum with Hash Map)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

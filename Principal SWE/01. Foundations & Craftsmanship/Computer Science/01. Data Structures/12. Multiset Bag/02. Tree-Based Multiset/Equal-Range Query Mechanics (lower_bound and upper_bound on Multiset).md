@@ -1,7 +1,7 @@
 ---
 title: "Equal-Range Query Mechanics (lower_bound and upper_bound on Multiset)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

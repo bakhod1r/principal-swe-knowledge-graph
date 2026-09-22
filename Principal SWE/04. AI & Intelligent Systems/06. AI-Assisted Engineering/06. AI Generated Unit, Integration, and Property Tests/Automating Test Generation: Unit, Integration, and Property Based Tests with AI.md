@@ -1,7 +1,7 @@
 ---
 title: "Automating Test Generation: Unit, Integration, and Property Based Tests with AI"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Automating Test Generation: Unit, Integration, and Property Based Tests with AI
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

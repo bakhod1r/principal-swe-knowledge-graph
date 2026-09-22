@@ -1,7 +1,7 @@
 ---
 title: Attack Trees Modeling and Mitre Att&ck Framework Mapping
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees
@@ -34,4 +34,3 @@ Attack Trees Modeling and Mitre Att&ck Framework Mapping
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling, Risk Assessment & Attack Trees]]
 - 📚 Module: `Cyber Security`
-

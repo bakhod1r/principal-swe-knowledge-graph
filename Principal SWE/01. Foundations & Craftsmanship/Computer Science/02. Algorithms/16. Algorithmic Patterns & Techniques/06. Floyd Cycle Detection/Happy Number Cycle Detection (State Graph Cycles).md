@@ -1,7 +1,7 @@
 ---
 title: "Happy Number Cycle Detection (State Graph Cycles)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

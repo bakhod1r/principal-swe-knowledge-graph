@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Overwrite and Head-Tail Pointer Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

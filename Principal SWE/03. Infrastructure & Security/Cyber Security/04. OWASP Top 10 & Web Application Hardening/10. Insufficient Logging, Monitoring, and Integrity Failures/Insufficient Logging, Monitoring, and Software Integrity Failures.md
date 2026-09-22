@@ -1,7 +1,7 @@
 ---
 title: Insufficient Logging, Monitoring, and Software Integrity Failures
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Insufficient Logging, Monitoring, and Software Integrity Failures
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

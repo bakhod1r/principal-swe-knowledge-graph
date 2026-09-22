@@ -1,7 +1,7 @@
 ---
 title: Systemd Architecture, Unit Files, Targets, and Journald Logs
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Systemd Architecture, Unit Files, Targets, and Journald Logs
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: Executing SFT Fine Tuning Pipelines with Axolotl, Unsloth, and Trl
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Executing SFT Fine Tuning Pipelines with Axolotl, Unsloth, and Trl
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

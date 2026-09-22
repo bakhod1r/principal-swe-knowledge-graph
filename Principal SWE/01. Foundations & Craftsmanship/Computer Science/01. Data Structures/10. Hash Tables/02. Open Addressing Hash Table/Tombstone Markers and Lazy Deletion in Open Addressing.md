@@ -1,7 +1,7 @@
 ---
 title: "Tombstone Markers and Lazy Deletion in Open Addressing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Interactive Rebasing (git rebase -i) and History Crafting
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Interactive Rebasing (git rebase -i) and History Crafting
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

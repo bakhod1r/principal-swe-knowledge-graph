@@ -1,7 +1,7 @@
 ---
 title: GraphQL Queries, Field Aliases, Inline Fragments, and Directives
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Queries, Field Aliases, Inline Fragments, and Directives
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

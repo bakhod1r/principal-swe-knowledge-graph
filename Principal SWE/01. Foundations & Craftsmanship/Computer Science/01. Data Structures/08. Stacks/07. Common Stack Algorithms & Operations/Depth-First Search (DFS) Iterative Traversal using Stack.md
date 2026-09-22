@@ -1,7 +1,7 @@
 ---
 title: "Depth-First Search (DFS) Iterative Traversal using Stack"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

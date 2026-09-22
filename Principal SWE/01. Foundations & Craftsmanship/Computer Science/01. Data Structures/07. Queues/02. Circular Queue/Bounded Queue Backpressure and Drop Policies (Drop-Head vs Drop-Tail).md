@@ -1,7 +1,7 @@
 ---
 title: "Bounded Queue Backpressure and Drop Policies (Drop-Head vs Drop-Tail)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

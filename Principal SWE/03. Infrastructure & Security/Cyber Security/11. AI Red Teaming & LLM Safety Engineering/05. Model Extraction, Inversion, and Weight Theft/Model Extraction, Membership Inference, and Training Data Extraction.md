@@ -1,7 +1,7 @@
 ---
 title: Model Extraction, Membership Inference, and Training Data Extraction
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering
@@ -34,4 +34,3 @@ Model Extraction, Membership Inference, and Training Data Extraction
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Safety Engineering]]
 - 📚 Module: `Cyber Security`
-

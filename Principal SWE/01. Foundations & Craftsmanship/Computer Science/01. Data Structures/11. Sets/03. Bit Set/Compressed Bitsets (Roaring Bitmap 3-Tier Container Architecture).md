@@ -1,7 +1,7 @@
 ---
 title: "Compressed Bitsets (Roaring Bitmap 3-Tier Container Architecture)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Smart Contract Security Auditing: Reentrancy, Front Running, and Flash Loans"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures
@@ -34,4 +34,3 @@ Smart Contract Security Auditing: Reentrancy, Front Running, and Flash Loans
 ## 🔗 References
 - ⬆️ Parent: [[Decentralized, Web3 & Blockchain Architectures]]
 - 📚 Module: `Architecture`
-

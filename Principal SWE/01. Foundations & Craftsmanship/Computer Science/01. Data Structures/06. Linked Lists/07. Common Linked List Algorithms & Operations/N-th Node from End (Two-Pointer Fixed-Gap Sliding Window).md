@@ -1,7 +1,7 @@
 ---
 title: "N-th Node from End (Two-Pointer Fixed-Gap Sliding Window)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Grpc Security Architecture, Metadata Interceptors, and TLS Encryption
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - api-and-microservice-security-architecture
@@ -34,4 +34,3 @@ Grpc Security Architecture, Metadata Interceptors, and TLS Encryption
 ## 🔗 References
 - ⬆️ Parent: [[Api & Microservice Security Architecture]]
 - 📚 Module: `Cyber Security`
-

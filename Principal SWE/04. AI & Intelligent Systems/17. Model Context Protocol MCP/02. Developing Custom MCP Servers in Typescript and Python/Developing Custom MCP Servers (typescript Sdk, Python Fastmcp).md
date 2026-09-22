@@ -1,7 +1,7 @@
 ---
 title: Developing Custom MCP Servers (typescript Sdk, Python Fastmcp)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - claude-code,-subagents,-model-context-protocol-mcp-and-tooling
@@ -34,4 +34,3 @@ Developing Custom MCP Servers (typescript Sdk, Python Fastmcp)
 ## 🔗 References
 - ⬆️ Parent: `Claude Code, Subagents, Model Context Protocol MCP & Tooling`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: Vector Database Internals, Hnsw Graphs, and Ivf Pq Indexing
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Vector Database Internals, Hnsw Graphs, and Ivf Pq Indexing
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

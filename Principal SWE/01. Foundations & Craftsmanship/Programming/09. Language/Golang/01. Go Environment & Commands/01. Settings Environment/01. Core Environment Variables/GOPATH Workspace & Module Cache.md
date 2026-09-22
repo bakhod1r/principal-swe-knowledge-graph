@@ -1,7 +1,7 @@
 ---
 title: "GOPATH Workspace & Module Cache"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -665,17 +665,17 @@ GOMODCACHE
 This is especially important for organizations because you need to consider:
 
 - credentials
-    
+
 - private proxies
-    
+
 - checksum verification
-    
+
 - network access
-    
+
 - dependency confidentiality
-    
+
 - supply-chain security
-    
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "In-Place Cyclic Sort for Mex (A[i] == i Mapping)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

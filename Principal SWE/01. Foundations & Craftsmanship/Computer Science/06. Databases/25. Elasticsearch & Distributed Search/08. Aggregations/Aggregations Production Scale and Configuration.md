@@ -1,7 +1,7 @@
 ---
 title: "Aggregations Production Scale and Configuration"
 tags:
-  - review
+
   - backend
   - architecture
   - elasticsearch-and-distributed-search

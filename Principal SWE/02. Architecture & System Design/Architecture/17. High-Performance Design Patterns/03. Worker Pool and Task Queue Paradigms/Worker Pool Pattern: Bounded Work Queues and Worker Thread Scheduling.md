@@ -1,7 +1,7 @@
 ---
 title: "Worker Pool Pattern: Bounded Work Queues and Worker Thread Scheduling"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Worker Pool Pattern: Bounded Work Queues and Worker Thread Scheduling
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

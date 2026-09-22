@@ -1,7 +1,7 @@
 ---
 title: Kubernetes Networking Model, Pod to Pod Communication, and Cni Plugins
 tags:
-  - review
+
   - devops
   - platform-engineering
   - kubernetes-and-cloud-native-orchestration
@@ -34,4 +34,3 @@ Kubernetes Networking Model, Pod to Pod Communication, and Cni Plugins
 ## 🔗 References
 - ⬆️ Parent: `Kubernetes & Cloud Native Orchestration`
 - 📚 Module: `DevOps`
-

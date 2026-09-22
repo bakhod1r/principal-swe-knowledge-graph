@@ -1,7 +1,7 @@
 ---
 title: "Bi-Directional Range Queries on Balanced Tree Maps"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

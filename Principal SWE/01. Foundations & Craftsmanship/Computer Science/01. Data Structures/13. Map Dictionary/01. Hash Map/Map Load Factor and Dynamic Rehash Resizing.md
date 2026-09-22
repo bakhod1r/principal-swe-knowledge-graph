@@ -1,7 +1,7 @@
 ---
 title: "Map Load Factor and Dynamic Rehash Resizing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Mfu Cache Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

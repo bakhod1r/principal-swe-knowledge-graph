@@ -1,7 +1,7 @@
 ---
 title: "Unrolled Node Capacity and Cache Line Alignment (64-Byte Matching)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

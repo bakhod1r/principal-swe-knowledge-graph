@@ -1,7 +1,7 @@
 ---
 title: "Backward-Shift Deletion in Robin Hood Hashing (Eliminating Tombstones)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

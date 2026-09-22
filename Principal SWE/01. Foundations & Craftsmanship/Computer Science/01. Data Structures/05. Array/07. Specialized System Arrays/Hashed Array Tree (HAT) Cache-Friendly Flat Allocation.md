@@ -1,7 +1,7 @@
 ---
 title: "Hashed Array Tree (HAT) Cache-Friendly Flat Allocation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

@@ -1,7 +1,7 @@
 ---
 title: "Multi-Producer Multi-Consumer (MPMC) Queue (Atomic CAS)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

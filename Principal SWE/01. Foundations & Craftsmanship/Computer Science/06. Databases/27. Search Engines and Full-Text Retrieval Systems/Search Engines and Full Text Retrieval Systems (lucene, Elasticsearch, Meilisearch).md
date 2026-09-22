@@ -1,7 +1,7 @@
 ---
 title: Search Engines and Full Text Retrieval Systems (lucene, Elasticsearch, Meilisearch)
 tags:
-  - review
+
   - computer-science
   - databases
   - search-engines
@@ -34,4 +34,3 @@ Search Engines and Full Text Retrieval Systems (lucene, Elasticsearch, Meilisear
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: "Client Handover Architecture: Documentation, Ci Cd Handover, and Client Training"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Client Handover Architecture: Documentation, Ci Cd Handover, and Client Training
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

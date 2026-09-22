@@ -1,7 +1,7 @@
 ---
 title: Developer Sentiment Tracking, Quarterly Devex Surveys, and Feedback Loops
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Developer Sentiment Tracking, Quarterly Devex Surveys, and Feedback Loops
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

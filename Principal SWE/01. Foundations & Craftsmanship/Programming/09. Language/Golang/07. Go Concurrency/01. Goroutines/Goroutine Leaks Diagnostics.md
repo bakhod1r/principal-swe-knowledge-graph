@@ -1,7 +1,7 @@
 ---
 title: "Goroutine Leaks Diagnostics"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -32,19 +32,19 @@ But "cheap" does not mean "free" or "automatically managed."
 A goroutine that never terminates can retain:
 
 - its stack
-    
+
 - references to heap objects
-    
+
 - channels
-    
+
 - timers/tickers
-    
+
 - mutex-related state
-    
+
 - network/file resources indirectly
-    
+
 - application state captured by closures
-    
+
 
 Over time, enough leaked goroutines can cause:
 
@@ -566,11 +566,11 @@ Investigate:
 Possible causes:
 
 - sender disappeared
-    
+
 - channel never closed
-    
+
 - cancellation missing
-    
+
 
 ---
 
@@ -585,11 +585,11 @@ ch <- value
 Possible causes:
 
 - receiver disappeared
-    
+
 - channel buffer full
-    
+
 - consumer stopped
-    
+
 
 ---
 
@@ -604,11 +604,11 @@ mu.Lock()
 Possible causes:
 
 - deadlock
-    
+
 - lock held indefinitely
-    
+
 - slow critical section
-    
+
 
 This isn't necessarily a goroutine leak, but it can produce similar symptoms.
 
@@ -619,15 +619,15 @@ This isn't necessarily a goroutine leak, but it can produce similar symptoms.
 Investigate:
 
 - network connection
-    
+
 - filesystem
-    
+
 - syscall
-    
+
 - missing timeout
-    
+
 - stuck external dependency
-    
+
 
 ---
 
@@ -1193,25 +1193,25 @@ When investigating goroutine leaks:
 The most important concepts are:
 
 1. **A goroutine is a resource with a lifecycle.**
-    
+
 2. **Every goroutine needs an owner.**
-    
+
 3. **Every goroutine should have a termination condition.**
-    
+
 4. **`context.Context` is a primary cancellation mechanism.**
-    
+
 5. **Channel ownership must be explicit.**
-    
+
 6. **`pprof` stack traces are more useful than raw goroutine counts.**
-    
+
 7. **Test termination behavior, not merely goroutine numbers.**
-    
+
 8. **Don't confuse high goroutine count with a leak.**
-    
+
 9. **Buffering can mask blocking but doesn't necessarily fix lifecycle problems.**
-    
+
 10. **Structured concurrency is the deeper architectural solution.**
-    
+
 
 The key mental model to retain is:
 

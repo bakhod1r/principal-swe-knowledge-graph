@@ -1,7 +1,7 @@
 ---
 title: "Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Context"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Github Copilot Integration: Inline Suggestions, Copilot Chat, and Workspace Cont
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: Functions (Clean Code)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -32,4 +32,3 @@ Functions (Clean Code)
 
 ## 🔗 References
 - ⬆️ Parent: [[Clean Code]]
-

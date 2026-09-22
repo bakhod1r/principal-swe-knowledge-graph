@@ -1,7 +1,7 @@
 ---
 title: Testing Adequacy, Code Coverage, and Verification Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ Testing Adequacy, Code Coverage, and Verification Standards
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

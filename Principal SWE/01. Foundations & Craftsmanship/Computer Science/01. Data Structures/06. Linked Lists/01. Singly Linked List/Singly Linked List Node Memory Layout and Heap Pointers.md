@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Node Memory Layout and Heap Pointers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

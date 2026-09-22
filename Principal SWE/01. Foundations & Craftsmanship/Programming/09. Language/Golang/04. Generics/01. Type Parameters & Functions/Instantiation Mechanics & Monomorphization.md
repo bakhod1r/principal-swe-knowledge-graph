@@ -1,7 +1,7 @@
 ---
 title: "Instantiation Mechanics & Monomorphization"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

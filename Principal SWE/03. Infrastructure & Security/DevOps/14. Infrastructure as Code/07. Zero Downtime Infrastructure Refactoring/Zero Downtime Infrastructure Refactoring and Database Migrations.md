@@ -1,7 +1,7 @@
 ---
 title: Zero Downtime Infrastructure Refactoring and Database Migrations
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Zero Downtime Infrastructure Refactoring and Database Migrations
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

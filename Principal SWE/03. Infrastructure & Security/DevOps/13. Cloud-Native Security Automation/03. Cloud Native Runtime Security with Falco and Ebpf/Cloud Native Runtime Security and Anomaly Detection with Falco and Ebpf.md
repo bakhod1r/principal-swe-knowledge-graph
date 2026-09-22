@@ -1,7 +1,7 @@
 ---
 title: Cloud Native Runtime Security and Anomaly Detection with Falco and Ebpf
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Cloud Native Runtime Security and Anomaly Detection with Falco and Ebpf
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

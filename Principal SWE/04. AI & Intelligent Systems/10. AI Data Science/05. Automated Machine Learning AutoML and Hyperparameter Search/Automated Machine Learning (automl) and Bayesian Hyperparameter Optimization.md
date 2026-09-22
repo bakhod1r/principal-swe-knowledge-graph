@@ -1,7 +1,7 @@
 ---
 title: Automated Machine Learning (automl) and Bayesian Hyperparameter Optimization
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-data-science,-statistical-modeling-and-econometrics
@@ -34,4 +34,3 @@ Automated Machine Learning (automl) and Bayesian Hyperparameter Optimization
 ## 🔗 References
 - ⬆️ Parent: `AI Data Science, Statistical Modeling & Econometrics`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: API Transport Security and TLS Hardening
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices
@@ -34,4 +34,3 @@ API Transport Security and TLS Hardening
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: `Best Practices`
-

@@ -1,7 +1,7 @@
 ---
 title: Blameless Culture, Five Whys, and Systemic Root Cause Analysis
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Blameless Culture, Five Whys, and Systemic Root Cause Analysis
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

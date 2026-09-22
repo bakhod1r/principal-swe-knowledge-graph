@@ -1,7 +1,7 @@
 ---
 title: Server Side Request Forgery (ssrf) and Cloud Metadata Protection
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Server Side Request Forgery (ssrf) and Cloud Metadata Protection
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

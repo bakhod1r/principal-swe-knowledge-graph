@@ -1,7 +1,7 @@
 ---
 title: Amdahl's Law and Gunther's Universal Scalability Law (usl)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Amdahl's Law and Gunther's Universal Scalability Law (usl)
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

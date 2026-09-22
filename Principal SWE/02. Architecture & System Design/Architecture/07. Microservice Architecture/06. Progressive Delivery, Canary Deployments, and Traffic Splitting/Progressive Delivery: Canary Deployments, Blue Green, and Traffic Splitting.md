@@ -1,7 +1,7 @@
 ---
 title: "Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Progressive Delivery: Canary Deployments, Blue Green, and Traffic Splitting
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

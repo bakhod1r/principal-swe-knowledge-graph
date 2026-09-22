@@ -1,7 +1,7 @@
 ---
 title: "Variable-Size Dynamic Sliding Window (Expand-Contract)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

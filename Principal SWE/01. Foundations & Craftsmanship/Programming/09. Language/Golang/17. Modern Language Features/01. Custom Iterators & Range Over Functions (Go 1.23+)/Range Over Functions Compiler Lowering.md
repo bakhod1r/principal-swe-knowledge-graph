@@ -1,7 +1,7 @@
 ---
 title: "Range Over Functions Compiler Lowering"
 tags:
-  - review
+
   - golang
   - modern-go
   - principal-swe

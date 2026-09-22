@@ -1,7 +1,7 @@
 ---
 title: "Priority Queue Peek (O(1) Root Extrema Inspection)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

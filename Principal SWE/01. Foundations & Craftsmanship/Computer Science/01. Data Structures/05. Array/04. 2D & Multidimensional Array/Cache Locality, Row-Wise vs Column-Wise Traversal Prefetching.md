@@ -1,7 +1,7 @@
 ---
 title: "Cache Locality, Row-Wise vs Column-Wise Traversal Prefetching"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

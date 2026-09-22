@@ -1,7 +1,7 @@
 ---
 title: Software Defined Networking (sdn) and Sd WAN Architecture
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Software Defined Networking (sdn) and Sd WAN Architecture
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

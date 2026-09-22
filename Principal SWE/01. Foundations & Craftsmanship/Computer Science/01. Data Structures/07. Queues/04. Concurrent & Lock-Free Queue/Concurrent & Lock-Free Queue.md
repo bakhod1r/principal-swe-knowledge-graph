@@ -1,7 +1,7 @@
 ---
 title: "Concurrent & Lock-Free Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Virtual Memory, Page Tables, TLB Misses, and Huge Pages"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

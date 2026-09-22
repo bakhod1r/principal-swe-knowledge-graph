@@ -1,7 +1,7 @@
 ---
 title: "Physical and Cognitive Ergonomics: Workstation Setup and Mental Clarity"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Physical and Cognitive Ergonomics: Workstation Setup and Mental Clarity
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

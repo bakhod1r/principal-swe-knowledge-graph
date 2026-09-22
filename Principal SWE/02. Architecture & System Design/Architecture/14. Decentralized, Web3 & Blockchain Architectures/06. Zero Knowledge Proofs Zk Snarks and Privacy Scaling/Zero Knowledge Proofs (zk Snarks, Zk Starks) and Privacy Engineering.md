@@ -1,7 +1,7 @@
 ---
 title: Zero Knowledge Proofs (zk Snarks, Zk Starks) and Privacy Engineering
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - decentralized,-web3-and-blockchain-architectures
@@ -34,4 +34,3 @@ Zero Knowledge Proofs (zk Snarks, Zk Starks) and Privacy Engineering
 ## 🔗 References
 - ⬆️ Parent: [[Decentralized, Web3 & Blockchain Architectures]]
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Browser Forward and Back History Navigation via Dual Stacks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

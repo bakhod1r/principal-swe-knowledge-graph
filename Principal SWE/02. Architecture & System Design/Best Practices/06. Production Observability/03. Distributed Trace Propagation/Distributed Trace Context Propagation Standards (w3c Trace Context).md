@@ -1,7 +1,7 @@
 ---
 title: Distributed Trace Context Propagation Standards (w3c Trace Context)
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - production-observability,-sre-and-incident-readiness
@@ -34,4 +34,3 @@ Distributed Trace Context Propagation Standards (w3c Trace Context)
 ## 🔗 References
 - ⬆️ Parent: `Production Observability, SRE & Incident Readiness`
 - 📚 Module: `Best Practices`
-

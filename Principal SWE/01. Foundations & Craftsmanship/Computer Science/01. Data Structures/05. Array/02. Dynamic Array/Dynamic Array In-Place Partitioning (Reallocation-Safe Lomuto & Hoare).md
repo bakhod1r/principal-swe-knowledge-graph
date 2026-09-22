@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array In-Place Partitioning (Reallocation-Safe Lomuto & Hoare)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

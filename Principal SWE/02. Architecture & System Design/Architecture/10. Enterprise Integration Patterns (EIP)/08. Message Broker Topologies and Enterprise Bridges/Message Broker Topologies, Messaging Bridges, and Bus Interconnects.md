@@ -1,7 +1,7 @@
 ---
 title: Message Broker Topologies, Messaging Bridges, and Bus Interconnects
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Message Broker Topologies, Messaging Bridges, and Bus Interconnects
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

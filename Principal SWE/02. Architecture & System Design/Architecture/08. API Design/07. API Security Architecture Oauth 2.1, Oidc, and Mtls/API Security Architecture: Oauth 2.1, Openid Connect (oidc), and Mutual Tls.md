@@ -1,7 +1,7 @@
 ---
 title: "API Security Architecture: Oauth 2.1, Openid Connect (oidc), and Mutual Tls"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ API Security Architecture: Oauth 2.1, Openid Connect (oidc), and Mutual Tls
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

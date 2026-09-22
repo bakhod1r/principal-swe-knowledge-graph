@@ -1,7 +1,7 @@
 ---
 title: Graph Theory Fundamentals, Planarity, and Network Flows
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Graph Theory Fundamentals, Planarity, and Network Flows
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

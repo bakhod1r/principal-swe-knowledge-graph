@@ -1,7 +1,7 @@
 ---
 title: Training Data Poisoning, Dataset Contamination, and Model Backdoors
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - ai-red-teaming-and-llm-safety-engineering
@@ -34,4 +34,3 @@ Training Data Poisoning, Dataset Contamination, and Model Backdoors
 ## 🔗 References
 - ⬆️ Parent: [[AI Red Teaming & LLM Safety Engineering]]
 - 📚 Module: `Cyber Security`
-

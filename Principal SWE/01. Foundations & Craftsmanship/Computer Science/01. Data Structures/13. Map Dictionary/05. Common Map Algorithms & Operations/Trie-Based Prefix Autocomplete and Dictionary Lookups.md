@@ -1,7 +1,7 @@
 ---
 title: "Trie-Based Prefix Autocomplete and Dictionary Lookups"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

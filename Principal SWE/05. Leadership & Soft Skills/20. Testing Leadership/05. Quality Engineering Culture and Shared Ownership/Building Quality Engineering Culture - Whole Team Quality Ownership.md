@@ -1,7 +1,7 @@
 ---
 title: "Building Quality Engineering Culture: Whole Team Quality Ownership"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Building Quality Engineering Culture: Whole Team Quality Ownership
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

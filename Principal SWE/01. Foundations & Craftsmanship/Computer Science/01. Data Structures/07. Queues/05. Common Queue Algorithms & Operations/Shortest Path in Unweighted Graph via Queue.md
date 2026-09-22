@@ -1,7 +1,7 @@
 ---
 title: "Shortest Path in Unweighted Graph via Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

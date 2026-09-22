@@ -1,7 +1,7 @@
 ---
 title: "Structural Patterns: Object Adapter, Class Adapter, and Bridge Decoupling"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Structural Patterns: Object Adapter, Class Adapter, and Bridge Decoupling
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

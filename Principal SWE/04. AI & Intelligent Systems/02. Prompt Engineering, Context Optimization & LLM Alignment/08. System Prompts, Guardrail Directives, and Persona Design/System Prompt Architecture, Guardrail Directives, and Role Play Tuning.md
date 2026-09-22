@@ -1,7 +1,7 @@
 ---
 title: System Prompt Architecture, Guardrail Directives, and Role Play Tuning
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ System Prompt Architecture, Guardrail Directives, and Role Play Tuning
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

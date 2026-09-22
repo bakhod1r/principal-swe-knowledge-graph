@@ -1,7 +1,7 @@
 ---
 title: "Structural Patterns: Composite Tree Hierarchies and Dynamic Decorators"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Structural Patterns: Composite Tree Hierarchies and Dynamic Decorators
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

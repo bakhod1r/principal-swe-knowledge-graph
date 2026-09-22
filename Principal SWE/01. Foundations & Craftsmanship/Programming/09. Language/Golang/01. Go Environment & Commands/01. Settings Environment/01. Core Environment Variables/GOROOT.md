@@ -1,7 +1,7 @@
 ---
 title: GOROOT
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -707,13 +707,13 @@ The relationship is:
 For modern Go:
 
 - **Don't manually set `GOROOT` unless you have a concrete reason.**
-    
+
 - Use `go env GOROOT` to discover the active toolchain root.
-    
+
 - Use `GOPATH`/`GOBIN` for user-installed tooling.
-    
+
 - Use `go.mod` for project-level Go version requirements.
-    
+
 - Treat a manually exported `GOROOT` as something that should have an explicit justification.
 ---
 

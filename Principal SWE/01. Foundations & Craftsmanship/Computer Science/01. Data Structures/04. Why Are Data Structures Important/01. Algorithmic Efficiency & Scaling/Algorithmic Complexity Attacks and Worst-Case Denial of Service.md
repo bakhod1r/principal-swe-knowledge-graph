@@ -1,7 +1,7 @@
 ---
 title: "Algorithmic Complexity Attacks and Worst-Case Denial of Service"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

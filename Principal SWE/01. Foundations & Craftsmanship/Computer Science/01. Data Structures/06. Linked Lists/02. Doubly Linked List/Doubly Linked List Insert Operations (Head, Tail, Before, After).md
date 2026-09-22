@@ -1,7 +1,7 @@
 ---
 title: "Doubly Linked List Insert Operations (Head, Tail, Before, After)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

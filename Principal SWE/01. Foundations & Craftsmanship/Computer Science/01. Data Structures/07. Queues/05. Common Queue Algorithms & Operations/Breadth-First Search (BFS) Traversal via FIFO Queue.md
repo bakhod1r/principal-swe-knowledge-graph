@@ -1,7 +1,7 @@
 ---
 title: "Breadth-First Search (BFS) Traversal via FIFO Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

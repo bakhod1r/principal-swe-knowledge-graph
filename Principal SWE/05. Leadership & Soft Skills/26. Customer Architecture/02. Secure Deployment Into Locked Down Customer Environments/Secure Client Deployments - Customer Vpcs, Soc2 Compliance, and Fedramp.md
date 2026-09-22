@@ -1,7 +1,7 @@
 ---
 title: "Secure Client Deployments: Customer Vpcs, Soc2 Compliance, and Fedramp"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Secure Client Deployments: Customer Vpcs, Soc2 Compliance, and Fedramp
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

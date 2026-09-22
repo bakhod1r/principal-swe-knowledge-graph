@@ -1,7 +1,7 @@
 ---
 title: Introduction to DSA
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

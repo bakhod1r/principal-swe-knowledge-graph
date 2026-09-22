@@ -1,7 +1,7 @@
 ---
 title: Edge Ddos Mitigation, L3 L4 L7 Protection, and Rate Limiting
 tags:
-  - review
+
   - devops
   - platform-engineering
   - cloudflare,-edge-computing-and-cdn-infrastructure
@@ -34,4 +34,3 @@ Edge Ddos Mitigation, L3 L4 L7 Protection, and Rate Limiting
 ## 🔗 References
 - ⬆️ Parent: `Cloudflare, Edge Computing & CDN Infrastructure`
 - 📚 Module: `DevOps`
-

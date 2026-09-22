@@ -1,7 +1,7 @@
 ---
 title: Backend for Frontend (bff) Pattern for Web, Mobile, and Iot
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Backend for Frontend (bff) Pattern for Web, Mobile, and Iot
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: Kolmogorov Complexity, Algorithmic Probability, and Incompressibility
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression
@@ -34,4 +34,3 @@ Kolmogorov Complexity, Algorithmic Probability, and Incompressibility
 ## 🔗 References
 - ⬆️ Parent: [[Information Theory & Data Compression]]
 - 📚 Module: `Computer Science`
-

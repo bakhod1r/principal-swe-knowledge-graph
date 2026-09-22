@@ -1,7 +1,7 @@
 ---
 title: "Control Byte Array and SSE-AVX-512 Mask Matching (_mm_cmpeq_epi8)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

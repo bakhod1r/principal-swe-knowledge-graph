@@ -1,7 +1,7 @@
 ---
 title: Database Connection Pooling, High Availability, and Disaster Recovery
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Database Connection Pooling, High Availability, and Disaster Recovery
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

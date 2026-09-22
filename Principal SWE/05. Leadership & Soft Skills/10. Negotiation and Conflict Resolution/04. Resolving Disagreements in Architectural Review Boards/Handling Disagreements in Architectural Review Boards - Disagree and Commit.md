@@ -1,7 +1,7 @@
 ---
 title: "Handling Disagreements in Architectural Review Boards: Disagree and Commit"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Handling Disagreements in Architectural Review Boards: Disagree and Commit
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

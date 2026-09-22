@@ -1,7 +1,7 @@
 ---
 title: Repairing Damaged Team Trust and Restoring Psychological Safety
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Repairing Damaged Team Trust and Restoring Psychological Safety
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

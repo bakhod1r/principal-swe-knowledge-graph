@@ -1,7 +1,7 @@
 ---
 title: Advanced Type Systems (dependent Types, Linear Types, Refinement Types)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - programming-language-theory-and-type-systems
@@ -34,4 +34,3 @@ Advanced Type Systems (dependent Types, Linear Types, Refinement Types)
 ## 🔗 References
 - ⬆️ Parent: `Programming Language Theory & Type Systems`
 - 📚 Module: `Computer Science`
-

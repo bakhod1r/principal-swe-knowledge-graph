@@ -1,7 +1,7 @@
 ---
 title: Supervised Learning Algorithms (linear Logistic Regression, Trees, Ensemble)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ Supervised Learning Algorithms (linear Logistic Regression, Trees, Ensemble)
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

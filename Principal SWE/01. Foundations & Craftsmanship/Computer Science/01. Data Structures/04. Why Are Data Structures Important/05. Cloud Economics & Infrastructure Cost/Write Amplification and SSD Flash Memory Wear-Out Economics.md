@@ -1,7 +1,7 @@
 ---
 title: "Write Amplification and SSD Flash Memory Wear-Out Economics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

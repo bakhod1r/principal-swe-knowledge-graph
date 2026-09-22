@@ -1,7 +1,7 @@
 ---
 title: "Join Points, Pointcuts, Advices, and Weaving Mechanisms"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

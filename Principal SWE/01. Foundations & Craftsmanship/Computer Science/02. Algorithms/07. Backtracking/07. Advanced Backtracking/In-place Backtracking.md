@@ -1,7 +1,7 @@
 ---
 title: "In-place Backtracking"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

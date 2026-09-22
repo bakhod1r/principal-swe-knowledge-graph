@@ -1,7 +1,7 @@
 ---
 title: "The Diátaxis Framework: Tutorials, How to Guides, Reference, Explanation"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Diátaxis Framework: Tutorials, How to Guides, Reference, Explanation
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

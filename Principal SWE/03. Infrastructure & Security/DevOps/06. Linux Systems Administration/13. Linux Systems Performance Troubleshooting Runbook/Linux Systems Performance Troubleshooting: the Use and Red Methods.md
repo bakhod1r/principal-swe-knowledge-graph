@@ -1,7 +1,7 @@
 ---
 title: "Linux Systems Performance Troubleshooting: the Use and Red Methods"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Systems Performance Troubleshooting: the Use and Red Methods
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

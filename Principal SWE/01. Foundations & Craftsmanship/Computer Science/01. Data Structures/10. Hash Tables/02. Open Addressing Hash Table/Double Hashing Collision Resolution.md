@@ -1,7 +1,7 @@
 ---
 title: "Double Hashing Collision Resolution"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

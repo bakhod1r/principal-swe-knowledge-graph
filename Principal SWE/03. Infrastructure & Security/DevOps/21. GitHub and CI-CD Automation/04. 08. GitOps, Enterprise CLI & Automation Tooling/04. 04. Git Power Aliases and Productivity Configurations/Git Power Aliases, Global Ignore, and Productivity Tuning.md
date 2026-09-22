@@ -1,7 +1,7 @@
 ---
 title: Git Power Aliases, Global Ignore, and Productivity Tuning
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Power Aliases, Global Ignore, and Productivity Tuning
 ## 🔗 References
 - ⬆️ Parent: [[GitOps, Enterprise CLI & Automation Tooling]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

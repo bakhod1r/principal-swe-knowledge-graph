@@ -1,7 +1,7 @@
 ---
 title: "Eulerian Path Circuit Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

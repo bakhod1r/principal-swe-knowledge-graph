@@ -1,7 +1,7 @@
 ---
 title: "Array-Based Stack"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

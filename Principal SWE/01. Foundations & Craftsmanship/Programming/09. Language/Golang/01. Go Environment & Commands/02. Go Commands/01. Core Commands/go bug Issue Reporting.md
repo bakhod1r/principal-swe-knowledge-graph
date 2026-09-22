@@ -1,7 +1,7 @@
 ---
 title: "go bug Issue Reporting"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

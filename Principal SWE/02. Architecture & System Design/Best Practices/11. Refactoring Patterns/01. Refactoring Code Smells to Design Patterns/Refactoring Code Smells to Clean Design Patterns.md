@@ -1,7 +1,7 @@
 ---
 title: Refactoring Code Smells to Clean Design Patterns
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns
@@ -34,4 +34,3 @@ Refactoring Code Smells to Clean Design Patterns
 ## 🔗 References
 - ⬆️ Parent: `Clean Code & Refactoring Patterns`
 - 📚 Module: `Best Practices`
-

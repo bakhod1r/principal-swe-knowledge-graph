@@ -1,7 +1,7 @@
 ---
 title: "Fail-Fast Invariant Checks and Crash-Only Software Principles"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

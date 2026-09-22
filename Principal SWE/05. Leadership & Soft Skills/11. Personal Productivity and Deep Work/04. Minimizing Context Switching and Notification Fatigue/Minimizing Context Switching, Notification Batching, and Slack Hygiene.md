@@ -1,7 +1,7 @@
 ---
 title: Minimizing Context Switching, Notification Batching, and Slack Hygiene
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Minimizing Context Switching, Notification Batching, and Slack Hygiene
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

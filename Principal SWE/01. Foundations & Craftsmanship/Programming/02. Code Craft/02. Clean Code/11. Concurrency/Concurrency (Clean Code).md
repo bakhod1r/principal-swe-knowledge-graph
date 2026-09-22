@@ -1,7 +1,7 @@
 ---
 title: Concurrency (Clean Code)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Concurrency (Clean Code)
 
 ## 🔗 References
 - ⬆️ Parent: [[Clean Code]]
-

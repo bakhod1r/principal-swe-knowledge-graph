@@ -1,7 +1,7 @@
 ---
 title: "Master Theorem Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: "Consistent Hashing Topology and Key Distribution Ring"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Next Greater Element (NGE) Linear Scan"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

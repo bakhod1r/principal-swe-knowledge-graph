@@ -1,7 +1,7 @@
 ---
 title: "Applied AI in the Field: Client Specific Rag, Vector Search, and on Prem LLM Inference"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Applied AI in the Field: Client Specific Rag, Vector Search, and on Prem LLM Inf
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

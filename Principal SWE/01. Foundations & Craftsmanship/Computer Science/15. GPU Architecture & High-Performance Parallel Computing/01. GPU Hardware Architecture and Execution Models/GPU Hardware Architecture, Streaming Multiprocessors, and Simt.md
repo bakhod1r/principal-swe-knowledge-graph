@@ -1,7 +1,7 @@
 ---
 title: GPU Hardware Architecture, Streaming Multiprocessors, and Simt
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing
@@ -34,4 +34,3 @@ GPU Hardware Architecture, Streaming Multiprocessors, and Simt
 ## 🔗 References
 - ⬆️ Parent: [[GPU Architecture & High Performance Parallel Computing]]
 - 📚 Module: `Computer Science`
-

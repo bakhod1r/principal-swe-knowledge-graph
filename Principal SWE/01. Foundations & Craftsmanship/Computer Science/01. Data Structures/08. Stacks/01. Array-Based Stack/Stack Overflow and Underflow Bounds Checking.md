@@ -1,7 +1,7 @@
 ---
 title: "Stack Overflow and Underflow Bounds Checking"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

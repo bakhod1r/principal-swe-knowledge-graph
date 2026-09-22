@@ -1,7 +1,7 @@
 ---
 title: "Circular Queue Enqueue and Tail Wraparound Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

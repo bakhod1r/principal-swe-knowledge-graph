@@ -1,7 +1,7 @@
 ---
 title: "Sociotechnical Friction Logs: Quantifying Cross Team Impedance"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ Sociotechnical Friction Logs: Quantifying Cross Team Impedance
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

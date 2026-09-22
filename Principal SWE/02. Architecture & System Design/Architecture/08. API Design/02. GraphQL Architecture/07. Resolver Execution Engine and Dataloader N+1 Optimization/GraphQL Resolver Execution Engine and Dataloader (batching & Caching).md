@@ -1,7 +1,7 @@
 ---
 title: GraphQL Resolver Execution Engine and Dataloader (batching & Caching)
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Resolver Execution Engine and Dataloader (batching & Caching)
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

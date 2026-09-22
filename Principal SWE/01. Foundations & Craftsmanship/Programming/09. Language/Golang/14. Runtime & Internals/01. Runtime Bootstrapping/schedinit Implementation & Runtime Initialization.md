@@ -1,7 +1,7 @@
 ---
 title: "schedinit Implementation & Runtime Initialization"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

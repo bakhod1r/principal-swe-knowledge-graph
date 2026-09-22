@@ -1,7 +1,7 @@
 ---
 title: "The Discipline of Saying No: Defending Quality with Data and Alternatives"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ The Discipline of Saying No: Defending Quality with Data and Alternatives
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Circular Deque Peek Front and Peek Back Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

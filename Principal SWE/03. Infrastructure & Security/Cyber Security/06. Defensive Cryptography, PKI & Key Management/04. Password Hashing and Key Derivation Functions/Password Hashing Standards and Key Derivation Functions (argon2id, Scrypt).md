@@ -1,7 +1,7 @@
 ---
 title: Password Hashing Standards and Key Derivation Functions (argon2id, Scrypt)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management
@@ -34,4 +34,3 @@ Password Hashing Standards and Key Derivation Functions (argon2id, Scrypt)
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography, PKI & Key Management]]
 - 📚 Module: `Cyber Security`
-

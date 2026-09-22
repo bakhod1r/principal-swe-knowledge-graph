@@ -1,7 +1,7 @@
 ---
 title: "Clean Architecture Domain Error Hierarchy"
 tags:
-  - review
+
   - golang
   - error-handling
   - principal-swe

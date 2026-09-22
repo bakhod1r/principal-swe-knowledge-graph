@@ -1,7 +1,7 @@
 ---
 title: "Crucial Conversations in Engineering: Navigating High Stakes Dialogue"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Crucial Conversations in Engineering: Navigating High Stakes Dialogue
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

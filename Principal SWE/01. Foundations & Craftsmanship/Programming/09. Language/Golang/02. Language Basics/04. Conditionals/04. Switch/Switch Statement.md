@@ -1,7 +1,7 @@
 ---
 title: Switch Statement
 tags:
-  - review
+
   - golang
   - conditionals
   - principal-swe
@@ -38,4 +38,3 @@ Switch Statement
 
 ## 🔗 References
 - ⬆️ Parent: [[Conditionals]]
-

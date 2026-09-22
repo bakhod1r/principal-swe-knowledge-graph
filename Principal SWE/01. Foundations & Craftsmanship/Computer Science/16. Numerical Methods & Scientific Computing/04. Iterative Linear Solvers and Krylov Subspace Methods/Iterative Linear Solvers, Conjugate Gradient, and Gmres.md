@@ -1,7 +1,7 @@
 ---
 title: Iterative Linear Solvers, Conjugate Gradient, and Gmres
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - numerical-methods-and-scientific-computing
@@ -34,4 +34,3 @@ Iterative Linear Solvers, Conjugate Gradient, and Gmres
 ## 🔗 References
 - ⬆️ Parent: [[Numerical Methods & Scientific Computing]]
 - 📚 Module: `Computer Science`
-

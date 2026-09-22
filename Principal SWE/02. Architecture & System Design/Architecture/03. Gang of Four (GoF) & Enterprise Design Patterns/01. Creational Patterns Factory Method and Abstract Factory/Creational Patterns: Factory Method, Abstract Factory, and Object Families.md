@@ -1,7 +1,7 @@
 ---
 title: "Creational Patterns: Factory Method, Abstract Factory, and Object Families"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - gang-of-four-(gof)-and-enterprise-design-patterns
@@ -34,4 +34,3 @@ Creational Patterns: Factory Method, Abstract Factory, and Object Families
 ## 🔗 References
 - ⬆️ Parent: [[Gang of Four (gof) & Enterprise Design Patterns]]
 - 📚 Module: `Architecture`
-

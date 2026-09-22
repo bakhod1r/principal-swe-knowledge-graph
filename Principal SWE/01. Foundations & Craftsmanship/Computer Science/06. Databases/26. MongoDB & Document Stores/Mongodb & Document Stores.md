@@ -1,7 +1,7 @@
 ---
 title: Mongodb & Document Stores
 tags:
-  - review
+
   - backend
   - architecture
   - mongodb-and-document-stores
@@ -49,4 +49,3 @@ Mongodb & Document Stores
 
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
-

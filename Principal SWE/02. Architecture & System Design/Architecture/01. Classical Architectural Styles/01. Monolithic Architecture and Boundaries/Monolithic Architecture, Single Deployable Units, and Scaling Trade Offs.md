@@ -1,7 +1,7 @@
 ---
 title: Monolithic Architecture, Single Deployable Units, and Scaling Trade Offs
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Monolithic Architecture, Single Deployable Units, and Scaling Trade Offs
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

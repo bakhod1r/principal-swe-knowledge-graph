@@ -1,7 +1,7 @@
 ---
 title: "Constructive Feedback: Conventional Comments and Non Violent Phrasing"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Constructive Feedback: Conventional Comments and Non Violent Phrasing
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

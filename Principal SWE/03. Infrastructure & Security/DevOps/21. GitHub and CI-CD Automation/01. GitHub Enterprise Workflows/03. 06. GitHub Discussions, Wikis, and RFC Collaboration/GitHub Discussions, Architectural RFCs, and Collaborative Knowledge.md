@@ -1,7 +1,7 @@
 ---
 title: GitHub Discussions, Architectural RFCs, and Collaborative Knowledge
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Discussions, Architectural RFCs, and Collaborative Knowledge
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

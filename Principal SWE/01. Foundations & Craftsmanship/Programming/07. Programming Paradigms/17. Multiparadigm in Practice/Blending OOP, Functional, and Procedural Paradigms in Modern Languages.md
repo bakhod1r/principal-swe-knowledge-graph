@@ -1,7 +1,7 @@
 ---
 title: "Blending OOP, Functional, and Procedural Paradigms in Modern Languages"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

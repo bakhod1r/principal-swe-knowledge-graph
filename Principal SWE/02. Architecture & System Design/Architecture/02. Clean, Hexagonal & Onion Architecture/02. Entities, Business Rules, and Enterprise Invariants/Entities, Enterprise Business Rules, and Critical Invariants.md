@@ -1,7 +1,7 @@
 ---
 title: Entities, Enterprise Business Rules, and Critical Invariants
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Entities, Enterprise Business Rules, and Critical Invariants
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

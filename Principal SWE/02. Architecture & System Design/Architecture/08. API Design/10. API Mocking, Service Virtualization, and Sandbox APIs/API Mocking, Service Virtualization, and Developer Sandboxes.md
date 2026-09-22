@@ -1,7 +1,7 @@
 ---
 title: API Mocking, Service Virtualization, and Developer Sandboxes
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ API Mocking, Service Virtualization, and Developer Sandboxes
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

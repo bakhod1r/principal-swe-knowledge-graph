@@ -1,7 +1,7 @@
 ---
 title: "RAM Footprint vs Cloud Instance Fleet Cost (FinOps in Data Structures)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

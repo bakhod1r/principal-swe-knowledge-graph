@@ -1,7 +1,7 @@
 ---
 title: "Two-Sum and Complement Lookup in O(N) Time via Hash Table"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

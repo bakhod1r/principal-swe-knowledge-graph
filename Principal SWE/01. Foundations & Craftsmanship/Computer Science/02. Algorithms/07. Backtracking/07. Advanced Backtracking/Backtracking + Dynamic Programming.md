@@ -1,7 +1,7 @@
 ---
 title: "Backtracking + Dynamic Programming"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

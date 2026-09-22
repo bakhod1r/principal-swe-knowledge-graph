@@ -1,7 +1,7 @@
 ---
 title: "Mutation Testing: Evaluating Test Quality Beyond Line Coverage"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Mutation Testing: Evaluating Test Quality Beyond Line Coverage
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

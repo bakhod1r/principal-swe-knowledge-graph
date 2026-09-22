@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Optimization Core Principles and Architecture"
 tags:
-  - review
+
   - backend
   - architecture
   - redis-and-in-memory-architectures

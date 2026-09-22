@@ -1,7 +1,7 @@
 ---
 title: "Multi-Dimensional Spatial and Geometric Topologies"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

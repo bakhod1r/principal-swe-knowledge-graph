@@ -1,7 +1,7 @@
 ---
 title: Database Views and Materialized View Refresh
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ Database Views and Materialized View Refresh
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

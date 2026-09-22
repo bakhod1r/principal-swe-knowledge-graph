@@ -1,7 +1,7 @@
 ---
 title: Policy As Code for Infrastructure (sentinel and OPA Rego)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Policy As Code for Infrastructure (sentinel and OPA Rego)
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

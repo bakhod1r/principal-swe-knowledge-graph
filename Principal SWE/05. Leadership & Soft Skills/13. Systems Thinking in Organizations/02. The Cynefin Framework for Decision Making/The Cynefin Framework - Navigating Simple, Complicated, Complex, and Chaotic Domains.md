@@ -1,7 +1,7 @@
 ---
 title: "The Cynefin Framework: Navigating Simple, Complicated, Complex, and Chaotic Domains"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ The Cynefin Framework: Navigating Simple, Complicated, Complex, and Chaotic Doma
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

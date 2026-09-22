@@ -1,7 +1,7 @@
 ---
 title: "Order of Growth Cliffs (O(1) to O(N²)) in Production Outages"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Memory Fragmentation, Garbage Collection Pressure, and Heap Exhaustion"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

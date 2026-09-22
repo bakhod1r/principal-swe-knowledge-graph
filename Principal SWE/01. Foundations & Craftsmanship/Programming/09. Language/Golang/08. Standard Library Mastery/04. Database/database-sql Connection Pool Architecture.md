@@ -1,7 +1,7 @@
 ---
 title: "database-sql Connection Pool Architecture"
 tags:
-  - review
+
   - golang
   - stdlib
   - principal-swe

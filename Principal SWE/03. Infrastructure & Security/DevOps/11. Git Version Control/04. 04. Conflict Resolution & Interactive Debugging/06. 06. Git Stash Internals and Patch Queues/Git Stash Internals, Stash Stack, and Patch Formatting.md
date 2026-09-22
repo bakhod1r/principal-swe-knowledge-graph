@@ -1,7 +1,7 @@
 ---
 title: Git Stash Internals, Stash Stack, and Patch Formatting
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Stash Internals, Stash Stack, and Patch Formatting
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution & Interactive Debugging]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

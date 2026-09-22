@@ -1,7 +1,7 @@
 ---
 title: "Lock-Free Concurrent Skip List (Java ConcurrentSkipListMap Mechanics)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

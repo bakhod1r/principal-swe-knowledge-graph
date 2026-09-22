@@ -1,7 +1,7 @@
 ---
 title: Preventing Engineering Burnout, Chronic Stress, and Overwork
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Preventing Engineering Burnout, Chronic Stress, and Overwork
 ## 🔗 References
 - ⬆️ Parent: `Personal Productivity, Deep Work & Cognitive Ergonomics`
 - 📚 Module: `Soft Skills`
-

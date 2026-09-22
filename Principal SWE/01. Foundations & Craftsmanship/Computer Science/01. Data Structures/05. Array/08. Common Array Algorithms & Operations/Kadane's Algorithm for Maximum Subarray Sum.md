@@ -1,7 +1,7 @@
 ---
 title: "Kadane's Algorithm for Maximum Subarray Sum"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

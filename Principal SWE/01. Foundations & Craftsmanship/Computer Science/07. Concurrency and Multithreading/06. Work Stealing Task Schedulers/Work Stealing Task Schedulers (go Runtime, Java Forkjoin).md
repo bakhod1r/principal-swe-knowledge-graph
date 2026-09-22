@@ -1,7 +1,7 @@
 ---
 title: Work Stealing Task Schedulers (go Runtime, Java Forkjoin)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - concurrency,-multithreading-and-memory-models
@@ -34,4 +34,3 @@ Work Stealing Task Schedulers (go Runtime, Java Forkjoin)
 ## 🔗 References
 - ⬆️ Parent: `Concurrency, Multithreading & Memory Models`
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: Enterprise Security Governance, Soc2 Type Ii, Iso 27001, and Gdpr
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - threat-modeling,-risk-assessment-and-attack-trees
@@ -34,4 +34,3 @@ Enterprise Security Governance, Soc2 Type Ii, Iso 27001, and Gdpr
 ## 🔗 References
 - ⬆️ Parent: [[Threat Modeling, Risk Assessment & Attack Trees]]
 - 📚 Module: `Cyber Security`
-

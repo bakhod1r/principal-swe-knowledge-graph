@@ -1,7 +1,7 @@
 ---
 title: "Backpressure, Bounded Capacities, and Graceful Degradation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

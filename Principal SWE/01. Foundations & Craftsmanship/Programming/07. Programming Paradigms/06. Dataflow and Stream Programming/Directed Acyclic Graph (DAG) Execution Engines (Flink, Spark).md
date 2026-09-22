@@ -1,7 +1,7 @@
 ---
 title: "Directed Acyclic Graph (DAG) Execution Engines (Flink, Spark)"
 tags:
-  - review
+
   - programming
   - paradigms
   - principal-swe

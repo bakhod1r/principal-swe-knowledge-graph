@@ -1,7 +1,7 @@
 ---
 title: "Saga Pattern: Long Running Distributed Transactions and Compensating Actions"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)
@@ -34,4 +34,3 @@ Saga Pattern: Long Running Distributed Transactions and Compensating Actions
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Patterns (cqrs, Event Sourcing, Sagas)]]
 - 📚 Module: `Architecture`
-

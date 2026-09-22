@@ -1,7 +1,7 @@
 ---
 title: "Software Supply Chain Security: SBOM Generation, Slsa, and Cosign Verification"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Software Supply Chain Security: SBOM Generation, Slsa, and Cosign Verification
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

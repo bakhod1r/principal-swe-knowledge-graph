@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Map Thread-Safe Put, Get, and CAS Update Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

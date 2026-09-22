@@ -1,7 +1,7 @@
 ---
 title: "Polymorphism Models (Ad-hoc, Parametric Generics, Subtyping)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

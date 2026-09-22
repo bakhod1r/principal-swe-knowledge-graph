@@ -1,7 +1,7 @@
 ---
 title: "WireGuard VPN Protocol Implementation (wireguard-go)"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

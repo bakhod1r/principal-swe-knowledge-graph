@@ -1,7 +1,7 @@
 ---
 title: "Context Mapping Patterns: Shared Kernel, Customer Supplier, Anti Corruption Layer"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Context Mapping Patterns: Shared Kernel, Customer Supplier, Anti Corruption Laye
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

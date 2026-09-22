@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Insert at Index (Reallocation + Memory Shift)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

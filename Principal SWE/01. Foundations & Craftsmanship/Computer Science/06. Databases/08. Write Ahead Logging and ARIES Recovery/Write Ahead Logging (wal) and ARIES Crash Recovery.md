@@ -1,7 +1,7 @@
 ---
 title: Write Ahead Logging (wal) and ARIES Crash Recovery
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Write Ahead Logging (wal) and ARIES Crash Recovery
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

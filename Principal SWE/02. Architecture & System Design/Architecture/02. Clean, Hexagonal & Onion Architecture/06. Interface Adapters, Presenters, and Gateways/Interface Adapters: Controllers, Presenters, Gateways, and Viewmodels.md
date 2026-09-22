@@ -1,7 +1,7 @@
 ---
 title: "Interface Adapters: Controllers, Presenters, Gateways, and Viewmodels"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Interface Adapters: Controllers, Presenters, Gateways, and Viewmodels
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Modern Developer Portals: Interactive Documentation (scalar, Stoplight)"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Modern Developer Portals: Interactive Documentation (scalar, Stoplight)
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

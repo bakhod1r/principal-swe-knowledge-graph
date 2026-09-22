@@ -1,7 +1,7 @@
 ---
 title: "Embedding Multiple Intrusive Lists in a Single Struct"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

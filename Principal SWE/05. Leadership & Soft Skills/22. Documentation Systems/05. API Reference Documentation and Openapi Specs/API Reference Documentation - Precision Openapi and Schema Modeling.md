@@ -1,7 +1,7 @@
 ---
 title: "API Reference Documentation: Precision Openapi and Schema Modeling"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ API Reference Documentation: Precision Openapi and Schema Modeling
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

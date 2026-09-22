@@ -1,7 +1,7 @@
 ---
 title: Navigating Organizational Politics with Integrity and Transparency
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Navigating Organizational Politics with Integrity and Transparency
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

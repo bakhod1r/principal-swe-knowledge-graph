@@ -1,7 +1,7 @@
 ---
 title: "Upper and Lower Bounds"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

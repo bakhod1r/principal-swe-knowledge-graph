@@ -1,7 +1,7 @@
 ---
 title: "Single-Producer Single-Consumer (SPSC) Lock-Free Array Ring Buffer"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

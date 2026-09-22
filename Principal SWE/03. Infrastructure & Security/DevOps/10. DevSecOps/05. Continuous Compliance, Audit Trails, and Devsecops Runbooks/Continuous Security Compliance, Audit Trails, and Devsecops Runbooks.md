@@ -1,7 +1,7 @@
 ---
 title: Continuous Security Compliance, Audit Trails, and Devsecops Runbooks
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Continuous Security Compliance, Audit Trails, and Devsecops Runbooks
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

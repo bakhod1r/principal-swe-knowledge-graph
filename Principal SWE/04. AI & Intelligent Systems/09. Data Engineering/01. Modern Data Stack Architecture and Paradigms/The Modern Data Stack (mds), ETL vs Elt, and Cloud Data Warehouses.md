@@ -1,7 +1,7 @@
 ---
 title: The Modern Data Stack (mds), ETL vs Elt, and Cloud Data Warehouses
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - data-engineering,-etl-pipelines-and-lakehouse-architecture
@@ -34,4 +34,3 @@ The Modern Data Stack (mds), ETL vs Elt, and Cloud Data Warehouses
 ## 🔗 References
 - ⬆️ Parent: `Data Engineering, ETL Pipelines & Lakehouse Architecture`
 - 📚 Module: `AI & Machine Learning`
-

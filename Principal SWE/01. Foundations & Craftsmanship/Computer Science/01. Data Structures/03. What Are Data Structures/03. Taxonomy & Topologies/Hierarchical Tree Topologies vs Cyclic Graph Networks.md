@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Tree Topologies vs Cyclic Graph Networks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Supply Chain Security (govulncheck & SBOM)"
 tags:
-  - review
+
   - golang
   - dependencies
   - principal-swe

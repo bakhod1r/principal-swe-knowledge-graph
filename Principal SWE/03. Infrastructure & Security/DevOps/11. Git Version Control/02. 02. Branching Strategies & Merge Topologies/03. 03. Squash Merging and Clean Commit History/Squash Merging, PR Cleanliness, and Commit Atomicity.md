@@ -1,7 +1,7 @@
 ---
 title: Squash Merging, PR Cleanliness, and Commit Atomicity
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Squash Merging, PR Cleanliness, and Commit Atomicity
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

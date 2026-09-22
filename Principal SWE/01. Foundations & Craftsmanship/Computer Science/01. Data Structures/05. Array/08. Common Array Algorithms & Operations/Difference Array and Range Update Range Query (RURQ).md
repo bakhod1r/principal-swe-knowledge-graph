@@ -1,7 +1,7 @@
 ---
 title: "Difference Array and Range Update Range Query (RURQ)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

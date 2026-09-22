@@ -1,7 +1,7 @@
 ---
 title: "cmp.Ordered Constraint"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

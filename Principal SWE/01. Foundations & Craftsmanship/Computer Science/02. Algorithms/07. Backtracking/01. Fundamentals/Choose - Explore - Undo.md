@@ -1,7 +1,7 @@
 ---
 title: "Choose - Explore - Undo"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

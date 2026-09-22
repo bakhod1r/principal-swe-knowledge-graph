@@ -1,7 +1,7 @@
 ---
 title: "Queue Empty and Full Invariant Conditions"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

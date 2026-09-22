@@ -1,7 +1,7 @@
 ---
 title: "Memory-Mapped Key-Value Store (LMDB B-Tree Memory Architecture)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

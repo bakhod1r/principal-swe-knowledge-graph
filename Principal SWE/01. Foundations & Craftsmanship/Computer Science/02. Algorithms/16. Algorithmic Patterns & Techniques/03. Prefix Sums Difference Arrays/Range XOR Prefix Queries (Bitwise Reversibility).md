@@ -1,7 +1,7 @@
 ---
 title: "Range XOR Prefix Queries (Bitwise Reversibility)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

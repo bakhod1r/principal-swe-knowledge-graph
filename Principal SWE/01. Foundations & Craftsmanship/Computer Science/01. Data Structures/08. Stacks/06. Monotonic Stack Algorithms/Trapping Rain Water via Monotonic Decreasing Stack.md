@@ -1,7 +1,7 @@
 ---
 title: "Trapping Rain Water via Monotonic Decreasing Stack"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

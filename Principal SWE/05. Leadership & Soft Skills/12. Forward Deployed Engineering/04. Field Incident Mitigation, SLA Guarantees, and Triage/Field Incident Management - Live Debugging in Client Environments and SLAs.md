@@ -1,7 +1,7 @@
 ---
 title: "Field Incident Management: Live Debugging in Client Environments and SLAs"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Field Incident Management: Live Debugging in Client Environments and SLAs
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

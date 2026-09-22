@@ -1,7 +1,7 @@
 ---
 title: "LRU Cache Eviction Policy using Doubly Linked List and Hash Map"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

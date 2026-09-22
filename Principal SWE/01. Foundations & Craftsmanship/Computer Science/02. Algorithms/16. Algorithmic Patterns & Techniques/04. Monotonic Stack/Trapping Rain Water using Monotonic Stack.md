@@ -1,7 +1,7 @@
 ---
 title: "Trapping Rain Water using Monotonic Stack"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

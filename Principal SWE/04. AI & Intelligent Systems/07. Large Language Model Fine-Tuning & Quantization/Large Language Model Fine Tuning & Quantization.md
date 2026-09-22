@@ -1,7 +1,7 @@
 ---
 title: Large Language Model Fine Tuning & Quantization
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -47,4 +47,3 @@ Large Language Model Fine Tuning & Quantization
 
 ## 🔗 References
 - ⬆️ Parent: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Kruskal's Minimum Spanning Tree via Disjoint Set Union"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

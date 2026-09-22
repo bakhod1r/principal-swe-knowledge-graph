@@ -1,7 +1,7 @@
 ---
 title: "Dutch National Flag 3-Way Array Partitioning"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

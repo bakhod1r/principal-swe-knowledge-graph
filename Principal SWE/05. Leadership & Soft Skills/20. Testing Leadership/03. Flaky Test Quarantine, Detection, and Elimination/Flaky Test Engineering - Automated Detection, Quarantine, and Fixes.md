@@ -1,7 +1,7 @@
 ---
 title: "Flaky Test Engineering: Automated Detection, Quarantine, and Fixes"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Flaky Test Engineering: Automated Detection, Quarantine, and Fixes
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

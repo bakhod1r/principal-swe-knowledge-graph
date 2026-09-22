@@ -1,7 +1,7 @@
 ---
 title: "Rendezvous (Highest Random Weight - HRW) Hashing vs Consistent Rings"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

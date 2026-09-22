@@ -1,7 +1,7 @@
 ---
 title: "3D Array Layout, Voxel Tensors, and Coordinate Flattening"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

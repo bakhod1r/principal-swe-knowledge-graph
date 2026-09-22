@@ -1,7 +1,7 @@
 ---
 title: "Automating Code Review: Linters, Formatters, and Sast Gates"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Automating Code Review: Linters, Formatters, and Sast Gates
 ## 🔗 References
 - ⬆️ Parent: `Code Review Culture & Engineering Standards`
 - 📚 Module: `Soft Skills`
-

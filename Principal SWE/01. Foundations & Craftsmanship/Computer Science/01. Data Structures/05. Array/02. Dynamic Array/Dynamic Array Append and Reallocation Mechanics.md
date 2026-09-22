@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Array Append and Reallocation Mechanics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

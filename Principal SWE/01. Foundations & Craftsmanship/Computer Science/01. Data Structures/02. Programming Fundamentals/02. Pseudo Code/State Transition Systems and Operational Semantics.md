@@ -1,7 +1,7 @@
 ---
 title: "State Transition Systems and Operational Semantics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

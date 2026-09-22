@@ -1,7 +1,7 @@
 ---
 title: "Two-Pointer In-Place Array Partitioning and QuickSort"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

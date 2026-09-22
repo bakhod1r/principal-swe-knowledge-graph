@@ -1,7 +1,7 @@
 ---
 title: "Cache-Oblivious Matrix Multiplication and Tiling"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

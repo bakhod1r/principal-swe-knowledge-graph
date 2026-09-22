@@ -1,7 +1,7 @@
 ---
 title: Cloud Network Perimeter, Vpc Endpoints, and Privatelink Isolation
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection
@@ -34,4 +34,3 @@ Cloud Network Perimeter, Vpc Endpoints, and Privatelink Isolation
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Security, IAM & Workload Protection]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Palindrome Verification using Double-Ended Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

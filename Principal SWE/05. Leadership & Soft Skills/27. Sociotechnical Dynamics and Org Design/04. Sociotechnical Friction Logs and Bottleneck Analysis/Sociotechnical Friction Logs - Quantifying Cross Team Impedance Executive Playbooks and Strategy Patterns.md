@@ -1,7 +1,7 @@
 ---
 title: "Sociotechnical Friction Logs - Quantifying Cross Team Impedance Executive Playbooks and Strategy Patterns"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy

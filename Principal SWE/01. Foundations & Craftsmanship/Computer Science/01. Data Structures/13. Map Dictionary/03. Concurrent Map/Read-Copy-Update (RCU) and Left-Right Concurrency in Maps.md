@@ -1,7 +1,7 @@
 ---
 title: "Read-Copy-Update (RCU) and Left-Right Concurrency in Maps"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

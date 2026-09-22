@@ -1,7 +1,7 @@
 ---
 title: "Sysmon Daemon Thread"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

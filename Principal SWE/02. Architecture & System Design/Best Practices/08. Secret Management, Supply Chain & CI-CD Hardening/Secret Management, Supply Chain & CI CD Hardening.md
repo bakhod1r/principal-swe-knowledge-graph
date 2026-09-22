@@ -1,7 +1,7 @@
 ---
 title: Secret Management, Supply Chain & CI CD Hardening
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - principal-swe
@@ -29,4 +29,3 @@ Comprehensive engineering guide, patterns, and principles for Secret Management,
 
 ## 🔗 References
 - ⬆️ Parent: [[Best Practices]]
-

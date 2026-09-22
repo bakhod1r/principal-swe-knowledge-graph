@@ -1,7 +1,7 @@
 ---
 title: Memory Models and Atomics Ordering (Concurrency (Concurrency Async Parallel))
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Memory Models and Atomics Ordering (Concurrency (Concurrency Async Parallel))
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency (Concurrency Async Parallel)]]
-

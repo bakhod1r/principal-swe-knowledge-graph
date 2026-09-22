@@ -1,7 +1,7 @@
 ---
 title: "Multiple Concrete Implementations of Single ADTs (e.g. List, Map, Queue)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

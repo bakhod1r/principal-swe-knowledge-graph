@@ -1,7 +1,7 @@
 ---
 title: "Engineering Hiring Architecture: Structured Interviews and Bar Raisers"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Engineering Hiring Architecture: Structured Interviews and Bar Raisers
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

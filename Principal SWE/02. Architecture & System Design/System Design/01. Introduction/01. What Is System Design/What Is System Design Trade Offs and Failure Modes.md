@@ -1,7 +1,7 @@
 ---
 title: "What Is System Design Trade Offs and Failure Modes"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems
@@ -105,11 +105,11 @@ Neither is automatically correct.
 For:
 
 - banking → consistency is usually extremely important
-    
+
 - social-media likes → temporary inconsistency may be acceptable
-    
+
 - product recommendations → stale data is usually fine
-    
+
 
 ---
 
@@ -177,16 +177,16 @@ The system waits for replication before acknowledging.
 Advantages:
 
 - stronger durability
-    
+
 - lower probability of acknowledged data loss
-    
+
 
 Costs:
 
 - higher latency
-    
+
 - replica failure can affect availability
-    
+
 
 ### Asynchronous replication
 
@@ -280,18 +280,18 @@ Products
 Advantages:
 
 - less duplication
-    
+
 - stronger consistency
-    
+
 - easier updates
-    
+
 
 Costs:
 
 - more joins
-    
+
 - potentially slower reads
-    
+
 
 Denormalized model:
 
@@ -307,18 +307,18 @@ Order {
 Advantages:
 
 - fast reads
-    
+
 - fewer joins
-    
+
 
 Costs:
 
 - duplicated data
-    
+
 - synchronization complexity
-    
+
 - stale values
-    
+
 
 Mental model:
 
@@ -363,15 +363,15 @@ The second architecture may support substantially higher scale.
 But every additional component creates:
 
 - another failure boundary
-    
+
 - another deployment
-    
+
 - another monitoring surface
-    
+
 - another operational dependency
-    
+
 - another recovery procedure
-    
+
 
 A useful approximation is:
 
@@ -426,30 +426,30 @@ Worker
 Advantages:
 
 - decoupling
-    
+
 - buffering
-    
+
 - retry capability
-    
+
 - better resilience to traffic spikes
-    
+
 
 But now you need to reason about:
 
 - duplicate messages
-    
+
 - ordering
-    
+
 - retries
-    
+
 - dead-letter queues
-    
+
 - consumer lag
-    
+
 - idempotency
-    
+
 - eventual consistency
-    
+
 
 So:
 
@@ -541,17 +541,17 @@ This is a **retry storm**.
 Production retry design generally requires:
 
 - bounded retries
-    
+
 - exponential backoff
-    
+
 - jitter
-    
+
 - deadlines
-    
+
 - idempotency
-    
+
 - retry classification
-    
+
 
 And importantly:
 
@@ -818,15 +818,15 @@ When connectivity returns, reconciliation becomes difficult.
 Preventing split-brain may require:
 
 - quorum
-    
+
 - leader election
-    
+
 - fencing
-    
+
 - consensus protocols
-    
+
 - leases with careful semantics
-    
+
 
 ---
 
@@ -1094,4 +1094,3 @@ The deepest principle is:
 ## 🔗 References
 - ⬆️ Parent: [[What Is System Design]]
 - 📚 Module: `Introduction`
-

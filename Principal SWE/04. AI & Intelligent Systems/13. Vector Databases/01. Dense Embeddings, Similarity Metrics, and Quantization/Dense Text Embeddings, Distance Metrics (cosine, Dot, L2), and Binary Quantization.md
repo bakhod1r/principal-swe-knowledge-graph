@@ -1,7 +1,7 @@
 ---
 title: Dense Text Embeddings, Distance Metrics (cosine, Dot, L2), and Binary Quantization
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Dense Text Embeddings, Distance Metrics (cosine, Dot, L2), and Binary Quantizati
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

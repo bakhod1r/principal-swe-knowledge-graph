@@ -1,7 +1,7 @@
 ---
 title: "The Westrum Organizational Typology: Pathological, Bureaucratic, and Generative Cultures"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy
@@ -35,4 +35,3 @@ The Westrum Organizational Typology: Pathological, Bureaucratic, and Generative 
 ## 🔗 References
 - ⬆️ Parent: `Systems Thinking, Sociotechnical Dynamics & Org Design`
 - 📚 Module: `Leadership & Soft Skills`
-

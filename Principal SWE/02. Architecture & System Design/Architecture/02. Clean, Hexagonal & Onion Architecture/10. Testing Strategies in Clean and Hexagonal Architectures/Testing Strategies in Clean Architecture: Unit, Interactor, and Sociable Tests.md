@@ -1,7 +1,7 @@
 ---
 title: "Testing Strategies in Clean Architecture: Unit, Interactor, and Sociable Tests"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture
@@ -34,4 +34,3 @@ Testing Strategies in Clean Architecture: Unit, Interactor, and Sociable Tests
 ## 🔗 References
 - ⬆️ Parent: [[Clean, Hexagonal & Onion Architecture]]
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Swiss Table (SIMD Probing)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

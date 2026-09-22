@@ -1,7 +1,7 @@
 ---
 title: Producer Consumer (Concurrency Patterns)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Producer Consumer (Concurrency Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Patterns]]
-

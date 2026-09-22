@@ -1,7 +1,7 @@
 ---
 title: "src-cmd Toolchain Source"
 tags:
-  - review
+
   - golang
   - source-structure
   - principal-swe

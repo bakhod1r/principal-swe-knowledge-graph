@@ -1,7 +1,7 @@
 ---
 title: TLS 1.3 Cryptographic Handshake and Forward Secrecy
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - networking-and-internet-transport-internals
@@ -34,4 +34,3 @@ TLS 1.3 Cryptographic Handshake and Forward Secrecy
 ## 🔗 References
 - ⬆️ Parent: `Networking & Internet Transport Internals`
 - 📚 Module: `Computer Science`
-

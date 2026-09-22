@@ -1,7 +1,7 @@
 ---
 title: Automated Sast, Dast, and Secret Scanning in CI CD Pipelines
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Automated Sast, Dast, and Secret Scanning in CI CD Pipelines
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

@@ -11,7 +11,7 @@ parent: "[[Leadership & Soft Skills]]"
 - [[Compensation Structures, Salary Bands, Equity, and Promotion Packets]]
 - [[Engineering Hiring Architecture - Structured Interviews and Bar Raisers]]
 - [[Managing Underperformance, Difficult Conversations, and Radical Candor]]
-- [[Performance Management - Review Cycles, Talent Calibrations, and PIPs]]
+- [[Performance Management  Cycles, Talent Calibrations, and PIPs]]
 - [[The Art of the 1 on 1 - Coaching, Career Growth, and Listening]]
 
 ---

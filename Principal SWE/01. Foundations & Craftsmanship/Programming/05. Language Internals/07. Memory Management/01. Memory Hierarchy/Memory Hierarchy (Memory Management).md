@@ -1,7 +1,7 @@
 ---
 title: Memory Hierarchy (Memory Management)
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -28,4 +28,3 @@ Memory Hierarchy (Memory Management)
 
 ## 🔗 References
 - ⬆️ Parent: [[Memory Management]]
-

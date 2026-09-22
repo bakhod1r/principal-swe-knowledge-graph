@@ -1,7 +1,7 @@
 ---
 title: "Continuous Learning: Deliberate Practice, Katas, and Career Ownership"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Continuous Learning: Deliberate Practice, Katas, and Career Ownership
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

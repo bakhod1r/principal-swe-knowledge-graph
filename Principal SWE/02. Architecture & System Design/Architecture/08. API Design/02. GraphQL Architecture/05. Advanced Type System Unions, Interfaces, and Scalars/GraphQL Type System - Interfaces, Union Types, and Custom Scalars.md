@@ -1,7 +1,7 @@
 ---
 title: "GraphQL Type System: Interfaces, Union Types, and Custom Scalars"
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Type System: Interfaces, Union Types, and Custom Scalars
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

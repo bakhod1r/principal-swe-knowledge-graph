@@ -1,7 +1,7 @@
 ---
 title: "K Server Problem Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: Git Repository Initialization, Bare Repositories, and Mirrors
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Repository Initialization, Bare Repositories, and Mirrors
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

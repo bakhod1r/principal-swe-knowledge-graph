@@ -1,7 +1,7 @@
 ---
 title: "Big Ball of Mud Architecture: Uncontrolled Growth, Spaghetti Code, and Code Rot"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - architectural-anti-patterns-and-technical-debt-refactoring
@@ -34,4 +34,3 @@ Big Ball of Mud Architecture: Uncontrolled Growth, Spaghetti Code, and Code Rot
 ## 🔗 References
 - ⬆️ Parent: `Architectural Anti Patterns & Technical Debt Refactoring`
 - 📚 Module: `Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: "Quadratic Probing Mechanics and Secondary Clustering"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

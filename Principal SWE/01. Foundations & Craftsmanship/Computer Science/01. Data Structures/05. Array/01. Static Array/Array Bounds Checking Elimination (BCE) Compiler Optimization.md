@@ -1,7 +1,7 @@
 ---
 title: "Array Bounds Checking Elimination (BCE) Compiler Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

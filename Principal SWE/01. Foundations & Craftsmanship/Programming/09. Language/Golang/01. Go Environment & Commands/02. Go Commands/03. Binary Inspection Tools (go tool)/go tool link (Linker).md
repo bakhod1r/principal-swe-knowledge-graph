@@ -1,7 +1,7 @@
 ---
 title: "go tool link (Linker)"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

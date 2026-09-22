@@ -1,7 +1,7 @@
 ---
 title: "Memory Bandwidth Saturation vs Compute Bound Bottlenecks"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

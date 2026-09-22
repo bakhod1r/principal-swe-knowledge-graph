@@ -1,7 +1,7 @@
 ---
 title: "Object Memory Layout, Virtual Method Tables (vtables), and Dynamic Dispatch"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

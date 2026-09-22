@@ -1,7 +1,7 @@
 ---
 title: "DNS Resolvers (cgo vs netgo)"
 tags:
-  - review
+
   - golang
   - environment
   - principal-swe
@@ -102,15 +102,15 @@ No libc dependency is required for DNS resolution.
 This is particularly valuable for:
 
 - static binaries
-    
+
 - minimal containers
-    
+
 - scratch images
-    
+
 - cross-compilation
-    
+
 - predictable deployments
-    
+
 
 ---
 
@@ -265,17 +265,17 @@ The exact selection rules are more nuanced than this diagram.
 Factors can include:
 
 - platform
-    
+
 - whether cgo is available
-    
+
 - build tags
-    
+
 - resolver configuration
-    
+
 - environment
-    
+
 - system-specific requirements
-    
+
 
 Therefore, don't assume:
 
@@ -685,27 +685,27 @@ That's an engineering smell unless you've measured it.
 DNS performance depends on:
 
 - cache behavior
-    
+
 - resolver configuration
-    
+
 - DNS server latency
-    
+
 - network RTT
-    
+
 - number of queries
-    
+
 - search domains
-    
+
 - IPv4/IPv6 behavior
-    
+
 - libc implementation
-    
+
 - Go resolver implementation
-    
+
 - connection reuse
-    
+
 - application workload
-    
+
 
 The DNS network round trip often dominates the actual resolver implementation overhead.
 
@@ -862,19 +862,19 @@ If DNS infrastructure is compromised or misconfigured, the application can be di
 Important controls include:
 
 - trusted DNS infrastructure
-    
+
 - network policy
-    
+
 - DNSSEC where appropriate
-    
+
 - TLS certificate validation
-    
+
 - avoiding blind trust in resolved IPs
-    
+
 - preventing SSRF through DNS rebinding scenarios
-    
+
 - careful handling of internal/private DNS
-    
+
 
 Most importantly:
 
@@ -1083,15 +1083,15 @@ DNS infrastructure problem
 For a typical Go backend running in:
 
 - Kubernetes
-    
+
 - Docker
-    
+
 - cloud VMs
-    
+
 - Linux production
-    
+
 - minimal containers
-    
+
 
 I would generally start with:
 
@@ -1228,25 +1228,25 @@ Understanding those boundaries is the important part.
 ## Key Takeaways
 
 1. **`netgo` = Go's pure-Go DNS resolver.**
-    
+
 2. **`cgo` = delegation to the OS/libc name-service machinery.**
-    
+
 3. `CGO_ENABLED=1` does **not** mean every DNS lookup necessarily uses cgo.
-    
+
 4. `CGO_ENABLED=0` removes cgo, making the pure-Go path important.
-    
+
 5. `netgo` is attractive for **static binaries, containers, and cross-compilation**.
-    
+
 6. `cgo` is valuable when you need **OS-specific resolver/NSS integration**.
-    
+
 7. `/etc/resolv.conf` remains important for pure-Go DNS.
-    
+
 8. DNS failures are **production failure modes**, not merely configuration problems.
-    
+
 9. Don't choose based on assumed performance—**measure**.
-    
+
 10. The correct question is not _"Which resolver is better?"_ but:
-    
+
 
 > **"Do I need OS-specific name-service behavior, or do I value a self-contained and predictable Go runtime?"**
 

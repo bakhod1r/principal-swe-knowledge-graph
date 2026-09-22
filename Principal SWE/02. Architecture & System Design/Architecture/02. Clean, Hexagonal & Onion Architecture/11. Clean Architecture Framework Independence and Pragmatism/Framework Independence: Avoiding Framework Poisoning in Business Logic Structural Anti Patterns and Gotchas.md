@@ -1,7 +1,7 @@
 ---
 title: "Framework Independence: Avoiding Framework Poisoning in Business Logic Structural Anti Patterns and Gotchas"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - clean,-hexagonal-and-onion-architecture

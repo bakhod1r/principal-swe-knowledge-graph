@@ -1,7 +1,7 @@
 ---
 title: Branching Strategies & Merge Topologies
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -41,4 +41,3 @@ Branching Strategies & Merge Topologies
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

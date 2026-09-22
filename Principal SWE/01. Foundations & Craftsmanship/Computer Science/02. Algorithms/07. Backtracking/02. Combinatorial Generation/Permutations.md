@@ -1,7 +1,7 @@
 ---
 title: "Permutations"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

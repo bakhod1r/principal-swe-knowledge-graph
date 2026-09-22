@@ -1,7 +1,7 @@
 ---
 title: Phishing Resistant Multi Factor Authentication (mfa) and Fido2 Webauthn
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance
@@ -34,4 +34,3 @@ Phishing Resistant Multi Factor Authentication (mfa) and Fido2 Webauthn
 ## 🔗 References
 - ⬆️ Parent: [[Identity, Access Management & Zero Trust Governance]]
 - 📚 Module: `Cyber Security`
-

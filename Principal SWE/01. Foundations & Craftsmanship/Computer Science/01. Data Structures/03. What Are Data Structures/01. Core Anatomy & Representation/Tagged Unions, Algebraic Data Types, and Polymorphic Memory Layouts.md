@@ -1,7 +1,7 @@
 ---
 title: "Tagged Unions, Algebraic Data Types, and Polymorphic Memory Layouts"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Model Evaluation Metrics (accuracy, Precision, Recall, F1, Roc Auc, Perplexity)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ Model Evaluation Metrics (accuracy, Precision, Recall, F1, Roc Auc, Perplexity)
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

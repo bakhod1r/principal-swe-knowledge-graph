@@ -1,7 +1,7 @@
 ---
 title: "GraphQL Real Time Subscriptions: Websockets vs Server Sent Events (sse)"
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Real Time Subscriptions: Websockets vs Server Sent Events (sse)
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

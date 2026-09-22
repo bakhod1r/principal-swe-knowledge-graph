@@ -1,7 +1,7 @@
 ---
 title: Recurrence Relations, Master Theorem, and Akra Bazzi Method
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Recurrence Relations, Master Theorem, and Akra Bazzi Method
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

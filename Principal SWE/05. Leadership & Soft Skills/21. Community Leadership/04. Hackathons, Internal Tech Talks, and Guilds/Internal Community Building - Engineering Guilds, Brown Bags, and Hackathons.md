@@ -1,7 +1,7 @@
 ---
 title: "Internal Community Building: Engineering Guilds, Brown Bags, and Hackathons"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Internal Community Building: Engineering Guilds, Brown Bags, and Hackathons
 ## 🔗 References
 - ⬆️ Parent: `Developer Relations & Community Leadership`
 - 📚 Module: `Soft Skills`
-

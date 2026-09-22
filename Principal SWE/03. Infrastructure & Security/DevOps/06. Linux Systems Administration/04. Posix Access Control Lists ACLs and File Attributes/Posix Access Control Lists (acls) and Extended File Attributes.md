@@ -1,7 +1,7 @@
 ---
 title: Posix Access Control Lists (acls) and Extended File Attributes
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Posix Access Control Lists (acls) and Extended File Attributes
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

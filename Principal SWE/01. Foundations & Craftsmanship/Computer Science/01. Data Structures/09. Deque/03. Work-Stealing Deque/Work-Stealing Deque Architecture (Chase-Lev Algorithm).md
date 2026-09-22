@@ -1,7 +1,7 @@
 ---
 title: "Work-Stealing Deque Architecture (Chase-Lev Algorithm)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

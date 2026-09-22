@@ -1,7 +1,7 @@
 ---
 title: API Authentication and Identity Verification Best Practices
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices
@@ -34,4 +34,3 @@ API Authentication and Identity Verification Best Practices
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: `Best Practices`
-

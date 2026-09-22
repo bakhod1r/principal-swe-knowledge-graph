@@ -1,7 +1,7 @@
 ---
 title: "Aho Corasick Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

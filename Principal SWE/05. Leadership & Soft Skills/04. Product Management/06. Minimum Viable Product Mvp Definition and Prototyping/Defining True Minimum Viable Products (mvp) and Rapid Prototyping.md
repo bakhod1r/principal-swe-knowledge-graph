@@ -1,7 +1,7 @@
 ---
 title: Defining True Minimum Viable Products (mvp) and Rapid Prototyping
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Defining True Minimum Viable Products (mvp) and Rapid Prototyping
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "Inductive Invariants for Recursive Data Structures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

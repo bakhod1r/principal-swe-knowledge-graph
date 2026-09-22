@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Routing Protocols: BGP (border Gateway Protocol) and OSPF"
 tags:
-  - review
+
   - devops
   - network-engineering
   - protocols
@@ -34,4 +34,3 @@ Enterprise Routing Protocols: BGP (border Gateway Protocol) and OSPF
 ## 🔗 References
 - ⬆️ Parent: `Network Engineering & Enterprise Protocols`
 - 📚 Module: `DevOps`
-

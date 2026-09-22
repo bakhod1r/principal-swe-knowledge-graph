@@ -1,7 +1,7 @@
 ---
 title: Apprenticeship and Mentorship in Software Engineering
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Apprenticeship and Mentorship in Software Engineering
 ## 🔗 References
 - ⬆️ Parent: `Professionalism & Software Craftsmanship`
 - 📚 Module: `Soft Skills`
-

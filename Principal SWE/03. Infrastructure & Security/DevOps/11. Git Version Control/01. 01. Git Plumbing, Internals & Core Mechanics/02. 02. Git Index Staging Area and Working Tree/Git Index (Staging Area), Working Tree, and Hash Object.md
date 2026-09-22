@@ -1,7 +1,7 @@
 ---
 title: Git Index (Staging Area), Working Tree, and Hash Object
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Index (Staging Area), Working Tree, and Hash Object
 ## 🔗 References
 - ⬆️ Parent: [[Git Plumbing, Internals & Core Mechanics]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

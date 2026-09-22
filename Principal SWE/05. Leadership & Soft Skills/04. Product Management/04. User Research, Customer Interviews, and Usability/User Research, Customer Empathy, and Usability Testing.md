@@ -1,7 +1,7 @@
 ---
 title: User Research, Customer Empathy, and Usability Testing
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ User Research, Customer Empathy, and Usability Testing
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

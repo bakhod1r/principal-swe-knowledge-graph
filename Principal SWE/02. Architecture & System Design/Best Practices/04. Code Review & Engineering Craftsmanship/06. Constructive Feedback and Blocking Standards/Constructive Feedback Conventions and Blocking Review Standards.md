@@ -1,7 +1,7 @@
 ---
 title: Constructive Feedback Conventions and Blocking Review Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ Constructive Feedback Conventions and Blocking Review Standards
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

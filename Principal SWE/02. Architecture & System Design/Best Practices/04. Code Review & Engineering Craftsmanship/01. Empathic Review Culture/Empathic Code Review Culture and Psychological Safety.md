@@ -1,7 +1,7 @@
 ---
 title: Empathic Code Review Culture and Psychological Safety
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ Empathic Code Review Culture and Psychological Safety
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

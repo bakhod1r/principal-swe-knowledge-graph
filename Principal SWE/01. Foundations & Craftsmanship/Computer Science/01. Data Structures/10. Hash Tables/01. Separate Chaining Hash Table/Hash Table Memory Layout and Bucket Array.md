@@ -1,7 +1,7 @@
 ---
 title: "Hash Table Memory Layout and Bucket Array"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

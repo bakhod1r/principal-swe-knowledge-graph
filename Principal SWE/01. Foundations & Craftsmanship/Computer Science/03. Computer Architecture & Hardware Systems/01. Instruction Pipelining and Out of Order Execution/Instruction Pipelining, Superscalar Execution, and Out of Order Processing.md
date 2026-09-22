@@ -1,7 +1,7 @@
 ---
 title: Instruction Pipelining, Superscalar Execution, and Out of Order Processing
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ Instruction Pipelining, Superscalar Execution, and Out of Order Processing
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

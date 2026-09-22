@@ -1,7 +1,7 @@
 ---
 title: "Generic Zero Value Idioms"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

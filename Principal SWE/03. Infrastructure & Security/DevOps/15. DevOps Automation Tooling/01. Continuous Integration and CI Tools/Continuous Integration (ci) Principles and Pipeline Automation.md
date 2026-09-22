@@ -1,7 +1,7 @@
 ---
 title: Continuous Integration (ci) Principles and Pipeline Automation
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Continuous Integration (ci) Principles and Pipeline Automation
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

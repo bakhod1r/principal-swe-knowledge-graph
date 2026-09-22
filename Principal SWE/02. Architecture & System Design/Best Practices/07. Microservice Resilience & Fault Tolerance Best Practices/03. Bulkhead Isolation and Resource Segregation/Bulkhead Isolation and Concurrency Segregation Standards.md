@@ -1,7 +1,7 @@
 ---
 title: Bulkhead Isolation and Concurrency Segregation Standards
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - microservice-resilience-and-fault-tolerance-best-practices
@@ -34,4 +34,3 @@ Bulkhead Isolation and Concurrency Segregation Standards
 ## 🔗 References
 - ⬆️ Parent: [[Microservice Resilience & Fault Tolerance Best Practices]]
 - 📚 Module: `Best Practices`
-

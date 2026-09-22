@@ -1,7 +1,7 @@
 ---
 title: "Lakehouse and Table Formats Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

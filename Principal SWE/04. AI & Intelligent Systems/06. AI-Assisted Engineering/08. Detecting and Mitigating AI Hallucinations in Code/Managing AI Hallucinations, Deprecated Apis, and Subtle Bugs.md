@@ -1,7 +1,7 @@
 ---
 title: Managing AI Hallucinations, Deprecated Apis, and Subtle Bugs
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Managing AI Hallucinations, Deprecated Apis, and Subtle Bugs
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

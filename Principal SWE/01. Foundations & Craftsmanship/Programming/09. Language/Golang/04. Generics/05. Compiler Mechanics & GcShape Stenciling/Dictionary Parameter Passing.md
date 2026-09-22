@@ -1,7 +1,7 @@
 ---
 title: "Dictionary Parameter Passing"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

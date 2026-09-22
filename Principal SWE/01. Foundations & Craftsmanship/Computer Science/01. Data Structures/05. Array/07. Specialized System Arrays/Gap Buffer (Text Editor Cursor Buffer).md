@@ -1,7 +1,7 @@
 ---
 title: "Gap Buffer (Text Editor Cursor Buffer)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

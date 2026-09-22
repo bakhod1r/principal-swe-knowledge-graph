@@ -1,7 +1,7 @@
 ---
 title: "Total Cost of Ownership (tco) - Infrastructure, Maintenance, and Opportunity Cost Theoretical Foundations and Principles"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - executive-strategy

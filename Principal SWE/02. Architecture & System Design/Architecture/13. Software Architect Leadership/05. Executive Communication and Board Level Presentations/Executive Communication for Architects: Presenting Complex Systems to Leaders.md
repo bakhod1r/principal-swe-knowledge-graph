@@ -1,7 +1,7 @@
 ---
 title: "Executive Communication for Architects: Presenting Complex Systems to Leaders"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Executive Communication for Architects: Presenting Complex Systems to Leaders
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

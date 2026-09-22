@@ -1,7 +1,7 @@
 ---
 title: "Iteration, Call Stacks, and Activation Records"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

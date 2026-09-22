@@ -1,7 +1,7 @@
 ---
 title: "Moving Average from Data Stream using Queue"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

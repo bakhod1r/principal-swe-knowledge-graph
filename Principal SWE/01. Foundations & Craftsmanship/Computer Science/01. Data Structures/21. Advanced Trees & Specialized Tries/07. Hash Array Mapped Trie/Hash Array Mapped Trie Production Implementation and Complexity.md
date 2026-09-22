@@ -1,7 +1,7 @@
 ---
 title: "Hash Array Mapped Trie Production Implementation and Complexity"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

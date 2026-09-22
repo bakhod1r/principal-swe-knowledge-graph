@@ -1,7 +1,7 @@
 ---
 title: GraphQL Query Validation, AST Parsing, and Introspection Security
 tags:
-  - review
+
   - architecture
   - api-design
   - graphql
@@ -35,4 +35,3 @@ GraphQL Query Validation, AST Parsing, and Introspection Security
 ## 🔗 References
 - ⬆️ Parent: `GraphQL Architecture & Apollo Federation Ecosystem`
 - 📚 Module: `API Design & Gateway Architecture`
-

@@ -1,7 +1,7 @@
 ---
 title: TCP (Communication)
 tags:
-  - review
+
   - distributed-systems
   - principal-swe
 parent: "[[Communication]]"
@@ -31,4 +31,3 @@ TCP (Communication)
 
 ## 🔗 References
 - ⬆️ Parent: [[Communication]]
-

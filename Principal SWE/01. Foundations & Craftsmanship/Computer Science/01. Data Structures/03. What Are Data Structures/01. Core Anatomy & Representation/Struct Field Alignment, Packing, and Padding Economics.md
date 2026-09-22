@@ -1,7 +1,7 @@
 ---
 title: "Struct Field Alignment, Packing, and Padding Economics"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

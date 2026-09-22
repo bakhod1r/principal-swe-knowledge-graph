@@ -1,7 +1,7 @@
 ---
 title: "Bit Set Set, Clear, Test, and Toggle Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Stoer Wagner Global Min Cut Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

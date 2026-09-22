@@ -1,7 +1,7 @@
 ---
 title: "Tombstone Garbage Collection and Probing Chain Compaction"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

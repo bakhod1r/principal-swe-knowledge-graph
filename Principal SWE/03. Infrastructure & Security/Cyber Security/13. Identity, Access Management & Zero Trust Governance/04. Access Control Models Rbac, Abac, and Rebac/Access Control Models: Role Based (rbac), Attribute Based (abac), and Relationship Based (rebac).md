@@ -1,7 +1,7 @@
 ---
 title: "Access Control Models: Role Based (rbac), Attribute Based (abac), and Relationship Based (rebac)"
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - identity,-access-management-and-zero-trust-governance
@@ -34,4 +34,3 @@ Access Control Models: Role Based (rbac), Attribute Based (abac), and Relationsh
 ## 🔗 References
 - ⬆️ Parent: [[Identity, Access Management & Zero Trust Governance]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Intrusive Linked List Architecture (Linux Kernel list_head)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Automated Regression Hunting with Git Bisect and Test Scripts
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Automated Regression Hunting with Git Bisect and Test Scripts
 ## 🔗 References
 - ⬆️ Parent: [[Conflict Resolution & Interactive Debugging]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

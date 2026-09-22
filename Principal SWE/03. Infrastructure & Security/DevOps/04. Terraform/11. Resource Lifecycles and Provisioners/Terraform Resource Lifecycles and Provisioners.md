@@ -1,7 +1,7 @@
 ---
 title: Terraform Resource Lifecycles and Provisioners
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Terraform Resource Lifecycles and Provisioners
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: Fundamental Parallel Computing Primitives (reduce, Scan, Prefix Sum, Sort)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing
@@ -34,4 +34,3 @@ Fundamental Parallel Computing Primitives (reduce, Scan, Prefix Sum, Sort)
 ## 🔗 References
 - ⬆️ Parent: [[GPU Architecture & High Performance Parallel Computing]]
 - 📚 Module: `Computer Science`
-

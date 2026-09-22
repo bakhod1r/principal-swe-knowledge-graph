@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Branching Strategies: Trunk-Based Development vs GitFlow"
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Enterprise Branching Strategies: Trunk-Based Development vs GitFlow
 ## 🔗 References
 - ⬆️ Parent: [[Branching Strategies & Merge Topologies]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

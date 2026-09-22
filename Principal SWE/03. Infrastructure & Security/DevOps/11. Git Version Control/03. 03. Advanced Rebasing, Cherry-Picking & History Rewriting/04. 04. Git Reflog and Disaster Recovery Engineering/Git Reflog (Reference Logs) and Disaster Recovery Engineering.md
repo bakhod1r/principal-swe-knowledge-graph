@@ -1,7 +1,7 @@
 ---
 title: Git Reflog (Reference Logs) and Disaster Recovery Engineering
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Git Reflog (Reference Logs) and Disaster Recovery Engineering
 ## 🔗 References
 - ⬆️ Parent: [[Advanced Rebasing, Cherry-Picking & History Rewriting]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

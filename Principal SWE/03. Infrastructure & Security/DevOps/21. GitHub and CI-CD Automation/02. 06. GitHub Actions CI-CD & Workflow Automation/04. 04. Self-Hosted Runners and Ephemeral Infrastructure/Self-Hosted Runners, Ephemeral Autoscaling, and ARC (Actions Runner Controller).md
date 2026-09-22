@@ -1,7 +1,7 @@
 ---
 title: Self-Hosted Runners, Ephemeral Autoscaling, and ARC (Actions Runner Controller)
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ Self-Hosted Runners, Ephemeral Autoscaling, and ARC (Actions Runner Controller)
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions CI-CD & Workflow Automation]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

@@ -1,7 +1,7 @@
 ---
 title: "Array-Based Stack Cache Locality and Vectorization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

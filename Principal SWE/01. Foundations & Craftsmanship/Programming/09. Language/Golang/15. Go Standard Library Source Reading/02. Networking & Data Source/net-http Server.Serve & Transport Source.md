@@ -1,7 +1,7 @@
 ---
 title: "net-http Server.Serve & Transport Source"
 tags:
-  - review
+
   - golang
   - source-reading
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Chunked Block Array Deque Architecture (std::deque)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Futex & OS Mutex Implementation (lock_futex.go)"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

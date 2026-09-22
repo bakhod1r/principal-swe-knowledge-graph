@@ -1,7 +1,7 @@
 ---
 title: "Event Driven Architecture (eda): Publish Subscribe vs Event Streaming"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - classical-and-modern-architectural-styles
@@ -34,4 +34,3 @@ Event Driven Architecture (eda): Publish Subscribe vs Event Streaming
 ## 🔗 References
 - ⬆️ Parent: `Classical & Modern Architectural Styles`
 - 📚 Module: `Architecture`
-

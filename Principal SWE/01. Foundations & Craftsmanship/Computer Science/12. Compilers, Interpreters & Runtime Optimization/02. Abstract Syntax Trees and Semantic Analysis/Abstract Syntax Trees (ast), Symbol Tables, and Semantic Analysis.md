@@ -1,7 +1,7 @@
 ---
 title: Abstract Syntax Trees (ast), Symbol Tables, and Semantic Analysis
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Abstract Syntax Trees (ast), Symbol Tables, and Semantic Analysis
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

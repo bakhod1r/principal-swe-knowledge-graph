@@ -1,7 +1,7 @@
 ---
 title: "Backtracking Template"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

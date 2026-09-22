@@ -1,7 +1,7 @@
 ---
 title: "Josephus Problem Edge Cases and Optimization"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

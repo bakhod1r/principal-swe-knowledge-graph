@@ -1,7 +1,7 @@
 ---
 title: "Enterprise Dynamic Ontologies: Semantic Object Modeling (palantir Foundry Pattern)"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - forward-deployed-engineer
@@ -35,4 +35,3 @@ Enterprise Dynamic Ontologies: Semantic Object Modeling (palantir Foundry Patter
 ## 🔗 References
 - ⬆️ Parent: `Forward Deployed Engineering (FDE) & Customer Architecture`
 - 📚 Module: `Soft Skills`
-

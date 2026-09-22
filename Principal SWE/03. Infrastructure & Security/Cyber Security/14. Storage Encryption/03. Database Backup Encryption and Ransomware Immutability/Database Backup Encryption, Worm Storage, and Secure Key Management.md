@@ -1,7 +1,7 @@
 ---
 title: Database Backup Encryption, Worm Storage, and Secure Key Management
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Database Backup Encryption, Worm Storage, and Secure Key Management
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: "Static Array Delete at Index (Fixed Buffer Left Shift)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

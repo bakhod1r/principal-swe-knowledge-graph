@@ -1,7 +1,7 @@
 ---
 title: Finite Automata, Dfa, Nfa, and Regular Languages
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Finite Automata, Dfa, Nfa, and Regular Languages
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

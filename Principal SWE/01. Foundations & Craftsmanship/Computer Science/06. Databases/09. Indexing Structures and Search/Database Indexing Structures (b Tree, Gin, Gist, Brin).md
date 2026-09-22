@@ -1,7 +1,7 @@
 ---
 title: Database Indexing Structures (b Tree, Gin, Gist, Brin)
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Database Indexing Structures (b Tree, Gin, Gist, Brin)
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

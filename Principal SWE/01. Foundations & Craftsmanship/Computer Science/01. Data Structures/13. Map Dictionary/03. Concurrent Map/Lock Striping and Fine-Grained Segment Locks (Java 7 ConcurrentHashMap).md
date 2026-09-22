@@ -1,7 +1,7 @@
 ---
 title: "Lock Striping and Fine-Grained Segment Locks (Java 7 ConcurrentHashMap)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

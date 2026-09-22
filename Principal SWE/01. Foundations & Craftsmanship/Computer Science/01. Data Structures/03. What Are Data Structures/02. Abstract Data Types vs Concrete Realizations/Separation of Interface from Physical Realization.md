@@ -1,7 +1,7 @@
 ---
 title: "Separation of Interface from Physical Realization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

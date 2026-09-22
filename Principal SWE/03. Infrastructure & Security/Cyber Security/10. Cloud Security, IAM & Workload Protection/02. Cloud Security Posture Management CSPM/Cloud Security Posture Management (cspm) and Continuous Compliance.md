@@ -1,7 +1,7 @@
 ---
 title: Cloud Security Posture Management (cspm) and Continuous Compliance
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection
@@ -34,4 +34,3 @@ Cloud Security Posture Management (cspm) and Continuous Compliance
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Security, IAM & Workload Protection]]
 - 📚 Module: `Cyber Security`
-

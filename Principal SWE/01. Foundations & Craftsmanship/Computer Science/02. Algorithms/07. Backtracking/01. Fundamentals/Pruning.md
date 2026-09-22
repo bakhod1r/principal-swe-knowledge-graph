@@ -1,7 +1,7 @@
 ---
 title: "Pruning"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

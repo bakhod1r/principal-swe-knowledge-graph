@@ -1,7 +1,7 @@
 ---
 title: "API Integration Testing: Automated Contract and Schema Verification"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ API Integration Testing: Automated Contract and Schema Verification
 ## 🔗 References
 - ⬆️ Parent: `Quality Assurance & Testing Leadership`
 - 📚 Module: `Soft Skills`
-

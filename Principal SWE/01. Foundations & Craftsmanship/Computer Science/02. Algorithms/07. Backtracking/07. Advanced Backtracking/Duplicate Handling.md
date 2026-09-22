@@ -1,7 +1,7 @@
 ---
 title: "Duplicate Handling"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

@@ -1,7 +1,7 @@
 ---
 title: "High-Frequency Trading (HFT) Order Books and Zero-Allocation Ring Buffers"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

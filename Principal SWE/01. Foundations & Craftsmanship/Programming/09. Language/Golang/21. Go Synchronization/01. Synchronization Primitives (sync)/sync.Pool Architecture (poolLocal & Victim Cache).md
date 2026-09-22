@@ -1,7 +1,7 @@
 ---
 title: "sync.Pool Architecture (poolLocal & Victim Cache)"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

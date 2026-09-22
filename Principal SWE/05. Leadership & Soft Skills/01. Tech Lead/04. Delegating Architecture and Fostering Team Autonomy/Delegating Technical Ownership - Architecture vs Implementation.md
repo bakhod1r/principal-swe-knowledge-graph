@@ -1,7 +1,7 @@
 ---
 title: "Delegating Technical Ownership: Architecture vs Implementation"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Delegating Technical Ownership: Architecture vs Implementation
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: "CSP Concurrency Model in Go"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -32,17 +32,17 @@ Goroutine B ──┘
 Now you need synchronization:
 
 - mutexes
-    
+
 - atomics
-    
+
 - condition variables
-    
+
 - locks
-    
+
 - memory ordering
-    
+
 - race prevention
-    
+
 
 For example:
 
@@ -431,15 +431,15 @@ G2 ──┘
 You reason about:
 
 - mutual exclusion
-    
+
 - lock ownership
-    
+
 - races
-    
+
 - deadlocks
-    
+
 - memory visibility
-    
+
 
 ### CSP-style model
 
@@ -450,19 +450,19 @@ G1 ──> Channel ──> G2
 You reason about:
 
 - message flow
-    
+
 - ownership
-    
+
 - blocking
-    
+
 - ordering
-    
+
 - backpressure
-    
+
 - lifecycle
-    
+
 - cancellation
-    
+
 
 Neither model is universally superior.
 
@@ -567,13 +567,13 @@ Each job is received by one worker.
 This is useful for:
 
 - CPU-bound work
-    
+
 - I/O-bound work
-    
+
 - background processing
-    
+
 - bounded concurrency
-    
+
 
 ---
 
@@ -966,21 +966,21 @@ go worker()
 ask:
 
 1. What starts it?
-    
+
 2. What does it wait for?
-    
+
 3. What causes it to stop?
-    
+
 4. Who closes its input?
-    
+
 5. What happens on cancellation?
-    
+
 6. What happens if downstream disappears?
-    
+
 7. Can it block forever?
-    
+
 8. Who waits for it?
-    
+
 
 This mindset is much more important than simply knowing channel syntax.
 
@@ -1092,15 +1092,15 @@ Consumers become slower than producers.
 Too many:
 
 - goroutines
-    
+
 - channels
-    
+
 - queued messages
-    
+
 - buffers
-    
+
 - external requests
-    
+
 
 ### Poor architecture
 
@@ -1149,17 +1149,17 @@ Channels have costs.
 A communication operation may involve:
 
 - synchronization
-    
+
 - scheduler interaction
-    
+
 - goroutine parking/unparking
-    
+
 - memory operations
-    
+
 - contention
-    
+
 - copying values
-    
+
 
 Therefore:
 
@@ -1192,15 +1192,15 @@ Optimize
 Use:
 
 - `go test -bench`
-    
+
 - `pprof`
-    
+
 - race detector
-    
+
 - mutex/block profiles where appropriate
-    
+
 - production metrics
-    
+
 
 rather than assuming channels are fast or slow.
 
@@ -1404,15 +1404,15 @@ What happens at 10× throughput?
 Can we measure:
 
 - queue depth?
-    
+
 - processing latency?
-    
+
 - worker utilization?
-    
+
 - dropped jobs?
-    
+
 - failures?
-    
+
 
 This is the difference between **knowing CSP** and **engineering a reliable concurrent system**.
 
@@ -1467,29 +1467,29 @@ Does the data need to survive process failure?
 The most important things to internalize are:
 
 1. **CSP models concurrency as independent processes communicating through channels.**
-    
+
 2. **Goroutines provide the concurrent execution units.**
-    
+
 3. **Channels provide typed communication and synchronization.**
-    
+
 4. **Unbuffered channels provide rendezvous-style synchronization.**
-    
+
 5. **Buffered channels introduce bounded asynchronous buffering and backpressure.**
-    
+
 6. **Channels can represent ownership transfer, not just queues.**
-    
+
 7. **`select` multiplexes concurrent communication and cancellation.**
-    
+
 8. **Channel-based design does not eliminate shared memory or mutexes.**
-    
+
 9. **Every goroutine needs a well-defined lifetime.**
-    
+
 10. **Every buffer needs a reason and capacity rationale.**
-    
+
 11. **Channels are process-local; they are not durable distributed queues.**
-    
+
 12. **CSP is a design model, not a rule that "everything must use channels."**
-    
+
 
 The deepest Go concurrency principle is therefore not:
 

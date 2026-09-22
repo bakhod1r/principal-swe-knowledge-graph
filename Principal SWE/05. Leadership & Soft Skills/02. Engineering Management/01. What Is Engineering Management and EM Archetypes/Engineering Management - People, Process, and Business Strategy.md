@@ -1,7 +1,7 @@
 ---
 title: "Engineering Management: People, Process, and Business Strategy"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Engineering Management: People, Process, and Business Strategy
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

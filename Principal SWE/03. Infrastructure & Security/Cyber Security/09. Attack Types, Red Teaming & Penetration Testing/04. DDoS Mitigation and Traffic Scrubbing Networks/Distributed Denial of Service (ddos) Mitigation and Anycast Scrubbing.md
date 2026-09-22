@@ -1,7 +1,7 @@
 ---
 title: Distributed Denial of Service (ddos) Mitigation and Anycast Scrubbing
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - attack-types,-red-teaming-and-penetration-testing
@@ -34,4 +34,3 @@ Distributed Denial of Service (ddos) Mitigation and Anycast Scrubbing
 ## 🔗 References
 - ⬆️ Parent: [[Attack Types, Red Teaming & Penetration Testing]]
 - 📚 Module: `Cyber Security`
-

@@ -1,7 +1,7 @@
 ---
 title: GitHub Environments, Secrets Scoping, and Deployment Protection Rules
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Environments, Secrets Scoping, and Deployment Protection Rules
 ## 🔗 References
 - ⬆️ Parent: [[GitHub Actions CI-CD & Workflow Automation]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

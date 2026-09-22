@@ -1,7 +1,7 @@
 ---
 title: Cross Site Scripting (xss) Prevention (stored, Reflected, Dom Based)
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - owasp-top-10-and-web-application-hardening
@@ -34,4 +34,3 @@ Cross Site Scripting (xss) Prevention (stored, Reflected, Dom Based)
 ## 🔗 References
 - ⬆️ Parent: [[OWASP Top 10 & Web Application Hardening]]
 - 📚 Module: `Cyber Security`
-

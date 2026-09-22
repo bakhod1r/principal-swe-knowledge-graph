@@ -1,7 +1,7 @@
 ---
 title: "Negotiating Technical Debt with Product: Financial Roi and Risk Models"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Negotiating Technical Debt with Product: Financial Roi and Risk Models
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

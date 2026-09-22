@@ -1,7 +1,7 @@
 ---
 title: "In-Order Iterator Traversal and Symmetric Differences in Tree Sets"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Union Filesystems, Copy on Write (cow), and Overlayfs Internals
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Union Filesystems, Copy on Write (cow), and Overlayfs Internals
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "sync.Once & Fast-Path Double-Checked Locking"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

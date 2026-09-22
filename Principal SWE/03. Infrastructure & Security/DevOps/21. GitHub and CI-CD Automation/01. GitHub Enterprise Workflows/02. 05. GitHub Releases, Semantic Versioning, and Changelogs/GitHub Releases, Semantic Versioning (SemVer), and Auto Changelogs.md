@@ -1,7 +1,7 @@
 ---
 title: GitHub Releases, Semantic Versioning (SemVer), and Auto Changelogs
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Releases, Semantic Versioning (SemVer), and Auto Changelogs
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

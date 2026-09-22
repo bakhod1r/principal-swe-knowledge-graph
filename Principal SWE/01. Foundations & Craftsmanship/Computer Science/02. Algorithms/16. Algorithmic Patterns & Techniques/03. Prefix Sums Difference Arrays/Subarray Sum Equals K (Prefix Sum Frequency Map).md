@@ -1,7 +1,7 @@
 ---
 title: "Subarray Sum Equals K (Prefix Sum Frequency Map)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

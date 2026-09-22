@@ -1,7 +1,7 @@
 ---
 title: SIMD Parallelism, Avx 512, and Hardware Vectorization
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ SIMD Parallelism, Avx 512, and Hardware Vectorization
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

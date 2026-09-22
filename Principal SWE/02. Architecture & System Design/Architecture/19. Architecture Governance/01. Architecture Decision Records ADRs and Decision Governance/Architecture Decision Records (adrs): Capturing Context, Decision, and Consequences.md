@@ -1,7 +1,7 @@
 ---
 title: "Architecture Decision Records (adrs): Capturing Context, Decision, and Consequences"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - software-architect-leadership-and-governance
@@ -34,4 +34,3 @@ Architecture Decision Records (adrs): Capturing Context, Decision, and Consequen
 ## 🔗 References
 - ⬆️ Parent: `Software Architect Leadership & Governance`
 - 📚 Module: `Architecture`
-

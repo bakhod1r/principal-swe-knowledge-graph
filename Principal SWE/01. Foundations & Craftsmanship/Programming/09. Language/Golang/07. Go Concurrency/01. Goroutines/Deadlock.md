@@ -1,7 +1,7 @@
 ---
 title: "Deadlock"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe
@@ -820,25 +820,25 @@ Inspect the **system's dependency graph and ownership model**.
 ## Key Takeaways
 
 1. **Blocked ≠ deadlocked.**
-    
+
 2. Deadlock means **no possible progress** under the current state.
-    
+
 3. Look for **circular dependencies**.
-    
+
 4. Also look for **missing producers/events**.
-    
+
 5. `Mutex`, `Channel`, `WaitGroup`, `select`, and resource pools can all participate.
-    
+
 6. Buffered channels reduce some blocking but **do not guarantee deadlock freedom**.
-    
+
 7. Establish **lock ordering**.
-    
+
 8. Make goroutine/channel ownership explicit.
-    
+
 9. Use goroutine dumps and synchronization states as evidence.
-    
+
 10. Fix the **dependency/lifecycle design**, not merely the symptom.
-    
+
 
 A useful Principal Engineer question is:
 

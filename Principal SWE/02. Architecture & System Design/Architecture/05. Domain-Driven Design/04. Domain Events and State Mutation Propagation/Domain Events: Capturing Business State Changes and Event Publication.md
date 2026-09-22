@@ -1,7 +1,7 @@
 ---
 title: "Domain Events: Capturing Business State Changes and Event Publication"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Domain Events: Capturing Business State Changes and Event Publication
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

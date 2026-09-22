@@ -1,7 +1,7 @@
 ---
 title: "High Impact Agile Rituals: Asynchronous Standups, Blameless Retros, and Demos"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ High Impact Agile Rituals: Asynchronous Standups, Blameless Retros, and Demos
 ## 🔗 References
 - ⬆️ Parent: `Tech Lead & Engineering Team Leadership`
 - 📚 Module: `Soft Skills`
-

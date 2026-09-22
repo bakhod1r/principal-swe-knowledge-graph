@@ -1,7 +1,7 @@
 ---
 title: "Memory Leaks, Dangling Pointers, and Use-After-Free Vulnerabilities"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

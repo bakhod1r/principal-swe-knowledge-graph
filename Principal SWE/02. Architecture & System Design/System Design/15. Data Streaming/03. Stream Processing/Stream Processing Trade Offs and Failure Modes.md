@@ -1,7 +1,7 @@
 ---
 title: "Stream Processing Trade Offs and Failure Modes"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

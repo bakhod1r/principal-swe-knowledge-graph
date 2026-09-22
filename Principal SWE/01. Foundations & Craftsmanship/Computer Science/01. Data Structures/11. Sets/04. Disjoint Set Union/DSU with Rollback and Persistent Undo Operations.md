@@ -1,7 +1,7 @@
 ---
 title: "DSU with Rollback and Persistent Undo Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

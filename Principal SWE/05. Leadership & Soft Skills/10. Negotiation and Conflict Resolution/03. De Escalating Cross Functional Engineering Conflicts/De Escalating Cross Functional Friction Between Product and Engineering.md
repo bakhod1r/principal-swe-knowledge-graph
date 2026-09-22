@@ -1,7 +1,7 @@
 ---
 title: De Escalating Cross Functional Friction Between Product and Engineering
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ De Escalating Cross Functional Friction Between Product and Engineering
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Agent Error Recovery, Infinite Loop Detection, and Self Healing
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Agent Error Recovery, Infinite Loop Detection, and Self Healing
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

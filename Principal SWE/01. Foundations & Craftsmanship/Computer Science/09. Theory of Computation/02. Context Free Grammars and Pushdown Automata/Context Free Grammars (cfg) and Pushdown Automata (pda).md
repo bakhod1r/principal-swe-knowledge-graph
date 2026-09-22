@@ -1,7 +1,7 @@
 ---
 title: Context Free Grammars (cfg) and Pushdown Automata (pda)
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Context Free Grammars (cfg) and Pushdown Automata (pda)
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

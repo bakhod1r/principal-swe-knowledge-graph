@@ -1,7 +1,7 @@
 ---
 title: "Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - devsecops-and-cloud-native-security-automation
@@ -34,4 +34,3 @@ Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno
 ## 🔗 References
 - ⬆️ Parent: `Devsecops & Cloud Native Security Automation`
 - 📚 Module: `DevOps`
-

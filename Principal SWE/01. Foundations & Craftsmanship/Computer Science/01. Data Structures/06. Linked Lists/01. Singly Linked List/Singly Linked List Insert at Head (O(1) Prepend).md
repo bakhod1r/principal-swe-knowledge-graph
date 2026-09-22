@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Insert at Head (O(1) Prepend)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

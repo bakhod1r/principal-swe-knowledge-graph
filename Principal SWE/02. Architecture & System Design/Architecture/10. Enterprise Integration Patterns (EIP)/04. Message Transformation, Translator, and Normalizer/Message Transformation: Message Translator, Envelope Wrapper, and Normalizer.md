@@ -1,7 +1,7 @@
 ---
 title: "Message Transformation: Message Translator, Envelope Wrapper, and Normalizer"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - enterprise-integration-patterns-(eip)
@@ -34,4 +34,3 @@ Message Transformation: Message Translator, Envelope Wrapper, and Normalizer
 ## 🔗 References
 - ⬆️ Parent: [[Enterprise Integration Patterns (eip)]]
 - 📚 Module: `Architecture`
-

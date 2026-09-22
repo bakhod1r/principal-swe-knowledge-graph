@@ -1,7 +1,7 @@
 ---
 title: Cloud IAM Security, Role Based Access, and Ephemeral Privilege Escalation
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - cloud-security,-iam-and-workload-protection
@@ -34,4 +34,3 @@ Cloud IAM Security, Role Based Access, and Ephemeral Privilege Escalation
 ## 🔗 References
 - ⬆️ Parent: [[Cloud Security, IAM & Workload Protection]]
 - 📚 Module: `Cyber Security`
-

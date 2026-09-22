@@ -1,7 +1,7 @@
 ---
 title: Why Are Data Structures Important
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

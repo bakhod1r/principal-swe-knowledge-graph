@@ -1,7 +1,7 @@
 ---
 title: "Linux Namespaces & Containerization from Scratch"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

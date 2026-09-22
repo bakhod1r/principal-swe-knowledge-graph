@@ -1,7 +1,7 @@
 ---
 title: "Heavy Light Decomposition Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

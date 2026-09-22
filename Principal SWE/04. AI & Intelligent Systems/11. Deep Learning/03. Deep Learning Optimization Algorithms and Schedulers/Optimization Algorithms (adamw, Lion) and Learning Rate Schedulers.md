@@ -1,7 +1,7 @@
 ---
 title: Optimization Algorithms (adamw, Lion) and Learning Rate Schedulers
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ Optimization Algorithms (adamw, Lion) and Learning Rate Schedulers
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

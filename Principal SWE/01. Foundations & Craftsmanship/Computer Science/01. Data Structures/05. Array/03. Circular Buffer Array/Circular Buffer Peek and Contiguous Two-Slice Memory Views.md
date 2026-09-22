@@ -1,7 +1,7 @@
 ---
 title: "Circular Buffer Peek and Contiguous Two-Slice Memory Views"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

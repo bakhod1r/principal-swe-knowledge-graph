@@ -1,7 +1,7 @@
 ---
 title: Randomized (bpp, Rp), Interactive Proofs (ip=pspace), and Quantum (bqp) Complexity
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - theory-of-computation-and-complexity-theory
@@ -34,4 +34,3 @@ Randomized (bpp, Rp), Interactive Proofs (ip=pspace), and Quantum (bqp) Complexi
 ## 🔗 References
 - ⬆️ Parent: `Theory of Computation & Complexity Theory`
 - 📚 Module: `Computer Science`
-

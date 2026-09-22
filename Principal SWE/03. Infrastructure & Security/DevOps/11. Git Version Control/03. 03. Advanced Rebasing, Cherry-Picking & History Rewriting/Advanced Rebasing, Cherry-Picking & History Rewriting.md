@@ -1,7 +1,7 @@
 ---
 title: Advanced Rebasing, Cherry-Picking & History Rewriting
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -41,4 +41,3 @@ Advanced Rebasing, Cherry-Picking & History Rewriting
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

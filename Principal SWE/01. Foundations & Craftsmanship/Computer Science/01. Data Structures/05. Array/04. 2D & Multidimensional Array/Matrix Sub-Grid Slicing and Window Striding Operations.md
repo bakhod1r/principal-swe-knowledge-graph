@@ -1,7 +1,7 @@
 ---
 title: "Matrix Sub-Grid Slicing and Window Striding Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

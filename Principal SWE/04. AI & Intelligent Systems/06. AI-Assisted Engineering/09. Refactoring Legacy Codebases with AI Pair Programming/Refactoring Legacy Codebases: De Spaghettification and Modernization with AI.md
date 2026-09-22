@@ -1,7 +1,7 @@
 ---
 title: "Refactoring Legacy Codebases: De Spaghettification and Modernization with AI"
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-assisted-engineering,-cursor,-copilot-and-vibe-coding
@@ -34,4 +34,3 @@ Refactoring Legacy Codebases: De Spaghettification and Modernization with AI
 ## 🔗 References
 - ⬆️ Parent: `AI Assisted Engineering, Cursor, Copilot & Vibe Coding`
 - 📚 Module: `AI & Machine Learning`
-

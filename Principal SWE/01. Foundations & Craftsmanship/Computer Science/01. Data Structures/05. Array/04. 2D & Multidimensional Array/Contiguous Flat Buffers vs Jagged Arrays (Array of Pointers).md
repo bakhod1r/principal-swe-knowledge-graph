@@ -1,7 +1,7 @@
 ---
 title: "Contiguous Flat Buffers vs Jagged Arrays (Array of Pointers)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

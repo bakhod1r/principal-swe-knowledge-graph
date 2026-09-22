@@ -1,7 +1,7 @@
 ---
 title: "WebAssembly Compilation Architecture (GOOS=js GOARCH=wasm)"
 tags:
-  - review
+
   - golang
   - wasm
   - principal-swe

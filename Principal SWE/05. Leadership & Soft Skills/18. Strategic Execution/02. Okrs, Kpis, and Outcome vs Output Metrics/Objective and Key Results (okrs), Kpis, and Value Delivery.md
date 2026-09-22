@@ -1,7 +1,7 @@
 ---
 title: Objective and Key Results (okrs), Kpis, and Value Delivery
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Objective and Key Results (okrs), Kpis, and Value Delivery
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

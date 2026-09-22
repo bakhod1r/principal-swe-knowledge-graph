@@ -1,7 +1,7 @@
 ---
 title: GitHub Pull Request Templates, Issue Forms, and Triage Workflows
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -35,4 +35,3 @@ GitHub Pull Request Templates, Issue Forms, and Triage Workflows
 ## 🔗 References
 - ⬆️ Parent: `GitHub Enterprise Workflows & PR Engineering`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`
-

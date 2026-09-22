@@ -1,7 +1,7 @@
 ---
 title: "Tail Latency Amplification in Distributed Microservices"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

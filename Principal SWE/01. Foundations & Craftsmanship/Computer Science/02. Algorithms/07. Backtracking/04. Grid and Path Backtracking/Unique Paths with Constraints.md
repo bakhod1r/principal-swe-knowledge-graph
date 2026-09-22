@@ -1,7 +1,7 @@
 ---
 title: "Unique Paths with Constraints"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

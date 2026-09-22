@@ -1,7 +1,7 @@
 ---
 title: "Per-P Trace Buffers & Event Flushing Mechanics"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

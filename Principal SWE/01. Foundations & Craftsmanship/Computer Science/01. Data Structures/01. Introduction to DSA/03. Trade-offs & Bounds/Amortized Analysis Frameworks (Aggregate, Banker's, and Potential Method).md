@@ -1,7 +1,7 @@
 ---
 title: "Amortized Analysis Frameworks (Aggregate, Banker's, and Potential Method)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

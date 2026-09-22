@@ -1,7 +1,7 @@
 ---
 title: Container Orchestration Paradigms and Cluster Scheduling
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Container Orchestration Paradigms and Cluster Scheduling
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

@@ -1,7 +1,7 @@
 ---
 title: "Sliding Window Distinct Elements Count in Size K"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

@@ -1,7 +1,7 @@
 ---
 title: "Paths Fixed Length Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

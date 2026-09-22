@@ -1,7 +1,7 @@
 ---
 title: "Interface vs Generic Decision Tree"
 tags:
-  - review
+
   - golang
   - generics
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Production LLM Guardrails, Input Output Filtering, and Llama Guard
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - high-performance-inference-and-llmops-infrastructure
@@ -34,4 +34,3 @@ Production LLM Guardrails, Input Output Filtering, and Llama Guard
 ## 🔗 References
 - ⬆️ Parent: `High Performance Inference & Llmops Infrastructure`
 - 📚 Module: `AI & Machine Learning`
-

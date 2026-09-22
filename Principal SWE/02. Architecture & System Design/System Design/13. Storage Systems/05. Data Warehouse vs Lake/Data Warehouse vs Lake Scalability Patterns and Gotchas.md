@@ -1,7 +1,7 @@
 ---
 title: "Data Warehouse vs Lake Scalability Patterns and Gotchas"
 tags:
-  - review
+
   - system-design
   - architecture
   - distributed-systems

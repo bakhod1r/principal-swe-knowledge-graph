@@ -1,7 +1,7 @@
 ---
 title: "Data Structure Evolution and Zero-Downtime Migration Patterns"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

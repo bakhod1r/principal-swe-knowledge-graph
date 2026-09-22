@@ -1,7 +1,7 @@
 ---
 title: "Performance Management: Review Cycles, Talent Calibrations, and PIPs"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -18,22 +18,21 @@ Writing objective performance reviews, conducting cross-team calibration meeting
 ```text
 Performance Management: Review Cycles, Talent Calibrations, and PIPs
 │
-├── [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Theoretical Foundations and Principles]]
-├── [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns]]
-└── [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas]]
+├── [[Performance Management  Cycles, Talent Calibrations, and PIPs Theoretical Foundations and Principles]]
+├── [[Performance Management  Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns]]
+└── [[Performance Management  Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas]]
 ```
 
 ---
 
 ## 🗂️ Leadership Playbooks & Patterns
 
-- [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Theoretical Foundations and Principles]]
-- [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns]]
-- [[Performance Management - Review Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas]]
+- [[Performance Management  Cycles, Talent Calibrations, and PIPs Theoretical Foundations and Principles]]
+- [[Performance Management  Cycles, Talent Calibrations, and PIPs Leadership Playbooks and Execution Patterns]]
+- [[Performance Management  Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas]]
 
 ---
 
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

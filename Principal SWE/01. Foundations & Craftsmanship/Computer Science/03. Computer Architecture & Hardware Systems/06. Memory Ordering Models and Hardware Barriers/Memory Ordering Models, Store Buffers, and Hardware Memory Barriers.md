@@ -1,7 +1,7 @@
 ---
 title: Memory Ordering Models, Store Buffers, and Hardware Memory Barriers
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - computer-architecture-and-hardware-systems
@@ -34,4 +34,3 @@ Memory Ordering Models, Store Buffers, and Hardware Memory Barriers
 ## 🔗 References
 - ⬆️ Parent: [[Computer Architecture & Hardware Systems]]
 - 📚 Module: `Computer Science`
-

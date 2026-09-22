@@ -1,7 +1,7 @@
 ---
 title: "go list Package Queries"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Code Readability, Self Documenting Naming, and Intent Revealing Comments
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - clean-code-and-refactoring-patterns
@@ -34,4 +34,3 @@ Code Readability, Self Documenting Naming, and Intent Revealing Comments
 ## 🔗 References
 - ⬆️ Parent: `Clean Code & Refactoring Patterns`
 - 📚 Module: `Best Practices`
-

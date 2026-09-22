@@ -1,7 +1,7 @@
 ---
 title: "Lock-Free Ring Buffer"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

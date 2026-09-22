@@ -1,7 +1,7 @@
 ---
 title: Boolean Algebra, Karnaugh Maps, and Logic Circuit Minimization
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - discrete-mathematics-and-formal-logic
@@ -34,4 +34,3 @@ Boolean Algebra, Karnaugh Maps, and Logic Circuit Minimization
 ## 🔗 References
 - ⬆️ Parent: `Discrete Mathematics & Formal Logic`
 - 📚 Module: `Computer Science`
-

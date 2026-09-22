@@ -1,7 +1,7 @@
 ---
 title: Agent Observability, Execution Tracing (langfuse, Arize Phoenix), and Evals
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Agent Observability, Execution Tracing (langfuse, Arize Phoenix), and Evals
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

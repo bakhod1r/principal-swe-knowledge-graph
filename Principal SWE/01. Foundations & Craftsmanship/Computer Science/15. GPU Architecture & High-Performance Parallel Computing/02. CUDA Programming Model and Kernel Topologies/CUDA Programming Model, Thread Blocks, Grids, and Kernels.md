@@ -1,7 +1,7 @@
 ---
 title: CUDA Programming Model, Thread Blocks, Grids, and Kernels
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - gpu-architecture-and-high-performance-parallel-computing
@@ -34,4 +34,3 @@ CUDA Programming Model, Thread Blocks, Grids, and Kernels
 ## 🔗 References
 - ⬆️ Parent: [[GPU Architecture & High Performance Parallel Computing]]
 - 📚 Module: `Computer Science`
-

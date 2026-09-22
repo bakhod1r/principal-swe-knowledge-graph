@@ -1,7 +1,7 @@
 ---
 title: API Input Validation, Deserialization, and Sanitization
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - api-security-best-practices
@@ -34,4 +34,3 @@ API Input Validation, Deserialization, and Sanitization
 ## 🔗 References
 - ⬆️ Parent: [[API Security Best Practices]]
 - 📚 Module: `Best Practices`
-

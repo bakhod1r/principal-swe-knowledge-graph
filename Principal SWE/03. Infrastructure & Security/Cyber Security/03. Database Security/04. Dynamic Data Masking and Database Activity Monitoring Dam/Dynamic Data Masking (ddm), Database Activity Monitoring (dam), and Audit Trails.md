@@ -1,7 +1,7 @@
 ---
 title: Dynamic Data Masking (ddm), Database Activity Monitoring (dam), and Audit Trails
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Dynamic Data Masking (ddm), Database Activity Monitoring (dam), and Audit Trails
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

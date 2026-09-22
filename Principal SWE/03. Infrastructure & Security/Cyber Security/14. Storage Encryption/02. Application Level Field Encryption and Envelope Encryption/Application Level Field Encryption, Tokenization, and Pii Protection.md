@@ -1,7 +1,7 @@
 ---
 title: Application Level Field Encryption, Tokenization, and Pii Protection
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Application Level Field Encryption, Tokenization, and Pii Protection
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

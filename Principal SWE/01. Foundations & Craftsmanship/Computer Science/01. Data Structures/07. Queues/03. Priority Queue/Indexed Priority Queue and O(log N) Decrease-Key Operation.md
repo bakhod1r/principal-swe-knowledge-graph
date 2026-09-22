@@ -1,7 +1,7 @@
 ---
 title: "Indexed Priority Queue and O(log N) Decrease-Key Operation"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

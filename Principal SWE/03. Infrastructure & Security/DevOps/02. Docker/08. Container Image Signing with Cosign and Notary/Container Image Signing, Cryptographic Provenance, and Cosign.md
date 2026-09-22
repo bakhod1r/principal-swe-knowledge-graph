@@ -1,7 +1,7 @@
 ---
 title: Container Image Signing, Cryptographic Provenance, and Cosign
 tags:
-  - review
+
   - devops
   - platform-engineering
   - docker-and-container-runtime-internals
@@ -34,4 +34,3 @@ Container Image Signing, Cryptographic Provenance, and Cosign
 ## 🔗 References
 - ⬆️ Parent: `Docker & Container Runtime Internals`
 - 📚 Module: `DevOps`
-

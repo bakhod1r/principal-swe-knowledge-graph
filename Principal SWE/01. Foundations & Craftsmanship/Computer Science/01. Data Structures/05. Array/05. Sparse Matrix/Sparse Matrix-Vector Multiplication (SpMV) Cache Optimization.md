@@ -1,7 +1,7 @@
 ---
 title: "Sparse Matrix-Vector Multiplication (SpMV) Cache Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

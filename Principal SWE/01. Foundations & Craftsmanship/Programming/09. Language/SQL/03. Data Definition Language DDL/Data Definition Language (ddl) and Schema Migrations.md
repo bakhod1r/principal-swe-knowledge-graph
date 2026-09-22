@@ -1,7 +1,7 @@
 ---
 title: Data Definition Language (ddl) and Schema Migrations
 tags:
-  - review
+
   - programming
   - sql
   - principal-swe
@@ -33,4 +33,3 @@ Data Definition Language (ddl) and Schema Migrations
 ## 🔗 References
 - ⬆️ Parent: [[SQL]]
 - 📚 Module: `Language`
-

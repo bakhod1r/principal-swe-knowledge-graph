@@ -1,7 +1,7 @@
 ---
 title: "Bounded Blocking Queue (Condition Variables and Mutex Striping)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

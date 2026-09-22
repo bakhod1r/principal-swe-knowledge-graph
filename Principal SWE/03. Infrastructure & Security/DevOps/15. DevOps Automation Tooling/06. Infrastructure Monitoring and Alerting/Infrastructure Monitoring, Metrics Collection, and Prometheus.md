@@ -1,7 +1,7 @@
 ---
 title: Infrastructure Monitoring, Metrics Collection, and Prometheus
 tags:
-  - review
+
   - devops
   - platform-engineering
   - core-devops-principles-and-automation-tooling
@@ -34,4 +34,3 @@ Infrastructure Monitoring, Metrics Collection, and Prometheus
 ## 🔗 References
 - ⬆️ Parent: `Core Devops Principles & Automation Tooling`
 - 📚 Module: `DevOps`
-

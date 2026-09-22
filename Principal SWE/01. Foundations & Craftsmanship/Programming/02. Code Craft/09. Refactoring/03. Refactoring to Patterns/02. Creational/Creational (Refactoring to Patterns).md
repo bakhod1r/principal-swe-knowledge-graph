@@ -1,7 +1,7 @@
 ---
 title: Creational (Refactoring to Patterns)
 tags:
-  - review
+
   - programming
   - code-craft
   - principal-swe
@@ -28,4 +28,3 @@ Creational (Refactoring to Patterns)
 
 ## 🔗 References
 - ⬆️ Parent: [[Refactoring to Patterns]]
-

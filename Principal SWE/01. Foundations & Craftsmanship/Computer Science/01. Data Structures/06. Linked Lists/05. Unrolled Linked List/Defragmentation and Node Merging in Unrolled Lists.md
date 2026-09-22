@@ -1,7 +1,7 @@
 ---
 title: "Defragmentation and Node Merging in Unrolled Lists"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

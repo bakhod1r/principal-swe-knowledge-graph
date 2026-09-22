@@ -1,7 +1,7 @@
 ---
 title: "Bounding Functions"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

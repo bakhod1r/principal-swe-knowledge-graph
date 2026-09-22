@@ -1,7 +1,7 @@
 ---
 title: "Binary Size Optimization Matrix & DWARF Stripping"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

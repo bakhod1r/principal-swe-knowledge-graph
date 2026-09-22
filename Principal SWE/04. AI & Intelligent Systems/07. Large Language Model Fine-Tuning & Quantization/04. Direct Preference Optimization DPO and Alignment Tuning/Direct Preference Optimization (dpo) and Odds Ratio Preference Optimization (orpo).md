@@ -1,7 +1,7 @@
 ---
 title: Direct Preference Optimization (dpo) and Odds Ratio Preference Optimization (orpo)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - large-language-model-fine-tuning-and-quantization
@@ -34,4 +34,3 @@ Direct Preference Optimization (dpo) and Odds Ratio Preference Optimization (orp
 ## 🔗 References
 - ⬆️ Parent: [[Large Language Model Fine Tuning & Quantization]]
 - 📚 Module: `AI & Machine Learning`
-

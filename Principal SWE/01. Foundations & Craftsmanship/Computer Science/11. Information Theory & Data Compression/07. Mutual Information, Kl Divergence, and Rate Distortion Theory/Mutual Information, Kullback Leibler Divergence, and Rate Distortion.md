@@ -1,7 +1,7 @@
 ---
 title: Mutual Information, Kullback Leibler Divergence, and Rate Distortion
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - information-theory-and-data-compression
@@ -34,4 +34,3 @@ Mutual Information, Kullback Leibler Divergence, and Rate Distortion
 ## 🔗 References
 - ⬆️ Parent: [[Information Theory & Data Compression]]
 - 📚 Module: `Computer Science`
-

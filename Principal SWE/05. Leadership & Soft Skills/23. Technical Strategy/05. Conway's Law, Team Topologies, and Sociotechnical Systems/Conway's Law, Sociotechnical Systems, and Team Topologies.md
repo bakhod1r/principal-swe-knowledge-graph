@@ -1,7 +1,7 @@
 ---
 title: Conway's Law, Sociotechnical Systems, and Team Topologies
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Conway's Law, Sociotechnical Systems, and Team Topologies
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

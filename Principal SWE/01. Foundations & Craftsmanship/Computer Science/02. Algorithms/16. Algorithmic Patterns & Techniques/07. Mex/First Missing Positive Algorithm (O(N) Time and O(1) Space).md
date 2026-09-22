@@ -1,7 +1,7 @@
 ---
 title: "First Missing Positive Algorithm (O(N) Time and O(1) Space)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

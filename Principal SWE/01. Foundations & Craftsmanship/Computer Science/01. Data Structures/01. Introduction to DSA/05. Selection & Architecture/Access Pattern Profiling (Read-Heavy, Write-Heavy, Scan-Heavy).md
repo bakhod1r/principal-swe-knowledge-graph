@@ -1,7 +1,7 @@
 ---
 title: "Access Pattern Profiling (Read-Heavy, Write-Heavy, Scan-Heavy)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

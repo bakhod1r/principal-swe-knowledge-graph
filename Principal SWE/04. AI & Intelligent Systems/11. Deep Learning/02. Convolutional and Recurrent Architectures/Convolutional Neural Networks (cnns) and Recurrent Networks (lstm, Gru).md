@@ -1,7 +1,7 @@
 ---
 title: Convolutional Neural Networks (cnns) and Recurrent Networks (lstm, Gru)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ Convolutional Neural Networks (cnns) and Recurrent Networks (lstm, Gru)
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Deterministic vs Probabilistic Data Structures"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

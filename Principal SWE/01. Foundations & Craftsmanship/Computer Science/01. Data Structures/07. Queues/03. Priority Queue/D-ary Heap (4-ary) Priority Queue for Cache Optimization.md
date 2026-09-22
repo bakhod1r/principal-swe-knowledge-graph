@@ -1,7 +1,7 @@
 ---
 title: "D-ary Heap (4-ary) Priority Queue for Cache Optimization"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

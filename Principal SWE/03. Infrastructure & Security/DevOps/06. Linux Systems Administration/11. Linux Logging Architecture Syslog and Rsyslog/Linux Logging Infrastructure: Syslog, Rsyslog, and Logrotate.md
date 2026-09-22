@@ -1,7 +1,7 @@
 ---
 title: "Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate"
 tags:
-  - review
+
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
@@ -34,4 +34,3 @@ Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate
 ## 🔗 References
 - ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
 - 📚 Module: `DevOps`
-

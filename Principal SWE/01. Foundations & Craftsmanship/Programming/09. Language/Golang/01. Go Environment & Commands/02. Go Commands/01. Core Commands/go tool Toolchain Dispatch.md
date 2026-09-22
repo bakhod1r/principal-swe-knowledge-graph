@@ -1,7 +1,7 @@
 ---
 title: "go tool Toolchain Dispatch"
 tags:
-  - review
+
   - golang
   - toolchain
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Separate Chaining Search and Get Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

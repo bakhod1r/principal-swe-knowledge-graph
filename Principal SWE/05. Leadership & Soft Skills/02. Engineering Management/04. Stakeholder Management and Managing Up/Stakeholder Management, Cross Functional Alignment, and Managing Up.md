@@ -1,7 +1,7 @@
 ---
 title: Stakeholder Management, Cross Functional Alignment, and Managing Up
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Stakeholder Management, Cross Functional Alignment, and Managing Up
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Concurrency (Concurrency Async Parallel)
 tags:
-  - review
+
   - programming
   - language-internals
   - principal-swe
@@ -47,4 +47,3 @@ Concurrency (Concurrency Async Parallel)
 
 ## 🔗 References
 - ⬆️ Parent: [[Concurrency Async Parallel]]
-

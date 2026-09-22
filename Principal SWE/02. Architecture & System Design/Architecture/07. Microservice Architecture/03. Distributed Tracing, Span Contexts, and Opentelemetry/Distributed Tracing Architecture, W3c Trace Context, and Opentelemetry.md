@@ -1,7 +1,7 @@
 ---
 title: Distributed Tracing Architecture, W3c Trace Context, and Opentelemetry
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - microservice-architecture-and-service-boundaries
@@ -34,4 +34,3 @@ Distributed Tracing Architecture, W3c Trace Context, and Opentelemetry
 ## 🔗 References
 - ⬆️ Parent: `Microservice Architecture & Service Boundaries`
 - 📚 Module: `Architecture`
-

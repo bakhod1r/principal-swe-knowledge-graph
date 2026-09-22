@@ -1,7 +1,7 @@
 ---
 title: "Gap Buffer Text Insertion, Deletion, and Cursor Movement Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

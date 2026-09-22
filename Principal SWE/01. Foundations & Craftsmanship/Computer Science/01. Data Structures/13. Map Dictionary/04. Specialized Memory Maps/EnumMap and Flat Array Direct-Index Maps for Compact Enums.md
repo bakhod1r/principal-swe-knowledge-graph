@@ -1,7 +1,7 @@
 ---
 title: "EnumMap and Flat Array Direct-Index Maps for Compact Enums"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: GPU Cluster Orchestration, Nvidia GPU Operator, and Mig in Kubernetes
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ GPU Cluster Orchestration, Nvidia GPU Operator, and Mig in Kubernetes
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

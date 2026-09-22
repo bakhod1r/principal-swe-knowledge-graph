@@ -1,7 +1,7 @@
 ---
 title: "SQL Optimization Techniques Failure Modes and Edge Cases"
 tags:
-  - review
+
   - backend
   - architecture
   - postgresql-mastery-and-dba

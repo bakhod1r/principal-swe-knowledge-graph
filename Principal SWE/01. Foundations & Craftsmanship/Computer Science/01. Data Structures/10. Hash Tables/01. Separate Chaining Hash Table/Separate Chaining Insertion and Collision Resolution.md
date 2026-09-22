@@ -1,7 +1,7 @@
 ---
 title: "Hash Table Insertion and Collision Resolution (Chaining)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: Aligning Technical Architecture with Business Strategy and Economics
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Aligning Technical Architecture with Business Strategy and Economics
 ## 🔗 References
 - ⬆️ Parent: `Principal SWE Influence & Technical Strategy`
 - 📚 Module: `Soft Skills`
-

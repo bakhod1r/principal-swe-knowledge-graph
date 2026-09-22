@@ -1,7 +1,7 @@
 ---
 title: Hardware Interrupts, Softirqs, and Top Bottom Half Processing
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - operating-systems-and-kernel-internals
@@ -34,4 +34,3 @@ Hardware Interrupts, Softirqs, and Top Bottom Half Processing
 ## 🔗 References
 - ⬆️ Parent: [[Operating Systems & Kernel Internals]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: "Monotonic Stack Invariants (Strictly Increasing vs Decreasing)"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns

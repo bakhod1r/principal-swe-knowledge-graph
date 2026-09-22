@@ -1,7 +1,7 @@
 ---
 title: Product Strategy, Vision, and Technical Feasibility Alignment
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Product Strategy, Vision, and Technical Feasibility Alignment
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

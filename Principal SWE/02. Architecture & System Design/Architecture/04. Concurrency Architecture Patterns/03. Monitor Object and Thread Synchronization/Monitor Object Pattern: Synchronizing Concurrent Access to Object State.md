@@ -1,7 +1,7 @@
 ---
 title: "Monitor Object Pattern: Synchronizing Concurrent Access to Object State"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Monitor Object Pattern: Synchronizing Concurrent Access to Object State
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

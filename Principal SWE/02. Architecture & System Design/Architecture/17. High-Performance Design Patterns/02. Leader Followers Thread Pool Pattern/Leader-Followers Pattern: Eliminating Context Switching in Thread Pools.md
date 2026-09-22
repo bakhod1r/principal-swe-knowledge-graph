@@ -1,7 +1,7 @@
 ---
 title: "Leader-Followers Pattern: Eliminating Context Switching in Thread Pools"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - concurrency-and-high-performance-design-patterns
@@ -34,4 +34,3 @@ Leader-Followers Pattern: Eliminating Context Switching in Thread Pools
 ## 🔗 References
 - ⬆️ Parent: `Concurrency & High Performance Design Patterns`
 - 📚 Module: `Architecture`
-

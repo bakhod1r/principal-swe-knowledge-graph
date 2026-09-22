@@ -1,7 +1,7 @@
 ---
 title: Performance (Quality Engineering)
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -46,4 +46,3 @@ Performance (Quality Engineering)
 
 ## 🔗 References
 - ⬆️ Parent: [[Quality Engineering]]
-

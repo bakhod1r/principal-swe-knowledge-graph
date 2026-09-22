@@ -1,7 +1,7 @@
 ---
 title: "Ordered Tree Map Put, Get, and Remove Operations"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

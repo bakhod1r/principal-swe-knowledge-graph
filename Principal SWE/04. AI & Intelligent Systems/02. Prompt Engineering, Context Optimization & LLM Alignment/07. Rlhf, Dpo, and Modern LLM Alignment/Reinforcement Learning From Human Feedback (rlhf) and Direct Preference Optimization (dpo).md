@@ -1,7 +1,7 @@
 ---
 title: Reinforcement Learning From Human Feedback (rlhf) and Direct Preference Optimization (dpo)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - prompt-engineering,-context-optimization-and-llm-alignment
@@ -34,4 +34,3 @@ Reinforcement Learning From Human Feedback (rlhf) and Direct Preference Optimiza
 ## 🔗 References
 - ⬆️ Parent: [[Prompt Engineering, Context Optimization & LLM Alignment]]
 - 📚 Module: `AI & Machine Learning`
-

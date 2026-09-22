@@ -1,7 +1,7 @@
 ---
 title: "Encapsulation, Composition vs Inheritance, and Memory Locality"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

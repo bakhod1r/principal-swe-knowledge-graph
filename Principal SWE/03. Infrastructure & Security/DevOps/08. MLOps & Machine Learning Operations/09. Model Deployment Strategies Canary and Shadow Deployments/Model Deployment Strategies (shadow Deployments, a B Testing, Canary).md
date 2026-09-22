@@ -1,7 +1,7 @@
 ---
 title: Model Deployment Strategies (shadow Deployments, a B Testing, Canary)
 tags:
-  - review
+
   - devops
   - platform-engineering
   - mlops-and-machine-learning-operations
@@ -34,4 +34,3 @@ Model Deployment Strategies (shadow Deployments, a B Testing, Canary)
 ## 🔗 References
 - ⬆️ Parent: [[MLOps & Machine Learning Operations]]
 - 📚 Module: `DevOps`
-

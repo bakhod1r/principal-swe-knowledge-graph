@@ -1,7 +1,7 @@
 ---
 title: "Egress Bandwidth and Data Serialization Compactness (Protobuf, FlatBuffers)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

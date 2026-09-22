@@ -1,7 +1,7 @@
 ---
 title: "mspan & Page Allocator Architecture"
 tags:
-  - review
+
   - golang
   - runtime
   - principal-swe

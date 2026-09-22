@@ -1,7 +1,7 @@
 ---
 title: "Linux Seccomp-BPF Syscall Filtering in Go"
 tags:
-  - review
+
   - golang
   - security
   - principal-swe

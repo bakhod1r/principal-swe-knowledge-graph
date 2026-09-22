@@ -1,7 +1,7 @@
 ---
 title: "NavigableMap Operations (SubMap, HeadMap, TailMap Splices)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

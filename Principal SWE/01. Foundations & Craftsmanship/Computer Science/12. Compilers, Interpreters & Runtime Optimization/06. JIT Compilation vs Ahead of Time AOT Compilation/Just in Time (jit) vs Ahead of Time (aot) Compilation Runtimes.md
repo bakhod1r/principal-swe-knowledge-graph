@@ -1,7 +1,7 @@
 ---
 title: Just in Time (jit) vs Ahead of Time (aot) Compilation Runtimes
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - compilers,-interpreters-and-runtime-optimization
@@ -34,4 +34,3 @@ Just in Time (jit) vs Ahead of Time (aot) Compilation Runtimes
 ## 🔗 References
 - ⬆️ Parent: [[Compilers, Interpreters & Runtime Optimization]]
 - 📚 Module: `Computer Science`
-

@@ -1,7 +1,7 @@
 ---
 title: Hardware Security Modules (hsm), Cloud Kms, and Envelope Encryption
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - defensive-cryptography,-pki-and-key-management
@@ -34,4 +34,3 @@ Hardware Security Modules (hsm), Cloud Kms, and Envelope Encryption
 ## 🔗 References
 - ⬆️ Parent: [[Defensive Cryptography, PKI & Key Management]]
 - 📚 Module: `Cyber Security`
-

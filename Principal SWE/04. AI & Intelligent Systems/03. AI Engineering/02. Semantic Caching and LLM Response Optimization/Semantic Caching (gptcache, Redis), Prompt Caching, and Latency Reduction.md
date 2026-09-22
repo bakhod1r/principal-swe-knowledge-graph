@@ -1,7 +1,7 @@
 ---
 title: Semantic Caching (gptcache, Redis), Prompt Caching, and Latency Reduction
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Semantic Caching (gptcache, Redis), Prompt Caching, and Latency Reduction
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

@@ -1,7 +1,7 @@
 ---
 title: "Visual Software Architecture: the C4 Model (context, Container, Component, Code)"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Visual Software Architecture: the C4 Model (context, Container, Component, Code)
 ## 🔗 References
 - ⬆️ Parent: `Technical Writing & Documentation Systems`
 - 📚 Module: `Soft Skills`
-

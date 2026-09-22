@@ -1,7 +1,7 @@
 ---
 title: Memory and Allocation Profiling (Performance (Quality Engineering))
 tags:
-  - review
+
   - programming
   - quality
   - principal-swe
@@ -28,4 +28,3 @@ Memory and Allocation Profiling (Performance (Quality Engineering))
 
 ## 🔗 References
 - ⬆️ Parent: [[Performance (Quality Engineering)]]
-

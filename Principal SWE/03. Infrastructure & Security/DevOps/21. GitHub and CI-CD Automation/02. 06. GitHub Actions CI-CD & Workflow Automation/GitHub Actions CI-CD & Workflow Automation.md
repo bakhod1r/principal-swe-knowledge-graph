@@ -1,7 +1,7 @@
 ---
 title: GitHub Actions CI-CD & Workflow Automation
 tags:
-  - review
+
   - devops
   - git-and-github
   - version-control
@@ -41,4 +41,3 @@ GitHub Actions CI-CD & Workflow Automation
 ## 🔗 References
 - ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
 - 📚 Module: `DevOps`
-

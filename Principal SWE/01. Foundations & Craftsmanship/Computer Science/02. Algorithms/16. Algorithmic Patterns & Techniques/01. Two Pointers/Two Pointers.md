@@ -1,7 +1,7 @@
 ---
 title: Two Pointers
 tags:
-  - review
+
   - computer-science
   - algorithms
   - algorithmic-patterns
@@ -46,4 +46,3 @@ Two Pointers
 ## 🔗 References
 - ⬆️ Parent: [[Algorithmic Patterns & Techniques]]
 - 📚 Module: `Algorithmic Patterns & Techniques`
-

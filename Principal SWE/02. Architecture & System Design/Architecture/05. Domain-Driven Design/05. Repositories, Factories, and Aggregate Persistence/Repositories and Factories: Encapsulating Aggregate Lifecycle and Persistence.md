@@ -1,7 +1,7 @@
 ---
 title: "Repositories and Factories: Encapsulating Aggregate Lifecycle and Persistence"
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - domain-driven-design-(ddd)-and-strategic-modeling
@@ -34,4 +34,3 @@ Repositories and Factories: Encapsulating Aggregate Lifecycle and Persistence
 ## 🔗 References
 - ⬆️ Parent: `Domain Driven Design (ddd) & Strategic Modeling`
 - 📚 Module: `Architecture`
-

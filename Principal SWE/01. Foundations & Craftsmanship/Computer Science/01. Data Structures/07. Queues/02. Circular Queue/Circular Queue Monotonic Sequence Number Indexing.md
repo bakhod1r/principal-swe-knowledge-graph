@@ -1,7 +1,7 @@
 ---
 title: "Circular Queue Monotonic Sequence Number Indexing"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

@@ -1,7 +1,7 @@
 ---
 title: "Escape Analysis Flow Graphs & Heap Escape Penalties"
 tags:
-  - review
+
   - golang
   - performance
   - principal-swe

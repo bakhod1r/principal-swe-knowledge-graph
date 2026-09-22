@@ -1,7 +1,7 @@
 ---
 title: "Largest Rectangle in Histogram (Monotonic Increasing Stack)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

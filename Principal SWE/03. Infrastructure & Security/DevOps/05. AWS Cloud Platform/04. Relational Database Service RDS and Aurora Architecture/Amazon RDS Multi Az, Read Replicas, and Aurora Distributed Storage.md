@@ -1,7 +1,7 @@
 ---
 title: Amazon RDS Multi Az, Read Replicas, and Aurora Distributed Storage
 tags:
-  - review
+
   - devops
   - platform-engineering
   - aws-cloud-platform-and-enterprise-infrastructure
@@ -34,4 +34,3 @@ Amazon RDS Multi Az, Read Replicas, and Aurora Distributed Storage
 ## 🔗 References
 - ⬆️ Parent: `AWS Cloud Platform & Enterprise Infrastructure`
 - 📚 Module: `DevOps`
-

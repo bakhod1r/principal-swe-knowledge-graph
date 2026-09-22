@@ -1,7 +1,7 @@
 ---
 title: "Map Put and Insert Key-Value Pairs"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

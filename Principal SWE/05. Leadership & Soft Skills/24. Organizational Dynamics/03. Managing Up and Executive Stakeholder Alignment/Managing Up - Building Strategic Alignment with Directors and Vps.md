@@ -1,7 +1,7 @@
 ---
 title: "Managing Up: Building Strategic Alignment with Directors and Vps"
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Managing Up: Building Strategic Alignment with Directors and Vps
 ## 🔗 References
 - ⬆️ Parent: `Negotiation, Conflict Resolution & Organizational Dynamics`
 - 📚 Module: `Soft Skills`
-

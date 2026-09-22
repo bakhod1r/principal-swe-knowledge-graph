@@ -1,7 +1,7 @@
 ---
 title: "Concurrent Hash Map Foundations and Invariants"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - dsa

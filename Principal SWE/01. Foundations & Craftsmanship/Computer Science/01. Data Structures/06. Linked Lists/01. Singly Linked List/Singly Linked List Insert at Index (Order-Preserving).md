@@ -1,7 +1,7 @@
 ---
 title: "Singly Linked List Insert at Index (Order-Preserving)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - principal-swe

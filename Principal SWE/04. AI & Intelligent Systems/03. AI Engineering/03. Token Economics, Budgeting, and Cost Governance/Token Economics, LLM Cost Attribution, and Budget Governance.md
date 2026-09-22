@@ -1,7 +1,7 @@
 ---
 title: Token Economics, LLM Cost Attribution, and Budget Governance
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Token Economics, LLM Cost Attribution, and Budget Governance
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

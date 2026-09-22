@@ -1,7 +1,7 @@
 ---
 title: API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway)
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - api-design-and-gateway-architecture
@@ -34,4 +34,3 @@ API Gateway Architecture (kong, Traefik, Envoy, Aws API Gateway)
 ## 🔗 References
 - ⬆️ Parent: `API Design & Gateway Architecture`
 - 📚 Module: `Architecture`
-

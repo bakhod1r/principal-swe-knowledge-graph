@@ -1,7 +1,7 @@
 ---
 title: "Knight Tour"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

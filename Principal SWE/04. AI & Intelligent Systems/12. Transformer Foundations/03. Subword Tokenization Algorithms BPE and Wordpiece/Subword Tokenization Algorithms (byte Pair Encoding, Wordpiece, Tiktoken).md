@@ -1,7 +1,7 @@
 ---
 title: Subword Tokenization Algorithms (byte Pair Encoding, Wordpiece, Tiktoken)
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - machine-learning,-deep-learning-and-transformer-foundations
@@ -34,4 +34,3 @@ Subword Tokenization Algorithms (byte Pair Encoding, Wordpiece, Tiktoken)
 ## 🔗 References
 - ⬆️ Parent: `Machine Learning, Deep Learning & Transformer Foundations`
 - 📚 Module: `AI & Machine Learning`
-

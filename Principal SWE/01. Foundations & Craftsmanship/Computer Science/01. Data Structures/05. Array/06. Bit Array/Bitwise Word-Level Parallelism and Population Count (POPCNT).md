@@ -1,7 +1,7 @@
 ---
 title: "Bitwise Word-Level Parallelism and Population Count (POPCNT)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

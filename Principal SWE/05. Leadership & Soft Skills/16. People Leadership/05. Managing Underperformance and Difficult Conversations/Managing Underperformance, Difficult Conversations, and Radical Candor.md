@@ -1,7 +1,7 @@
 ---
 title: Managing Underperformance, Difficult Conversations, and Radical Candor
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Managing Underperformance, Difficult Conversations, and Radical Candor
 ## 🔗 References
 - ⬆️ Parent: `Engineering Management & People Leadership`
 - 📚 Module: `Soft Skills`
-

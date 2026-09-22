@@ -1,7 +1,7 @@
 ---
 title: Production Terraform Troubleshooting, Lock Clearing, and State Recovery
 tags:
-  - review
+
   - devops
   - platform-engineering
   - terraform-and-infrastructure-as-code-(iac)
@@ -34,4 +34,3 @@ Production Terraform Troubleshooting, Lock Clearing, and State Recovery
 ## 🔗 References
 - ⬆️ Parent: `Terraform & Infrastructure As Code (iac)`
 - 📚 Module: `DevOps`
-

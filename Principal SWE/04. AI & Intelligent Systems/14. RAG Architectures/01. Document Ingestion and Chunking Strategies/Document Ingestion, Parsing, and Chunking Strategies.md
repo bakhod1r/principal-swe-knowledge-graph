@@ -1,7 +1,7 @@
 ---
 title: Document Ingestion, Parsing, and Chunking Strategies
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-engineering,-vector-databases-and-rag-architectures
@@ -34,4 +34,3 @@ Document Ingestion, Parsing, and Chunking Strategies
 ## 🔗 References
 - ⬆️ Parent: `AI Engineering, Vector Databases & RAG Architectures`
 - 📚 Module: `AI & Machine Learning`
-

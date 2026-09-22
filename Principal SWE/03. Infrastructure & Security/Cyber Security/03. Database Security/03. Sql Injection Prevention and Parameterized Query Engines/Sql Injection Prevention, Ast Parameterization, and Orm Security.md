@@ -1,7 +1,7 @@
 ---
 title: Sql Injection Prevention, Ast Parameterization, and Orm Security
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - database-security-and-storage-encryption
@@ -34,4 +34,3 @@ Sql Injection Prevention, Ast Parameterization, and Orm Security
 ## 🔗 References
 - ⬆️ Parent: `Database Security & Storage Encryption`
 - 📚 Module: `Cyber Security`
-

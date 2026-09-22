@@ -1,7 +1,7 @@
 ---
 title: "Matrix 90-Degree In-Place Rotation (Transpose and Reverse)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - matrix

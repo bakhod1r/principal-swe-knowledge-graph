@@ -1,7 +1,7 @@
 ---
 title: "Decision Tree"
 tags:
-  - review
+
   - computer-science
   - algorithms
   - dsa

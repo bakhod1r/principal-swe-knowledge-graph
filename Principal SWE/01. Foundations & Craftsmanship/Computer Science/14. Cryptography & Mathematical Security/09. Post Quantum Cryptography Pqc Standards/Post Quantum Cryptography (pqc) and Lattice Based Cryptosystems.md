@@ -1,7 +1,7 @@
 ---
 title: Post Quantum Cryptography (pqc) and Lattice Based Cryptosystems
 tags:
-  - review
+
   - computer-science
   - systems-engineering
   - cryptography-and-mathematical-security
@@ -34,4 +34,3 @@ Post Quantum Cryptography (pqc) and Lattice Based Cryptosystems
 ## 🔗 References
 - ⬆️ Parent: [[Cryptography & Mathematical Security]]
 - 📚 Module: `Computer Science`
-

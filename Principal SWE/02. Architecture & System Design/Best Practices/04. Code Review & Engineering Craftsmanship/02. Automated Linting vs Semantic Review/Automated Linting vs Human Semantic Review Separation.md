@@ -1,7 +1,7 @@
 ---
 title: Automated Linting vs Human Semantic Review Separation
 tags:
-  - review
+
   - best-practices
   - software-engineering
   - code-review-and-engineering-craftsmanship
@@ -34,4 +34,3 @@ Automated Linting vs Human Semantic Review Separation
 ## 🔗 References
 - ⬆️ Parent: [[Code Review & Engineering Craftsmanship]]
 - 📚 Module: `Best Practices`
-

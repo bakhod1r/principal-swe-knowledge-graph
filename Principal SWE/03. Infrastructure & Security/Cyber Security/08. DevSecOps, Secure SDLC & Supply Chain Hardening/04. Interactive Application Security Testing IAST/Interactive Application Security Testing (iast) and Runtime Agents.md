@@ -1,7 +1,7 @@
 ---
 title: Interactive Application Security Testing (iast) and Runtime Agents
 tags:
-  - review
+
   - cyber-security
   - security-engineering
   - devsecops,-secure-sdlc-and-supply-chain-hardening
@@ -34,4 +34,3 @@ Interactive Application Security Testing (iast) and Runtime Agents
 ## 🔗 References
 - ⬆️ Parent: [[Devsecops, Secure SDLC & Supply Chain Hardening]]
 - 📚 Module: `Cyber Security`
-

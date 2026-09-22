@@ -1,7 +1,7 @@
 ---
 title: Autonomous Web Browsing Agents, Playwright Control, and Computer Use
 tags:
-  - review
+
   - ai-and-machine-learning
   - ai-engineering
   - ai-agents,-autonomous-systems-and-multi-agent-orchestration
@@ -34,4 +34,3 @@ Autonomous Web Browsing Agents, Playwright Control, and Computer Use
 ## 🔗 References
 - ⬆️ Parent: `AI Agents, Autonomous Systems & Multi Agent Orchestration`
 - 📚 Module: `AI & Machine Learning`
-

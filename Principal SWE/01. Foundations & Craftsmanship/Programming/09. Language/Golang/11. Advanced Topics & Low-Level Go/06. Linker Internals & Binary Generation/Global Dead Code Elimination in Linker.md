@@ -1,7 +1,7 @@
 ---
 title: "Global Dead Code Elimination in Linker"
 tags:
-  - review
+
   - golang
   - advanced
   - principal-swe

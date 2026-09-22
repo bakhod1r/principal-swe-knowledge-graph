@@ -1,7 +1,7 @@
 ---
 title: Feature Flag Management, Dark Launches, and Progressive Rollouts
 tags:
-  - review
+
   - soft-skills
   - leadership
   - engineering-management
@@ -36,4 +36,3 @@ Feature Flag Management, Dark Launches, and Progressive Rollouts
 ## 🔗 References
 - ⬆️ Parent: `Product Management & Strategic Execution`
 - 📚 Module: `Soft Skills`
-

@@ -1,7 +1,7 @@
 ---
 title: Query Planning, Relational Algebra, and Cost Based Optimization
 tags:
-  - review
+
   - computer-science
   - databases
   - distributed-systems
@@ -34,4 +34,3 @@ Query Planning, Relational Algebra, and Cost Based Optimization
 ## 🔗 References
 - ⬆️ Parent: [[Databases]]
 - 📚 Module: `Computer Science`
-

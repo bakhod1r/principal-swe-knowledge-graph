@@ -1,7 +1,7 @@
 ---
 title: "Context Design Rules"
 tags:
-  - review
+
   - golang
   - concurrency
   - principal-swe

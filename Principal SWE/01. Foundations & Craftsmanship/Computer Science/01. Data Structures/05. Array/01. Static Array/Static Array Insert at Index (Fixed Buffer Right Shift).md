@@ -1,7 +1,7 @@
 ---
 title: "Static Array Insert at Index (Fixed Buffer Right Shift)"
 tags:
-  - review
+
   - computer-science
   - data-structures
   - arrays

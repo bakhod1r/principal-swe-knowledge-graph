@@ -1,7 +1,7 @@
 ---
 title: Command Query Responsibility Segregation (cqrs) Architecture and Design
 tags:
-  - review
+
   - architecture
   - systems-architecture
   - distributed-data-patterns-(cqrs,-event-sourcing,-sagas)
@@ -34,4 +34,3 @@ Command Query Responsibility Segregation (cqrs) Architecture and Design
 ## 🔗 References
 - ⬆️ Parent: [[Distributed Data Patterns (cqrs, Event Sourcing, Sagas)]]
 - 📚 Module: `Architecture`
-
