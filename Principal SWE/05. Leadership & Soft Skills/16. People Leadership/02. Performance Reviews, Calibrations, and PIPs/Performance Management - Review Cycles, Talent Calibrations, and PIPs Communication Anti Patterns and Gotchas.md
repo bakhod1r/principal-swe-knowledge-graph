@@ -1,5 +1,5 @@
 ---
-title: "Performance Management  Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas"
+title: "Performance Management - Review Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas"
 tags:
 
   - soft-skills
@@ -8,10 +8,10 @@ tags:
   - team-lead
   - engineering-management-and-people-leadership
   - principal-swe
-parent: "[[Performance Management  Cycles, Talent Calibrations, and PIPs]]"
+parent: "[[Performance Management - Review Cycles, Talent Calibrations, and PIPs]]"
 ---
 
-# Performance Management  Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas
+# Performance Management - Review Cycles, Talent Calibrations, and PIPs Communication Anti Patterns and Gotchas
 
 ## 1. Definition
 
@@ -24,5 +24,5 @@ parent: "[[Performance Management  Cycles, Talent Calibrations, and PIPs]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Performance Management  Cycles, Talent Calibrations, and PIPs]]
+- ⬆️ Parent: [[Performance Management - Review Cycles, Talent Calibrations, and PIPs]]
 - 📚 Module: `Engineering Management & People Leadership`
