@@ -1,0 +1,26 @@
+---
+title: "Centralized Logging, Log Shippers, and Elasticsearch Loki Production Implementation Patterns"
+tags:
+
+  - devops
+  - platform-engineering
+  - core-devops-principles-and-automation-tooling
+  - principal-swe
+parent: "[[Centralized Logging, Log Shippers, and Elasticsearch Loki]]"
+---
+
+# Centralized Logging, Log Shippers, and Elasticsearch Loki Production Implementation Patterns
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Centralized Logging, Log Shippers, and Elasticsearch Loki]]
+- 📚 Module: `Core DevOps Principles`

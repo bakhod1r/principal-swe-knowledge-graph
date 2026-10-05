@@ -1,0 +1,36 @@
+---
+title: Site Reliability Engineering (SRE) Principles and Incident Command
+tags:
+
+  - devops
+  - platform-engineering
+  - core-devops-principles-and-automation-tooling
+  - principal-swe
+parent: "[[DevOps Automation Tooling]]"
+---
+
+# 📦 Site Reliability Engineering (SRE) Principles and Incident Command
+
+SLAs, SLOs, and Error Budgets; on-call rotation management, Incident Command System (ICS), blameless postmortems, and runbook automation.
+
+```text
+Site Reliability Engineering (SRE) Principles and Incident Command
+│
+├── [[Site Reliability Engineering (SRE) Principles and Incident Command Engineering Standards and Invariants]]
+├── [[Site Reliability Engineering (SRE) Principles and Incident Command Production Implementation Patterns]]
+└── [[Site Reliability Engineering (SRE) Principles and Incident Command Failure Modes and Operational Mitigations]]
+```
+
+---
+
+## 🗂️ Platform Blueprints & Operational Patterns
+
+- [[Site Reliability Engineering (SRE) Principles and Incident Command Engineering Standards and Invariants]]
+- [[Site Reliability Engineering (SRE) Principles and Incident Command Production Implementation Patterns]]
+- [[Site Reliability Engineering (SRE) Principles and Incident Command Failure Modes and Operational Mitigations]]
+
+---
+
+## 🔗 References
+- ⬆️ Parent: `DevOps Automation Tooling`
+- 📚 Module: `DevOps`
