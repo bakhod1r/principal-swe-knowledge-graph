@@ -8,24 +8,24 @@ parent: "[[DevOps]]"
 ```text
 Infrastructure as Code
 │
-├── [[Infrastructure Provisioning, Cloud Automation, and Declarative IaC|01. Infrastructure Provisioning Tools]]
-├── [[OpenTofu Architecture, State Encryption, and Migration From Terraform|02. OpenTofu Fork and Open Source Ecosystem]]
-├── [[Terraform Drift Detection, Scheduled Plans, and Automated Remediation|03. Drift Detection and Continuous Reconciliation]]
-├── [[Terraform Multi Account AWS Landing Zones and Control Tower|04. Multi Cloud and Multi Account Landing Zones]]
-├── [[Infrastructure Cost Estimation with Infracost in Pull Requests|05. Infrastructure Cost Estimation with Infracost]]
-└── [[Zero Downtime Infrastructure Refactoring and Database Migrations|06. Zero Downtime Infrastructure Refactoring]]
+├── [[Infrastructure Provisioning Tools|01. Infrastructure Provisioning Tools]]
+├── [[OpenTofu Fork and Open Source Ecosystem|02. OpenTofu Fork and Open Source Ecosystem]]
+├── [[Drift Detection and Continuous Reconciliation|03. Drift Detection and Continuous Reconciliation]]
+├── [[Multi Cloud and Multi Account Landing Zones|04. Multi Cloud and Multi Account Landing Zones]]
+├── [[Infrastructure Cost Estimation with Infracost|05. Infrastructure Cost Estimation with Infracost]]
+└── [[Zero Downtime Infrastructure Refactoring|06. Zero Downtime Infrastructure Refactoring]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Infrastructure Provisioning, Cloud Automation, and Declarative IaC|01. Infrastructure Provisioning Tools]]
-- 📂 [[OpenTofu Architecture, State Encryption, and Migration From Terraform|02. OpenTofu Fork and Open Source Ecosystem]]
-- 📂 [[Terraform Drift Detection, Scheduled Plans, and Automated Remediation|03. Drift Detection and Continuous Reconciliation]]
-- 📂 [[Terraform Multi Account AWS Landing Zones and Control Tower|04. Multi Cloud and Multi Account Landing Zones]]
-- 📂 [[Infrastructure Cost Estimation with Infracost in Pull Requests|05. Infrastructure Cost Estimation with Infracost]]
-- 📂 [[Zero Downtime Infrastructure Refactoring and Database Migrations|06. Zero Downtime Infrastructure Refactoring]]
+- 📂 [[Infrastructure Provisioning Tools|01. Infrastructure Provisioning Tools]]
+- 📂 [[OpenTofu Fork and Open Source Ecosystem|02. OpenTofu Fork and Open Source Ecosystem]]
+- 📂 [[Drift Detection and Continuous Reconciliation|03. Drift Detection and Continuous Reconciliation]]
+- 📂 [[Multi Cloud and Multi Account Landing Zones|04. Multi Cloud and Multi Account Landing Zones]]
+- 📂 [[Infrastructure Cost Estimation with Infracost|05. Infrastructure Cost Estimation with Infracost]]
+- 📂 [[Zero Downtime Infrastructure Refactoring|06. Zero Downtime Infrastructure Refactoring]]
 
 ---
 

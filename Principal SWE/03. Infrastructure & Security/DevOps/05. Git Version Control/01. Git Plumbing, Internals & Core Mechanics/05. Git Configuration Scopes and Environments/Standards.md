@@ -1,0 +1,27 @@
+---
+title: "Git Configuration Scopes and Environments - Standards"
+tags:
+
+  - devops
+  - git-and-github
+  - version-control
+  - git-plumbing,-internals-and-core-mechanics
+  - principal-swe
+parent: "[[Git Configuration Scopes and Environments]]"
+---
+
+# Git Configuration Scopes and Environments - Standards
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Git Configuration Scopes and Environments]]
+- 📚 Module: `Git & GitHub Version Control & CI-CD Automation`

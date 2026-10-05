@@ -16,18 +16,18 @@ Built-in PKI, mTLS between nodes, certificate rotation, join-token rotation, aut
 ```text
 Cluster Security, Mutual TLS, and Autolock
 │
-├── [[Cluster Security, Mutual TLS, and Autolock Engineering Standards and Invariants]]
-├── [[Cluster Security, Mutual TLS, and Autolock Production Implementation Patterns]]
-└── [[Cluster Security, Mutual TLS, and Autolock Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Cluster Security, Mutual TLS, and Autolock Engineering Standards and Invariants]]
-- [[Cluster Security, Mutual TLS, and Autolock Production Implementation Patterns]]
-- [[Cluster Security, Mutual TLS, and Autolock Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/07. Cluster Security, Mutual TLS, and Autolock/Failure Modes|Failure Modes]]
 
 ---
 

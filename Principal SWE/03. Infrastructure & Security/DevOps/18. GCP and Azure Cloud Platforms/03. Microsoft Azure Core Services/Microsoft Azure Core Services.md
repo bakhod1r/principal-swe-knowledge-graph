@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Azure Core Services"
+title: Microsoft Azure Core Services
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Subscriptions/management groups, Entra ID, VMs, AKS, App Service, Storage, VNets
 ```text
 Microsoft Azure Core Services
 │
-├── [[Microsoft Azure Core Services Engineering Standards and Invariants]]
-├── [[Microsoft Azure Core Services Production Implementation Patterns]]
-└── [[Microsoft Azure Core Services Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Microsoft Azure Core Services Engineering Standards and Invariants]]
-- [[Microsoft Azure Core Services Production Implementation Patterns]]
-- [[Microsoft Azure Core Services Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/03. Microsoft Azure Core Services/Failure Modes|Failure Modes]]
 
 ---
 

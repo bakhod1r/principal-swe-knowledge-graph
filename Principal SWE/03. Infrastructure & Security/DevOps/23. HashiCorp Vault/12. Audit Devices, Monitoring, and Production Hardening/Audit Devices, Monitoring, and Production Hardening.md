@@ -1,5 +1,5 @@
 ---
-title: "Audit Devices, Monitoring, and Production Hardening"
+title: Audit Devices, Monitoring, and Production Hardening
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Audit logging, telemetry, hardening guide, namespaces, and least-privilege opera
 ```text
 Audit Devices, Monitoring, and Production Hardening
 │
-├── [[Audit Devices, Monitoring, and Production Hardening Engineering Standards and Invariants]]
-├── [[Audit Devices, Monitoring, and Production Hardening Production Implementation Patterns]]
-└── [[Audit Devices, Monitoring, and Production Hardening Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Audit Devices, Monitoring, and Production Hardening Engineering Standards and Invariants]]
-- [[Audit Devices, Monitoring, and Production Hardening Production Implementation Patterns]]
-- [[Audit Devices, Monitoring, and Production Hardening Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/12. Audit Devices, Monitoring, and Production Hardening/Failure Modes|Failure Modes]]
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Vault Agent, Sidecar Injector, and CSI Provider"
+title: Vault Agent, Sidecar Injector, and CSI Provider
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Auto-auth, templating, caching, Kubernetes sidecar injection, and Secrets Store 
 ```text
 Vault Agent, Sidecar Injector, and CSI Provider
 │
-├── [[Vault Agent, Sidecar Injector, and CSI Provider Engineering Standards and Invariants]]
-├── [[Vault Agent, Sidecar Injector, and CSI Provider Production Implementation Patterns]]
-└── [[Vault Agent, Sidecar Injector, and CSI Provider Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Vault Agent, Sidecar Injector, and CSI Provider Engineering Standards and Invariants]]
-- [[Vault Agent, Sidecar Injector, and CSI Provider Production Implementation Patterns]]
-- [[Vault Agent, Sidecar Injector, and CSI Provider Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/09. Vault Agent, Sidecar Injector, and CSI Provider/Failure Modes|Failure Modes]]
 
 ---
 

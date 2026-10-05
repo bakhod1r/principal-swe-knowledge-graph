@@ -16,18 +16,18 @@ docker stack deploy, Compose v3 deploy keys, multi-file overrides, stack lifecyc
 ```text
 Stack Deployments with Compose Files
 │
-├── [[Stack Deployments with Compose Files Engineering Standards and Invariants]]
-├── [[Stack Deployments with Compose Files Production Implementation Patterns]]
-└── [[Stack Deployments with Compose Files Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Stack Deployments with Compose Files Engineering Standards and Invariants]]
-- [[Stack Deployments with Compose Files Production Implementation Patterns]]
-- [[Stack Deployments with Compose Files Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/05. Stack Deployments with Compose Files/Failure Modes|Failure Modes]]
 
 ---
 

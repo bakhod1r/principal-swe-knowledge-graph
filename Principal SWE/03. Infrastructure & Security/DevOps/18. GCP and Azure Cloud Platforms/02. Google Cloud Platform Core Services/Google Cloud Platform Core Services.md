@@ -1,5 +1,5 @@
 ---
-title: "Google Cloud Platform Core Services"
+title: Google Cloud Platform Core Services
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Projects/folders/org, IAM, Compute Engine, GKE, Cloud Run, Cloud Storage, VPC, a
 ```text
 Google Cloud Platform Core Services
 │
-├── [[Google Cloud Platform Core Services Engineering Standards and Invariants]]
-├── [[Google Cloud Platform Core Services Production Implementation Patterns]]
-└── [[Google Cloud Platform Core Services Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Google Cloud Platform Core Services Engineering Standards and Invariants]]
-- [[Google Cloud Platform Core Services Production Implementation Patterns]]
-- [[Google Cloud Platform Core Services Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/18. GCP and Azure Cloud Platforms/02. Google Cloud Platform Core Services/Failure Modes|Failure Modes]]
 
 ---
 

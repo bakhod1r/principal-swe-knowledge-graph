@@ -16,18 +16,18 @@ Enterprise GitHub workflows: Branch protection rules, required status checks, CO
 ```text
 GitHub Enterprise Workflows & PR Engineering
 │
-├── [[GitHub Projects (V2), Custom Fields, and Automated Board Workflows|01. GitHub Projects and Agile Portfolio Management]]
-├── [[GitHub Releases, Semantic Versioning (SemVer), and Auto Changelogs|02. GitHub Releases, Semantic Versioning, and Changelogs]]
-└── [[GitHub Discussions, Architectural RFCs, and Collaborative Knowledge|03. GitHub Discussions, Wikis, and RFC Collaboration]]
+├── [[GitHub Projects and Agile Portfolio Management|01. GitHub Projects and Agile Portfolio Management]]
+├── [[GitHub Releases, Semantic Versioning, and Changelogs|02. GitHub Releases, Semantic Versioning, and Changelogs]]
+└── [[GitHub Discussions, Wikis, and RFC Collaboration|03. GitHub Discussions, Wikis, and RFC Collaboration]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[GitHub Projects (V2), Custom Fields, and Automated Board Workflows|01. GitHub Projects and Agile Portfolio Management]]
-- 📂 [[GitHub Releases, Semantic Versioning (SemVer), and Auto Changelogs|02. GitHub Releases, Semantic Versioning, and Changelogs]]
-- 📂 [[GitHub Discussions, Architectural RFCs, and Collaborative Knowledge|03. GitHub Discussions, Wikis, and RFC Collaboration]]
+- 📂 [[GitHub Projects and Agile Portfolio Management|01. GitHub Projects and Agile Portfolio Management]]
+- 📂 [[GitHub Releases, Semantic Versioning, and Changelogs|02. GitHub Releases, Semantic Versioning, and Changelogs]]
+- 📂 [[GitHub Discussions, Wikis, and RFC Collaboration|03. GitHub Discussions, Wikis, and RFC Collaboration]]
 
 ---
 

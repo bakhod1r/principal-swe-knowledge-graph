@@ -16,18 +16,18 @@ Manager spread across failure domains, Raft state backup/restore, force-new-clus
 ```text
 High Availability, Backup, and Disaster Recovery
 │
-├── [[High Availability, Backup, and Disaster Recovery Engineering Standards and Invariants]]
-├── [[High Availability, Backup, and Disaster Recovery Production Implementation Patterns]]
-└── [[High Availability, Backup, and Disaster Recovery Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[High Availability, Backup, and Disaster Recovery Engineering Standards and Invariants]]
-- [[High Availability, Backup, and Disaster Recovery Production Implementation Patterns]]
-- [[High Availability, Backup, and Disaster Recovery Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/08. High Availability, Backup, and Disaster Recovery/Failure Modes|Failure Modes]]
 
 ---
 

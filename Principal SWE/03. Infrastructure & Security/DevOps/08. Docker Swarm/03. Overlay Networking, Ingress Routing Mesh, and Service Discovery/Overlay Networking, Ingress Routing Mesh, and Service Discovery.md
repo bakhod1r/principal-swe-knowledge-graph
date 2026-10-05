@@ -16,18 +16,18 @@ VXLAN overlay networks, ingress routing mesh, VIP vs DNSRR endpoint modes, inter
 ```text
 Overlay Networking, Ingress Routing Mesh, and Service Discovery
 │
-├── [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Engineering Standards and Invariants]]
-├── [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Production Implementation Patterns]]
-└── [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Engineering Standards and Invariants]]
-- [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Production Implementation Patterns]]
-- [[Overlay Networking, Ingress Routing Mesh, and Service Discovery Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/03. Overlay Networking, Ingress Routing Mesh, and Service Discovery/Failure Modes|Failure Modes]]
 
 ---
 

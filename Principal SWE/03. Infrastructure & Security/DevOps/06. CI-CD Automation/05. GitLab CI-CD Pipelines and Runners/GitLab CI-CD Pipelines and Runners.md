@@ -1,5 +1,5 @@
 ---
-title: "GitLab CI-CD Pipelines and Runners"
+title: GitLab CI-CD Pipelines and Runners
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ parent: "[[CI-CD Automation]]"
 ```text
 GitLab CI-CD Pipelines and Runners
 │
-├── [[GitLab CI-CD Pipelines and Runners Engineering Standards and Invariants]]
-├── [[GitLab CI-CD Pipelines and Runners Production Implementation Patterns]]
-└── [[GitLab CI-CD Pipelines and Runners Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[GitLab CI-CD Pipelines and Runners Engineering Standards and Invariants]]
-- [[GitLab CI-CD Pipelines and Runners Production Implementation Patterns]]
-- [[GitLab CI-CD Pipelines and Runners Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/05. GitLab CI-CD Pipelines and Runners/Failure Modes|Failure Modes]]
 
 ---
 

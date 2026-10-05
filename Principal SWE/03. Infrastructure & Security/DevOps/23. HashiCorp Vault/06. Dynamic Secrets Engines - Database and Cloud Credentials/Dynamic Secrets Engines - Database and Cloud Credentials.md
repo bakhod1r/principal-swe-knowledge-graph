@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Secrets Engines - Database and Cloud Credentials"
+title: Dynamic Secrets Engines - Database and Cloud Credentials
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Short-lived database, AWS, GCP, and Azure credentials; rotation and revocation.
 ```text
 Dynamic Secrets Engines - Database and Cloud Credentials
 │
-├── [[Dynamic Secrets Engines - Database and Cloud Credentials Engineering Standards and Invariants]]
-├── [[Dynamic Secrets Engines - Database and Cloud Credentials Production Implementation Patterns]]
-└── [[Dynamic Secrets Engines - Database and Cloud Credentials Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Dynamic Secrets Engines - Database and Cloud Credentials Engineering Standards and Invariants]]
-- [[Dynamic Secrets Engines - Database and Cloud Credentials Production Implementation Patterns]]
-- [[Dynamic Secrets Engines - Database and Cloud Credentials Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/06. Dynamic Secrets Engines - Database and Cloud Credentials/Failure Modes|Failure Modes]]
 
 ---
 

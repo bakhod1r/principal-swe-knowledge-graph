@@ -1,5 +1,5 @@
 ---
-title: "Prometheus Architecture, PromQL, and Alertmanager"
+title: Prometheus Architecture, PromQL, and Alertmanager
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Pull model, exporters, TSDB, PromQL, recording/alerting rules, Alertmanager rout
 ```text
 Prometheus Architecture, PromQL, and Alertmanager
 │
-├── [[Prometheus Architecture, PromQL, and Alertmanager Engineering Standards and Invariants]]
-├── [[Prometheus Architecture, PromQL, and Alertmanager Production Implementation Patterns]]
-└── [[Prometheus Architecture, PromQL, and Alertmanager Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Prometheus Architecture, PromQL, and Alertmanager Engineering Standards and Invariants]]
-- [[Prometheus Architecture, PromQL, and Alertmanager Production Implementation Patterns]]
-- [[Prometheus Architecture, PromQL, and Alertmanager Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/02. Prometheus Architecture, PromQL, and Alertmanager/Failure Modes|Failure Modes]]
 
 ---
 

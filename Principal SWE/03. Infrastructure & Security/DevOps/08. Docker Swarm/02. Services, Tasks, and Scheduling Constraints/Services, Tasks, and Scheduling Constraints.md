@@ -16,18 +16,18 @@ Replicated vs global services, task lifecycle, placement constraints/preferences
 ```text
 Services, Tasks, and Scheduling Constraints
 │
-├── [[Services, Tasks, and Scheduling Constraints Engineering Standards and Invariants]]
-├── [[Services, Tasks, and Scheduling Constraints Production Implementation Patterns]]
-└── [[Services, Tasks, and Scheduling Constraints Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Services, Tasks, and Scheduling Constraints Engineering Standards and Invariants]]
-- [[Services, Tasks, and Scheduling Constraints Production Implementation Patterns]]
-- [[Services, Tasks, and Scheduling Constraints Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/02. Services, Tasks, and Scheduling Constraints/Failure Modes|Failure Modes]]
 
 ---
 

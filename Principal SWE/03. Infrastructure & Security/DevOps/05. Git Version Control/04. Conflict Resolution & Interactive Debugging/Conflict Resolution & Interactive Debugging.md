@@ -17,24 +17,24 @@ Resolving complex merge conflicts: 3-way diff tools, conflict markers, `git merg
 ```text
 Conflict Resolution & Interactive Debugging
 │
-├── [[Anatomy of Merge Conflicts, Diff3 Formatting, and Markers|01. Anatomy of Merge Conflicts and Conflict Markers]]
-├── [[Automated Regression Hunting with Git Bisect and Test Scripts|02. Automated Regression Hunting with Git Bisect]]
-├── [[Git Log Archaeology, Pickaxe Search (-S), and Line History|03. Git Blame, Log Archaeology, and Git Pickaxe]]
-├── [[Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing|04. Git Submodules and Monorepo Subtrees]]
-├── [[Binary Asset Versioning with Git Large File Storage (Git LFS)|05. Binary Asset Versioning and Git LFS]]
-└── [[Git Stash Internals, Stash Stack, and Patch Formatting|06. Git Stash Internals and Patch Queues]]
+├── [[Anatomy of Merge Conflicts and Conflict Markers|01. Anatomy of Merge Conflicts and Conflict Markers]]
+├── [[Automated Regression Hunting with Git Bisect|02. Automated Regression Hunting with Git Bisect]]
+├── [[Git Blame, Log Archaeology, and Git Pickaxe|03. Git Blame, Log Archaeology, and Git Pickaxe]]
+├── [[Git Submodules and Monorepo Subtrees|04. Git Submodules and Monorepo Subtrees]]
+├── [[Binary Asset Versioning and Git LFS|05. Binary Asset Versioning and Git LFS]]
+└── [[Git Stash Internals and Patch Queues|06. Git Stash Internals and Patch Queues]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Anatomy of Merge Conflicts, Diff3 Formatting, and Markers|01. Anatomy of Merge Conflicts and Conflict Markers]]
-- 📂 [[Automated Regression Hunting with Git Bisect and Test Scripts|02. Automated Regression Hunting with Git Bisect]]
-- 📂 [[Git Log Archaeology, Pickaxe Search (-S), and Line History|03. Git Blame, Log Archaeology, and Git Pickaxe]]
-- 📂 [[Git Submodules vs Git Subtrees for Monorepos and Dependency Sharing|04. Git Submodules and Monorepo Subtrees]]
-- 📂 [[Binary Asset Versioning with Git Large File Storage (Git LFS)|05. Binary Asset Versioning and Git LFS]]
-- 📂 [[Git Stash Internals, Stash Stack, and Patch Formatting|06. Git Stash Internals and Patch Queues]]
+- 📂 [[Anatomy of Merge Conflicts and Conflict Markers|01. Anatomy of Merge Conflicts and Conflict Markers]]
+- 📂 [[Automated Regression Hunting with Git Bisect|02. Automated Regression Hunting with Git Bisect]]
+- 📂 [[Git Blame, Log Archaeology, and Git Pickaxe|03. Git Blame, Log Archaeology, and Git Pickaxe]]
+- 📂 [[Git Submodules and Monorepo Subtrees|04. Git Submodules and Monorepo Subtrees]]
+- 📂 [[Binary Asset Versioning and Git LFS|05. Binary Asset Versioning and Git LFS]]
+- 📂 [[Git Stash Internals and Patch Queues|06. Git Stash Internals and Patch Queues]]
 
 ---
 

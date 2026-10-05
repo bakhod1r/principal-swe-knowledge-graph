@@ -1,5 +1,5 @@
 ---
-title: "Vault Automation with Terraform and CI-CD Pipelines"
+title: Vault Automation with Terraform and CI-CD Pipelines
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Managing Vault as code, JWT/OIDC auth from CI runners, and secret-zero avoidance
 ```text
 Vault Automation with Terraform and CI-CD Pipelines
 │
-├── [[Vault Automation with Terraform and CI-CD Pipelines Engineering Standards and Invariants]]
-├── [[Vault Automation with Terraform and CI-CD Pipelines Production Implementation Patterns]]
-└── [[Vault Automation with Terraform and CI-CD Pipelines Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Vault Automation with Terraform and CI-CD Pipelines Engineering Standards and Invariants]]
-- [[Vault Automation with Terraform and CI-CD Pipelines Production Implementation Patterns]]
-- [[Vault Automation with Terraform and CI-CD Pipelines Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/13. Vault Automation with Terraform and CI-CD Pipelines/Failure Modes|Failure Modes]]
 
 ---
 

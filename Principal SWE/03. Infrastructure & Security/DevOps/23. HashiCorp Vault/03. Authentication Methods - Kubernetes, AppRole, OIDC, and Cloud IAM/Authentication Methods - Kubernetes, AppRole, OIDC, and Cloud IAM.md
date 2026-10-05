@@ -1,5 +1,5 @@
 ---
-title: "Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM"
+title: Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Machine and human auth methods, role binding, and choosing auth per workload.
 ```text
 Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM
 │
-├── [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Engineering Standards and Invariants]]
-├── [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Production Implementation Patterns]]
-└── [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Engineering Standards and Invariants]]
-- [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Production Implementation Patterns]]
-- [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM/Failure Modes|Failure Modes]]
 
 ---
 

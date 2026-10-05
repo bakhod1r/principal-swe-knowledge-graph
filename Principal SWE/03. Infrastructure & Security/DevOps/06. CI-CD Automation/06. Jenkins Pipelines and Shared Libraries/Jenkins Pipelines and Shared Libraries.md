@@ -1,5 +1,5 @@
 ---
-title: "Jenkins Pipelines and Shared Libraries"
+title: Jenkins Pipelines and Shared Libraries
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Declarative vs scripted Jenkinsfiles, agents, shared libraries, controller scali
 ```text
 Jenkins Pipelines and Shared Libraries
 │
-├── [[Jenkins Pipelines and Shared Libraries Engineering Standards and Invariants]]
-├── [[Jenkins Pipelines and Shared Libraries Production Implementation Patterns]]
-└── [[Jenkins Pipelines and Shared Libraries Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Jenkins Pipelines and Shared Libraries Engineering Standards and Invariants]]
-- [[Jenkins Pipelines and Shared Libraries Production Implementation Patterns]]
-- [[Jenkins Pipelines and Shared Libraries Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/06. Jenkins Pipelines and Shared Libraries/Failure Modes|Failure Modes]]
 
 ---
 

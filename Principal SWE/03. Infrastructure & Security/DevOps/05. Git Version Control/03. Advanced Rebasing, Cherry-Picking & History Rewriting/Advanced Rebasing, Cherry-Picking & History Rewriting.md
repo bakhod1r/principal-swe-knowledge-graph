@@ -17,24 +17,24 @@ History manipulation and surgical surgery: Interactive rebase, autosquash, fixup
 ```text
 Advanced Rebasing, Cherry-Picking & History Rewriting
 │
-├── [[Interactive Rebasing (git rebase -i) and History Crafting|01. Interactive Rebasing and History Crafting]]
-├── [[Fixup Commits, Amend Idioms, and Git Autosquash|02. Fixup Commits and Automated Autosquash]]
-├── [[Advanced Cherry-Picking (git cherry-pick) and Range Extraction|03. Cherry-Picking Commits and Merge Base Tracking]]
-├── [[Git Reflog (Reference Logs) and Disaster Recovery Engineering|04. Git Reflog and Disaster Recovery Engineering]]
-├── [[Git Rerere (Reuse Recorded Resolution) and Merge Conflict Memory|05. Reuse Recorded Resolution Git Rerere]]
-└── [[Large-Scale History Surgery with Git-Filter-Repo and BFG|06. Large Scale History Surgery and Git Filter-Repo]]
+├── [[Interactive Rebasing and History Crafting|01. Interactive Rebasing and History Crafting]]
+├── [[Fixup Commits and Automated Autosquash|02. Fixup Commits and Automated Autosquash]]
+├── [[Cherry-Picking Commits and Merge Base Tracking|03. Cherry-Picking Commits and Merge Base Tracking]]
+├── [[Git Reflog and Disaster Recovery Engineering|04. Git Reflog and Disaster Recovery Engineering]]
+├── [[Reuse Recorded Resolution Git Rerere|05. Reuse Recorded Resolution Git Rerere]]
+└── [[Large Scale History Surgery and Git Filter-Repo|06. Large Scale History Surgery and Git Filter-Repo]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Interactive Rebasing (git rebase -i) and History Crafting|01. Interactive Rebasing and History Crafting]]
-- 📂 [[Fixup Commits, Amend Idioms, and Git Autosquash|02. Fixup Commits and Automated Autosquash]]
-- 📂 [[Advanced Cherry-Picking (git cherry-pick) and Range Extraction|03. Cherry-Picking Commits and Merge Base Tracking]]
-- 📂 [[Git Reflog (Reference Logs) and Disaster Recovery Engineering|04. Git Reflog and Disaster Recovery Engineering]]
-- 📂 [[Git Rerere (Reuse Recorded Resolution) and Merge Conflict Memory|05. Reuse Recorded Resolution Git Rerere]]
-- 📂 [[Large-Scale History Surgery with Git-Filter-Repo and BFG|06. Large Scale History Surgery and Git Filter-Repo]]
+- 📂 [[Interactive Rebasing and History Crafting|01. Interactive Rebasing and History Crafting]]
+- 📂 [[Fixup Commits and Automated Autosquash|02. Fixup Commits and Automated Autosquash]]
+- 📂 [[Cherry-Picking Commits and Merge Base Tracking|03. Cherry-Picking Commits and Merge Base Tracking]]
+- 📂 [[Git Reflog and Disaster Recovery Engineering|04. Git Reflog and Disaster Recovery Engineering]]
+- 📂 [[Reuse Recorded Resolution Git Rerere|05. Reuse Recorded Resolution Git Rerere]]
+- 📂 [[Large Scale History Surgery and Git Filter-Repo|06. Large Scale History Surgery and Git Filter-Repo]]
 
 ---
 

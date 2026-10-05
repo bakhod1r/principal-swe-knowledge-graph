@@ -17,26 +17,26 @@ Comprehensive, production-grade master architecture covering OSI/TCP-IP packet m
 ```text
 Network Engineering
 │
-├── [[Network Security Architecture - Next Gen Firewalls, IDS IPS, and VPNs|01. Network Security Firewalls, IDS IPS, and VPN Tunnels]]
-├── [[Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies|02. Layer 4 vs Layer 7 Load Balancing and Traffic Routing]]
-├── [[Network Automation Engineering - Netmiko, NAPALM, and Ansible Playbooks|03. Network Automation with Python, Netmiko, and Ansible]]
-├── [[Network Observability - Wireshark Packet Analysis, tcpdump, and eBPF|04. Network Observability, Packet Analysis, and Troubleshooting]]
-├── [[Software Defined Networking (SDN) and SD WAN Architecture|05. Software Defined Networking SDN and SD WAN Architecture]]
-├── [[Kernel Bypass Networking - Data Plane Development Kit (DPDK) and RDMA|06. High Performance Kernel Bypass Networking DPDK and RDMA]]
-└── [[Web Servers, Reverse Proxies, and Edge Ingress (nginx, Caddy)|07. Web Servers and Reverse Proxies]]
+├── [[Network Security Firewalls, IDS IPS, and VPN Tunnels|01. Network Security Firewalls, IDS IPS, and VPN Tunnels]]
+├── [[Layer 4 vs Layer 7 Load Balancing and Traffic Routing|02. Layer 4 vs Layer 7 Load Balancing and Traffic Routing]]
+├── [[Network Automation with Python, Netmiko, and Ansible|03. Network Automation with Python, Netmiko, and Ansible]]
+├── [[Network Observability, Packet Analysis, and Troubleshooting|04. Network Observability, Packet Analysis, and Troubleshooting]]
+├── [[Software Defined Networking SDN and SD WAN Architecture|05. Software Defined Networking SDN and SD WAN Architecture]]
+├── [[High Performance Kernel Bypass Networking DPDK and RDMA|06. High Performance Kernel Bypass Networking DPDK and RDMA]]
+└── [[Web Servers and Reverse Proxies|07. Web Servers and Reverse Proxies]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Network Security Architecture - Next Gen Firewalls, IDS IPS, and VPNs|01. Network Security Firewalls, IDS IPS, and VPN Tunnels]]
-- 📂 [[Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies|02. Layer 4 vs Layer 7 Load Balancing and Traffic Routing]]
-- 📂 [[Network Automation Engineering - Netmiko, NAPALM, and Ansible Playbooks|03. Network Automation with Python, Netmiko, and Ansible]]
-- 📂 [[Network Observability - Wireshark Packet Analysis, tcpdump, and eBPF|04. Network Observability, Packet Analysis, and Troubleshooting]]
-- 📂 [[Software Defined Networking (SDN) and SD WAN Architecture|05. Software Defined Networking SDN and SD WAN Architecture]]
-- 📂 [[Kernel Bypass Networking - Data Plane Development Kit (DPDK) and RDMA|06. High Performance Kernel Bypass Networking DPDK and RDMA]]
-- 📂 [[Web Servers, Reverse Proxies, and Edge Ingress (nginx, Caddy)|07. Web Servers and Reverse Proxies]]
+- 📂 [[Network Security Firewalls, IDS IPS, and VPN Tunnels|01. Network Security Firewalls, IDS IPS, and VPN Tunnels]]
+- 📂 [[Layer 4 vs Layer 7 Load Balancing and Traffic Routing|02. Layer 4 vs Layer 7 Load Balancing and Traffic Routing]]
+- 📂 [[Network Automation with Python, Netmiko, and Ansible|03. Network Automation with Python, Netmiko, and Ansible]]
+- 📂 [[Network Observability, Packet Analysis, and Troubleshooting|04. Network Observability, Packet Analysis, and Troubleshooting]]
+- 📂 [[Software Defined Networking SDN and SD WAN Architecture|05. Software Defined Networking SDN and SD WAN Architecture]]
+- 📂 [[High Performance Kernel Bypass Networking DPDK and RDMA|06. High Performance Kernel Bypass Networking DPDK and RDMA]]
+- 📂 [[Web Servers and Reverse Proxies|07. Web Servers and Reverse Proxies]]
 
 ---
 

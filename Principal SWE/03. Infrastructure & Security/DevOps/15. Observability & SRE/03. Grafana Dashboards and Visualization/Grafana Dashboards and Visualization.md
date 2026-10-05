@@ -1,5 +1,5 @@
 ---
-title: "Grafana Dashboards and Visualization"
+title: Grafana Dashboards and Visualization
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Data sources, dashboard design, templating, alerting, Loki/Tempo correlation, da
 ```text
 Grafana Dashboards and Visualization
 │
-├── [[Grafana Dashboards and Visualization Engineering Standards and Invariants]]
-├── [[Grafana Dashboards and Visualization Production Implementation Patterns]]
-└── [[Grafana Dashboards and Visualization Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Grafana Dashboards and Visualization Engineering Standards and Invariants]]
-- [[Grafana Dashboards and Visualization Production Implementation Patterns]]
-- [[Grafana Dashboards and Visualization Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/03. Grafana Dashboards and Visualization/Failure Modes|Failure Modes]]
 
 ---
 

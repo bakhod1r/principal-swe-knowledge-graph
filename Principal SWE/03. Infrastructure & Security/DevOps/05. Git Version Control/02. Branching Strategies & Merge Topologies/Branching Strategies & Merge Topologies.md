@@ -17,24 +17,24 @@ Branching topologies: Trunk-Based Development, GitFlow, GitHub Flow, 3-way recur
 ```text
 Branching Strategies & Merge Topologies
 │
-├── [[Enterprise Branching Strategies: Trunk-Based Development vs GitFlow|01. Branching Workflows Trunk Based vs GitFlow]]
-├── [[Merge Topologies: Fast-Forward Merges vs True Three-Way Merges|02. Fast-Forward vs True Three-Way Merges]]
-├── [[Squash Merging, PR Cleanliness, and Commit Atomicity|03. Squash Merging and Clean Commit History]]
-├── [[Managing Long-Lived Release Branches and Hotfix Backports|04. Long-Lived Release Branches and Hotfix Topologies]]
-├── [[Git Worktrees: Checking Out Multiple Branches Simultaneously|05. Git Worktrees for Multi-Branch Parallelism]]
-└── [[Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull|06. Remote Tracking Branches and Upstream Synchronization]]
+├── [[Branching Workflows Trunk Based vs GitFlow|01. Branching Workflows Trunk Based vs GitFlow]]
+├── [[Fast-Forward vs True Three-Way Merges|02. Fast-Forward vs True Three-Way Merges]]
+├── [[Squash Merging and Clean Commit History|03. Squash Merging and Clean Commit History]]
+├── [[Long-Lived Release Branches and Hotfix Topologies|04. Long-Lived Release Branches and Hotfix Topologies]]
+├── [[Git Worktrees for Multi-Branch Parallelism|05. Git Worktrees for Multi-Branch Parallelism]]
+└── [[Remote Tracking Branches and Upstream Synchronization|06. Remote Tracking Branches and Upstream Synchronization]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Enterprise Branching Strategies: Trunk-Based Development vs GitFlow|01. Branching Workflows Trunk Based vs GitFlow]]
-- 📂 [[Merge Topologies: Fast-Forward Merges vs True Three-Way Merges|02. Fast-Forward vs True Three-Way Merges]]
-- 📂 [[Squash Merging, PR Cleanliness, and Commit Atomicity|03. Squash Merging and Clean Commit History]]
-- 📂 [[Managing Long-Lived Release Branches and Hotfix Backports|04. Long-Lived Release Branches and Hotfix Topologies]]
-- 📂 [[Git Worktrees: Checking Out Multiple Branches Simultaneously|05. Git Worktrees for Multi-Branch Parallelism]]
-- 📂 [[Remote Tracking Branches, Upstream Remotes, and Fetch vs Pull|06. Remote Tracking Branches and Upstream Synchronization]]
+- 📂 [[Branching Workflows Trunk Based vs GitFlow|01. Branching Workflows Trunk Based vs GitFlow]]
+- 📂 [[Fast-Forward vs True Three-Way Merges|02. Fast-Forward vs True Three-Way Merges]]
+- 📂 [[Squash Merging and Clean Commit History|03. Squash Merging and Clean Commit History]]
+- 📂 [[Long-Lived Release Branches and Hotfix Topologies|04. Long-Lived Release Branches and Hotfix Topologies]]
+- 📂 [[Git Worktrees for Multi-Branch Parallelism|05. Git Worktrees for Multi-Branch Parallelism]]
+- 📂 [[Remote Tracking Branches and Upstream Synchronization|06. Remote Tracking Branches and Upstream Synchronization]]
 
 ---
 

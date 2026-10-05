@@ -16,18 +16,18 @@ Feature and operational trade-offs, when Swarm still fits, Kompose and migration
 ```text
 Swarm vs Kubernetes and Migration Strategy
 │
-├── [[Swarm vs Kubernetes and Migration Strategy Engineering Standards and Invariants]]
-├── [[Swarm vs Kubernetes and Migration Strategy Production Implementation Patterns]]
-└── [[Swarm vs Kubernetes and Migration Strategy Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Swarm vs Kubernetes and Migration Strategy Engineering Standards and Invariants]]
-- [[Swarm vs Kubernetes and Migration Strategy Production Implementation Patterns]]
-- [[Swarm vs Kubernetes and Migration Strategy Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/09. Swarm vs Kubernetes and Migration Strategy/Failure Modes|Failure Modes]]
 
 ---
 

@@ -14,7 +14,7 @@ Google Cloud and Microsoft Azure core services, identity, networking, and multi-
 ```text
 GCP and Azure Cloud Platforms
 │
-├── [[Public Cloud Providers (AWS, GCP, Azure) and Hybrid Cloud|01. Cloud Providers and Hybrid Deployments]]
+├── [[Cloud Providers and Hybrid Deployments|01. Cloud Providers and Hybrid Deployments]]
 ├── [[Google Cloud Platform Core Services|02. Google Cloud Platform Core Services]]
 └── [[Microsoft Azure Core Services|03. Microsoft Azure Core Services]]
 ```
@@ -23,7 +23,7 @@ GCP and Azure Cloud Platforms
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Public Cloud Providers (AWS, GCP, Azure) and Hybrid Cloud|01. Cloud Providers and Hybrid Deployments]]
+- 📂 [[Cloud Providers and Hybrid Deployments|01. Cloud Providers and Hybrid Deployments]]
 - 📂 [[Google Cloud Platform Core Services|02. Google Cloud Platform Core Services]]
 - 📂 [[Microsoft Azure Core Services|03. Microsoft Azure Core Services]]
 

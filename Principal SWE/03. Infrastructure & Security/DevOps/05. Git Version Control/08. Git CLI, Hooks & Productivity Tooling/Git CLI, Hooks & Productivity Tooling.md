@@ -17,18 +17,18 @@ Modern Git automation: GitHub CLI (`gh`), Git hooks (`pre-commit`, `commit-msg`)
 ```text
 Git CLI, Hooks & Productivity Tooling
 │
-├── [[GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases|01. GitHub CLI Tooling and Terminal Automation]]
-├── [[Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg)|02. Client-Side and Server-Side Git Hooks]]
-└── [[Git Power Aliases, Global Ignore, and Productivity Tuning|03. Git Power Aliases and Productivity Configurations]]
+├── [[GitHub CLI Tooling and Terminal Automation|01. GitHub CLI Tooling and Terminal Automation]]
+├── [[Client-Side and Server-Side Git Hooks|02. Client-Side and Server-Side Git Hooks]]
+└── [[Git Power Aliases and Productivity Configurations|03. Git Power Aliases and Productivity Configurations]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[GitHub CLI (gh) Mastery: Scripting PRs, Issues, and Releases|01. GitHub CLI Tooling and Terminal Automation]]
-- 📂 [[Client-Side and Server-Side Git Hooks Architecture (pre-commit, commit-msg)|02. Client-Side and Server-Side Git Hooks]]
-- 📂 [[Git Power Aliases, Global Ignore, and Productivity Tuning|03. Git Power Aliases and Productivity Configurations]]
+- 📂 [[GitHub CLI Tooling and Terminal Automation|01. GitHub CLI Tooling and Terminal Automation]]
+- 📂 [[Client-Side and Server-Side Git Hooks|02. Client-Side and Server-Side Git Hooks]]
+- 📂 [[Git Power Aliases and Productivity Configurations|03. Git Power Aliases and Productivity Configurations]]
 
 ---
 

@@ -16,18 +16,18 @@ Manager/worker roles, Raft quorum (N/2+1), leader election, odd manager counts, 
 ```text
 Swarm Architecture, Managers, Workers, and Raft Consensus
 │
-├── [[Swarm Architecture, Managers, Workers, and Raft Consensus Engineering Standards and Invariants]]
-├── [[Swarm Architecture, Managers, Workers, and Raft Consensus Production Implementation Patterns]]
-└── [[Swarm Architecture, Managers, Workers, and Raft Consensus Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Swarm Architecture, Managers, Workers, and Raft Consensus Engineering Standards and Invariants]]
-- [[Swarm Architecture, Managers, Workers, and Raft Consensus Production Implementation Patterns]]
-- [[Swarm Architecture, Managers, Workers, and Raft Consensus Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/01. Swarm Architecture, Managers, Workers, and Raft Consensus/Failure Modes|Failure Modes]]
 
 ---
 

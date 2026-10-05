@@ -1,5 +1,5 @@
 ---
-title: "Vault Secrets Operator and External Secrets Integration"
+title: Vault Secrets Operator and External Secrets Integration
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Syncing Vault secrets to Kubernetes Secrets, VSO vs External Secrets Operator, r
 ```text
 Vault Secrets Operator and External Secrets Integration
 │
-├── [[Vault Secrets Operator and External Secrets Integration Engineering Standards and Invariants]]
-├── [[Vault Secrets Operator and External Secrets Integration Production Implementation Patterns]]
-└── [[Vault Secrets Operator and External Secrets Integration Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Vault Secrets Operator and External Secrets Integration Engineering Standards and Invariants]]
-- [[Vault Secrets Operator and External Secrets Integration Production Implementation Patterns]]
-- [[Vault Secrets Operator and External Secrets Integration Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/10. Vault Secrets Operator and External Secrets Integration/Failure Modes|Failure Modes]]
 
 ---
 

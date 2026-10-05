@@ -16,18 +16,18 @@ Raft-encrypted secrets, tmpfs mounts at /run/secrets, configs, rotation via vers
 ```text
 Secrets and Configs Management
 │
-├── [[Secrets and Configs Management Engineering Standards and Invariants]]
-├── [[Secrets and Configs Management Production Implementation Patterns]]
-└── [[Secrets and Configs Management Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Secrets and Configs Management Engineering Standards and Invariants]]
-- [[Secrets and Configs Management Production Implementation Patterns]]
-- [[Secrets and Configs Management Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/08. Docker Swarm/04. Secrets and Configs Management/Failure Modes|Failure Modes]]
 
 ---
 

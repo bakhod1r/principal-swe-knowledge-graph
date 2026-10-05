@@ -1,5 +1,5 @@
 ---
-title: "High Availability, Replication, and Disaster Recovery"
+title: High Availability, Replication, and Disaster Recovery
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ HA clusters, performance and DR replication, snapshots, and recovery procedures.
 ```text
 High Availability, Replication, and Disaster Recovery
 │
-├── [[High Availability, Replication, and Disaster Recovery Engineering Standards and Invariants]]
-├── [[High Availability, Replication, and Disaster Recovery Production Implementation Patterns]]
-└── [[High Availability, Replication, and Disaster Recovery Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[High Availability, Replication, and Disaster Recovery Engineering Standards and Invariants]]
-- [[High Availability, Replication, and Disaster Recovery Production Implementation Patterns]]
-- [[High Availability, Replication, and Disaster Recovery Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/11. High Availability, Replication, and Disaster Recovery/Failure Modes|Failure Modes]]
 
 ---
 

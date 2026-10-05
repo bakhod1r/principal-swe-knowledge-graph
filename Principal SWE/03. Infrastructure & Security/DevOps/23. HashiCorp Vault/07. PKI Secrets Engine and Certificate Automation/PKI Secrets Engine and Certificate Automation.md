@@ -1,5 +1,5 @@
 ---
-title: "PKI Secrets Engine and Certificate Automation"
+title: PKI Secrets Engine and Certificate Automation
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Root/intermediate CAs, roles, short-lived certificates, CRL/OCSP, and cert-manag
 ```text
 PKI Secrets Engine and Certificate Automation
 │
-├── [[PKI Secrets Engine and Certificate Automation Engineering Standards and Invariants]]
-├── [[PKI Secrets Engine and Certificate Automation Production Implementation Patterns]]
-└── [[PKI Secrets Engine and Certificate Automation Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[PKI Secrets Engine and Certificate Automation Engineering Standards and Invariants]]
-- [[PKI Secrets Engine and Certificate Automation Production Implementation Patterns]]
-- [[PKI Secrets Engine and Certificate Automation Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/07. PKI Secrets Engine and Certificate Automation/Failure Modes|Failure Modes]]
 
 ---
 

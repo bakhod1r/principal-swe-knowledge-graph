@@ -17,18 +17,18 @@ Software supply chain security: GPG/SSH commit signing, Secret Scanning & Push P
 ```text
 Repository Security and Secret Scanning
 │
-├── [[Cryptographic Commit Signing with GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
-├── [[GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks|02. Secret Scanning and Push Protection Gates]]
-└── [[Dependabot Vulnerability Alerts and Automated Security Updates|03. Automated Dependency Vulnerability Management Dependabot]]
+├── [[Cryptographic Commit Signing GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
+├── [[Secret Scanning and Push Protection Gates|02. Secret Scanning and Push Protection Gates]]
+└── [[Automated Dependency Vulnerability Management Dependabot|03. Automated Dependency Vulnerability Management Dependabot]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Cryptographic Commit Signing with GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
-- 📂 [[GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks|02. Secret Scanning and Push Protection Gates]]
-- 📂 [[Dependabot Vulnerability Alerts and Automated Security Updates|03. Automated Dependency Vulnerability Management Dependabot]]
+- 📂 [[Cryptographic Commit Signing GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
+- 📂 [[Secret Scanning and Push Protection Gates|02. Secret Scanning and Push Protection Gates]]
+- 📂 [[Automated Dependency Vulnerability Management Dependabot|03. Automated Dependency Vulnerability Management Dependabot]]
 
 ---
 

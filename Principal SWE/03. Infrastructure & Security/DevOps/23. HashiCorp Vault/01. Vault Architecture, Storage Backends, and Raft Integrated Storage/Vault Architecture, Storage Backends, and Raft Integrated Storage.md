@@ -1,5 +1,5 @@
 ---
-title: "Vault Architecture, Storage Backends, and Raft Integrated Storage"
+title: Vault Architecture, Storage Backends, and Raft Integrated Storage
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Core components, barrier encryption, storage backends, Raft integrated storage, 
 ```text
 Vault Architecture, Storage Backends, and Raft Integrated Storage
 │
-├── [[Vault Architecture, Storage Backends, and Raft Integrated Storage Engineering Standards and Invariants]]
-├── [[Vault Architecture, Storage Backends, and Raft Integrated Storage Production Implementation Patterns]]
-└── [[Vault Architecture, Storage Backends, and Raft Integrated Storage Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Vault Architecture, Storage Backends, and Raft Integrated Storage Engineering Standards and Invariants]]
-- [[Vault Architecture, Storage Backends, and Raft Integrated Storage Production Implementation Patterns]]
-- [[Vault Architecture, Storage Backends, and Raft Integrated Storage Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/01. Vault Architecture, Storage Backends, and Raft Integrated Storage/Failure Modes|Failure Modes]]
 
 ---
 

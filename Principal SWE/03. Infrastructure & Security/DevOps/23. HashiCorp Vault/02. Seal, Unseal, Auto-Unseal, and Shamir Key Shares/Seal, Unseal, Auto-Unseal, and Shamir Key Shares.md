@@ -1,5 +1,5 @@
 ---
-title: "Seal, Unseal, Auto-Unseal, and Shamir Key Shares"
+title: Seal, Unseal, Auto-Unseal, and Shamir Key Shares
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Shamir secret sharing, unseal keys, auto-unseal with cloud KMS/HSM, recovery key
 ```text
 Seal, Unseal, Auto-Unseal, and Shamir Key Shares
 │
-├── [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Engineering Standards and Invariants]]
-├── [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Production Implementation Patterns]]
-└── [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Engineering Standards and Invariants]]
-- [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Production Implementation Patterns]]
-- [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares/Failure Modes|Failure Modes]]
 
 ---
 

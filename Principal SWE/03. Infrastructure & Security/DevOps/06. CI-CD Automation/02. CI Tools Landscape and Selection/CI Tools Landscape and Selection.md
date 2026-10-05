@@ -1,5 +1,5 @@
 ---
-title: "CI Tools Landscape and Selection"
+title: CI Tools Landscape and Selection
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Hosted vs self-hosted CI, GitHub Actions, GitLab CI, Jenkins, CircleCI, Buildkit
 ```text
 CI Tools Landscape and Selection
 │
-├── [[CI Tools Landscape and Selection Engineering Standards and Invariants]]
-├── [[CI Tools Landscape and Selection Production Implementation Patterns]]
-└── [[CI Tools Landscape and Selection Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[CI Tools Landscape and Selection Engineering Standards and Invariants]]
-- [[CI Tools Landscape and Selection Production Implementation Patterns]]
-- [[CI Tools Landscape and Selection Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/06. CI-CD Automation/02. CI Tools Landscape and Selection/Failure Modes|Failure Modes]]
 
 ---
 

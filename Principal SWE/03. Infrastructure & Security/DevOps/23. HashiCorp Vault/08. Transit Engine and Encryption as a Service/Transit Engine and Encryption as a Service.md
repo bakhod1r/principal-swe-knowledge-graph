@@ -1,5 +1,5 @@
 ---
-title: "Transit Engine and Encryption as a Service"
+title: Transit Engine and Encryption as a Service
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Encrypt/decrypt/sign APIs, key rotation, rewrap, convergent encryption, and enve
 ```text
 Transit Engine and Encryption as a Service
 │
-├── [[Transit Engine and Encryption as a Service Engineering Standards and Invariants]]
-├── [[Transit Engine and Encryption as a Service Production Implementation Patterns]]
-└── [[Transit Engine and Encryption as a Service Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Transit Engine and Encryption as a Service Engineering Standards and Invariants]]
-- [[Transit Engine and Encryption as a Service Production Implementation Patterns]]
-- [[Transit Engine and Encryption as a Service Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/08. Transit Engine and Encryption as a Service/Failure Modes|Failure Modes]]
 
 ---
 

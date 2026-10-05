@@ -1,5 +1,5 @@
 ---
-title: "SLI, SLO, and Error Budget Engineering"
+title: SLI, SLO, and Error Budget Engineering
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ Choosing SLIs, setting SLOs, error budget policy, and multi-window burn-rate ale
 ```text
 SLI, SLO, and Error Budget Engineering
 │
-├── [[SLI, SLO, and Error Budget Engineering Engineering Standards and Invariants]]
-├── [[SLI, SLO, and Error Budget Engineering Production Implementation Patterns]]
-└── [[SLI, SLO, and Error Budget Engineering Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[SLI, SLO, and Error Budget Engineering Engineering Standards and Invariants]]
-- [[SLI, SLO, and Error Budget Engineering Production Implementation Patterns]]
-- [[SLI, SLO, and Error Budget Engineering Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/15. Observability & SRE/06. SLI, SLO, and Error Budget Engineering/Failure Modes|Failure Modes]]
 
 ---
 

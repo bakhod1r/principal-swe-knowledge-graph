@@ -1,5 +1,5 @@
 ---
-title: "Policies, Tokens, Leases, and Identity"
+title: Policies, Tokens, Leases, and Identity
 tags:
   - devops
   - platform-engineering
@@ -15,18 +15,18 @@ ACL policies (HCL), token types and TTLs, lease renewal/revocation, entities and
 ```text
 Policies, Tokens, Leases, and Identity
 │
-├── [[Policies, Tokens, Leases, and Identity Engineering Standards and Invariants]]
-├── [[Policies, Tokens, Leases, and Identity Production Implementation Patterns]]
-└── [[Policies, Tokens, Leases, and Identity Failure Modes and Operational Mitigations]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Standards|Standards]]
+├── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Patterns|Patterns]]
+└── [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Failure Modes|Failure Modes]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Policies, Tokens, Leases, and Identity Engineering Standards and Invariants]]
-- [[Policies, Tokens, Leases, and Identity Production Implementation Patterns]]
-- [[Policies, Tokens, Leases, and Identity Failure Modes and Operational Mitigations]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Standards|Standards]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Patterns|Patterns]]
+- [[Principal SWE/03. Infrastructure & Security/DevOps/23. HashiCorp Vault/04. Policies, Tokens, Leases, and Identity/Failure Modes|Failure Modes]]
 
 ---
 

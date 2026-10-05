@@ -8,18 +8,18 @@ parent: "[[DevOps]]"
 ```text
 DevOps Automation Tooling
 │
-├── [[Programming Languages for DevOps (Python, Go, Rust, Bash)|01. Learn a Programming Language for DevOps]]
-├── [[Configuration Management, Ansible Playbooks, and Idempotency|02. Configuration Management and Ansible]]
-└── [[Disaster Recovery Planning, Backup Automation, and RTO RPO|03. Disaster Recovery and Backup Automation]]
+├── [[Learn a Programming Language for DevOps|01. Learn a Programming Language for DevOps]]
+├── [[Configuration Management and Ansible|02. Configuration Management and Ansible]]
+└── [[Disaster Recovery and Backup Automation|03. Disaster Recovery and Backup Automation]]
 ```
 
 ---
 
 ## 🗂️ Core Knowledge Domains
 
-- 📂 [[Programming Languages for DevOps (Python, Go, Rust, Bash)|01. Learn a Programming Language for DevOps]]
-- 📂 [[Configuration Management, Ansible Playbooks, and Idempotency|02. Configuration Management and Ansible]]
-- 📂 [[Disaster Recovery Planning, Backup Automation, and RTO RPO|03. Disaster Recovery and Backup Automation]]
+- 📂 [[Learn a Programming Language for DevOps|01. Learn a Programming Language for DevOps]]
+- 📂 [[Configuration Management and Ansible|02. Configuration Management and Ansible]]
+- 📂 [[Disaster Recovery and Backup Automation|03. Disaster Recovery and Backup Automation]]
 
 ---
 
