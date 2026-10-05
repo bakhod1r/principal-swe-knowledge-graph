@@ -1,0 +1,26 @@
+---
+title: "Cluster Security, Mutual TLS, and Autolock Engineering Standards and Invariants"
+tags:
+
+  - devops
+  - platform-engineering
+  - docker-swarm
+  - principal-swe
+parent: "[[Cluster Security, Mutual TLS, and Autolock]]"
+---
+
+# Cluster Security, Mutual TLS, and Autolock Engineering Standards and Invariants
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Cluster Security, Mutual TLS, and Autolock]]
+- 📚 Module: `Docker Swarm`
