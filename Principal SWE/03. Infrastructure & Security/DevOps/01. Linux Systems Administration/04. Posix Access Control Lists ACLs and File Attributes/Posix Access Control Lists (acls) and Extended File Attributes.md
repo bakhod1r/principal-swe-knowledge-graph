@@ -1,5 +1,5 @@
 ---
-title: Posix Access Control Lists (acls) and Extended File Attributes
+title: POSIX Access Control Lists (acls) and Extended File Attributes
 tags:
 
   - devops
@@ -9,28 +9,28 @@ tags:
 parent: "[[Linux Systems Administration]]"
 ---
 
-# 📦 Posix Access Control Lists (acls) and Extended File Attributes
+# 📦 POSIX Access Control Lists (acls) and Extended File Attributes
 
 Fine-grained permissions with `getfacl`/`setfacl`, default directory ACLs, and immutable/append-only extended attributes (`chattr +i`, `lsattr`).
 
 ```text
-Posix Access Control Lists (acls) and Extended File Attributes
+POSIX Access Control Lists (acls) and Extended File Attributes
 │
-├── [[Posix Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants]]
-├── [[Posix Access Control Lists (acls) and Extended File Attributes Production Implementation Patterns]]
-└── [[Posix Access Control Lists (acls) and Extended File Attributes Failure Modes and Operational Mitigations]]
+├── [[POSIX Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants]]
+├── [[POSIX Access Control Lists (acls) and Extended File Attributes Production Implementation Patterns]]
+└── [[POSIX Access Control Lists (acls) and Extended File Attributes Failure Modes and Operational Mitigations]]
 ```
 
 ---
 
 ## 🗂️ Platform Blueprints & Operational Patterns
 
-- [[Posix Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants]]
-- [[Posix Access Control Lists (acls) and Extended File Attributes Production Implementation Patterns]]
-- [[Posix Access Control Lists (acls) and Extended File Attributes Failure Modes and Operational Mitigations]]
+- [[POSIX Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants]]
+- [[POSIX Access Control Lists (acls) and Extended File Attributes Production Implementation Patterns]]
+- [[POSIX Access Control Lists (acls) and Extended File Attributes Failure Modes and Operational Mitigations]]
 
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

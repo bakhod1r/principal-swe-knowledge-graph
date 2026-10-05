@@ -1,15 +1,15 @@
 ---
-title: "Linux User and Group Management, Posix Permissions, and Suid Sgid Engineering Standards and Invariants"
+title: "Linux User and Group Management, POSIX Permissions, and Suid Sgid Engineering Standards and Invariants"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux User and Group Management, Posix Permissions, and Suid Sgid]]"
+parent: "[[Linux User and Group Management, POSIX Permissions, and Suid Sgid]]"
 ---
 
-# Linux User and Group Management, Posix Permissions, and Suid Sgid Engineering Standards and Invariants
+# Linux User and Group Management, POSIX Permissions, and Suid Sgid Engineering Standards and Invariants
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux User and Group Management, Posix Permissions, and Suid Sgid]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux User and Group Management, Posix Permissions, and Suid Sgid]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux User and Group Management, POSIX Permissions, and Suid Sgid]]
+- 📚 Module: `Linux Systems Administration`

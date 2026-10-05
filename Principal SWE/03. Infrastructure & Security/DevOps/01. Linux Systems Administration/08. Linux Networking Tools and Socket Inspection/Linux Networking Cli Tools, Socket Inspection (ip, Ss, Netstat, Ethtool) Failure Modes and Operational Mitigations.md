@@ -1,15 +1,15 @@
 ---
-title: "Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Failure Modes and Operational Mitigations"
+title: "Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Failure Modes and Operational Mitigations"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]"
+parent: "[[Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]"
 ---
 
-# Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Failure Modes and Operational Mitigations
+# Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Failure Modes and Operational Mitigations
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethto
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]
+- 📚 Module: `Linux Systems Administration`

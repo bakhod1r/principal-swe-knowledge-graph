@@ -23,4 +23,4 @@ parent: "[[Linux Process Lifecycle, Priority (nice), and Signal Handling]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Linux Process Lifecycle, Priority (nice), and Signal Handling]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

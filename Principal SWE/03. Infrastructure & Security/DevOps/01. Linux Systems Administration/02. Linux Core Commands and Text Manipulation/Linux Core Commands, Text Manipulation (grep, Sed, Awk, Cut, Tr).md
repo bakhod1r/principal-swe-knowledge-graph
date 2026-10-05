@@ -32,5 +32,5 @@ Linux Core Commands, Text Manipulation (grep, Sed, Awk, Cut, Tr)
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

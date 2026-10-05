@@ -32,5 +32,5 @@ Linux Systems Performance Troubleshooting: the Use and Red Methods
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

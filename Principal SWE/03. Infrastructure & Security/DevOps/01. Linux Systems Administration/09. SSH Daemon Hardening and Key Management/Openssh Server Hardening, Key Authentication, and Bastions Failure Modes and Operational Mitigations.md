@@ -23,4 +23,4 @@ parent: "[[Openssh Server Hardening, Key Authentication, and Bastions]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Openssh Server Hardening, Key Authentication, and Bastions]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

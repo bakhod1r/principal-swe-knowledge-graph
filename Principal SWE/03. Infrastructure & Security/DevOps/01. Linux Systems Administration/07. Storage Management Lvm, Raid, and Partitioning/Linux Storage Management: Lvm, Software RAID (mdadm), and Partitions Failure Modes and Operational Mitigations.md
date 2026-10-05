@@ -1,15 +1,15 @@
 ---
-title: "Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions Failure Modes and Operational Mitigations"
+title: "Linux Storage Management: LVM, Software RAID (mdadm), and Partitions Failure Modes and Operational Mitigations"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions]]"
+parent: "[[Linux Storage Management: LVM, Software RAID (mdadm), and Partitions]]"
 ---
 
-# Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions Failure Modes and Operational Mitigations
+# Linux Storage Management: LVM, Software RAID (mdadm), and Partitions Failure Modes and Operational Mitigations
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions]
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux Storage Management: Lvm, Software RAID (mdadm), and Partitions]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux Storage Management: LVM, Software RAID (mdadm), and Partitions]]
+- 📚 Module: `Linux Systems Administration`

@@ -1,0 +1,27 @@
+---
+title: "Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies Failure Modes and Operational Mitigations"
+tags:
+
+  - devops
+  - network-engineering
+  - protocols
+  - infrastructure
+  - principal-swe
+parent: "[[Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies]]"
+---
+
+# Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies Failure Modes and Operational Mitigations
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Network Load Balancing - Layer 4 Direct Server Return (DSR) vs Layer 7 Proxies]]
+- 📚 Module: `Network Engineering`

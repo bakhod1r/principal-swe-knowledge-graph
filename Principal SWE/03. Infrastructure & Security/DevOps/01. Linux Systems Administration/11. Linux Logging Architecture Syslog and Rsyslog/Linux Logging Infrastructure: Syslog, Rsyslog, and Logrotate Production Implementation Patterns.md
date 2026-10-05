@@ -1,15 +1,15 @@
 ---
-title: "Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate Production Implementation Patterns"
+title: "Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate Production Implementation Patterns"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]"
+parent: "[[Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate]]"
 ---
 
-# Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate Production Implementation Patterns
+# Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate Production Implementation Patterns
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate]]
+- 📚 Module: `Linux Systems Administration`

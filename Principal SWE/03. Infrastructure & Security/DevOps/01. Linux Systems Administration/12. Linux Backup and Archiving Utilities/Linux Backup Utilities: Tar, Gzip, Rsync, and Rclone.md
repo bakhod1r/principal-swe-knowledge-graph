@@ -32,5 +32,5 @@ Linux Backup Utilities: Tar, Gzip, Rsync, and Rclone
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

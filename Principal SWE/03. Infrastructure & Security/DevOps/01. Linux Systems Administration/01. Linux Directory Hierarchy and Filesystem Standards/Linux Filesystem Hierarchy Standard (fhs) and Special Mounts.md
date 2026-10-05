@@ -32,5 +32,5 @@ Linux Filesystem Hierarchy Standard (fhs) and Special Mounts
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

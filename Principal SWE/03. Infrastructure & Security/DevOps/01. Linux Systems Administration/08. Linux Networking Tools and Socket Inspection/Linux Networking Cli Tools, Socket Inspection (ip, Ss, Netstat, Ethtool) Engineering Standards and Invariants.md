@@ -1,15 +1,15 @@
 ---
-title: "Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Engineering Standards and Invariants"
+title: "Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Engineering Standards and Invariants"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]"
+parent: "[[Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]"
 ---
 
-# Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Engineering Standards and Invariants
+# Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool) Engineering Standards and Invariants
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethto
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux Networking Cli Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux Networking CLI Tools, Socket Inspection (ip, Ss, Netstat, Ethtool)]]
+- 📚 Module: `Linux Systems Administration`

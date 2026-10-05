@@ -23,4 +23,4 @@ parent: "[[Automated Task Scheduling: Cron, Anacron, and Systemd Timers]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Automated Task Scheduling: Cron, Anacron, and Systemd Timers]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

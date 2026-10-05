@@ -1,15 +1,15 @@
 ---
-title: "Posix Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants"
+title: "POSIX Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Posix Access Control Lists (acls) and Extended File Attributes]]"
+parent: "[[POSIX Access Control Lists (acls) and Extended File Attributes]]"
 ---
 
-# Posix Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants
+# POSIX Access Control Lists (acls) and Extended File Attributes Engineering Standards and Invariants
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Posix Access Control Lists (acls) and Extended File Attributes]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Posix Access Control Lists (acls) and Extended File Attributes]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[POSIX Access Control Lists (acls) and Extended File Attributes]]
+- 📚 Module: `Linux Systems Administration`

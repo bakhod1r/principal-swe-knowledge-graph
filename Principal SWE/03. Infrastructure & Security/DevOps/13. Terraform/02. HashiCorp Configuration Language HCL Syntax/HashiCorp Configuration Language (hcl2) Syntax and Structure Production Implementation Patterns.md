@@ -1,0 +1,26 @@
+---
+title: "HashiCorp Configuration Language (hcl2) Syntax and Structure Production Implementation Patterns"
+tags:
+
+  - devops
+  - platform-engineering
+  - terraform-and-infrastructure-as-code-(iac)
+  - principal-swe
+parent: "[[HashiCorp Configuration Language (hcl2) Syntax and Structure]]"
+---
+
+# HashiCorp Configuration Language (hcl2) Syntax and Structure Production Implementation Patterns
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[HashiCorp Configuration Language (hcl2) Syntax and Structure]]
+- 📚 Module: `Terraform`

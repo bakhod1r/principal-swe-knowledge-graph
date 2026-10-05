@@ -23,4 +23,4 @@ parent: "[[Linux Core Commands, Text Manipulation (grep, Sed, Awk, Cut, Tr)]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Linux Core Commands, Text Manipulation (grep, Sed, Awk, Cut, Tr)]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

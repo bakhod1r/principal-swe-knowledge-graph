@@ -32,5 +32,5 @@ Openssh Server Hardening, Key Authentication, and Bastions
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

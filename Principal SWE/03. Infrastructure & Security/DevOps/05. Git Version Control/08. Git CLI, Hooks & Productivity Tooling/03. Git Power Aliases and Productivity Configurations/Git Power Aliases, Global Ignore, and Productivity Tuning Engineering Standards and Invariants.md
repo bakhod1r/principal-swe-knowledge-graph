@@ -1,0 +1,27 @@
+---
+title: "Git Power Aliases, Global Ignore, and Productivity Tuning Engineering Standards and Invariants"
+tags:
+
+  - devops
+  - git-and-github
+  - version-control
+  - gitops,-enterprise-cli-and-automation-tooling
+  - principal-swe
+parent: "[[Git Power Aliases, Global Ignore, and Productivity Tuning]]"
+---
+
+# Git Power Aliases, Global Ignore, and Productivity Tuning Engineering Standards and Invariants
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Git Power Aliases, Global Ignore, and Productivity Tuning]]
+- 📚 Module: `Git & GitHub Version Control & CI-CD Automation`

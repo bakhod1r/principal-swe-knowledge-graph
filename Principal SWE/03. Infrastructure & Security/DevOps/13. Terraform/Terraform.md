@@ -1,0 +1,58 @@
+---
+title: Terraform
+tags:
+  - devops
+  - platform-engineering
+  - principal-swe
+parent: "[[DevOps]]"
+---
+
+# 🚀 Terraform
+
+Comprehensive engineering guide, platform standards, and infrastructure automation blueprints for Terraform & Infrastructure As Code (iac).
+
+```text
+Terraform
+│
+├── [[Terraform Architecture, Core Engine, and Init Plan Apply Workflow|01. Terraform Architecture and Core Workflow]]
+├── [[HashiCorp Configuration Language (hcl2) Syntax and Structure|02. HashiCorp Configuration Language HCL Syntax]]
+├── [[Terraform State Management, S3 Backends, and DynamoDB Locking|03. State Management and Remote Backends]]
+├── [[Terraform State Manipulation, State Migration, and Import|04. State Manipulation and Refactoring]]
+├── [[Terraform Providers Architecture, Aliases, and Resource Schemas|05. Providers and Resource Definitions]]
+├── [[Terraform Input Variables, Outputs, and Custom Validation Rules|06. Input Variables, Outputs, and Validation]]
+├── [[Building Reusable, Modular Terraform Blueprints and Modules|07. Modular Terraform Blueprints and Best Practices]]
+├── [[Dynamic Blocks, for Expressions, and Splat Syntax in Terraform|08. Dynamic Blocks and Advanced Expressions]]
+├── [[Terraform Built in Functions, String Manipulation, and Templates|09. Built in Functions and Template Generation]]
+├── [[Terraform Workspaces vs Directory Based Multi Environment Architecture|10. Terraform Workspaces and Multi Environment Topologies]]
+├── [[Terraform Resource Lifecycles and Provisioners|11. Resource Lifecycles and Provisioners]]
+├── [[Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution|12. Terragrunt for Dry Infrastructure Architectures]]
+├── [[Terraform Cloud, Enterprise, and Infrastructure Orchestration Platforms|13. Terraform Cloud, Enterprise, and Spacelift]]
+├── [[Automated Infrastructure Testing with Terratest in Go|14. Automated Testing with Terratest]]
+└── [[Production Terraform Troubleshooting, Lock Clearing, and State Recovery|15. Production Terraform Troubleshooting and State Recovery]]
+```
+
+---
+
+## 🗂️ Core Knowledge Domains
+
+- 📂 [[Terraform Architecture, Core Engine, and Init Plan Apply Workflow|01. Terraform Architecture and Core Workflow]]
+- 📂 [[HashiCorp Configuration Language (hcl2) Syntax and Structure|02. HashiCorp Configuration Language HCL Syntax]]
+- 📂 [[Terraform State Management, S3 Backends, and DynamoDB Locking|03. State Management and Remote Backends]]
+- 📂 [[Terraform State Manipulation, State Migration, and Import|04. State Manipulation and Refactoring]]
+- 📂 [[Terraform Providers Architecture, Aliases, and Resource Schemas|05. Providers and Resource Definitions]]
+- 📂 [[Terraform Input Variables, Outputs, and Custom Validation Rules|06. Input Variables, Outputs, and Validation]]
+- 📂 [[Building Reusable, Modular Terraform Blueprints and Modules|07. Modular Terraform Blueprints and Best Practices]]
+- 📂 [[Dynamic Blocks, for Expressions, and Splat Syntax in Terraform|08. Dynamic Blocks and Advanced Expressions]]
+- 📂 [[Terraform Built in Functions, String Manipulation, and Templates|09. Built in Functions and Template Generation]]
+- 📂 [[Terraform Workspaces vs Directory Based Multi Environment Architecture|10. Terraform Workspaces and Multi Environment Topologies]]
+- 📂 [[Terraform Resource Lifecycles and Provisioners|11. Resource Lifecycles and Provisioners]]
+- 📂 [[Terragrunt: Dry Terraform Code, Remote State Auto Init, and Dag Execution|12. Terragrunt for Dry Infrastructure Architectures]]
+- 📂 [[Terraform Cloud, Enterprise, and Infrastructure Orchestration Platforms|13. Terraform Cloud, Enterprise, and Spacelift]]
+- 📂 [[Automated Infrastructure Testing with Terratest in Go|14. Automated Testing with Terratest]]
+- 📂 [[Production Terraform Troubleshooting, Lock Clearing, and State Recovery|15. Production Terraform Troubleshooting and State Recovery]]
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[DevOps]]
+

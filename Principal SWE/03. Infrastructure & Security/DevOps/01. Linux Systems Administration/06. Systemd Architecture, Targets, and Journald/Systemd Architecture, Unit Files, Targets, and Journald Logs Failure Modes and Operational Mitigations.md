@@ -1,15 +1,15 @@
 ---
-title: "Systemd Architecture, Unit Files, Targets, and Journald Logs Failure Modes and Operational Mitigations"
+title: "Systemd Architecture, Unit Files, Targets, and journald Logs Failure Modes and Operational Mitigations"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Systemd Architecture, Unit Files, Targets, and Journald Logs]]"
+parent: "[[Systemd Architecture, Unit Files, Targets, and journald Logs]]"
 ---
 
-# Systemd Architecture, Unit Files, Targets, and Journald Logs Failure Modes and Operational Mitigations
+# Systemd Architecture, Unit Files, Targets, and journald Logs Failure Modes and Operational Mitigations
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Systemd Architecture, Unit Files, Targets, and Journald Logs]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Systemd Architecture, Unit Files, Targets, and Journald Logs]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Systemd Architecture, Unit Files, Targets, and journald Logs]]
+- 📚 Module: `Linux Systems Administration`

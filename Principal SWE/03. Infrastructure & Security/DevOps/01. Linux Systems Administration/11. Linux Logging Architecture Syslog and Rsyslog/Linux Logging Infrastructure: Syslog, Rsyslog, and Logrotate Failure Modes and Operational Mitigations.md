@@ -1,15 +1,15 @@
 ---
-title: "Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate Failure Modes and Operational Mitigations"
+title: "Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate Failure Modes and Operational Mitigations"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]"
+parent: "[[Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate]]"
 ---
 
-# Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate Failure Modes and Operational Mitigations
+# Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate Failure Modes and Operational Mitigations
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Linux Logging Infrastructure: Syslog, Rsyslog, and Logrotate]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Linux Logging Infrastructure: Syslog, rsyslog, and Logrotate]]
+- 📚 Module: `Linux Systems Administration`

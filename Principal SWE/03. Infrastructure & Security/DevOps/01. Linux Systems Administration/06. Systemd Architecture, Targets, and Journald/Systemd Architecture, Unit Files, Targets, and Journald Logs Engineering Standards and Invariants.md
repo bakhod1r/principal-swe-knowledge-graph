@@ -1,15 +1,15 @@
 ---
-title: "Systemd Architecture, Unit Files, Targets, and Journald Logs Engineering Standards and Invariants"
+title: "Systemd Architecture, Unit Files, Targets, and journald Logs Engineering Standards and Invariants"
 tags:
 
   - devops
   - platform-engineering
   - linux-systems-administration-and-kernel-engineering
   - principal-swe
-parent: "[[Systemd Architecture, Unit Files, Targets, and Journald Logs]]"
+parent: "[[Systemd Architecture, Unit Files, Targets, and journald Logs]]"
 ---
 
-# Systemd Architecture, Unit Files, Targets, and Journald Logs Engineering Standards and Invariants
+# Systemd Architecture, Unit Files, Targets, and journald Logs Engineering Standards and Invariants
 
 ## 1. Definition
 
@@ -22,5 +22,5 @@ parent: "[[Systemd Architecture, Unit Files, Targets, and Journald Logs]]"
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Systemd Architecture, Unit Files, Targets, and Journald Logs]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: [[Systemd Architecture, Unit Files, Targets, and journald Logs]]
+- 📚 Module: `Linux Systems Administration`

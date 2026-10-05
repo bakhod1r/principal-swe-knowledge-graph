@@ -1,0 +1,26 @@
+---
+title: "Zero Downtime Infrastructure Refactoring and Database Migrations Failure Modes and Operational Mitigations"
+tags:
+
+  - devops
+  - platform-engineering
+  - terraform-and-infrastructure-as-code-(iac)
+  - principal-swe
+parent: "[[Zero Downtime Infrastructure Refactoring and Database Migrations]]"
+---
+
+# Zero Downtime Infrastructure Refactoring and Database Migrations Failure Modes and Operational Mitigations
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Zero Downtime Infrastructure Refactoring and Database Migrations]]
+- 📚 Module: `Terraform`

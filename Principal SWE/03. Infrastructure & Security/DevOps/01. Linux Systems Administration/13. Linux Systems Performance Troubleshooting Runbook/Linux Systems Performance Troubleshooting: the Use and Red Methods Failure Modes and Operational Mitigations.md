@@ -23,4 +23,4 @@ parent: "[[Linux Systems Performance Troubleshooting: the Use and Red Methods]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Linux Systems Performance Troubleshooting: the Use and Red Methods]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

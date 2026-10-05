@@ -23,4 +23,4 @@ parent: "[[Linux Backup Utilities: Tar, Gzip, Rsync, and Rclone]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Linux Backup Utilities: Tar, Gzip, Rsync, and Rclone]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

@@ -1,0 +1,26 @@
+---
+title: "Infrastructure Cost Estimation with Infracost in Pull Requests Production Implementation Patterns"
+tags:
+
+  - devops
+  - platform-engineering
+  - terraform-and-infrastructure-as-code-(iac)
+  - principal-swe
+parent: "[[Infrastructure Cost Estimation with Infracost in Pull Requests]]"
+---
+
+# Infrastructure Cost Estimation with Infracost in Pull Requests Production Implementation Patterns
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Infrastructure Cost Estimation with Infracost in Pull Requests]]
+- 📚 Module: `Terraform`

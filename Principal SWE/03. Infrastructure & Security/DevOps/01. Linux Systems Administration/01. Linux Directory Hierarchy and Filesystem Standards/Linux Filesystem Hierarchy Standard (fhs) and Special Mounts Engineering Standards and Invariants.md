@@ -23,4 +23,4 @@ parent: "[[Linux Filesystem Hierarchy Standard (fhs) and Special Mounts]]"
 
 ## 🔗 References
 - ⬆️ Parent: [[Linux Filesystem Hierarchy Standard (fhs) and Special Mounts]]
-- 📚 Module: `Linux Systems Administration & Kernel Engineering`
+- 📚 Module: `Linux Systems Administration`

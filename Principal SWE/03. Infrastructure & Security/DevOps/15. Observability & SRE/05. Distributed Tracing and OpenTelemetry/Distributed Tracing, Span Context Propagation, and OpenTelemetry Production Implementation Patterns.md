@@ -1,0 +1,26 @@
+---
+title: "Distributed Tracing, Span Context Propagation, and OpenTelemetry Production Implementation Patterns"
+tags:
+
+  - devops
+  - platform-engineering
+  - core-devops-principles-and-automation-tooling
+  - principal-swe
+parent: "[[Distributed Tracing, Span Context Propagation, and OpenTelemetry]]"
+---
+
+# Distributed Tracing, Span Context Propagation, and OpenTelemetry Production Implementation Patterns
+
+## 1. Definition
+
+## 2. Mental Model
+
+## 3. Usage
+
+## 4. Gotchas
+
+---
+
+## 🔗 References
+- ⬆️ Parent: [[Distributed Tracing, Span Context Propagation, and OpenTelemetry]]
+- 📚 Module: `Core DevOps Principles`

@@ -32,5 +32,5 @@ Automated Task Scheduling: Cron, Anacron, and Systemd Timers
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`

@@ -32,5 +32,5 @@ Linux Process Lifecycle, Priority (nice), and Signal Handling
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Linux Systems Administration & Kernel Engineering`
+- ⬆️ Parent: `Linux Systems Administration`
 - 📚 Module: `DevOps`
