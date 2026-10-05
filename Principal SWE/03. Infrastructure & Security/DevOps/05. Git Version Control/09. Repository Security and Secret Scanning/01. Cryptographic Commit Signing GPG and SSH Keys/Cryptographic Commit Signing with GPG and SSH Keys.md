@@ -7,7 +7,7 @@ tags:
   - version-control
   - repository-security,-secrets-and-supply-chain-hardening
   - principal-swe
-parent: "[[Repository Security, Secrets & Supply Chain Hardening]]"
+parent: "[[Repository Security and Secret Scanning]]"
 ---
 
 # 📦 Cryptographic Commit Signing with GPG and SSH Keys
@@ -33,5 +33,5 @@ Cryptographic Commit Signing with GPG and SSH Keys
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
+- ⬆️ Parent: [[Repository Security and Secret Scanning]]
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`

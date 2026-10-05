@@ -24,7 +24,8 @@ Git Version Control
 ├── [[Git and Version Control Standards for Infrastructure (GitOps)|05. Git and Version Control Best Practices]]
 ├── [[GitHub Enterprise Workflows|06. GitHub Enterprise Workflows]]
 ├── [[PR Engineering|07. PR Engineering]]
-└── [[Git CLI, Hooks & Productivity Tooling|08. Git CLI, Hooks & Productivity Tooling]]
+├── [[Git CLI, Hooks & Productivity Tooling|08. Git CLI, Hooks & Productivity Tooling]]
+└── [[Repository Security and Secret Scanning|09. Repository Security and Secret Scanning]]
 ```
 
 ---
@@ -39,6 +40,7 @@ Git Version Control
 - 📂 [[GitHub Enterprise Workflows|06. GitHub Enterprise Workflows]]
 - 📂 [[PR Engineering|07. PR Engineering]]
 - 📂 [[Git CLI, Hooks & Productivity Tooling|08. Git CLI, Hooks & Productivity Tooling]]
+- 📂 [[Repository Security and Secret Scanning|09. Repository Security and Secret Scanning]]
 
 ---
 

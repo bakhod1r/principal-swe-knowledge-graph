@@ -1,5 +1,5 @@
 ---
-title: Repository Security, Secrets & Supply Chain Hardening
+title: Repository Security and Secret Scanning
 tags:
 
   - devops
@@ -7,21 +7,19 @@ tags:
   - version-control
   - repository-security,-secrets-and-supply-chain-hardening
   - principal-swe
-parent: "[[CI-CD Automation]]"
+parent: "[[Git Version Control]]"
 ---
 
-# 🐙 Repository Security, Secrets & Supply Chain Hardening
+# 🐙 Repository Security and Secret Scanning
 
 Software supply chain security: GPG/SSH commit signing, Secret Scanning & Push Protection, Dependabot, CodeQL (SAST), SBOM generation, and SLSA provenance.
 
 ```text
-Repository Security, Secrets & Supply Chain Hardening
+Repository Security and Secret Scanning
 │
 ├── [[Cryptographic Commit Signing with GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
 ├── [[GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks|02. Secret Scanning and Push Protection Gates]]
-├── [[Dependabot Vulnerability Alerts and Automated Security Updates|03. Automated Dependency Vulnerability Management Dependabot]]
-├── [[CodeQL Static Application Security Testing (SAST) in GitHub Actions|04. CodeQL Static Analysis and Security Scanning SAST]]
-└── [[Artifact Provenance, GitHub Artifact Attestations, and SLSA|05. Supply Chain Attestation and Artifact Provenance]]
+└── [[Dependabot Vulnerability Alerts and Automated Security Updates|03. Automated Dependency Vulnerability Management Dependabot]]
 ```
 
 ---
@@ -31,11 +29,9 @@ Repository Security, Secrets & Supply Chain Hardening
 - 📂 [[Cryptographic Commit Signing with GPG and SSH Keys|01. Cryptographic Commit Signing GPG and SSH Keys]]
 - 📂 [[GitHub Secret Scanning, Push Protection, and Pre-Commit Hooks|02. Secret Scanning and Push Protection Gates]]
 - 📂 [[Dependabot Vulnerability Alerts and Automated Security Updates|03. Automated Dependency Vulnerability Management Dependabot]]
-- 📂 [[CodeQL Static Application Security Testing (SAST) in GitHub Actions|04. CodeQL Static Analysis and Security Scanning SAST]]
-- 📂 [[Artifact Provenance, GitHub Artifact Attestations, and SLSA|05. Supply Chain Attestation and Artifact Provenance]]
 
 ---
 
 ## 🔗 References
-- ⬆️ Parent: `Git & GitHub Version Control & CI-CD Automation`
+- ⬆️ Parent: [[Git Version Control]]
 - 📚 Module: `DevOps`

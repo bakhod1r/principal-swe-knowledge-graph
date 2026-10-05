@@ -13,8 +13,7 @@ CI-CD Automation
 ├── [[GitHub Actions CI-CD & Workflow Automation|03. GitHub Actions CI-CD & Workflow Automation]]
 ├── [[GitLab CI-CD Pipelines and Runners|04. GitLab CI-CD Pipelines and Runners]]
 ├── [[Jenkins Pipelines and Shared Libraries|05. Jenkins Pipelines and Shared Libraries]]
-├── [[Secret Management in CI CD Pipelines and Infrastructure|06. Secret Management in Pipelines]]
-└── [[Repository Security, Secrets & Supply Chain Hardening|07. Repository Security, Secrets & Supply Chain Hardening]]
+└── [[Secret Management in CI CD Pipelines and Infrastructure|06. Secret Management in Pipelines]]
 ```
 
 ---
@@ -27,7 +26,6 @@ CI-CD Automation
 - 📂 [[GitLab CI-CD Pipelines and Runners|04. GitLab CI-CD Pipelines and Runners]]
 - 📂 [[Jenkins Pipelines and Shared Libraries|05. Jenkins Pipelines and Shared Libraries]]
 - 📂 [[Secret Management in CI CD Pipelines and Infrastructure|06. Secret Management in Pipelines]]
-- 📂 [[Repository Security, Secrets & Supply Chain Hardening|07. Repository Security, Secrets & Supply Chain Hardening]]
 
 ---
 

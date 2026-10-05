@@ -7,7 +7,7 @@ tags:
   - version-control
   - repository-security,-secrets-and-supply-chain-hardening
   - principal-swe
-parent: "[[Repository Security, Secrets & Supply Chain Hardening]]"
+parent: "[[DevSecOps]]"
 ---
 
 # 📦 Artifact Provenance, GitHub Artifact Attestations, and SLSA
@@ -33,5 +33,5 @@ Artifact Provenance, GitHub Artifact Attestations, and SLSA
 ---
 
 ## 🔗 References
-- ⬆️ Parent: [[Repository Security, Secrets & Supply Chain Hardening]]
+- ⬆️ Parent: `DevSecOps`
 - 📚 Module: `Git & GitHub Version Control & CI-CD Automation`

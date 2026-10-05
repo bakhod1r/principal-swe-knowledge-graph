@@ -15,7 +15,7 @@ parent: "[[Infrastructure & Security]]"
 
 # 🚀 DevOps, Cloud Infrastructure & Platform Engineering
 
-Comprehensive, production-grade master architecture covering the complete spectrum of cloud infrastructure, container runtimes, Kubernetes orchestration, Infrastructure as Code (Terraform), Linux systems engineering, edge computing, MLOps, enterprise networking (Network Engineer Roadmap), DevSecOps, and Git & GitHub CI/CD automation across 23 master pillars:
+Comprehensive, production-grade master architecture covering the complete spectrum of cloud infrastructure, container runtimes, Kubernetes orchestration, Infrastructure as Code (Terraform), Linux systems engineering, edge computing, MLOps, enterprise networking (Network Engineer Roadmap), DevSecOps, and Git & GitHub CI/CD automation across 24 master pillars:
 
 ```text
 DevOps
@@ -42,7 +42,8 @@ DevOps
 ├── [[CDN Infrastructure|20. CDN Infrastructure]]
 ├── [[DevSecOps|21. DevSecOps]]
 ├── [[Cloud-Native Security Automation|22. Cloud-Native Security Automation]]
-└── [[MLOps & Machine Learning Operations|23. MLOps & Machine Learning Operations]]
+├── [[HashiCorp Vault|23. HashiCorp Vault]]
+└── [[MLOps & Machine Learning Operations|24. MLOps & Machine Learning Operations]]
 ```
 
 ---
@@ -97,6 +98,7 @@ DevOps
 - 📂 [[GitHub Enterprise Workflows|06. GitHub Enterprise Workflows]]
 - 📂 [[PR Engineering|07. PR Engineering]]
 - 📂 [[Git CLI, Hooks & Productivity Tooling|08. Git CLI, Hooks & Productivity Tooling]]
+- 📂 [[Repository Security and Secret Scanning|09. Repository Security and Secret Scanning]]
 
 ### 📂 [[CI-CD Automation|06. CI-CD Automation]]
 - 📂 [[Continuous Integration (CI) Principles and Pipeline Automation|01. Continuous Integration and CI Tools]]
@@ -105,7 +107,6 @@ DevOps
 - 📂 [[GitLab CI-CD Pipelines and Runners|04. GitLab CI-CD Pipelines and Runners]]
 - 📂 [[Jenkins Pipelines and Shared Libraries|05. Jenkins Pipelines and Shared Libraries]]
 - 📂 [[Secret Management in CI CD Pipelines and Infrastructure|06. Secret Management in Pipelines]]
-- 📂 [[Repository Security, Secrets & Supply Chain Hardening|07. Repository Security, Secrets & Supply Chain Hardening]]
 
 ### 📂 [[Docker|07. Docker]]
 - 📂 [[Docker Engine Architecture, Containerd, Runc, and OCI Standards|01. Docker Engine Architecture and OCI Standards]]
@@ -242,9 +243,11 @@ DevOps
 ### 📂 [[DevSecOps|21. DevSecOps]]
 - 📂 [[Shift Left Security Culture and DevSecOps Engineering Standards|01. Shift Left Security Culture and DevSecOps Frameworks]]
 - 📂 [[Automated Sast, Dast, and Secret Scanning in CI CD Pipelines|02. Automated SAST and DAST in CI CD Pipelines]]
-- 📂 [[Infrastructure As Code (IaC) Security Linting and Policy Enforcement|03. Infrastructure As Code Security Linting and Guardrails]]
-- 📂 [[Software Supply Chain Security: SBOM Generation, SLSA, and Cosign Verification|04. Software Supply Chain Security SLSA, Cosign, and SBOM]]
-- 📂 [[Continuous Security Compliance, Audit Trails, and DevSecOps Runbooks|05. Continuous Compliance, Audit Trails, and DevSecOps Runbooks]]
+- 📂 [[CodeQL Static Application Security Testing (SAST) in GitHub Actions|03. CodeQL Static Analysis and Security Scanning SAST]]
+- 📂 [[Infrastructure As Code (IaC) Security Linting and Policy Enforcement|04. Infrastructure As Code Security Linting and Guardrails]]
+- 📂 [[Software Supply Chain Security: SBOM Generation, SLSA, and Cosign Verification|05. Software Supply Chain Security SLSA, Cosign, and SBOM]]
+- 📂 [[Artifact Provenance, GitHub Artifact Attestations, and SLSA|06. Supply Chain Attestation and Artifact Provenance]]
+- 📂 [[Continuous Security Compliance, Audit Trails, and DevSecOps Runbooks|07. Continuous Compliance, Audit Trails, and DevSecOps Runbooks]]
 
 ### 📂 [[Cloud-Native Security Automation|22. Cloud-Native Security Automation]]
 - 📂 [[Container Image Security Hardening and Vulnerability Scanning (trivy)|01. Container Image Security and Vulnerability Scanning]]
@@ -253,7 +256,22 @@ DevOps
 - 📂 [[Kubernetes Policy As Code: Open Policy Agent (gatekeeper) and Kyverno|04. Policy As Code with Open Policy Agent OPA and Kyverno]]
 - 📂 [[Cloud Security Posture Management (cspm) and Automated Remediation|05. Cloud Security Posture Management CSPM Automation]]
 
-### 📂 [[MLOps & Machine Learning Operations|23. MLOps & Machine Learning Operations]]
+### 📂 [[HashiCorp Vault|23. HashiCorp Vault]]
+- 📂 [[Vault Architecture, Storage Backends, and Raft Integrated Storage|01. Vault Architecture, Storage Backends, and Raft Integrated Storage]]
+- 📂 [[Seal, Unseal, Auto-Unseal, and Shamir Key Shares|02. Seal, Unseal, Auto-Unseal, and Shamir Key Shares]]
+- 📂 [[Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM|03. Authentication Methods - Kubernetes, AppRole, OIDC, and Cloud IAM]]
+- 📂 [[Policies, Tokens, Leases, and Identity|04. Policies, Tokens, Leases, and Identity]]
+- 📂 [[KV Secrets Engine and Secret Versioning|05. KV Secrets Engine and Secret Versioning]]
+- 📂 [[Dynamic Secrets Engines - Database and Cloud Credentials|06. Dynamic Secrets Engines - Database and Cloud Credentials]]
+- 📂 [[PKI Secrets Engine and Certificate Automation|07. PKI Secrets Engine and Certificate Automation]]
+- 📂 [[Transit Engine and Encryption as a Service|08. Transit Engine and Encryption as a Service]]
+- 📂 [[Vault Agent, Sidecar Injector, and CSI Provider|09. Vault Agent, Sidecar Injector, and CSI Provider]]
+- 📂 [[Vault Secrets Operator and External Secrets Integration|10. Vault Secrets Operator and External Secrets Integration]]
+- 📂 [[High Availability, Replication, and Disaster Recovery|11. High Availability, Replication, and Disaster Recovery]]
+- 📂 [[Audit Devices, Monitoring, and Production Hardening|12. Audit Devices, Monitoring, and Production Hardening]]
+- 📂 [[Vault Automation with Terraform and CI-CD Pipelines|13. Vault Automation with Terraform and CI-CD Pipelines]]
+
+### 📂 [[MLOps & Machine Learning Operations|24. MLOps & Machine Learning Operations]]
 - 📂 [[MLOps Architecture, Maturity Levels, and CI CD for Machine Learning|01. MLOps Architecture and ML Lifecycle Standards]]
 - 📂 [[Data Versioning, Pipeline Lineage, and Data Version Control (dvc)|02. Data Versioning and Lineage with DVC]]
 - 📂 [[Feature Stores Architecture (feast, Hopsworks) and Point in Time Joins|03. Feature Stores Architecture Feast and Hopsworks]]
@@ -298,4 +316,5 @@ DevOps
 - [[CDN Infrastructure]]
 - [[DevSecOps]]
 - [[Cloud-Native Security Automation]]
+- [[HashiCorp Vault]]
 - [[MLOps & Machine Learning Operations]]
